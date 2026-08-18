@@ -4,6 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
+	"io"
 	"net"
 	"net/http"
 	"os"
@@ -20,6 +21,13 @@ func main() {
 	host := flag.String("host", "0.0.0.0", "listen host")
 	port := flag.Int("port", 8787, "base listen port; auto-increments if occupied")
 	flag.Parse()
+
+	if existing := findExistingInstance(*port); existing > 0 {
+		fmt.Printf("[english-app] already running on http://127.0.0.1:%d, opening it in your browser...\n", existing)
+		openBrowser(fmt.Sprintf("http://127.0.0.1:%d", existing))
+		waitEnter(30 * time.Second)
+		return
+	}
 
 	paths := resolvePaths()
 	dbs, err := openDBs(paths)
@@ -44,6 +52,7 @@ func main() {
 	ln, actualPort, err := listenAuto(*host, *port, 100)
 	if err != nil {
 		fmt.Println("[english-app] fatal:", err)
+		waitEnter(60 * time.Second)
 		os.Exit(1)
 	}
 	if actualPort != *port {
@@ -56,6 +65,7 @@ func main() {
 
 	if err := http.Serve(ln, withCORS(mux)); err != nil {
 		fmt.Println("[english-app] serve error:", err)
+		waitEnter(60 * time.Second)
 		os.Exit(1)
 	}
 }
@@ -169,17 +179,73 @@ func ipFromAddr(a net.Addr) net.IP {
 }
 
 func openBrowser(url string) {
-	time.Sleep(300 * time.Millisecond)
-	var cmd *exec.Cmd
+	for attempt := 0; attempt < 3; attempt++ {
+		if attempt > 0 {
+			time.Sleep(500 * time.Millisecond)
+		}
+		if launchBrowser(url) {
+			return
+		}
+	}
+	fmt.Println("[browser] failed to open browser automatically, please visit:", url)
+}
+
+func launchBrowser(url string) bool {
+	var cmds []*exec.Cmd
 	switch runtime.GOOS {
 	case "windows":
-		cmd = exec.Command("rundll32", "url.dll,FileProtocolHandler", url)
+		cmds = []*exec.Cmd{
+			exec.Command("rundll32", "url.dll,FileProtocolHandler", url),
+			exec.Command("cmd", "/c", "start", "", url),
+			exec.Command("explorer.exe", url),
+		}
 	case "darwin":
-		cmd = exec.Command("open", url)
+		cmds = []*exec.Cmd{exec.Command("open", url)}
 	default:
-		cmd = exec.Command("xdg-open", url)
+		cmds = []*exec.Cmd{exec.Command("xdg-open", url)}
 	}
-	_ = cmd.Start()
+	for _, c := range cmds {
+		if err := c.Start(); err == nil {
+			return true
+		}
+	}
+	return false
+}
+
+func findExistingInstance(base int) int {
+	if base < 1 || base > 65535 {
+		base = 8787
+	}
+	client := &http.Client{Timeout: 400 * time.Millisecond}
+	for p := base; p <= base+10 && p <= 65535; p++ {
+		resp, err := client.Get(fmt.Sprintf("http://127.0.0.1:%d/health", p))
+		if err != nil {
+			continue
+		}
+		body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<16))
+		resp.Body.Close()
+		var h struct {
+			Service string `json:"service"`
+		}
+		if json.Unmarshal(body, &h) == nil && h.Service == "english-app" {
+			return p
+		}
+	}
+	return 0
+}
+
+func waitEnter(timeout time.Duration) {
+	fmt.Print("[press Enter to close] ")
+	ch := make(chan struct{})
+	go func() {
+		buf := make([]byte, 1)
+		_, _ = os.Stdin.Read(buf)
+		close(ch)
+	}()
+	select {
+	case <-ch:
+	case <-time.After(timeout):
+	}
 }
 
 func isLoopbackReq(r *http.Request) bool {

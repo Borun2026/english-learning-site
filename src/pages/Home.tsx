@@ -34,7 +34,7 @@ export default function Home() {
   if (!index) return <section className="card"><div className="hint">加载目录中…</div></section>
 
   const isUnitDone = (p: UnitProgress | undefined) =>
-    !!p && p.vocab && p.grammar.done && p.article && p.dialogue.done && p.listen.done && !!p.exam?.done
+    !!p && p.vocab && !!p.grammar?.done && p.article && !!p.dialogue?.done && !!p.listen?.done && !!p.exam?.done
 
   const progress = data.progress
   const doneUnits = Object.values(progress).filter(isUnitDone).length
@@ -153,7 +153,7 @@ export default function Home() {
 function unitDone(u: UnitDef): number {
   const p = loadData().progress[u.id]
   if (!p) return 0
-  const steps = [p.vocab, p.grammar.done, p.article, p.dialogue.done, p.listen.done, !!p.exam?.done]
+  const steps = [p.vocab, !!p.grammar?.done, p.article, !!p.dialogue?.done, !!p.listen?.done, !!p.exam?.done]
   return steps.filter(Boolean).length
 }
 

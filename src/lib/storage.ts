@@ -384,9 +384,9 @@ export function setProgress(unitId: string, patch: Partial<UnitProgress>) {
   d.progress[unitId] = {
     ...cur,
     ...patch,
-    grammar: { ...cur.grammar, ...(patch.grammar ?? {}) },
-    dialogue: { ...cur.dialogue, ...(patch.dialogue ?? {}) },
-    listen: { ...cur.listen, ...(patch.listen ?? {}) },
+    grammar: { ...(cur.grammar ?? {}), ...(patch.grammar ?? {}) },
+    dialogue: { ...(cur.dialogue ?? {}), ...(patch.dialogue ?? {}) },
+    listen: { ...(cur.listen ?? {}), ...(patch.listen ?? {}) },
     exam: mergedExam,
   }
   saveData(d)
