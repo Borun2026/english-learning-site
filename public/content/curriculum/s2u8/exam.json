@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u8",
+  "stage": 2,
+  "unitId": "s2u8",
+  "title": "真题演练 · 比较级与最高级",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 比较级与最高级。",
+  "questions": [
+    {
+      "q": "Tom is ___ than his brother.",
+      "options": [
+        "tall",
+        "taller",
+        "tallest",
+        "the tallest"
+      ],
+      "answer": 1,
+      "analysis": "两者比较用比较级,且有 than。",
+      "point": "g-s2u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This is ___ movie I have ever seen.",
+      "options": [
+        "good",
+        "better",
+        "best",
+        "the best"
+      ],
+      "answer": 3,
+      "analysis": "见过的最好的,用最高级且加 the。",
+      "point": "g-s2u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "My bike is ___ than yours.",
+      "options": [
+        "cheap",
+        "cheaper",
+        "cheapest",
+        "the cheapest"
+      ],
+      "answer": 1,
+      "analysis": "有 than,用比较级 cheaper。",
+      "point": "g-s2u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Physics is ___ difficult than Chinese.",
+      "options": [
+        "more",
+        "most",
+        "much",
+        "many"
+      ],
+      "answer": 0,
+      "analysis": "difficult 是多音节词,比较级用 more。",
+      "point": "g-s2u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He is as ___ as his father.",
+      "options": [
+        "taller",
+        "tall",
+        "tallest",
+        "the tallest"
+      ],
+      "answer": 1,
+      "analysis": "as...as 之间用形容词原级 tall。",
+      "point": "g-s2u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:He is more taller than me.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:He is taller than me.。比较级不能重复表达,不能 more 和 -er 同时用。",
+      "point": "g-s2u8",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

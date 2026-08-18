@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u6",
+  "stage": 5,
+  "unitId": "s5u6",
+  "title": "听力挑战 · 职场谈判",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "我方代表",
+      "line": "We appreciate your proposal, but we believe the current price exceeds the budget that our department has allocated.",
+      "lineCn": "我们感谢贵方的方案,但我们认为目前的价格超出了我们部门分配的预算。",
+      "grammar": [
+        { "name": "委婉拒绝句式", "note": "We appreciate... but... 先肯定再转折,是谈判中礼貌表达难处的常用框架;exceeds the budget 是超预算的标准搭配。" }
+      ],
+      "options": [
+        { "text": "The current price is above the department budget.", "correct": true, "feedback": "对方指出价格超出了部门预算。" },
+        { "text": "The current price is far below the budget limit.", "correct": false, "feedback": "价格是超出预算,而非低于预算。" },
+        { "text": "The proposal has been rejected without any discussion.", "correct": false, "feedback": "对方先肯定方案,再商谈价格问题。" }
+      ]
+    },
+    {
+      "speaker": "对方代表",
+      "line": "If you could offer a discount of ten percent, we would be willing to sign the contract this week.",
+      "lineCn": "如果贵方能提供百分之十的折扣,我们愿意本周签订合同。",
+      "grammar": [
+        { "name": "条件让步谈判句式", "note": "If you could... we would be willing to... 是虚拟语气条件句,提出条件以换取承诺,谈判关键句式。" }
+      ],
+      "options": [
+        { "text": "A ten percent discount would make them sign the contract this week.", "correct": true, "feedback": "给出九折优惠,对方就愿本周签约。" },
+        { "text": "No discount can possibly change their decision.", "correct": false, "feedback": "对方明确表示折扣能促成签约。" },
+        { "text": "The contract will not be signed until next year.", "correct": false, "feedback": "满足条件后本周即可签约。" }
+      ]
+    },
+    {
+      "speaker": "我方代表",
+      "line": "We are flexible on the delivery date, provided that the quality standards are strictly maintained.",
+      "lineCn": "我们对交货日期可以灵活处理,前提是质量标准必须严格执行。",
+      "grammar": [
+        { "name": "灵活妥协的表达", "note": "be flexible on 表在...上有弹性;provided that 引导前提条件,是谈判中给出让步的典型句式。" }
+      ],
+      "options": [
+        { "text": "The delivery date is negotiable if quality standards are met.", "correct": true, "feedback": "质量有保障的前提下,日期可以商量。" },
+        { "text": "The delivery date cannot be changed under any circumstances.", "correct": false, "feedback": "我方对日期是灵活的,可以调整。" },
+        { "text": "Quality standards are not important in this deal.", "correct": false, "feedback": "质量标准正是谈判的前提条件。" }
+      ]
+    },
+    {
+      "speaker": "对方代表",
+      "line": "Let me summarize our position: we need faster delivery, a lower price, and better after-sales service.",
+      "lineCn": "让我总结一下我们的立场:我们需要更快的交货、更低的价格和更好的售后服务。",
+      "grammar": [
+        { "name": "总结立场句式", "note": "Let me summarize our position 是谈判中总结要点的过渡句;三个并列名词短语清晰列出诉求。" }
+      ],
+      "options": [
+        { "text": "They demand quicker delivery, lower price, and better service.", "correct": true, "feedback": "对方的三点诉求:快交货、低价格、优售后。" },
+        { "text": "They demand a higher price for better quality.", "correct": false, "feedback": "诉求是更低价格,而非涨价。" },
+        { "text": "They only care about the product packaging.", "correct": false, "feedback": "诉求涉及交货、价格和售后,与包装无关。" }
+      ]
+    },
+    {
+      "speaker": "我方代表",
+      "line": "I think we have reached a consensus, so let us prepare the final agreement and send it to both parties.",
+      "lineCn": "我认为我们已经达成共识,那么让我们准备最终协议并发送给双方吧。",
+      "grammar": [
+        { "name": "达成共识的表达", "note": "reach a consensus 是达成一致的固定搭配;prepare the final agreement 是收尾行动,标志谈判成功结束。" }
+      ],
+      "options": [
+        { "text": "Both sides have agreed, and the final agreement will be prepared.", "correct": true, "feedback": "双方已达成共识,即将准备最终协议。" },
+        { "text": "The negotiation ended without any agreement.", "correct": false, "feedback": "谈判恰恰已达成共识。" },
+        { "text": "The final agreement will never be sent to the parties.", "correct": false, "feedback": "协议准备完毕后将发给双方。" }
+      ]
+    }
+  ]
+}

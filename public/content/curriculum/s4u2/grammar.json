@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u2",
+  "stage": 4,
+  "title": "从句嵌套",
+  "explanation": "## 从句嵌套:从句里套从句\n\n考研长难句最典型的特征是**多层嵌套**:定语从句里套宾语从句,状语从句里套定语从句。拆解时坚持\"从外到内逐层剥\"。\n\n## 三类嵌套结构\n\n1. **定语从句 + 宾语从句**:The news that he told me that he had won made me happy。\n2. **名词性从句内嵌定语**:What he said that impressed me most was his honesty。\n3. **状语从句内嵌从句**:Although he knew that the task was hard, he decided to try。\n\n## 拆解三原则\n\n1. **先定主句**:主句的谓语往往只有一个,其余谓语都属于从句。\n2. **连词成对匹配**:一个 that 引导一个从句,数清楚 that 的个数就知道有几层。\n3. **先内后外**:翻译时先译最内层从句,再逐层向外。\n\n## 高频考点\n\n- 多重 that 引导时注意区分:引导定语从句的 that 作成分,引导名词性从句的 that 不作成分。\n- what 引导主语从句等于\"the thing that\":What we need is time。\n- 嵌套中插入语会打断语流,如 The fact, as we all know, that he won is true。\n\n## 实战提示\n\n真题中 60% 的长难句是\"主句 + 定语从句 + 定语从句\"或\"主句 + 宾语从句 + 定语从句\"模式,先记模式再实战。",
+  "examples": [
+    { "en": "The fact that he didn't come to the meeting that we held yesterday surprised us.", "cn": "他没有来参加我们昨天举行的会议,这个事实让我们吃惊。", "note": "that 同位语从句 + that 定语从句,双层嵌套。" },
+    { "en": "I believe that the plan which he proposed will work.", "cn": "我相信他提出的计划会奏效。", "note": "宾语从句里套定语从句:which 修饰 plan。" },
+    { "en": "What impressed the visitors most was the museum that they visited.", "cn": "让游客印象最深的是他们参观的那座博物馆。", "note": "what 主语从句 + that 定语从句。" },
+    { "en": "Although he admitted that he had made mistakes, he refused to apologize.", "cn": "虽然他承认自己犯了错,却拒绝道歉。", "note": "让步状语从句里套宾语从句。" }
+  ],
+  "errors": [
+    { "wrong": "The book that I bought that is interesting costs much.", "right": "The book that I bought is interesting and costs much.", "note": "原句两个 that 堆叠且结构混乱,应合并成清晰的并列谓语。" },
+    { "wrong": "He said that he would come that he was free.", "right": "He said that he would come if he was free.", "note": "第二个 that 语义不清,应换成条件连词 if。" },
+    { "wrong": "What he said that impressed me was true.", "right": "What he said impressed me was true.", "note": "what 已经包含先行词,不能再用 that 引导定语从句。" }
+  ],
+  "quiz": [
+    { "q": "I know that the man ___ helped us is a teacher.", "options": ["who", "what", "which", "whom"], "answer": 0, "note": "宾语从句中嵌套定语从句,who 修饰 man。" },
+    { "q": "___ he said at the meeting was inspiring.", "options": ["That", "What", "Which", "Whether"], "answer": 1, "note": "what 引导主语从句,意为\"他说的内容\"。" },
+    { "q": "The question is whether the plan ___ he made is practical.", "options": ["which", "what", "who", "whom"], "answer": 0, "note": "表语从句中嵌套 which 定语从句。" },
+    { "q": "She asked me ___ I had finished the report that she gave me.", "options": ["whether", "what", "which", "who"], "answer": 0, "note": "whether 引导宾语从句表\"是否\",内嵌 that 定语从句。" },
+    { "q": "嵌套从句翻译时,正确的顺序是?", "options": ["先外后内", "先内后外", "随意", "只译主句"], "answer": 1, "note": "先译最内层从句,再逐层向外,符合中文语序。" }
+  ]
+}

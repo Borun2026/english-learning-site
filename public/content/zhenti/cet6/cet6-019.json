@@ -1,0 +1,60 @@
+{
+ "id": "cet6-019",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第1套) Passage 1",
+ "title": "Open data sharers are still in the minority in many fields",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 471,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Open data sharers are still in the minority in many fields. Although many researchers broadly agree that public a ccess to raw data would accelerate science, most are reluctant to post theresults of their own labors online.",
+  "Some communities have agreed to share online--geneticists, for example, post DNA sequences at the GenBan k repository , and astronomers are accustomed to accessing images of galaxies and stars from, say, the Sloan Di gital Sky Survey, a telescope that has observed some 500 million objects--but these remain the exception, not the rul e. Historically, scientists have objected to sharing for many reasons: it is a lot of work; until recently, good database s did no t exist; grant funders were not pushing for sharing; it has been difficult to agree on standards for formattin g data; and there is no agreed way to assign credit for data.",
+  "But the barriers are disappearing, in part because journals and funding agencies worldwide are encouraging scie ntists to make their data public. Last year, the Royal Society in London said in its report that scientists need to \"shif t away from a research culture where data is viewed as a private preserve\". Funding agencies note that data paid fo r with public money should be public information, and the scientific community is recognizing that data can now b e shared digitally in ways that were not possible before. To match the growing demand, services are springing up to make it easier to publish research products online and enable other researchers to discover and cite them.",
+  "Although calls to share data often concentrate on the moral advantages of sharing, the practice is not purely altr uistic . Researchers who share get plenty of personal benefits, including more connections with colleagues, i mproved visibility and increased citations. The most successful sharers--those whose data are downloaded and cite d the most often---get noticed, and their work gets used. For example, one of the most popular data sets on multidisc",
+  "7 10 iplinary repository Dryad is about wood density around the world; it has been downloaded 5,700 times. Co-author A my Zanne thinks that users probably range from climate-change researchers wanting to estimate how much carbon i s stored in biomass, to foresters looking for information on different grades of timber. \"I'd much prefer to have my d ata used by the maximum number of people to ask their own questions,\" she says. \"It's important to allow readers a nd reviewers to see exactly how you arrive at your results. Publishing data and code allows your science to be repro ducible.\"",
+  "Even people whose data are less popular can benefit. By making the effort to organize and label files so others c an understand them, scientists become more organized and better disciplined themselves, thus avoiding confusion lat er on."
+ ],
+ "questions": [
+  {
+   "q": "文中 “different” 最接近的意思是?",
+   "options": [
+    "差异的",
+    "加速，变快",
+    "人类能力的高度发展，文化，教养，文明",
+    "未成年"
+   ],
+   "answer": 0,
+   "analysis": "“different” 意为「差异的」。原文语境:Co-author A my Zanne thinks that users probably range from climate-change researchers wanting to estimate how much carbon i s stored in biomass, to foresters looking for informatio",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\"I'd much prefer to have my d ata used by the maximum ___ of people to ask their own questions,\" she says.",
+   "options": [
+    "exist",
+    "range",
+    "number",
+    "discover"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“\"I'd much prefer to have my d ata used by the maximum number of people to ask their own questions,\" she says.”。空格处应填入 “number”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,",
+    "Variability is crucially important for learning new skills",
+    "Open data sharers are still in the minority in many fields",
+    "Beginning in the late sixteenth century, it became fashionable for young aris"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Open data sharers are still in the minority in many fields.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

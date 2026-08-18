@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u8",
+  "stage": 3,
+  "unitId": "s3u8",
+  "title": "听力挑战 · 描述事故经过",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "警察",
+      "line": "Can you tell me what exactly happened at the crossing?",
+      "lineCn": "你能告诉我十字路口到底发生了什么吗?",
+      "grammar": [
+        { "name": "现在分词作时间状语", "note": "Hearing the horn 现在分词短语作状语,表示'听到喇叭时'。" }
+      ],
+      "options": [
+        { "text": "Hearing the horn, the driver stopped the van.", "correct": true, "feedback": "分词短语作时间状语,描述事发经过准确。" },
+        { "text": "The driver will stop at the next crossing.", "correct": false, "feedback": "将来时谈之后的动作,不是事发经过。" },
+        { "text": "The crossing is very busy every day.", "correct": false, "feedback": "一般现在时谈常态,没有描述事故。" }
+      ]
+    },
+    {
+      "speaker": "警察",
+      "line": "Was anyone badly hurt in the accident yesterday afternoon, Tom?",
+      "lineCn": "汤姆,昨天下午的事故里有人伤得很重吗?",
+      "grammar": [
+        { "name": "过去分词作状语", "note": "Shaken but safe 过去分词短语作伴随状语,补充说明伤情。" }
+      ],
+      "options": [
+        { "text": "Shaken but safe, everyone walked away.", "correct": true, "feedback": "分词短语作伴随状语,说明无人重伤。" },
+        { "text": "Everyone walks away every day.", "correct": false, "feedback": "一般现在时谈日常,与事故无关。" },
+        { "text": "The accident happened last year.", "correct": false, "feedback": "混淆事故时间,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "目击者",
+      "line": "How did the police react when they arrived at the scene?",
+      "lineCn": "警察到达现场后是怎么反应的?",
+      "grammar": [
+        { "name": "完成式分词作状语", "note": "Having closed the road 表示动作先于主句发生,作时间状语。" }
+      ],
+      "options": [
+        { "text": "Having closed the road, they checked the damage.", "correct": true, "feedback": "完成式分词表示先后顺序,描述反应准确。" },
+        { "text": "They will close the road tomorrow.", "correct": false, "feedback": "将来时谈计划,不是现场反应。" },
+        { "text": "The police arrived late last night.", "correct": false, "feedback": "谈到达时间,没有描述反应动作。" }
+      ]
+    }
+  ]
+}

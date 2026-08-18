@@ -1,0 +1,87 @@
+{
+  "id": "e-s4u9",
+  "stage": 4,
+  "unitId": "s4u9",
+  "title": "真题演练 · 翻译实战",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 翻译实战。",
+  "questions": [
+    {
+      "q": "The guild-like ownership structure is considered “restrictive” partly because it _____.",
+      "options": [
+        "prevents lawyers from gaining due profits",
+        "keeps lawyers from holding law-firm shares",
+        "aggravates the ethical situation in the trade",
+        "bans outsiders’ involvement in the profession"
+      ],
+      "answer": 3,
+      "analysis": "根据题干的关键词“restrictive”(限制性的)及专有名词theguild-likeownershipstructure(同业公会\n所有权结构),我们可以定位到原文第五段。选项A“防止律师获得应有的收益”是原文未提及的信息,故排\n除;选项B“防止律师在律师事务所参股”对应原文“ExceptintheDistrictofColumbia,non-lawyersmaynotown\nanyshareofalawfirm.”也就是说除哥伦比亚特区外,非职业律师不得在律师事务所参股。可明显看出选项与\n原文意思相反,故排除;选项C“使该行业的职业道德状况恶化”对应原文“butopponentsofchangeamongthe\nregulatorsinsistthatkeepingoutsidersoutofalawfirmisolateslawyersfromthepressuretomakemoneyratherthan\nserveclientsethically.”原文意思是“但监管部门中反对革新的人员坚持认为,不让外行参股律师事务所可以免\n除律师为了赚钱而不能以良好的职业道德服务客户的压力。”很明显选项与原文意思相反,故排除。\n而选项D正好与原文“ExceptintheDistrictofColumbia,non-lawyersmaynotownanyshareofalawfirm",
+      "point": "zhenti:z2014-reading-2:q4",
+      "source": "2014 考研英语一真题"
+    },
+    {
+      "q": "To which of the following would the author most probably agree? Text 2 All around the world, lawyers generate more hostility than the members of any other profession---with the possible exception of journalism. But there are few places where clients have more grounds for complaint than America. During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation. The best lawyers made skyscrapers-full of money, tempting ever more students to pile into law schools. But most law graduates never get a big-firm job. Many of them instead become the kind of nuisance-lawsuit filer that makes the tort system a costly nightmare. There are many reasons for this. One is the excessive costs of a legal education. There is just one path for a lawyer in most American states: a four-year undergraduate degree in some unrelated subject,then a three-year law degree at one of 200 law schools authorized by the American Bar Association and an expensive preparation for the bar exam. This leaves today’s average law-school graduate with $100,000 of debt on top of undergraduate debts. Law-school debt means that they have to work fearsomely hard. Reforming the system would help both lawyers and their customers. Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. One idea is to allow people to study law as an undergraduate degree. Another is to let students sit for the bar after only two years of law school. If the bar exam is truly a stern enough test for a would-be lawyer, those who can sit it earlier should be allowed to do so. Students who do not need the extra training could cut their debt mountain by a third. The other reason why costs are so high is the restrictive guild-like ownership structure of the business. Except in the District of Columbia, non-lawyers may not own any share of a law firm. This keeps fees high and innovation slow. There is pressure for change from within the profession, but opponents of change among the regulators insist that keeping outsiders out of a law firm isolates lawyers from the pressure to make money rather than serve clients ethically. In fact, allowing non-lawyers to own shares in law firms would reduce costs and improve services to customers, by encouraging law firms to use technology and to employ professional managers to focus on improving firms’ efficiency. After all, other countries, such as Australia and Britain, have started liberalizing their legal professions. America should follow.",
+      "options": [
+        "Unemployment benefits should not be made conditional.",
+        "The British welfare system indulges jobseekers’ laziness.",
+        "The jobseekers’ allowance has met their actual needs.",
+        "Osborne’s reforms will reduce the risk of unemployment."
+      ],
+      "answer": 0,
+      "analysis": "原文最后一段句首出现了明显表示作者思想感情的转折词“but”。选项B“英国的社会福利体系助长\n了求职者的懒惰”回归原文“…toindulgeyourfalsehood”,即放纵你的错误,而不是选项中的laziness,这属\n于典型的偷换概念。而选项C“求职者的津贴满足了他们的实际需求”,文章中并未提及津贴是否满足失业者\n需求的相关内容,属于无中生有。D项提到“奥斯本的改革将降低失业风险”,同样回归原文“Theprincipleof\nBritishwelfareisnolongerthatyoucaninsureyourselfagainsttheriskofunemploymentandreceiveunconditional\npaymentsifthedisasterhappens.”即英国福利政策的原则不再是确保你对抗失业的风险,也不保证失业来临时可\n以无条件地获得救助金。很明显选项D与原文表达的含义相反,故排除。\n而选项A“失业救助不应该是有条件的”,也就是说现在是有条件的,对应原文Instead,theclaimantreceivesa\ntime-limited“allowance,”conditionalonactivelyseekingajob,意思是:恰恰相反,申请者获得有时间限制“津贴”\n的条件是:积极地找工作,因此选项A为正确答案。\n三、长难句分析",
+      "point": "zhenti:z2014-reading-1:q5",
+      "source": "2014 考研英语一真题"
+    },
+    {
+      "q": "not...until 结构的标准译法是?",
+      "options": [
+        "在……之前",
+        "直到……才",
+        "自从……以来",
+        "从没……"
+      ],
+      "answer": 1,
+      "analysis": "not...until 译为\"直到……才\"。",
+      "point": "g-s4u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It is reported that the bridge will open next month. 最佳译文?",
+      "options": [
+        "它被报道桥下月开",
+        "据报道,大桥将于下月开通",
+        "桥被报告将开",
+        "这是报告桥开"
+      ],
+      "answer": 1,
+      "analysis": "It is reported that 译为\"据报道\"。",
+      "point": "g-s4u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "英文被动句在中文中最自然的处理是?",
+      "options": [
+        "必须加被",
+        "转主动或得体化处理",
+        "删主语",
+        "保持被字"
+      ],
+      "answer": 1,
+      "analysis": "中文多主动,被动转主动或\"得以/加以\"处理。",
+      "point": "g-s4u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "翻译时遇到超长定语从句应如何处理?",
+      "options": [
+        "整体前置",
+        "拆成独立小句",
+        "删掉不译",
+        "倒装"
+      ],
+      "answer": 1,
+      "analysis": "定语过长时拆分翻译,用重复先行词衔接。",
+      "point": "g-s4u9",
+      "source": "本单元语法课练习"
+    }
+  ]
+}

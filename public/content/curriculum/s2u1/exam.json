@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u1",
+  "stage": 2,
+  "unitId": "s2u1",
+  "title": "真题演练 · 进行时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 进行时。",
+  "questions": [
+    {
+      "q": "Listen! Someone ___ the piano.",
+      "options": [
+        "plays",
+        "is playing",
+        "played",
+        "play"
+      ],
+      "answer": 1,
+      "analysis": "listen 提示动作正在发生,用现在进行时。",
+      "point": "g-s2u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "At seven last night, I ___ my homework.",
+      "options": [
+        "do",
+        "am doing",
+        "was doing",
+        "did"
+      ],
+      "answer": 2,
+      "analysis": "过去某一时刻正在做,用 was doing。",
+      "point": "g-s2u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "My mother ___ dinner now.",
+      "options": [
+        "cook",
+        "cooks",
+        "is cooking",
+        "cooked"
+      ],
+      "answer": 2,
+      "analysis": "now 提示正在进行,用 is cooking。",
+      "point": "g-s2u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "They ___ TV when I came in.",
+      "options": [
+        "watch",
+        "are watching",
+        "were watching",
+        "watched"
+      ],
+      "answer": 2,
+      "analysis": "came in 是过去参照点,当时正在看用 were watching。",
+      "point": "g-s2u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "While she ___, the doorbell rang.",
+      "options": [
+        "cook",
+        "cooked",
+        "was cooking",
+        "cooking"
+      ],
+      "answer": 2,
+      "analysis": "while 后常用过去进行时 was cooking。",
+      "point": "g-s2u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I am knowing the answer.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I know the answer.。know 是状态动词,不能用进行时。",
+      "point": "g-s2u1",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

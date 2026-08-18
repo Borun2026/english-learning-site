@@ -1,0 +1,1312 @@
+{
+  "id": "a-s3u9",
+  "stage": 3,
+  "unitId": "s3u9",
+  "title": "Project Review: Where We Stand",
+  "newWords": [
+    "contend",
+    "duplicate",
+    "elevate",
+    "astonishment",
+    "dismay",
+    "empirical",
+    "prudent",
+    "dual",
+    "reconciliation",
+    "economically",
+    "refute",
+    "autonomy",
+    "persevere",
+    "culminate",
+    "timely"
+  ],
+  "sentences": [
+    {
+      "text": "In March the project will begin, and we will have found a solution to the old problem.",
+      "translation": "三月项目将启动,到那时我们将已经找到解决老问题的办法。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In March"
+        },
+        {
+          "label": "主干(主谓,一般将来时)",
+          "color": "#a8dab5",
+          "text": "the project will begin",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the project"
+            },
+            {
+              "role": "谓语",
+              "text": "will begin"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾,将来完成时)",
+          "color": "#a8dab5",
+          "text": "we will have found a solution to the old problem",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will have found"
+            },
+            {
+              "role": "宾语",
+              "text": "a solution to the old problem"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "将来完成时 will have done",
+          "note": "表示到将来某一时间点前已完成某事。",
+          "example": "By May, we will have finished the design.",
+          "exampleCn": "到五月,我们将已完成设计。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "we will have found a solution to the old problem",
+          "name": "将来完成时 will have done"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:到五月,我们将已完成设计。",
+          "answer": "By May, we will have finished the design.",
+          "note": "表示到将来某一时间点前已完成某事。",
+          "point": "将来完成时 will have done"
+        }
+      ]
+    },
+    {
+      "text": "By the end of June, we will have left the first stage behind.",
+      "translation": "到六月底,我们将已完成第一阶段。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "By the end of June"
+        },
+        {
+          "label": "主干(主谓宾,将来完成时)",
+          "color": "#a8dab5",
+          "text": "we will have left the first stage behind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will have left"
+            },
+            {
+              "role": "宾语",
+              "text": "the first stage"
+            },
+            {
+              "role": "状语",
+              "text": "behind"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "by + 时间点 与将来完成时",
+          "note": "by the end of... 是将来完成时的标志。",
+          "example": "By 2028, the city will have grown.",
+          "exampleCn": "到2028年,这座城市将已发展壮大。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "we will have left the first stage behind",
+          "name": "by + 时间点 与将来完成时"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:到2028年,这座城市将已发展壮大。",
+          "answer": "By 2028, the city will have grown.",
+          "note": "by the end of... 是将来完成时的标志。",
+          "point": "by + 时间点 与将来完成时"
+        }
+      ]
+    },
+    {
+      "text": "We have found one hard problem after another, but we never give up.",
+      "translation": "我们一个接一个地遇到难题,但我们从不放弃。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,现在完成时)",
+          "color": "#a8dab5",
+          "text": "We have found one hard problem after another",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "have found"
+            },
+            {
+              "role": "宾语",
+              "text": "one hard problem after another"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓,一般现在时)",
+          "color": "#a8dab5",
+          "text": "we never give up"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时 have found",
+          "note": "表过去经历,强调影响持续到现在。",
+          "example": "We have found many solutions.",
+          "exampleCn": "我们已找到许多解决办法。"
+        },
+        {
+          "name": "一般现在时表习惯",
+          "note": "we never give up 表一贯态度。",
+          "example": "We never stop trying.",
+          "exampleCn": "我们从不停止尝试。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "We have found one hard problem after another",
+          "name": "现在完成时 have found"
+        },
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "We have found one hard problem after another",
+          "name": "一般现在时表习惯"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们已找到许多解决办法。",
+          "answer": "We have found many solutions.",
+          "note": "表过去经历,强调影响持续到现在。",
+          "point": "现在完成时 have found"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我们从不停止尝试。",
+          "answer": "We never stop trying.",
+          "note": "we never give up 表一贯态度。",
+          "point": "一般现在时表习惯"
+        }
+      ]
+    },
+    {
+      "text": "Our team will complete the core module next week.",
+      "translation": "我们的团队下周将完成核心模块。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,一般将来时)",
+          "color": "#a8dab5",
+          "text": "Our team will complete the core module",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Our team"
+            },
+            {
+              "role": "谓语",
+              "text": "will complete"
+            },
+            {
+              "role": "宾语",
+              "text": "the core module"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "next week"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般将来时 will do",
+          "note": "表示将来发生的动作。",
+          "example": "She will join us next month.",
+          "exampleCn": "她下个月将加入我们。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "Our team will complete the core module",
+          "name": "一般将来时 will do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她下个月将加入我们。",
+          "answer": "She will join us next month.",
+          "note": "表示将来发生的动作。",
+          "point": "一般将来时 will do"
+        }
+      ]
+    },
+    {
+      "text": "Last month we saw a serious delay in delivery.",
+      "translation": "上个月我们在交付中遇到了严重延误。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Last month"
+        },
+        {
+          "label": "主干(主谓宾,一般过去时)",
+          "color": "#a8dab5",
+          "text": "we saw a serious delay in delivery",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "saw"
+            },
+            {
+              "role": "宾语",
+              "text": "a serious delay in delivery"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般过去时 saw",
+          "note": "表示过去发生的具体事件。",
+          "example": "We saw a problem last week.",
+          "exampleCn": "上周我们发现了一个问题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "we saw a serious delay in delivery",
+          "name": "一般过去时 saw"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:上周我们发现了一个问题。",
+          "answer": "We saw a problem last week.",
+          "note": "表示过去发生的具体事件。",
+          "point": "一般过去时 saw"
+        }
+      ]
+    },
+    {
+      "text": "At that time, we could not see the real cause of the problem.",
+      "translation": "当时,我们看不出问题的真正原因。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "At that time"
+        },
+        {
+          "label": "主干(主谓宾,情态动词过去式)",
+          "color": "#a8dab5",
+          "text": "we could not see the real cause of the problem",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "could not see"
+            },
+            {
+              "role": "宾语",
+              "text": "the real cause of the problem"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "情态动词 could 的过去用法",
+          "note": "could not 表\"不能\"。",
+          "example": "We could not agree then.",
+          "exampleCn": "那时我们无法达成一致。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "we could not see the real cause of the problem",
+          "name": "情态动词 could 的过去用法"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:那时我们无法达成一致。",
+          "answer": "We could not agree then.",
+          "note": "could not 表\"不能\"。",
+          "point": "情态动词 could 的过去用法"
+        }
+      ]
+    },
+    {
+      "text": "Now we know that the problem will not repeat, because the new system is strong.",
+      "translation": "现在我们知道了,这个问题不会再出现,因为新系统很可靠。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Now"
+        },
+        {
+          "label": "主干(主谓,一般现在时)",
+          "color": "#a8dab5",
+          "text": "we know",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "know"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the problem will not repeat"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "because the new system is strong"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "宾语从句 + 原因状语从句",
+          "note": "时态与时间状语呼应:now 用一般现在时。",
+          "example": "Now I know that he is right.",
+          "exampleCn": "现在我知道他是对的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "that the problem will not repeat",
+          "name": "宾语从句 + 原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:现在我知道他是对的。",
+          "answer": "Now I know that he is right.",
+          "note": "时态与时间状语呼应:now 用一般现在时。",
+          "point": "宾语从句 + 原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "By next quarter, we will have found every possible error.",
+      "translation": "到下季度,我们将已找出所有可能的错误。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "By next quarter"
+        },
+        {
+          "label": "主干(主谓宾,将来完成时)",
+          "color": "#a8dab5",
+          "text": "we will have found every possible error",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will have found"
+            },
+            {
+              "role": "宾语",
+              "text": "every possible error"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "将来完成时",
+          "note": "by next quarter 标志将来完成时。",
+          "example": "By Friday, we will have tested it.",
+          "exampleCn": "到周五,我们将已测试完毕。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "we will have found every possible error",
+          "name": "将来完成时"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:到周五,我们将已测试完毕。",
+          "answer": "By Friday, we will have tested it.",
+          "note": "by next quarter 标志将来完成时。",
+          "point": "将来完成时"
+        }
+      ]
+    },
+    {
+      "text": "We have put the customer first from the start of the project.",
+      "translation": "从项目开始起,我们就把客户放在第一位。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾宾补,现在完成时)",
+          "color": "#a8dab5",
+          "text": "We have put the customer first",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "have put"
+            },
+            {
+              "role": "宾语",
+              "text": "the customer"
+            },
+            {
+              "role": "宾补",
+              "text": "first"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "from the start of the project"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时 + 段时间状语",
+          "note": "from the start... 与完成时连用。",
+          "example": "We have worked here since March.",
+          "exampleCn": "自三月以来我们一直在这里工作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "We have put the customer first",
+          "name": "现在完成时 + 段时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:自三月以来我们一直在这里工作。",
+          "answer": "We have worked here since March.",
+          "note": "from the start... 与完成时连用。",
+          "point": "现在完成时 + 段时间状语"
+        }
+      ]
+    },
+    {
+      "text": "Would we succeed without the support of the office?",
+      "translation": "没有办公室的支持,我们能成功吗?",
+      "chunks": [
+        {
+          "label": "主干(主谓,虚拟语气)",
+          "color": "#a8dab5",
+          "text": "Would we succeed"
+        },
+        {
+          "label": "条件状语",
+          "color": "#8ab4f8",
+          "text": "without the support of the office"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "would + without 表虚拟条件",
+          "note": "would 表虚拟推测,without 引出假想条件。",
+          "example": "Would you win without practice?",
+          "exampleCn": "没有练习你能赢吗?"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "without the support of the office",
+          "name": "would + without 表虚拟条件"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:没有练习你能赢吗?",
+          "answer": "Would you win without practice?",
+          "note": "would 表虚拟推测,without 引出假想条件。",
+          "point": "would + without 表虚拟条件"
+        }
+      ]
+    },
+    {
+      "text": "I contend that the delay will not hurt the final result.",
+      "translation": "我主张,延误不会影响最终结果。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I contend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "contend"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the delay will not hurt the final result"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句",
+          "note": "contend 意为\"主张、争辩\"。",
+          "example": "He contends that the plan is sound.",
+          "exampleCn": "他主张这个计划是可靠的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "that the delay will not hurt the final result",
+          "name": "that 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他主张这个计划是可靠的。",
+          "answer": "He contends that the plan is sound.",
+          "note": "contend 意为\"主张、争辩\"。",
+          "point": "that 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "Our prudent plan will culminate in a timely success.",
+      "translation": "我们审慎的计划将以一次及时的成功告终。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "Our prudent plan will culminate",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Our prudent plan"
+            },
+            {
+              "role": "谓语",
+              "text": "will culminate"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in a timely success"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "culminate in 短语",
+          "note": "意为\"以……告终\"。",
+          "example": "The effort culminates in victory.",
+          "exampleCn": "努力最终取得胜利。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "Our prudent plan will culminate",
+          "name": "culminate in 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:努力最终取得胜利。",
+          "answer": "The effort culminates in victory.",
+          "note": "意为\"以……告终\"。",
+          "point": "culminate in 短语"
+        }
+      ]
+    },
+    {
+      "text": "We will duplicate the test to confirm the result.",
+      "translation": "我们将重复测试以确认结果。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,一般将来时)",
+          "color": "#a8dab5",
+          "text": "We will duplicate the test",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will duplicate"
+            },
+            {
+              "role": "宾语",
+              "text": "the test"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "to confirm the result"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to confirm the result 表目的。",
+          "example": "We test again to confirm the data.",
+          "exampleCn": "我们再次测试以确认数据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "We will duplicate the test",
+          "name": "不定式作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们再次测试以确认数据。",
+          "answer": "We test again to confirm the data.",
+          "note": "to confirm the result 表目的。",
+          "point": "不定式作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "The new version will elevate the quality of the product.",
+      "translation": "新版本将提升产品的质量。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The new version will elevate the quality of the product",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The new version"
+            },
+            {
+              "role": "谓语",
+              "text": "will elevate"
+            },
+            {
+              "role": "宾语",
+              "text": "the quality of the product"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "elevate 意为\"提升\"。",
+          "example": "Training elevates the team level.",
+          "exampleCn": "培训提升团队水平。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "The new version will elevate the quality of the product",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:培训提升团队水平。",
+          "answer": "Training elevates the team level.",
+          "note": "elevate 意为\"提升\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "To our astonishment, the old method will still work well.",
+      "translation": "令我们惊讶的是,旧方法仍然很有效。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "To our astonishment"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the old method will still work well",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the old method"
+            },
+            {
+              "role": "谓语",
+              "text": "will still work"
+            },
+            {
+              "role": "状语",
+              "text": "well"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "to one's + 情感名词",
+          "note": "to our astonishment 意为\"令我们惊讶的是\"。",
+          "example": "To my joy, he agreed.",
+          "exampleCn": "令我高兴的是,他同意了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "the old method will still work well",
+          "name": "to one's + 情感名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:令我高兴的是,他同意了。",
+          "answer": "To my joy, he agreed.",
+          "note": "to our astonishment 意为\"令我们惊讶的是\"。",
+          "point": "to one's + 情感名词"
+        }
+      ]
+    },
+    {
+      "text": "To our dismay, the second test will fail again.",
+      "translation": "令我们沮丧的是,第二次测试将再次失败。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "To our dismay"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the second test will fail again",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the second test"
+            },
+            {
+              "role": "谓语",
+              "text": "will fail"
+            },
+            {
+              "role": "状语",
+              "text": "again"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "to one's + 情感名词",
+          "note": "to our dismay 意为\"令我们沮丧的是\"。",
+          "example": "To his dismay, the plan failed.",
+          "exampleCn": "令他沮丧的是,计划失败了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "the second test will fail again",
+          "name": "to one's + 情感名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:令他沮丧的是,计划失败了。",
+          "answer": "To his dismay, the plan failed.",
+          "note": "to our dismay 意为\"令我们沮丧的是\"。",
+          "point": "to one's + 情感名词"
+        }
+      ]
+    },
+    {
+      "text": "An empirical study will support our claim.",
+      "translation": "实证研究将支持我们的说法。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An empirical study will support our claim",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An empirical study"
+            },
+            {
+              "role": "谓语",
+              "text": "will support"
+            },
+            {
+              "role": "宾语",
+              "text": "our claim"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "empirical 意为\"实证的、以经验为依据的\"。",
+          "example": "Data support the claim.",
+          "exampleCn": "数据支持这一说法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "An empirical study will support our claim",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:数据支持这一说法。",
+          "answer": "Data support the claim.",
+          "note": "empirical 意为\"实证的、以经验为依据的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The dual purpose of the plan is to save time and reduce cost.",
+      "translation": "该计划的双重目的是节省时间和降低成本。",
+      "chunks": [
+        {
+          "label": "主干(主系表前半)",
+          "color": "#a8dab5",
+          "text": "The dual purpose of the plan is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The dual purpose of the plan"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语(不定式)",
+          "color": "#9fd8e8",
+          "text": "to save time and reduce cost"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "to 不定式说明主语内容。",
+          "example": "The goal is to finish early.",
+          "exampleCn": "目标是早点完成。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "The dual purpose of the plan is",
+          "name": "不定式作表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:目标是早点完成。",
+          "answer": "The goal is to finish early.",
+          "note": "to 不定式说明主语内容。",
+          "point": "不定式作表语"
+        }
+      ]
+    },
+    {
+      "text": "A reconciliation with the client will come after the review.",
+      "translation": "与客户的调解将在评审之后进行。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A reconciliation with the client"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will come"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "after the review"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓结构",
+          "note": "reconciliation 意为\"和解、调解\"。",
+          "example": "Peace comes after the talk.",
+          "exampleCn": "谈话之后迎来和平。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "A reconciliation with the client",
+          "name": "主谓结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:谈话之后迎来和平。",
+          "answer": "Peace comes after the talk.",
+          "note": "reconciliation 意为\"和解、调解\"。",
+          "point": "主谓结构"
+        }
+      ]
+    },
+    {
+      "text": "Economically, the project will bring a clear benefit.",
+      "translation": "从经济角度看,该项目将带来明显的好处。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Economically"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the project will bring a clear benefit",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the project"
+            },
+            {
+              "role": "谓语",
+              "text": "will bring"
+            },
+            {
+              "role": "宾语",
+              "text": "a clear benefit"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词作评注性状语",
+          "note": "economically 表示\"从经济角度看\"。",
+          "example": "Economically, the plan makes sense.",
+          "exampleCn": "从经济角度看,这个计划是合理的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "the project will bring a clear benefit",
+          "name": "副词作评注性状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:从经济角度看,这个计划是合理的。",
+          "answer": "Economically, the plan makes sense.",
+          "note": "economically 表示\"从经济角度看\"。",
+          "point": "副词作评注性状语"
+        }
+      ]
+    },
+    {
+      "text": "We will refute the doubt with real evidence.",
+      "translation": "我们将用真实证据反驳质疑。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will refute the doubt",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will refute"
+            },
+            {
+              "role": "宾语",
+              "text": "the doubt"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with real evidence"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "with 短语作方式状语",
+          "note": "with real evidence 表示方式。",
+          "example": "She answered with confidence.",
+          "exampleCn": "她充满信心地回答。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "We will refute the doubt",
+          "name": "with 短语作方式状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她充满信心地回答。",
+          "answer": "She answered with confidence.",
+          "note": "with real evidence 表示方式。",
+          "point": "with 短语作方式状语"
+        }
+      ]
+    },
+    {
+      "text": "The team will enjoy more autonomy in the next stage.",
+      "translation": "团队在下一阶段将享有更多自主权。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The team will enjoy more autonomy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The team"
+            },
+            {
+              "role": "谓语",
+              "text": "will enjoy"
+            },
+            {
+              "role": "宾语",
+              "text": "more autonomy"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in the next stage"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "autonomy 意为\"自主权\"。",
+          "example": "Each team enjoys some freedom.",
+          "exampleCn": "每个团队都享有一定自由。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "The team will enjoy more autonomy",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:每个团队都享有一定自由。",
+          "answer": "Each team enjoys some freedom.",
+          "note": "autonomy 意为\"自主权\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "We will persevere until the end of the project.",
+      "translation": "我们将坚持到项目结束。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We will persevere",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will persevere"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "until the end of the project"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "until 介词短语作时间状语",
+          "note": "until the end of... 意为\"直到……结束\"。",
+          "example": "Stay until the end of the show.",
+          "exampleCn": "待到演出结束。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u9",
+          "phrase": "until the end of the project",
+          "name": "until 介词短语作时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:待到演出结束。",
+          "answer": "Stay until the end of the show.",
+          "note": "until the end of... 意为\"直到……结束\"。",
+          "point": "until 介词短语作时间状语"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u9",
+      "name": "将来完成时 will have done",
+      "note": "表示到将来某一时间点前已完成某事。",
+      "sourceExample": "In March the project will begin, and we will have found a solution to the old problem.",
+      "sourceExampleCn": "三月项目将启动,到那时我们将已经找到解决老问题的办法。"
+    },
+    {
+      "grammarId": "g-s3u9",
+      "name": "by + 时间点 与将来完成时",
+      "note": "by the end of... 是将来完成时的标志。",
+      "sourceExample": "By the end of June, we will have left the first stage behind.",
+      "sourceExampleCn": "到六月底,我们将已完成第一阶段。"
+    },
+    {
+      "grammarId": "g-s3u9",
+      "name": "现在完成时 have found",
+      "note": "表过去经历,强调影响持续到现在。",
+      "sourceExample": "We have found one hard problem after another, but we never give up.",
+      "sourceExampleCn": "我们一个接一个地遇到难题,但我们从不放弃。"
+    },
+    {
+      "grammarId": "g-s3u9",
+      "name": "一般现在时表习惯",
+      "note": "we never give up 表一贯态度。",
+      "sourceExample": "We have found one hard problem after another, but we never give up.",
+      "sourceExampleCn": "我们一个接一个地遇到难题,但我们从不放弃。"
+    },
+    {
+      "grammarId": "g-s3u9",
+      "name": "一般将来时 will do",
+      "note": "表示将来发生的动作。",
+      "sourceExample": "Our team will complete the core module next week.",
+      "sourceExampleCn": "我们的团队下周将完成核心模块。"
+    }
+  ]
+}

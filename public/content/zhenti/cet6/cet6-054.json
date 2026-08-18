@@ -1,0 +1,61 @@
+{
+ "id": "cet6-054",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年7月 · 2020年7月英语六级真题(组合卷) Passage 2",
+ "title": "Is hunting good or bad for the environment",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 437,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Is hunting good or bad for the environment? Like so many hot button issues, the answer to this question depends upon who you ask. On the one hand, some say, nothing could be more natural than hunting, and indeed just about every animal species--including humans--has been either predator or prey at some point in its evolution. And, ironic as it sounds, since humans have wiped out many animal predators, some see hunting as a natural way to reduce the herds of prey animals that now reproduce beyond the environments carrying capacity.",
+  "On the other hand, many environmental and animal advocates see hunting as savage, arguing that it is morally wrong to kill animals, regardless of practical considerations. According to Glenn Kirk of the California-based The Animals Voice, hunting \" causes immense suffering to individual wild animals...\" and is \" irrationally cruel because unlike natural predation , hunters kill for pleasure...\" He adds that, despite hunters claims that hunting keeps wildlife populations in balance, hunters license fees are used to \" manipulate a few game species into overpopulation at the expense of a much larger number of non-game species, resulting in the loss of biological diversity, genetic integrity and ecological balance.\"",
+  "Beyond moral issues, others contend that hunting is not practical. According to the Humane Society of the United States, the vast majority of hunted species--such as waterfowl, rabbits, upland birds and mourning doves--\" provide minimal nutrition and do not require population control.\"",
+  "Author Gary E. Varner suggests in his book, In Natures Interests, that some types of hunting may be morally justifiable while others may not be. Hunting \" designed to secure the aggregate welfare of the target species, the integrity of its ecosystem, or both \" --what Varner terms \" therapeutic hunting\" --is defensible, while subsistence and sport hunting--both of which only benefit human beings--is not.",
+  "Regardless of ones individual stance, fewer Americans hunt today than in recent history. Data gathered by the U.S. Fish & Wildlife Service in 2006 show that only five percent of Americans-- some 12.5 million individuals--consider themselves hunters today, down from nine percent in 2001 and 15 percent in 1996.",
+  "Public support for hunting, however, is on the rise. A 2007 survey by Responsive Management Inc. found that eighty percent of respondents agreed that \" hunting has a legitimate place in modern society,\" and the percentage of Americans indicating disapproval of hunting declined from 22 percent in 1995 to 16 percent in 2007.",
+  "Perhaps matching the trend among the public, green leaders are increasingly advocating cooperation between hunters and environmental groups: After all, both deplore urban sprawl and habitat destruction."
+ ],
+ "questions": [
+  {
+   "q": "文中 “recent” 最接近的意思是?",
+   "options": [
+    "多样性",
+    "需要",
+    "许可，执照",
+    "最近的"
+   ],
+   "answer": 3,
+   "analysis": "“recent” 意为「最近的」。原文语境:Regardless of ones individual stance, fewer Americans hunt today than in recent history.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Fish & Wildlife ___ in 2006 show that only five percent of Americans-- some 12.5 million individuals--consider themselves hunters today, down from nine percent in 2001 and 15 percent in 1996.",
+   "options": [
+    "evolution",
+    "Service",
+    "balance",
+    "Management"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Fish & Wildlife Service in 2006 show that only five percent of Americans-- some 12.5 million individuals--consider themselves hunters today, down from nine percent in 2001 and 15 percent in 1996.”。空格处应填入 “Service”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual",
+    "Is hunting good or bad for the environment",
+    "Facing water shortages and escalating fertilizer costs, farmers in developing",
+    "Since American idol star Taryn Southern started composing music with AI in 20"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Is hunting good or bad for the environment?”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

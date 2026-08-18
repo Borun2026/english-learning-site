@@ -1,0 +1,59 @@
+{
+ "id": "cet6-014",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第1套) Passage 2",
+ "title": "Twenty years ago, the Urban Land Institute defined the two types of cities th...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 429,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated around standard 9-5 business hours and large metropolitan areas that ran all 24 hours of the day. Analyzing and comparing cities using the lens of this basic divide gives interesting context to how investment capital flows and housing prices have shifted.",
+  "In recent years, many mid-sized cities have begun to adopt a middle-of-the-road approach incorporating the excitement and opportunity of large cities with small cities' quiet after midnight.These18-hour cities are beginning to make waves in real estate rankings and attract more real estate investment. What is underlying this new movement in real estate, and why do these cities have so much appeal?",
+  "18-hour cities combine the best of 24-hour and 9-5 cities, which contributes to downtown revitalization. For decades, many downtown cores in small to mid-sized cities were abandoned after work hours by workers who lived in the suburbs. Movement out of city centers was widespread, and downtown tenants were predominantly made up of the working poor. This generated little commerce for downtown businesses in the evenings, which made business and generating tax revenue for municipal upkeep difficult. With the rise of a new concept in urban planning that aims to make life easier and more convenient, increasing popularity for urban areas that caused the real estate pushes, in major cities like San Francisco or New York, has inspired a type of forward thinking urbanity and in smaller cities",
+  "Transforming downtown areas so that they incorporate modern housing and improved walkability to local restaurants, retail, and entertainment -especially when combined with improved infrastructure for cyclists and public transit-makes them appeal to a more affluent demographic. These adjustments encourage employers in the knowledge and talent industries to keep their offices downtown. Access to foot traffic and proximity to transit allow the type of entertainment-oriented businesses such as bars and restaurants to stay open later, which attracts both younger, creative workers and baby boomers nearing retirement alike. Because of their smaller size, most keep hours that allow people to enjoy themselves, then have some quiet after midnight, as opposed to large major cities like New York, where the buzz of activity is ongoing.",
+  "These 18-hour cities are rapidly on the rise and offer great opportunities for homeowner investment. In many of these cities such as Denver, a diverse and vigorous economy attracted to the urban core has offered stable employment for residents. The right urban mix has propped up home occupancy, increased property values, and attracted significant investment capital."
+ ],
+ "questions": [
+  {
+   "q": "文中 “employment” 最接近的意思是?",
+   "options": [
+    "人口统计学的",
+    "职业",
+    "基础结构， 基础设施",
+    "有趣的"
+   ],
+   "answer": 1,
+   "analysis": "“employment” 意为「职业」。原文语境:In many of these cities such as Denver, a diverse and vigorous economy attracted to the urban core has offered stable employment for residents.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated ___ standard 9-5 business hours and large metropolitan areas that ran all 24 hours of the day.",
+   "options": [
+    "stable",
+    "around",
+    "beginning",
+    "capital"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated around standard 9-5 business hours and large metropolitan areas that ran all 24 hours of the day.”。空格处应填入 “around”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Twenty years ago, the Urban Land Institute defined the two types of cities th",
+    "How can one person enjoy good health, while another person looks old before h",
+    "Degradation of the world's natural resources by humans is rapidly outpacing t",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Twenty years ago, the Urban Land Institute defined the two types of cities that dominated the US landscape: smaller cities that operated around standard 9-5 bus”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

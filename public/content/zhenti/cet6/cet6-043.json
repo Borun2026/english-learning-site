@@ -1,0 +1,60 @@
+{
+ "id": "cet6-043",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第1套) Passage 1",
+ "title": "Professor Stephen Hawking has warned that the creation of powerful artifcial ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 424,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Professor Stephen Hawking has warned that the creation of powerful artifcial intelligence (AI) will be \"either the best, or the worst thing, ever to happen to humanity\", and praised the creation of an academic institute dedicated to researching the future of intelligence as \" crucial to the future of our civilisation and our species\".",
+  "Hawking was speaking at the opening of the Leverhulme Centre for the Future of Intelligence(LCFI) at Cambridge University, a multi-disciplinary institute that will attempt to tackle some of the open-ended questions raised by the rapid pace of development in AI research. \"We spend a great deal of time studying history,\" Hawking said, \"which, let's face it, is mostly the history of stupidity. So it's a welcome change that people are studying instead the future of intelligence.\"",
+  "While the world-renowned physicist has often been cautious about AI, raising concerns that humanity could be the architect of its own destruction if it creates a super-intelligence with a will of its own, he was also quick to highlight the positives that AI research can bring. \"The potential benefits of creating intelligence are huge,\" he said. \"We cannot predict what we might achieve when our own minds are amplified by AI. Perhaps with the tools of this new technological revolution, we will be able to undo some of the damage done to the natural world by the last one--industrialisation. And surely we will aim to finally eradicate disease and poverty. And every aspect of our lives will be transformed. In short, success in creating AI could be the biggest event in the history of our civilisation.\"",
+  "Huw Price, the centre's academic director and the Bertrand Russell professor of philosophy at Cambridge University, where Hawking is also an academic, said that the centre came about partially as a result of the university's Centre for Existential Risk. That institute examined a wider range of potential problems for humanity, while the LCFI has a narrow focus.",
+  "AI pioneer Margaret Boden, professor of cognitive science at the University of Sussex, praised the progress of such discussions. As recently as 2009, she said, the topic wasn't taken seriously, even among AI researchers. \"AI is hugely exciting,\" she said, \"but it has limitations, which present grave dangers given uncritical use.\"",
+  "The academic community is not alone in warning about the potential dangers of AI as well as the potential benefits. A number of pioneers from the technology industry, most famously the entrepreneur Elon Musk, have also expressed their concerns about the damage that a super-intelligent AI could do to humanity."
+ ],
+ "questions": [
+  {
+   "q": "文中 “industry” 最接近的意思是?",
+   "options": [
+    "共计，达…之数",
+    "生物的种",
+    "发生",
+    "工业，产业"
+   ],
+   "answer": 3,
+   "analysis": "“industry” 意为「工业，产业」。原文语境:A number of pioneers from the technology industry, most famously the entrepreneur Elon Musk, have also expressed their concerns about the damage that a super-intelligent AI could d",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:That institute examined a wider range of potential problems for humanity, while the LCFI has a ___ focus.",
+   "options": [
+    "narrow",
+    "instead",
+    "super",
+    "mostly"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“That institute examined a wider range of potential problems for humanity, while the LCFI has a narrow focus.”。空格处应填入 “narrow”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual",
+    "Scientists have created by accident an enzyme () that breaks down plastic dri",
+    "Professor Stephen Hawking has warned that the creation of powerful artifcial",
+    "These days, nobody needs to cook"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Professor Stephen Hawking has warned that the creation of powerful artifcial intelligence (AI) will be \"either the best, or the worst thing, ever to happen to h”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

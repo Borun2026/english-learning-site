@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u4",
+  "stage": 3,
+  "title": "非谓语作状语",
+  "explanation": "## 非谓语作状语的三种形式\n\n分词(doing/done)与不定式(to do)都可以作状语,用来表示时间、原因、条件、结果、方式、目的等,作用是**让句子更简洁**。\n\n## 现在分词 doing(主动)\n\n表示与主语构成主动关系:表伴随/方式,如 He sat there reading a book(他坐在那里看书);表原因,如 Being tired, I went to bed early(因为累了,我早早上床);表时间,如 Hearing the news, she cried(听到消息,她哭了)。\n\n## 过去分词 done(被动)\n\n表示与主语构成被动关系:如 Given more time, we can finish it(如果给更多时间,我们能完成);Seen from the hill, the city looks beautiful(从山上看,城市很美)。注意分词逻辑主语必须是句子的主语。\n\n## 不定式 to do(目的、结果)\n\n表目的:He worked hard to support his family;表出乎意料的结果:He rushed to school only to find it closed。\n\n## 易错点\n\n1. 分词与主语不匹配会产生\"悬垂分词\",如 Walking in the park, the flowers were beautiful(错误,花不会走路)。\n2. 表目的要用 to do,表原因优先用分词。",
+  "examples": [
+    { "en": "Hearing the good news, they jumped with joy.", "cn": "听到这个好消息,他们高兴得跳了起来。", "note": "现在分词表时间,相当于 When they heard..." },
+    { "en": "Given more time, I could have done it better.", "cn": "如果时间再多一点,我本可以做得更好。", "note": "过去分词表条件,given 含有被动意味。" },
+    { "en": "He worked day and night to earn more money.", "cn": "他日夜工作以赚更多的钱。", "note": "不定式表目的,意为\"为了\"。" },
+    { "en": "She ran all the way, her heart beating fast.", "cn": "她一路跑着,心跳得很快。", "note": "her heart beating 是独立主格结构,保证逻辑主语一致。" }
+  ],
+  "errors": [
+    { "wrong": "Walking in the park, the flowers were beautiful.", "right": "Walking in the park, I saw beautiful flowers.", "note": "悬垂分词:分词的逻辑主语必须是句子主语。" },
+    { "wrong": "To be tired, he went to bed early.", "right": "Being tired, he went to bed early.", "note": "表原因用分词 Being,不用 to do。" },
+    { "wrong": "Seen from the hill, we found the city beautiful.", "right": "Seen from the hill, the city looks beautiful.", "note": "seen 的逻辑主语是 city,不能是 we。" }
+  ],
+  "quiz": [
+    { "q": "___ the exam, she felt relaxed.", "options": ["Passing", "Passed", "Having passed", "Pass"], "answer": 2, "note": "先考完试再放松,用 Having passed 表动作先后。" },
+    { "q": "___ in the rain, the clothes got wet.", "options": ["Leaving", "Left", "Leave", "To leave"], "answer": 1, "note": "clothes 被留在雨中,用过去分词 Left。" },
+    { "q": "He studied hard ___ the test.", "options": ["pass", "passed", "to pass", "passing"], "answer": 2, "note": "不定式表目的,\"为了通过考试\"。" },
+    { "q": "___ from the top, the lake is like a mirror.", "options": ["Seeing", "Seen", "To see", "See"], "answer": 1, "note": "湖是被看的,用过去分词 Seen。" },
+    { "q": "Weather ___, we will go hiking tomorrow.", "options": ["permits", "permitting", "permitted", "permit"], "answer": 1, "note": "独立主格结构:名词 + 分词。" }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+ "id": "cet6-112",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第2套) Passage 2",
+ "title": "GDP growth is not a good indicator of how well a country is performing, and s...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 445,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "GDP growth is not a good indicator of how well a country is performing, and should not be the primary goal of governments. Unlimited growth is not sustainable and economic thinking is moving toward the idea that we should aim for sustainability in our economic models. But while a sustainable economy is vital to our future, it is a means to an end, not an end in itself.",
+  "The idea that governments should focus on happiness has its critics. There are concerns about how happiness can be measured. Is happiness not a fleeting and subjective psychological state? Don't different people experience different levels of happiness? Even on the broadest interpretation of \"happiness\" as prosperity or \"life satisfaction\", people want different things.",
+  "Of course, governments cannot impose life satisfaction on citizens. But our happiness relies on collaborative efforts as a society. A government's obligation lies in creating conditions that promote prosperity. And there is good reason to suppose that such conditions exist, are globally applicable, and are discoverable through research.",
+  "In a recently published article, philosopher Julian Baggini suggests we should focus on \"real wealth\" for citizens, which does not depend on GDP growth. Access is key: people do not need to own, but rather access things that enable them to live well. Technological advances and changes in social behavior enable us to make more efficient use of the assets that we already have. And focusing on access to the resources people need to live better lives could help reduce inequality.",
+  "As far as it goes, this has much in common with proposals tabled by \"happiness\" advocates. But it sets the bar far too low for what governments can and should be doing for their citizens.",
+  "For example, it's not clear how a \"real wealth\" economy would remedy the epidemic of mental ill-health that",
+  "plagues our society. In Western countries, at least -- poor mental health is more detrimental to wellbeing than",
+  "poverty. Over and above a vastly improved provision of therapeutic mental healthcare, there are preventative",
+  "measures for improving mental health that governments could and should adopt. The WHO recommends establishing",
+  "institutions that facilitate community participation -- educational programs and interventions that provide skills for",
+  "promoting mental wellbeing. It says a lot, however, that the WHO feels the need to appeal to the economic benefits",
+  "of improving mental health to persuade governments that the cost of taking proposed measures is justified. As long",
+  "as the economy is their priority, governments need go no further than ensuring citizens' continued productivity.",
+  "To demand that governments set the \"happiness\" of citizens as their highest priority is to demand that they view",
+  "citizens as ends in themselves."
+ ],
+ "questions": [
+  {
+   "q": "文中 “Western” 最接近的意思是?",
+   "options": [
+    "西方的，西部的",
+    "宁可，宁愿",
+    "健康，健康状况",
+    "可适用的"
+   ],
+   "answer": 0,
+   "analysis": "“Western” 意为「西方的，西部的」。原文语境:In Western countries, at least -- poor mental health is more detrimental to wellbeing than poverty.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:And focusing on access to the resources people need to live ___ lives could help reduce inequality.",
+   "options": [
+    "better",
+    "primary",
+    "educational",
+    "efficient"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“And focusing on access to the resources people need to live better lives could help reduce inequality.”。空格处应填入 “better”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "A few weeks ago, a well-meaning professor tried to explain the physiological",
+    "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,",
+    "GDP growth is not a good indicator of how well a country is performing, and s",
+    "In recent years, the food industry has increased its use of labels"
+   ],
+   "answer": 2,
+   "analysis": "本文以“GDP growth is not a good indicator of how well a country is performing, and should not be the primary goal of governments.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

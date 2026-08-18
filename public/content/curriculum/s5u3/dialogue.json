@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u3",
+  "stage": 5,
+  "unitId": "s5u3",
+  "scene": "季度销售数据讨论会",
+  "goal": "在数据讨论会上清晰讲解图表数据,并从容回应与会者的质疑",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "部门主管 Ms. Grant",
+      "line": "Thank you all for coming. Let us begin with the quarterly chart in front of you. Could you walk us through the overall trend at a glance?",
+      "lineCn": "感谢各位出席。我们先来看大家面前的季度图表。你能带我们一眼看出总体趋势吗?",
+      "grammar": [
+        { "name": "Walk us through", "note": "口语化但正式的图表讲解指令:walk through 意为“逐项讲解”,后面接图表或数据。" }
+      ],
+      "options": [
+        { "text": "Certainly. As you can see, revenue climbed steadily over the first two quarters, then levelled off in the third before surging again in December.", "textCn": "当然。大家可以看到,营收前两季度稳步攀升,第三季度趋于平稳,十二月再次激增。", "feedback": "climb steadily、level off、surge 等图表动词精准连贯,开头就抓人。", "next": "n2" },
+        { "text": "So the line goes up, then it goes flat, and then it goes up a lot at the end.", "textCn": "线先是往上走,然后走平,最后又涨了很多。", "feedback": "goes up、goes flat 太随意,缺少图表描述的核心动词,与会者听不出细节。", "next": "n3" },
+        { "text": "The chart is a bit complicated, so I will just read out the numbers one by one.", "textCn": "图表有点复杂,我就一个数字一个数字念吧。", "feedback": "逐个数念数字无法呈现趋势,说明你还没有抓住数据的主干。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同事 A (运营部 Tom)",
+      "line": "I can see the December surge, but what accounts for the sharp fluctuation between October and November?",
+      "lineCn": "我看到了十二月的激增,但十月到十一月之间的剧烈波动是什么原因?",
+      "grammar": [
+        { "name": "What accounts for...?", "note": "图表讨论中追问原因的句式:account for 表示“解释、占……比例”,比 ask why 更专业。" }
+      ],
+      "options": [
+        { "text": "Good question. The dip in November corresponds to the warehouse relocation, after which sales recovered sharply once inventory was restored.", "textCn": "好问题。十一月下滑对应仓库搬迁,库存恢复后销售迅速反弹。", "feedback": "用 corresponds to 建立因果,再以 recovered sharply 交代反弹,有因有果。", "next": "n4" },
+        { "text": "I am not sure, the data is the data, maybe it was just a bad month.", "textCn": "我不确定,数据就是这样,也许就是那个月不行吧。", "feedback": "无法解释关键波动,等于承认没有分析,与会者信心大跌。", "next": "n5" },
+        { "text": "The fluctuation was mainly attributable to a delivery backlog, which we resolved by December.", "textCn": "波动主要归因于配送积压,我们在十二月解决了这一问题。", "feedback": "attributable to 归因表达专业,与后续回升形成闭环。", "next": "n4" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "部门主管 Ms. Grant",
+      "line": "Let us try again with more precise language. Describe the trend using the standard expressions for rises, falls and stability.",
+      "lineCn": "我们再用更精确的语言试一次。请用描述上升、下降和平稳的标准表达来讲趋势。",
+      "grammar": [
+        { "name": "Standard expressions for trends", "note": "图表题高频动词库:rise/increase/climb (上升), drop/decline/plunge (下降), level off/remain stable (平稳)。" }
+      ],
+      "options": [
+        { "text": "Revenue rose moderately from January to June, remained fairly stable through autumn, and rose dramatically in December.", "textCn": "营收一月到六月温和上升,秋季保持相当平稳,十二月急剧上涨。", "feedback": "moderately、fairly stable、dramatically 等程度副词加动词,图表语合格。", "next": "n4" },
+        { "text": "It went up a bit, stayed the same for a while, then went up lots.", "textCn": "涨了一点,平稳了一阵子,然后又大涨。", "feedback": "a bit、went up lots 无法满足图表描述的精确要求,仍然不合格。", "next": "fail1" },
+        { "text": "I see the trend as: a gentle incline, a plateau, and finally a sharp peak in December.", "textCn": "我看到的趋势是:平缓爬升、一段平台期,最后十二月出现陡峭峰值。", "feedback": "incline、plateau、peak 三个名词精准概括全图,表达非常老练。", "next": "n4" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同事 B (财务部 Nina)",
+      "line": "You call December a peak, yet December sales account for nearly a third of the whole year. Is that peak really sustainable, or is it a one-off?",
+      "lineCn": "你说十二月是峰值,可十二月销售额占了全年近三分之一。这个峰值真的可持续,还是昙花一现?",
+      "grammar": [
+        { "name": "Account for", "note": "account for 的另一个高频义:“占(比例)”。December sales account for a third of the year 即“占全年的三分之一”。" }
+      ],
+      "options": [
+        { "text": "A fair challenge. The December figure largely reflects promotional campaigns; without them, underlying demand has been rising by roughly two per cent quarterly.", "textCn": "质疑有理。十二月数字主要来自促销活动;剔除后,基础需求每季度约增长百分之二。", "feedback": "拆分促销因素与基础需求,说明你读懂了数据背后的构成。", "next": "n6" },
+        { "text": "It is sustainable, I am confident about that, because December is always our best month.", "textCn": "可持续的,我对此很有信心,因为十二月向来是我们最好的月份。", "feedback": "用“向来如此”代替分析,没有回应占比异常背后的结构问题。", "next": "fail2" },
+        { "text": "I would distinguish seasonal spikes from the underlying trend; the latter has grown consistently at about two per cent per quarter.", "textCn": "我会把季节性峰值与基础趋势区分开;后者每季度稳定增长约百分之二。", "feedback": "用 distinguish... from 区分概念,再看基础趋势,分析层次分明。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "同事 A (运营部 Tom)",
+      "line": "Let me restate the question: do you have an explanation for the November dip that connects to the surrounding data?",
+      "lineCn": "我换种方式问:你能结合前后数据解释十一月下滑的原因吗?",
+      "grammar": [
+        { "name": "Connect to the surrounding data", "note": "数据讨论中的核心要求:任何解释都应 connect to (联系) 前后数据,不能孤立看单点。" }
+      ],
+      "options": [
+        { "text": "Yes. The dip coincides with the warehouse move in November, and the recovery in December supports that link.", "textCn": "能。下滑与十一月仓库搬迁时间吻合,而十二月的回升也支持这一关联。", "feedback": "用 coincides with 加时间对照,证据链完整,质疑得到解决。", "next": "n4" },
+        { "text": "I do not have an explanation, honestly. It is just what the chart shows.", "textCn": "说实话,我没有解释。图表显示什么就是什么。", "feedback": "两次被问仍无法解释关键波动,数据分析能力受到严重质疑。", "next": "fail1" },
+        { "text": "The dip aligns with a supply disruption; once shipments resumed, the figures rebounded accordingly.", "textCn": "下滑与供应链中断一致;运输恢复后,数据也相应反弹。", "feedback": "aligns with 与 rebounded accordingly 前后呼应,逻辑自洽。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "同事 C (市场部 Leo)",
+      "line": "Looking at the pie chart beside it, online sales account for forty per cent of the total. How does that share compare with last year?",
+      "lineCn": "看旁边的饼图,线上销售占总量的四成。这个占比和去年相比如何?",
+      "grammar": [
+        { "name": "How does X compare with Y?", "note": "比较句式:compare with 表示“与……相比”,图表讨论中用于追问变化幅度。" }
+      ],
+      "options": [
+        { "text": "The share has expanded considerably, from roughly a quarter last year to forty per cent now, overtaking brick-and-mortar sales for the first time.", "textCn": "占比大幅扩大,从去年约四分之一增至现在的四成,首次超过实体店销售。", "feedback": "用具体数字加 overtake 的对比,既答了比例又讲了变化,信息量大。", "next": "n7" },
+        { "text": "It is bigger than last year, I think, which is good news.", "textCn": "比去年大,我觉得,这是好消息。", "feedback": "没给出具体对比数据,“我觉得”也削弱了陈述的客观性。", "next": "fail2" },
+        { "text": "Online has grown from twenty-six per cent to forty per cent, at the expense of physical channels, which dropped correspondingly.", "textCn": "线上从百分之二十六增至百分之四十,以实体渠道相应下滑为代价。", "feedback": "数字精确,at the expense of 与 correspondingly 交代了此消彼长的关系。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "部门主管 Ms. Grant",
+      "line": "Finally, given the current trajectory, what projection would you make for the next quarter, and on what grounds?",
+      "lineCn": "最后,按目前的走势,你对下季度作何预测?依据是什么?",
+      "grammar": [
+        { "name": "On what grounds", "note": "on... grounds 表示“以……为依据”,追问预测依据时比 why 更书面。" }
+      ],
+      "options": [
+        { "text": "I project moderate growth, barring any supply disruption, since the underlying demand trend has remained steady for five consecutive quarters.", "textCn": "除非供应链中断,我预计温和增长,因为基础需求趋势已连续五个季度保持稳定。", "feedback": "barring 条件限定加连续数据支撑,预测审慎而可信。", "next": "n8" },
+        { "text": "I predict sales will keep going up, because they usually do.", "textCn": "我预测销售会继续涨,因为通常都涨。", "feedback": "“因为通常都涨”缺乏依据,预测等于猜测,主管只能结束会议。", "next": "fail1" },
+        { "text": "Provided the promotional calendar is maintained, I expect a repeat of last December's performance, with growth concentrated in the final month.", "textCn": "只要促销日程保持,我预计会重现去年十二月的情形,增长集中在最后一个月。", "feedback": "provided 条件句加增长分布预测,展现出对数据模式的理解。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "同事 B (财务部 Nina)",
+      "line": "One last check: are these figures drawn from the audited system, or from the preliminary report?",
+      "lineCn": "最后确认一点:这些数字来自已审计的系统,还是初步报告?",
+      "grammar": [
+        { "name": "Drawn from", "note": "be drawn from 表示“取自、来源于”,数据讨论中交代数据来源的规范说法。" }
+      ],
+      "options": [
+        { "text": "They are drawn from the audited system; I can circulate the source tables after the meeting.", "textCn": "数据取自已审计系统;会后我可以把源表格发给大家。", "feedback": "来源明确且主动提供凭证,数据可信度无可指摘,会议圆满结束。", "next": "success" },
+        { "text": "I honestly do not remember which system they came from.", "textCn": "老实说我不记得数据是从哪个系统来的。", "feedback": "连数据来源都不清楚,之前所有分析的可靠性都打上问号。", "next": "fail1" },
+        { "text": "They come from the official system, and the audit team verified them last week.", "textCn": "来自官方系统,审计团队上周已核验过。", "feedback": "补充审计核验信息,进一步巩固数据的可信度。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "部门主管 Ms. Grant",
+      "line": "Excellent work. Your grasp of the data is clear, and the team will adopt your projection for the budget review.",
+      "lineCn": "干得漂亮。你对数据的把握很清晰,团队将在预算评审中采纳你的预测。",
+      "grammar": [
+        { "name": "Grasp of the data", "note": "固定搭配:a grasp of 表示“对……的把握”,常修饰 data、concept 等抽象名词。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "部门主管 Ms. Grant",
+      "line": "I am afraid we cannot rely on this analysis today. Please rework the figures and present them with proper chart language at the next meeting.",
+      "lineCn": "恐怕我们今天无法采信这份分析。请重新整理数据,下次会议用规范的图表语言汇报。",
+      "grammar": [
+        { "name": "Cannot rely on", "note": "rely on 表示“依赖、采信”,否定式 cannot rely on 在职场表达中常用于否决一项工作成果。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同事 B (财务部 Nina)",
+      "line": "Without solid answers to these questions, the numbers cannot be taken at face value. We shall need a further review.",
+      "lineCn": "这些问题得不到可靠回答,数字就不能只看表面。我们需要进一步审查。",
+      "grammar": [
+        { "name": "At face value", "note": "固定短语 at face value 表示“按表面价值相信”,常用于质疑数据的可信度。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

@@ -1,0 +1,985 @@
+{
+  "id": "a-s2u11",
+  "stage": 2,
+  "unitId": "s2u11",
+  "title": "The Weather Tomorrow",
+  "newWords": [
+    "clouds",
+    "days",
+    "does",
+    "going",
+    "quickly",
+    "says",
+    "stops",
+    "stronger",
+    "particularly",
+    "presently",
+    "pessimistic",
+    "precaution",
+    "plentiful",
+    "prospect",
+    "probability",
+    "peak"
+  ],
+  "sentences": [
+    {
+      "text": "The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+      "translation": "天气预报说明天下午要下雨,而且风会特别大。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The weather report says",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The weather report"
+            },
+            {
+              "role": "谓语",
+              "text": "says"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "it is going to rain tomorrow afternoon"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the wind will be particularly strong",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the wind"
+            },
+            {
+              "role": "谓语",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "particularly strong"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be going to 表预测",
+          "note": "is going to rain 表示\"将要下雨\",根据天气预报作出的预测。"
+        },
+        {
+          "name": "will + 动词原形 表将来",
+          "note": "will be strong 表示\"将会很强\",will 是表将来的助动词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "it is going to rain tomorrow afternoon",
+          "name": "be going to 表预测"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "it is going to rain tomorrow afternoon",
+          "name": "will + 动词原形 表将来"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+          "answer": "The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+          "note": "is going to rain 表示\"将要下雨\",根据天气预报作出的预测。",
+          "point": "be going to 表预测"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+          "answer": "The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+          "note": "will be strong 表示\"将会很强\",will 是表将来的助动词。",
+          "point": "will + 动词原形 表将来"
+        }
+      ]
+    },
+    {
+      "text": "I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+      "translation": "我认为风会变得更大,气温会下降,夜间降雨将达到顶峰。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I think",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "think"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "the wind will become stronger"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the temperature will drop",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the temperature"
+            },
+            {
+              "role": "谓语",
+              "text": "will drop"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the rain will reach its peak",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the rain"
+            },
+            {
+              "role": "谓语",
+              "text": "will reach"
+            },
+            {
+              "role": "宾语",
+              "text": "its peak"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "at night"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will become / will drop",
+          "note": "will+动词原形 表示将来的变化:风变大、气温下降。"
+        },
+        {
+          "name": "reach its peak 达到顶峰",
+          "note": "reach its peak 表示\"达到最高点\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the wind will become stronger",
+          "name": "will become / will drop"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the wind will become stronger",
+          "name": "reach its peak 达到顶峰"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+          "answer": "I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+          "note": "will+动词原形 表示将来的变化:风变大、气温下降。",
+          "point": "will become / will drop"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+          "answer": "I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+          "note": "reach its peak 表示\"达到最高点\"。",
+          "point": "reach its peak 达到顶峰"
+        }
+      ]
+    },
+    {
+      "text": "My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+      "translation": "我妈妈打算待在家里,因为她不喜欢潮湿的日子,她现在正在看书。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "My mother is going to stay",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My mother"
+            },
+            {
+              "role": "谓语(be going to 结构)",
+              "text": "is going to stay"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at home"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "she does not like wet days"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "she is presently reading a book",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "she"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is presently reading"
+            },
+            {
+              "role": "宾语",
+              "text": "a book"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be going to 表计划",
+          "note": "is going to stay 表示\"打算待\",be going to 常用于表计划、打算。"
+        },
+        {
+          "name": "现在进行时 is reading",
+          "note": "is presently reading 表示\"此刻正在读\",presently 意为\"现在\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "she is presently reading a book",
+          "name": "be going to 表计划"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "she is presently reading a book",
+          "name": "现在进行时 is reading"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+          "answer": "My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+          "note": "is going to stay 表示\"打算待\",be going to 常用于表计划、打算。",
+          "point": "be going to 表计划"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+          "answer": "My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+          "note": "is presently reading 表示\"此刻正在读\",presently 意为\"现在\"。",
+          "point": "现在进行时 is reading"
+        }
+      ]
+    },
+    {
+      "text": "I will take an umbrella with me, and I will wear a warm coat, because this is a good precaution.",
+      "translation": "我会随身带一把雨伞,还会穿一件保暖的外套,因为这是一个很好的预防措施。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will take an umbrella",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will take"
+            },
+            {
+              "role": "宾语",
+              "text": "an umbrella"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "with me"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will wear a warm coat",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will wear"
+            },
+            {
+              "role": "宾语",
+              "text": "a warm coat"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "this is a good precaution"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will + 动词原形 表打算",
+          "note": "will take / will wear 表示\"将要带、将要穿\",是临时决定或打算。"
+        },
+        {
+          "name": "precaution 预防措施",
+          "note": "a good precaution 表示\"一个很好的预防措施\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "this is a good precaution",
+          "name": "will + 动词原形 表打算"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "this is a good precaution",
+          "name": "precaution 预防措施"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will take an umbrella with me, and I will wear a warm coat, because this is a good precaution.",
+          "answer": "I will take an umbrella with me, and I will wear a warm coat, because this is a good precaution.",
+          "note": "will take / will wear 表示\"将要带、将要穿\",是临时决定或打算。",
+          "point": "will + 动词原形 表打算"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will take an umbrella with me, and I will wear a warm coat, because this is a good precaution.",
+          "answer": "I will take an umbrella with me, and I will wear a warm coat, because this is a good precaution.",
+          "note": "a good precaution 表示\"一个很好的预防措施\"。",
+          "point": "precaution 预防措施"
+        }
+      ]
+    },
+    {
+      "text": "My father says the snow will not come until December, but I am not sure.",
+      "translation": "我爸爸说雪要到十二月才会下,但我不确定。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My father says",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My father"
+            },
+            {
+              "role": "谓语",
+              "text": "says"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "the snow will not come until December"
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I am not sure",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "am"
+            },
+            {
+              "role": "表语",
+              "text": "not sure"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not...until 直到……才",
+          "note": "will not come until December 表示\"直到十二月才会来\"。"
+        },
+        {
+          "name": "be sure 确定",
+          "note": "be sure 表示\"确定\",否定形式 I am not sure 表示\"我不确定\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the snow will not come until December",
+          "name": "not...until 直到……才"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the snow will not come until December",
+          "name": "be sure 确定"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father says the snow will not come until December, but I am not sure.",
+          "answer": "My father says the snow will not come until December, but I am not sure.",
+          "note": "will not come until December 表示\"直到十二月才会来\"。",
+          "point": "not...until 直到……才"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father says the snow will not come until December, but I am not sure.",
+          "answer": "My father says the snow will not come until December, but I am not sure.",
+          "note": "be sure 表示\"确定\",否定形式 I am not sure 表示\"我不确定\"。",
+          "point": "be sure 确定"
+        }
+      ]
+    },
+    {
+      "text": "The weather will change quickly, so we will check the news every morning, and we are not pessimistic about it.",
+      "translation": "天气会变化得很快,所以我们每天早上都会查看新闻,我们对此并不悲观。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The weather will change quickly",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The weather"
+            },
+            {
+              "role": "谓语",
+              "text": "will change quickly"
+            }
+          ]
+        },
+        {
+          "label": "连词(结果)",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we will check the news",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will check"
+            },
+            {
+              "role": "宾语",
+              "text": "the news"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "every morning"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "we are not pessimistic about it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "not pessimistic about it"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "so 表结果",
+          "note": "so 连接结果从句,表示\"因此\"。"
+        },
+        {
+          "name": "be pessimistic about 对……悲观",
+          "note": "be pessimistic about 表示\"对……持悲观态度\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "The weather will change quickly",
+          "name": "so 表结果"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "The weather will change quickly",
+          "name": "be pessimistic about 对……悲观"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The weather will change quickly, so we will check the news every morning, and we are not pessimistic about it.",
+          "answer": "The weather will change quickly, so we will check the news every morning, and we are not pessimistic about it.",
+          "note": "so 连接结果从句,表示\"因此\"。",
+          "point": "so 表结果"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The weather will change quickly, so we will check the news every morning, and we are not pessimistic about it.",
+          "answer": "The weather will change quickly, so we will check the news every morning, and we are not pessimistic about it.",
+          "note": "be pessimistic about 表示\"对……持悲观态度\"。",
+          "point": "be pessimistic about 对……悲观"
+        }
+      ]
+    },
+    {
+      "text": "If the rain stops early, we are going to visit my grandmother, and there is a high probability of a fine day.",
+      "translation": "如果雨早早停了,我们打算去看望我的奶奶,而且天气好的可能性很大。",
+      "chunks": [
+        {
+          "label": "从句(条件状语从句)",
+          "color": "#c8a5e0",
+          "text": "If the rain stops early"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we are going to visit my grandmother",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语(be going to 结构)",
+              "text": "are going to visit"
+            },
+            {
+              "role": "宾语",
+              "text": "my grandmother"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(there be 句型)",
+          "color": "#a8dab5",
+          "text": "there is a high probability of a fine day",
+          "parts": [
+            {
+              "role": "引导词",
+              "text": "there"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "主语",
+              "text": "a high probability"
+            },
+            {
+              "role": "定语",
+              "text": "of a fine day"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 条件句 + be going to",
+          "note": "If 从句用一般现在时(stops),主句用 be going to,表示\"如果……就打算……\"。"
+        },
+        {
+          "name": "probability 可能性",
+          "note": "a high probability 表示\"很高的可能性\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "there is a high probability of a fine day",
+          "name": "if 条件句 + be going to"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "there is a high probability of a fine day",
+          "name": "probability 可能性"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the rain stops early, we are going to visit my grandmother, and there is a high probability of a fine day.",
+          "answer": "If the rain stops early, we are going to visit my grandmother, and there is a high probability of a fine day.",
+          "note": "If 从句用一般现在时(stops),主句用 be going to,表示\"如果……就打算……\"。",
+          "point": "if 条件句 + be going to"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the rain stops early, we are going to visit my grandmother, and there is a high probability of a fine day.",
+          "answer": "If the rain stops early, we are going to visit my grandmother, and there is a high probability of a fine day.",
+          "note": "a high probability 表示\"很高的可能性\"。",
+          "point": "probability 可能性"
+        }
+      ]
+    },
+    {
+      "text": "Look at the dark clouds! It is definitely going to pour soon, and the rain will be plentiful tonight.",
+      "translation": "看那些乌云!肯定很快就要下大雨了,今晚雨量会很充沛。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Look at the dark clouds",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Look at"
+            },
+            {
+              "role": "宾语",
+              "text": "the dark clouds"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "It is definitely going to pour",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(be going to 结构)",
+              "text": "is definitely going to pour"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "soon"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the rain will be plentiful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the rain"
+            },
+            {
+              "role": "谓语",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "plentiful"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "tonight"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be going to 表迹象预测",
+          "note": "看到乌云判断即将下大雨,用 is going to pour 表示根据迹象的预测。"
+        },
+        {
+          "name": "look at 看",
+          "note": "Look at 是祈使句,表示\"看……\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "It is definitely going to pour",
+          "name": "be going to 表迹象预测"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "It is definitely going to pour",
+          "name": "look at 看"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Look at the dark clouds! It is definitely going to pour soon, and the rain will be plentiful tonight.",
+          "answer": "Look at the dark clouds! It is definitely going to pour soon, and the rain will be plentiful tonight.",
+          "note": "看到乌云判断即将下大雨,用 is going to pour 表示根据迹象的预测。",
+          "point": "be going to 表迹象预测"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Look at the dark clouds! It is definitely going to pour soon, and the rain will be plentiful tonight.",
+          "answer": "Look at the dark clouds! It is definitely going to pour soon, and the rain will be plentiful tonight.",
+          "note": "Look at 是祈使句,表示\"看……\"。",
+          "point": "look at 看"
+        }
+      ]
+    },
+    {
+      "text": "I believe the sun will come out again, and the weekend will be fine, and this is a bright prospect for us.",
+      "translation": "我相信太阳会再次出来,周末天气会很好,这对我们来说是一个光明的前景。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I believe",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "believe"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "the sun will come out again"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the weekend will be fine",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the weekend"
+            },
+            {
+              "role": "谓语",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "fine"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "this is a bright prospect",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a bright prospect"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "for us"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "believe + 宾语从句",
+          "note": "believe 后接 that(省略)从句,表示\"相信……\"。"
+        },
+        {
+          "name": "come out (太阳)出来",
+          "note": "come out 表示\"(太阳、星星)出来、出现\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the sun will come out again",
+          "name": "believe + 宾语从句"
+        },
+        {
+          "grammarId": "g-s2u11",
+          "phrase": "the sun will come out again",
+          "name": "come out (太阳)出来"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I believe the sun will come out again, and the weekend will be fine, and this is a bright prospect for us.",
+          "answer": "I believe the sun will come out again, and the weekend will be fine, and this is a bright prospect for us.",
+          "note": "believe 后接 that(省略)从句,表示\"相信……\"。",
+          "point": "believe + 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I believe the sun will come out again, and the weekend will be fine, and this is a bright prospect for us.",
+          "answer": "I believe the sun will come out again, and the weekend will be fine, and this is a bright prospect for us.",
+          "note": "come out 表示\"(太阳、星星)出来、出现\"。",
+          "point": "come out (太阳)出来"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u11",
+      "name": "be going to 表预测",
+      "note": "is going to rain 表示\"将要下雨\",根据天气预报作出的预测。",
+      "sourceExample": "The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+      "sourceExampleCn": "天气预报说明天下午要下雨,而且风会特别大。"
+    },
+    {
+      "grammarId": "g-s2u11",
+      "name": "will + 动词原形 表将来",
+      "note": "will be strong 表示\"将会很强\",will 是表将来的助动词。",
+      "sourceExample": "The weather report says it is going to rain tomorrow afternoon, and the wind will be particularly strong.",
+      "sourceExampleCn": "天气预报说明天下午要下雨,而且风会特别大。"
+    },
+    {
+      "grammarId": "g-s2u11",
+      "name": "will become / will drop",
+      "note": "will+动词原形 表示将来的变化:风变大、气温下降。",
+      "sourceExample": "I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+      "sourceExampleCn": "我认为风会变得更大,气温会下降,夜间降雨将达到顶峰。"
+    },
+    {
+      "grammarId": "g-s2u11",
+      "name": "reach its peak 达到顶峰",
+      "note": "reach its peak 表示\"达到最高点\"。",
+      "sourceExample": "I think the wind will become stronger, and the temperature will drop, and the rain will reach its peak at night.",
+      "sourceExampleCn": "我认为风会变得更大,气温会下降,夜间降雨将达到顶峰。"
+    },
+    {
+      "grammarId": "g-s2u11",
+      "name": "be going to 表计划",
+      "note": "is going to stay 表示\"打算待\",be going to 常用于表计划、打算。",
+      "sourceExample": "My mother is going to stay at home, because she does not like wet days, and she is presently reading a book.",
+      "sourceExampleCn": "我妈妈打算待在家里,因为她不喜欢潮湿的日子,她现在正在看书。"
+    }
+  ]
+}

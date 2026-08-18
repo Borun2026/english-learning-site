@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u5",
+  "stage": 5,
+  "unitId": "s5u5",
+  "title": "听力挑战 · 学术会议社交",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "学者 A",
+      "line": "It is a pleasure to meet you; I have read your recent paper on sustainable urban planning with great interest.",
+      "lineCn": "很高兴认识你;我怀着浓厚的兴趣拜读了您关于可持续城市规划的新论文。",
+      "grammar": [
+        { "name": "会议社交寒暄搭配", "note": "It is a pleasure to meet you 是见面问候固定搭配;read... with great interest 是礼貌评价他人研究的表达。" }
+      ],
+      "options": [
+        { "text": "The speaker has read the paper about sustainable urban planning.", "correct": true, "feedback": "学者 A 读过对方关于可持续城市规划的论文。" },
+        { "text": "The speaker has never heard of the paper before.", "correct": false, "feedback": "他不仅听说过,还认真读过。" },
+        { "text": "The speaker co-wrote the paper with the other scholar.", "correct": false, "feedback": "他只是读者,并未参与写作。" }
+      ]
+    },
+    {
+      "speaker": "学者 B",
+      "line": "Would you be interested in collaborating on a joint research project concerning climate adaptation strategies?",
+      "lineCn": "您有兴趣就气候适应策略开展联合研究项目合作吗?",
+      "grammar": [
+        { "name": "合作邀请句式", "note": "Would you be interested in doing... 是礼貌提出合作的标准搭配;concerning 表关于,后接研究主题。" }
+      ],
+      "options": [
+        { "text": "The speaker proposes a joint project on climate adaptation.", "correct": true, "feedback": "对方提议合作研究气候适应策略。" },
+        { "text": "The speaker proposes ending an ongoing project.", "correct": false, "feedback": "提议的是开启新合作,并非终止项目。" },
+        { "text": "The speaker proposes ignoring climate-related topics.", "correct": false, "feedback": "合作主题恰恰与气候策略相关。" }
+      ]
+    },
+    {
+      "speaker": "学者 A",
+      "line": "I found your presentation quite thought-provoking, and I would appreciate the chance to discuss it further.",
+      "lineCn": "我觉得您的报告非常发人深省,希望有机会进一步讨论。",
+      "grammar": [
+        { "name": "评价报告的礼貌表达", "note": "thought-provoking 是评价报告的高频搭配;would appreciate the chance to do 是婉转表达愿望的礼貌句式。" }
+      ],
+      "options": [
+        { "text": "The speaker wants to discuss the presentation in more depth.", "correct": true, "feedback": "他觉得报告发人深省,想深入讨论。" },
+        { "text": "The speaker found the presentation boring and pointless.", "correct": false, "feedback": "他评价报告发人深省,是正面评价。" },
+        { "text": "The speaker wants to leave the session immediately.", "correct": false, "feedback": "他恰恰想继续深入交流。" }
+      ]
+    },
+    {
+      "speaker": "学者 B",
+      "line": "Perhaps we could exchange contact details and continue this conversation over coffee later this afternoon.",
+      "lineCn": "或许我们可以交换联系方式,今天下午晚些时候边喝咖啡边继续聊。",
+      "grammar": [
+        { "name": "建议见面搭配", "note": "Perhaps we could... 是委婉建议句式;exchange contact details 与 continue the conversation 是社交场景核心搭配。" }
+      ],
+      "options": [
+        { "text": "They may exchange contacts and keep talking over coffee later.", "correct": true, "feedback": "提议交换联系方式并约下午喝咖啡续聊。" },
+        { "text": "They refuse to share any contact information.", "correct": false, "feedback": "对方正是提议交换联系方式。" },
+        { "text": "They will never meet again after the session.", "correct": false, "feedback": "对方提议当天下午再见面。" }
+      ]
+    },
+    {
+      "speaker": "学者 A",
+      "line": "It was wonderful talking with you, and I look forward to seeing your results at the next conference.",
+      "lineCn": "与您交谈非常愉快,期待在下一次会议上看到您的研究成果。",
+      "grammar": [
+        { "name": "告别表达搭配", "note": "It was wonderful talking with you 是告别寒暄;look forward to doing 接动名词,表达对未来见面的期待。" }
+      ],
+      "options": [
+        { "text": "The speaker enjoyed the talk and expects results at the next conference.", "correct": true, "feedback": "交谈愉快,并期待下次会议见成果。" },
+        { "text": "The speaker hopes to skip the next conference.", "correct": false, "feedback": "他恰恰期待下次会议相见。" },
+        { "text": "The speaker found the conversation unpleasant.", "correct": false, "feedback": "他评价交谈非常愉快。" }
+      ]
+    }
+  ]
+}

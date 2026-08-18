@@ -1,0 +1,57 @@
+{
+ "id": "cet6-025",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第1套) Passage 1",
+ "title": "Perhaps it is time for farmers to put their feet up now that robots are used ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 444,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too. Commercial growing fields are astronomically huge and take thousands of man-hours to operate. One prime example is one of Australia's most isolated cattle stations, Suplejack Downs in the Northern Territory, extending across 4,000 square kilometers, taking over 13 hours to reach by car from the nearest major town--Alice Springs.",
+  "The extreme isolation of these massive farms leaves them often unattended, and monitored only once or twice a year, which means if the livestock falls ill or requires assistance, it can be a long time for farmers to discover.",
+  "However, robots are coming to the rescue. Robots are currently under a two-year trial in Wales which will train \"farmbots\" to herd, monitor the health of livestock, and make sure there is enough pasture for them to graze on. The robots are equipped with many sensors to identify conditions of the environment, cattle and food, using thermal and vision sensors that detect changes in body temperature. \"You've also got color, texture and shape sensors looking down at the ground to check pasture quality,\" says Salah Sukkarieh of the University of Sydney, who will carry out trials on several farms in central New South Wales. During the trials, the robot algorithms and mechanics will be fine-tuned to make it better suited to ailing livestock and ensure it safely navigates around potential hazards including trees, mud, swamps, and hills. \"We want to improve the quality of animal health and make it easier for farmers to maintain large landscapes where animals roam free,\" says Sukkarieh. The robots are not limited to herding and monitoring livestock. They have been created to count individual fruit, inspect crops, and even pull weeds. Many robots are equipped with high-tech sensors and complex learning algorithms to avoid injuring humans as they work side by side. The robots also learn the most efficient and safest passages, and allow engineers and farmers to analyze and better optimize the attributes and tasks of the robot, as well as provide a live stream giving real-time feedback on exactly what is happening on the farms. Of course, some worry lies in replacing agricultural workers. However, it is farmers that are pushing for the advancements due to ever-increasing labor vacancies, making it difficult to maintain large-scale operations. The robots have provided major benefits to farmers in various ways, from hunting and pulling weeds to monitoring the condition of every single fruit. Future farms will likely experience a greater deal of autonomy as robots take up more and more farm work efficiently."
+ ],
+ "questions": [
+  {
+   "q": "文中 “limited” 最接近的意思是?",
+   "options": [
+    "领土，区域",
+    "学习",
+    "潜在的",
+    "有限的"
+   ],
+   "answer": 3,
+   "analysis": "“limited” 意为「有限的」。原文语境:The robots are not limited to herding and monitoring livestock.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:They have been created to ___ individual fruit, inspect crops, and even pull weeds.",
+   "options": [
+    "maintain",
+    "provide",
+    "count",
+    "discover"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“They have been created to count individual fruit, inspect crops, and even pull weeds.”。空格处应填入 “count”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "In the beginning of the movie l, Robot, a robot has to decide whom to save af",
+    "Last year, a child was born at a hospital in the UK with her heart outside he",
+    "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable s",
+    "Perhaps it is time for farmers to put their feet up now that robots are used"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Perhaps it is time for farmers to put their feet up now that robots are used to inspect crops, dig up weeds, and even have become shepherds, too.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

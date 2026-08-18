@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u7",
+  "stage": 3,
+  "unitId": "s3u7",
+  "title": "听力挑战 · 澄清误解",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "It was you who told everyone about my plan, wasn't it?",
+      "lineCn": "是你把我的计划告诉了所有人,对吗?",
+      "grammar": [
+        { "name": "It is/was ... who ... 强调句", "note": "强调句型强调人时用 who,强调物时用 that。" }
+      ],
+      "options": [
+        { "text": "It was not me. It was the assistant.", "correct": true, "feedback": "用强调句澄清事实,指出真正的人。" },
+        { "text": "Yes, I will tell everyone again.", "correct": false, "feedback": "承认错误行为还要再做,回应不当。" },
+        { "text": "The plan is very important to me.", "correct": false, "feedback": "回避关键问题,没有澄清是否泄密。" }
+      ]
+    },
+    {
+      "speaker": "经理",
+      "line": "I thought you had already finished the monthly report by now.",
+      "lineCn": "我以为你到现在已经完成月度报告了。",
+      "grammar": [
+        { "name": "It is ... that ... 强调句", "note": "It is the data section that... 强调报告还没完成的环节。" }
+      ],
+      "options": [
+        { "text": "It is the data section that still needs work.", "correct": true, "feedback": "强调句说明未完成的部分,澄清现状。" },
+        { "text": "I have never seen the monthly report.", "correct": false, "feedback": "否认看过报告,与项目事实矛盾。" },
+        { "text": "The report is about the new system.", "correct": false, "feedback": "谈报告内容,没有回应完成情况。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "So you refused to help them with the move, right?",
+      "lineCn": "所以你拒绝帮他们搬家,对吧?",
+      "grammar": [
+        { "name": "强调句表原因", "note": "It was the deadline that... 强调导致拒绝的原因是截止日期。" }
+      ],
+      "options": [
+        { "text": "It was the deadline that made me say no.", "correct": true, "feedback": "强调句说明拒绝的真正原因,澄清误解。" },
+        { "text": "I will refuse them again tomorrow.", "correct": false, "feedback": "火上浇油,没有澄清反而加剧误会。" },
+        { "text": "The move is happening next week.", "correct": false, "feedback": "谈搬家时间,没有说明拒绝原因。" }
+      ]
+    }
+  ]
+}

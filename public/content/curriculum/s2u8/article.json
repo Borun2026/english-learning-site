@@ -1,0 +1,793 @@
+{
+  "id": "a-s2u8",
+  "stage": 2,
+  "unitId": "s2u8",
+  "title": "Which Phone Is Better?",
+  "newWords": [
+    "bigger",
+    "carefully",
+    "cheaper",
+    "cheapest",
+    "compared",
+    "comparing",
+    "decided",
+    "has",
+    "lasts",
+    "longest",
+    "models",
+    "newest",
+    "smaller",
+    "thinks",
+    "finally",
+    "favorable",
+    "factor",
+    "highly"
+  ],
+  "sentences": [
+    {
+      "text": "This year, I finally compared three phone models in the shop with my best friend.",
+      "translation": "今年,我终于和最好的朋友在商店里比较了三款手机型号。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "This year"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I finally compared three phone models",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "finally compared"
+            },
+            {
+              "role": "宾语",
+              "text": "three phone models"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in the shop"
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "with my best friend"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "compare 比较",
+          "note": "compare three models 表示\"比较三款型号\",比较是本文的主题动作。"
+        },
+        {
+          "name": "finally 终于",
+          "note": "finally 作状语,强调\"终于\"做了这件事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "I finally compared three phone models",
+          "name": "compare 比较"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "I finally compared three phone models",
+          "name": "finally 终于"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This year, I finally compared three phone models in the shop with my best friend.",
+          "answer": "This year, I finally compared three phone models in the shop with my best friend.",
+          "note": "compare three models 表示\"比较三款型号\",比较是本文的主题动作。",
+          "point": "compare 比较"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This year, I finally compared three phone models in the shop with my best friend.",
+          "answer": "This year, I finally compared three phone models in the shop with my best friend.",
+          "note": "finally 作状语,强调\"终于\"做了这件事。",
+          "point": "finally 终于"
+        }
+      ]
+    },
+    {
+      "text": "The first phone is cheaper than the second one, but its screen is smaller.",
+      "translation": "第一款手机比第二款便宜,但它的屏幕更小。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The first phone is cheaper than the second one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The first phone"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "cheaper than the second one"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "its screen is smaller",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "its screen"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "smaller"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "比较级 + than",
+          "note": "cheaper 是 cheap 的比较级,than 引出比较对象:比第二款便宜。"
+        },
+        {
+          "name": "比较级 smaller",
+          "note": "small 的比较级是 smaller,短形容词直接加 -er。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The first phone is cheaper than the second one",
+          "name": "比较级 + than"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The first phone is cheaper than the second one",
+          "name": "比较级 smaller"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The first phone is cheaper than the second one, but its screen is smaller.",
+          "answer": "The first phone is cheaper than the second one, but its screen is smaller.",
+          "note": "cheaper 是 cheap 的比较级,than 引出比较对象:比第二款便宜。",
+          "point": "比较级 + than"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The first phone is cheaper than the second one, but its screen is smaller.",
+          "answer": "The first phone is cheaper than the second one, but its screen is smaller.",
+          "note": "small 的比较级是 smaller,短形容词直接加 -er。",
+          "point": "比较级 smaller"
+        }
+      ]
+    },
+    {
+      "text": "The second phone has a bigger battery, and its camera is much better than mine.",
+      "translation": "第二款手机的电池更大,它的摄像头比我的好得多。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The second phone has a bigger battery",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The second phone"
+            },
+            {
+              "role": "谓语",
+              "text": "has"
+            },
+            {
+              "role": "宾语",
+              "text": "a bigger battery"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "its camera is much better than mine",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "its camera"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "much better than mine"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "比较级 bigger / better",
+          "note": "big 的比较级是 bigger,good 的比较级是 better,属于不规则变化。"
+        },
+        {
+          "name": "much 修饰比较级",
+          "note": "much better 表示\"好得多\",much 用来加强比较级的程度。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The second phone has a bigger battery",
+          "name": "比较级 bigger / better"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The second phone has a bigger battery",
+          "name": "much 修饰比较级"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The second phone has a bigger battery, and its camera is much better than mine.",
+          "answer": "The second phone has a bigger battery, and its camera is much better than mine.",
+          "note": "big 的比较级是 bigger,good 的比较级是 better,属于不规则变化。",
+          "point": "比较级 bigger / better"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The second phone has a bigger battery, and its camera is much better than mine.",
+          "answer": "The second phone has a bigger battery, and its camera is much better than mine.",
+          "note": "much better 表示\"好得多\",much 用来加强比较级的程度。",
+          "point": "much 修饰比较级"
+        }
+      ]
+    },
+    {
+      "text": "The third phone is the most expensive of all, and it is also the newest, and people speak highly of it.",
+      "translation": "第三款手机是其中最贵的,也是最新的,人们对它评价很高。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The third phone is the most expensive of all",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The third phone"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "the most expensive of all"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "it is also the newest",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "the newest"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "people speak highly of it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "people"
+            },
+            {
+              "role": "谓语",
+              "text": "speak"
+            },
+            {
+              "role": "状语",
+              "text": "highly of it"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "最高级 the most expensive",
+          "note": "多音节形容词用 the most+原级 构成最高级,表示\"最贵的\"。"
+        },
+        {
+          "name": "最高级 the newest",
+          "note": "new 的最高级是 the newest,短形容词加 -est。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The third phone is the most expensive of all",
+          "name": "最高级 the most expensive"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "The third phone is the most expensive of all",
+          "name": "最高级 the newest"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The third phone is the most expensive of all, and it is also the newest, and people speak highly of it.",
+          "answer": "The third phone is the most expensive of all, and it is also the newest, and people speak highly of it.",
+          "note": "多音节形容词用 the most+原级 构成最高级,表示\"最贵的\"。",
+          "point": "最高级 the most expensive"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The third phone is the most expensive of all, and it is also the newest, and people speak highly of it.",
+          "answer": "The third phone is the most expensive of all, and it is also the newest, and people speak highly of it.",
+          "note": "new 的最高级是 the newest,短形容词加 -est。",
+          "point": "最高级 the newest"
+        }
+      ]
+    },
+    {
+      "text": "Between the first two, the second one is more powerful, but the first one is lighter.",
+      "translation": "在前两款之间,第二款更强大,但第一款更轻。",
+      "chunks": [
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "Between the first two"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the second one is more powerful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the second one"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "more powerful"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the first one is lighter",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the first one"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "lighter"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "more + 形容词原级",
+          "note": "多音节形容词 powerful 用 more powerful 构成比较级,表示\"更强大\"。"
+        },
+        {
+          "name": "light 的比较级",
+          "note": "light 的比较级是 lighter,light 表示\"轻的\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the second one is more powerful",
+          "name": "more + 形容词原级"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the second one is more powerful",
+          "name": "light 的比较级"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Between the first two, the second one is more powerful, but the first one is lighter.",
+          "answer": "Between the first two, the second one is more powerful, but the first one is lighter.",
+          "note": "多音节形容词 powerful 用 more powerful 构成比较级,表示\"更强大\"。",
+          "point": "more + 形容词原级"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Between the first two, the second one is more powerful, but the first one is lighter.",
+          "answer": "Between the first two, the second one is more powerful, but the first one is lighter.",
+          "note": "light 的比较级是 lighter,light 表示\"轻的\"。",
+          "point": "light 的比较级"
+        }
+      ]
+    },
+    {
+      "text": "Actually, the cheapest phone is not always the most useful one for daily use.",
+      "translation": "实际上,最便宜的手机并不总是日常使用中最有用的。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Actually"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the cheapest phone is not always the most useful one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the cheapest phone"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not always the most useful one"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for daily use"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "最高级 the cheapest",
+          "note": "cheap 的最高级是 the cheapest,表示\"最便宜的\"。"
+        },
+        {
+          "name": "not always 部分否定",
+          "note": "not always 表示\"并不总是\",是部分否定,不是\"从来不\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the cheapest phone is not always the most useful one",
+          "name": "最高级 the cheapest"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the cheapest phone is not always the most useful one",
+          "name": "not always 部分否定"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Actually, the cheapest phone is not always the most useful one for daily use.",
+          "answer": "Actually, the cheapest phone is not always the most useful one for daily use.",
+          "note": "cheap 的最高级是 the cheapest,表示\"最便宜的\"。",
+          "point": "最高级 the cheapest"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Actually, the cheapest phone is not always the most useful one for daily use.",
+          "answer": "Actually, the cheapest phone is not always the most useful one for daily use.",
+          "note": "not always 表示\"并不总是\",是部分否定,不是\"从来不\"。",
+          "point": "not always 部分否定"
+        }
+      ]
+    },
+    {
+      "text": "My friend thinks the third phone is the best choice, because its battery lasts the longest, and the price is favorable.",
+      "translation": "我的朋友认为第三款手机是最好的选择,因为它的电池续航最久,而且价格优惠。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My friend thinks",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My friend"
+            },
+            {
+              "role": "谓语",
+              "text": "thinks"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "the third phone is the best choice"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "its battery lasts the longest"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the price is favorable",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the price"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "favorable"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "最高级 the best",
+          "note": "good 的最高级是 the best,表示\"最好的\"。"
+        },
+        {
+          "name": "副词最高级 the longest",
+          "note": "lasts the longest 中 the longest 修饰动词 last,表示\"持续最久\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the third phone is the best choice",
+          "name": "最高级 the best"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "the third phone is the best choice",
+          "name": "副词最高级 the longest"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My friend thinks the third phone is the best choice, because its battery lasts the longest, and the price is favorable.",
+          "answer": "My friend thinks the third phone is the best choice, because its battery lasts the longest, and the price is favorable.",
+          "note": "good 的最高级是 the best,表示\"最好的\"。",
+          "point": "最高级 the best"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My friend thinks the third phone is the best choice, because its battery lasts the longest, and the price is favorable.",
+          "answer": "My friend thinks the third phone is the best choice, because its battery lasts the longest, and the price is favorable.",
+          "note": "lasts the longest 中 the longest 修饰动词 last,表示\"持续最久\"。",
+          "point": "副词最高级 the longest"
+        }
+      ]
+    },
+    {
+      "text": "After comparing them carefully, I decided to buy the second one, because it is the most suitable for me, and price is an important factor.",
+      "translation": "仔细比较之后,我决定买第二款,因为它最适合我,而且价格是一个重要因素。",
+      "chunks": [
+        {
+          "label": "时间状语(介词+动名词)",
+          "color": "#8ab4f8",
+          "text": "After comparing them carefully"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I decided to buy the second one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "decided"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to buy the second one"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "it is the most suitable for me"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "price is an important factor",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "price"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "an important factor"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "after + 动名词作时间状语",
+          "note": "After comparing them carefully 表示\"仔细比较之后\",after 后接动名词。"
+        },
+        {
+          "name": "最高级 the most suitable",
+          "note": "suitable 的最高级是 the most suitable,表示\"最适合的\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "I decided to buy the second one",
+          "name": "after + 动名词作时间状语"
+        },
+        {
+          "grammarId": "g-s2u8",
+          "phrase": "I decided to buy the second one",
+          "name": "最高级 the most suitable"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After comparing them carefully, I decided to buy the second one, because it is the most suitable for me, and price is an important factor.",
+          "answer": "After comparing them carefully, I decided to buy the second one, because it is the most suitable for me, and price is an important factor.",
+          "note": "After comparing them carefully 表示\"仔细比较之后\",after 后接动名词。",
+          "point": "after + 动名词作时间状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After comparing them carefully, I decided to buy the second one, because it is the most suitable for me, and price is an important factor.",
+          "answer": "After comparing them carefully, I decided to buy the second one, because it is the most suitable for me, and price is an important factor.",
+          "note": "suitable 的最高级是 the most suitable,表示\"最适合的\"。",
+          "point": "最高级 the most suitable"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u8",
+      "name": "compare 比较",
+      "note": "compare three models 表示\"比较三款型号\",比较是本文的主题动作。",
+      "sourceExample": "This year, I finally compared three phone models in the shop with my best friend.",
+      "sourceExampleCn": "今年,我终于和最好的朋友在商店里比较了三款手机型号。"
+    },
+    {
+      "grammarId": "g-s2u8",
+      "name": "finally 终于",
+      "note": "finally 作状语,强调\"终于\"做了这件事。",
+      "sourceExample": "This year, I finally compared three phone models in the shop with my best friend.",
+      "sourceExampleCn": "今年,我终于和最好的朋友在商店里比较了三款手机型号。"
+    },
+    {
+      "grammarId": "g-s2u8",
+      "name": "比较级 + than",
+      "note": "cheaper 是 cheap 的比较级,than 引出比较对象:比第二款便宜。",
+      "sourceExample": "The first phone is cheaper than the second one, but its screen is smaller.",
+      "sourceExampleCn": "第一款手机比第二款便宜,但它的屏幕更小。"
+    },
+    {
+      "grammarId": "g-s2u8",
+      "name": "比较级 smaller",
+      "note": "small 的比较级是 smaller,短形容词直接加 -er。",
+      "sourceExample": "The first phone is cheaper than the second one, but its screen is smaller.",
+      "sourceExampleCn": "第一款手机比第二款便宜,但它的屏幕更小。"
+    },
+    {
+      "grammarId": "g-s2u8",
+      "name": "比较级 bigger / better",
+      "note": "big 的比较级是 bigger,good 的比较级是 better,属于不规则变化。",
+      "sourceExample": "The second phone has a bigger battery, and its camera is much better than mine.",
+      "sourceExampleCn": "第二款手机的电池更大,它的摄像头比我的好得多。"
+    }
+  ]
+}

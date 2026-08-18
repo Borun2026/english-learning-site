@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u1",
+  "stage": 3,
+  "unitId": "s3u1",
+  "title": "听力挑战 · 讨论学习计划",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "同学",
+      "line": "What if I fail the final exam this time around?",
+      "lineCn": "如果我这次期末考试没考过怎么办?",
+      "grammar": [
+        { "name": "if 条件句主将从现", "note": "if 从句用一般现在时,主句用 will,表达将来可能发生的条件。" }
+      ],
+      "options": [
+        { "text": "If you study hard now, you will pass it.", "correct": true, "feedback": "if 从句现在时加主句 will,条件句使用正确。" },
+        { "text": "If you studied hard, you passed it.", "correct": false, "feedback": "从句过去时与主句过去时混搭,结构不符合规则。" },
+        { "text": "You failed the exam last time.", "correct": false, "feedback": "武断认定失败,也没有给出条件句回应。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "When do you plan to start your review for the test?",
+      "lineCn": "你打算什么时候开始为考试复习?",
+      "grammar": [
+        { "name": "if 从句补充条件", "note": "回答中可用 if 从句补充说明条件,使计划更具体。" }
+      ],
+      "options": [
+        { "text": "If I have time tonight, I will start reading.", "correct": true, "feedback": "if 从句加 will 主句,条件明确、自然。" },
+        { "text": "I have reviewed every chapter so far.", "correct": false, "feedback": "现在完成时谈已复习内容,没有回答何时开始。" },
+        { "text": "I reviewed the first chapter yesterday.", "correct": false, "feedback": "过去时谈昨天,不是将来的计划。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "Will you join the study group tomorrow morning at nine?",
+      "lineCn": "明早九点你会参加学习小组吗?",
+      "grammar": [
+        { "name": "if 条件句的回答", "note": "回答含 if 条件的意愿时,if 从句用一般现在时表示将来条件。" }
+      ],
+      "options": [
+        { "text": "I will, if the teacher agrees to join us.", "correct": true, "feedback": "if 从句现在时加主句 will,条件回应完整。" },
+        { "text": "I joined the group yesterday.", "correct": false, "feedback": "过去时谈昨天参加,没有回答明天是否参加。" },
+        { "text": "I am joining the gym now.", "correct": false, "feedback": "现在进行时谈健身房,与学习小组无关。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u4",
+  "stage": 2,
+  "unitId": "s2u4",
+  "title": "真题演练 · 不定式 to do",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 不定式 to do。",
+  "questions": [
+    {
+      "q": "She hopes ___ a singer in the future.",
+      "options": [
+        "become",
+        "to become",
+        "becoming",
+        "became"
+      ],
+      "answer": 1,
+      "analysis": "hope 后接不定式 to become。",
+      "point": "g-s2u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He got up early ___ the first bus.",
+      "options": [
+        "catch",
+        "to catch",
+        "catching",
+        "caught"
+      ],
+      "answer": 1,
+      "analysis": "目的状语用不定式 to catch。",
+      "point": "g-s2u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I want ___ my parents.",
+      "options": [
+        "help",
+        "to help",
+        "helping",
+        "helped"
+      ],
+      "answer": 1,
+      "analysis": "want 后接不定式 to help。",
+      "point": "g-s2u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The bag is too heavy for me ___.",
+      "options": [
+        "carry",
+        "to carry",
+        "carrying",
+        "carried"
+      ],
+      "answer": 1,
+      "analysis": "too...to 结构用动词原形 to carry。",
+      "point": "g-s2u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ is important to speak clearly.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "He"
+      ],
+      "answer": 0,
+      "analysis": "it 作形式主语,真正主语是后面的不定式。",
+      "point": "g-s2u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I decide go there alone.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I decide to go there alone.。decide 后必须接不定式 to go。",
+      "point": "g-s2u4",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

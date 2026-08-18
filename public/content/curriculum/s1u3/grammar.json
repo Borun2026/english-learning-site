@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u3",
+  "stage": 1,
+  "title": "一般过去时",
+  "explanation": "## 一般过去时的用法\n\n一般过去时表示过去某个时间发生的动作或存在的状态。常与 yesterday、last week、ago、just now 等过去时间词连用。\n\n## 动词过去式变化\n\n1. **规则变化**:一般在动词后加 -ed(visit→visited);以 -e 结尾加 -d(live→lived);辅音字母加 y 结尾,变 y 为 i 加 -ed(study→studied)。\n2. **不规则变化**:需要单独记忆,如 go→went、have→had、see→saw、eat→ate、come→came、make→made、take→took。\n3. **be 动词**:am/is 的过去式是 was,are 的过去式是 were。\n\n## 时间标志词\n\n看到这些词一般就用一般过去时:yesterday(昨天)、last week / month / year(上周/月/年)、... ago(…以前)、just now(刚才)、in 2020(在 2020 年)。\n\n## 否定与疑问\n\n- 否定:主语 + didn't + 动词原形\n- 疑问:Did + 主语 + 动词原形?\n\n注意:didn't 和 Did 后面动词一律用原形,即使主语是第三人称单数。",
+  "examples": [
+    { "en": "I visited my grandparents last weekend.", "cn": "我上周末看望了祖父母。", "note": "visited 是 visit 的过去式,规则变化加 -ed。" },
+    { "en": "We went to the park yesterday.", "cn": "我们昨天去了公园。", "note": "went 是 go 的不规则过去式,要单独记忆。" },
+    { "en": "She was very happy then.", "cn": "她那时很开心。", "note": "表示过去的状态,be 动词用过去式 was。" },
+    { "en": "Did you see the movie last night?", "cn": "你昨晚看电影了吗?", "note": "过去疑问句用 Did + 主语 + 动词原形 see。" }
+  ],
+  "errors": [
+    { "wrong": "I go to the zoo yesterday.", "right": "I went to the zoo yesterday.", "note": "有 yesterday 要用一般过去时,go→went。" },
+    { "wrong": "She didn't went home.", "right": "She didn't go home.", "note": "didn't 后面必须用动词原形 go。" },
+    { "wrong": "They was at school yesterday.", "right": "They were at school yesterday.", "note": "主语 they 是复数,be 动词过去式用 were。" }
+  ],
+  "quiz": [
+    { "q": "I ___ TV last night.", "options": ["watch", "watched", "watches", "watching"], "answer": 1, "note": "last night 是过去时间,watch 规则变化加 -ed。" },
+    { "q": "She ___ a letter to her friend yesterday.", "options": ["write", "wrote", "writes", "writing"], "answer": 1, "note": "write 的不规则过去式是 wrote。" },
+    { "q": "___ you ___ your homework yesterday?", "options": ["Do / do", "Did / do", "Did / did", "Does / does"], "answer": 1, "note": "过去疑问句用 Did + 动词原形 do。" },
+    { "q": "There ___ many people at the party last night.", "options": ["is", "are", "was", "were"], "answer": 3, "note": "people 是复数,且是过去时间,be 用 were。" },
+    { "q": "He didn't ___ breakfast this morning.", "options": ["have", "had", "has", "having"], "answer": 0, "note": "didn't 后接动词原形 have,不能写 had。" }
+  ]
+}

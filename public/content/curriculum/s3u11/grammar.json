@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u11",
+  "stage": 3,
+  "title": "介词进阶",
+  "explanation": "## 介词进阶:一词多义的精确把握\n\n介词是英语的\"胶水\"。六级阶段要掌握介词的**多重含义**与**固定搭配**。\n\n## 常用介词的多义\n\n1. **for**:表目的(为)、时间持续(for three years)、原因(be famous for)、交换(buy for)。\n2. **with**:表伴随(with a book)、方式(with care)、原因(tremble with fear)、带有(a man with glasses)。\n3. **on**:在……上、关于(a book on history)、从事(on duty)、依靠(depend on)。\n4. **in**:时间(in the morning)、地点、状态(in trouble)、方式(in English)、将来(in a week)。\n\n## 固定搭配精讲\n\n- 形容词 + 介词:good at, interested in, proud of, worried about, familiar with, different from。\n- 动词 + 介词:congratulate sb on, prevent sb from, accuse sb of, warn sb of。\n- 名词 + 介词:reason for, effect on, access to, solution to, attitude toward。\n\n## 易混介词\n\n- between(两者)vs among(三者以上)\n- since(点时间)vs for(段时间)\n- in(一段时间内)vs after(从说话时刻起)\n- 注意 the key to the door 用 to,不用 of;the answer to the question 同理。",
+  "examples": [
+    { "en": "She is familiar with the local customs.", "cn": "她熟悉当地的风俗。", "note": "familiar with 表\"熟悉\"。" },
+    { "en": "The key to success is persistence.", "cn": "成功的关键是坚持。", "note": "key 后用介词 to,固定搭配。" },
+    { "en": "He prevented me from making the same mistake.", "cn": "他阻止我犯同样的错误。", "note": "prevent sb from doing 固定结构。" },
+    { "en": "The meeting will be held in three days.", "cn": "会议将在三天后举行。", "note": "in + 时间段表将来,意为\"……之后\"。" }
+  ],
+  "errors": [
+    { "wrong": "She is good in math.", "right": "She is good at math.", "note": "be good at 是固定搭配,表\"擅长\"。" },
+    { "wrong": "He is proud for his son.", "right": "He is proud of his son.", "note": "be proud of 表\"为……骄傲\"。" },
+    { "wrong": "The door key is broken.", "right": "The key to the door is broken.", "note": "口语可说 door key,但书面正式表达 key to the door 更规范。" }
+  ],
+  "quiz": [
+    { "q": "She is interested ___ music.", "options": ["in", "on", "at", "for"], "answer": 0, "note": "be interested in 固定搭配。" },
+    { "q": "We should be responsible ___ our actions.", "options": ["of", "for", "to", "with"], "answer": 1, "note": "be responsible for 表\"对……负责\"。" },
+    { "q": "The medicine has a good effect ___ patients.", "options": ["for", "on", "to", "with"], "answer": 1, "note": "effect on 表\"对……的影响\"。" },
+    { "q": "He has been working here ___ 2018.", "options": ["for", "since", "in", "at"], "answer": 1, "note": "since + 点时间,搭配完成时。" },
+    { "q": "The problem was discussed ___ the three groups.", "options": ["between", "among", "in", "on"], "answer": 1, "note": "三者及以上用 among。" }
+  ]
+}

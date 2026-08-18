@@ -1,0 +1,62 @@
+{
+ "id": "cet6-045",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第2套) Passage 1",
+ "title": "Effective Friday, Screen Actors Guild-American Federation of Television and R...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 428,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Effective Friday, Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA) has declared a strike against 11 video game publishers over games that went into production after Feb. 17, 2015. The companies include some of the heavyweights of the industry, like Electronic Arts Productions, Insomniac Games, Activision and Disney.",
+  "The strike comes in light of an unsuccessful 19 months of negotiations after the existing labor contract known as the Interactive Media Agreement expired in late 2014. overall, the strike is an effort to provide more secondary compensation along with other concerns, such as transparency upon hiring talent and on-set safety precautions.",
+  "The video gaming industry has ballooned in recent years. The Los Angeles Times reports that the industry is in the midst of an intense increase in cash flow. In 2015, gaming produced $23.5 billion in domestic revenue.",
+  "But SAG-AFTRA says voice actors don't receive residuals for their gaming work. Instead, they receive a fixed rate, which is typically about $825 for a standard four-hour vocal session. So the voice actors are pushing for the idea of secondary compensation--a performance bonus every time a game sells 2 million copies or downloads, or reaches 2 million subscribers, with a cap at 8 million.",
+  "\"It's a very small number of games that would trigger this secondary compensation issue,\" said voice actor Crispin Freeman, who's a member of the union's negotiating committee. \"This is an important aspect of what it means to be a freelance performer, who isn't regularly employed every single day working on projects.\"",
+  "Another major complaint from the actors is the secrecy of the industry. \"I can't imagine if there's any other acting job in the world where you don't know what show you're in, when you're hired,\"says voice actor Keythe Farley, who chairs the SAG-AFTRA negotiating committee.",
+  "\"And yet that happens every day in the video game world,\"Farley told reporters during a press conference Friday. \"I was a main character in Fallout 4, a character by the name of Kellogg, and I never knew that I was doing vocal recording for that game throughout the year and a half.\"",
+  "Scott Witlin, the lawyer representing the video game companies, says voice actors \"represent less than one tenth of 1 percent of the work that goes into making a video game.\" So \"even though they're the top craftsmen in their field,\"Witlin says, \"if we pay them under a vastly different system than the people who do the 99.9 percent of the work, that's going to create far more problems for the video game companies.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “receive” 最接近的意思是?",
+   "options": [
+    "中间",
+    "收到,接到",
+    "遍及",
+    "同意"
+   ],
+   "answer": 1,
+   "analysis": "“receive” 意为「收到,接到」。原文语境:But SAG-AFTRA says voice actors don't receive residuals for their gaming work.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:___, they receive a fixed rate, which is typically about $825 for a standard four-hour vocal session.",
+   "options": [
+    "recent",
+    "freelance",
+    "single",
+    "Instead"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Instead, they receive a fixed rate, which is typically about $825 for a standard four-hour vocal session.”。空格处应填入 “Instead”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Since American idol star Taryn Southern started composing music with AI in 20",
+    "Effective Friday, Screen Actors Guild-American Federation of Television and R",
+    "GDP growth is not a good indicator of how well a country is performing, and s",
+    "How can one person enjoy good health, while another person looks old before h"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Effective Friday, Screen Actors Guild-American Federation of Television and Radio Artists (SAG-AFTRA) has declared a strike against 11 video game publishers ove”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

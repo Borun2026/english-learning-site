@@ -1,0 +1,63 @@
+{
+ "id": "cet6-057",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第2套) Passage 1",
+ "title": "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 472,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive, having published 1 79 books at a rate of up to seven a year. But a passing reference in a recent profile by Glamour magazine to her 20-hour workdays prompted an outpouring of admiration.",
+  "Steel has given that 20-hour figure when describing her \" exhausting\" process in the past: \" I start the book and don't leave my desk until the first draft is finished.\" She goes from bed, to desk, to bath, to bed, avoiding all contact aside from phone calls with her nine children. \" I don't comb my hair for weeks,\" she says. Meals are brought to her desk, where she types until her fingers swell and her nails bleed.",
+  "The business news website Quartz held Steel up as an inspiration, writing that if only we all followed her \" actually extremely liberating\" example of industrious sleeplessness, we would be quick to see results.",
+  "Well, indeed. With research results showing the cumulative effects of sleep loss and its impact on productivity, doubt has been voiced about the accuracy of Steel's self-assessment. Her output may be undeniable, but sceptics have suggested that she is guilty of erasing the role of ghostwriters ( 1-\\. flA. ) at worst, gross exaggeration at best.",
+  "Steel says working 20 hours a day is \" pretty brutal physically. \" But is it even possible? \" No,\" says Maryanne Taylor of the Sleep Works. While you could work that long, the impact on productivity would make it hardly worthwhile. If Steel was routinely sleeping for four hours a night, she would be drastically underestimating the negative impact, says Alison Gardiner, founder of the sleep improvement programme Sleepstation. \" It's akin to being drunk. \"",
+  "It's possible that Steel i s exaggerating the demands o f her schedule. Self-imposed sleeplessness has \" become a bit of a status symbol\" , says Taylor, a misguided measure to prove how powerful and productive you are. Margaret Thatcher was also said to get by on four hours a night, while the 1 30hour work weeks endured by tech heads has been held up as key to their success.",
+  "That is starting to change with increased awareness of the importance of sleep for mental health. \" People are starting to realise that sleep should not be something that you fit in between everything else,\" says Taylor.",
+  "But it is possible-if statistically extremely unlikely-that Steel could be born a \" short sleeper\" with an unusual body clock, says sleep expert Dr. Sophie Bostock. \" It's probably present in fewer than 1 % of the population. \"",
+  "Even i f Steel does happen to b e among that tiny minority, says Bostock, it's \" pretty irresponsible\" to suggest that 20-hour days are simply a question of discipline for the rest of us."
+ ],
+ "questions": [
+  {
+   "q": "文中 “night” 最接近的意思是?",
+   "options": [
+    "碰撞，撞击，撞击力",
+    "意识",
+    "夜，夜间",
+    "真正地"
+   ],
+   "answer": 2,
+   "analysis": "“night” 意为「夜，夜间」。原文语境:If Steel was routinely sleeping for four hours a night, she would be drastically underestimating the negative impact, says Alison Gardiner, founder of the sleep improvement program",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Meals are brought to her desk, where she types until her fingers swell and her nails ___.",
+   "options": [
+    "bleed",
+    "happen",
+    "question",
+    "drunk"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Meals are brought to her desk, where she types until her fingers swell and her nails bleed.”。空格处应填入 “bleed”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Social media is absolutely everywhere",
+    "If there's one rule that most parents cling to in the confusing, fast-changin",
+    "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,",
+    "Journal editors decide what gets published and what doesn't, affecting the ca"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive, having published 1 79 books at a rate of up to seven a year.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

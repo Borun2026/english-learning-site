@@ -1,0 +1,923 @@
+{
+  "id": "a-s2u9",
+  "stage": 2,
+  "unitId": "s2u9",
+  "title": "Where Is My Package?",
+  "newWords": [
+    "arrived",
+    "cannot",
+    "checked",
+    "looking",
+    "ordered",
+    "took",
+    "was",
+    "impatient",
+    "label",
+    "indication",
+    "inspection",
+    "inner",
+    "location",
+    "lag",
+    "instantly"
+  ],
+  "sentences": [
+    {
+      "text": "My package should have arrived yesterday, but I can not find it, and I become impatient.",
+      "translation": "我的包裹本应昨天就到了,但我找不到它,我开始不耐烦了。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "My package should have arrived",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My package"
+            },
+            {
+              "role": "谓语(情态动词+完成时)",
+              "text": "should have arrived"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "yesterday"
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I can not find it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(情态动词否定)",
+              "text": "can not find"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I become impatient",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "become"
+            },
+            {
+              "role": "表语",
+              "text": "impatient"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "should have done 本应已经",
+          "note": "should have arrived 表示\"本应该已经到达(但没到)\",是对过去的推测兼遗憾。"
+        },
+        {
+          "name": "can not 不能",
+          "note": "can not find 表示\"找不到\",can 表能力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "My package should have arrived",
+          "name": "should have done 本应已经"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "My package should have arrived",
+          "name": "can not 不能"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My package should have arrived yesterday, but I can not find it, and I become impatient.",
+          "answer": "My package should have arrived yesterday, but I can not find it, and I become impatient.",
+          "note": "should have arrived 表示\"本应该已经到达(但没到)\",是对过去的推测兼遗憾。",
+          "point": "should have done 本应已经"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My package should have arrived yesterday, but I can not find it, and I become impatient.",
+          "answer": "My package should have arrived yesterday, but I can not find it, and I become impatient.",
+          "note": "can not find 表示\"找不到\",can 表能力。",
+          "point": "can not 不能"
+        }
+      ]
+    },
+    {
+      "text": "It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+      "translation": "它可能在前面办公室,也可能在后门,蓝色标签对我来说是个好线索。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It might be",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(情态动词+系动词)",
+              "text": "might be"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in the front office"
+        },
+        {
+          "label": "连词(选择)",
+          "color": "#f6c177",
+          "text": "or"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "it could be",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(情态动词+系动词)",
+              "text": "could be"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at the back door"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the blue label is a good indication",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the blue label"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a good indication"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "for me"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "might be 可能(推测)",
+          "note": "might be 表示可能性较小的推测,意为\"也许是\"。"
+        },
+        {
+          "name": "could be 可能(推测)",
+          "note": "could be 也可以表示推测,与 might 类似,语气委婉。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "the blue label is a good indication",
+          "name": "might be 可能(推测)"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "the blue label is a good indication",
+          "name": "could be 可能(推测)"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+          "answer": "It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+          "note": "might be 表示可能性较小的推测,意为\"也许是\"。",
+          "point": "might be 可能(推测)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+          "answer": "It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+          "note": "could be 也可以表示推测,与 might 类似,语气委婉。",
+          "point": "could be 可能(推测)"
+        }
+      ]
+    },
+    {
+      "text": "The delivery man may have left it at the door of my neighbor.",
+      "translation": "快递员可能把它留在了邻居家门口。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The delivery man may have left it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The delivery man"
+            },
+            {
+              "role": "谓语(情态动词+完成时)",
+              "text": "may have left"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at the door of my neighbor"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "may have done 可能已经做了",
+          "note": "may have left 表示\"可能已经留下\",是对过去动作的推测。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "The delivery man may have left it",
+          "name": "may have done 可能已经做了"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The delivery man may have left it at the door of my neighbor.",
+          "answer": "The delivery man may have left it at the door of my neighbor.",
+          "note": "may have left 表示\"可能已经留下\",是对过去动作的推测。",
+          "point": "may have done 可能已经做了"
+        }
+      ]
+    },
+    {
+      "text": "It must be somewhere in this building, because I have checked every room, and my inspection is careful.",
+      "translation": "它一定在这栋楼的某个地方,因为我检查过每个房间,我的检查很仔细。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It must be",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(情态动词+系动词)",
+              "text": "must be"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "somewhere in this building"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I have checked every room"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "my inspection is careful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "my inspection"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "careful"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "must be 一定(肯定推测)",
+          "note": "must be 表示非常有把握的肯定推测,意为\"一定是\"。"
+        },
+        {
+          "name": "现在完成时 have checked",
+          "note": "have checked every room 表示\"已经检查过每个房间\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "somewhere in this building",
+          "name": "must be 一定(肯定推测)"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "somewhere in this building",
+          "name": "现在完成时 have checked"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It must be somewhere in this building, because I have checked every room, and my inspection is careful.",
+          "answer": "It must be somewhere in this building, because I have checked every room, and my inspection is careful.",
+          "note": "must be 表示非常有把握的肯定推测,意为\"一定是\"。",
+          "point": "must be 一定(肯定推测)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It must be somewhere in this building, because I have checked every room, and my inspection is careful.",
+          "answer": "It must be somewhere in this building, because I have checked every room, and my inspection is careful.",
+          "note": "have checked every room 表示\"已经检查过每个房间\"。",
+          "point": "现在完成时 have checked"
+        }
+      ]
+    },
+    {
+      "text": "The box cannot be too heavy, because I ordered only a small book, and the answer will come to me instantly.",
+      "translation": "这个箱子不可能太重,因为我只订了一本小书,答案会立刻出现在我脑海里。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The box cannot be too heavy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The box"
+            },
+            {
+              "role": "谓语(情态动词否定)",
+              "text": "cannot be"
+            },
+            {
+              "role": "表语",
+              "text": "too heavy"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I ordered only a small book"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the answer will come to me instantly",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the answer"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            },
+            {
+              "role": "状语",
+              "text": "to me instantly"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "cannot be 不可能(否定推测)",
+          "note": "cannot be 表示否定推测,意为\"不可能\"。"
+        },
+        {
+          "name": "一般过去时 ordered",
+          "note": "ordered 是一般过去时,表示\"订购过\"这个过去动作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "the answer will come to me instantly",
+          "name": "cannot be 不可能(否定推测)"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "the answer will come to me instantly",
+          "name": "一般过去时 ordered"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The box cannot be too heavy, because I ordered only a small book, and the answer will come to me instantly.",
+          "answer": "The box cannot be too heavy, because I ordered only a small book, and the answer will come to me instantly.",
+          "note": "cannot be 表示否定推测,意为\"不可能\"。",
+          "point": "cannot be 不可能(否定推测)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The box cannot be too heavy, because I ordered only a small book, and the answer will come to me instantly.",
+          "answer": "The box cannot be too heavy, because I ordered only a small book, and the answer will come to me instantly.",
+          "note": "ordered 是一般过去时,表示\"订购过\"这个过去动作。",
+          "point": "一般过去时 ordered"
+        }
+      ]
+    },
+    {
+      "text": "Maybe my friend took it by mistake, but he could not know it was mine, and I trust my inner feeling.",
+      "translation": "也许我朋友误拿了它,但他不可能知道那是我的,我相信我的直觉。",
+      "chunks": [
+        {
+          "label": "插入语(副词)",
+          "color": "#9fd8e8",
+          "text": "Maybe"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "my friend took it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "my friend"
+            },
+            {
+              "role": "谓语(一般过去时)",
+              "text": "took"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "by mistake"
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he could not know",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语(情态动词否定)",
+              "text": "could not know"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "it was mine"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I trust my inner feeling",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "trust"
+            },
+            {
+              "role": "宾语",
+              "text": "my inner feeling"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "could not 不可能(否定推测)",
+          "note": "could not know 表示\"不可能知道\",否定推测。"
+        },
+        {
+          "name": "by mistake 误、无意中",
+          "note": "by mistake 作方式状语,表示\"错误地、无意中\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I trust my inner feeling",
+          "name": "could not 不可能(否定推测)"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I trust my inner feeling",
+          "name": "by mistake 误、无意中"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Maybe my friend took it by mistake, but he could not know it was mine, and I trust my inner feeling.",
+          "answer": "Maybe my friend took it by mistake, but he could not know it was mine, and I trust my inner feeling.",
+          "note": "could not know 表示\"不可能知道\",否定推测。",
+          "point": "could not 不可能(否定推测)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Maybe my friend took it by mistake, but he could not know it was mine, and I trust my inner feeling.",
+          "answer": "Maybe my friend took it by mistake, but he could not know it was mine, and I trust my inner feeling.",
+          "note": "by mistake 作方式状语,表示\"错误地、无意中\"。",
+          "point": "by mistake 误、无意中"
+        }
+      ]
+    },
+    {
+      "text": "If it is still missing tomorrow, I will call the company and ask for help, because they know the location of my package.",
+      "translation": "如果明天还找不到,我会打电话给公司求助,因为他们知道我的包裹的位置。",
+      "chunks": [
+        {
+          "label": "从句(条件状语从句)",
+          "color": "#c8a5e0",
+          "text": "If it is still missing tomorrow"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will call the company and ask for help",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will call"
+            },
+            {
+              "role": "宾语",
+              "text": "the company"
+            },
+            {
+              "role": "谓语",
+              "text": "ask for"
+            },
+            {
+              "role": "宾语",
+              "text": "help"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "they know the location of my package"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 条件状语从句(主将从现)",
+          "note": "主句用 will call,条件从句 If it is... 用一般现在时,这是\"主将从现\"规则。"
+        },
+        {
+          "name": "ask for help 求助",
+          "note": "ask for help 是固定搭配,表示\"请求帮助\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I will call the company and ask for help",
+          "name": "if 条件状语从句(主将从现)"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I will call the company and ask for help",
+          "name": "ask for help 求助"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If it is still missing tomorrow, I will call the company and ask for help, because they know the location of my package.",
+          "answer": "If it is still missing tomorrow, I will call the company and ask for help, because they know the location of my package.",
+          "note": "主句用 will call,条件从句 If it is... 用一般现在时,这是\"主将从现\"规则。",
+          "point": "if 条件状语从句(主将从现)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If it is still missing tomorrow, I will call the company and ask for help, because they know the location of my package.",
+          "answer": "If it is still missing tomorrow, I will call the company and ask for help, because they know the location of my package.",
+          "note": "ask for help 是固定搭配,表示\"请求帮助\"。",
+          "point": "ask for help 求助"
+        }
+      ]
+    },
+    {
+      "text": "I am sure it will turn up soon, because my luck is always with me.",
+      "translation": "我确信它很快就会出现,因为好运总是伴随着我。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I am sure",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "am"
+            },
+            {
+              "role": "表语",
+              "text": "sure"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "it will turn up soon"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "my luck is always with me"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be sure + 宾语从句",
+          "note": "be sure 后接从句表示\"确信……\"。"
+        },
+        {
+          "name": "turn up 出现",
+          "note": "turn up 表示\"出现、露面\",常用词短语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "my luck is always with me",
+          "name": "be sure + 宾语从句"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "my luck is always with me",
+          "name": "turn up 出现"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I am sure it will turn up soon, because my luck is always with me.",
+          "answer": "I am sure it will turn up soon, because my luck is always with me.",
+          "note": "be sure 后接从句表示\"确信……\"。",
+          "point": "be sure + 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I am sure it will turn up soon, because my luck is always with me.",
+          "answer": "I am sure it will turn up soon, because my luck is always with me.",
+          "note": "turn up 表示\"出现、露面\",常用词短语。",
+          "point": "turn up 出现"
+        }
+      ]
+    },
+    {
+      "text": "I will keep looking for it, because I need that book for my exam, and I can not lag behind in my study.",
+      "translation": "我会继续寻找它,因为我考试需要那本书,我不能在学习上落后。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will keep looking for it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will keep"
+            },
+            {
+              "role": "宾语(动名词短语)",
+              "text": "looking for it"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I need that book for my exam"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I can not lag behind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(情态动词否定)",
+              "text": "can not lag behind"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in my study"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "keep doing 持续做",
+          "note": "keep looking for 表示\"一直寻找\",动名词作宾语。"
+        },
+        {
+          "name": "lag behind 落后",
+          "note": "lag behind 表示\"落后\",后接 in my study 说明在哪方面。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I need that book for my exam",
+          "name": "keep doing 持续做"
+        },
+        {
+          "grammarId": "g-s2u9",
+          "phrase": "I need that book for my exam",
+          "name": "lag behind 落后"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will keep looking for it, because I need that book for my exam, and I can not lag behind in my study.",
+          "answer": "I will keep looking for it, because I need that book for my exam, and I can not lag behind in my study.",
+          "note": "keep looking for 表示\"一直寻找\",动名词作宾语。",
+          "point": "keep doing 持续做"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will keep looking for it, because I need that book for my exam, and I can not lag behind in my study.",
+          "answer": "I will keep looking for it, because I need that book for my exam, and I can not lag behind in my study.",
+          "note": "lag behind 表示\"落后\",后接 in my study 说明在哪方面。",
+          "point": "lag behind 落后"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u9",
+      "name": "should have done 本应已经",
+      "note": "should have arrived 表示\"本应该已经到达(但没到)\",是对过去的推测兼遗憾。",
+      "sourceExample": "My package should have arrived yesterday, but I can not find it, and I become impatient.",
+      "sourceExampleCn": "我的包裹本应昨天就到了,但我找不到它,我开始不耐烦了。"
+    },
+    {
+      "grammarId": "g-s2u9",
+      "name": "can not 不能",
+      "note": "can not find 表示\"找不到\",can 表能力。",
+      "sourceExample": "My package should have arrived yesterday, but I can not find it, and I become impatient.",
+      "sourceExampleCn": "我的包裹本应昨天就到了,但我找不到它,我开始不耐烦了。"
+    },
+    {
+      "grammarId": "g-s2u9",
+      "name": "might be 可能(推测)",
+      "note": "might be 表示可能性较小的推测,意为\"也许是\"。",
+      "sourceExample": "It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+      "sourceExampleCn": "它可能在前面办公室,也可能在后门,蓝色标签对我来说是个好线索。"
+    },
+    {
+      "grammarId": "g-s2u9",
+      "name": "could be 可能(推测)",
+      "note": "could be 也可以表示推测,与 might 类似,语气委婉。",
+      "sourceExample": "It might be in the front office, or it could be at the back door, and the blue label is a good indication for me.",
+      "sourceExampleCn": "它可能在前面办公室,也可能在后门,蓝色标签对我来说是个好线索。"
+    },
+    {
+      "grammarId": "g-s2u9",
+      "name": "may have done 可能已经做了",
+      "note": "may have left 表示\"可能已经留下\",是对过去动作的推测。",
+      "sourceExample": "The delivery man may have left it at the door of my neighbor.",
+      "sourceExampleCn": "快递员可能把它留在了邻居家门口。"
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "id": "a-s1u3",
+  "stage": 1,
+  "unitId": "s1u3",
+  "title": "A Nice Weekend",
+  "newWords": [
+    "weekend",
+    "visited",
+    "uncle",
+    "aunt",
+    "countryside",
+    "went",
+    "park",
+    "played",
+    "football",
+    "together",
+    "morning",
+    "was",
+    "sunny",
+    "had",
+    "picnic",
+    "grass",
+    "drank",
+    "ate",
+    "took",
+    "photos",
+    "came",
+    "felt",
+    "did",
+    "things"
+  ],
+  "sentences": [
+    {
+      "text": "Last weekend I visited my uncle and aunt in the countryside.",
+      "translation": "上周末我去乡下看望了叔叔和婶婶。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Last weekend"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I visited my uncle and aunt in the countryside",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "visited"
+            },
+            {
+              "role": "宾语",
+              "text": "my uncle and aunt"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the countryside"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般过去时(规则变化)",
+          "note": "visited 由 visit + ed 构成,表示\"(过去)参观、看望\"。"
+        },
+        {
+          "name": "last weekend 时间状语",
+          "note": "last weekend 是过去时间状语,提示整个句子用过去时。",
+          "example": "I visited him last week.",
+          "exampleCn": "上周我去看他了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I visited my uncle and aunt in the countryside",
+          "name": "一般过去时(规则变化)"
+        },
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I visited my uncle and aunt in the countryside",
+          "name": "last weekend 时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Last weekend I visited my uncle and aunt in the countryside.",
+          "answer": "Last weekend I visited my uncle and aunt in the countryside.",
+          "note": "visited 由 visit + ed 构成,表示\"(过去)参观、看望\"。",
+          "point": "一般过去时(规则变化)"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:上周我去看他了。",
+          "answer": "I visited him last week.",
+          "note": "last weekend 是过去时间状语,提示整个句子用过去时。",
+          "point": "last weekend 时间状语"
+        }
+      ]
+    },
+    {
+      "text": "We went to the park and played football together.",
+      "translation": "我们一起去公园踢足球了。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We went to the park and played football together",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "went"
+            },
+            {
+              "role": "地点状语",
+              "text": "to the park"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "played"
+            },
+            {
+              "role": "宾语",
+              "text": "football"
+            },
+            {
+              "role": "方式状语",
+              "text": "together"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不规则动词 went",
+          "note": "go 的过去式是 went,不是加 -ed,需要单独记忆。",
+          "example": "We went home at five.",
+          "exampleCn": "我们五点回家了。"
+        },
+        {
+          "name": "played 规则过去式",
+          "note": "play 加 -ed 构成过去式 played。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "We went to the park and played football together",
+          "name": "不规则动词 went"
+        },
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "We went to the park and played football together",
+          "name": "played 规则过去式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们五点回家了。",
+          "answer": "We went home at five.",
+          "note": "go 的过去式是 went,不是加 -ed,需要单独记忆。",
+          "point": "不规则动词 went"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We went to the park and played football together.",
+          "answer": "We went to the park and played football together.",
+          "note": "play 加 -ed 构成过去式 played。",
+          "point": "played 规则过去式"
+        }
+      ]
+    },
+    {
+      "text": "In the morning it was sunny and warm, so we had a picnic on the grass.",
+      "translation": "早上天气晴朗又暖和,所以我们就在草地上野餐了。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the morning"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "it was sunny and warm",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "sunny and warm"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", so"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "we had a picnic on the grass",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "had"
+            },
+            {
+              "role": "宾语",
+              "text": "a picnic"
+            },
+            {
+              "role": "地点状语",
+              "text": "on the grass"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "was 是 be 的过去式",
+          "note": "主语是 it 时,be 动词过去式用 was。"
+        },
+        {
+          "name": "so 表因果",
+          "note": "so 表示\"所以\",连接原因和结果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "we had a picnic on the grass",
+          "name": "was 是 be 的过去式"
+        },
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "we had a picnic on the grass",
+          "name": "so 表因果"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the morning it was sunny and warm, so we had a picnic on the grass.",
+          "answer": "In the morning it was sunny and warm, so we had a picnic on the grass.",
+          "note": "主语是 it 时,be 动词过去式用 was。",
+          "point": "was 是 be 的过去式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the morning it was sunny and warm, so we had a picnic on the grass.",
+          "answer": "In the morning it was sunny and warm, so we had a picnic on the grass.",
+          "note": "so 表示\"所以\",连接原因和结果。",
+          "point": "so 表因果"
+        }
+      ]
+    },
+    {
+      "text": "We drank juice and ate many delicious things.",
+      "translation": "我们喝了果汁,还吃了许多好吃的东西。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We drank juice and ate many delicious things",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "drank"
+            },
+            {
+              "role": "宾语",
+              "text": "juice"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "ate"
+            },
+            {
+              "role": "宾语",
+              "text": "many delicious things"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不规则动词 drank / ate",
+          "note": "drink 的过去式是 drank,eat 的过去式是 ate,都要单独记忆。",
+          "example": "She ate an apple.",
+          "exampleCn": "她吃了一个苹果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "We drank juice and ate many delicious things",
+          "name": "不规则动词 drank / ate"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她吃了一个苹果。",
+          "answer": "She ate an apple.",
+          "note": "drink 的过去式是 drank,eat 的过去式是 ate,都要单独记忆。",
+          "point": "不规则动词 drank / ate"
+        }
+      ]
+    },
+    {
+      "text": "I took many photos with my father and my cousin.",
+      "translation": "我和爸爸、表弟拍了很多照片。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I took many photos with my father and my cousin",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "took"
+            },
+            {
+              "role": "宾语",
+              "text": "many photos"
+            },
+            {
+              "role": "伴随状语",
+              "text": "with my father and my cousin"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不规则动词 took",
+          "note": "take 的过去式是 took;many 后接可数名词复数。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I took many photos with my father and my cousin",
+          "name": "不规则动词 took"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I took many photos with my father and my cousin.",
+          "answer": "I took many photos with my father and my cousin.",
+          "note": "take 的过去式是 took;many 后接可数名词复数。",
+          "point": "不规则动词 took"
+        }
+      ]
+    },
+    {
+      "text": "In the evening we came home, and I felt very happy and tired.",
+      "translation": "晚上我们回到家,我感到又开心又累。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the evening"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "we came home",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "came"
+            },
+            {
+              "role": "地点状语",
+              "text": "home"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "I felt very happy and tired",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "felt"
+            },
+            {
+              "role": "表语",
+              "text": "very happy and tired"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不规则动词 came / felt",
+          "note": "come 的过去式是 came,feel 的过去式是 felt,都用来说明过去的动作和状态。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I felt very happy and tired",
+          "name": "不规则动词 came / felt"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the evening we came home, and I felt very happy and tired.",
+          "answer": "In the evening we came home, and I felt very happy and tired.",
+          "note": "come 的过去式是 came,feel 的过去式是 felt,都用来说明过去的动作和状态。",
+          "point": "不规则动词 came / felt"
+        }
+      ]
+    },
+    {
+      "text": "I did not want to leave my uncle, but the weekend was really nice.",
+      "translation": "我不想离开叔叔,但是这个周末真的过得很愉快。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I did not want to leave my uncle",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "did not want"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to leave"
+            },
+            {
+              "role": "对象状语",
+              "text": "to my uncle"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", but"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the weekend was really nice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the weekend"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "really nice"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去时否定",
+          "note": "did not (didn't) + 动词原形构成过去时否定句,这里 want 用原形。",
+          "example": "I did not watch TV.",
+          "exampleCn": "我没看电视。"
+        },
+        {
+          "name": "was 过去式",
+          "note": "was 是 is 的过去式,主语 the weekend 用 was。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I did not want to leave my uncle",
+          "name": "过去时否定"
+        },
+        {
+          "grammarId": "g-s1u3",
+          "phrase": "I did not want to leave my uncle",
+          "name": "was 过去式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我没看电视。",
+          "answer": "I did not watch TV.",
+          "note": "did not (didn't) + 动词原形构成过去时否定句,这里 want 用原形。",
+          "point": "过去时否定"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I did not want to leave my uncle, but the weekend was really nice.",
+          "answer": "I did not want to leave my uncle, but the weekend was really nice.",
+          "note": "was 是 is 的过去式,主语 the weekend 用 was。",
+          "point": "was 过去式"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u3",
+      "name": "一般过去时(规则变化)",
+      "note": "visited 由 visit + ed 构成,表示\"(过去)参观、看望\"。",
+      "sourceExample": "Last weekend I visited my uncle and aunt in the countryside.",
+      "sourceExampleCn": "上周末我去乡下看望了叔叔和婶婶。"
+    },
+    {
+      "grammarId": "g-s1u3",
+      "name": "last weekend 时间状语",
+      "note": "last weekend 是过去时间状语,提示整个句子用过去时。",
+      "sourceExample": "Last weekend I visited my uncle and aunt in the countryside.",
+      "sourceExampleCn": "上周末我去乡下看望了叔叔和婶婶。"
+    },
+    {
+      "grammarId": "g-s1u3",
+      "name": "不规则动词 went",
+      "note": "go 的过去式是 went,不是加 -ed,需要单独记忆。",
+      "sourceExample": "We went to the park and played football together.",
+      "sourceExampleCn": "我们一起去公园踢足球了。"
+    },
+    {
+      "grammarId": "g-s1u3",
+      "name": "played 规则过去式",
+      "note": "play 加 -ed 构成过去式 played。",
+      "sourceExample": "We went to the park and played football together.",
+      "sourceExampleCn": "我们一起去公园踢足球了。"
+    },
+    {
+      "grammarId": "g-s1u3",
+      "name": "was 是 be 的过去式",
+      "note": "主语是 it 时,be 动词过去式用 was。",
+      "sourceExample": "In the morning it was sunny and warm, so we had a picnic on the grass.",
+      "sourceExampleCn": "早上天气晴朗又暖和,所以我们就在草地上野餐了。"
+    }
+  ]
+}

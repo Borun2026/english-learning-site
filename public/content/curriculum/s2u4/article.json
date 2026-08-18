@@ -1,0 +1,790 @@
+{
+  "id": "a-s2u4",
+  "stage": 2,
+  "unitId": "s2u4",
+  "title": "Plans and Goals",
+  "newWords": [
+    "decided",
+    "decides",
+    "done",
+    "goals",
+    "helps",
+    "hopes",
+    "mountains",
+    "skills",
+    "trying",
+    "wants",
+    "productive",
+    "priority",
+    "promising",
+    "responsible",
+    "significant",
+    "pursue"
+  ],
+  "sentences": [
+    {
+      "text": "I want to pass the English exam this year, and I plan to study every day to be more productive.",
+      "translation": "今年我想通过英语考试,并计划每天学习,让自己更高效。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I want to pass the English exam",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "want"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to pass the English exam"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "this year"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I plan to study every day",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "plan"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to study every day"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "to be more productive"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "want / plan + 不定式",
+          "note": "want to do 和 plan to do 中,不定式作宾语,表示\"想要/计划做某事\"。",
+          "example": "I plan to read English every morning.",
+          "exampleCn": "我计划每天早上读英语。"
+        },
+        {
+          "name": "不定式表目的",
+          "note": "to be more productive 放句末作目的状语,表示\"为了更高效\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "I want to pass the English exam",
+          "name": "want / plan + 不定式"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "I want to pass the English exam",
+          "name": "不定式表目的"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我计划每天早上读英语。",
+          "answer": "I plan to read English every morning.",
+          "note": "want to do 和 plan to do 中,不定式作宾语,表示\"想要/计划做某事\"。",
+          "point": "want / plan + 不定式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I want to pass the English exam this year, and I plan to study every day to be more productive.",
+          "answer": "I want to pass the English exam this year, and I plan to study every day to be more productive.",
+          "note": "to be more productive 放句末作目的状语,表示\"为了更高效\"。",
+          "point": "不定式表目的"
+        }
+      ]
+    },
+    {
+      "text": "My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+      "translation": "我哥哥希望毕业后找到好工作,他决心提高自己的技能,因为工作是他的头等大事。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My brother hopes to find a good job",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My brother"
+            },
+            {
+              "role": "谓语",
+              "text": "hopes"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to find a good job"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "after graduation"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he decides to improve his skills",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "decides"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to improve his skills"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "work is his first priority"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hope / decide to do",
+          "note": "hope to do 表示\"希望做\",decide to do 表示\"决心做\",都接不定式作宾语。"
+        },
+        {
+          "name": "because 原因状语从句",
+          "note": "because 从句解释原因,说明\"为什么是头等大事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "My brother hopes to find a good job",
+          "name": "hope / decide to do"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "My brother hopes to find a good job",
+          "name": "because 原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+          "answer": "My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+          "note": "hope to do 表示\"希望做\",decide to do 表示\"决心做\",都接不定式作宾语。",
+          "point": "hope / decide to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+          "answer": "My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+          "note": "because 从句解释原因,说明\"为什么是头等大事\"。",
+          "point": "because 原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+      "translation": "我们已经决定为去山里的长途旅行存钱,我们将追逐这个梦想。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We have decided to save money",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have decided"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to save money"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for a long trip"
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "to the mountains"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we will pursue this dream",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will pursue"
+            },
+            {
+              "role": "宾语",
+              "text": "this dream"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "decide to do 决定做",
+          "note": "have decided to save 中不定式作宾语,完成时强调\"已经下决心\"。"
+        },
+        {
+          "name": "介词短语作定语",
+          "note": "to the mountains 修饰 trip,表示\"去山里的\"旅行。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "We have decided to save money",
+          "name": "decide to do 决定做"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "We have decided to save money",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+          "answer": "We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+          "note": "have decided to save 中不定式作宾语,完成时强调\"已经下决心\"。",
+          "point": "decide to do 决定做"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+          "answer": "We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+          "note": "to the mountains 修饰 trip,表示\"去山里的\"旅行。",
+          "point": "介词短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "To achieve our goals, we need to work hard and to keep learning, and our future is promising.",
+      "translation": "为了实现我们的目标,我们需要努力学习并持续学习,我们的未来充满希望。",
+      "chunks": [
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "To achieve our goals"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we need to work hard and to keep learning",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "need"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to work hard and to keep learning"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "our future is promising",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "our future"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "promising"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式放句首表目的",
+          "note": "To achieve our goals 放句首作目的状语,表示\"为了实现目标\"。"
+        },
+        {
+          "name": "need to do 需要做",
+          "note": "need to work hard 中不定式作宾语;"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "we need to work hard and to keep learning",
+          "name": "不定式放句首表目的"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "we need to work hard and to keep learning",
+          "name": "need to do 需要做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To achieve our goals, we need to work hard and to keep learning, and our future is promising.",
+          "answer": "To achieve our goals, we need to work hard and to keep learning, and our future is promising.",
+          "note": "To achieve our goals 放句首作目的状语,表示\"为了实现目标\"。",
+          "point": "不定式放句首表目的"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To achieve our goals, we need to work hard and to keep learning, and our future is promising.",
+          "answer": "To achieve our goals, we need to work hard and to keep learning, and our future is promising.",
+          "note": "need to work hard 中不定式作宾语;",
+          "point": "need to do 需要做"
+        }
+      ]
+    },
+    {
+      "text": "My sister wants to become a doctor, and she is trying to enter a medical school.",
+      "translation": "我妹妹想成为一名医生,她正在努力进入医学院。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My sister wants to become a doctor",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My sister"
+            },
+            {
+              "role": "谓语",
+              "text": "wants"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to become a doctor"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "she is trying to enter a medical school",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "she"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is trying"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to enter a medical school"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "want to do 想要成为",
+          "note": "want to become 中不定式作宾语,表示\"想成为\"。"
+        },
+        {
+          "name": "try to do 努力做",
+          "note": "is trying to enter 表示\"正在努力进入\",进行时强调正在努力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "she is trying to enter a medical school",
+          "name": "want to do 想要成为"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "she is trying to enter a medical school",
+          "name": "try to do 努力做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My sister wants to become a doctor, and she is trying to enter a medical school.",
+          "answer": "My sister wants to become a doctor, and she is trying to enter a medical school.",
+          "note": "want to become 中不定式作宾语,表示\"想成为\"。",
+          "point": "want to do 想要成为"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My sister wants to become a doctor, and she is trying to enter a medical school.",
+          "answer": "My sister wants to become a doctor, and she is trying to enter a medical school.",
+          "note": "is trying to enter 表示\"正在努力进入\",进行时强调正在努力。",
+          "point": "try to do 努力做"
+        }
+      ]
+    },
+    {
+      "text": "It is important to make a clear plan and to follow it step by step, because we must be responsible for our own life.",
+      "translation": "制定清晰的计划并一步步执行很重要,因为我们必须对自己的生活负责。",
+      "chunks": [
+        {
+          "label": "主干(形式主语)",
+          "color": "#a8dab5",
+          "text": "It is important",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "important"
+            }
+          ]
+        },
+        {
+          "label": "补语(真正主语不定式)",
+          "color": "#9fd8e8",
+          "text": "to make a clear plan and to follow it step by step"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "we must be responsible for our own life"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is + adj + to do",
+          "note": "it 是形式主语,真正的主语是后面的不定式 to make...and to follow...,即\"制定计划并执行很重要\"。"
+        },
+        {
+          "name": "be responsible for 对……负责",
+          "note": "be responsible for+名词,表示\"对……负责\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "to make a clear plan and to follow it step by step",
+          "name": "It is + adj + to do"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "to make a clear plan and to follow it step by step",
+          "name": "be responsible for 对……负责"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is important to make a clear plan and to follow it step by step, because we must be responsible for our own life.",
+          "answer": "It is important to make a clear plan and to follow it step by step, because we must be responsible for our own life.",
+          "note": "it 是形式主语,真正的主语是后面的不定式 to make...and to follow...,即\"制定计划并执行很重要\"。",
+          "point": "It is + adj + to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is important to make a clear plan and to follow it step by step, because we must be responsible for our own life.",
+          "answer": "It is important to make a clear plan and to follow it step by step, because we must be responsible for our own life.",
+          "note": "be responsible for+名词,表示\"对……负责\"。",
+          "point": "be responsible for 对……负责"
+        }
+      ]
+    },
+    {
+      "text": "Sometimes we choose to rest, because it helps us to continue with more energy.",
+      "translation": "有时我们选择休息,因为这能帮助我们以更充沛的精力继续下去。",
+      "chunks": [
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "Sometimes"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we choose to rest",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "choose"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to rest"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "it helps us to continue with more energy"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "choose to do 选择做",
+          "note": "choose to rest 中不定式作宾语,表示\"选择休息\"。"
+        },
+        {
+          "name": "help sb. to do 帮助某人做",
+          "note": "help us to continue 中不定式作宾补,表示\"帮助我们继续\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "it helps us to continue with more energy",
+          "name": "choose to do 选择做"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "it helps us to continue with more energy",
+          "name": "help sb. to do 帮助某人做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes we choose to rest, because it helps us to continue with more energy.",
+          "answer": "Sometimes we choose to rest, because it helps us to continue with more energy.",
+          "note": "choose to rest 中不定式作宾语,表示\"选择休息\"。",
+          "point": "choose to do 选择做"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes we choose to rest, because it helps us to continue with more energy.",
+          "answer": "Sometimes we choose to rest, because it helps us to continue with more energy.",
+          "note": "help us to continue 中不定式作宾补,表示\"帮助我们继续\"。",
+          "point": "help sb. to do 帮助某人做"
+        }
+      ]
+    },
+    {
+      "text": "At the end of the year, we will look back and be proud of what we have done, because every step is significant.",
+      "translation": "年底时,我们会回顾过去,为自己所做的事情感到自豪,因为每一步都很重要。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "At the end of the year"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "we will look back",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will look back"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(系表结构)",
+          "color": "#a8dab5",
+          "text": "be proud of what we have done",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "be"
+            },
+            {
+              "role": "表语",
+              "text": "proud of what we have done"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "every step is significant"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be proud of 以……自豪",
+          "note": "be proud of+名词/宾语从句,表示\"为……感到自豪\"。"
+        },
+        {
+          "name": "what 引导宾语从句",
+          "note": "what we have done 作 of 的宾语,意为\"我们所做的事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "be proud of what we have done",
+          "name": "be proud of 以……自豪"
+        },
+        {
+          "grammarId": "g-s2u4",
+          "phrase": "be proud of what we have done",
+          "name": "what 引导宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the end of the year, we will look back and be proud of what we have done, because every step is significant.",
+          "answer": "At the end of the year, we will look back and be proud of what we have done, because every step is significant.",
+          "note": "be proud of+名词/宾语从句,表示\"为……感到自豪\"。",
+          "point": "be proud of 以……自豪"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the end of the year, we will look back and be proud of what we have done, because every step is significant.",
+          "answer": "At the end of the year, we will look back and be proud of what we have done, because every step is significant.",
+          "note": "what we have done 作 of 的宾语,意为\"我们所做的事\"。",
+          "point": "what 引导宾语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u4",
+      "name": "want / plan + 不定式",
+      "note": "want to do 和 plan to do 中,不定式作宾语,表示\"想要/计划做某事\"。",
+      "sourceExample": "I want to pass the English exam this year, and I plan to study every day to be more productive.",
+      "sourceExampleCn": "今年我想通过英语考试,并计划每天学习,让自己更高效。"
+    },
+    {
+      "grammarId": "g-s2u4",
+      "name": "不定式表目的",
+      "note": "to be more productive 放句末作目的状语,表示\"为了更高效\"。",
+      "sourceExample": "I want to pass the English exam this year, and I plan to study every day to be more productive.",
+      "sourceExampleCn": "今年我想通过英语考试,并计划每天学习,让自己更高效。"
+    },
+    {
+      "grammarId": "g-s2u4",
+      "name": "hope / decide to do",
+      "note": "hope to do 表示\"希望做\",decide to do 表示\"决心做\",都接不定式作宾语。",
+      "sourceExample": "My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+      "sourceExampleCn": "我哥哥希望毕业后找到好工作,他决心提高自己的技能,因为工作是他的头等大事。"
+    },
+    {
+      "grammarId": "g-s2u4",
+      "name": "because 原因状语从句",
+      "note": "because 从句解释原因,说明\"为什么是头等大事\"。",
+      "sourceExample": "My brother hopes to find a good job after graduation, and he decides to improve his skills, because work is his first priority.",
+      "sourceExampleCn": "我哥哥希望毕业后找到好工作,他决心提高自己的技能,因为工作是他的头等大事。"
+    },
+    {
+      "grammarId": "g-s2u4",
+      "name": "decide to do 决定做",
+      "note": "have decided to save 中不定式作宾语,完成时强调\"已经下决心\"。",
+      "sourceExample": "We have decided to save money for a long trip to the mountains, and we will pursue this dream.",
+      "sourceExampleCn": "我们已经决定为去山里的长途旅行存钱,我们将追逐这个梦想。"
+    }
+  ]
+}

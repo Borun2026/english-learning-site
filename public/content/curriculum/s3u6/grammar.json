@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u6",
+  "stage": 3,
+  "title": "倒装句",
+  "explanation": "## 倒装句:把谓语提到主语前\n\n英语句子的常规语序是\"主 + 谓\",把谓语(或助动词)提到主语前,就构成倒装。倒装分两类:**全部倒装**(整个谓语提前)和**部分倒装**(助动词/情态动词提前)。\n\n## 部分倒装的触发词\n\n1. **否定词放句首**:never, hardly, seldom, not only, no sooner...than 等。Never have I seen such a view(我从未见过这样的景色)。\n2. **Only + 状语放句首**:Only in this way can we succeed。\n3. **So/Neither/Nor 表\"也\"**:He likes coffee, so do I;She can't swim, neither can I。\n\n## 全部倒装\n\n1. **here/there 开头的方位词**:Here comes the bus(车来了);There goes the bell(铃响了)。\n2. **介词短语/副词放句首**:On the top of the hill stands an old temple。\n\n## 高频考点\n\n1. 倒装句中助动词时态要与原句一致:Hardly had I left when it rained(注意 had 提前,主句用过去完成)。\n2. not only...but also 连接主语时不倒装:Not only he but also I am wrong。\n3. so 用于\"确实如此\"时不倒装:He is clever, so he is(他确实很聪明)。",
+  "examples": [
+    { "en": "Never have I met such a kind person.", "cn": "我从未遇到过这么善良的人。", "note": "否定词 Never 放句首,助动词 have 提前,部分倒装。" },
+    { "en": "Only after the storm did the sky clear.", "cn": "风暴过后天空才放晴。", "note": "Only + 状语放句首,助动词 did 提前。" },
+    { "en": "Here comes the teacher.", "cn": "老师来了。", "note": "here 放句首,全部倒装,主语 the teacher 后置。" },
+    { "en": "She can dance, and so can her sister.", "cn": "她会跳舞,她妹妹也会。", "note": "so + 助动词 + 主语,表\"也如此\"。" }
+  ],
+  "errors": [
+    { "wrong": "Never I have seen such a movie.", "right": "Never have I seen such a movie.", "note": "否定词放句首必须部分倒装,助动词提前。" },
+    { "wrong": "Only by working hard we can succeed.", "right": "Only by working hard can we succeed.", "note": "Only + 状语放句首,情态动词 can 要提前。" },
+    { "wrong": "Here the bus comes.", "right": "Here comes the bus.", "note": "here 放句首时全部倒装,谓语 comes 提前。" }
+  ],
+  "quiz": [
+    { "q": "Never ___ such a delicious meal.", "options": ["I have eaten", "have I eaten", "I ate", "did I eat"], "answer": 1, "note": "否定词放句首,助动词提前:Never have I eaten。" },
+    { "q": "Only when he returned ___ the truth.", "options": ["he knew", "did he know", "he did know", "knew he"], "answer": 1, "note": "Only + 从句放句首,主句倒装:did he know。" },
+    { "q": "He is a teacher, and ___ his wife.", "options": ["so is", "so does", "neither is", "so do"], "answer": 0, "note": "so + be 动词 + 主语,表\"也\"。" },
+    { "q": "Hardly ___ the airport when the plane took off.", "options": ["I reached", "had I reached", "I had reached", "reached I"], "answer": 1, "note": "Hardly...when 句型,主句倒装用过去完成时。" },
+    { "q": "Not only ___ the exam, but he also got full marks.", "options": ["he passed", "did he pass", "he did pass", "passes he"], "answer": 1, "note": "not only 放句首,前半句部分倒装。" }
+  ]
+}

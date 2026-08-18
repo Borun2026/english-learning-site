@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u9",
+  "stage": 4,
+  "title": "翻译实战",
+  "explanation": "## 翻译实战:五大失分点与应对\n\n考研英译汉(5 句)考查词汇、语法、表达的综合能力。**得分=准确 + 完整 + 通顺**。\n\n## 五大高频失分点\n\n1. **词义选择错误**:一词多义须结合语境,如 address(地址/处理)、develop(发展/开发/冲洗)。\n2. **结构理解错误**:从句边界划错,主谓配错,全句错译。\n3. **漏译**:代词、情态动词、否定副词漏掉。\n4. **硬译**:不按中文习惯调整语序,句子不通。\n5. **术语不译**:学术概念要准确对应中文术语。\n\n## 翻译四步法\n\n1. 通读全句,确定主干。\n2. 划分意群,逐块翻译(关键词要准)。\n3. 重组语序,补充省略成分。\n4. 通读检查,补漏改硬。\n\n## 实战句型处理\n\n- it 形式主语:It is necessary that → 有必要……\n- 定语从句过长:拆成独立小句,重复先行词。\n- 被动句:转主动或保留\"被、由、为……所\"。\n- 双重否定:not...until → 直到……才;no...without → 没有……就没有。\n\n## 时间策略\n\n每句 5 分钟:理解 1 分钟 + 翻译 3 分钟 + 检查 1 分钟。",
+  "examples": [
+    { "en": "It is essential that we take immediate action to solve the problem.", "cn": "我们必须立即采取行动解决这个问题。", "note": "It is essential that 译为\"必须/有必要\"。" },
+    { "en": "The man who saved the child was praised by the whole town.", "cn": "救下那个孩子的人受到全镇的表扬。", "note": "定语从句前置译,\"救下孩子的那个人\"。" },
+    { "en": "He didn't realize the importance of health until he fell ill.", "cn": "他直到生病才意识到健康的重要性。", "note": "not...until 译为\"直到……才\"。" },
+    { "en": "What we need most is a clear plan, not more promises.", "cn": "我们最需要的是一个清晰的计划,而不是更多的承诺。", "note": "what 主语从句译为\"我们所需要的是\"。" }
+  ],
+  "errors": [
+    { "wrong": "The plan was carried out successfully. → 计划被成功执行了。", "right": "该计划得以顺利实施。", "note": "中文不滥用\"被\"字,转主动或\"得以/加以\"更自然。" },
+    { "wrong": "He addressed the crowd. → 他给人群写了地址。", "right": "他向人群发表讲话。", "note": "address 一词多义,此处是\"演讲\"。" },
+    { "wrong": "直译 Every student has a dream. → 每一个学生都有一个梦想。(硬译)", "right": "每个学生都有自己的梦想。", "note": "按中文习惯调整,避免\"一个\"硬译。" }
+  ],
+  "quiz": [
+    { "q": "not...until 结构的标准译法是?", "options": ["在……之前", "直到……才", "自从……以来", "从没……"], "answer": 1, "note": "not...until 译为\"直到……才\"。" },
+    { "q": "It is reported that the bridge will open next month. 最佳译文?", "options": ["它被报道桥下月开", "据报道,大桥将于下月开通", "桥被报告将开", "这是报告桥开"], "answer": 1, "note": "It is reported that 译为\"据报道\"。" },
+    { "q": "英文被动句在中文中最自然的处理是?", "options": ["必须加被", "转主动或得体化处理", "删主语", "保持被字"], "answer": 1, "note": "中文多主动,被动转主动或\"得以/加以\"处理。" },
+    { "q": "翻译时遇到超长定语从句应如何处理?", "options": ["整体前置", "拆成独立小句", "删掉不译", "倒装"], "answer": 1, "note": "定语过长时拆分翻译,用重复先行词衔接。" },
+    { "q": "一词多义的正确选择依据是?", "options": ["字典第一义", "上下文语境", "词的长度", "首字母"], "answer": 1, "note": "词义必须结合语境判断。" }
+  ]
+}

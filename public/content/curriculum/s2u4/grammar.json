@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u4",
+  "stage": 2,
+  "title": "不定式 to do",
+  "explanation": "## 不定式的构成\n\n**to + 动词原形**,如 to go、to learn。它兼具名词、形容词和副词的某些作用,可以在句中作主语、宾语和目的状语。\n\n## 主要用法\n\n1. **作宾语**:部分动词后只能接不定式。常见的有 want、decide、hope、plan、would like、learn、agree 等。\n   - I want to learn English.\n2. **作目的状语**:表示\"为了\"。\n   - He got up early to catch the bus.\n3. **作主语**:常用 it 作形式主语,真正的主语放后面。\n   - It is important to keep healthy.\n\n## 特殊结构\n\n| 结构 | 含义 |\n|---|---|\n| too + 形容词 + to do | 太…而不能 |\n| 形容词 + enough + to do | 足够…去做 |\n\n注意:to 后面永远是动词原形,不能再加 -ing。",
+  "examples": [
+    { "en": "I want to learn English well.", "cn": "我想学好英语。", "note": "want 后接不定式 to learn 作宾语。" },
+    { "en": "He went to the station to catch the train.", "cn": "他去车站赶火车。", "note": "to catch 作目的状语,表示\"为了\"。" },
+    { "en": "It is important to keep healthy.", "cn": "保持健康很重要。", "note": "it 是形式主语,真正主语是 to keep healthy。" },
+    { "en": "The box is too heavy to carry.", "cn": "这箱子太重了搬不动。", "note": "too...to 表示\"太…而不能\"。" }
+  ],
+  "errors": [
+    { "wrong": "I decide go there alone.", "right": "I decide to go there alone.", "note": "decide 后必须接不定式 to go。" },
+    { "wrong": "She wants to going shopping.", "right": "She wants to go shopping.", "note": "to 后接动词原形 go,不能写 going。" },
+    { "wrong": "He is too young to driving.", "right": "He is too young to drive.", "note": "too...to 结构中介词后是动词原形 drive。" }
+  ],
+  "quiz": [
+    { "q": "She hopes ___ a singer in the future.", "options": ["become", "to become", "becoming", "became"], "answer": 1, "note": "hope 后接不定式 to become。" },
+    { "q": "He got up early ___ the first bus.", "options": ["catch", "to catch", "catching", "caught"], "answer": 1, "note": "目的状语用不定式 to catch。" },
+    { "q": "I want ___ my parents.", "options": ["help", "to help", "helping", "helped"], "answer": 1, "note": "want 后接不定式 to help。" },
+    { "q": "The bag is too heavy for me ___.", "options": ["carry", "to carry", "carrying", "carried"], "answer": 1, "note": "too...to 结构用动词原形 to carry。" },
+    { "q": "___ is important to speak clearly.", "options": ["It", "This", "That", "He"], "answer": 0, "note": "it 作形式主语,真正主语是后面的不定式。" }
+  ]
+}

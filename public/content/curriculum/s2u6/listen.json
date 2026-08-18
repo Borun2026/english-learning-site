@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u6",
+  "stage": 2,
+  "unitId": "s2u6",
+  "title": "听力挑战 · 参观工厂讲解",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "讲解员",
+      "line": "How are these glass bottles made in this factory?",
+      "lineCn": "这家工厂的玻璃瓶是怎么生产的?",
+      "grammar": [
+        { "name": "一般现在时被动", "note": "be + 过去分词构成被动语态,主语是动作的承受者。" }
+      ],
+      "options": [
+        { "text": "They are made from recycled glass.", "correct": true, "feedback": "are made 被动语态说明瓶子的生产原料,符合问句。" },
+        { "text": "They made them by hand yesterday.", "correct": false, "feedback": "主动语态加过去时,与问题时态和语态不符。" },
+        { "text": "We will make them next month.", "correct": false, "feedback": "将来时谈的是计划,不是生产流程。" }
+      ]
+    },
+    {
+      "speaker": "讲解员",
+      "line": "Where is the new machine installed in the workshop?",
+      "lineCn": "车间里这台新机器安装在哪里?",
+      "grammar": [
+        { "name": "被动语态强调动作承受者", "note": "机器是'被安装'的,用 be + 过去分词构成被动语态。" }
+      ],
+      "options": [
+        { "text": "It is installed in the main hall.", "correct": true, "feedback": "is installed 被动语态回答机器位置,准确。" },
+        { "text": "It was repaired last week.", "correct": false, "feedback": "说的是被修理,与'安装在何处'无关。" },
+        { "text": "The workshop is very large.", "correct": false, "feedback": "只描述车间大小,没有回答安装位置。" }
+      ]
+    },
+    {
+      "speaker": "讲解员",
+      "line": "What happens to the finished products after that?",
+      "lineCn": "之后这些成品会怎样处理?",
+      "grammar": [
+        { "name": "被动语态描述流程", "note": "产品是'被包装、被运送'的,流程描述多用被动语态。" }
+      ],
+      "options": [
+        { "text": "They are packed and sent to stores.", "correct": true, "feedback": "被动语态描述产品的处理流程,清晰准确。" },
+        { "text": "We pack them at noon every day.", "correct": false, "feedback": "主动语态讲工人动作,没有说明产品的去向。" },
+        { "text": "We are packing the boxes now.", "correct": false, "feedback": "现在进行时谈眼前动作,答非所问。" }
+      ]
+    }
+  ]
+}

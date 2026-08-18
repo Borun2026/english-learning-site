@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u5",
+  "stage": 3,
+  "title": "名词性从句",
+  "explanation": "## 名词性从句:在句子中当\"名词\"用\n\n名词能做什么成分,从句就能做什么成分。名词性从句分为三类:主语从句、宾语从句、表语从句(以及同位语从句)。\n\n## 主语从句(从句作主语)\n\n- That 从句:That she passed the exam surprised everyone。\n- 为了防止头重脚轻,常用 it 作形式主语:It is important that we stay calm。\n- 疑问词引导:Whether we go depends on the weather;What you said is right。注意:whether 能引导主语从句,if 不能。\n\n## 宾语从句(从句作宾语)\n\n- 动词后:He said (that) he would come,从句陈述句时 that 可省略。\n- 介词后:We are talking about how to solve it。\n- 形容词后:I am sure that he will win。\n\n## 表语从句(从句作表语)\n\n连系动词后:The reason is that he was ill;That is why I left early。注意 reason 与 that 搭配,不用 because。\n\n## 三大易错\n\n1. 语序必须为陈述语序:I don't know where he lives(不是 where does he live)。\n2. 时态呼应:主句过去时,从句随之调整。\n3. that 引导主语从句不省略,引导宾语从句可省略。",
+  "examples": [
+    { "en": "That he finished the task alone surprised us all.", "cn": "他独自完成了任务,这让我们都很惊讶。", "note": "That 引导主语从句,that 不能省略。" },
+    { "en": "It is obvious that practice makes perfect.", "cn": "很明显,熟能生巧。", "note": "it 作形式主语,真正主语是后面的 that 从句。" },
+    { "en": "I wonder whether he will accept the offer.", "cn": "我想知道他是否会接受这个提议。", "note": "whether 引导宾语从句,表达\"是否\"。" },
+    { "en": "The reason is that he missed the train.", "cn": "原因是他在错过火车。", "note": "表语从句用 that 引导,reason 后不用 because。" }
+  ],
+  "errors": [
+    { "wrong": "I don't know where does he live.", "right": "I don't know where he lives.", "note": "宾语从句必须用陈述语序。" },
+    { "wrong": "If he will come is still unknown.", "right": "Whether he will come is still unknown.", "note": "主语从句用 whether,不用 if。" },
+    { "wrong": "The reason is because he was ill.", "right": "The reason is that he was ill.", "note": "reason 后的表语从句用 that 引导。" }
+  ],
+  "quiz": [
+    { "q": "___ we will have a picnic depends on the weather.", "options": ["If", "Whether", "That", "What"], "answer": 1, "note": "主语从句表示\"是否\"用 whether。" },
+    { "q": "___ is known to all that the earth goes around the sun.", "options": ["It", "This", "That", "What"], "answer": 0, "note": "it 作形式主语,真正主语是 that 从句。" },
+    { "q": "Can you tell me ___ the nearest bank is?", "options": ["where", "what", "which", "that"], "answer": 0, "note": "宾语从句中 where 引导,表地点。" },
+    { "q": "The problem is ___ we can't afford it.", "options": ["because", "why", "that", "which"], "answer": 2, "note": "表语从句用 that 引导,陈述事实。" },
+    { "q": "I wonder ___ she has arrived yet.", "options": ["whether", "what", "that", "which"], "answer": 0, "note": "表示\"是否\"用 whether,尤其与 yet 连用。" }
+  ]
+}

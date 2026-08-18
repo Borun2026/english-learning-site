@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u7",
+  "stage": 4,
+  "unitId": "s4u7",
+  "title": "听力挑战 · 复习经验分享",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "学生",
+      "line": "In cloze tests, I read the whole passage first because the context determines the missing words.",
+      "lineCn": "做完形填空时,我先读全文,因为上下文决定空格处的单词。",
+      "grammar": [
+        { "name": "完形填空:先读后填", "note": "先通读全文把握语境,再根据上下文逻辑选词,这是完形解题核心策略。" }
+      ],
+      "options": [
+        { "text": "He reads the whole passage first to understand the context.", "correct": true, "feedback": "他先通读全文,依据语境确定答案。" },
+        { "text": "He fills the blanks without reading the passage first.", "correct": false, "feedback": "他的做法是先读全文,并非直接填词。" },
+        { "text": "He reads only the sentences that contain blanks.", "correct": false, "feedback": "他只读含空格句子,而原文强调先读全文。" }
+      ]
+    },
+    {
+      "speaker": "学长",
+      "line": "For the new question type, identifying logical connectors helps me choose the correct order of paragraphs.",
+      "lineCn": "做新题型时,识别逻辑连接词能帮我排出正确的段落顺序。",
+      "grammar": [
+        { "name": "新题型解题技巧", "note": "动名词 identifying 作主语;逻辑连接词是排序题的关键线索。" }
+      ],
+      "options": [
+        { "text": "Logical connectors help him decide the paragraph order.", "correct": true, "feedback": "识别逻辑连接词是排列段落顺序的关键。" },
+        { "text": "The paragraph order is decided randomly without clues.", "correct": false, "feedback": "排序靠逻辑连接词线索,并非随机。" },
+        { "text": "Logical connectors should be ignored in this question type.", "correct": false, "feedback": "原文说连接词正是有用线索,不能忽略。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I used to spend too much time on one blank, so now I set a time limit for every section.",
+      "lineCn": "我以前总在某个空格上花太多时间,所以现在我为每个部分设定时间限制。",
+      "grammar": [
+        { "name": "used to + 时态对比", "note": "used to 表示过去习惯(花时间太多),now 引出现在的做法(设定时限),形成今昔对比。" }
+      ],
+      "options": [
+        { "text": "He now sets a time limit for each section.", "correct": true, "feedback": "他现在的做法是为每个部分设定时间上限。" },
+        { "text": "He still spends unlimited time on a single blank.", "correct": false, "feedback": "他过去才这样,现在已设时间限制。" },
+        { "text": "He gives up the cloze section completely.", "correct": false, "feedback": "他只是控制时间,并未放弃完形。" }
+      ]
+    },
+    {
+      "speaker": "学长",
+      "line": "Reviewing past mistakes repeatedly is more effective than doing countless new exercises blindly.",
+      "lineCn": "反复复习过去的错题,比盲目地做无数新题更有效。",
+      "grammar": [
+        { "name": "动名词短语作比较主语", "note": "Reviewing past mistakes 与 doing countless new exercises 两个动名词短语作比较对象,is more effective than 构成比较结构。" }
+      ],
+      "options": [
+        { "text": "Reviewing old mistakes works better than blind practice.", "correct": true, "feedback": "复习错题比盲目刷题更有效。" },
+        { "text": "Doing new exercises blindly is the best strategy.", "correct": false, "feedback": "原文认为盲目刷题不如复习错题。" },
+        { "text": "Reviewing mistakes is a waste of revision time.", "correct": false, "feedback": "原文认为复习错题正是高效方法。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u10",
+  "stage": 4,
+  "title": "真题长难句精讲",
+  "explanation": "## 真题长难句精讲:经典结构逐句拆\n\n考研真题阅读中的长难句有**固定套路**:主句 + 定语从句 + 状语从句 + 非谓语的组合。掌握经典结构,即可举一反三。\n\n## 四大经典结构\n\n1. **主句 + 双定语**:The book that he wrote, which was published in 2019, became a bestseller。\n2. **not only...but also 倒装**:Not only did he finish the task, but also he did it perfectly。\n3. **比较结构**:The more you practice, the better you become。\n4. **插入语 + 从句**:The plan, as we all know, was made by the committee, which is highly experienced。\n\n## 拆解示范\n\n原句:But the more people join the course, the more effective it becomes, as everyone brings unique ideas to the discussion, which enriches the whole learning experience。\n\n拆解步骤:\n1. 主干是 the more...the more... 比较结构。\n2. as 引导原因状语从句。\n3. which 引导非限制性定语从句,修饰整个讨论。\n\n译文:但参加课程的人越多,课程就越有效,因为每个人都为讨论带来独特的想法,这丰富了整个学习体验。\n\n## 真题训练建议\n\n每天精拆 1-2 句:抄写 → 划成分 → 翻译 → 对照译文 → 背诵。坚持一个月,长难句不再是障碍。",
+  "examples": [
+    { "en": "The more books you read, the wider your horizon becomes.", "cn": "你读的书越多,你的视野就越开阔。", "note": "the more...the more... 比较结构,前为条件后为结果。" },
+    { "en": "Not only did he apologize, but he also made up for the loss.", "cn": "他不仅道歉了,还弥补了损失。", "note": "not only 放句首,前半句部分倒装。" },
+    { "en": "The theory, which was proposed by a young scientist, soon proved correct.", "cn": "这个由年轻科学家提出的理论很快被证明是正确的。", "note": "非限制性定语从句补充说明主语。" },
+    { "en": "It is the effort we put in, rather than the talent we have, that determines success.", "cn": "决定成功的是我们付出的努力,而非我们拥有的天赋。", "note": "强调句 + 定语从句 + rather than 对比结构。" }
+  ],
+  "errors": [
+    { "wrong": "The more you read, the more knowledge you will get it.", "right": "The more you read, the more knowledge you will get.", "note": "get it 中 it 多余,knowledge 已是宾语。" },
+    { "wrong": "Not only he made a promise, but he kept it.", "right": "Not only did he make a promise, but he kept it.", "note": "not only 放句首须部分倒装,助动词 did 提前。" },
+    { "wrong": "The teacher, who is kind and patient, teach us English.", "right": "The teacher, who is kind and patient, teaches us English.", "note": "主谓一致:主语 teacher 是单数,谓语用 teaches。" }
+  ],
+  "quiz": [
+    { "q": "The more you practice, ___ you will become.", "options": ["the better", "better", "the best", "best"], "answer": 0, "note": "the more...the more... 结构前后呼应。" },
+    { "q": "Not only ___ he sing well, but he also plays the piano.", "options": ["did", "does", "do", "is"], "answer": 1, "note": "主句一般现在时,not only 倒装用 does。" },
+    { "q": "The novel, ___ was written by Mo Yan, won great fame.", "options": ["which", "that", "what", "who"], "answer": 0, "note": "非限制性定语从句用 which,不用 that。" },
+    { "q": "It was his courage ___ moved everyone present.", "options": ["that", "who", "what", "which"], "answer": 0, "note": "强调句固定用 that。" },
+    { "q": "拆解长难句时,插入语的处理方式是?", "options": ["先分析", "先跳过看主干", "重复翻译", "替换主句"], "answer": 1, "note": "插入语不影响主干,先跳过再处理。" }
+  ]
+}

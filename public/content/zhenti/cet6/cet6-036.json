@@ -1,0 +1,62 @@
+{
+ "id": "cet6-036",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第3套) Passage 2",
+ "title": "If you've ever started a sentence with,\"If I were you",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 418,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "If you've ever started a sentence with,\"If I were you...\"or found yourself scratching your head at a colleague's agony over a decision when the answer is crystal-clear, there's a scientific reason",
+  "5 behind it. Our own decision-making abilities can become depleted over the course of the day causing indecision or poor choices, but choosing on behalf of someone else is an enjoyable task that doesn't suffer the same pitfalls.",
+  "The problem is\"decision fatigue,\"a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist.",
+  "Physicians who have been on the job for several hours, for example, are more likely to prescribe antibiotics to patients when it's unwise to do so.\"Presumably it's because it's simple and easy to write a prescription and consider a patient case closed rather than investigate further,\"Polman says.",
+  "But decision fatigue goes away when you are making the decision for someone else. When people imagine themselves as advisers and imagine their own choices as belonging to someone else, they feel less tired and relyless on decision shortcuts to make those choices.\"By taking upon the role of adviser rather than decision maker,one does not suffer the consequences of decision Mtigue,\"he says.\"It is as if there is something fun and liberating about making someone else's choice.\"",
+  "Getting input from others not only offers a fresh perspective and thought process, it often also includes riskier choices. While this sounds undesirable, it can be quite good, says Polman.\"when people experience decision fatigue-when they are tired of making choices-they have a tendency to choose to go with status quo ,\"he says.\"But the status quo can be problematic. since a change in the course of action can sometimes be important and lead to a positive outcome.\"",
+  "In order to achieve a successful outcome or reward, some level of risk is almost always essential.\"people who are susceptible to decision fatigue will likely choose to do nothing over something,\"he says.\"That's not to say that risk is always good, but it is related to taking action, whereas decision fatigue assuredly leads to inaction and the possible chagrin of a decision maker who might otherwise prefer a new course but is unfortunately hindered.\"",
+  "Just because you can make good choices for others doesn't mean you'll do the same for yourself, polman cautions.\"Research has found that women negotiate higher salaries for others than they do for themselves,\" he says, adding that people slip in and out of decision roles."
+ ],
+ "questions": [
+  {
+   "q": "文中 “choose” 最接近的意思是?",
+   "options": [
+    "疲劳，(金属)疲劳，杂役",
+    "宁可，宁愿",
+    "结果，后果",
+    "选择，挑选"
+   ],
+   "answer": 3,
+   "analysis": "“choose” 意为「选择，挑选」。原文语境:While this sounds undesirable, it can be quite good, says Polman.\"when people experience decision fatigue-when they are tired of making choices-they have a tendency to choose to go",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:The problem is\"decision fatigue,\"a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading ___.",
+   "options": [
+    "essential",
+    "psychologist",
+    "example",
+    "crystal"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“The problem is\"decision fatigue,\"a psychological phenomenon that takes a toll on the quality of your choices after a long day of decision making, says Evan Polman, a leading psychologist.”。空格处应填入 “psychologist”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "If you've ever started a sentence with,\"If I were you",
+    "When a group of Australians was asked why they believed climate change was no",
+    "Tennessee's technical and community colleges will not outsource ( ) managem",
+    "Questions 51 to SS are based on the following passage"
+   ],
+   "answer": 0,
+   "analysis": "本文以“If you've ever started a sentence with,\"If I were you...\"or found yourself scratching your head at a colleague's agony over a decision when the answer is crysta”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

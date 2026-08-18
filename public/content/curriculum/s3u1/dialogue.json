@@ -1,0 +1,174 @@
+{
+  "id": "d-s3u1",
+  "stage": 3,
+  "unitId": "s3u1",
+  "scene": "讨论学习计划",
+  "goal": "和同学制定一份可执行的六级备考计划",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同学 Anna",
+      "line": "The CET-6 exam is only three months away. If we intend to pass it, we must draw up a practical revision plan without delay.",
+      "lineCn": "六级考试只剩三个月了。如果我们想通过,就必须尽快制定一份切实可行的复习计划。",
+      "grammar": [
+        { "name": "if 真实条件句(主将从现)", "note": "if 从句用一般现在时,主句用将来时或情态动词,表示将来很可能发生的真实情况。" }
+      ],
+      "options": [
+        { "text": "I agree entirely. If we set a schedule that we can actually stick to, we will make steady progress.", "textCn": "我完全同意。如果我们制定一个确实能坚持的日程,就会稳步进步。", "feedback": "积极回应并补充具体建议,推动计划成型。", "next": "n2" },
+        { "text": "I am not worried at all. If I review everything the night before, I will be fine.", "textCn": "我一点都不担心。如果我前一天晚上复习全部内容,就没问题。", "feedback": "盲目自信、临时抱佛脚,Anna 会提醒你。", "next": "n3" },
+        { "text": "Planning sounds like a waste of time. If I happen to pass, it will be pure luck.", "textCn": "计划听起来就是浪费时间。如果我碰巧过了,那纯属运气。", "feedback": "消极态度,Anna 将引导你认识计划的重要性。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同学 Anna",
+      "line": "That is the right attitude. If we divide the materials into weekly targets, the workload will feel far more manageable.",
+      "lineCn": "这才是正确的态度。如果我们把材料分成每周目标,工作量就会觉得轻松得多。",
+      "grammar": [
+        { "name": "条件句+比较级", "note": "if 从句表示条件,主句用比较级 far more manageable,强调制定周目标的好处。" }
+      ],
+      "options": [
+        { "text": "A sensible division. If we cover vocabulary on weekdays and reading passages at weekends, the schedule will remain balanced.", "textCn": "合理的划分。如果我们工作日背单词、周末做阅读,日程就会保持均衡。", "feedback": "给出具体安排,计划进一步细化。", "next": "n4" },
+        { "text": "Weekly targets seem too rigid. If something unexpected comes up, the whole plan will fall apart.", "textCn": "每周目标太死板了。如果出现意外情况,整个计划就会垮掉。", "feedback": "对计划持怀疑态度,Anna 会说服你。", "next": "n3" },
+        { "text": "I would rather improvise day by day. If it is meant to be, I will pass eventually.", "textCn": "我宁愿每天即兴安排。如果注定能过,我终究会过的。", "feedback": "随缘心态不可取,Anna 将指出风险。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同学 Anna",
+      "line": "Postponing everything to the last minute rarely works. If you leave the entire syllabus to the final week, your memory simply will not retain it.",
+      "lineCn": "把一切拖到最后时刻很少有用。如果你把整本大纲留到最后一周,你的记忆根本留不住。",
+      "grammar": [
+        { "name": "条件句表否定推断", "note": "if 从句描述不好的做法,主句用 will not 直接否定结果,相当于强调版的 unless。" }
+      ],
+      "options": [
+        { "text": "You have a point. If I start tomorrow morning, there is still enough time for a full revision.", "textCn": "你说得有道理。如果我明早开始,还有足够时间完整复习。", "feedback": "及时醒悟并开始行动,成功回归正轨。", "next": "n4" },
+        { "text": "I know myself best. Even if I fail once, I can always retake the exam next time.", "textCn": "我最了解自己。即使失败一次,我随时可以下次再考。", "feedback": "用重考当退路,缺乏决心,Anna 很失望。", "next": "fail1" },
+        { "text": "Maybe I should ask my cousin, who passed the exam last year, for advice on how to start.", "textCn": "也许我该问问去年通过考试的堂哥,请教怎么开始。", "feedback": "愿意寻求帮助,是好的开始。", "next": "n4" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同学 Anna",
+      "line": "Excellent. Let us agree on fixed hours. If we revise from seven to ten every evening, the routine will soon become a habit.",
+      "lineCn": "太好了。我们来确定固定时间。如果我们每晚七点到十点复习,这个作息很快就会成为习惯。",
+      "grammar": [
+        { "name": "主将从现", "note": "if 从句用一般现在时,主句用一般将来时,这是真实条件句最典型的时态搭配。" }
+      ],
+      "options": [
+        { "text": "Agreed. If we also take a ten-minute break each hour, our concentration will last much longer.", "textCn": "同意。如果我们每小时休息十分钟,注意力就能保持更久。", "feedback": "考虑科学的学习节奏,计划更可行。", "next": "n4b" },
+        { "text": "Three hours is too demanding. If I study for two hours, I will still cover everything in time.", "textCn": "三个小时太难坚持了。如果我学两个小时,照样能及时覆盖全部内容。", "feedback": "适当调整时长,可以接受。", "next": "n4b" },
+        { "text": "I cannot promise anything. If I feel exhausted, I will simply skip the session.", "textCn": "我什么都不敢保证。如果我感到疲惫,就直接跳过那一次。", "feedback": "承诺太随意,Anna 会提醒你计划的严肃性。", "next": "n3" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "同学 Anna",
+      "line": "Good. Now, how should we check our progress? If we set a weekly self-test, we will know exactly where we stand.",
+      "lineCn": "好。那我们怎么检查进度呢?如果我们每周做一次自测,就能准确知道自己处于什么水平。",
+      "grammar": [
+        { "name": "条件句表建议", "note": "用 if we 提出具体方案,主句说明这样做的好处,是礼貌提建议的常见句式。" }
+      ],
+      "options": [
+        { "text": "A weekly self-test is a brilliant idea. If we grade each other, we will stay honest.", "textCn": "每周自测是个绝妙的主意。如果我们互相批改,就会保持诚实。", "feedback": "方案具体可操作,计划向前推进。", "next": "n5" },
+        { "text": "Self-tests add pressure. If we skip them, we will have more time for revision.", "textCn": "自测会增加压力。如果我们跳过它,复习时间会更多。", "feedback": "又想偷懒,Anna 会再次纠正。", "next": "n3" },
+        { "text": "I agree with the quiz, but only if we keep the results private.", "textCn": "我同意自测,但前提是成绩保密。", "feedback": "接受自测并补充条件,继续推进。", "next": "n5" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "同学 Anna",
+      "line": "Excellent. Let us fix the materials too. If we work through past papers first, we will grasp the question patterns quickly.",
+      "lineCn": "太好了。我们再定一下材料。如果我们先做历年真题,就能很快掌握出题规律。",
+      "grammar": [
+        { "name": "条件句表建议(进一步)", "note": "延续 if+一般现在时、主句 will 的结构,把话题自然推进到具体材料。" }
+      ],
+      "options": [
+        { "text": "Absolutely. If we analyse every mistake after each paper, our weak points will become obvious.", "textCn": "完全同意。如果我们每做完一套卷子都分析错题,薄弱点就会一目了然。", "feedback": "重视错题分析,方法科学。", "next": "n6" },
+        { "text": "I would rather memorise model essays. If we imitate the samples, we will save a lot of effort.", "textCn": "我宁愿背范文。如果我们模仿范文,会省很多力气。", "feedback": "方向略有不同,但同样努力,可以接受。", "next": "n6" },
+        { "text": "Papers are too dull. If we only watch online lectures, we will learn everything passively.", "textCn": "真题太枯燥了。如果我们只看网课,就能被动地学到一切。", "feedback": "被动学习效果差,Anna 会纠正你。", "next": "n7" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "同学 Anna",
+      "line": "That makes sense. And if we review the papers together every Saturday, we can discuss what we misunderstood.",
+      "lineCn": "有道理。而且如果我们每周六一起复盘卷子,就能讨论各自的误解。",
+      "grammar": [
+        { "name": "条件句+名词性从句", "note": "if 从句表条件,主句里 what we misunderstood 是宾语从句,句式更复杂、更正式。" }
+      ],
+      "options": [
+        { "text": "Perfect. If we explain the tricky points to each other, both of us will benefit from the discussion.", "textCn": "完美。如果我们互相讲解难点,双方都能从讨论中受益。", "feedback": "善用互助学习,计划日臻完善。", "next": "n8" },
+        { "text": "Discussing sounds inefficient. If I study alone, I will move much faster.", "textCn": "讨论听起来效率不高。如果我独自学习,会快得多。", "feedback": "忽略合作价值,Anna 会说服你。", "next": "n7" },
+        { "text": "I am not sure analysing mistakes helps. If we focus on new words instead, we will widen our vocabulary.", "textCn": "我不确定分析错题有没有用。如果我们转而背生词,词汇量会扩大。", "feedback": "注意力分散,Anna 将引导回到真题。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "同学 Anna",
+      "line": "Passive learning is hardly effective. If we never test ourselves, we will never discover our real weaknesses.",
+      "lineCn": "被动学习几乎没效果。如果我们从不测试自己,就永远不会发现真正的弱点。",
+      "grammar": [
+        { "name": "双重否定条件句", "note": "if 从句与主句都含否定(never),语气强烈,强调不行动必然后果。" }
+      ],
+      "options": [
+        { "text": "You are right again. If we combine the lectures with weekly practice tests, we will stay on track.", "textCn": "你又对了。如果我们把网课和每周模拟结合,就能保持正轨。", "feedback": "及时调整方法,重新回到正轨。", "next": "n8" },
+        { "text": "Then I will do whatever I feel like. If I pass, fine; if not, so be it.", "textCn": "那我就随心所欲。过了就过,不过就算了。", "feedback": "彻底放弃努力,Anna 非常失望。", "next": "fail1" },
+        { "text": "I will follow your advice for now, but if it does not work, do not blame me.", "textCn": "我暂时听你的,但如果不管用,别怪我。", "feedback": "勉强接受建议,仍能继续推进。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "同学 Anna",
+      "line": "Wonderful. One more thing: if we want to stay motivated, we should reward ourselves after finishing each target.",
+      "lineCn": "太好了。还有一点:如果我们想保持动力,就应该在完成每个目标后奖励自己。",
+      "grammar": [
+        { "name": "条件句表动机", "note": "if we want to 从句表目的性条件,主句用 should 给建议,结构完整正式。" }
+      ],
+      "options": [
+        { "text": "A clever incentive. If we reward ourselves with a movie night, we will look forward to each milestone.", "textCn": "聪明的激励。如果我们用电影之夜奖励自己,就会期待每个里程碑。", "feedback": "认可激励机制,计划更有人情味。", "next": "n9" },
+        { "text": "Rewards are childish. If we are serious students, we should not need such tricks.", "textCn": "奖励太幼稚。如果我们真是认真的学生,就不需要这种把戏。", "feedback": "过于严苛,但态度认真,继续推进。", "next": "n9" },
+        { "text": "I am not sure this plan suits me. If it fails, do not blame me later.", "textCn": "我不确定这计划适合我。如果失败了,以后别怪我。", "feedback": "推卸责任的心态,Anna 很失望。", "next": "fail2" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "同学 Anna",
+      "line": "Then it is settled. If we keep to this plan until the exam day, nothing will surprise us in the hall. Shall we start tonight?",
+      "lineCn": "那就这么定了。如果我们坚持这个计划直到考试当天,考场上就没什么能难倒我们。今晚就开始吗?",
+      "grammar": [
+        { "name": "主将从现(总结)", "note": "最终确认条件与结果的关系:坚持计划(条件)将带来从容应考(结果)。" }
+      ],
+      "options": [
+        { "text": "Absolutely. If we begin tonight, we will have set the habit early. See you at seven!", "textCn": "当然。如果我们今晚开始,就能早早养成习惯。七点见!", "feedback": "爽快答应,计划正式启动。", "next": "success" },
+        { "text": "I will join, but only if you prepare all the notes first.", "textCn": "我可以加入,但前提是你先备好所有笔记。", "feedback": "坐享其成,Anna 决定放弃合作。", "next": "fail2" },
+        { "text": "I am still nervous, but if you help me start, I will follow.", "textCn": "我还有点紧张,但如果你帮我开头,我会跟上。", "feedback": "坦诚并愿意尝试,获得鼓励。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同学 Anna",
+      "line": "Deal! See you at seven. If we both keep our word, the certificate will be ours in June.",
+      "lineCn": "一言为定!七点见。如果我们都信守承诺,六月的证书就是我们的。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同学 Anna",
+      "line": "If you keep postponing, the exam will catch you unprepared. I sincerely hope you change your mind.",
+      "lineCn": "如果你继续拖延,考试会让你措手不及。我衷心希望你能改变主意。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同学 Anna",
+      "line": "If you refuse to cooperate, I am afraid our study group cannot survive. I will revise alone.",
+      "lineCn": "如果你拒绝合作,恐怕我们的学习小组维持不下去。我会独自复习。",
+      "end": true,
+      "success": false
+    }
+  }
+}

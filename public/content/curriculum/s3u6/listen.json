@@ -1,0 +1,61 @@
+{
+  "id": "l-s3u6",
+  "stage": 3,
+  "unitId": "s3u6",
+  "title": "听力挑战 · 正式演讲",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "主持人",
+      "line": "Good morning, everyone. I welcome you to our annual meeting.",
+      "lineCn": "各位早上好,欢迎参加我们的年会。",
+      "grammar": [
+        { "name": "演讲开场常规句式", "note": "演讲开场使用正常语序,搭配后文 never/seldom 等词引出倒装。" }
+      ],
+      "options": [
+        { "text": "Thank you. It is an honor to be here.", "correct": true, "feedback": "礼貌致谢,回应欢迎词得体专业。" },
+        { "text": "It is raining outside right now.", "correct": false, "feedback": "谈论天气,与正式场合的回应无关。" },
+        { "text": "The meeting was canceled yesterday.", "correct": false, "feedback": "与正在进行的大会矛盾。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "Never before have I seen such a supportive audience today.",
+      "lineCn": "今天我从没见过如此支持我的观众。",
+      "grammar": [
+        { "name": "否定副词置于句首倒装", "note": "Never 置于句首时,助动词提前构成部分倒装。" }
+      ],
+      "options": [
+        { "text": "We are truly glad to have you with us.", "correct": true, "feedback": "回应对方的热情发言,礼貌真诚。" },
+        { "text": "You have seen a movie about us.", "correct": false, "feedback": "曲解对方的话,与演讲主题无关。" },
+        { "text": "The audience left early last night.", "correct": false, "feedback": "与'支持观众'的发言矛盾。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "Only by working together can we achieve our common goal.",
+      "lineCn": "只有团结合作,我们才能实现共同目标。",
+      "grammar": [
+        { "name": "Only 置于句首倒装", "note": "only + 状语置于句首,主句用部分倒装 can we..." }
+      ],
+      "options": [
+        { "text": "So let us join hands and begin.", "correct": true, "feedback": "呼应对方号召,推动行动,符合演讲氛围。" },
+        { "text": "We achieved the goal last month.", "correct": false, "feedback": "与'尚未实现目标'的前提矛盾。" },
+        { "text": "Working together is very tiring.", "correct": false, "feedback": "消极态度,与演讲号召不符。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "Seldom do we get such a perfect opportunity in life.",
+      "lineCn": "人生中我们很少遇到这样完美的机会。",
+      "grammar": [
+        { "name": "Seldom 置于句首倒装", "note": "seldom 等频度副词置于句首时,主语与助动词倒装。" }
+      ],
+      "options": [
+        { "text": "We should surely make the most of it.", "correct": true, "feedback": "呼应机会难得,提出行动建议,恰当。" },
+        { "text": "We seldom talk about life.", "correct": false, "feedback": "曲解'机会难得'的含义,答非所问。" },
+        { "text": "The opportunity was lost yesterday.", "correct": false, "feedback": "与发言前提矛盾。" }
+      ]
+    }
+  ]
+}

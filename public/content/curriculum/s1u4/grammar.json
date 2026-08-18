@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u4",
+  "stage": 1,
+  "title": "一般将来时",
+  "explanation": "## 一般将来时的用法\n\n一般将来时表示将来要发生的动作或状态。常与 tomorrow、next week、soon、in the future 等时间词连用。有两种主要表达方式:\n\n## 1. will + 动词原形\n\n- 表示说话时临时作出的决定、主观意愿或对将来的预测。\n- 否定:will not(won't)+ 动词原形;疑问:把 will 提到句首。\n- 注意:will 后面永远用动词原形,不随主语变化。\n\n## 2. be going to + 动词原形\n\n- 表示事先计划好的打算,或根据现有迹象作出的预测(如乌云密布将要下雨)。\n- 否定:be not going to;疑问:把 be 动词提前。\n\n## 用法对比\n\n| 情况 | 用 will | 用 be going to |\n|---|---|---|\n| 临时决定 | ✅ 电话响了\"我去接\" | ❌ |\n| 事先计划 | ❌ | ✅ 周末野餐 |\n| 有迹象预测 | ❌ | ✅ 乌云预示下雨 |\n| 无依据的猜测 | ✅ I think... | ❌ |",
+  "examples": [
+    { "en": "We will visit Beijing next month.", "cn": "我们下个月将去北京。", "note": "will + 动词原形 visit,主语复数也用 will。" },
+    { "en": "I am going to study English tonight.", "cn": "我打算今晚学英语。", "note": "事先计划用 be going to,be 随主语变化为 am。" },
+    { "en": "It is going to rain soon.", "cn": "很快就要下雨了。", "note": "根据迹象(乌云)预测,用 be going to。" },
+    { "en": "Will you come to my party?", "cn": "你会来我的聚会吗?", "note": "疑问句把 will 提前,后面用动词原形 come。" }
+  ],
+  "errors": [
+    { "wrong": "She will comes tomorrow.", "right": "She will come tomorrow.", "note": "will 后面动词必须用原形 come。" },
+    { "wrong": "He is go to see a doctor.", "right": "He is going to see a doctor.", "note": "be going to 中 go 要用进行式 going,再接 to。" },
+    { "wrong": "I going to buy a book tomorrow.", "right": "I am going to buy a book tomorrow.", "note": "be going to 结构不能省略 be 动词 am。" }
+  ],
+  "quiz": [
+    { "q": "She ___ a teacher in the future.", "options": ["will is", "will be", "is will", "will are"], "answer": 1, "note": "will + 动词原形 be,构成 will be。" },
+    { "q": "Look at the clouds! It ___ rain.", "options": ["will", "is going to", "is going", "will to"], "answer": 1, "note": "有迹象的预测用 be going to。" },
+    { "q": "We ___ have an English test tomorrow.", "options": ["will", "will to", "are", "does"], "answer": 0, "note": "will + 动词原形 have,tomorrow 表将来。" },
+    { "q": "He ___ going to play football this afternoon.", "options": ["will", "is", "does", "am"], "answer": 1, "note": "be going to 中 be 动词随主语 he 用 is。" },
+    { "q": "___ you come to my birthday party next Sunday?", "options": ["Will", "Do", "Are", "Is"], "answer": 0, "note": "将来疑问句用 Will 提前,you 后用动词原形。" }
+  ]
+}

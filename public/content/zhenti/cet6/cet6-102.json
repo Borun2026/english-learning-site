@@ -1,0 +1,59 @@
+{
+ "id": "cet6-102",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第3套) Passage 2",
+ "title": "When someone asks us \"what do you do",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "When someone asks us \"what do you do?\" we nearly always reply with our occupation. Work, for many of us, is much more than a job. It is the defining aspect of our identity. For many of us it is through our job that we can define ourselves.",
+  "\"Without my job I don't know who I am,\" is a sentence that has been uttered on more than a handful of occasions from my office chair. Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs. This loss provokes an identity crisis much greater than the loss of the job itself.",
+  "One of the things I have come to understand, however, is that our identity is much more complex than we",
+  "recognise at first glance. If we take the time to reflect we might recognise that as well as our work we can also identify as a friend, a spouse, a son or daughter, a parent, a member of a sports team or religious community. We may recognise that we feel and act differently in these roles and relationships than we do at work. The passive daughter becomes an assertive leader at work. Furthermore, our identities at work are not static. They change over time. I myself have been a shop assistant, a waitress, a student, a graduate, and a clinical psychologist. At each stage my ability to adapt to and develop my career identity has been crucial to my wellbeing. Whilst we like to eliminate uncertainty in our lives at some level we have to manage uncertainty, especially in today's volatile and ever-shifting job market.",
+  "How we see ourselves is central to the issue of our identity. When we tell ourselves \"I'm good at starting projects but not so great at seeing them through\" it can become part of our belief system. But if you have the unfortunate experience of an enforced job change you will need to examine those beliefs to see how grounded in reality they are. You will be required to ask yourself how helpful these beliefs are and consider personal change. We can change our beliefs, behaviours and emotional experience at any time through experimentation, practice and conscious self-discipline. In an age where career progression may lead us into new sectors it is ever more important to challenge our sense of self and explore whether you can create a new experience of your identity by changing the beliefs you hold about yourself in order to expand your career options. Ultimately it is you who define who you are. You are only your job if you let it be so."
+ ],
+ "questions": [
+  {
+   "q": "文中 “static” 最接近的意思是?",
+   "options": [
+    "因为，由于",
+    "静止的，固定的",
+    "生涯",
+    "训练，纪律，戒律，惩罚"
+   ],
+   "answer": 1,
+   "analysis": "“static” 意为「静止的，固定的」。原文语境:Furthermore, our identities at work are not static.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:___, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs.",
+   "options": [
+    "assistant",
+    "nearly",
+    "Indeed",
+    "assertive"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Indeed, it can be one of the most challenging aspects I work on with clients who have lost or been forced into changing their jobs.”。空格处应填入 “Indeed”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Questions 51 to SS are based on the following passage",
+    "The Paris climate agreement finalised in December last year heralded a new er",
+    "When someone asks us \"what do you do",
+    "The subject of automation and its role in our economy has taken hold in Ameri"
+   ],
+   "answer": 2,
+   "analysis": "本文以“When someone asks us \"what do you do?\" we nearly always reply with our occupation.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

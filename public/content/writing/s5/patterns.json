@@ -1,0 +1,786 @@
+{
+ "version": 2,
+ "type": "writing-patterns",
+ "source": "P2-5 种子库 + typogrammar.com 免费 PDF(仅供本地个人学习)(Task1 指南句式)+ 人工整理",
+ "patterns": [
+  {
+   "id": "p01",
+   "type": "opinion",
+   "name": "It is widely believed that …",
+   "cn": "人们普遍认为……(观点引入)",
+   "template": "It is widely believed that + 从句",
+   "example": "It is widely believed that higher education plays a decisive role in career development.",
+   "exampleCn": "人们普遍认为,高等教育在职业发展中起着决定性作用。",
+   "tips": [
+    "适合开头段引入普遍观点",
+    "后文可接 However/While 引出自己的立场"
+   ]
+  },
+  {
+   "id": "p02",
+   "type": "opinion",
+   "name": "There is no doubt that …",
+   "cn": "毫无疑问……(强调)",
+   "template": "There is no doubt that + 从句",
+   "example": "There is no doubt that traffic congestion has become a pressing urban issue.",
+   "exampleCn": "毫无疑问,交通拥堵已成为一个紧迫的城市问题。",
+   "tips": [
+    "语气强,观点立场必须站得住",
+    "注意 doubt 后接 that 从句(肯定句中也可用 whether)"
+   ]
+  },
+  {
+   "id": "p03",
+   "type": "discuss",
+   "name": "One compelling argument in favour of … is that …",
+   "cn": "支持……的一个有力论点是……(论证)",
+   "template": "One compelling argument in favour of / against + 名词 is that + 从句",
+   "example": "One compelling argument in favour of remote work is that it gives employees greater flexibility.",
+   "exampleCn": "支持远程办公的一个有力论点是它给了员工更大的灵活性。",
+   "tips": [
+    "主体段首句展开分论点",
+    "argument 后可换 benefit/drawback"
+   ]
+  },
+  {
+   "id": "p04",
+   "type": "discuss",
+   "name": "While it is true that …, it must be acknowledged that …",
+   "cn": "虽然……没错,但也必须承认……(让步反驳)",
+   "template": "While it is true that + 从句, it must be acknowledged that + 从句",
+   "example": "While it is true that technology saves time, it must be acknowledged that it can also be a source of distraction.",
+   "exampleCn": "虽然技术确实节省时间,但也必须承认它可能让人分心。",
+   "tips": [
+    "讨论双边题型的高分句式",
+    "两半句用逗号连接,不用 but"
+   ]
+  },
+  {
+   "id": "p05",
+   "type": "report",
+   "name": "The primary reason for this is that …",
+   "cn": "其首要原因是……(归因)",
+   "template": "The primary reason for + 名词 is that + 从句",
+   "example": "The primary reason for this trend is that young people now value experiences over possessions.",
+   "exampleCn": "这一趋势的首要原因是,年轻人如今更看重体验而非物质。",
+   "tips": [
+    "reason for 后接名词/动名词",
+    "可替换 primary → key/main"
+   ]
+  },
+  {
+   "id": "p06",
+   "type": "report",
+   "name": "This can be attributed to …",
+   "cn": "这可以归因于……(学术归因)",
+   "template": "This (phenomenon/trend) can be attributed to + 名词/动名词",
+   "example": "The sharp decline in birth rates can be attributed to rising living costs.",
+   "exampleCn": "出生率的急剧下降可归因于不断上升的生活成本。",
+   "tips": [
+    "attribute A to B:A 被归因于 B",
+    "被动语态是学术写作高频结构"
+   ]
+  },
+  {
+   "id": "p07",
+   "type": "data",
+   "name": "In contrast to A, B …",
+   "cn": "与 A 相比,B……(对比)",
+   "template": "In contrast to + 名词, + 名词 + 谓语",
+   "example": "In contrast to urban areas, rural regions saw a modest rise of only 2%.",
+   "exampleCn": "与城市地区相比,农村地区仅小幅上升了 2%。",
+   "tips": [
+    "也可用 By contrast, 开头",
+    "对比项必须同类可比"
+   ]
+  },
+  {
+   "id": "p08",
+   "type": "data",
+   "name": "The figure rose dramatically from … to …",
+   "cn": "数字从……急剧上升到……(趋势描述)",
+   "template": "The figure rose/fell dramatically from + 数值 to + 数值 over the period.",
+   "example": "The figure for car ownership rose dramatically from 40% to 78% over the period.",
+   "exampleCn": "汽车拥有率在此期间从 40% 急剧上升到 78%。",
+   "tips": [
+    "dramatically 可换 sharply/significantly/slightly",
+    "over the period 呼应图表时间跨度"
+   ]
+  },
+  {
+   "id": "p09",
+   "type": "data",
+   "name": "X is expected to witness a steady increase",
+   "cn": "预计 X 将迎来稳步增长(预测)",
+   "template": "X is expected/predicted to witness + 趋势名词",
+   "example": "Online sales are expected to witness a steady increase over the next decade.",
+   "exampleCn": "预计未来十年网络销售额将稳步增长。",
+   "tips": [
+    "witness 拟人化写法,图表作文加分",
+    "主语一般不是人"
+   ]
+  },
+  {
+   "id": "p10",
+   "type": "general",
+   "name": "Only by doing X can we …",
+   "cn": "只有通过做 X,我们才能……(倒装强调)",
+   "template": "Only by + doing + 助动词/情态动词 + 主语 + 动词原形",
+   "example": "Only by raising public awareness can we reverse this worrying trend.",
+   "exampleCn": "只有提高公众意识,我们才能扭转这一令人担忧的趋势。",
+   "tips": [
+    "Only 开头+状语 → 主句部分倒装",
+    "倒装后语序:can we / will they / does it"
+   ]
+  },
+  {
+   "id": "p11",
+   "type": "general",
+   "name": "Not only does X …, but it also …",
+   "cn": "X 不仅……,而且……(递进倒装)",
+   "template": "Not only + 助动词 + 主语 + 动词原形, but + 主语 + also + 谓语",
+   "example": "Not only does regular exercise improve health, but it also relieves stress.",
+   "exampleCn": "规律运动不仅能改善健康,还能缓解压力。",
+   "tips": [
+    "Not only 置于句首 → 前半句部分倒装",
+    "后半句用正常语序"
+   ]
+  },
+  {
+   "id": "p12",
+   "type": "general",
+   "name": "Provided that …, X will …",
+   "cn": "只要……,X 就会……(条件)",
+   "template": "Provided that + 从句, + 主句",
+   "example": "Provided that proper supervision is in place, children can benefit greatly from the internet.",
+   "exampleCn": "只要有适当的监管,儿童就能从互联网中大大受益。",
+   "tips": [
+    "provided that ≈ as long as ≈ if",
+    "书面语气比 if 更强,注意从句用一般现在时表将来"
+   ]
+  },
+  {
+   "id": "pdf01",
+   "type": "data",
+   "name": "The bar chart shows the number of international students at five…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart shows the number of international students at five UK universities in 2022.",
+   "example": "The bar chart shows the number of international students at five UK universities in 2022.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf02",
+   "type": "data",
+   "name": "The bar chart compares five UK universities in terms of their in…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart compares five UK universities in terms of their international student enrolment in 2022.",
+   "example": "The bar chart compares five UK universities in terms of their international student enrolment in 2022.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf03",
+   "type": "data",
+   "name": "The bar chart shows the percentage of men and women who did regu…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart shows the percentage of men and women who did regular exercise in 2019.",
+   "example": "The bar chart shows the percentage of men and women who did regular exercise in 2019.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf04",
+   "type": "data",
+   "name": "The bar chart compares the proportion of men and women engaging …",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart compares the proportion of men and women engaging in regular physical exercise in 2019.",
+   "example": "The bar chart compares the proportion of men and women engaging in regular physical exercise in 2019.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf05",
+   "type": "data",
+   "name": "The pie chart shows the world's energy production by source in 2…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The pie chart shows the world's energy production by source in 2023.",
+   "example": "The pie chart shows the world's energy production by source in 2023.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf06",
+   "type": "data",
+   "name": "The bar chart shows the amount of money spent on five different …",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart shows the amount of money spent on five different categories in four countries.",
+   "example": "The bar chart shows the amount of money spent on five different categories in four countries.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf07",
+   "type": "data",
+   "name": "The bar chart compares expenditure across five categories in fou…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart compares expenditure across five categories in four countries, allowing both within-country and between-country comparisons.",
+   "example": "The bar chart compares expenditure across five categories in four countries, allowing both within-country and between-country comparisons.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf09",
+   "type": "data",
+   "name": "The bar chart compares [what is measured] across [number] [categ…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart compares [what is measured] across [number] [categories] in [year or time period].",
+   "example": "The bar chart compares [what is measured] across [number] [categories] in [year or time period].",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf10",
+   "type": "data",
+   "name": "The bar chart compares the number of international students enro…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The bar chart compares the number of international students enrolled at five universities in the United Kingdom in 2023.",
+   "example": "The bar chart compares the number of international students enrolled at five universities in the United Kingdom in 2023.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf11",
+   "type": "data",
+   "name": "The pie chart shows that 35% housing, 20% transport, 15% food.",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The pie chart shows that 35% housing, 20% transport, 15% food.",
+   "example": "The pie chart shows that 35% housing, 20% transport, 15% food.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "pdf12",
+   "type": "data",
+   "name": "The pie chart shows that housing accounted for 35 percent of the…",
+   "cn": "图表作文高分句式(typogrammar Task 1 指南)",
+   "template": "The pie chart shows that housing accounted for 35 percent of the total, followed by transport at 20 percent and food at 15 percent.",
+   "example": "The pie chart shows that housing accounted for 35 percent of the total, followed by transport at 20 percent and food at 15 percent.",
+   "exampleCn": "见原句(图表作文示范句式)",
+   "tips": [
+    "Task 1 图表描述常用句式",
+    "注意时态与数值表达准确"
+   ]
+  },
+  {
+   "id": "h01",
+   "type": "opinion",
+   "name": "It is often argued that …",
+   "cn": "人们常说……(引入争议话题)",
+   "template": "It is often argued that …",
+   "example": "It is often argued that young people spend too much time online.",
+   "exampleCn": "人们常说年轻人上网时间过多。",
+   "tips": [
+    "开头段引入双边观点,常与 while others believe 搭配"
+   ]
+  },
+  {
+   "id": "h02",
+   "type": "discuss",
+   "name": "Some people claim that …, while others maintain that …",
+   "cn": "有人主张……,而另一些人坚持……",
+   "template": "Some people claim that …, while others maintain that …",
+   "example": "Some people claim that money brings happiness, while others maintain that true joy comes from relationships.",
+   "exampleCn": "有人认为金钱带来幸福,而另一些人坚持真正的快乐来自人际关系。",
+   "tips": [
+    "讨论类开头经典框架,两方观点都要概述"
+   ]
+  },
+  {
+   "id": "h03",
+   "type": "opinion",
+   "name": "From my perspective, …",
+   "cn": "在我看来……",
+   "template": "From my perspective, …",
+   "example": "From my perspective, the benefits of urbanisation outweigh its drawbacks.",
+   "exampleCn": "在我看来,城市化的好处大于坏处。",
+   "tips": [
+    "表明立场,比 in my opinion 更书面"
+   ]
+  },
+  {
+   "id": "h04",
+   "type": "opinion",
+   "name": "I am inclined to believe that …",
+   "cn": "我倾向于认为……",
+   "template": "I am inclined to believe that …",
+   "example": "I am inclined to believe that governments should invest more in public transport.",
+   "exampleCn": "我倾向于认为政府应加大对公共交通的投入。",
+   "tips": [
+    "温和表达立场,论证型作文可用"
+   ]
+  },
+  {
+   "id": "h05",
+   "type": "general",
+   "name": "A case in point is …",
+   "cn": "一个典型的例子是……",
+   "template": "A case in point is …",
+   "example": "A case in point is the rapid growth of electric vehicles in China.",
+   "exampleCn": "一个典型例子是中国电动汽车的快速增长。",
+   "tips": [
+    "引出具体例证,替代 for example"
+   ]
+  },
+  {
+   "id": "h06",
+   "type": "general",
+   "name": "This is particularly true when it comes to …",
+   "cn": "在……方面尤其如此",
+   "template": "This is particularly true when it comes to …",
+   "example": "This is particularly true when it comes to rural education.",
+   "exampleCn": "在乡村教育方面尤其如此。",
+   "tips": [
+    "聚焦话题某一方面,段落过渡自然"
+   ]
+  },
+  {
+   "id": "h07",
+   "type": "discuss",
+   "name": "The advantages of … far outweigh the disadvantages",
+   "cn": "……的好处远大于坏处",
+   "template": "The advantages of … far outweigh the disadvantages",
+   "example": "The advantages of telecommuting far outweigh the disadvantages for most knowledge workers.",
+   "exampleCn": "对多数知识工作者而言,远程办公利远大于弊。",
+   "tips": [
+    "讨论类结论句,立场鲜明"
+   ]
+  },
+  {
+   "id": "h08",
+   "type": "report",
+   "name": "There is a growing body of evidence suggesting that …",
+   "cn": "越来越多的证据表明……",
+   "template": "There is a growing body of evidence suggesting that …",
+   "example": "There is a growing body of evidence suggesting that regular exercise boosts mental health.",
+   "exampleCn": "越来越多的证据表明,规律运动能促进心理健康。",
+   "tips": [
+    "学术化证据引入,报告类作文高分句式"
+   ]
+  },
+  {
+   "id": "h09",
+   "type": "report",
+   "name": "X has become a matter of public concern",
+   "cn": "X 已成为公众关注的问题",
+   "template": "X has become a matter of public concern",
+   "example": "Air pollution has become a matter of public concern in many megacities.",
+   "exampleCn": "空气污染已成为许多特大城市公众关注的问题。",
+   "tips": [
+    "报告类开头指出问题"
+   ]
+  },
+  {
+   "id": "h10",
+   "type": "report",
+   "name": "The underlying causes of this problem are threefold",
+   "cn": "这一问题的深层原因有三",
+   "template": "The underlying causes of this problem are threefold",
+   "example": "The underlying causes of this problem are threefold: poverty, poor infrastructure and weak governance.",
+   "exampleCn": "这一问题的深层原因有三:贫困、基础设施薄弱与治理不力。",
+   "tips": [
+    "报告类主体段总起句"
+   ]
+  },
+  {
+   "id": "h11",
+   "type": "report",
+   "name": "Measures must be taken to address …",
+   "cn": "必须采取措施应对……",
+   "template": "Measures must be taken to address …",
+   "example": "Measures must be taken to address the rising cost of housing.",
+   "exampleCn": "必须采取措施应对不断上涨的住房成本。",
+   "tips": [
+    "结尾段提出解决建议"
+   ]
+  },
+  {
+   "id": "h12",
+   "type": "general",
+   "name": "Only in this way can …",
+   "cn": "只有这样……才能……",
+   "template": "Only in this way can …",
+   "example": "Only in this way can we achieve a truly sustainable society.",
+   "exampleCn": "只有这样,我们才能建成真正可持续的社会。",
+   "tips": [
+    "倒装强调,结尾段收束有力"
+   ]
+  },
+  {
+   "id": "h13",
+   "type": "general",
+   "name": "It is high time that …",
+   "cn": "现在正是……的时候了",
+   "template": "It is high time that …",
+   "example": "It is high time that governments took decisive action on climate change.",
+   "exampleCn": "现在是各国政府对气候变化采取果断行动的时候了。",
+   "tips": [
+    "注意从句用过去式(虚拟语气)"
+   ]
+  },
+  {
+   "id": "h14",
+   "type": "report",
+   "name": "The phenomenon can be explained by a combination of factors",
+   "cn": "这一现象可由多种因素共同解释",
+   "template": "The phenomenon can be explained by a combination of factors",
+   "example": "The phenomenon can be explained by a combination of economic and cultural factors.",
+   "exampleCn": "这一现象可由经济与文化因素共同解释。",
+   "tips": [
+    "报告类主体段总起"
+   ]
+  },
+  {
+   "id": "h15",
+   "type": "general",
+   "name": "A growing number of people are …",
+   "cn": "越来越多的人在……",
+   "template": "A growing number of people are …",
+   "example": "A growing number of people are choosing to work as freelancers.",
+   "exampleCn": "越来越多的人选择自由职业。",
+   "tips": [
+    "数量趋势表达,替代 more and more"
+   ]
+  },
+  {
+   "id": "h16",
+   "type": "opinion",
+   "name": "It cannot be denied that …",
+   "cn": "不可否认……",
+   "template": "It cannot be denied that …",
+   "example": "It cannot be denied that technology has transformed education.",
+   "exampleCn": "不可否认,技术已改变教育。",
+   "tips": [
+    "承认对方观点,常后接 however 转折"
+   ]
+  },
+  {
+   "id": "h17",
+   "type": "discuss",
+   "name": "Whether … is a matter of heated debate",
+   "cn": "……是否……是激烈争论的话题",
+   "template": "Whether … is a matter of heated debate",
+   "example": "Whether artificial intelligence will replace teachers is a matter of heated debate.",
+   "exampleCn": "人工智能是否会取代教师是激烈争论的话题。",
+   "tips": [
+    "讨论类开头"
+   ]
+  },
+  {
+   "id": "h18",
+   "type": "data",
+   "name": "The trend towards … shows no sign of abating",
+   "cn": "……的趋势没有减弱的迹象",
+   "template": "The trend towards … shows no sign of abating",
+   "example": "The trend towards online shopping shows no sign of abating.",
+   "exampleCn": "网上购物的趋势没有减弱的迹象。",
+   "tips": [
+    "趋势句,Task 1 结尾可用来预测"
+   ]
+  },
+  {
+   "id": "h19",
+   "type": "data",
+   "name": "X accounts for the largest proportion of …",
+   "cn": "X 在……中占比最大",
+   "template": "X accounts for the largest proportion of …",
+   "example": "Private cars account for the largest proportion of urban emissions.",
+   "exampleCn": "私家车在城市排放中占比最大。",
+   "tips": [
+    "图表作文占比表达"
+   ]
+  },
+  {
+   "id": "h20",
+   "type": "data",
+   "name": "The period between … and … witnessed a marked change in …",
+   "cn": "从……到……期间,……发生了显著变化",
+   "template": "The period between … and … witnessed a marked change in …",
+   "example": "The period between 2000 and 2020 witnessed a marked change in household energy use.",
+   "exampleCn": "2000 至 2020 年间,家庭能源使用发生了显著变化。",
+   "tips": [
+    "witness 拟人化,Task 1 总述句"
+   ]
+  },
+  {
+   "id": "h21",
+   "type": "data",
+   "name": "There was a threefold increase in …",
+   "cn": "……增长了三倍",
+   "template": "There was a threefold increase in …",
+   "example": "There was a threefold increase in renewable energy capacity.",
+   "exampleCn": "可再生能源装机容量增长了三倍。",
+   "tips": [
+    "倍数表达:threefold/twofold"
+   ]
+  },
+  {
+   "id": "h22",
+   "type": "data",
+   "name": "The majority of …, with the remainder …",
+   "cn": "大多数……,其余……",
+   "template": "The majority of …, with the remainder …",
+   "example": "The majority of commuters used private cars, with the remainder relying on public transport.",
+   "exampleCn": "大多数通勤者使用私家车,其余依赖公共交通。",
+   "tips": [
+    "份额拆分表达"
+   ]
+  },
+  {
+   "id": "h23",
+   "type": "general",
+   "name": "By contrast, …",
+   "cn": "相比之下,……",
+   "template": "By contrast, …",
+   "example": "By contrast, spending on books remained almost unchanged.",
+   "exampleCn": "相比之下,购书支出几乎保持不变。",
+   "tips": [
+    "对比转折,Task 1 分组描述"
+   ]
+  },
+  {
+   "id": "h24",
+   "type": "data",
+   "name": "A similar pattern can be observed in …",
+   "cn": "在……中也能观察到相似模式",
+   "template": "A similar pattern can be observed in …",
+   "example": "A similar pattern can be observed in the data for rural households.",
+   "exampleCn": "农村家庭的数据中也能观察到相似模式。",
+   "tips": [
+    "Task 1 分组比较"
+   ]
+  },
+  {
+   "id": "h25",
+   "type": "report",
+   "name": "This can be largely attributed to …",
+   "cn": "这在很大程度上可归因于……",
+   "template": "This can be largely attributed to …",
+   "example": "This can be largely attributed to improved access to healthcare.",
+   "exampleCn": "这在很大程度上可归因于医疗服务可及性的提高。",
+   "tips": [
+    "归因表达,学术语气"
+   ]
+  },
+  {
+   "id": "h26",
+   "type": "general",
+   "name": "It is worth noting that …",
+   "cn": "值得注意的是……",
+   "template": "It is worth noting that …",
+   "example": "It is worth noting that the figures do not include informal employment.",
+   "exampleCn": "值得注意的是,数据未包含非正规就业。",
+   "tips": [
+    "提示重要细节,写作与图表均可"
+   ]
+  },
+  {
+   "id": "h27",
+   "type": "discuss",
+   "name": "The argument in favour of … rests on the assumption that …",
+   "cn": "支持……的论点基于……的假设",
+   "template": "The argument in favour of … rests on the assumption that …",
+   "example": "The argument in favour of school uniforms rests on the assumption that they reduce inequality.",
+   "exampleCn": "支持校服的论点基于校服能减少不平等的假设。",
+   "tips": [
+    "拆解对方论证的高阶句式"
+   ]
+  },
+  {
+   "id": "h28",
+   "type": "general",
+   "name": "Provided that …, there is no reason why …",
+   "cn": "只要……,就没有理由不……",
+   "template": "Provided that …, there is no reason why …",
+   "example": "Provided that safety rules are followed, there is no reason why children should not cycle to school.",
+   "exampleCn": "只要遵守安全规则,就没有理由不让孩子们骑车上学。",
+   "tips": [
+    "条件句 + 双重否定,语气强"
+   ]
+  },
+  {
+   "id": "h29",
+   "type": "general",
+   "name": "What matters most is not …, but …",
+   "cn": "最重要的不是……,而是……",
+   "template": "What matters most is not …, but …",
+   "example": "What matters most is not the quantity of homework, but its quality.",
+   "exampleCn": "最重要的不是作业的数量,而是质量。",
+   "tips": [
+    "主语从句强调,观点句高分结构"
+   ]
+  },
+  {
+   "id": "h30",
+   "type": "opinion",
+   "name": "It is the responsibility of … to …",
+   "cn": "……是……的责任",
+   "template": "It is the responsibility of … to …",
+   "example": "It is the responsibility of parents to guide their children's use of screens.",
+   "exampleCn": "引导孩子使用屏幕是父母的责任。",
+   "tips": [
+    "责任归属表达"
+   ]
+  },
+  {
+   "id": "h31",
+   "type": "general",
+   "name": "Without …, it would be impossible to …",
+   "cn": "没有……,就不可能……",
+   "template": "Without …, it would be impossible to …",
+   "example": "Without international cooperation, it would be impossible to tackle climate change.",
+   "exampleCn": "没有国际合作,就不可能应对气候变化。",
+   "tips": [
+    "虚拟语气论证必要性"
+   ]
+  },
+  {
+   "id": "h32",
+   "type": "discuss",
+   "name": "Far from being a threat, …",
+   "cn": "……远非威胁,而是……",
+   "template": "Far from being a threat, …",
+   "example": "Far from being a threat, immigration has enriched the local economy.",
+   "exampleCn": "移民远非威胁,反而丰富了当地经济。",
+   "tips": [
+    "反驳对立观点的高分开头"
+   ]
+  },
+  {
+   "id": "h33",
+   "type": "report",
+   "name": "The benefits of this approach are twofold",
+   "cn": "这种方法的好处有二",
+   "template": "The benefits of this approach are twofold",
+   "example": "The benefits of this approach are twofold: lower costs and higher efficiency.",
+   "exampleCn": "这种方法的好处有二:成本更低、效率更高。",
+   "tips": [
+    "twofold/threefold 总分结构"
+   ]
+  },
+  {
+   "id": "h34",
+   "type": "discuss",
+   "name": "Admittedly, …",
+   "cn": "诚然,……",
+   "template": "Admittedly, …",
+   "example": "Admittedly, space exploration is extremely expensive.",
+   "exampleCn": "诚然,太空探索极其昂贵。",
+   "tips": [
+    "让步段开头,后接 however"
+   ]
+  },
+  {
+   "id": "h35",
+   "type": "general",
+   "name": "This raises the question of whether …",
+   "cn": "这引出了……的问题",
+   "template": "This raises the question of whether …",
+   "example": "This raises the question of whether economic growth can be decoupled from emissions.",
+   "exampleCn": "这引出了经济增长能否与排放脱钩的问题。",
+   "tips": [
+    "承上启下引出讨论"
+   ]
+  },
+  {
+   "id": "h36",
+   "type": "general",
+   "name": "In light of the above, …",
+   "cn": "鉴于以上分析,……",
+   "template": "In light of the above, …",
+   "example": "In light of the above, the case for stricter regulation is compelling.",
+   "exampleCn": "鉴于以上分析,加强监管的理由很有说服力。",
+   "tips": [
+    "结论段总起"
+   ]
+  },
+  {
+   "id": "h37",
+   "type": "report",
+   "name": "… is often cited as the main culprit",
+   "cn": "……常被指为主要元凶",
+   "template": "… is often cited as the main culprit",
+   "example": "Car dependence is often cited as the main culprit behind urban congestion.",
+   "exampleCn": "对汽车的依赖常被指为城市拥堵的主要元凶。",
+   "tips": [
+    "归因句,报告类常用"
+   ]
+  },
+  {
+   "id": "h38",
+   "type": "general",
+   "name": "The advantages are not confined to …",
+   "cn": "好处不仅限于……",
+   "template": "The advantages are not confined to …",
+   "example": "The advantages of bilingual education are not confined to language skills.",
+   "exampleCn": "双语教育的好处不仅限于语言能力。",
+   "tips": [
+    "not confined to = 不局限于"
+   ]
+  },
+  {
+   "id": "h39",
+   "type": "opinion",
+   "name": "It is essential that …",
+   "cn": "……至关重要",
+   "template": "It is essential that …",
+   "example": "It is essential that every child have access to quality education.",
+   "exampleCn": "每个孩子都能接受优质教育至关重要。",
+   "tips": [
+    "注意从句用原形(虚拟语气)"
+   ]
+  },
+  {
+   "id": "h40",
+   "type": "discuss",
+   "name": "The extent to which … remains a subject of debate",
+   "cn": "……在多大程度上……仍存争议",
+   "template": "The extent to which … remains a subject of debate",
+   "example": "The extent to which social media affects mental health remains a subject of debate.",
+   "exampleCn": "社交媒体在多大程度上影响心理健康仍存争议。",
+   "tips": [
+    "学术讨论高阶句式"
+   ]
+  }
+ ]
+}

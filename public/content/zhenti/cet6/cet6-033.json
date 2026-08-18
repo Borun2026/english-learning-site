@@ -1,0 +1,64 @@
+{
+ "id": "cet6-033",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第2套) Passage 1",
+ "title": "Human memory is notoriously unreliable",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 441,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Human memory is notoriously unreliable. Even people with the sharpest facial-recognition skills can only remember so much.",
+  "It's tough to quantify how good a person is at remembering. No one really knows how many different faces someone can recall, for example, but various estimates tend to hover in the thousands-based on the number of acquaintances a person might have.",
+  "Machines aren't limited this way, Give the right computer a massive database of faces, and it can process what it sees-then recognize a face it's told to find-with remarkable speed and precision. This skill is what supports the enormous promise of facial-recognition software in the 2lst century. It's also what makes contemporary surveillance systems so scary.",
+  "The thing is, machines still have limitations when it comes to facial recognition. And scientists are only just beginning to understand what those constraints are. To begin to figure out how computers are struggling, researchers at the University of Washington created a massive database of faces- they call it MegaFace- and tested a variety of facial-recognition algorithms as they scaled up in complexity. The idea was to test the machines on a database that included up to 1 million different images of nearly 700,000 different people-and not just a large database featuring a relatively small number of different faces, more consistent with what's been used in other research.",
+  "As the databases grew, machine accuracy dipped across the board. Algorithms that were right 95% of the time when they were dealing with a 13, 000-image database, for example, were accurate about 70% of the time when confronted with 1 million images. That's still pretty good, says one of the researchers, Ira Kemelmacher-Shlizerman.\"Much better than we expected, \"she said.",
+  "Machines also had difficulty adjusting for people who look a lot alike-either doppelgangers ,whom the machine would have trouble identifying as two separate people, or the same person who appeared in different photos at different ages or in different lighting, whom the",
+  "6 machine would incorrectly view as separate people.",
+  "\"Once we scale up, algorithms must be sensitive to tiny changes in identities and at the same time invariant to lighting, pose, age, \"Kemelmacher-Shlizerman said.",
+  "The trouble is, for many of the researchers who'd like to design systems to address these challenges, massive datasets for experimentation just don't exist--at least, not in formats that are accessible to academic researchers.Training sets like the ones Google and Facebook have are private. There are no public databases that contain millions of faces. MegaFace's creators say it's the largest publicly available facial-recognition dataset out there.",
+  "\"An ultimate face recognition algorithm should perform with billions of people in a dataset, \"the researchers wrote."
+ ],
+ "questions": [
+  {
+   "q": "文中 “beginning” 最接近的意思是?",
+   "options": [
+    "差不多",
+    "软件",
+    "形象",
+    "开始，开端"
+   ],
+   "answer": 3,
+   "analysis": "“beginning” 意为「开始，开端」。原文语境:And scientists are only just beginning to understand what those constraints are.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:This skill is what supports the enormous promise of facial-recognition ___ in the 2lst century.",
+   "options": [
+    "process",
+    "image",
+    "software",
+    "example"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“This skill is what supports the enormous promise of facial-recognition software in the 2lst century.”。空格处应填入 “software”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Home to virgin reefs, rare sharks and vast numbers of exotic fish, the Coral",
+    "One of the great successes of the Republican Party in recent decades is the r",
+    "Variability is crucially important for learning new skills",
+    "Human memory is notoriously unreliable"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Human memory is notoriously unreliable.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

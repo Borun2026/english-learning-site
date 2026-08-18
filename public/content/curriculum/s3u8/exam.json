@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u8",
+  "stage": 3,
+  "unitId": "s3u8",
+  "title": "真题演练 · 分词作状语",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 分词作状语。",
+  "questions": [
+    {
+      "q": "___ from the tower, the city looks smaller.",
+      "options": [
+        "Seeing",
+        "Seen",
+        "To see",
+        "See"
+      ],
+      "answer": 1,
+      "analysis": "city 是被看的,用过去分词 Seen。",
+      "point": "g-s3u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ the door, he went into the room.",
+      "options": [
+        "Opened",
+        "Opening",
+        "To open",
+        "Open"
+      ],
+      "answer": 1,
+      "analysis": "he 主动开门,用现在分词 Opening。",
+      "point": "g-s3u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ his homework, he watched TV.",
+      "options": [
+        "Finished",
+        "Finishing",
+        "Having finished",
+        "To finish"
+      ],
+      "answer": 2,
+      "analysis": "先完成作业再看电视,用 Having finished。",
+      "point": "g-s3u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The exam ___, the students felt relieved.",
+      "options": [
+        "finishing",
+        "finished",
+        "finish",
+        "to finish"
+      ],
+      "answer": 1,
+      "analysis": "独立主格中 exam 被完成,用过去分词 finished。",
+      "point": "g-s3u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ by the accident, he couldn't drive again.",
+      "options": [
+        "Terrifying",
+        "Terrified",
+        "Terrify",
+        "To terrify"
+      ],
+      "answer": 1,
+      "analysis": "he 被吓到,用过去分词 Terrified。",
+      "point": "g-s3u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Encouraging by his words, she kept going.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Encouraged by his words, she kept going.。she 是被鼓励的对象,要用过去分词 Encouraged。",
+      "point": "g-s3u8",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

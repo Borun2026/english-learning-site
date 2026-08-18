@@ -1,0 +1,1010 @@
+{
+  "id": "a-s2u12",
+  "stage": 2,
+  "unitId": "s2u12",
+  "title": "Asking the Way",
+  "newWords": [
+    "lights",
+    "minutes",
+    "trees",
+    "sole",
+    "sincere",
+    "slender",
+    "sketch",
+    "similarly",
+    "vision",
+    "verify",
+    "ultimately",
+    "underneath",
+    "shift"
+  ],
+  "sentences": [
+    {
+      "text": "Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+      "translation": "打扰一下,你能告诉我去邮局的路吗?这是我唯一的问题,我需要真诚的帮助。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Excuse me",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Excuse"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "could you tell me the way",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语(情态动词)",
+              "text": "could tell"
+            },
+            {
+              "role": "宾语(人)",
+              "text": "me"
+            },
+            {
+              "role": "宾语(物)",
+              "text": "the way"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语表方向)",
+          "color": "#f4a8b8",
+          "text": "to the post office"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "This is my sole question",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "This"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "my sole question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I need sincere help",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "need"
+            },
+            {
+              "role": "宾语",
+              "text": "sincere help"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "tell sb. the way to...",
+          "note": "tell me the way to the post office 表示\"告诉我去邮局的路\",介词 to 表方向。"
+        },
+        {
+          "name": "could 表示委婉请求",
+          "note": "could you... 用情态动词 could 比 can 更礼貌、委婉。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "could you tell me the way",
+          "name": "tell sb. the way to..."
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "could you tell me the way",
+          "name": "could 表示委婉请求"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+          "answer": "Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+          "note": "tell me the way to the post office 表示\"告诉我去邮局的路\",介词 to 表方向。",
+          "point": "tell sb. the way to..."
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+          "answer": "Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+          "note": "could you... 用情态动词 could 比 can 更礼貌、委婉。",
+          "point": "could 表示委婉请求"
+        }
+      ]
+    },
+    {
+      "text": "Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+      "translation": "沿着这条路直走,在红绿灯处左转,然后这条路会向东延伸。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Go straight along this road",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Go"
+            },
+            {
+              "role": "状语",
+              "text": "straight along this road"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "turn left at the traffic lights",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "turn left"
+            },
+            {
+              "role": "状语",
+              "text": "at the traffic lights"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the road will shift to the east",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the road"
+            },
+            {
+              "role": "谓语",
+              "text": "will shift"
+            },
+            {
+              "role": "状语",
+              "text": "to the east"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "along 沿着",
+          "note": "go along this road 表示\"沿着这条路走\",along 表示\"沿着\"。"
+        },
+        {
+          "name": "at + 地点介词用法",
+          "note": "at the traffic lights 表示\"在红绿灯处\",at 用于小地点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "turn left at the traffic lights",
+          "name": "along 沿着"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "turn left at the traffic lights",
+          "name": "at + 地点介词用法"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+          "answer": "Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+          "note": "go along this road 表示\"沿着这条路走\",along 表示\"沿着\"。",
+          "point": "along 沿着"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+          "answer": "Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+          "note": "at the traffic lights 表示\"在红绿灯处\",at 用于小地点。",
+          "point": "at + 地点介词用法"
+        }
+      ]
+    },
+    {
+      "text": "The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+      "translation": "银行在医院旁边,博物馆在公园对面,一棵细长的树就在它们附近。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The bank is next to the hospital",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The bank"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "next to the hospital"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the museum is across from the park",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the museum"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "across from the park"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "a slender tree is near them",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a slender tree"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "near them"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "next to 在……旁边",
+          "note": "next to 表示\"紧挨着、在旁边\"。"
+        },
+        {
+          "name": "across from / near",
+          "note": "across from 表示\"在……对面\",near 表示\"在……附近\",都是方位介词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the museum is across from the park",
+          "name": "next to 在……旁边"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the museum is across from the park",
+          "name": "across from / near"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+          "answer": "The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+          "note": "next to 表示\"紧挨着、在旁边\"。",
+          "point": "next to 在……旁边"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+          "answer": "The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+          "note": "across from 表示\"在……对面\",near 表示\"在……附近\",都是方位介词。",
+          "point": "across from / near"
+        }
+      ]
+    },
+    {
+      "text": "Walk past the library, and you will see a tall building in front of you, and a sketch of the map will help you.",
+      "translation": "走过图书馆,你会看到一座高楼在你面前,一张地图草图会帮到你。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Walk past the library",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Walk past"
+            },
+            {
+              "role": "宾语",
+              "text": "the library"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will see a tall building",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will see"
+            },
+            {
+              "role": "宾语",
+              "text": "a tall building"
+            }
+          ]
+        },
+        {
+          "label": "地点状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in front of you"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a sketch of the map will help you",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a sketch of the map"
+            },
+            {
+              "role": "谓语",
+              "text": "will help"
+            },
+            {
+              "role": "宾语",
+              "text": "you"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "past 经过",
+          "note": "walk past 表示\"走过、经过\",past 是介词。"
+        },
+        {
+          "name": "in front of 在……前面",
+          "note": "in front of 表示\"在……(外部)前面\",作地点状语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "a sketch of the map will help you",
+          "name": "past 经过"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "a sketch of the map will help you",
+          "name": "in front of 在……前面"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Walk past the library, and you will see a tall building in front of you, and a sketch of the map will help you.",
+          "answer": "Walk past the library, and you will see a tall building in front of you, and a sketch of the map will help you.",
+          "note": "walk past 表示\"走过、经过\",past 是介词。",
+          "point": "past 经过"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Walk past the library, and you will see a tall building in front of you, and a sketch of the map will help you.",
+          "answer": "Walk past the library, and you will see a tall building in front of you, and a sketch of the map will help you.",
+          "note": "in front of 表示\"在……(外部)前面\",作地点状语。",
+          "point": "in front of 在……前面"
+        }
+      ]
+    },
+    {
+      "text": "The subway station is behind the supermarket, and the entrance is underneath the bridge.",
+      "translation": "地铁站在超市后面,入口在桥的正下方。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The subway station is behind the supermarket",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The subway station"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "behind the supermarket"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the entrance is underneath the bridge",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the entrance"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "underneath the bridge"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "behind 在……后面",
+          "note": "behind the supermarket 表示\"在超市后面\"。"
+        },
+        {
+          "name": "underneath 在……正下方",
+          "note": "underneath 比 under 更强调\"正下方\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "The subway station is behind the supermarket",
+          "name": "behind 在……后面"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "The subway station is behind the supermarket",
+          "name": "underneath 在……正下方"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The subway station is behind the supermarket, and the entrance is underneath the bridge.",
+          "answer": "The subway station is behind the supermarket, and the entrance is underneath the bridge.",
+          "note": "behind the supermarket 表示\"在超市后面\"。",
+          "point": "behind 在……后面"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The subway station is behind the supermarket, and the entrance is underneath the bridge.",
+          "answer": "The subway station is behind the supermarket, and the entrance is underneath the bridge.",
+          "note": "underneath 比 under 更强调\"正下方\"。",
+          "point": "underneath 在……正下方"
+        }
+      ]
+    },
+    {
+      "text": "Turn right at the corner, and the hotel is on your left, and similarly the bank is on your right.",
+      "translation": "在拐角处右转,酒店就在你的左边,同样地,银行在你的右边。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Turn right at the corner",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Turn right"
+            },
+            {
+              "role": "状语",
+              "text": "at the corner"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the hotel is on your left",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the hotel"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "on your left"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "similarly"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the bank is on your right",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the bank"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "on your right"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "at the corner 在拐角处",
+          "note": "at the corner 表示\"在拐角处\",turn right 表示\"右转\"。"
+        },
+        {
+          "name": "on one's left / right",
+          "note": "on your left 和 on your right 表示\"在你的左边/右边\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the hotel is on your left",
+          "name": "at the corner 在拐角处"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the hotel is on your left",
+          "name": "on one's left / right"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Turn right at the corner, and the hotel is on your left, and similarly the bank is on your right.",
+          "answer": "Turn right at the corner, and the hotel is on your left, and similarly the bank is on your right.",
+          "note": "at the corner 表示\"在拐角处\",turn right 表示\"右转\"。",
+          "point": "at the corner 在拐角处"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Turn right at the corner, and the hotel is on your left, and similarly the bank is on your right.",
+          "answer": "Turn right at the corner, and the hotel is on your left, and similarly the bank is on your right.",
+          "note": "on your left 和 on your right 表示\"在你的左边/右边\"。",
+          "point": "on one's left / right"
+        }
+      ]
+    },
+    {
+      "text": "From the station, walk north for ten minutes, and the tall tower will be in your vision.",
+      "translation": "从车站出发,向北走十分钟,那座高塔就会出现在你的视野里。",
+      "chunks": [
+        {
+          "label": "地点状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "From the station"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "walk north for ten minutes",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "walk"
+            },
+            {
+              "role": "状语",
+              "text": "north for ten minutes"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the tall tower will be in your vision",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the tall tower"
+            },
+            {
+              "role": "谓语",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "in your vision"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "from 表示起点",
+          "note": "From the station 表示\"从车站出发\",from 引出起点。"
+        },
+        {
+          "name": "for + 时间段",
+          "note": "for ten minutes 表示\"十分钟\",说明走路持续的时间。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the tall tower will be in your vision",
+          "name": "from 表示起点"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "the tall tower will be in your vision",
+          "name": "for + 时间段"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):From the station, walk north for ten minutes, and the tall tower will be in your vision.",
+          "answer": "From the station, walk north for ten minutes, and the tall tower will be in your vision.",
+          "note": "From the station 表示\"从车站出发\",from 引出起点。",
+          "point": "from 表示起点"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):From the station, walk north for ten minutes, and the tall tower will be in your vision.",
+          "answer": "From the station, walk north for ten minutes, and the tall tower will be in your vision.",
+          "note": "for ten minutes 表示\"十分钟\",说明走路持续的时间。",
+          "point": "for + 时间段"
+        }
+      ]
+    },
+    {
+      "text": "If you get lost, ask a policeman, and he will show you the way and verify the map for you.",
+      "translation": "如果你迷路了,去问警察,他会给你指路并为你核实地图。",
+      "chunks": [
+        {
+          "label": "从句(条件状语从句)",
+          "color": "#c8a5e0",
+          "text": "If you get lost"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "ask a policeman",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "ask"
+            },
+            {
+              "role": "宾语",
+              "text": "a policeman"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he will show you the way and verify the map",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will show"
+            },
+            {
+              "role": "宾语(人)",
+              "text": "you"
+            },
+            {
+              "role": "宾语(物)",
+              "text": "the way"
+            },
+            {
+              "role": "谓语",
+              "text": "verify"
+            },
+            {
+              "role": "宾语",
+              "text": "the map"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for you"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "If you get lost 表示\"如果你迷路\",主句用祈使句和 will 从句。"
+        },
+        {
+          "name": "show sb. sth. 给某人指路",
+          "note": "show you the way 是双宾语结构,表示\"给你指路\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "he will show you the way and verify the map",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "he will show you the way and verify the map",
+          "name": "show sb. sth. 给某人指路"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If you get lost, ask a policeman, and he will show you the way and verify the map for you.",
+          "answer": "If you get lost, ask a policeman, and he will show you the way and verify the map for you.",
+          "note": "If you get lost 表示\"如果你迷路\",主句用祈使句和 will 从句。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If you get lost, ask a policeman, and he will show you the way and verify the map for you.",
+          "answer": "If you get lost, ask a policeman, and he will show you the way and verify the map for you.",
+          "note": "show you the way 是双宾语结构,表示\"给你指路\"。",
+          "point": "show sb. sth. 给某人指路"
+        }
+      ]
+    },
+    {
+      "text": "At last, you will arrive at the entrance between two big trees, and ultimately you will find it.",
+      "translation": "最后,你会到达两棵大树之间的入口,最终你会找到它的。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "At last"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "you will arrive at the entrance",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will arrive at"
+            },
+            {
+              "role": "宾语",
+              "text": "the entrance"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "between two big trees"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "ultimately"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will find it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will find"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "arrive at 到达(小地点)",
+          "note": "arrive at+小地点表示\"到达\",如 the entrance。"
+        },
+        {
+          "name": "between 在……之间",
+          "note": "between two big trees 表示\"在两棵大树之间\",修饰 entrance。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "you will arrive at the entrance",
+          "name": "arrive at 到达(小地点)"
+        },
+        {
+          "grammarId": "g-s2u12",
+          "phrase": "you will arrive at the entrance",
+          "name": "between 在……之间"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At last, you will arrive at the entrance between two big trees, and ultimately you will find it.",
+          "answer": "At last, you will arrive at the entrance between two big trees, and ultimately you will find it.",
+          "note": "arrive at+小地点表示\"到达\",如 the entrance。",
+          "point": "arrive at 到达(小地点)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At last, you will arrive at the entrance between two big trees, and ultimately you will find it.",
+          "answer": "At last, you will arrive at the entrance between two big trees, and ultimately you will find it.",
+          "note": "between two big trees 表示\"在两棵大树之间\",修饰 entrance。",
+          "point": "between 在……之间"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u12",
+      "name": "tell sb. the way to...",
+      "note": "tell me the way to the post office 表示\"告诉我去邮局的路\",介词 to 表方向。",
+      "sourceExample": "Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+      "sourceExampleCn": "打扰一下,你能告诉我去邮局的路吗?这是我唯一的问题,我需要真诚的帮助。"
+    },
+    {
+      "grammarId": "g-s2u12",
+      "name": "could 表示委婉请求",
+      "note": "could you... 用情态动词 could 比 can 更礼貌、委婉。",
+      "sourceExample": "Excuse me, could you tell me the way to the post office? This is my sole question, and I need sincere help.",
+      "sourceExampleCn": "打扰一下,你能告诉我去邮局的路吗?这是我唯一的问题,我需要真诚的帮助。"
+    },
+    {
+      "grammarId": "g-s2u12",
+      "name": "along 沿着",
+      "note": "go along this road 表示\"沿着这条路走\",along 表示\"沿着\"。",
+      "sourceExample": "Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+      "sourceExampleCn": "沿着这条路直走,在红绿灯处左转,然后这条路会向东延伸。"
+    },
+    {
+      "grammarId": "g-s2u12",
+      "name": "at + 地点介词用法",
+      "note": "at the traffic lights 表示\"在红绿灯处\",at 用于小地点。",
+      "sourceExample": "Go straight along this road, and turn left at the traffic lights, and the road will shift to the east.",
+      "sourceExampleCn": "沿着这条路直走,在红绿灯处左转,然后这条路会向东延伸。"
+    },
+    {
+      "grammarId": "g-s2u12",
+      "name": "next to 在……旁边",
+      "note": "next to 表示\"紧挨着、在旁边\"。",
+      "sourceExample": "The bank is next to the hospital, and the museum is across from the park, and a slender tree is near them.",
+      "sourceExampleCn": "银行在医院旁边,博物馆在公园对面,一棵细长的树就在它们附近。"
+    }
+  ]
+}

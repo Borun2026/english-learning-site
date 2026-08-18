@@ -1,0 +1,216 @@
+{
+  "id": "d-s3u10",
+  "stage": 3,
+  "unitId": "s3u10",
+  "scene": "日常事务处理",
+  "goal": "成功办理银行开户及相关事务",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Good morning, sir. How may I assist you? Please speak up so that I can deal with your request quickly.",
+      "lineCn": "早上好,先生。有什么可以帮您?请讲清楚,我好尽快处理您的事务。",
+      "grammar": [
+        { "name": "短语动词 deal with", "note": "deal with 意为\"处理、应付\",是商务与日常场合最常见的短语动词之一。" }
+      ],
+      "options": [
+        { "text": "I would like to open a savings account. Could you walk me through the process?", "textCn": "我想开一个储蓄账户。您能带我走一遍流程吗?", "feedback": "目标明确,办理开始。", "next": "n2" },
+        { "text": "I need to sort out a problem with my credit card statement.", "textCn": "我需要解决信用卡账单上的问题。", "feedback": "事务具体,职员受理。", "next": "n3" },
+        { "text": "I am not sure what I need. I just came to look around.", "textCn": "我不确定需要什么,只是进来看看。", "feedback": "需求不明,职员帮你梳理。", "next": "n4" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Certainly. To open an account, you must fill in this application form and hand over your ID.",
+      "lineCn": "当然可以。开户需要填写这份申请表,并上交您的身份证件。",
+      "grammar": [
+        { "name": "短语动词 fill in / hand over", "note": "fill in 填(表),hand over 递交、交出,两者都是办理手续的常用搭配。" }
+      ],
+      "options": [
+        { "text": "I have filled in the form. Here is my ID and a copy of my passport.", "textCn": "我已填好表格。这是我的身份证和护照复印件。", "feedback": "材料齐全,审核开始。", "next": "n5" },
+        { "text": "I will fill in the form, but I left my ID at home. Can I come back tomorrow?", "textCn": "我会填表,但身份证落在家里了。我明天再来行吗?", "feedback": "材料不全,职员建议改期。", "next": "n4" },
+        { "text": "Do I really need to hand over my original ID? I have only brought a photo.", "textCn": "真的必须交原件吗?我只带了照片。", "feedback": "材料不符,职员说明规定。", "next": "n4" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Let me look into that for you. Could you point out which items on the statement look wrong?",
+      "lineCn": "让我为您查一下。您能指出账单上哪些项目有问题吗?",
+      "grammar": [
+        { "name": "短语动词 look into / point out", "note": "look into 调查、研究,point out 指出,组合使用使服务表达更专业。" }
+      ],
+      "options": [
+        { "text": "There are two charges I did not recognise. Could you check them out for me?", "textCn": "有两笔我认不出的扣款。您能帮我查一下吗?", "feedback": "问题具体,查询启动。", "next": "n6" },
+        { "text": "I am not sure. Perhaps you can figure out what happened by yourself.", "textCn": "我不确定。也许您自己就能弄清发生了什么。", "feedback": "信息模糊,职员继续查证。", "next": "n6" },
+        { "text": "Forget it. I will give up on the refund and just put up with the charges.", "textCn": "算了。我不追退款了,就忍下这些扣款吧。", "feedback": "放弃维权,职员劝你重视。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "I see. Before you go, let me work out what you actually need: an account, a card, or something else?",
+      "lineCn": "明白了。在您离开前,让我理清您真正需要什么:账户、卡片,还是别的?",
+      "grammar": [
+        { "name": "短语动词 work out", "note": "work out 此处意为\"理清、弄明白\",也可表\"算出、制定\",是高频短语动词。" }
+      ],
+      "options": [
+        { "text": "After thinking it over, I have come to the conclusion that I need both an account and a debit card.", "textCn": "想清楚之后,我的结论是我既需要账户也需要借记卡。", "feedback": "需求明确,转入开户流程。", "next": "n2" },
+        { "text": "I came across a notice about a new deposit plan. I want to look into that.", "textCn": "我偶然看到新存款计划的公告,想了解一下。", "feedback": "转咨询新业务,服务继续。", "next": "n6" },
+        { "text": "Nothing, thanks. I will drop by another day.", "textCn": "不需要了,谢谢。改天再来。", "feedback": "无功而返,办理未完成。", "next": "fail1" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Everything checks out. Now, to keep your account safe, please come up with a strong password.",
+      "lineCn": "材料都没问题。为保证账户安全,请设置一个强密码。",
+      "grammar": [
+        { "name": "短语动词 check out / come up with", "note": "check out 核对无误;come up with 想出、提出,服务场景常用搭配。" }
+      ],
+      "options": [
+        { "text": "I have come up with one, and I will write it down somewhere safe.", "textCn": "我想好了一个,并会把它记在安全的地方。", "feedback": "安全意识良好,继续办理。", "next": "n5b" },
+        { "text": "I always go with my birthday. It is easier to remember.", "textCn": "我一直用生日,比较好记。", "feedback": "密码太弱,职员给出提醒。", "next": "n5b" },
+        { "text": "Passwords are troublesome. Can we just skip that part?", "textCn": "密码太麻烦,能跳过这步吗?", "feedback": "想省事,职员说明必要性。", "next": "n8" }
+      ]
+    },
+    "n5b": {
+      "id": "n5b",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Excellent. For your security, please set up a withdrawal limit for your card.",
+      "lineCn": "很好。为了您的安全,请为您的卡设置取款限额。",
+      "grammar": [
+        { "name": "短语动词 set up", "note": "set up 此处意为\"设置、设定\",也常表\"建立、安装\",用法灵活。" }
+      ],
+      "options": [
+        { "text": "I have set a daily limit of two thousand yuan. That should keep my money safe.", "textCn": "我设了每天两千元的限额,这样资金更安全。", "feedback": "设置合理,职员认可。", "next": "n7" },
+        { "text": "Set up a limit? I would rather have unlimited access to my own money.", "textCn": "设限额?我更想随意取用自己的钱。", "feedback": "忽略风险,职员会提醒。", "next": "n7" },
+        { "text": "I will leave the limit to you. I trust your judgement.", "textCn": "限额您来定,我信任您的判断。", "feedback": "过度放权,职员按规矩办。", "next": "n8" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "I have looked through your transaction history and picked out the two suspicious payments.",
+      "lineCn": "我已查阅您的交易记录,并挑出了两笔可疑的付款。",
+      "grammar": [
+        { "name": "短语动词 look through / pick out", "note": "look through 浏览、查阅;pick out 挑出、辨认出,组合用于查询场景。" }
+      ],
+      "options": [
+        { "text": "That rings a bell. I might have subscribed to a service and then forgotten about it.", "textCn": "有点印象。我可能订阅了某项服务然后忘了。", "feedback": "回忆起来,处理有方向。", "next": "n6b" },
+        { "text": "Those payments are nothing to do with me. Someone must have taken over my account.", "textCn": "那些付款与我无关,一定是有人侵入了我的账户。", "feedback": "怀疑被盗用,职员核查。", "next": "n6b" },
+        { "text": "I do not care how they got there. Just put through a refund immediately.", "textCn": "我不在乎它们怎么来的,立刻给我退款。", "feedback": "急躁无理,职员按流程办。", "next": "n8" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "I have looked into the merchant and found that it is a legitimate subscription service.",
+      "lineCn": "我已调查过这家商户,发现它是正规的订阅服务商。",
+      "grammar": [
+        { "name": "短语动词 look into(调查)", "note": "look into 表\"调查、深入研究\",与名词 merchant 搭配,体现查询的严谨。" }
+      ],
+      "options": [
+        { "text": "Then please go ahead and cancel that subscription for me.", "textCn": "那就请替我取消那个订阅。", "feedback": "果断处理,问题解决。", "next": "n7" },
+        { "text": "Keep the subscription, but put through a refund for the double charge.", "textCn": "订阅留着,但请把重复扣款退回来。", "feedback": "诉求合理,职员受理。", "next": "n7" },
+        { "text": "I do not trust your research. I will complain to your manager.", "textCn": "我不信你们的调查,我要向你经理投诉。", "feedback": "无理取闹,服务中断。", "next": "fail2" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Almost done. Please go over the details one last time before we hand over your new card.",
+      "lineCn": "快办好了。请最后核对一遍细节,然后我们交付您的新卡。",
+      "grammar": [
+        { "name": "短语动词 go over / hand over", "note": "go over 仔细核对、复习;hand over 交付、移交,服务收尾常用。" }
+      ],
+      "options": [
+        { "text": "Everything looks correct. I am looking forward to receiving my card.", "textCn": "一切无误。我期待收到我的卡。", "feedback": "确认无误,等待发卡。", "next": "n7b" },
+        { "text": "Wait, my address has changed. Please set it right before you issue the card.", "textCn": "等等,我的地址变了。发卡前请更正。", "feedback": "及时纠正,职员修正。", "next": "n7b" },
+        { "text": "I trust you completely. There is no need to go over anything.", "textCn": "我完全信任您,不用再核对了。", "feedback": "图省事,职员坚持核对。", "next": "n8" }
+      ]
+    },
+    "n7b": {
+      "id": "n7b",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Wonderful. The card will be delivered within three working days. Please sign for it when it turns up.",
+      "lineCn": "太好了。卡片将在三个工作日内送达。卡片到时请签收。",
+      "grammar": [
+        { "name": "短语动词 turn up / sign for", "note": "turn up 出现、到达;sign for 签收,用于物流与投递场景。" }
+      ],
+      "options": [
+        { "text": "I will sign for it as soon as it turns up. Thank you for the clear explanation.", "textCn": "卡片一到我就签收。谢谢您讲解得这么清楚。", "feedback": "沟通顺畅,服务完成在即。", "next": "n9" },
+        { "text": "I move around a lot. Could you hold on to the card until I come by to collect it?", "textCn": "我经常搬家。您能先保管卡,等我上门自取吗?", "feedback": "协调取卡方式,安排妥当。", "next": "n9" },
+        { "text": "Three days is too long. Can you speed things up?", "textCn": "三天太久了,能加快吗?", "feedback": "催促时限,职员说明规则。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "I am afraid skipping procedures is not possible. Please bear with me while we carry out the checks.",
+      "lineCn": "恐怕流程无法省略。请耐心等待我们完成核查。",
+      "grammar": [
+        { "name": "短语动词 bear with / carry out", "note": "bear with 容忍、耐心等待;carry out 执行、实施,礼貌服务的经典表达。" }
+      ],
+      "options": [
+        { "text": "My apologies. I did not mean to hold things up. Please carry on.", "textCn": "抱歉,我不是有意拖延。请继续吧。", "feedback": "礼貌配合,流程继续。", "next": "n7" },
+        { "text": "I find these procedures too long-winded. I will just give up.", "textCn": "这些流程太冗长,我不办了。", "feedback": "中途放弃,事务未完成。", "next": "fail1" },
+        { "text": "All right, carry on with the checks, but please hurry up.", "textCn": "行,继续核查吧,但请快一点。", "feedback": "勉强同意,继续配合。", "next": "n7" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Your account is now active. Please look out for the confirmation message within ten minutes.",
+      "lineCn": "您的账户现已开通。十分钟内请留意确认短信。",
+      "grammar": [
+        { "name": "短语动词 look out for", "note": "look out for 留意、注意查看,提醒客户关注后续信息。" }
+      ],
+      "options": [
+        { "text": "I have just received the message. Thank you for seeing me through the whole process.", "textCn": "我刚收到短信。谢谢您陪我走完全部流程。", "feedback": "事务圆满完成,客户满意。", "next": "success" },
+        { "text": "I will check for it. Could you also set up online banking for me?", "textCn": "我会留意短信。您还能帮我开通网上银行吗?", "feedback": "追加业务,服务继续。", "next": "n9b" },
+        { "text": "I have changed my mind about the account. Please cancel it now.", "textCn": "我改变主意不要账户了,请立刻注销。", "feedback": "临时反悔,办理终止。", "next": "fail2" }
+      ]
+    },
+    "n9b": {
+      "id": "n9b",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "Of course. Online banking takes just a few minutes to activate. Please come up with a separate password.",
+      "lineCn": "当然可以。网上银行几分钟即可开通。请另外设置一个密码。",
+      "grammar": [
+        { "name": "短语动词 come up with(设置)", "note": "come up with 此处表\"想出、设定\",与密码搭配,体现操作引导。" }
+      ],
+      "options": [
+        { "text": "Done. I have set up my online banking and received the confirmation.", "textCn": "搞定。我已开通网上银行并收到确认。", "feedback": "全部业务办理成功。", "next": "success" },
+        { "text": "I keep mixing up passwords. Please figure out a way to merge them.", "textCn": "我总记混密码。请想个办法把它们合并。", "feedback": "职员说明安全原则,回到流程。", "next": "n9" },
+        { "text": "Actually, skip online banking. I will just use the mobile app later.", "textCn": "算了,不办网银了。以后用手机应用就行。", "feedback": "选择简化,开户已成功。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "You are all set. Do not hesitate to turn to us whenever you need further assistance.",
+      "lineCn": "您都办妥了。今后有任何需要,随时来找我们。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "I am sorry we could not help. Should you change your mind, please come back anytime.",
+      "lineCn": "很遗憾没能帮到您。如果您改变主意,随时欢迎再来。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "银行职员 Clerk Wang",
+      "line": "As you wish. Cancelling an account you just opened is unusual, but we will proceed.",
+      "lineCn": "如您所愿。刚开户就注销确实少见,但我们会照办。",
+      "end": true,
+      "success": false
+    }
+  }
+}

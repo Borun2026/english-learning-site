@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u12",
+  "stage": 3,
+  "unitId": "s3u12",
+  "title": "真题演练 · 限定词与数量词",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 限定词与数量词。",
+  "questions": [
+    {
+      "q": "How ___ sugar do you need?",
+      "options": [
+        "many",
+        "much",
+        "few",
+        "little"
+      ],
+      "answer": 1,
+      "analysis": "sugar 不可数,用 much。",
+      "point": "g-s3u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ of the students have passed the exam.",
+      "options": [
+        "Much",
+        "A few",
+        "Little",
+        "A little"
+      ],
+      "answer": 1,
+      "analysis": "students 可数复数,用 a few。",
+      "point": "g-s3u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I have ___ time left; I can't help you.",
+      "options": [
+        "a few",
+        "little",
+        "a little",
+        "few"
+      ],
+      "answer": 1,
+      "analysis": "time 不可数 + 否定意味,用 little。",
+      "point": "g-s3u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Would you like ___ more tea?",
+      "options": [
+        "some",
+        "any",
+        "many",
+        "few"
+      ],
+      "answer": 0,
+      "analysis": "疑问句中表示邀请/请求时用 some。",
+      "point": "g-s3u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It was ___ wonderful day that we stayed out all day.",
+      "options": [
+        "such a",
+        "so a",
+        "such",
+        "a such"
+      ],
+      "answer": 0,
+      "analysis": "such a/an + 形容词 + 名词 + that。",
+      "point": "g-s3u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I don't have many money.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I don't have much money.。money 不可数,用 much。",
+      "point": "g-s3u12",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

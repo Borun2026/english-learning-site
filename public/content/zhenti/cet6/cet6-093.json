@@ -1,0 +1,62 @@
+{
+ "id": "cet6-093",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第2套) Passage 1",
+ "title": "With population increases and global urbanisation ever accelerating, much att...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "With population increases and global urbanisation ever accelerating, much attention is focused on the sustainability of our cities and scarce attention is paid to the countryside.",
+  "Rural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life. Yet whilst some or all of these elements exist in the countryside, so do conservatism and a lack of employment opportunities. And it is mostly due to the latter that rural communities are suffering. Attracted by the improved economics of urban areas, country-dwellers across the world are moving out, contributing to the excessive crowdedness of densely populated cities, and leaving the countryside in desolation.",
+  "So how can the countryside ensure its survival among these changes; or should it at all? Due to both the distance between residences and facilities and often intermittent public transport, those living in the countryside are heavier automobile users. Rural dwellers also use more energy maintaining their mostly detached buildings. We may be piled up like boxes in the city, but this brings energy efficiency that the countryside cannot match. Rural energy requirements result in higher carbon emissions per person than in the city, so it is actually irresponsible to endorse such a lifestyle choice.",
+  "Protecting the countryside is a hot topic. Those who have made their fortunes in the city often buy second homes in the countryside, visiting intermittently for a sample of a supposedly simple life. The side-effect of this is that house prices are pushed up due to increased demand, leaving them unaffordable for local people. A solution has yet to be found for this challenge, for market forces are further forcing residents out of the countryside. For those who believe in rural preservation, this is deplorable.",
+  "Whilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved. Industrialisation brought an increase in divisions of labour, changing social links between rural people. The internet has introduced once foreign cultures into the countryside. Improved travel connections and affordability have made the world more accessible, creating a \"global village\". Considering these changes, surely an evolving countryside is inevitable.",
+  "Perhaps the countryside should also prepare itself for massive population increases in the future. With cities across the world growing rapidly, how will the current urban generation respond to the inevitable social changes of mass urbanisation? Will the longing for a simpler life become stronger, fueling a rural renaissance?",
+  "As the world continues to urbanise, the voices calling for rural preservation may well grow louder. But change is inevitable. We know that the world is going to see new cities emerging from the dust and current cities",
+  "growing into megacities, but the future of the countryside is less clear."
+ ],
+ "questions": [
+  {
+   "q": "文中 “sense” 最接近的意思是?",
+   "options": [
+    "保存，储藏",
+    "运输",
+    "在…之中",
+    "感官"
+   ],
+   "answer": 3,
+   "analysis": "“sense” 意为「感官」。原文语境:Rural life is associated with closely-knit communities, sense of belonging, and a simple, tranquil life.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Whilst an idealised view of the countryside is common, the ___ is that rural life has continuously evolved.",
+   "options": [
+    "energy",
+    "country",
+    "future",
+    "reality"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Whilst an idealised view of the countryside is common, the reality is that rural life has continuously evolved.”。空格处应填入 “reality”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Officials at the White House announced a new space policy focused on managing",
+    "Schools are not just a microcosm ( JJ ) of society; they mediate it too",
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "With population increases and global urbanisation ever accelerating, much att"
+   ],
+   "answer": 3,
+   "analysis": "本文以“With population increases and global urbanisation ever accelerating, much attention is focused on the sustainability of our cities and scarce attention is paid ”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

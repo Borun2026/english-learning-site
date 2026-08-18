@@ -1,0 +1,1006 @@
+{
+  "id": "a-s3u2",
+  "stage": 3,
+  "unitId": "s3u2",
+  "title": "I Wish I Had Known",
+  "newWords": [
+    "decisive",
+    "beforehand",
+    "diligence",
+    "courteous",
+    "diminish",
+    "divert",
+    "drastically",
+    "eloquent",
+    "expertise",
+    "expenditure",
+    "foster",
+    "formidable",
+    "scrutiny",
+    "quest",
+    "criteria",
+    "deem",
+    "trade-off",
+    "consecutive"
+  ],
+  "sentences": [
+    {
+      "text": "I wish I could go back to the past and study with more diligence.",
+      "translation": "我希望我能回到过去,更加勤奋地学习。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I wish",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "wish"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句(虚拟语气)",
+          "color": "#c8a5e0",
+          "text": "I could go back to the past and study with more diligence"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "wish + 宾语从句(虚拟)",
+          "note": "wish 后接从句表难以实现的愿望;could do 表示对现在/未来的虚拟。",
+          "example": "I wish I could fly.",
+          "exampleCn": "我希望我能飞。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "I could go back to the past and study with more diligence",
+          "name": "wish + 宾语从句(虚拟)"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我希望我能飞。",
+          "answer": "I wish I could fly.",
+          "note": "wish 后接从句表难以实现的愿望;could do 表示对现在/未来的虚拟。",
+          "point": "wish + 宾语从句(虚拟)"
+        }
+      ]
+    },
+    {
+      "text": "I wish you would listen to my advice before you make a decision.",
+      "translation": "我希望你在做决定之前能听听我的建议。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I wish",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "wish"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句(虚拟语气)",
+          "color": "#c8a5e0",
+          "text": "you would listen to my advice"
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "before you make a decision"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "wish + would do",
+          "note": "wish + 主语 + would do 表示希望对方做某事(虚拟)。",
+          "example": "I wish you would stay.",
+          "exampleCn": "我希望你能留下来。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "you would listen to my advice",
+          "name": "wish + would do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我希望你能留下来。",
+          "answer": "I wish you would stay.",
+          "note": "wish + 主语 + would do 表示希望对方做某事(虚拟)。",
+          "point": "wish + would do"
+        }
+      ]
+    },
+    {
+      "text": "If only I could undo that careless mistake, I would feel calm again.",
+      "translation": "要是我能挽回那个粗心的错误该多好,那样我就会平静下来。",
+      "chunks": [
+        {
+          "label": "条件从句(if only 虚拟)",
+          "color": "#f6c177",
+          "text": "If only I could undo that careless mistake"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I would feel calm again",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "would feel"
+            },
+            {
+              "role": "表语",
+              "text": "calm again"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if only 虚拟",
+          "note": "if only 表强烈愿望,\"要是……该多好\",后接 could/would 等虚拟形式。",
+          "example": "If only I could see her again.",
+          "exampleCn": "要是我能再见到她该多好。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "If only I could undo that careless mistake",
+          "name": "if only 虚拟"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:要是我能再见到她该多好。",
+          "answer": "If only I could see her again.",
+          "note": "if only 表强烈愿望,\"要是……该多好\",后接 could/would 等虚拟形式。",
+          "point": "if only 虚拟"
+        }
+      ]
+    },
+    {
+      "text": "They wish they could afford the tuition and avoid a heavy loan.",
+      "translation": "他们希望能负担得起学费,避免沉重的贷款。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "They wish",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "They"
+            },
+            {
+              "role": "谓语",
+              "text": "wish"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句(虚拟语气)",
+          "color": "#c8a5e0",
+          "text": "they could afford the tuition and avoid a heavy loan"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "wish + could 虚拟",
+          "note": "could do 表对现在能力的虚拟愿望。",
+          "example": "I wish I could afford it.",
+          "exampleCn": "我希望我能负担得起。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "they could afford the tuition and avoid a heavy loan",
+          "name": "wish + could 虚拟"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我希望我能负担得起。",
+          "answer": "I wish I could afford it.",
+          "note": "could do 表对现在能力的虚拟愿望。",
+          "point": "wish + could 虚拟"
+        }
+      ]
+    },
+    {
+      "text": "I wish to express my regret about the lost opportunity.",
+      "translation": "我想对错失的机会表达我的遗憾。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I wish to express my regret",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "wish"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to express my regret"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "about the lost opportunity"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "wish to do",
+          "note": "wish to do 表示\"想要做某事\",较正式。",
+          "example": "I wish to see the manager.",
+          "exampleCn": "我想见经理。"
+        },
+        {
+          "name": "过去分词 lost 作定语",
+          "note": "lost 修饰 opportunity,意为\"错过的机会\"。",
+          "example": "a lost chance",
+          "exampleCn": "一次错过的机会"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "I wish to express my regret",
+          "name": "wish to do"
+        },
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "I wish to express my regret",
+          "name": "过去分词 lost 作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我想见经理。",
+          "answer": "I wish to see the manager.",
+          "note": "wish to do 表示\"想要做某事\",较正式。",
+          "point": "wish to do"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:一次错过的机会",
+          "answer": "a lost chance",
+          "note": "lost 修饰 opportunity,意为\"错过的机会\"。",
+          "point": "过去分词 lost 作定语"
+        }
+      ]
+    },
+    {
+      "text": "How I wish the exam could be simple, but the truth is different.",
+      "translation": "我多么希望考试能简单一点,但事实并非如此。",
+      "chunks": [
+        {
+          "label": "主干(主谓,感叹式)",
+          "color": "#a8dab5",
+          "text": "How I wish",
+          "parts": [
+            {
+              "role": "感叹词",
+              "text": "How"
+            },
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "wish"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句(虚拟语气)",
+          "color": "#c8a5e0",
+          "text": "the exam could be simple"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the truth is different"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "How + wish 感叹",
+          "note": "How I wish... 表\"我多么希望……\"。",
+          "example": "How I wish I were there.",
+          "exampleCn": "我多么希望我在那里。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "the exam could be simple",
+          "name": "How + wish 感叹"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我多么希望我在那里。",
+          "answer": "How I wish I were there.",
+          "note": "How I wish... 表\"我多么希望……\"。",
+          "point": "How + wish 感叹"
+        }
+      ]
+    },
+    {
+      "text": "A decisive person will not spend a whole year in useless regret.",
+      "translation": "果断的人不会把整整一年浪费在无用的懊悔上。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A decisive person will not spend a whole year",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A decisive person"
+            },
+            {
+              "role": "谓语",
+              "text": "will not spend"
+            },
+            {
+              "role": "宾语",
+              "text": "a whole year"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in useless regret"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "spend time in...",
+          "note": "spend 时间 in 名词/doing 表示\"把时间花在……上\"。",
+          "example": "Do not spend your life in fear.",
+          "exampleCn": "不要把你的生活浪费在恐惧上。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "A decisive person will not spend a whole year",
+          "name": "spend time in..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要把你的生活浪费在恐惧上。",
+          "answer": "Do not spend your life in fear.",
+          "note": "spend 时间 in 名词/doing 表示\"把时间花在……上\"。",
+          "point": "spend time in..."
+        }
+      ]
+    },
+    {
+      "text": "We should make the criteria clear beforehand, so no one will call it unfair.",
+      "translation": "我们应该事先把标准讲清楚,这样就不会有人说这不公平。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾宾补)",
+          "color": "#a8dab5",
+          "text": "We should make the criteria clear beforehand",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "should make"
+            },
+            {
+              "role": "宾语",
+              "text": "the criteria"
+            },
+            {
+              "role": "宾补",
+              "text": "clear"
+            },
+            {
+              "role": "状语",
+              "text": "beforehand"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "结果状语从句",
+          "color": "#c8a5e0",
+          "text": "no one will call it unfair"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "make + 宾语 + 宾补",
+          "note": "make the criteria clear 意为\"把标准弄明白\"。",
+          "example": "Make the plan clear first.",
+          "exampleCn": "先把计划讲清楚。"
+        },
+        {
+          "name": "so 引导结果从句",
+          "note": "so 引出结果,\"因此、这样\"。",
+          "example": "It was dark, so we stayed.",
+          "exampleCn": "天黑了,所以我们留下了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "We should make the criteria clear beforehand",
+          "name": "make + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "We should make the criteria clear beforehand",
+          "name": "so 引导结果从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:先把计划讲清楚。",
+          "answer": "Make the plan clear first.",
+          "note": "make the criteria clear 意为\"把标准弄明白\"。",
+          "point": "make + 宾语 + 宾补"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:天黑了,所以我们留下了。",
+          "answer": "It was dark, so we stayed.",
+          "note": "so 引出结果,\"因此、这样\"。",
+          "point": "so 引导结果从句"
+        }
+      ]
+    },
+    {
+      "text": "The quest for expertise will demand constant effort and careful scrutiny of your own work.",
+      "translation": "对专业知识的追求需要持续的努力和对自己作品的仔细审视。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The quest for expertise will demand constant effort and careful scrutiny of your own work",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The quest for expertise"
+            },
+            {
+              "role": "谓语",
+              "text": "will demand"
+            },
+            {
+              "role": "宾语",
+              "text": "constant effort and careful scrutiny of your own work"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "quest for 搭配",
+          "note": "quest for 意为\"对……的追求\"。",
+          "example": "the quest for truth",
+          "exampleCn": "对真理的追求"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "The quest for expertise will demand constant effort and careful scrutiny of your own work",
+          "name": "quest for 搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:对真理的追求",
+          "answer": "the quest for truth",
+          "note": "quest for 意为\"对……的追求\"。",
+          "point": "quest for 搭配"
+        }
+      ]
+    },
+    {
+      "text": "From today on, I will not live in the past; I will foster a new habit of learning.",
+      "translation": "从今天起,我不会活在过去;我将培养一种新的学习习惯。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "From today on"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I will not live in the past",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will not live"
+            },
+            {
+              "role": "状语",
+              "text": "in the past"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will foster a new habit of learning"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "foster 培养",
+          "note": "foster 意为\"培养、促进\"。",
+          "example": "Foster a good habit early.",
+          "exampleCn": "尽早培养好习惯。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "I will foster a new habit of learning",
+          "name": "foster 培养"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:尽早培养好习惯。",
+          "answer": "Foster a good habit early.",
+          "note": "foster 意为\"培养、促进\"。",
+          "point": "foster 培养"
+        }
+      ]
+    },
+    {
+      "text": "Do not deem your regret a waste; treat it as a trade-off between comfort and growth.",
+      "translation": "不要把懊悔视为浪费;把它当作舒适与成长之间的一种权衡。",
+      "chunks": [
+        {
+          "label": "主干(祈使句+宾补)",
+          "color": "#a8dab5",
+          "text": "Do not deem your regret a waste",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Do not deem"
+            },
+            {
+              "role": "宾语",
+              "text": "your regret"
+            },
+            {
+              "role": "宾补",
+              "text": "a waste"
+            }
+          ]
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "treat it as a trade-off between comfort and growth",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "treat"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "宾补",
+              "text": "as a trade-off between comfort and growth"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "deem + 宾语 + 宾补",
+          "note": "deem...a waste 意为\"把……视为浪费\"。",
+          "example": "Do not deem failure a crime.",
+          "exampleCn": "不要把失败视为罪过。"
+        },
+        {
+          "name": "treat...as...",
+          "note": "treat A as B 意为\"把A当作B\"。",
+          "example": "Treat the past as a lesson.",
+          "exampleCn": "把过去当作教训。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "treat it as a trade-off between comfort and growth",
+          "name": "deem + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "treat it as a trade-off between comfort and growth",
+          "name": "treat...as..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要把失败视为罪过。",
+          "answer": "Do not deem failure a crime.",
+          "note": "deem...a waste 意为\"把……视为浪费\"。",
+          "point": "deem + 宾语 + 宾补"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:把过去当作教训。",
+          "answer": "Treat the past as a lesson.",
+          "note": "treat A as B 意为\"把A当作B\"。",
+          "point": "treat...as..."
+        }
+      ]
+    },
+    {
+      "text": "An eloquent speaker will not diminish the value of silence.",
+      "translation": "雄辩的演说家不会贬低沉默的价值。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An eloquent speaker will not diminish the value of silence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An eloquent speaker"
+            },
+            {
+              "role": "谓语",
+              "text": "will not diminish"
+            },
+            {
+              "role": "宾语",
+              "text": "the value of silence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "本句为完整主谓宾结构,副词 not 修饰谓语。",
+          "example": "A wise man values silence.",
+          "exampleCn": "智者珍视沉默。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "An eloquent speaker will not diminish the value of silence",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:智者珍视沉默。",
+          "answer": "A wise man values silence.",
+          "note": "本句为完整主谓宾结构,副词 not 修饰谓语。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The huge expenditure will not divert the team from its main goal.",
+      "translation": "巨大的开支不会使团队偏离主要目标。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The huge expenditure will not divert the team from its main goal",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The huge expenditure"
+            },
+            {
+              "role": "谓语",
+              "text": "will not divert"
+            },
+            {
+              "role": "宾语",
+              "text": "the team"
+            },
+            {
+              "role": "状语",
+              "text": "from its main goal"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "divert...from...",
+          "note": "divert A from B 意为\"使A偏离B\"。",
+          "example": "Do not divert your mind from the task.",
+          "exampleCn": "不要让你的心思偏离任务。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "The huge expenditure will not divert the team from its main goal",
+          "name": "divert...from..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要让你的心思偏离任务。",
+          "answer": "Do not divert your mind from the task.",
+          "note": "divert A from B 意为\"使A偏离B\"。",
+          "point": "divert...from..."
+        }
+      ]
+    },
+    {
+      "text": "A formidable test will change your life drastically, for better or worse.",
+      "translation": "一场严峻的考试会彻底改变你的生活,无论好坏。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A formidable test will change your life drastically",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A formidable test"
+            },
+            {
+              "role": "谓语",
+              "text": "will change"
+            },
+            {
+              "role": "宾语",
+              "text": "your life"
+            },
+            {
+              "role": "状语",
+              "text": "drastically"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "for better or worse"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 drastically 作状语",
+          "note": "drastically 修饰谓语,意为\"大幅度地、彻底地\"。",
+          "example": "The city changed drastically.",
+          "exampleCn": "这座城市彻底变了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "A formidable test will change your life drastically",
+          "name": "副词 drastically 作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这座城市彻底变了。",
+          "answer": "The city changed drastically.",
+          "note": "drastically 修饰谓语,意为\"大幅度地、彻底地\"。",
+          "point": "副词 drastically 作状语"
+        }
+      ]
+    },
+    {
+      "text": "Consecutive practice will raise the confidence of every player.",
+      "translation": "连续的练习会提升每个球员的信心。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Consecutive practice will raise the confidence of every player",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Consecutive practice"
+            },
+            {
+              "role": "谓语",
+              "text": "will raise"
+            },
+            {
+              "role": "宾语",
+              "text": "the confidence of every player"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "连续性的主语 + 谓语 + 宾语,表因果关系。",
+          "example": "Practice builds confidence.",
+          "exampleCn": "练习建立信心。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "Consecutive practice will raise the confidence of every player",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:练习建立信心。",
+          "answer": "Practice builds confidence.",
+          "note": "连续性的主语 + 谓语 + 宾语,表因果关系。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "We must be courteous to our guest, even in a difficult moment.",
+      "translation": "即使在艰难时刻,我们也必须对客人彬彬有礼。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "We must be courteous to our guest",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "must be"
+            },
+            {
+              "role": "表语",
+              "text": "courteous to our guest"
+            }
+          ]
+        },
+        {
+          "label": "让步状语",
+          "color": "#f6c177",
+          "text": "even in a difficult moment"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "even in 让步",
+          "note": "even in + 名词短语 表\"即使在……情况下\"。",
+          "example": "Even in danger, stay calm.",
+          "exampleCn": "即使在危险中,也要保持冷静。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u2",
+          "phrase": "We must be courteous to our guest",
+          "name": "even in 让步"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:即使在危险中,也要保持冷静。",
+          "answer": "Even in danger, stay calm.",
+          "note": "even in + 名词短语 表\"即使在……情况下\"。",
+          "point": "even in 让步"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u2",
+      "name": "wish + 宾语从句(虚拟)",
+      "note": "wish 后接从句表难以实现的愿望;could do 表示对现在/未来的虚拟。",
+      "sourceExample": "I wish I could go back to the past and study with more diligence.",
+      "sourceExampleCn": "我希望我能回到过去,更加勤奋地学习。"
+    },
+    {
+      "grammarId": "g-s3u2",
+      "name": "wish + would do",
+      "note": "wish + 主语 + would do 表示希望对方做某事(虚拟)。",
+      "sourceExample": "I wish you would listen to my advice before you make a decision.",
+      "sourceExampleCn": "我希望你在做决定之前能听听我的建议。"
+    },
+    {
+      "grammarId": "g-s3u2",
+      "name": "if only 虚拟",
+      "note": "if only 表强烈愿望,\"要是……该多好\",后接 could/would 等虚拟形式。",
+      "sourceExample": "If only I could undo that careless mistake, I would feel calm again.",
+      "sourceExampleCn": "要是我能挽回那个粗心的错误该多好,那样我就会平静下来。"
+    },
+    {
+      "grammarId": "g-s3u2",
+      "name": "wish + could 虚拟",
+      "note": "could do 表对现在能力的虚拟愿望。",
+      "sourceExample": "They wish they could afford the tuition and avoid a heavy loan.",
+      "sourceExampleCn": "他们希望能负担得起学费,避免沉重的贷款。"
+    },
+    {
+      "grammarId": "g-s3u2",
+      "name": "wish to do",
+      "note": "wish to do 表示\"想要做某事\",较正式。",
+      "sourceExample": "I wish to express my regret about the lost opportunity.",
+      "sourceExampleCn": "我想对错失的机会表达我的遗憾。"
+    }
+  ]
+}

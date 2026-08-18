@@ -1,0 +1,550 @@
+{
+  "id": "a-s1u6",
+  "stage": 1,
+  "unitId": "s1u6",
+  "title": "My Family and Friends",
+  "newWords": [
+    "family",
+    "friends",
+    "little",
+    "doctor",
+    "nurse",
+    "names",
+    "wang",
+    "ming",
+    "li",
+    "ping",
+    "doctors",
+    "students",
+    "parents",
+    "amy",
+    "gives",
+    "bike",
+    "thank",
+    "their",
+    "our",
+    "school"
+  ],
+  "sentences": [
+    {
+      "text": "This is a photo of my family and my friends at school.",
+      "translation": "这是我和家人、朋友在学校的一张合影。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "This is a photo of my family and my friends at school",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "This"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a photo of my family and my friends"
+            },
+            {
+              "role": "地点状语",
+              "text": "at school"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "指示代词 this",
+          "note": "this 指\"这个\",介绍照片里的人时常用。"
+        },
+        {
+          "name": "物主代词 my",
+          "note": "my 表示\"我的\",放在名词前面。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "This is a photo of my family and my friends at school",
+          "name": "指示代词 this"
+        },
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "This is a photo of my family and my friends at school",
+          "name": "物主代词 my"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This is a photo of my family and my friends at school.",
+          "answer": "This is a photo of my family and my friends at school.",
+          "note": "this 指\"这个\",介绍照片里的人时常用。",
+          "point": "指示代词 this"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This is a photo of my family and my friends at school.",
+          "answer": "This is a photo of my family and my friends at school.",
+          "note": "my 表示\"我的\",放在名词前面。",
+          "point": "物主代词 my"
+        }
+      ]
+    },
+    {
+      "text": "They are my father, my mother and my little sister.",
+      "translation": "他们是我的爸爸、妈妈和小妹妹。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "They are my father, my mother and my little sister",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "They"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "my father, my mother and my little sister"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "人称代词 they",
+          "note": "they 是复数人称代词,用来指代我的家人。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "They are my father, my mother and my little sister",
+          "name": "人称代词 they"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):They are my father, my mother and my little sister.",
+          "answer": "They are my father, my mother and my little sister.",
+          "note": "they 是复数人称代词,用来指代我的家人。",
+          "point": "人称代词 they"
+        }
+      ]
+    },
+    {
+      "text": "My father is a doctor, and my mother is a nurse.",
+      "translation": "我爸爸是医生,我妈妈是护士。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "My father is a doctor",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My father"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a doctor"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "my mother is a nurse",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "my mother"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a nurse"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主系表结构",
+          "note": "My father is a doctor. 中 is 是系动词,后面的表语说明身份、职业。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "My father is a doctor",
+          "name": "主系表结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father is a doctor, and my mother is a nurse.",
+          "answer": "My father is a doctor, and my mother is a nurse.",
+          "note": "My father is a doctor. 中 is 是系动词,后面的表语说明身份、职业。",
+          "point": "主系表结构"
+        }
+      ]
+    },
+    {
+      "text": "Their names are Wang Ming and Li Ping, and they are doctors.",
+      "translation": "他们的名字叫王明和李平,他们是医生。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "Their names are Wang Ming and Li Ping",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Their names"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "Wang Ming and Li Ping"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "they are doctors",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "they"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "doctors"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "物主代词 their",
+          "note": "their 表示\"他们的\",后接名词 names。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "Their names are Wang Ming and Li Ping",
+          "name": "物主代词 their"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Their names are Wang Ming and Li Ping, and they are doctors.",
+          "answer": "Their names are Wang Ming and Li Ping, and they are doctors.",
+          "note": "their 表示\"他们的\",后接名词 names。",
+          "point": "物主代词 their"
+        }
+      ]
+    },
+    {
+      "text": "My sister and I are students, and we love our school.",
+      "translation": "妹妹和我是学生,我们都爱我们的学校。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "My sister and I are students",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My sister and I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "students"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we love our school",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "love"
+            },
+            {
+              "role": "宾语",
+              "text": "our school"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主格与物主代词",
+          "note": "we 是主格,作主语;our 是物主代词\"我们的\",后接名词 school。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "My sister and I are students",
+          "name": "主格与物主代词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My sister and I are students, and we love our school.",
+          "answer": "My sister and I are students, and we love our school.",
+          "note": "we 是主格,作主语;our 是物主代词\"我们的\",后接名词 school。",
+          "point": "主格与物主代词"
+        }
+      ]
+    },
+    {
+      "text": "This is my friend Amy, and her parents are very nice to me.",
+      "translation": "这是我的朋友艾米,她的父母对我很好。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "This is my friend Amy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "This"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "my friend Amy"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "her parents are very nice to me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "her parents"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "very nice"
+            },
+            {
+              "role": "对象状语",
+              "text": "to me"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "her 的用法",
+          "note": "her 既可以作\"她\"的宾格,也可以作\"她的\"物主代词,如 her parents。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "her parents are very nice to me",
+          "name": "her 的用法"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This is my friend Amy, and her parents are very nice to me.",
+          "answer": "This is my friend Amy, and her parents are very nice to me.",
+          "note": "her 既可以作\"她\"的宾格,也可以作\"她的\"物主代词,如 her parents。",
+          "point": "her 的用法"
+        }
+      ]
+    },
+    {
+      "text": "She gives me her old bike, and I say thank you to her.",
+      "translation": "她把她的旧自行车给了我,我向她道谢。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "She gives me her old bike",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "She"
+            },
+            {
+              "role": "谓语",
+              "text": "gives"
+            },
+            {
+              "role": "宾语(间接)",
+              "text": "me"
+            },
+            {
+              "role": "宾语(直接)",
+              "text": "her old bike"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I say thank you to her",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "say"
+            },
+            {
+              "role": "宾语",
+              "text": "thank you"
+            },
+            {
+              "role": "对象状语",
+              "text": "to her"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "人称代词的变化",
+          "note": "she 作主语,me、her 是宾格,作宾语。",
+          "example": "I like her, and she likes me.",
+          "exampleCn": "我喜欢她,她也喜欢我。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u6",
+          "phrase": "She gives me her old bike",
+          "name": "人称代词的变化"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我喜欢她,她也喜欢我。",
+          "answer": "I like her, and she likes me.",
+          "note": "she 作主语,me、her 是宾格,作宾语。",
+          "point": "人称代词的变化"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u6",
+      "name": "指示代词 this",
+      "note": "this 指\"这个\",介绍照片里的人时常用。",
+      "sourceExample": "This is a photo of my family and my friends at school.",
+      "sourceExampleCn": "这是我和家人、朋友在学校的一张合影。"
+    },
+    {
+      "grammarId": "g-s1u6",
+      "name": "物主代词 my",
+      "note": "my 表示\"我的\",放在名词前面。",
+      "sourceExample": "This is a photo of my family and my friends at school.",
+      "sourceExampleCn": "这是我和家人、朋友在学校的一张合影。"
+    },
+    {
+      "grammarId": "g-s1u6",
+      "name": "人称代词 they",
+      "note": "they 是复数人称代词,用来指代我的家人。",
+      "sourceExample": "They are my father, my mother and my little sister.",
+      "sourceExampleCn": "他们是我的爸爸、妈妈和小妹妹。"
+    },
+    {
+      "grammarId": "g-s1u6",
+      "name": "主系表结构",
+      "note": "My father is a doctor. 中 is 是系动词,后面的表语说明身份、职业。",
+      "sourceExample": "My father is a doctor, and my mother is a nurse.",
+      "sourceExampleCn": "我爸爸是医生,我妈妈是护士。"
+    },
+    {
+      "grammarId": "g-s1u6",
+      "name": "物主代词 their",
+      "note": "their 表示\"他们的\",后接名词 names。",
+      "sourceExample": "Their names are Wang Ming and Li Ping, and they are doctors.",
+      "sourceExampleCn": "他们的名字叫王明和李平,他们是医生。"
+    }
+  ]
+}

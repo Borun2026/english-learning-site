@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u7",
+  "stage": 1,
+  "unitId": "s1u7",
+  "scene": "描述城市与天气",
+  "goal": "让对方了解你家乡的天气特点",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同学 Tom",
+      "line": "Where are you from, Li Hua? I am from Shanghai.",
+      "lineCn": "李华,你来自哪里?我来自上海。",
+      "grammar": [
+        { "name": "形容词作表语", "note": "be + 形容词构成主系表结构,用来描述主语的状态或特征,如 It is cold、Shanghai is big。" }
+      ],
+      "options": [
+        { "text": "I am from Harbin. It is very cold and snowy in winter there.", "textCn": "我来自哈尔滨。那里冬天非常冷,而且多雪。", "feedback": "说出家乡并用形容词 cold、snowy 描述天气,话题顺利展开。", "next": "n2" },
+        { "text": "I from Harbin.", "textCn": "我来自哈尔滨。", "feedback": "缺少 be 动词,应该是 I am from Harbin。", "next": "n3" },
+        { "text": "I am from here.", "textCn": "我就住这里。", "feedback": "等于没有回答,对方完全不知道你的家乡。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同学 Tom",
+      "line": "Wow, Harbin! Is it really cold there?",
+      "lineCn": "哇,哈尔滨!那里真的很冷吗?",
+      "grammar": [
+        { "name": "程度副词 very/really", "note": "very、really 放在形容词前加强程度,如 very cold、really strong,副词不随名词变化。" }
+      ],
+      "options": [
+        { "text": "Yes, very cold! In winter it often snows, and the wind is really strong.", "textCn": "是的,非常冷!冬天经常下雪,风也很大。", "feedback": "用 very、really 生动描述家乡冬天,信息具体丰富。", "next": "n4" },
+        { "text": "Yes, it is very colds.", "textCn": "是的,非常冷。", "feedback": "形容词没有复数形式,cold 不能加 -s,应该只说 very cold。", "next": "n3" },
+        { "text": "Cold is cold.", "textCn": "冷就是冷。", "feedback": "回答敷衍,没有任何有用的描述。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同学 Tom",
+      "line": "Oh, I see. What is the weather like in your hometown?",
+      "lineCn": "哦,我明白了。你家乡的天气怎么样?",
+      "grammar": [
+        { "name": "询问天气句型", "note": "What is the weather like? 是询问天气的固定句型,回答用 It is + 形容词,如 It is warm and sunny。" }
+      ],
+      "options": [
+        { "text": "In spring it is warm and sunny. In summer it is hot and rainy.", "textCn": "春天温暖晴朗。夏天炎热多雨。", "feedback": "用 It is + 形容词回答了天气,还分季节描述,非常清楚。", "next": "n4" },
+        { "text": "The weather is weather.", "textCn": "天气就是天气。", "feedback": "等于没说,对方仍然不了解你的家乡。", "next": "fail1" },
+        { "text": "I never think about weather.", "textCn": "我从不考虑天气。", "feedback": "回避话题,无法描述家乡天气。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同学 Tom",
+      "line": "That sounds different from my city! What about autumn and winter?",
+      "lineCn": "听起来和我的城市不一样!那秋天和冬天呢?",
+      "grammar": [
+        { "name": "副词修饰动词", "note": "副词修饰动词时放在动词之后,如 It snows heavily,heavily 说明雪下得很大。" }
+      ],
+      "options": [
+        { "text": "Autumn is cool and dry. In winter it snows heavily, and the city becomes white and beautiful. I love my hometown!", "textCn": "秋天凉爽干燥。冬天雪下得很大,城市变得又白又美。我爱我的家乡!", "feedback": "完整描述了四季天气特点,形容词副词运用正确,目标达成!", "next": "success" },
+        { "text": "Winter has snow. Autumn has leaves.", "textCn": "冬天有雪。秋天有叶子。", "feedback": "信息太少,没有说出天气的特点。", "next": "fail2" },
+        { "text": "I do not know about autumn.", "textCn": "我不了解秋天。", "feedback": "描述不完整,对方还是不了解你的家乡。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同学 Tom",
+      "line": "Harbin sounds amazing! I want to visit it in winter.",
+      "lineCn": "哈尔滨听起来太棒了!我想冬天去那里玩。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同学 Tom",
+      "line": "Hmm, maybe you can tell me more next time.",
+      "lineCn": "嗯,也许你下次再给我多讲讲。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同学 Tom",
+      "line": "Okay... I still do not know much about your city.",
+      "lineCn": "好吧……我还是不太了解你的城市。",
+      "end": true,
+      "success": false
+    }
+  }
+}

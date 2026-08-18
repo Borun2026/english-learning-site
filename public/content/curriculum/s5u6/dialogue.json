@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u6",
+  "stage": 5,
+  "unitId": "s5u6",
+  "scene": "与海外合作方的商务谈判",
+  "goal": "在合作谈判中灵活周旋,争取到更优的分成比例与付款周期",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Let me put our offer on the table: a fifty-fifty split on all revenues, with payment made upon delivery of each order. What is your initial reaction?",
+      "lineCn": "我把方案摆到桌面上:全部收入五五分成,每笔订单交付后付款。你的初步反应如何?",
+      "grammar": [
+        { "name": "Put... on the table", "note": "商务口语地道表达:put an offer on the table 意为“正式提出方案”,比 make an offer 更有画面感。" }
+      ],
+      "options": [
+        { "text": "Thank you for laying that out. I would say the fifty-fifty split is a reasonable starting point, but the payment terms are rather tight for us.", "textCn": "感谢您说明方案。我可以说,五五分成是个合理的起点,但付款条件对我们来说相当紧张。", "feedback": "用 I would say 软化表态,先肯定再提出异议,谈判的第一分拿得稳。", "next": "n2" },
+        { "text": "No way. We need at least seventy per cent and payment upfront, or there is no deal at all.", "textCn": "不可能。我们至少要七成,而且要预付,否则免谈。", "feedback": "开场就下最后通牒,不留协商余地,对方只能重新试探你的底牌。", "next": "n3" },
+        { "text": "Whatever you think is best, Mr. Adler, we trust your judgement completely.", "textCn": "您觉得怎么合适就怎么来,阿德勒先生,我们完全信任您的判断。", "feedback": "全盘让步等于把筹码全部交出去,谈判还没开始就已经输了。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "I appreciate your candour. Payment upon delivery is our standard practice; perhaps you could explain why the terms feel tight to your side?",
+      "lineCn": "欣赏你的坦率。货到付款是我们的惯例;或许你能说明为什么贵方觉得条件紧张?",
+      "grammar": [
+        { "name": "I appreciate your candour", "note": "谈判中化解对立的口语模板:I appreciate + 名词,先认可对方态度,再展开议题,让对话保持建设性。" }
+      ],
+      "options": [
+        { "text": "Our cash flow depends on receivables, so a sixty-day settlement would ease our working capital considerably, and I would be happy to accept the fifty-fifty split in return.", "textCn": "我们的现金流依赖应收账款,所以六十天账期能大幅缓解营运资金压力;作为交换,我们乐意接受五五分成。", "feedback": "把付款条件与分成挂钩 (in return),一揽子交换的典型打法,进退有度。", "next": "n4" },
+        { "text": "Because it is tight, that is why, everyone knows it is tight.", "textCn": "因为紧张呗,就这样,大家都知道紧张。", "feedback": "情绪化且没有给出任何理由,对方无从回应,谈判陷入僵局。", "next": "n5" },
+        { "text": "To be perfectly honest, our working capital is under pressure this season, and a longer settlement period would make a real difference to us.", "textCn": "说实话,我们本季度营运资金有压力,更长的账期对我们影响很大。", "feedback": "用 To be perfectly honest 真诚摊牌,既解释现状又不失姿态,对方容易接住。", "next": "n4" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "I see you have strong feelings about this. Let me think aloud for a moment: what would make this conversation productive for both of us?",
+      "lineCn": "看得出你对这件事态度强烈。让我边想边说:什么才能让这场谈话对双方都有产出?",
+      "grammar": [
+        { "name": "Think aloud", "note": "口语地道短语:think aloud 指“边想边说”,谈判中用于把内部权衡过程透明化,缓和气氛。" }
+      ],
+      "options": [
+        { "text": "What if we were to keep the split at fifty-fifty but move to a thirty-day payment window? That would strike a fair balance for both sides.", "textCn": "要不这样:分成保持五五,但账期改为三十天?这样对双方都算公平。", "feedback": "用 What if we were to 提出假设性方案,既留余地又给出前进路径,棋高一着。", "next": "n4" },
+        { "text": "Either you accept our terms right now, or I am leaving this room immediately.", "textCn": "要么你现在就接受我们的条件,要么我立刻离开这个房间。", "feedback": "把话说死,谈判空间被彻底堵死,对方只能以退场回应。", "next": "fail1" },
+        { "text": "Let me put it this way: we both want a deal, so let us not waste time on small details.", "textCn": "这么说吧:我们都想成交,就别在小细节上浪费时间了。", "feedback": "把分成与账期贬为“小细节”,让对方意识到你并未认真对待谈判。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "A thirty-day window is a considerable shift from our standard terms. If I concede on payment, could you sweeten the deal elsewhere?",
+      "lineCn": "三十天账期与我们标准条款差异很大。如果我在付款上让步,你们能否在其他方面让利?",
+      "grammar": [
+        { "name": "Sweeten the deal", "note": "谈判高频口语:the deal 加 sweeten 意为“让条件更诱人”,是互惠交换的常用说法。" }
+      ],
+      "options": [
+        { "text": "I could commit to a minimum annual volume in exchange, which guarantees you predictable revenue streams over the contract period.", "textCn": "作为交换,我们可以承诺最低年采购量,这能保证贵方在合同期内获得可预期的收入流。", "feedback": "用最低采购量换取账期,把让步变成双赢,谈判进入了良性互换阶段。", "next": "n6" },
+        { "text": "Fine, take the thirty days, but that is the only thing we can offer, take it or leave it.", "textCn": "行,账期给你三十天,但我们只能给这么多,要不要随你。", "feedback": "单方面让步后立刻封口,反而让对方怀疑你没有更多诚意,气氛僵住。", "next": "fail2" },
+        { "text": "How about this: we guarantee a minimum order volume every quarter, which gives you stable, predictable income in return for the extended payment terms?", "textCn": "这样如何:我们每季度保证最低订单量,以稳定的可预期收入换取延长账期?", "feedback": "以问句提出交换方案,姿态开放,方案本身也扎实,对方需要认真接招。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Let me try to understand your position better: is the concern about cash flow timing, or about the overall risk you carry?",
+      "lineCn": "让我更好地理解你的立场:顾虑在于现金流的时间问题,还是你们承担的整体风险?",
+      "grammar": [
+        { "name": "Let me try to understand", "note": "谈判中的澄清句式:先表明理解意图,再给出选项让对方确认,避免各说各话。" }
+      ],
+      "options": [
+        { "text": "Honestly, it is chiefly about timing: if invoices were settled within thirty days, our cash flow would stabilise and the risk would largely disappear.", "textCn": "说实话,主要在于时间:若发票能在三十天内结清,我们的现金流就会稳定,风险也基本消失。", "feedback": "锁定核心矛盾 (timing),再把解决方案与收益直接挂钩,目标明确。", "next": "n4" },
+        { "text": "It is about everything, the timing, the risk, the amounts, I cannot even explain it properly.", "textCn": "什么都有关,时间、风险、金额,我自己都讲不清楚。", "feedback": "连自己的核心诉求都说不清,谈判桌上的说服力荡然无存。", "next": "fail1" },
+        { "text": "To put it simply, the timing matters most to us; once that is settled, the other concerns fade into the background.", "textCn": "简单说,时间对我们最重要;这一点解决后,其他顾虑就退居其次了。", "feedback": "To put it simply 先定调,再用 fade into the background 缩小分歧面,谈话直奔靶心。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "I am afraid that may still be insufficient, as our board insists on protecting our margins. To be honest with you, we have another partner waiting.",
+      "lineCn": "恐怕这仍不够,董事会坚持要保护利润空间。坦白说,还有其他合作方在等着我们。",
+      "grammar": [
+        { "name": "To be honest with you", "note": "口语流利表达:to be honest with you 在谈判中用来预告关键信息,是施压前的常见铺垫。" }
+      ],
+      "options": [
+        { "text": "I hear you, and I would not want you to take a risk on our behalf. Let me think it over and come back with a proposal that works for both of us.", "textCn": "我明白,也不希望您为我们冒险。让我考虑一下,回来再给一个双方都能接受的方案。", "feedback": "I hear you 先接住情绪,再争取缓冲时间,既没失守底线也没断掉对话。", "next": "n7" },
+        { "text": "Fine, take your other partner, we will find someone else too. Goodbye.", "textCn": "行,你去找那个合作方吧,我们也会找别人。再见。", "feedback": "被一句话激怒而掀桌,多年的谈判积累毁于情绪失控,合作彻底终结。", "next": "fail1" },
+        { "text": "I appreciate that you are weighing options, but let me remind you of our track record: three consecutive years of on-time delivery, which no newcomer can match.", "textCn": "理解您在权衡,但请允许我提醒您我们的履约记录:连续三年准时交付,这是任何新来者都无法匹敌的。", "feedback": "不慌不忙,用 track record 把谈判拉回自己优势,反将一军。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Your track record does speak well of you. Suppose we agree on forty-five per cent for your side with thirty-day settlement; could we finalise it today?",
+      "lineCn": "你们的履约记录确实很出色。假如我们同意贵方分成百分之四十五、三十天结账,今天能定下来吗?",
+      "grammar": [
+        { "name": "Suppose we agree on...", "note": "口语假设句式:suppose + 从句用来试探对方接受度,是谈判接近成交时的标准探路话术。" }
+      ],
+      "options": [
+        { "text": "I would suggest we meet at forty-eight per cent with the thirty-day window, and we would sign today if you can agree to that.", "textCn": "我提议双方各退一步:四十八个百分点加三十天账期,若您同意,我们今天就能签约。", "feedback": "在对方让步的基础上微调并给出成交时限 (sign today),谈判收官的教科书操作。", "next": "n8" },
+        { "text": "I guess forty-five is fine, whatever, let us just sign.", "textCn": "四十五就四十五吧,随便,签吧。", "feedback": "看似成交,实则放弃了已到手的所有筹码,事后必然追悔莫及。", "next": "fail2" },
+        { "text": "Forty-five works for me, and I appreciate the thirty-day settlement. I believe we have ourselves a deal.", "textCn": "四十五可以接受,也感谢三十天账期。我相信,我们成交了。", "feedback": "果断接受合理条件并确认成交,谈判双方都感到舒服,这是健康的双赢。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Before we shake on it, one last confirmation: you will deliver the first batch within six weeks, correct?",
+      "lineCn": "在握手成交前,最后确认一点:首批货六周内交付,对吗?",
+      "grammar": [
+        { "name": "Shake on it", "note": "口语固定表达:shake on it 表示“握手成交、一言为定”,是口头协议达成的标志动作。" }
+      ],
+      "options": [
+        { "text": "Correct, within six weeks, and I can confirm that in writing before we sign. I am glad we reached terms that work for both sides.", "textCn": "对,六周内,签约前我可以书面确认。很高兴我们达成了双方都满意的条件。", "feedback": "确认承诺加书面化提议,收尾严谨友好,合同稳稳落地。", "next": "success" },
+        { "text": "Six weeks? That is impossible, we never promised any such thing.", "textCn": "六周?不可能,我们从没答应过这种条件。", "feedback": "在最接近成交的瞬间矢口否认已谈妥的条款,信任瞬间崩塌。", "next": "fail1" },
+        { "text": "Six weeks is tight but doable; I will arrange the logistics today and send you the delivery schedule tomorrow.", "textCn": "六周很紧但可行;我今天就安排物流,明天把交付计划表发您。", "feedback": "接受挑战并立即给出行动方案,专业度让对方完全放心。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Then we have a deal: forty-eight per cent, thirty-day settlement, first delivery in six weeks. It has been a pleasure negotiating with you.",
+      "lineCn": "那么成交:四十八个百分点、三十天结账、首批六周交付。与您谈判非常愉快。",
+      "grammar": [
+        { "name": "We have a deal", "note": "成交确认句:we have a deal 是最干脆的收尾表达,常配合复述关键条款以确保无歧义。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "I am sorry to hear that. Given the direction of this conversation, I think we shall conclude our discussions here today.",
+      "lineCn": "很遗憾听到这些。鉴于谈话的走向,我想我们今天的讨论就到此为止吧。",
+      "grammar": [
+        { "name": "I am sorry to hear that", "note": "表达遗憾的口语套话,在谈判破裂时用于体面收场,后面常接对现状的总结。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "对方代表 Mr. Adler (海外公司)",
+      "line": "Pleasure doing business with you. I must say, your concessions were generous, and I do look forward to the next negotiation.",
+      "lineCn": "与您合作愉快。我必须说,你们的让步相当大方,期待下一次谈判。",
+      "grammar": [
+        { "name": "Pleasure doing business", "note": "交易达成后的客套语:(It is a) pleasure doing business with you,用于礼貌收场,但若对方强调让步大方,则未必是夸你。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

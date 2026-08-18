@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u5",
+  "stage": 2,
+  "title": "动名词 doing",
+  "explanation": "## 动名词的构成与作用\n\n**动词 + -ing**(如 reading),兼具动词和名词的性质。动名词可以作**主语**和**宾语**。\n\n- 作主语:Swimming is good for health.(谓语用单数)\n- 作宾语:I enjoy reading.\n\n## 只接动名词的常见动词\n\nenjoy、finish、practice、keep、mind、suggest、avoid 等动词后**只能**接动名词,不能接不定式。\n\n- I finished doing my homework.\n\n## 介词后的动名词\n\n介词(at、in、for、of 等)后面要接名词或动名词:\n\n- be good at playing basketball\n- be interested in dancing\n- thanks for helping me\n\n## 易混点:stop 的两种搭配\n\n- **stop to do** 停下来去做另一件事(目的)\n- **stop doing** 停止正在做的事\n\n另外还有 go + doing 的固定搭配:go shopping、go swimming。",
+  "examples": [
+    { "en": "I enjoy reading books.", "cn": "我喜欢读书。", "note": "enjoy 后接动名词 reading。" },
+    { "en": "He is good at playing basketball.", "cn": "他擅长打篮球。", "note": "介词 at 后接动名词 playing。" },
+    { "en": "Swimming is good for health.", "cn": "游泳对健康有好处。", "note": "动名词作主语,谓语动词用单数 is。" },
+    { "en": "She went shopping with her mother.", "cn": "她和妈妈去购物了。", "note": "go + doing 是固定搭配。" }
+  ],
+  "errors": [
+    { "wrong": "I enjoy to read novels.", "right": "I enjoy reading novels.", "note": "enjoy 后接动名词,不接不定式。" },
+    { "wrong": "He finished to do his work.", "right": "He finished doing his work.", "note": "finish 后接动名词 doing。" },
+    { "wrong": "Thanks for help me.", "right": "Thanks for helping me.", "note": "介词 for 后接动名词 helping。" }
+  ],
+  "quiz": [
+    { "q": "I like ___ football very much.", "options": ["play", "to playing", "playing", "played"], "answer": 2, "note": "此处选动名词 playing,作 like 的宾语。" },
+    { "q": "She is interested in ___.", "options": ["dance", "dancing", "danced", "to dance"], "answer": 1, "note": "介词 in 后接动名词 dancing。" },
+    { "q": "Let's stop ___ and take a rest.", "options": ["work", "working", "to work", "worked"], "answer": 1, "note": "stop doing 表示停止正在做的事。" },
+    { "q": "___ English every day is a good habit.", "options": ["Read", "Reading", "To reading", "Reads"], "answer": 1, "note": "动名词 Reading 作主语。" },
+    { "q": "My father finished ___ the car at noon.", "options": ["wash", "washing", "to wash", "washed"], "answer": 1, "note": "finish 后接动名词 washing。" }
+  ]
+}

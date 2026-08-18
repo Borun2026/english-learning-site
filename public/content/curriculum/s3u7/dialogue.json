@@ -1,0 +1,202 @@
+{
+  "id": "d-s3u7",
+  "stage": 3,
+  "unitId": "s3u7",
+  "scene": "澄清误解",
+  "goal": "澄清误会并修复与室友的关系",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "室友 Emily",
+      "line": "It was you who borrowed my laptop last night, and now my files are gone. I demand an explanation.",
+      "lineCn": "昨晚是你借走了我的笔记本电脑,现在我的文件不见了。我需要一个解释。",
+      "grammar": [
+        { "name": "It was...who 强调句", "note": "It was you who... 用 it is/was+被强调部分+who/that 强调主语 you,语气强烈。" }
+      ],
+      "options": [
+        { "text": "It was not me who touched your laptop. I was in the library until eleven.", "textCn": "碰你电脑的人不是我。我在图书馆待到十一点。", "feedback": "冷静否认并提供不在场证明。", "next": "n2" },
+        { "text": "I did borrow it, but it was only to check my email for five minutes.", "textCn": "我确实借了,但只是查了五分钟邮件。", "feedback": "承认借过,事情有转机。", "next": "n3" },
+        { "text": "I did not touch your laptop, and I am offended that you accuse me without proof.", "textCn": "我没碰你的电脑,你无凭无据指责我,我很生气。", "feedback": "针锋相对,气氛紧张。", "next": "n4" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "室友 Emily",
+      "line": "Then who was it? It was only after I checked the usage history that I found someone logged in at nine.",
+      "lineCn": "那是谁?我查了使用记录才发现,九点有人登录。",
+      "grammar": [
+        { "name": "It was only after...that 强调句", "note": "强调时间状语 only after I checked the usage history,突出\"直到检查记录才…\"。" }
+      ],
+      "options": [
+        { "text": "It was our roommate Tom who needed your laptop for his presentation, and he asked me to tell you.", "textCn": "是室友 Tom 需要你的电脑做展示,他让我转告你。", "feedback": "说出真相,嫌疑开始澄清。", "next": "n5" },
+        { "text": "It was not until you just said that that I realised someone else has your password.", "textCn": "直到你刚才说,我才意识到有人知道你的密码。", "feedback": "提供新线索,调查推进。", "next": "n5" },
+        { "text": "I do not know, and it is not my business to find out.", "textCn": "我不知道,查明真相也不是我的事。", "feedback": "拒绝配合,Emily 更怀疑。", "next": "n6" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "室友 Emily",
+      "line": "You admit it! What I care about is not the time you used it but the missing files.",
+      "lineCn": "你承认了!我在意的不是你用了多久,而是丢失的文件。",
+      "grammar": [
+        { "name": "What 引导主语从句的强调", "note": "What I care about is... 用 what 从句作主语,起到类似强调句的突出作用。" }
+      ],
+      "options": [
+        { "text": "You are right to be upset, but it was Tom who deleted the files, not me.", "textCn": "你生气是对的,但删文件的是 Tom,不是我。", "feedback": "澄清责任,对话有转机。", "next": "n5" },
+        { "text": "It was not I who caused the problem. Your antivirus software is outdated.", "textCn": "造成问题的人不是我。你的杀毒软件过时了。", "feedback": "推卸责任还怪软件,Emily 反感。", "next": "n7" },
+        { "text": "I will not argue with you. Whatever happened, I apologise for my part.", "textCn": "我不和你争。无论发生了什么,我为我的部分道歉。", "feedback": "先道歉,为和解铺路。", "next": "n8" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "室友 Emily",
+      "line": "Anger will not solve anything. It is the truth that I want, not excuses.",
+      "lineCn": "生气解决不了问题。我要的是真相,不是借口。",
+      "grammar": [
+        { "name": "It is...that 强调句", "note": "It is the truth that I want 强调宾语 the truth,与 not excuses 对比,语气明确。" }
+      ],
+      "options": [
+        { "text": "Then let me tell you the truth calmly: I saw Tom using your laptop at nine o'clock.", "textCn": "那我平静地告诉你真相:九点我看见 Tom 在用你的电脑。", "feedback": "提供目击信息,嫌疑转移。", "next": "n5" },
+        { "text": "The truth is that I was in the library, and several classmates can confirm it.", "textCn": "真相是我在图书馆,好几个同学可以作证。", "feedback": "证据有力,回到调查。", "next": "n2" },
+        { "text": "I have already said what I know. It is you who refuses to listen.", "textCn": "我已经说了我知道的。不肯听的人是你。", "feedback": "互相指责,关系恶化。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "室友 Emily",
+      "line": "Oh, Tom? It was Tom who had my account? I wish you had told me earlier.",
+      "lineCn": "哦,是 Tom?用我账号的是 Tom?真希望你早告诉我。",
+      "grammar": [
+        { "name": "It was...who+虚拟语气", "note": "It was Tom who had my account 强调施动者,后接 wish 从句表遗憾,语义层层递进。" }
+      ],
+      "options": [
+        { "text": "I did plan to tell you, but it was only after you accused me that I found the chance.", "textCn": "我本想告诉你,但你指责我之后我才找到机会。", "feedback": "解释合情合理,误会消解。", "next": "n5b" },
+        { "text": "Now you see it was never my fault. What I want is a proper apology from you.", "textCn": "现在你看到了吧,根本不是我的错。我要的是你正式道歉。", "feedback": "得理不饶人,Emily 不悦。", "next": "n7" },
+        { "text": "Yes, and he said he would explain everything to you himself.", "textCn": "是的,他说他会亲自向你解释一切。", "feedback": "给出后续安排,信任恢复。", "next": "n5b" }
+      ]
+    },
+    "n5b": {
+      "id": "n5b",
+      "speaker": "室友 Emily",
+      "line": "Tom just confessed that it was he who used my account. I owe you a sincere apology.",
+      "lineCn": "Tom 刚才承认用我账号的是他。我该向你真诚道歉。",
+      "grammar": [
+        { "name": "It was he who 强调句(道歉)", "note": "that it was he who used my account 中强调 he,以澄清责任归属,用于正式道歉。" }
+      ],
+      "options": [
+        { "text": "It is I who should apologise too, for not telling you earlier.", "textCn": "我也该道歉,没早点告诉你。", "feedback": "互相理解,关系回暖。", "next": "n8" },
+        { "text": "I told you so. What I want now is for everyone to admit they were wrong.", "textCn": "我早说了吧。我现在要的是每个人都承认错误。", "feedback": "揪住不放,气氛又僵。", "next": "n7" },
+        { "text": "Apology accepted. It was a misunderstanding from the very beginning.", "textCn": "接受道歉。这从一开始就是一场误会。", "feedback": "大度释怀,误会基本消除。", "next": "n8" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "室友 Emily",
+      "line": "Refusing to cooperate only deepens my suspicion. It is precisely this attitude that makes me doubt you.",
+      "lineCn": "拒绝配合只会加深我的怀疑。正是这种态度让我怀疑你。",
+      "grammar": [
+        { "name": "It is...that 强调句(态度)", "note": "It is precisely this attitude that... 用 precisely 加强语气,强调是态度而非其他。" }
+      ],
+      "options": [
+        { "text": "I am sorry. It was wrong of me to remain silent. Let me help you investigate.", "textCn": "对不起。保持沉默是我的错。让我帮你查清楚。", "feedback": "主动和解,调查重启。", "next": "n5" },
+        { "text": "I do not care what you think. It was your carelessness that left the laptop unlocked.", "textCn": "我不在乎你怎么想。是你不锁电脑的粗心害的。", "feedback": "恶语相向,关系破裂。", "next": "fail1" },
+        { "text": "Fine, I will cooperate. It is the least I can do to clear my name.", "textCn": "行,我配合。这是洗清我名声最起码能做的。", "feedback": "勉强配合,仍有转机。", "next": "n8" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "室友 Emily",
+      "line": "Blaming others is a poor excuse. It is responsibility that builds trust between friends.",
+      "lineCn": "指责别人是拙劣的借口。是责任感建立起朋友间的信任。",
+      "grammar": [
+        { "name": "It is...that 强调句(责任)", "note": "It is responsibility that builds trust 强调 responsibility,说明关键要素。" }
+      ],
+      "options": [
+        { "text": "You are right. It was I who should have reminded Tom to ask you first.", "textCn": "你说得对。我本该提醒 Tom 先征求你同意。", "feedback": "主动担责,信任回升。", "next": "n8" },
+        { "text": "I take no blame whatsoever. It is the thief who deserves your anger, not me.", "textCn": "我没有任何责任。该挨骂的是小偷,不是我。", "feedback": "拒绝负责,Emily 失望。", "next": "fail2" },
+        { "text": "I accept my share of responsibility, and I will tell Tom myself.", "textCn": "我接受我那份责任,而且我会亲自去告诉 Tom。", "feedback": "勇于担当,关系修复。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "室友 Emily",
+      "line": "Thank you for being honest. It is only after talking things through that I realise how quick I was to judge.",
+      "lineCn": "谢谢你的坦诚。直到把事情谈开,我才意识到自己多轻易就下了判断。",
+      "grammar": [
+        { "name": "It is only after...that 强调句", "note": "强调时间状语 only after talking things through,表达\"直到谈开才醒悟\"的转折。" }
+      ],
+      "options": [
+        { "text": "We both overreacted. It was the misunderstanding that caused the trouble, not us.", "textCn": "我们都反应过度了。造成麻烦的是误会,不是我们。", "feedback": "各让一步,共识达成。", "next": "n8b" },
+        { "text": "I am glad you see it now. What matters is that our friendship survives this.", "textCn": "很高兴你现在明白了。重要的是我们的友谊经得起这次波折。", "feedback": "着眼长远,关系回暖。", "next": "n8b" },
+        { "text": "I forgive you, but it was humiliating to be accused in front of the whole dorm.", "textCn": "我原谅你,但在全宿舍面前被指责很丢人。", "feedback": "余怒未消,继续疏导。", "next": "n9" }
+      ]
+    },
+    "n8b": {
+      "id": "n8b",
+      "speaker": "室友 Emily",
+      "line": "The files are still in the recycle bin. It was only a matter of minutes before they vanished for good.",
+      "lineCn": "文件还在回收站里。再差几分钟,它们就永远消失了。",
+      "grammar": [
+        { "name": "It was only... 强调", "note": "It was only a matter of minutes 用 only 限定,强调时间的紧迫与侥幸。" }
+      ],
+      "options": [
+        { "text": "Then let us restore them immediately. It is speed that matters now.", "textCn": "那我们立刻恢复。现在重要的是速度。", "feedback": "行动果断,抓紧时间。", "next": "n8c" },
+        { "text": "It is lucky that Tom is a careful user. Nothing is truly lost.", "textCn": "幸好 Tom 用电脑很小心,什么都没真正丢失。", "feedback": "心态乐观,继续处理。", "next": "n8c" },
+        { "text": "I will leave the restoring to you. It was your laptop, after all.", "textCn": "恢复文件的事就交给你吧。毕竟那是你的电脑。", "feedback": "袖手旁观,Emily 不满。", "next": "fail2" }
+      ]
+    },
+    "n8c": {
+      "id": "n8c",
+      "speaker": "室友 Emily",
+      "line": "Restored! See, it was not a disaster at all. It was our quick reaction that saved the day.",
+      "lineCn": "恢复好了!看吧,根本不是灾难。是我们的快速反应拯救了局面。",
+      "grammar": [
+        { "name": "It was...that 强调句(反应)", "note": "It was our quick reaction that saved the day 强调 our quick reaction,肯定双方努力。" }
+      ],
+      "options": [
+        { "text": "True. It was our teamwork that solved this in an hour.", "textCn": "没错。是我们的团队合作在一小时内解决了问题。", "feedback": "肯定彼此,气氛融洽。", "next": "n9" },
+        { "text": "I wish we had reacted this quickly at the very beginning.", "textCn": "真希望一开始我们就能反应这么快。", "feedback": "反思过去,面向未来。", "next": "n9" },
+        { "text": "The day is saved, but it was my reputation that was nearly ruined.", "textCn": "今天得救了,但差点被毁的是我的名声。", "feedback": "仍有余怨,Emily 会安慰。", "next": "n7" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "室友 Emily",
+      "line": "Let us recover the rest together. It is together that we can solve this fastest.",
+      "lineCn": "剩下的我们一起解决。正是合作,我们才能最快解决。",
+      "grammar": [
+        { "name": "It is together that 强调句", "note": "It is together that... 强调方式状语 together,突出合作的重要性。" }
+      ],
+      "options": [
+        { "text": "Yes, let us start tonight. It was never about the laptop but about trust.", "textCn": "好,今晚就开始。这从来不是电脑的问题,而是信任的问题。", "feedback": "点明本质,关系彻底修复。", "next": "success" },
+        { "text": "I will help, but it is Tom who should do the heavy lifting.", "textCn": "我会帮忙,但出大力的应该是 Tom。", "feedback": "略有计较,需要再协调。", "next": "n8" },
+        { "text": "Agreed. It is a relief that the misunderstanding is finally cleared.", "textCn": "同意。误会终于澄清,真是松了一口气。", "feedback": "释然收尾,友情修复。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "室友 Emily",
+      "line": "You are a true friend. It is moments like this that strengthen a bond.",
+      "lineCn": "你是个真正的朋友。正是这样的时刻让情谊更加牢固。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "室友 Emily",
+      "line": "I see your true attitude now. It is hard to trust someone who shifts all the blame.",
+      "lineCn": "我现在看清你的态度了。很难信任一个把责任全推掉的人。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "室友 Emily",
+      "line": "Our friendship will recover only when you learn to own your share. It is sincerity that heals.",
+      "lineCn": "只有当你学会承担自己那份责任,我们的友谊才能修复。是真诚治愈一切。",
+      "end": true,
+      "success": false
+    }
+  }
+}

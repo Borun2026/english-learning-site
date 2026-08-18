@@ -1,0 +1,64 @@
+{
+ "id": "cet6-061",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第2套) Passage 1",
+ "title": "The trend toward rationality and enlightenment was endangered long before the...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 466,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web. As Neil Postman noted in his 1985 book Amusing Ourselves to Death, the rise of television introduced not just a new medium but a new discourse:",
+  "a gradual shift from a typographic ( Gp ,,/jl1J a1; ) culture to a photographic one, which in",
+  "tum meant a shift from rationality to emotions, exposition to entertainment. In an image-centered and pleasure-driven world, Postman noted, there is no place for rational thinking, because you simply cannot think with images. It is text that enables us to \"uncover lies, confusions and overgeneralizations, and to detect abuses of logic and common sense. It also means to weigh ideas, to compare and contrast assertions, to connect one generalization to another.\"",
+  "The dominance of television was not confined to our living rooms. It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the conduct of politics, religion, business, and culture. It reduced many aspects of modem life to entertainment, sensationalism, and commerce. \"Americans don't talk to each other, we entertain each other,\" Postman wrote. \"They don 't exchange ideas, they exchange images. They do not argue with propositions, they argue with good looks, celebrities and commercials.\"",
+  "At first, the web seemed to push against this trend. When it emerged towards the end of the 1980s as a purely text-based medium, it was seen as a tool to pursue knowledge, not pleasure. Reason and thought were most valued in this garden - all derived from the project of the Enlightenment. Universities around the world were among the first to connect to this new medium, which hosted discussion groups, informative personal or group blogs, electronic magazines, and academic mailing lists and forums. It was an intellectual project, not about commerce or control, created in a scientific research center in Switzerland. And for more than a decade, the web created an alternative space that threatened television 's grip on society.",
+  "Social networks, though, have smce colonized the web for television 's values. From Facebook to Instagram, the medium refocuses our attention on videos and images, rewarding emotional appeals - ' like' buttons - over rational ones. Instead of a quest",
+  "for knowledge, it engages us in an endless zest U~ 'ff ) for instant approval from an audience,",
+  "for which we are constantly but unconsciously performing. ( It's telling that, while Google began life as a PhD thesis, Facebook started as a tool to judge classmates, appearances.) It reduces our curiosity by showing us exactly what we already want and think, based on",
+  "our profiles and preferences. The Enlightenment's motto ( J1l. -t; 4-t ) of ' Dare to know ' has",
+  "become ' Dare not to care to know. '"
+ ],
+ "questions": [
+  {
+   "q": "文中 “sense” 最接近的意思是?",
+   "options": [
+    "感官",
+    "发现，发觉",
+    "继续",
+    "一般化"
+   ],
+   "answer": 0,
+   "analysis": "“sense” 意为「感官」。原文语境:It is text that enables us to \"uncover lies, confusions and overgeneralizations, and to detect abuses of logic and common sense.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the ___ of politics, religion, business, and culture.",
+   "options": [
+    "conduct",
+    "argue",
+    "Reason",
+    "detect"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“It overturned all of those habits of mind, fundamentally changing our experience of the world, affecting the conduct of politics, religion, business, and culture.”。空格处应填入 “conduct”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Many people associate their self-worth with their work",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is",
+    "There're currently 21",
+    "The trend toward rationality and enlightenment was endangered long before the"
+   ],
+   "answer": 3,
+   "analysis": "本文以“The trend toward rationality and enlightenment was endangered long before the advent of the World Wide Web.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

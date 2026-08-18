@@ -1,0 +1,60 @@
+{
+ "id": "cet6-062",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第2套) Passage 2",
+ "title": "According to a recent study, a small but growing proportion of the workforce ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 454,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement. Work is less about what they can contribute but more about what they can take. It can lead to workplace dysfunction and diminish their own job satisfaction. Fm not referring to employees who are legitimately dissatisfied with their employment conditions due to, say, being denied fair pay or flexible work practices. I'm talking about those who consistently believe they deserve special treatment and generous rewards. It's an expectation that exists irrespective of their abilities or levels of performance.",
+  "As a result of that discrepancy between the privileges they feel they're owed and their inflated sense of self-worth, they don't work as hard for their employer. They prefer instead to slack off. It's a tendency which many scholars believe begins in childhood due to parents who overindulge their kids. This thereby leads them to expect the same kind of spoilt treatment throughout their adult lives. And yet despite how these employees feel, it's obviously important for their manager to nonetheless find out how to keep them",
+  "motivated. And, by virtue of that heightened motivation, to perform well.",
+  "The research team from several American universities surveyed more than 240 individuals. They sampled managers as well as team members. Employee entitlement was measured by statements such as \"I honestly feel I'm just more deserving than others.\" The respondents had to rate the extent of their agreement. Employee engagement, meanwhile, was assessed with statements like \"I really throw myself into my work.\" The findings revealed ethical leadership is precisely what alleviates the negative effects of employee entitlement. That's because rather than indulging employees or neglecting them, ethical leaders communicate very direct and clear expectations. They also hold employees accountable for their behaviors and are genuinely committed to doing the right thing. Additionally, these leaders are consistent in their standards. They 're also less likely to deviate in how they treat employees.",
+  "This means, when confronted by an entitled team member, an ethical leader is significantly disinclined to accommodate their demands. He or she will instead point out, constructively and tactfully, exactly how their inflated sense of deservingness is somewhat distorted. They'd then go further to explain the specific, and objective, criteria the employee must meet to receive their desired rewards. This shift away from unrealistic expectations is successful because entitled employees feel more confident that ethical leaders will deliver on their promises. This occurs because they 're perceived to be fair and trustworthy.",
+  "The researchers, however, exercise caution by warning no one single response is the perfect remedy. But there's no denying ethical leadership is at least a critical step in the right direction."
+ ],
+ "questions": [
+  {
+   "q": "文中 “clear” 最接近的意思是?",
+   "options": [
+    "清楚的(地)，清白的(地",
+    "履行， 执行， 完成",
+    "宁可，宁愿",
+    "值…的"
+   ],
+   "answer": 0,
+   "analysis": "“clear” 意为「清楚的(地)，清白的(地」。原文语境:That's because rather than indulging employees or neglecting them, ethical leaders communicate very direct and clear expectations.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:They'd then go further to explain the ___, and objective, criteria the employee must meet to receive their desired rewards.",
+   "options": [
+    "specific",
+    "instead",
+    "worth",
+    "nonetheless"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“They'd then go further to explain the specific, and objective, criteria the employee must meet to receive their desired rewards.”。空格处应填入 “specific”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Nationally, one in six children miss 15 or more days of school in a year",
+    "The trend toward rationality and enlightenment was endangered long before the",
+    "You may have heard that Coca-Cola once contained an ingredient capable of spa",
+    "According to a recent study, a small but growing proportion of the workforce"
+   ],
+   "answer": 3,
+   "analysis": "本文以“According to a recent study, a small but growing proportion of the workforce is affected to some degree by a sense of entitlement.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

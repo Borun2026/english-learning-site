@@ -1,0 +1,1294 @@
+{
+  "id": "a-s4u8",
+  "stage": 4,
+  "unitId": "s4u8",
+  "title": "Essay Patterns under Discussion",
+  "newWords": [
+    "repeated",
+    "analytic",
+    "organisation",
+    "outskirts",
+    "erase",
+    "taboo",
+    "mobilise",
+    "glamour",
+    "sarcastic",
+    "gut",
+    "grown-up",
+    "statute",
+    "fabulous",
+    "anguish",
+    "obsession"
+  ],
+  "sentences": [
+    {
+      "text": "In our writing class, we may hand in one essay each week, and the teacher may mark every draft with a careful note.",
+      "translation": "在我们的写作课上,我们可能每周交一篇作文,而老师可能给每份草稿留下细致的批注。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In our writing class"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may hand in one essay each week",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may hand in"
+            },
+            {
+              "role": "宾语",
+              "text": "one essay"
+            },
+            {
+              "role": "时间状语",
+              "text": "each week"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the teacher may mark every draft with a careful note",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the teacher"
+            },
+            {
+              "role": "谓语",
+              "text": "may mark"
+            },
+            {
+              "role": "宾语",
+              "text": "every draft"
+            },
+            {
+              "role": "状语",
+              "text": "with a careful note"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hand in",
+          "note": "hand in 表示「上交(作业)」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "the teacher may mark every draft with a careful note",
+          "name": "hand in"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our writing class, we may hand in one essay each week, and the teacher may mark every draft with a careful note.",
+          "answer": "In our writing class, we may hand in one essay each week, and the teacher may mark every draft with a careful note.",
+          "note": "hand in 表示「上交(作业)」。",
+          "point": "hand in"
+        }
+      ]
+    },
+    {
+      "text": "The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+      "translation": "一篇好作文的标志不是生僻的词或花哨的短语,而是清晰的结构和稳健的论证。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The mark of a good essay",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The mark of a good essay"
+            }
+          ]
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is not a long word or a fancy phrase",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a long word or a fancy phrase"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(表语二)",
+          "color": "#a8dab5",
+          "text": "a clear structure and a steady argument",
+          "parts": [
+            {
+              "role": "表语",
+              "text": "a clear structure and a steady argument"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not...but... 结构",
+          "note": "not A but B 表示「不是 A,而是 B」,是考研作文表达观点的经典句式。"
+        },
+        {
+          "name": "作文句式",
+          "note": "先否定再肯定的句式(A is not X but Y)是议论文立论的常用开头。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a clear structure and a steady argument",
+          "name": "not...but... 结构"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a clear structure and a steady argument",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+          "answer": "The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+          "note": "not A but B 表示「不是 A,而是 B」,是考研作文表达观点的经典句式。",
+          "point": "not...but... 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+          "answer": "The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+          "note": "先否定再肯定的句式(A is not X but Y)是议论文立论的常用开头。",
+          "point": "作文句式"
+        }
+      ]
+    },
+    {
+      "text": "We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+      "translation": "我们可以为作文的每个部分学习一个有用的句式:开头一个,主体一个,结尾一个。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may learn a useful pattern for each part of the essay",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may learn"
+            },
+            {
+              "role": "宾语",
+              "text": "a useful pattern for each part of the essay"
+            }
+          ]
+        },
+        {
+          "label": "解释说明",
+          "color": "#9fd8e8",
+          "text": "one for the opening, one for the body, and one for the conclusion"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后具体列出三个部分的句式,one 指代 one pattern。"
+        },
+        {
+          "name": "省略结构",
+          "note": "one for the opening 是 one pattern for the opening 的省略。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "one for the opening, one for the body, and one for the conclusion",
+          "name": "冒号解释说明"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "one for the opening, one for the body, and one for the conclusion",
+          "name": "省略结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+          "answer": "We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+          "note": "冒号后具体列出三个部分的句式,one 指代 one pattern。",
+          "point": "冒号解释说明"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+          "answer": "We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+          "note": "one for the opening 是 one pattern for the opening 的省略。",
+          "point": "省略结构"
+        }
+      ]
+    },
+    {
+      "text": "A repeated pattern may make the essay easy to read, yet a too rigid frame may make it sound like a machine.",
+      "translation": "重复出现的句式能让作文易于阅读,然而过于僵硬的框架会让它听起来像机器。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "A repeated pattern may make the essay easy to read",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A repeated pattern"
+            },
+            {
+              "role": "谓语",
+              "text": "may make"
+            },
+            {
+              "role": "宾语",
+              "text": "the essay"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "easy to read"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "a too rigid frame may make it sound like a machine",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a too rigid frame"
+            },
+            {
+              "role": "谓语",
+              "text": "may make"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "sound like a machine"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "make + 宾语 + 宾补",
+          "note": "make the essay easy to read 与 make it sound like a machine:形容词与省略 to 的不定式分别作宾补。"
+        },
+        {
+          "name": "作文句式",
+          "note": "句式模板要灵活运用,过度固定会使文章呆板。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "A repeated pattern may make the essay easy to read",
+          "name": "make + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "A repeated pattern may make the essay easy to read",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A repeated pattern may make the essay easy to read, yet a too rigid frame may make it sound like a machine.",
+          "answer": "A repeated pattern may make the essay easy to read, yet a too rigid frame may make it sound like a machine.",
+          "note": "make the essay easy to read 与 make it sound like a machine:形容词与省略 to 的不定式分别作宾补。",
+          "point": "make + 宾语 + 宾补"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A repeated pattern may make the essay easy to read, yet a too rigid frame may make it sound like a machine.",
+          "answer": "A repeated pattern may make the essay easy to read, yet a too rigid frame may make it sound like a machine.",
+          "note": "句式模板要灵活运用,过度固定会使文章呆板。",
+          "point": "作文句式"
+        }
+      ]
+    },
+    {
+      "text": "We may use an analytic sentence to state the reason and a contrast to show the other side of the issue.",
+      "translation": "我们可以用分析句陈述理由,用对比句展示问题的另一面。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may use an analytic sentence to state the reason",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may use"
+            },
+            {
+              "role": "宾语",
+              "text": "an analytic sentence"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to state the reason"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列宾语)",
+          "color": "#a8dab5",
+          "text": "a contrast to show the other side of the issue",
+          "parts": [
+            {
+              "role": "宾语",
+              "text": "a contrast"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to show the other side of the issue"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to state the reason 与 to show the other side 分别说明使用两种句式的目的。"
+        },
+        {
+          "name": "作文句式",
+          "note": "议论文主体常由「分析句+对比句」组合而成。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "We may use an analytic sentence to state the reason",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "We may use an analytic sentence to state the reason",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may use an analytic sentence to state the reason and a contrast to show the other side of the issue.",
+          "answer": "We may use an analytic sentence to state the reason and a contrast to show the other side of the issue.",
+          "note": "to state the reason 与 to show the other side 分别说明使用两种句式的目的。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may use an analytic sentence to state the reason and a contrast to show the other side of the issue.",
+          "answer": "We may use an analytic sentence to state the reason and a contrast to show the other side of the issue.",
+          "note": "议论文主体常由「分析句+对比句」组合而成。",
+          "point": "作文句式"
+        }
+      ]
+    },
+    {
+      "text": "My teacher may say that a strong essay is like a building, and its strength may lie in the framework of the argument.",
+      "translation": "我的老师可能会说,一篇有力的作文就像一座建筑,而它的力量在于论证的框架。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "My teacher may say",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My teacher"
+            },
+            {
+              "role": "谓语",
+              "text": "may say"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句一",
+          "color": "#c8a5e0",
+          "text": "that a strong essay is like a building"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "宾语从句二",
+          "color": "#c8a5e0",
+          "text": "its strength may lie in the framework of the argument"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句(并列)",
+          "note": "两个 that 宾语从句由 and 连接,共同作 say 的宾语。"
+        },
+        {
+          "name": "lie in",
+          "note": "lie in 表示「在于」。"
+        },
+        {
+          "name": "作文句式",
+          "note": "比喻(如 building 喻结构)是论证中常用的形象化手法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "its strength may lie in the framework of the argument",
+          "name": "that 宾语从句(并列)"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "its strength may lie in the framework of the argument",
+          "name": "lie in"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "its strength may lie in the framework of the argument",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My teacher may say that a strong essay is like a building, and its strength may lie in the framework of the argument.",
+          "answer": "My teacher may say that a strong essay is like a building, and its strength may lie in the framework of the argument.",
+          "note": "两个 that 宾语从句由 and 连接,共同作 say 的宾语。",
+          "point": "that 宾语从句(并列)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My teacher may say that a strong essay is like a building, and its strength may lie in the framework of the argument.",
+          "answer": "My teacher may say that a strong essay is like a building, and its strength may lie in the framework of the argument.",
+          "note": "lie in 表示「在于」。",
+          "point": "lie in"
+        }
+      ]
+    },
+    {
+      "text": "The organisation of a paragraph is as important as the idea inside it, and a topic sentence may pull the essay back from the outskirts of the issue.",
+      "translation": "段落的结构与其中的观点同样重要,而主题句可以把作文从问题的边缘拉回正轨。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The organisation of a paragraph is as important as the idea inside it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The organisation of a paragraph"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "as important as the idea inside it"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a topic sentence may pull the essay back from the outskirts of the issue",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a topic sentence"
+            },
+            {
+              "role": "谓语",
+              "text": "may pull"
+            },
+            {
+              "role": "宾语",
+              "text": "the essay"
+            },
+            {
+              "role": "状语",
+              "text": "back from the outskirts of the issue"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "as...as 比较结构",
+          "note": "as important as 表示「与…一样重要」。"
+        },
+        {
+          "name": "作文句式",
+          "note": "主题句(topic sentence)统领段落,防止跑题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a topic sentence may pull the essay back from the outskirts of the issue",
+          "name": "as...as 比较结构"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a topic sentence may pull the essay back from the outskirts of the issue",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The organisation of a paragraph is as important as the idea inside it, and a topic sentence may pull the essay back from the outskirts of the issue.",
+          "answer": "The organisation of a paragraph is as important as the idea inside it, and a topic sentence may pull the essay back from the outskirts of the issue.",
+          "note": "as important as 表示「与…一样重要」。",
+          "point": "as...as 比较结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The organisation of a paragraph is as important as the idea inside it, and a topic sentence may pull the essay back from the outskirts of the issue.",
+          "answer": "The organisation of a paragraph is as important as the idea inside it, and a topic sentence may pull the essay back from the outskirts of the issue.",
+          "note": "主题句(topic sentence)统领段落,防止跑题。",
+          "point": "作文句式"
+        }
+      ]
+    },
+    {
+      "text": "We may erase every word with no clear function, and the essay may become clear and clean in the process; we may avoid a taboo topic in the essay, for a safe topic may leave more room for a careful argument.",
+      "translation": "我们可以删掉每一个没有明确功能的词,而作文在这个过程中会变得清晰而干净。; 我们应避免在作文中写禁忌话题,因为安全的话题能为严谨的论证留下更多空间。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may erase every word with no clear function",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may erase"
+            },
+            {
+              "role": "宾语",
+              "text": "every word"
+            },
+            {
+              "role": "定语(介词短语)",
+              "text": "with no clear function"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the essay may become clear and clean in the process",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the essay"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may become"
+            },
+            {
+              "role": "表语",
+              "text": "clear and clean"
+            },
+            {
+              "role": "状语",
+              "text": "in the process"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may avoid a taboo topic in the essay",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may avoid"
+            },
+            {
+              "role": "宾语",
+              "text": "a taboo topic"
+            },
+            {
+              "role": "状语",
+              "text": "in the essay"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a safe topic may leave more room for a careful argument",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a safe topic"
+            },
+            {
+              "role": "谓语",
+              "text": "may leave"
+            },
+            {
+              "role": "宾语",
+              "text": "more room"
+            },
+            {
+              "role": "状语",
+              "text": "for a careful argument"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作定语",
+          "note": "with no clear function 修饰 word。"
+        },
+        {
+          "name": "become 系动词",
+          "note": "become 后接形容词作表语。"
+        },
+        {
+          "name": "写作批改",
+          "note": "批改时应大胆删除无功能的词(erase),保持行文简洁。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a safe topic may leave more room for a careful argument",
+          "name": "介词短语作定语"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a safe topic may leave more room for a careful argument",
+          "name": "become 系动词"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a safe topic may leave more room for a careful argument",
+          "name": "写作批改"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may erase every word with no clear function, and the essay may become clear and clean in the process; we may avoid a taboo topic in the essay, for a safe topic may leave more room for a careful argument.",
+          "answer": "We may erase every word with no clear function, and the essay may become clear and clean in the process; we may avoid a taboo topic in the essay, for a safe topic may leave more room for a careful argument.",
+          "note": "with no clear function 修饰 word。",
+          "point": "介词短语作定语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may erase every word with no clear function, and the essay may become clear and clean in the process; we may avoid a taboo topic in the essay, for a safe topic may leave more room for a careful argument.",
+          "answer": "We may erase every word with no clear function, and the essay may become clear and clean in the process; we may avoid a taboo topic in the essay, for a safe topic may leave more room for a careful argument.",
+          "note": "become 后接形容词作表语。",
+          "point": "become 系动词"
+        }
+      ]
+    },
+    {
+      "text": "Some people may mobilise every word they know, yet a short essay with a clear line may score more than a long one full of vague phrase.",
+      "translation": "有些人可能会调动他们认识的每一个词,然而一篇线索清晰的短文可能比满是含糊短语的长文得分更高。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Some people may mobilise every word they know",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some people"
+            },
+            {
+              "role": "谓语",
+              "text": "may mobilise"
+            },
+            {
+              "role": "宾语",
+              "text": "every word"
+            },
+            {
+              "role": "定语从句",
+              "text": "they know"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a short essay with a clear line may score more than a long one full of vague phrase",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a short essay with a clear line"
+            },
+            {
+              "role": "谓语",
+              "text": "may score"
+            },
+            {
+              "role": "宾语",
+              "text": "more than a long one full of vague phrase"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "省略关系词的定语从句",
+          "note": "every word they know 中省略了关系代词 that。"
+        },
+        {
+          "name": "作文句式",
+          "note": "以少胜多:清晰的主线胜过堆砌的词汇,是写作批改的重要标准。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a short essay with a clear line may score more than a long one full of vague phrase",
+          "name": "省略关系词的定语从句"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "a short essay with a clear line may score more than a long one full of vague phrase",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may mobilise every word they know, yet a short essay with a clear line may score more than a long one full of vague phrase.",
+          "answer": "Some people may mobilise every word they know, yet a short essay with a clear line may score more than a long one full of vague phrase.",
+          "note": "every word they know 中省略了关系代词 that。",
+          "point": "省略关系词的定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may mobilise every word they know, yet a short essay with a clear line may score more than a long one full of vague phrase.",
+          "answer": "Some people may mobilise every word they know, yet a short essay with a clear line may score more than a long one full of vague phrase.",
+          "note": "以少胜多:清晰的主线胜过堆砌的词汇,是写作批改的重要标准。",
+          "point": "作文句式"
+        }
+      ]
+    },
+    {
+      "text": "A grand word may carry a false glamour, and a sarcastic tone may win a laugh but lose a mark, so trust the gut and check the logic; the essay of a grown-up writer may show restraint: one idea per paragraph, and one example per idea.",
+      "translation": "华丽的词可能带有虚假的光环,而挖苦的语气也许能赢得一笑却失去分数,所以要相信直觉并检查逻辑。; 成熟作家的作文会显示出节制:每个段落一个观点,每个观点一个例子。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A grand word may carry a false glamour",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A grand word"
+            },
+            {
+              "role": "谓语",
+              "text": "may carry"
+            },
+            {
+              "role": "宾语",
+              "text": "a false glamour"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a sarcastic tone may win a laugh",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a sarcastic tone"
+            },
+            {
+              "role": "谓语",
+              "text": "may win"
+            },
+            {
+              "role": "宾语",
+              "text": "a laugh"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(并列谓语)",
+          "color": "#a8dab5",
+          "text": "lose a mark",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "lose"
+            },
+            {
+              "role": "宾语",
+              "text": "a mark"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干三(祈使句)",
+          "color": "#a8dab5",
+          "text": "trust the gut",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "trust"
+            },
+            {
+              "role": "宾语",
+              "text": "the gut"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(祈使句二)",
+          "color": "#a8dab5",
+          "text": "check the logic",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "check"
+            },
+            {
+              "role": "宾语",
+              "text": "the logic"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The essay of a grown-up writer may show restraint",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The essay of a grown-up writer"
+            },
+            {
+              "role": "谓语",
+              "text": "may show"
+            },
+            {
+              "role": "宾语",
+              "text": "restraint"
+            }
+          ]
+        },
+        {
+          "label": "解释说明",
+          "color": "#9fd8e8",
+          "text": "one idea per paragraph, and one example per idea"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "win...but lose...",
+          "note": "「赢得…却失去…」,用并列谓语制造对比。"
+        },
+        {
+          "name": "祈使句",
+          "note": "trust the gut and check the logic 是祈使句,提出建议。"
+        },
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后以平行结构解释 restraint 的具体含义。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The essay of a grown-up writer may show restraint",
+          "name": "win...but lose..."
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The essay of a grown-up writer may show restraint",
+          "name": "祈使句"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The essay of a grown-up writer may show restraint",
+          "name": "冒号解释说明"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A grand word may carry a false glamour, and a sarcastic tone may win a laugh but lose a mark, so trust the gut and check the logic; the essay of a grown-up writer may show restraint: one idea per paragraph, and one example per idea.",
+          "answer": "A grand word may carry a false glamour, and a sarcastic tone may win a laugh but lose a mark, so trust the gut and check the logic; the essay of a grown-up writer may show restraint: one idea per paragraph, and one example per idea.",
+          "note": "「赢得…却失去…」,用并列谓语制造对比。",
+          "point": "win...but lose..."
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A grand word may carry a false glamour, and a sarcastic tone may win a laugh but lose a mark, so trust the gut and check the logic; the essay of a grown-up writer may show restraint: one idea per paragraph, and one example per idea.",
+          "answer": "A grand word may carry a false glamour, and a sarcastic tone may win a laugh but lose a mark, so trust the gut and check the logic; the essay of a grown-up writer may show restraint: one idea per paragraph, and one example per idea.",
+          "note": "trust the gut and check the logic 是祈使句,提出建议。",
+          "point": "祈使句"
+        }
+      ]
+    },
+    {
+      "text": "The final draft may follow a simple statute of style: cut every useless phrase, and keep the main idea in sight; after the discussion, we may rewrite the essay, and the second draft may be a fabulous surprise, a relief from the anguish of the first.",
+      "translation": "终稿可以遵循一条简单的风格法则:删掉每个无用的短语,让主旨始终在视线之内。; 讨论之后,我们可能重写作文,而第二稿可能是个惊人的惊喜,是对第一稿痛苦的解脱。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The final draft may follow a simple statute of style",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The final draft"
+            },
+            {
+              "role": "谓语",
+              "text": "may follow"
+            },
+            {
+              "role": "宾语",
+              "text": "a simple statute of style"
+            }
+          ]
+        },
+        {
+          "label": "解释说明(祈使句)一",
+          "color": "#9fd8e8",
+          "text": "cut every useless phrase"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "解释说明(祈使句)二",
+          "color": "#9fd8e8",
+          "text": "keep the main idea in sight"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "After the discussion"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may rewrite the essay",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may rewrite"
+            },
+            {
+              "role": "宾语",
+              "text": "the essay"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the second draft may be a fabulous surprise",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the second draft"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "a fabulous surprise"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a relief from the anguish of the first"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句",
+          "note": "cut...与 keep... 都是祈使句,给出具体写作指令。"
+        },
+        {
+          "name": "keep + 宾语 + 宾补",
+          "note": "keep the main idea in sight:介词短语 in sight 作宾补。"
+        },
+        {
+          "name": "同位语",
+          "note": "a relief from the anguish of the first 是 a fabulous surprise 的同位语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The final draft may follow a simple statute of style",
+          "name": "祈使句"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The final draft may follow a simple statute of style",
+          "name": "keep + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "The final draft may follow a simple statute of style",
+          "name": "同位语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The final draft may follow a simple statute of style: cut every useless phrase, and keep the main idea in sight; after the discussion, we may rewrite the essay, and the second draft may be a fabulous surprise, a relief from the anguish of the first.",
+          "answer": "The final draft may follow a simple statute of style: cut every useless phrase, and keep the main idea in sight; after the discussion, we may rewrite the essay, and the second draft may be a fabulous surprise, a relief from the anguish of the first.",
+          "note": "cut...与 keep... 都是祈使句,给出具体写作指令。",
+          "point": "祈使句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The final draft may follow a simple statute of style: cut every useless phrase, and keep the main idea in sight; after the discussion, we may rewrite the essay, and the second draft may be a fabulous surprise, a relief from the anguish of the first.",
+          "answer": "The final draft may follow a simple statute of style: cut every useless phrase, and keep the main idea in sight; after the discussion, we may rewrite the essay, and the second draft may be a fabulous surprise, a relief from the anguish of the first.",
+          "note": "keep the main idea in sight:介词短语 in sight 作宾补。",
+          "point": "keep + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "In the end, the obsession with a high score may fade, and the real gain may be a clear head and a steady hand.",
+      "translation": "最终,对高分的执念会消退,而真正的收获可能是清晰的头脑和稳健的笔力。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the end"
+        },
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "the obsession with a high score may fade",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the obsession with a high score"
+            },
+            {
+              "role": "谓语",
+              "text": "may fade"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the real gain may be a clear head and a steady hand",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the real gain"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "a clear head and a steady hand"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "作文句式",
+          "note": "结尾升华:从分数转向能力的成长,是作文收束的常用手法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u8",
+          "phrase": "the real gain may be a clear head and a steady hand",
+          "name": "作文句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the end, the obsession with a high score may fade, and the real gain may be a clear head and a steady hand.",
+          "answer": "In the end, the obsession with a high score may fade, and the real gain may be a clear head and a steady hand.",
+          "note": "结尾升华:从分数转向能力的成长,是作文收束的常用手法。",
+          "point": "作文句式"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u8",
+      "name": "hand in",
+      "note": "hand in 表示「上交(作业)」。",
+      "sourceExample": "In our writing class, we may hand in one essay each week, and the teacher may mark every draft with a careful note.",
+      "sourceExampleCn": "在我们的写作课上,我们可能每周交一篇作文,而老师可能给每份草稿留下细致的批注。"
+    },
+    {
+      "grammarId": "g-s4u8",
+      "name": "not...but... 结构",
+      "note": "not A but B 表示「不是 A,而是 B」,是考研作文表达观点的经典句式。",
+      "sourceExample": "The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+      "sourceExampleCn": "一篇好作文的标志不是生僻的词或花哨的短语,而是清晰的结构和稳健的论证。"
+    },
+    {
+      "grammarId": "g-s4u8",
+      "name": "作文句式",
+      "note": "先否定再肯定的句式(A is not X but Y)是议论文立论的常用开头。",
+      "sourceExample": "The mark of a good essay is not a long word or a fancy phrase, but a clear structure and a steady argument.",
+      "sourceExampleCn": "一篇好作文的标志不是生僻的词或花哨的短语,而是清晰的结构和稳健的论证。"
+    },
+    {
+      "grammarId": "g-s4u8",
+      "name": "冒号解释说明",
+      "note": "冒号后具体列出三个部分的句式,one 指代 one pattern。",
+      "sourceExample": "We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+      "sourceExampleCn": "我们可以为作文的每个部分学习一个有用的句式:开头一个,主体一个,结尾一个。"
+    },
+    {
+      "grammarId": "g-s4u8",
+      "name": "省略结构",
+      "note": "one for the opening 是 one pattern for the opening 的省略。",
+      "sourceExample": "We may learn a useful pattern for each part of the essay: one for the opening, one for the body, and one for the conclusion.",
+      "sourceExampleCn": "我们可以为作文的每个部分学习一个有用的句式:开头一个,主体一个,结尾一个。"
+    }
+  ]
+}

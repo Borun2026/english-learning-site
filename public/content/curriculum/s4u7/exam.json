@@ -1,0 +1,87 @@
+{
+ "id": "e-s4u7",
+ "stage": 4,
+ "unitId": "s4u7",
+ "title": "真题演练 · 完形与新题型技巧",
+ "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 完形与新题型技巧。",
+ "questions": [
+  {
+   "q": "According to the knight foundation survey, young people",
+   "options": [
+    "tend to voice their opinions in cyberspace.",
+    "verify news by referring to diverse resources.",
+    "have a strong sense of responsibility.",
+    "like to exchange views on “distributed trust”"
+   ],
+   "answer": 1,
+   "analysis": "范例证明题。根据题干定位至第三段第二句话。因为某项研究一般是论据证明前面的论点,故答案应\n该位于第一句话“Youngpeoplewhoaredigitalnativesareindeedbecomingmoreskillfulatseperatingfactfromfictionin\ncyberspace.”说明答案应该“和年轻人更容易把网络中的事实和虚假信息区分开来”,故答案为B“验证新闻的真伪”。\n为了精确可以在论据中去验证,论据中提到“verifystories”,“crosschecksources”和“prefernewsfromdifferent\nperspectives”,都是和多重角度验证信息真伪相关的。",
+   "point": "zhenti:z2018-reading-2:q3",
+   "source": "2018 考研英语一真题"
+  },
+  {
+   "q": "Three provisions of Arizona’s plan were overturnedbecause they _______.",
+   "options": [
+    "overstepped the authority of federal immigration law",
+    "disturbed the power balance between different states",
+    "deprived the federal police of Constitutional powers",
+    "contradicted both the federal and state policies"
+   ],
+   "answer": 2,
+   "analysis": "本题我们利用正确选项对原文同义替换这一原则得出答案。根据Arizona’s定位到句子principlesthat\nfederallawsprecedestatelawsarenoncontroversialarenoncontroversial.说明联邦法律高于州的法律是无可争辩\n的。答案选项they“oversteppedtheauthorityoffederalimmigrationlaw.”他们(亚利桑那州的法案)逾越了联邦\n法案。就是对文中这句话的反义改写。选项中overstep为同义替换原文中的intrude,authority同义替换了\nprivilegedpowers.",
+   "point": "zhenti:z2013-reading-4:q1",
+   "source": "2013 考研英语一真题"
+  },
+  {
+   "q": "In this text, the author presents a problem with Text 2 A new survey by Harvard University finds more than two-thirds of young Americans disapprove of President Trump’s use of Twitter. The implication is that Millennials prefer news from the White House to be filtered through other source, Not a president’s social media platform. Most Americans rely on social media to check daily headlines. Yet as distrust has risen toward all media, people may be starting to beef up their media literacy skills. Such a trend is badly needed. During the 2016 presidential campaign, nearly a quarter of web content shared by Twitter users in the politically critical state of Michigan was fake news, according to the University of Oxford. And a survey conducted for BuzzFeed News found 44 percent of Facebook users rarely or never trust news from the media giant. Young people who are digital natives are indeed becoming more skillful at separating fact from fiction in cyberspace. A Knight Foundation focus-group survey of young people between ages 14and24 found they use “distributed trust” to verify stories. They cross-check sources and prefer news from different perspectives—especially those that are open about any bias. “Many young people assume a great deal of personal responsibility for educating themselves and actively seeking out opposing viewpoints,” the survey concluded. Such active research can have another effect. A 2014 survey conducted in Australia, Britain, and the United States by the University of Wisconsin-Madison found that young people’s reliance on social media led to greater political engagement. Social media allows users to experience news events more intimately and immediately while also permitting them to re-share news as a projection of their values and interests. This forces users to be more conscious of their role in passing along information. A survey by Barna research group found the top reason given by Americans for the fake news phenomenon is “reader error,” more so than made-up stories or factual mistakes in reporting. About a third say the problem of fake news lies in “misinterpretation or exaggeration of actual news” via social media. In other words, the choice to share news on social media may be the heart of the issue. “This indicates there is a real personal responsibility in counteracting this problem,” says Roxanne Stone, editor in chief at Barna Group. So when young people are critical of an over-tweeting president, they reveal a mental discipline in thinking skills – and in their choices on when to share on social media.",
+   "options": [
+    "opposing views on it.",
+    "possible solutions to it.",
+    "its alarming impacts.",
+    "its major variations."
+   ],
+   "answer": 1,
+   "analysis": "作者在文章第一、二段提出问题“中产阶级受自动化危害最大”之后,第三段的末尾句提出中产阶级需\n要帮助去适应自动化的发展,接下来第四段至第六段介绍解决方法,最后一段表明作者观点。所以应该选B选项\npossiblesolutionstoit(解决问题的相应方法)。\n词汇难点:\nannoying 烦人的 appealto 对(某人)有吸引力squeeze挤,挤出\npresidential 总统竞选 challenge 挑战 occupation职业\npossibility 可能(性) dismiss 拒绝考虑,否定alarmist危言耸听的\ndisproportionately不成比例地 automate 使自动化 upheaval剧变\nLuddite 反对技术进步者stimulate 刺激 displace取代,替代\nmechanized 机械化的 adjust 调整 loom 织布机\neventually 最后,最终 optimist 乐观主义者 likewise同样地;也\nautomation 自动化 IndustrialRevolution工业革命 productivity生产力\nunderline 强调;使突出virtual 虚拟的 previous以前的\ndynamism 动力,活力 inequality 不平等 combine结合,联合\n 淘宝店铺:https://shop2",
+   "point": "zhenti:z2018-reading-1:q5",
+   "source": "2018 考研英语一真题"
+  },
+  {
+   "q": "He is poor, ___ he is happy.",
+   "options": [
+    "therefore",
+    "however",
+    "moreover",
+    "in addition"
+   ],
+   "answer": 1,
+   "analysis": "贫穷与快乐是转折关系,用 however。",
+   "point": "g-s4u7",
+   "source": "本单元语法课练习"
+  },
+  {
+   "q": "The traffic was heavy; ___, we arrived on time.",
+   "options": [
+    "therefore",
+    "nevertheless",
+    "besides",
+    "furthermore"
+   ],
+   "answer": 1,
+   "analysis": "交通拥堵却准时到达,表让步转折,用 nevertheless。",
+   "point": "g-s4u7",
+   "source": "本单元语法课练习"
+  },
+  {
+   "q": "He worked hard and ___, he won the prize.",
+   "options": [
+    "however",
+    "therefore",
+    "but",
+    "yet"
+   ],
+   "answer": 1,
+   "analysis": "努力与获奖是因果关系,用 therefore。",
+   "point": "g-s4u7",
+   "source": "本单元语法课练习"
+  }
+ ]
+}

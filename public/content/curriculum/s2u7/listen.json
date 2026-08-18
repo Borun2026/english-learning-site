@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u7",
+  "stage": 2,
+  "unitId": "s2u7",
+  "title": "听力挑战 · 描述理想公寓",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "What kind of apartment are you looking for?",
+      "lineCn": "你在找什么样的公寓?",
+      "grammar": [
+        { "name": "定语从句 that 引导", "note": "that has... 作定语修饰名词,说明公寓的特征。" }
+      ],
+      "options": [
+        { "text": "One that has a big balcony and sunlight.", "correct": true, "feedback": "that 引导定语从句描述想要的公寓特征,回答完整。" },
+        { "text": "One where I lost my keys.", "correct": false, "feedback": "说的是丢钥匙的地方,与找房需求无关。" },
+        { "text": "The rent is getting higher.", "correct": false, "feedback": "谈的是房租趋势,没有回答要找什么样的房子。" }
+      ]
+    },
+    {
+      "speaker": "中介",
+      "line": "Which floor do you prefer to live on?",
+      "lineCn": "你比较想住哪一层?",
+      "grammar": [
+        { "name": "定语从句修饰楼层", "note": "that is quiet 修饰 floor,说明理想楼层的条件。" }
+      ],
+      "options": [
+        { "text": "I prefer a floor that is quiet and bright.", "correct": true, "feedback": "that 从句修饰 floor,说出理想楼层的特点。" },
+        { "text": "I lived on the fifth floor before.", "correct": false, "feedback": "过去时谈以前的住处,不是现在的偏好。" },
+        { "text": "The building is twenty years old.", "correct": false, "feedback": "描述楼龄,没有回答楼层偏好。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "What do you think about the neighborhood you want?",
+      "lineCn": "你觉得你想要的社区环境怎么样?",
+      "grammar": [
+        { "name": "定语从句省略关系词", "note": "the neighborhood (that) you want 中关系词 that 可省略。" }
+      ],
+      "options": [
+        { "text": "I want a neighborhood that is close to the subway.", "correct": true, "feedback": "that 引导定语从句描述理想社区,回应完整。" },
+        { "text": "I have a neighbor who plays the piano.", "correct": false, "feedback": "谈的是现实邻居,而不是理想的社区环境。" },
+        { "text": "The subway is far from my office.", "correct": false, "feedback": "谈地铁与办公室的距离,没有回答社区偏好。" }
+      ]
+    }
+  ]
+}

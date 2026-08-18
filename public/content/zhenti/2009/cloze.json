@@ -1,0 +1,335 @@
+{
+ "id": "z2009-cloze-0",
+ "year": 2009,
+ "section": "cloze",
+ "index": 0,
+ "source": "2009年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "Research on animal intelligence always makes me wonder just how smart humans are.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___1___ the fruit-fly experiments described by Carl Zimmer in the Science Times.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Fruit flies who were taught to be smarter than the average fruit fly ___2___ to live shorter lives.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This suggests that ___3___ bulbs burn longer, that there is a(n) ___4___ in not being too bright.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Intelligence, it ___5___ , is a high-priced option.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It takes more upkeep, burns more fuel and is slow ___6___ the starting line because it depends on learning — a(n) ___7___ process— instead of instinct.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Plenty of other species are able to learn, and one of the things they’ve apparently learned is when to ___8___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Is there an adaptive value to___9___ intelligence?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "That’s the question behind this new research.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Instead of casting a wistful glance ___10___ at all the species we’ve left in the dust I.Q.-wise, it implicitly asks what the real ___11___ of our own intelligence might be.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This is ___12___ the mind of every animal we’ve ever met.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Research on animal intelligence also makes us wonder what experiments animals would ___13___ on humans if they had the chance.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Every cat with an owner, ___14___ , is running a small-scale study in operant conditioning.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "We believe that ___15___ animals ran the labs, they would test us to ___16___ the limits of our patience, our faithfulness, our memory for locations.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "They would try to decide what intelligence in humans is really ___17___ , not merely how much of it there is.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___18___ , they would hope to study a(n) ___19___ question: Are humans actually aware of the world they live in?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___20___ the results are inconclusive.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "Suppose",
+    "Consider",
+    "Observe",
+    "Imagine"
+   ],
+   "answer": 1,
+   "analysis": "本题考查的是“consider+名词性词组”的用法,表示“以……为例”,显然与后面的试验搭配表示以该试\n验为例引出下文。选项A、D同义,故排除。选项C代入文中与上下文不合,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "tended",
+    "feared",
+    "happened",
+    "threatened"
+   ],
+   "answer": 0,
+   "analysis": "从空格后面的to可首先排除B,因为fear不与to连用。再结合文章题材看,文章是科技类,而科技类文章\n中通常为了表示说话客观性并避免绝对化,往往在主谓之间加一个tendto表示语气的弱化,故本题答案为A,其他\n两个代入文章语义不通。"
+  },
+  {
+   "q": "",
+   "options": [
+    "thinner",
+    "stabler",
+    "lighter",
+    "dimmer"
+   ],
+   "answer": 3,
+   "analysis": "空前内容谈到聪明的果蝇寿命相对普通果蝇要短,这里拿灯泡做比喻,相对应的自然是光线的暗淡,即光\n线暗淡的灯泡使用时间更长。下一句也有提示:nobeingtoobright,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "tendency",
+    "advantage",
+    "inclination",
+    "priority"
+   ],
+   "answer": 1,
+   "analysis": "前文谈到暗淡的灯泡寿命更长,接着说“不太明亮也是”,对比四个选项,只有优势语义连贯,故答\n案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "insists on",
+    "sums up",
+    "turns out",
+    "puts forward"
+   ],
+   "answer": 2,
+   "analysis": "该空所在句意为:,智力是高成本的选择。显然这是对上文试验结果的总结。表示对结果的说明只有\nC,故答案为C。A项的主语应该是人,B项一般不会出现在段首,D项词义显然不合语境,均可排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "off",
+    "behind",
+    "over",
+    "along"
+   ],
+   "answer": 0,
+   "analysis": "空格所在的句意为:在起跑线时很慢。四个选项代入句中,只有远离语义通顺,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "incredible",
+    "spontaneous",
+    "inevitable",
+    "gradual"
+   ],
+   "answer": 2,
+   "analysis": "空前谈到Spencer的理论特点,人类社会的进化类似于达尔文的进化论,是一个不断进步的过程。浏览\n七个选项,C的内容正好与此吻合。故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "fight",
+    "doubt",
+    "stop",
+    "think"
+   ],
+   "answer": 2,
+   "analysis": "空所在的内容为:很多其他物种都有学习的能力,而且它们明显学了一种技能就是知道何时需要。从句意\n中我们可以判断出这种技能必然是一种最简单的行为,B、D显然可以排除,比较A、C,再结合前文谈到的跑步的\n2类比,stop更能接近文章内容,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "invisible",
+    "limited",
+    "indefinite",
+    "different"
+   ],
+   "answer": 1,
+   "analysis": "空所在的语境为:的智慧有适应性价值。从句意我们可以大概判断出本句应该是对某种形式的智慧的\n一种好的评价,我们回想到前文有一句话谈到“不太聪明有着优势”,也是谈到智慧,由文章的一致性可知,\n这里智慧应该对应不太聪明,而形容不太聪明的在四个选项中对应只能是有限的,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "upward",
+    "forward",
+    "afterward",
+    "backward"
+   ],
+   "answer": 3,
+   "analysis": "空所在的语境为:往看一眼已经灭绝的物种。应经死亡的物种当然已经成为历史,常识告诉我们,看\n待历史只能是向后看了,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "features",
+    "influences",
+    "results",
+    "costs"
+   ],
+   "answer": 3,
+   "analysis": "空所在的语境为:这个问题隐含地询问我们拥有智力的实际。显然这句谈到的是关于智力的某个方面,\n前文谈到智力是高成本的选择,由文章前后一致性可知,本处应该是与成本相关的内容,只有D表达了这一含\n义,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "outside",
+    "on",
+    "by",
+    "across"
+   ],
+   "answer": 1,
+   "analysis": "onthemindofsb表示“某人一直在思考”,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "deliver",
+    "carry",
+    "perform",
+    "apply"
+   ],
+   "answer": 2,
+   "analysis": "空所在的语境为:experimentonhumans.显然表达的是在人身上进行试验,表示“在……进行试验”\n只有用performexperimenton,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "by chance",
+    "in contrast",
+    "as usual",
+    "for instance"
+   ],
+   "answer": 3,
+   "analysis": "空所在的语境为:对动物智力的研究也让我们思考:如果动物有机会的话,他们会在人类身上进行什\n么样的实验。,每一只有主人的猫都在进行操作性条件方面的小规模研究。显然空前是一句总结性的话,空后\n是一个具体的示例,表示举例的只能用D,故本题答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "if",
+    "unless",
+    "as",
+    "lest"
+   ],
+   "answer": 0,
+   "analysis": "空所在的语境为:我们认为动物在进行这种实验,他们会……。显然我们知道动物是不可能去做实验\n的,那么这种情况只能是一种假设,四个选项中,表示假设只有A,故本题答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "moderate",
+    "overcome",
+    "determine",
+    "reach"
+   ],
+   "answer": 2,
+   "analysis": "空所在的语境为:theywouldtestusto16thelimitsofourpatience,ourfaithfulness,ourmemoryforlocation.\nTheywouldtrytodecide…。显然这是两个并列句,那么空所在的动词应该与decide意义近似,四个选项中只有\nC满足这一条件,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "at",
+    "for",
+    "after",
+    "with"
+   ],
+   "answer": 1,
+   "analysis": "what…isfor。是一种常用的固定用法,表示对what后面事物的一种说明。本句句意为:它们会尽力\n3去搞清楚人类智慧的用途。故本题答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Above all",
+    "After all",
+    "However",
+    "Otherwise"
+   ],
+   "answer": 0,
+   "analysis": "空所在的前后语境为:他们会测试……;它们会尽力去……;,它们会希望研究……。显然这是三个\n并列句,而最后一句的语义显然强于前面两句,表示强调的只有选项A,故本题答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "fundamental",
+    "comprehensive",
+    "equivalent",
+    "hostile"
+   ],
+   "answer": 0,
+   "analysis": "从18题我们已经分析出本句是作为一种强调的语义,能突出这一点的只有A,故本题答案为A。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "By accident",
+    "In time",
+    "So far",
+    "Better still"
+   ],
+   "answer": 2,
+   "analysis": "空所在的前后语境为:,仍未有定论。四个选项代入显然只有C能保持句意通顺,故本题答案为C。\n三、全文翻译\n对动物的智力研究总使我们想知道人类是如何的聪明。就以《科学时代》里CarlZimmer的论文所描述的\n果蝇实验为例吧。经过训练比一般果蝇更聪明的那些果蝇趋向于有更短的寿命。这表明光线暗淡的灯泡使用时\n间更长一些,暗淡也是一种优势。\n智力,被证明是一种高成本的选择。智力需要更多的维护,消耗更多的燃料,而且随着远离起跑线速度就\n更慢,因为智力依赖于学习——一个渐进的过程而不是本能。很多物种都有学习的能力,而且它们明显学会的\n一个技能就是知道何时需要停顿下来。\n有限的智力是否也有着适应价值呢?这就是这次新研究后面的问题。这个问题并非是从智商的角度去回头\n看那些已经灭绝的物种,而是隐含地询问我们智力的实际成本可能是什么。这一问题一直环绕在我见过的每一\n个人。\n对动物智力的研究也让我思考:如果动物有机会的话,它们会在人类身上进行什么样的实验。比如,每一\n只有主人的猫都在进行操作性条件方面的小规模研究。我认为,假如动物在进行这个实验,它们会测试以确定\n我们在耐心、忠诚和记忆方位等方面的极限。它们会尽力去搞清楚人类智力的用途,而不是仅仅在于人类智商\n程度的高低。更重要的是,它们会希望研究一个基本的问题:人类是否真的了解他们所生活的世界?迄今为止,\n这个问题仍然没有定论。\nPartIIReadi"
+  }
+ ]
+}

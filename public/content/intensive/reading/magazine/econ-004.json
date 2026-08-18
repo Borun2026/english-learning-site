@@ -1,0 +1,26 @@
+{
+ "id": "econ-004",
+ "type": "magazine",
+ "journal": "The Economist",
+ "journalEn": "The Economist",
+ "title": "The Rise of Lab-Grown Meat",
+ "date": "2026-05-01",
+ "difficulty": "beginner",
+ "difficultyLabel": "初级 A2-B1",
+ "wordCount": 350,
+ "tags": [
+  "food",
+  "technology",
+  "environment"
+ ],
+ "paragraphs": [
+  "Would you eat meat grown in a laboratory? For a growing number of people, the answer is yes. Lab-grown meat, also known as cultivated meat, is real animal meat produced without killing animals. Scientists take a small sample of animal cells and grow them in a special environment.",
+  "The idea sounds like science fiction, but it is already becoming reality. In Singapore, lab-grown chicken has been approved for sale since 2020. The United States approved lab-grown chicken in 2023. More countries are expected to follow in the coming years.",
+  "Why make meat in a lab? There are several reasons. First, it is better for the environment. Traditional animal farming uses a lot of land and water. It also produces greenhouse gases that cause climate change. Lab-grown meat could reduce these environmental costs by up to 90%.",
+  "Second, it is better for animal welfare. Billions of animals are raised and killed for food every year. Many of them live in crowded and uncomfortable conditions. Lab-grown meat could end this suffering.",
+  "Third, it could improve food safety. Meat from labs is produced in clean environments. This reduces the risk of diseases that sometimes spread through traditional meat.",
+  "However, there are challenges. The biggest one is cost. Early lab-grown burgers cost over $300,000 to make. Prices have fallen dramatically, but they are still higher than traditional meat. Companies are working hard to bring costs down.",
+  "Another challenge is public acceptance. Some people find the idea of lab-grown meat strange or unappetizing. Surveys show that younger people are more open to trying it than older generations.",
+  "Despite these hurdles, investment in cultivated meat is growing. More than 150 companies worldwide are working on lab-grown meat products. The future of meat might not come from a farm, but from a laboratory."
+ ]
+}

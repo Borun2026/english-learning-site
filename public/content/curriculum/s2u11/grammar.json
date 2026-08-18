@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u11",
+  "stage": 2,
+  "title": "will 与 be going to",
+  "explanation": "## 两种将来表达\n\n**will + 动词原形**与 **be going to + 动词原形**都表示将来,但侧重点不同:\n\n| 情况 | will | be going to |\n|---|---|---|\n| 临时决定 | ✅ 电话响了\"我去接\" | ❌ |\n| 事先计划 | ❌ | ✅ 周日野餐 |\n| 有迹象的预测 | ❌ | ✅ 乌云要下雨 |\n| 无依据的推测 | ✅ I think it will... | ❌ |\n\n## 形式变化\n\n- will 不随主语变化,否定 won't,疑问把 will 提前。\n- be going to 中的 be 随主语变化(am / is / are),否定是 be not going to。\n\n## 判断技巧\n\n- 句中有 I think、probably、maybe 时多用 will;\n- 看到具体迹象(look at the clouds!)或\"已经安排好\"的计划时用 be going to;\n- 说话瞬间才作出的决定,用 will。",
+  "examples": [
+    { "en": "I will answer the phone.", "cn": "我来接电话。", "note": "听到铃声临时决定,用 will。" },
+    { "en": "We are going to have a picnic this Sunday.", "cn": "我们这个星期天打算去野餐。", "note": "事先计划好的安排,用 be going to。" },
+    { "en": "Look at those dark clouds. It is going to rain.", "cn": "看那些乌云,要下雨了。", "note": "有迹象的预测用 be going to。" },
+    { "en": "I think she will pass the exam.", "cn": "我认为她会通过考试。", "note": "无具体依据的主观判断,用 will。" }
+  ],
+  "errors": [
+    { "wrong": "He will going to Beijing tomorrow.", "right": "He will go to Beijing tomorrow.", "note": "will 后接动词原形 go,不能写 going。" },
+    { "wrong": "Look at the sky. It will rain.", "right": "Look at the sky. It is going to rain.", "note": "有具体迹象的预测用 be going to。" },
+    { "wrong": "I will to open the window.", "right": "I will open the window.", "note": "will 后直接接动词原形,不加 to。" }
+  ],
+  "quiz": [
+    { "q": "\"I've decided to study abroad next year.\" I ___ study abroad next year.", "options": ["will", "am going to", "will to", "won't"], "answer": 1, "note": "已经决定好的计划,用 be going to。" },
+    { "q": "\"The phone is ringing.\" \"I ___ answer it.\"", "options": ["will", "am going to", "going to", "would"], "answer": 0, "note": "说话时临时决定,用 will。" },
+    { "q": "Look at the clouds! It ___ rain.", "options": ["will", "is going to", "will to", "going"], "answer": 1, "note": "有迹象的预测用 be going to。" },
+    { "q": "She ___ probably arrive at six.", "options": ["is going to", "will", "is", "are"], "answer": 1, "note": "probably 表示主观推测,与 will 连用。" },
+    { "q": "Are you ___ watch the match tonight?", "options": ["will", "going to", "go to", "will to"], "answer": 1, "note": "疑问句 Are you going to...? 询问已定的安排。" }
+  ]
+}

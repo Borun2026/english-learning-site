@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u9",
+  "stage": 3,
+  "unitId": "s3u9",
+  "title": "听力挑战 · 复盘项目进度",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "项目经理",
+      "line": "Where are we with the project right at this moment?",
+      "lineCn": "项目此刻进展到什么阶段了?",
+      "grammar": [
+        { "name": "现在完成时与进行时综合", "note": "已经完成的动作用现在完成时,正在进行的用现在进行时。" }
+      ],
+      "options": [
+        { "text": "We have finished the design and are testing it.", "correct": true, "feedback": "完成时加进行时准确描述当前进度。" },
+        { "text": "We will finish the design tomorrow.", "correct": false, "feedback": "与'已经完成设计'的现状矛盾。" },
+        { "text": "We finished the design next week.", "correct": false, "feedback": "next week 与过去时搭配,时态混乱。" }
+      ]
+    },
+    {
+      "speaker": "项目经理",
+      "line": "Why was the product launch delayed again this week, Jane?",
+      "lineCn": "简,这周产品发布为什么又延期了?",
+      "grammar": [
+        { "name": "过去时与完成时综合", "note": "过去时描述已经发生的事件,完成时说明持续到现在的状态。" }
+      ],
+      "options": [
+        { "text": "The team has been waiting for the final data.", "correct": true, "feedback": "现在完成进行时说明等待持续至今,解释合理。" },
+        { "text": "The team waits for data every morning.", "correct": false, "feedback": "一般现在时谈习惯,不能解释本次延期。" },
+        { "text": "The launch was delayed last year.", "correct": false, "feedback": "混淆延期时间,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "What has changed since the last project meeting we had?",
+      "lineCn": "自上项目会议以来有什么变化?",
+      "grammar": [
+        { "name": "完成时对比", "note": "先完成的动作用过去完成时,对现在有影响的用现在完成时。" }
+      ],
+      "options": [
+        { "text": "We had solved the old issue, but a new one has appeared.", "correct": true, "feedback": "过去完成时加现在完成时对比,变化说明清楚。" },
+        { "text": "We will solve the issue after the meeting.", "correct": false, "feedback": "将来时与'已解决旧问题'的事实不符。" },
+        { "text": "The old issue appeared yesterday.", "correct": false, "feedback": "与旧问题已解决的现状矛盾。" }
+      ]
+    }
+  ]
+}

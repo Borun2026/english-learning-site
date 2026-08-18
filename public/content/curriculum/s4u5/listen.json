@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u5",
+  "stage": 4,
+  "unitId": "s4u5",
+  "title": "听力挑战 · 翻译实践讨论",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "学生",
+      "line": "When translating long sentences, we should divide them into clauses and rearrange their order according to Chinese habits.",
+      "lineCn": "翻译长句时,我们应该把它们切分成从句,并按中文习惯调整语序。",
+      "grammar": [
+        { "name": "长句拆译法", "note": "英译汉先断句再调序:把 when 从句与主句分开,按中文习惯重新排列语序。" }
+      ],
+      "options": [
+        { "text": "Long sentences should be split and their order adjusted for Chinese.", "correct": true, "feedback": "先切分长句,再按中文习惯调整语序。" },
+        { "text": "Long sentences should be translated word by word.", "correct": false, "feedback": "逐词硬译不符合中文习惯,原文提倡切分和调序。" },
+        { "text": "Chinese translation must keep the English word order exactly.", "correct": false, "feedback": "原文明确说要按中文习惯调整语序。" }
+      ]
+    },
+    {
+      "speaker": "辅导老师",
+      "line": "Passive voice in English often becomes active voice in Chinese to sound more natural.",
+      "lineCn": "英语中的被动语态译成中文时常转为主动语态,这样读起来更自然。",
+      "grammar": [
+        { "name": "语态转换", "note": "英语多用被动,汉语多用主动,翻译时需灵活转换语态以求自然。" }
+      ],
+      "options": [
+        { "text": "English passive sentences are often turned into active ones in Chinese.", "correct": true, "feedback": "英语被动在中文中常转为主动以符合表达习惯。" },
+        { "text": "English passive sentences must stay passive in Chinese.", "correct": false, "feedback": "老师说的是常转为主动,而非必须保留被动。" },
+        { "text": "Chinese never uses active voice at all.", "correct": false, "feedback": "中文恰恰常用主动语态。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "The difficulty lies in the term culture shock, which has no exact equivalent in our language.",
+      "lineCn": "难点在于 culture shock 这个术语,在我们语言中找不到完全对等的说法。",
+      "grammar": [
+        { "name": "非限制性定语从句补充说明", "note": "which has no exact equivalent 是对 culture shock 的补充说明,处理时可拆成单独一句。" }
+      ],
+      "options": [
+        { "text": "The term culture shock lacks a precise equivalent in Chinese.", "correct": true, "feedback": "该术语在目标语言中缺少完全对等的表达。" },
+        { "text": "The term culture shock is easy to translate directly.", "correct": false, "feedback": "原文说找不到完全对等的说法,并非容易翻译。" },
+        { "text": "The term culture shock appears only in oral English.", "correct": false, "feedback": "原文并未限定该词只用于口语。" }
+      ]
+    },
+    {
+      "speaker": "辅导老师",
+      "line": "A good translation should convey the original meaning while keeping the style of the source text.",
+      "lineCn": "好的译文应传达原文意思,同时保留原文的风格。",
+      "grammar": [
+        { "name": "while + 现在分词伴随状语", "note": "while keeping 表同时进行的动作,翻译时译成同时/兼顾,保持意与形并重。" }
+      ],
+      "options": [
+        { "text": "A good translation preserves both meaning and style.", "correct": true, "feedback": "好译文既传达意思又保留风格。" },
+        { "text": "Only the grammar of the source text matters in translation.", "correct": false, "feedback": "除语法外,意思和风格同样重要。" },
+        { "text": "Translation should ignore the original style completely.", "correct": false, "feedback": "原文明确要求保留原文风格。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u5",
+  "stage": 5,
+  "unitId": "s5u5",
+  "scene": "国际学术会议茶歇",
+  "goal": "在会议茶歇时与同行有效交流,展示研究、建立初步的学术联系",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "I noticed your name tag says you are presenting tomorrow. I am Dr. Kim. May I ask what line of research you are pursuing?",
+      "lineCn": "我看到你的名牌上写着明天有报告。我是金博士。可以冒昧问一下你在做什么方向的研究吗?",
+      "grammar": [
+        { "name": "Line of research", "note": "学术社交高频搭配:line of research 指“研究方向”,比 research direction 更地道,属固定搭配。" }
+      ],
+      "options": [
+        { "text": "Nice to meet you, Dr. Kim. I conduct research on second language acquisition, specifically how feedback shapes pronunciation development.", "textCn": "幸会,金博士。我从事二语习得研究,具体关注反馈如何塑造语音发展。", "feedback": "用 conduct research on 介绍方向,再以 specifically 收窄范围,信息密度恰到好处。", "next": "n2" },
+        { "text": "Hi. I do stuff about language learning, it is not very interesting.", "textCn": "嗨。我做语言学习那方面的事,没什么意思。", "feedback": "stuff 加自我贬低,既没传达信息又显得缺乏热情,同行难以接话。", "next": "n3" },
+        { "text": "I am working on a project about pronunciation, but I am still a beginner so I cannot really explain it.", "textCn": "我在做一个关于发音的项目,但我还是新手,不太讲得清楚。", "feedback": "自称讲不清反而暴露了表达意愿的不足,学术社交需要自信地推介自己。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "Pronunciation development is a fascinating topic. Did your recent study draw any conclusions that surprised you?",
+      "lineCn": "语音发展是个很有意思的课题。你最近的研究得出了什么出人意料的结论吗?",
+      "grammar": [
+        { "name": "Draw a conclusion", "note": "学术高频搭配:draw a conclusion 表示“得出结论”,是 reach, arrive at 的同义替换选项。" }
+      ],
+      "options": [
+        { "text": "One surprising finding was that corrective feedback helped far more when delivered asynchronously, which contradicted our initial hypothesis.", "textCn": "一个意外的发现是:异步反馈的效果远好于同步,这与我们最初的假设相悖。", "feedback": "用 surprising finding 开头制造话题钩子,contradicted our hypothesis 学术味十足。", "next": "n4" },
+        { "text": "Our study found something interesting, but I cannot remember the details right now.", "textCn": "我们的研究发现了有趣的东西,但我一时记不起细节了。", "feedback": "关键时刻记不起细节,让对话戛然而止,是社交中的尴尬场景。", "next": "n5" },
+        { "text": "We concluded that timing matters a great deal; delayed feedback proved more effective than immediate correction.", "textCn": "我们得出结论:时机至关重要;延迟反馈比即时纠正更有效。", "feedback": "用 concluded that 引出结论,再具体到 delayed versus immediate,细节扎实。", "next": "n4" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "I see. For my part, I study learner motivation, so I always enjoy hearing how others frame their questions. How do you define the scope of your study?",
+      "lineCn": "原来如此。我研究学习者动机,所以很乐意听别人如何构架问题。你如何界定研究范围?",
+      "grammar": [
+        { "name": "Frame a question", "note": "学术词汇搭配:frame 意为“构架、界定”,frame a question/a study 是研究讨论中的常用搭配。" }
+      ],
+      "options": [
+        { "text": "Thank you for asking. The scope covers adult learners in online courses, with pronunciation measured at three points across a semester.", "textCn": "谢谢您发问。研究范围涵盖线上课程的成人学习者,发音在学期内三个时间点测量。", "feedback": "主动回应加时间点细节 (three points across a semester),一下子把话题打开了。", "next": "n4" },
+        { "text": "Honestly, my scope is whatever my supervisor says it is.", "textCn": "老实说,我的范围是导师说了算。", "feedback": "把责任推给导师,显得缺乏自主性,学术社交中是大忌。", "next": "fail1" },
+        { "text": "The study focuses on adults taking online courses, and we sampled their pronunciation three times over one term.", "textCn": "研究聚焦线上课程成人学员,我们在一学期内三次采样其发音。", "feedback": "focus on 加三次采样细节,表述专业,对方可以继续追问。", "next": "n4" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同行 Dr. Lopez (马德里大学,加入对话)",
+      "line": "Forgive me for interrupting, but I could not help overhearing the word \"feedback\". I work on corrective feedback in Spanish. Do you see potential for collaboration?",
+      "lineCn": "请原谅我插话,但我无意中听到“反馈”一词。我研究西班牙语中的纠正性反馈。你觉得有合作可能吗?",
+      "grammar": [
+        { "name": "Could not help overhearing", "note": "could not help + doing 表示“忍不住做某事”,学术社交中插入谈话的礼貌托辞。" }
+      ],
+      "options": [
+        { "text": "I would be delighted. Our frameworks overlap considerably, and a cross-linguistic comparison would strengthen both our arguments considerably.", "textCn": "我很乐意。我们的研究框架高度重叠,跨语言对比将大大增强双方的论证。", "feedback": "delighted 表热情,overlap considerably 给出合作基础,顺带点出双赢价值。", "next": "n6" },
+        { "text": "Maybe, if I have time. I am quite busy this year.", "textCn": "也许吧,如果我有时间。我今年挺忙的。", "feedback": "热情不足、条件含糊,合作信号完全丢失,对方只能寒暄收场。", "next": "fail2" },
+        { "text": "That sounds promising. Our data sets would complement each other, and a joint paper would certainly reach a wider audience.", "textCn": "听起来很有前景。我们的数据集可以互补,合著论文也必然触达更广的读者。", "feedback": "complement、reach a wider audience 精准描述合作收益,专业又热忱。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "No rush. Perhaps you could share the main takeaway of your paper, even in broad strokes?",
+      "lineCn": "不急。也许你能大致说一下论文的主要结论,哪怕只是梗概?",
+      "grammar": [
+        { "name": "In broad strokes", "note": "固定短语 in broad strokes 意为“粗略地、大体上”,是社交场合请对方概括时的缓和说法。" }
+      ],
+      "options": [
+        { "text": "In broad strokes, delayed feedback proved superior, which aligns with a growing body of evidence in the field.", "textCn": "大体上说,延迟反馈效果更优,这与该领域日益增多的证据相吻合。", "feedback": "用 in broad strokes 接住对方,再以 a growing body of evidence 引经据典,气氛回暖。", "next": "n4" },
+        { "text": "I really think you should read my paper instead of asking me to summarise it.", "textCn": "你真该去读我的论文,而不是让我来总结。", "feedback": "不耐烦地推给对方,破坏茶歇轻松氛围,也断送了潜在人脉。", "next": "fail1" },
+        { "text": "To give you the gist, timing beat frequency: when feedback was delayed, accuracy rose markedly, and that is our core claim.", "textCn": "给你个要点:时机胜过频率。反馈延迟时准确率显著上升,这就是我们的核心主张。", "feedback": "give you the gist 加核心主张收尾,概括专业又不失亲和。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "同行 Dr. Lopez (马德里大学)",
+      "line": "Splendid. Have your findings appeared in any peer-reviewed journals, and would you be open to exchanging drafts?",
+      "lineCn": "太好了。你的研究发表过同行评审期刊吗?你愿意互相交换初稿吗?",
+      "grammar": [
+        { "name": "Peer-reviewed journal", "note": "学术必备搭配:peer-reviewed (同行评审) + journal (期刊),描述发表渠道时的标准组合。" }
+      ],
+      "options": [
+        { "text": "One paper is under review at a peer-reviewed journal, and I would be glad to exchange drafts. I will email you my working paper this week.", "textCn": "有一篇正送同行评审期刊审稿,我非常乐意交换初稿,本周就把工作论文发给你。", "feedback": "发表状态如实告知加明确行动 (email working paper),合作推进得干净利落。", "next": "n7" },
+        { "text": "I have not published anything yet, and I am not comfortable sharing drafts, sorry.", "textCn": "我还没发表过任何东西,也不太愿意分享初稿,抱歉。", "feedback": "不发表不可耻,但拒绝分享又无替代方案,等于亲手关上了合作的门。", "next": "fail2" },
+        { "text": "It is under review at the moment; once the process concludes, I would welcome your feedback on the revised version.", "textCn": "目前正处审稿中;流程结束后,我很欢迎你对修订稿提出意见。", "feedback": "状态清楚、姿态开放,还设定了后续接触点,交流空间持续打开。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "The plenary session resumes in five minutes. Before we go, could we exchange contact details, and would you join us for dinner tonight?",
+      "lineCn": "主旨报告五分钟后就开始了。走之前,我们能交换联系方式吗?今晚愿意一起吃饭吗?",
+      "grammar": [
+        { "name": "Exchange contact details", "note": "会议社交收尾标配:exchange contact details (交换联系方式) 后常跟着具体邀约,完成破冰闭环。" }
+      ],
+      "options": [
+        { "text": "Absolutely, I would love to. Here is my card; my email is on the back, and I look forward to continuing our conversation over dinner.", "textCn": "当然,我很乐意。这是我的名片,邮箱在背面,期待晚宴上继续我们的交谈。", "feedback": "即时行动 (递名片) 加明确回应,社交闭环完成,两位同行都对你印象深刻。", "next": "n8" },
+        { "text": "I am not sure, maybe, let me think about it, I will probably be tired.", "textCn": "不确定,也许吧,我想想,我可能会累。", "feedback": "含糊推诿让邀约落地失败,人脉维系的机会就此溜走。", "next": "fail1" },
+        { "text": "Certainly. Dinner sounds wonderful, and it would give us a chance to discuss the collaboration in more depth.", "textCn": "当然。晚餐听起来很棒,正好让我们有机会更深入地讨论合作。", "feedback": "应约并顺势把话题引向合作深化,是学术社交的理想收尾。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "Wonderful. I also run a small research seminar every month; would you be interested in presenting your work there this autumn?",
+      "lineCn": "太好了。我每月还主持一个小型研究研讨会,你有兴趣今年秋天去讲讲你的研究吗?",
+      "grammar": [
+        { "name": "Run a seminar", "note": "学术动词搭配:run 可表示“主持、运营”活动,run a seminar/workshop 是常见搭配。" }
+      ],
+      "options": [
+        { "text": "I would be honoured. Presenting at your seminar would also give us a natural point to revisit our joint paper after dinner.", "textCn": "这是我的荣幸。在你的研讨会上报告,也为我们晚宴后重提合著论文提供了自然的契机。", "feedback": "honoured 得体地表态,还巧妙把两次邀约连成一条线,人脉经营高手。", "next": "success" },
+        { "text": "I will try to make time, but no promises, because I have a lot of teaching this term.", "textCn": "我尽量挤出时间,但别抱太大希望,这学期我课很多。", "feedback": "反复用忙碌当挡箭牌,对方的热忱被一再浇灭,联系只能停留在客套。", "next": "fail1" },
+        { "text": "That is very kind of you. I would be glad to present, and I could also bring our latest data for discussion.", "textCn": "您太客气了。我很乐意去做报告,还可以带上我们的最新数据供讨论。", "feedback": "欣然应约且主动加码 (bring latest data),把机会变成了实质产出。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "Excellent! It has been a genuine pleasure. I will send you the seminar details this evening, and I look forward to working with you.",
+      "lineCn": "太棒了!认识你真是件愉快的事。今晚我把研讨会详情发给你,期待与你共事。",
+      "grammar": [
+        { "name": "It has been a genuine pleasure", "note": "社交收束金句:genuine pleasure 比 nice to meet you 更能传达真诚,配合 I look forward to 收尾。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同行 Dr. Kim (首尔大学)",
+      "line": "I see. Well, it was nice meeting you. I hope the rest of the conference treats you well.",
+      "lineCn": "明白了。那,很高兴认识你。祝你在会议余下的时间一切顺利。",
+      "grammar": [
+        { "name": "I see", "note": "I see 是表示“知道了、理解”的简洁回应,但若出现在对话结尾,往往意味着话题已无路可走。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同行 Dr. Lopez (马德里大学)",
+      "line": "Thank you for the chat. Do feel free to reach out should your situation change. I must be off to the next session.",
+      "lineCn": "谢谢你的交谈。如果情况有变,请随时联系我。我得去赶下一场报告了。",
+      "grammar": [
+        { "name": "Do feel free to reach out", "note": "should 倒装条件句 (should your situation change) 是正式英语中的高雅表达,比 if 从句更书面。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

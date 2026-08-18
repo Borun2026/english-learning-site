@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u6",
+  "stage": 2,
+  "unitId": "s2u6",
+  "title": "真题演练 · 被动语态",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 被动语态。",
+  "questions": [
+    {
+      "q": "Rice ___ in the south of China.",
+      "options": [
+        "grows",
+        "is grown",
+        "grew",
+        "is growing"
+      ],
+      "answer": 1,
+      "analysis": "水稻是被种植,一般现在时被动 is grown。",
+      "point": "g-s2u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The letters ___ yesterday afternoon.",
+      "options": [
+        "are posted",
+        "were posted",
+        "posted",
+        "is posted"
+      ],
+      "answer": 1,
+      "analysis": "过去时间用一般过去时被动 were posted。",
+      "point": "g-s2u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This song ___ by many people.",
+      "options": [
+        "is loved",
+        "loves",
+        "loved",
+        "loving"
+      ],
+      "answer": 0,
+      "analysis": "歌是被喜欢,被动 is loved。",
+      "point": "g-s2u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The trees must ___ in spring.",
+      "options": [
+        "water",
+        "be watered",
+        "watering",
+        "watered"
+      ],
+      "answer": 1,
+      "analysis": "情态动词被动是 must be + 过去分词。",
+      "point": "g-s2u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "A new library ___ here next year.",
+      "options": [
+        "builds",
+        "is built",
+        "will be built",
+        "built"
+      ],
+      "answer": 2,
+      "analysis": "明年将被建,一般将来时被动 will be built。",
+      "point": "g-s2u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:The window was broke yesterday.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:The window was broken yesterday.。被动语态用过去分词 broken。",
+      "point": "g-s2u6",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

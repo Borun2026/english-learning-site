@@ -1,0 +1,58 @@
+{
+ "id": "nce2-lesson-25",
+ "book": "nce2",
+ "title": "Lesson 25",
+ "mainKnowledge": [],
+ "sections": [
+  {
+   "heading": "并列句的连接词",
+   "content": [
+    "|           连接词            |      释义      |",
+    "| :-------------------------: | :------------: |",
+    "|             but             | 表示转折,但是  |",
+    "|             and             | 顺承关系/并且  |",
+    "| not only...but also/as well | 不仅...而且... |",
+    "|      neither...nor...       | 既不...也不... |",
+    "|       either...or...        |   或...或...   |",
+    "|         both...and          |     两个都     |",
+    "> and前面一般不加逗号,但其他连接词后一般要加逗号",
+    ">",
+    "> 当either or/neither nor连接两个主语时,谓语动词与后一个主语保持一致"
+   ]
+  },
+  {
+   "heading": "learn和study的区别",
+   "content": [
+    "learn强调学会,学到, study强调学习的动作和过程"
+   ]
+  },
+  {
+   "heading": "several和some的区别",
+   "content": [
+    "several只能修饰可数的,some可以修饰可数/不可数名词",
+    "当句子中存在多个修饰词时,最后两个用and连接,其他的用逗号连接",
+    "```",
+    "This room is large, dark, clean and tidy.",
+    "```"
+   ]
+  },
+  {
+   "heading": "arrive in和arrive at和reach的区别",
+   "content": [
+    "arrive in来暗示到达的是一个大地方",
+    "arrive at一般指到达一个小地方",
+    "reach后直接加宾语,意义同上"
+   ]
+  },
+  {
+   "heading": "train",
+   "content": [
+    "train做指导的意思讲时,后面不能接双宾语"
+   ]
+  }
+ ],
+ "notes": [
+  "- 并列句的连接词"
+ ],
+ "raw": "# Lesson 25\n\n#### Main knowledge\n\n- 并列句的连接词\n\n##### 并列句的连接词\n\n|           连接词            |      释义      |\n| :-------------------------: | :------------: |\n|             but             | 表示转折,但是  |\n|             and             | 顺承关系/并且  |\n| not only...but also/as well | 不仅...而且... |\n|      neither...nor...       | 既不...也不... |\n|       either...or...        |   或...或...   |\n|         both...and          |     两个都     |\n\n> and前面一般不加逗号,但其他连接词后一般要加逗号\n>\n> 当either or/neither nor连接两个主语时,谓语动词与后一个主语保持一致\n\n##### learn和study的区别\n\nlearn强调学会,学到, study强调学习的动作和过程\n\n##### several和some的区别\n\nseveral只能修饰可数的,some可以修饰可数/不可数名词\n\n当句子中存在多个修饰词时,最后两个用and连接,其他的用逗号连接\n\n```\nThis room is large, dark, clean and tidy.\n```\n\n##### arrive in和arrive at和reach的区别\n\narrive in来暗示到达的是一个大地方\n\narrive at一般指到达一个小地方\n\nreach后直接加宾语,意义同上\n\n##### train\n\ntrain做指导的意思讲时,后面不能接双宾语\n"
+}

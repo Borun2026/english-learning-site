@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u1",
+  "stage": 3,
+  "title": "if 条件句",
+  "explanation": "## if 条件句的三种类型\n\nif 条件句分为真实条件句与虚拟条件句两大类,关键在于**条件实现的可能性**。\n\n## 真实条件句(现实可能实现)\n\n- **零条件句**:if + 一般现在时,主句用一般现在时,表示普遍真理或习惯,如 If you heat ice, it melts。\n- **第一条件句**:if + 一般现在时,主句用 will,表示将来很可能发生的事,如 If it rains tomorrow, we will stay at home。注意:if 从句里永远不用 will,主句才用。\n\n## 虚拟条件句(与事实相反)\n\n- **第二条件句(与现在相反)**:if + 过去时(be 一律用 were),主句用 would/could/might + do,如 If I were you, I would study harder。\n- **第三条件句(与过去相反)**:if + 过去完成时,主句用 would have done,如 If you had arrived earlier, you would have caught the train。\n\n## 实用技巧\n\nif 可以省略:当从句含 were/had/should 时,可倒装为 Were I you... / Had I known...。写作中要分清条件与主句的时态配对,这是六级考试高频考点。",
+  "examples": [
+    { "en": "If it rains tomorrow, we will cancel the picnic.", "cn": "如果明天下雨,我们就取消野餐。", "note": "第一条件句:if 从句用一般现在时 rains,主句用 will。" },
+    { "en": "If I were you, I would take that opportunity.", "cn": "如果我是你,我就会抓住那个机会。", "note": "第二条件句:与现在事实相反,be 动词一律用 were。" },
+    { "en": "If you had prepared earlier, you would have passed the exam.", "cn": "如果你早做准备,你早就通过考试了。", "note": "第三条件句:与过去事实相反,从句过去完成,主句 would have done。" },
+    { "en": "Had I known the answer, I would have told you.", "cn": "要是我知道答案,我早就告诉你了。", "note": "省略 if 的倒装结构:Had 提前,从句主语后置。" }
+  ],
+  "errors": [
+    { "wrong": "If it will rain tomorrow, we will stay home.", "right": "If it rains tomorrow, we will stay home.", "note": "if 条件从句中不用 will,用一般现在时表将来。" },
+    { "wrong": "If I was you, I would apologize.", "right": "If I were you, I would apologize.", "note": "虚拟条件句中 be 动词一律用 were,不用 was。" },
+    { "wrong": "If he had come earlier, he would see her.", "right": "If he had come earlier, he would have seen her.", "note": "与过去相反时,主句要用 would have done,与从句时态配对。" }
+  ],
+  "quiz": [
+    { "q": "If you ___ hard, you will succeed.", "options": ["work", "worked", "will work", "would work"], "answer": 0, "note": "第一条件句:if 从句用一般现在时。" },
+    { "q": "If I ___ a bird, I would fly freely.", "options": ["am", "was", "were", "be"], "answer": 2, "note": "与现在事实相反的虚拟,be 用 were。" },
+    { "q": "If she ___ the truth, she would not have lied.", "options": ["knows", "knew", "had known", "has known"], "answer": 2, "note": "与过去相反,从句用过去完成时 had known。" },
+    { "q": "___ you need help, just call me.", "options": ["Will", "If", "Had", "Should"], "answer": 3, "note": "Should 提头省略 if,表示\"万一\",这是正式用法。" },
+    { "q": "If you heat ice, it ___ into water.", "options": ["will melt", "melts", "melted", "would melt"], "answer": 1, "note": "零条件句表普遍真理,主句用一般现在时。" }
+  ]
+}

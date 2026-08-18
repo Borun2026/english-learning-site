@@ -1,0 +1,192 @@
+{
+  "id": "a-s1u1",
+  "stage": 1,
+  "unitId": "s1u1",
+  "title": "My Name is Li Hua",
+  "source": "自编(受控用词)· 语法点对照新概念英语第一册 Lesson 1-2",
+  "newWords": ["hello", "name", "student", "university", "sister", "teacher", "brother", "doctor", "happy", "family", "want", "future", "english", "first", "year"],
+  "examIds": ["e-s1u1"],
+  "sentences": [
+    {
+      "text": "Hello, my name is Li Hua.",
+      "translation": "你好,我叫李华。",
+      "chunks": [
+        { "label": "插入语", "color": "#9fd8e8", "text": "Hello" },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "my name is Li Hua",
+          "parts": [
+            { "role": "主语", "text": "my name" },
+            { "role": "谓语(系动词)", "text": "is" },
+            { "role": "表语", "text": "Li Hua" }
+          ]
+        }
+      ],
+      "grammar": [
+        { "name": "主系表结构", "note": "my name 是主语,is 是系动词,Li Hua 是表语,表示\"我的名字是李华\"。", "example": "My name is Tom.", "exampleCn": "我叫汤姆。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "my name is Li Hua", "name": "主系表结构" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "Hello, my name ___ Li Hua.", "options": ["am", "is", "are"], "answer": "is", "note": "my name 是单数主语,be 动词用 is。", "point": "主系表结构" },
+        { "type": "judge", "prompt": "My name are Li Hua.", "options": ["正确", "错误"], "answer": "错误", "note": "主语 my name 是单数,应说 My name is Li Hua。", "point": "be 动词" }
+      ]
+    },
+    {
+      "text": "I am a student in Beijing.",
+      "translation": "我是北京的一名学生。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I am a student in Beijing",
+          "parts": [
+            { "role": "主语", "text": "I" },
+            { "role": "谓语(系动词)", "text": "am" },
+            { "role": "表语", "text": "a student in Beijing" }
+          ]
+        }
+      ],
+      "grammar": [
+        { "name": "be 动词 am", "note": "主语是 I 时,be 动词用 am。", "example": "I am happy.", "exampleCn": "我很开心。" },
+        { "name": "介词短语作定语", "note": "in Beijing 修饰 student,说明\"在哪里的\"学生。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "I am", "name": "be 动词 am" },
+        { "grammarId": "g-s1u1", "phrase": "in Beijing", "name": "介词短语作定语" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "I ___ a student in Beijing.", "options": ["am", "is", "are"], "answer": "am", "note": "主语是 I 时,be 动词永远用 am。", "point": "be 动词 am" },
+        { "type": "rewrite", "prompt": "仿写:用「I am + 职业 + in + 城市」介绍你自己。", "answer": "I am a teacher in Shanghai.", "note": "结构:I am + 职业 + in + 城市,例如 I am a doctor in Wuhan。", "point": "主系表结构" }
+      ]
+    },
+    {
+      "text": "This is my first year at university.",
+      "translation": "这是我在大学的第一年。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "This is my first year at university",
+          "parts": [
+            { "role": "主语", "text": "This" },
+            { "role": "谓语(系动词)", "text": "is" },
+            { "role": "表语", "text": "my first year at university" }
+          ]
+        }
+      ],
+      "grammar": [
+        { "name": "this 作主语", "note": "this 指\"这/这个人/这件事\",指示代词作主语,be 用 is。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "This is", "name": "this 作主语" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "This ___ my first year at university.", "options": ["is", "am", "are"], "answer": "is", "note": "this 作主语视为单数,be 动词用 is。", "point": "this 作主语" },
+        { "type": "translate", "prompt": "回译:这是我在大学的第一年。", "answer": "This is my first year at university.", "note": "对照原文检查:this is + 表语 + 地点定语 at university。", "point": "主系表结构" }
+      ]
+    },
+    {
+      "text": "My sister is a teacher, and my brother is a doctor.",
+      "translation": "我姐姐是老师,我哥哥是医生。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "My sister is a teacher",
+          "parts": [
+            { "role": "主语", "text": "My sister" },
+            { "role": "谓语(系动词)", "text": "is" },
+            { "role": "表语", "text": "a teacher" }
+          ]
+        },
+        { "label": "连词", "color": "#f6c177", "text": "and" },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "my brother is a doctor",
+          "parts": [
+            { "role": "主语", "text": "my brother" },
+            { "role": "谓语(系动词)", "text": "is" },
+            { "role": "表语", "text": "a doctor" }
+          ]
+        }
+      ],
+      "grammar": [
+        { "name": "and 连接两个并列句", "note": "and 连接两个主系表句子,构成并列句。", "example": "He is kind and she is smart.", "exampleCn": "他很善良,她很聪明。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "My sister is a teacher, and my brother is a doctor", "name": "and 连接并列句" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "My sister is a teacher, and my brother ___ a doctor.", "options": ["is", "am", "are"], "answer": "is", "note": "my brother 是单数主语,be 动词用 is。", "point": "be 动词 is" },
+        { "type": "judge", "prompt": "and 可以连接两个完整的句子,构成并列句。", "options": ["正确", "错误"], "answer": "正确", "note": "My sister is a teacher. + My brother is a doctor. 用 and 连接成并列句。", "point": "并列句" }
+      ]
+    },
+    {
+      "text": "We are a happy family.",
+      "translation": "我们是幸福的一家人。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "We are a happy family",
+          "parts": [
+            { "role": "主语", "text": "We" },
+            { "role": "谓语(系动词)", "text": "are" },
+            { "role": "表语", "text": "a happy family" }
+          ]
+        }
+      ],
+      "grammar": [
+        { "name": "be 动词 are", "note": "主语是复数 we 时,be 动词用 are。" },
+        { "name": "形容词作定语", "note": "happy 修饰 family,形容词放在名词前面。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "We are", "name": "be 动词 are" },
+        { "grammarId": "g-s1u1", "phrase": "a happy family", "name": "形容词作定语" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "We ___ a happy family.", "options": ["are", "is", "am"], "answer": "are", "note": "主语是复数 we,be 动词用 are。", "point": "be 动词 are" },
+        { "type": "judge", "prompt": "形容词 happy 放在名词 family 前面作定语。", "options": ["正确", "错误"], "answer": "正确", "note": "英文形容词作定语时放在名词前:happy family(不能说 family happy)。", "point": "形容词作定语" }
+      ]
+    },
+    {
+      "text": "I want to be an English teacher in the future.",
+      "translation": "将来我想成为一名英语老师。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I want to be an English teacher",
+          "parts": [
+            { "role": "主语", "text": "I" },
+            { "role": "谓语", "text": "want" },
+            { "role": "宾语(不定式)", "text": "to be an English teacher" }
+          ]
+        },
+        { "label": "时间状语", "color": "#8ab4f8", "text": "in the future" }
+      ],
+      "grammar": [
+        { "name": "want to do", "note": "want 后面接 to do(不定式),表示\"想做某事\"。", "example": "I want to go home.", "exampleCn": "我想回家。" },
+        { "name": "in the future 时间状语", "note": "in the future 表示\"将来\",放在句末作时间状语。" }
+      ],
+      "grammarTags": [
+        { "grammarId": "g-s1u1", "phrase": "want to be", "name": "want to do" },
+        { "grammarId": "g-s1u1", "phrase": "in the future", "name": "时间状语" }
+      ],
+      "exercises": [
+        { "type": "blank", "prompt": "I want ___ be an English teacher in the future.", "options": ["to", "for", "of", "in"], "answer": "to", "note": "want 后面接不定式 to do,表示\"想做某事\"。", "point": "want to do" },
+        { "type": "rewrite", "prompt": "仿写:用「I want to be + 职业」说出你的理想职业。", "answer": "I want to be a doctor in the future.", "note": "结构:I want to be + a/an + 职业,时间状语 in the future 放句末。", "point": "want to do" }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    { "grammarId": "g-s1u1", "name": "主系表结构", "note": "主语 + be 动词 + 表语,表示\"是什么/怎么样\"。", "sourceExample": "My name is Li Hua.", "sourceExampleCn": "我叫李华。" },
+    { "grammarId": "g-s1u1", "name": "be 动词三种形式", "note": "I 用 am;单数用 is;复数 you/we/they 用 are。", "sourceExample": "We are a happy family.", "sourceExampleCn": "我们是幸福的一家人。" },
+    { "grammarId": "g-s1u1", "name": "and 连接并列句", "note": "and 连接两个完整句子,构成并列句。", "sourceExample": "My sister is a teacher, and my brother is a doctor.", "sourceExampleCn": "我姐姐是老师,我哥哥是医生。" },
+    { "grammarId": "g-s1u1", "name": "want to do", "note": "want 后接不定式 to do,表示\"想做某事\"。", "sourceExample": "I want to be an English teacher in the future.", "sourceExampleCn": "将来我想成为一名英语老师。" }
+  ]
+}

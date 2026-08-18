@@ -1,0 +1,48 @@
+{
+  "id": "d-s2u11",
+  "stage": 2,
+  "unitId": "s2u11",
+  "scene": "天气预报讨论",
+  "goal": "确定周末活动安排",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "朋友 Kate", "line": "The weekend is coming! I am so excited. Do you have any plans for Saturday?", "lineCn": "周末就要来了!我好兴奋。你周六有什么打算吗?", "grammar": [ { "name": "will / be going to 的区分", "note": "be going to 表已有计划的打算,will 表临时决定或预测。" } ],
+      "options": [
+        { "text": "I am going to hike in the mountains with my family on Saturday. Do you want to come?", "textCn": "我周六打算和家人去爬山,你想一起来吗?", "feedback": "用 be going to 表达既定计划,还发出邀请。", "next": "n2" },
+        { "text": "I am going to sleep all day.", "textCn": "我打算睡一整天。", "feedback": "计划太闷,周末白白浪费。", "next": "n3" },
+        { "text": "I am a student.", "textCn": "我是学生。", "feedback": "答非所问,与计划毫无关系。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "朋友 Kate", "line": "Hiking sounds fun! But wait, I just checked the weather. It is going to rain heavily on Saturday morning.", "lineCn": "爬山听起来不错!不过等等,我刚看了天气,周六上午会下大雨。", "grammar": [ { "name": "be going to 表预测", "note": "根据现有迹象预测:It is going to rain,比 will 更有依据。" } ],
+      "options": [
+        { "text": "Oh no! If it is going to rain, I will change the hike to Sunday. What about you?", "textCn": "糟糕!如果真要下雨,我就把爬山改到周日。你呢?", "feedback": "用 be going to 预判天气,will 临时决定改期,运用得当。", "next": "n4" },
+        { "text": "It will not rain. The weather app is always wrong.", "textCn": "不会下雨的,天气软件总是出错。", "feedback": "无视天气预报,坚持原计划,容易被淋成落汤鸡。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "朋友 Kate", "line": "Hey, wake up! Let us think about the weekend together. What are you going to do if the weather is nice on Sunday?",
+      "lineCn": "嘿,打起精神!我们一起想想周末吧。要是周日天气好,你打算做什么?", "grammar": [ { "name": "be going to 问计划", "note": "What are you going to do...? 询问已安排好的打算。" } ],
+      "options": [
+        { "text": "I am going to visit the new art museum if it is sunny. There is a special exhibition this week!", "textCn": "如果天晴,我打算去新美术馆,这周有特别展览!", "feedback": "结合天气用 be going to 给出具体安排。", "next": "n2" },
+        { "text": "I will decide when I wake up on Sunday.", "textCn": "我周日醒来再决定。", "feedback": "没有计划,没法和朋友安排活动。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "朋友 Kate", "line": "Good idea to move it to Sunday! According to the forecast, it will clear up on Sunday afternoon. The sun will be out after lunch.",
+      "lineCn": "改到周日是好主意!天气预报说周日午后会转晴,午饭后太阳就出来了。", "grammar": [ { "name": "will 表客观预测", "note": "will + 动词原形用于较客观的天气预报,如 it will clear up。" } ],
+      "options": [
+        { "text": "Perfect! Then I am going to prepare the food tonight, and we will set off at 8 a.m. on Sunday.", "textCn": "完美!那我今晚就准备吃的,我们周日早上八点出发。", "feedback": "be going to 表准备计划,will 表出发约定,安排明确。", "next": "n6" },
+        { "text": "Hmm, I will think about it later. Maybe I will not go at all.", "textCn": "嗯,我晚点再想。也许我干脆不去了。", "feedback": "临阵退缩,让朋友失望。", "next": "fail2" }
+      ] },
+    "n5": { "id": "n5", "speaker": "朋友 Kate", "line": "Trust me, I have seen the radar. It is going to pour, not just rain lightly. We are going to get soaked if we go hiking on Saturday.",
+      "lineCn": "相信我,我看过雷达了。那会是大暴雨,不是小雨。周六去爬山我们会全身湿透的。", "grammar": [ { "name": "be going to 表强烈迹象", "note": "根据雷达等证据用 be going to 预测,比 will 更确定。" } ],
+      "options": [
+        { "text": "You are right. I will postpone it and check the forecast again tonight. Thanks for the warning!", "textCn": "你说得对。我会推迟活动,今晚再看一遍预报。谢谢提醒!", "feedback": "接受建议并用 will 表达临时调整,理性务实。", "next": "n4" },
+        { "text": "I do not care about the rain. I will go anyway.", "textCn": "我不在乎下雨,我偏要去。", "feedback": "一意孤行,大概率被雨淋。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "朋友 Kate", "line": "Deal! I will bring the umbrella just in case. Are you going to invite your brother too?",
+      "lineCn": "说定了!以防万一我会带上伞。你打算也邀请你弟弟吗?", "grammar": [ { "name": "be going to 表意图", "note": "Are you going to...? 询问对方已打算好的安排。" } ],
+      "options": [
+        { "text": "Yes, I am going to ask him tonight. If he is free, he will join us. It is going to be a great trip!", "textCn": "是的,我今晚就问他。要是他有空就会一起来。这趟肯定很棒!", "feedback": "计划、条件、预测三种结构都用上了,周末安排确定。", "next": "success" },
+        { "text": "I will not invite anyone. Just us, or nobody.", "textCn": "我谁都不邀请,要么就我们俩,要么都不去。", "feedback": "反复不定,朋友的心情都凉了半截。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "朋友 Kate", "line": "Wonderful! Sunday, 8 a.m., mountain hike. I am going to bring the sandwiches. See you then!", "lineCn": "太棒了!周日早八点,爬山。我负责带三明治,到时见!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "朋友 Kate", "line": "Okay, but then do not complain later that the weekend was boring!", "lineCn": "好吧,不过到时候可别抱怨周末无聊!", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "朋友 Kate", "line": "Whatever you decide. I will just stay home and watch a movie then.", "lineCn": "随你吧,那我就待在家看场电影。", "end": true, "success": false }
+  }
+}

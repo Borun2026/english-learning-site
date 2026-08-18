@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u3",
+  "stage": 3,
+  "unitId": "s3u3",
+  "title": "听力挑战 · 描述新闻事件",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "Did you watch the news about the big earthquake last night?",
+      "lineCn": "你昨晚看大地震的新闻了吗?",
+      "grammar": [
+        { "name": "分词作后置定语", "note": "现在分词 arriving 修饰 team,相当于定语从句 who arrived。" }
+      ],
+      "options": [
+        { "text": "Yes, the team arriving first saved many people.", "correct": true, "feedback": "arriving first 作后置定语修饰 team,结构正确。" },
+        { "text": "No, the earthquake happened long ago.", "correct": false, "feedback": "混淆时间,昨晚的新闻与旧闻混淆。" },
+        { "text": "Yes, I live near the ocean.", "correct": false, "feedback": "谈居住地点,与新闻内容无关。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "What do you think of the story in the paper?",
+      "lineCn": "你觉得报纸上那篇报道怎么样?",
+      "grammar": [
+        { "name": "过去分词作后置定语", "note": "written by... 作定语修饰 story,表示'被……写的'。" }
+      ],
+      "options": [
+        { "text": "The story written by a young reporter is moving.", "correct": true, "feedback": "written by 过去分词短语作定语,表达准确。" },
+        { "text": "The paper was sold out yesterday.", "correct": false, "feedback": "谈报纸售罄,没有评价报道内容。" },
+        { "text": "Paper is made from trees.", "correct": false, "feedback": "陈述纸张原料,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "Have you seen the photos taken by the young journalist this week?",
+      "lineCn": "你看了这周那位年轻记者拍的照片吗?",
+      "grammar": [
+        { "name": "分词作定语表被动", "note": "taken by 过去分词短语修饰 photos,表示'被拍的'。" }
+      ],
+      "options": [
+        { "text": "Yes, the photo showing the rescue touched my heart.", "correct": true, "feedback": "showing 现在分词作定语,评价照片内容贴切。" },
+        { "text": "The journalist took them yesterday.", "correct": false, "feedback": "谈拍摄动作,没有回答是否看过照片。" },
+        { "text": "No, I have never been to a hospital.", "correct": false, "feedback": "谈医院经历,与照片话题无关。" }
+      ]
+    }
+  ]
+}

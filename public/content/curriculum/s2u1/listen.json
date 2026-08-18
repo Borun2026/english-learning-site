@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u1",
+  "stage": 2,
+  "unitId": "s2u1",
+  "title": "听力挑战 · 咖啡馆点餐",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "服务员",
+      "line": "Good morning! Are you ready to order now?",
+      "lineCn": "早上好!您现在准备点餐了吗?",
+      "grammar": [
+        { "name": "现在进行时表状态", "note": "Are you ready 用 be 动词加形容词表示当前状态;现在进行时也可表示正在进行的动作。" }
+      ],
+      "options": [
+        { "text": "Yes, I would like a large latte.", "correct": true, "feedback": "明确表达点餐意愿,直接回应服务员。" },
+        { "text": "No, I was late this morning.", "correct": false, "feedback": "说的是今天早上的迟到,没有回应点餐问题。" },
+        { "text": "The coffee smells really good.", "correct": false, "feedback": "只评论咖啡香味,没有点餐。" }
+      ]
+    },
+    {
+      "speaker": "服务员",
+      "line": "What are you having for your drink today?",
+      "lineCn": "您今天想喝点什么?",
+      "grammar": [
+        { "name": "现在进行时表将来安排", "note": "What are you having 用进行时询问将要进行的动作,口语中常表计划。" }
+      ],
+      "options": [
+        { "text": "I am having an iced tea, please.", "correct": true, "feedback": "用现在进行时回应点单,时态与问句一致。" },
+        { "text": "I had hot tea yesterday.", "correct": false, "feedback": "过去时说的是昨天喝的,不是现在的选择。" },
+        { "text": "I will have dinner soon.", "correct": false, "feedback": "说的是晚饭,不是饮料。" }
+      ]
+    },
+    {
+      "speaker": "服务员",
+      "line": "Would you like anything to eat as well?",
+      "lineCn": "还需要来点什么吃的吗?",
+      "grammar": [
+        { "name": "进行时与意愿表达", "note": "Would you like 询问意愿,可结合 would like 结构作答。" }
+      ],
+      "options": [
+        { "text": "Yes, I would like a cheese sandwich.", "correct": true, "feedback": "回应食物询问,点单明确完整。" },
+        { "text": "I am eating my lunch now.", "correct": false, "feedback": "正在吃午饭与点餐场景矛盾,也没有点单。" },
+        { "text": "The menu is on the table.", "correct": false, "feedback": "说的是菜单位置,没有回应询问。" }
+      ]
+    }
+  ]
+}

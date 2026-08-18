@@ -1,0 +1,59 @@
+{
+ "id": "cet6-039",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第2套) Passage 1",
+ "title": "Last year, a child was born at a hospital in the UK with her heart outside he...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Last year, a child was born at a hospital in the UK with her heart outside her body. Few babies survive this rare condition, and those who do must endure numerous operations and are likely to have complex needs. When her mother was interviewed, three weeks after her daughter's birth, she was asked if she was prepared for what might be a daunting ( 4--A. !1. ) task caring for her. She answered without hesitation that, as far as she was concerned, this would be a \" privilege\" .",
+  "Rarely has there been a better example of the power of attitude, one of our most powerful psychological tools. Our attitudes allow us to turn mistakes into opportunities, and loss into the chance for new beginnings. An attitude is a settled way of thinking, feeling and/or behaving towards particular objects, people, events or ideologies. We use our attitudes to filter, interpret and react to the world around us. You weren't born with attitudes; rather they are all learned, and this happens in a number of ways.",
+  "The most powerful influences occur during early childhood and include both what happened to you directly, and what those around you did and said in your presence. As you acquire a distinctive identity, your attitudes are further refined by the behavior of those with whom you identify-your family, those of your gender and culture, and the people you admire, even though you may not know them personally. Friendships and other important relationships become increasingly important, particularly during adolescence. About that same time and throughout adulthood, the information you receive, especially when ideas are repeated in association with goals and achievements you find attractive, also refines your attitudes.",
+  "Many people assume that our attitudes are internally consistent, that is, the way you think and feel about someone or something predicts your behavior towards them. However, many studies have found that feelings and thoughts don't necessarily predict behavior. In general, your attitudes will be internally consistent only when the behavior is easy, and when those around you hold similar beliefs. That's why, for example, many say they believe in the benefits of recycling or exercise, but don't behave in line with their views, because it takes awareness, effort and courage to go beyond merely stating that you believe something is a good idea.",
+  "One of the most effective ways to change an attitude is to start behaving as if you already feel and think the way you'd prefer to. Take some time to reflect on your attitudes, to think about what you believe and why. Is there anything you consider a burden rather than a privilege? If so, start behaving-right now-as if the latter is the case."
+ ],
+ "questions": [
+  {
+   "q": "文中 “outside” 最接近的意思是?",
+   "options": [
+    "必要地",
+    "直接地,径直地",
+    "宁可，宁愿",
+    "向外面"
+   ],
+   "answer": 3,
+   "analysis": "“outside” 意为「向外面」。原文语境:Last year, a child was born at a hospital in the UK with her heart outside her body.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:You weren't born with attitudes; rather they are all learned, and this happens in a ___ of ways.",
+   "options": [
+    "prefer",
+    "number",
+    "react",
+    "acquire"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“You weren't born with attitudes; rather they are all learned, and this happens in a number of ways.”。空格处应填入 “number”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal",
+    "Last year, a child was born at a hospital in the UK with her heart outside he",
+    "It is the season for some frantic last-minute math across the country, employ",
+    "Is hunting good or bad for the environment"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Last year, a child was born at a hospital in the UK with her heart outside her body.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

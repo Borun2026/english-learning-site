@@ -1,0 +1,323 @@
+{
+ "id": "z2006-cloze-0",
+ "year": 2006,
+ "section": "cloze",
+ "index": 0,
+ "source": "2006年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "The homeless make up a growing percentage of America’s population.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___1___ , homelessness has reached such proportions that local governments can’t possibly ___2___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "To help homeless people ___3___ independence, the federal government must support job training programs, ___4___ the minimum wage, and fund more low-cost housing.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___5___ everyone agrees on the number of Americans who are homeless.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Estimates ___6___ anywhere from 600,000 to 3 million.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___7___ the figure may vary, analysts do agree on another matter: that the number of the homeless is ___8___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "One of the federal government’s studies ___9___ that the number of the homeless will reach nearly 19 million by the end of this decade.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Finding ways to ___10___ this growing homeless population has become increasingly difficult.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___11___ when homeless individuals manage to find a ___12___ that will give them three meals a day and a place to sleep at night, a good number still spend the bulk of each day ___13___ the street.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Part of the problem is that many homeless adults are addicted to alcohol or drugs.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "And a significant number of the homeless have serious mental disorders.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Many others, ___14___ not addicted or mentally ill, simply lack the everyday ___15___ skills needed to turn their lives ___16___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Boston Globe reporter Chris Reidy notes that the situation will improve only when there are ___17___ programs that address the many needs of the homeless.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___18___ Edward Zlotkowski, director of community service at Bentley College in Massachusetts, ___19___ it, “There has to be ___20___ of programs.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "What’s needed is a package deal.”",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "Indeed",
+    "Likewise",
+    "Therefore",
+    "Furthermore"
+   ],
+   "answer": 0,
+   "analysis": "空前后是两个独立的句子,显然填入空的词应该表示这两个句子之间逻辑关系的内容,空前谈到“无家可\n归者在美国人口中的比例越来越大”,空后“无家可归者达到如此高的比例,以至于到了当地政府无法……”。从\n两句的内容看,空前内容是两句中的论点,空后是对该论点的具体事实说明,能表征此类关系的只有选项A。故答\n案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "stand",
+    "cope",
+    "approve",
+    "retain"
+   ],
+   "answer": 1,
+   "analysis": "空所在的句意为:无家可归问题已经达到了如此的规模,以至于地方政府都不能。从句意可以看出这里应\n该表示问题的严重性,以至于政府都难以应对了,能表示“处理、应对”的只有cope。故本题答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "in",
+    "for",
+    "with",
+    "toward"
+   ],
+   "answer": 3,
+   "analysis": "从空所在的位置可以判断出本题考查的是help后面的介词搭配的用法。helpsb.indoingsth.,表示“帮助\n某人做什么事”,in后面接动名词(固定用法)。helpsb.withsth.意为“通过做某件事帮助别人完成这件事”,两\n者代入文中,语意上讲不通。for表示目的,帮助某人,前面不定式已经表示了目的,“为了帮助无家可归的人为了\n独立”语意也不通。toward表示“趋向,接近”,后面常接抽象名词,符合文意。故正确答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "raise",
+    "add",
+    "take",
+    "keep"
+   ],
+   "answer": 0,
+   "analysis": "从句中内容可以看出空所在的句子表示为了帮助无家可归的人走向自立,联邦政府需要采取的措施,而这\n种措施必然是改进措施,对于工资来说,改善的条件自然是提高工资,表示涨工资只有A项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Generally",
+    "Almost",
+    "Hardly",
+    "Not"
+   ],
+   "answer": 3,
+   "analysis": "空所在的句子显然是表达人们对无家可归者的数量看法,后面谈到人们的看法从600,000到3million不等,\n这说明人们在这一数量上没有达成一致,因此这个空只能填入一个否定词,C和D比较,显然D代入句中句意更加\n通顺,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "cover",
+    "change",
+    "range",
+    "differ"
+   ],
+   "answer": 2,
+   "analysis": "从该句中“from600,000to3million”判断出,这里应该表示对数字的估计范围。四个选项,可以表示范围\n2的词只有C,range常与from…to搭配表示“从……到……范围”。故正确答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Now that",
+    "Although",
+    "Provided",
+    "Except that"
+   ],
+   "answer": 1,
+   "analysis": "空所在的整个句子前面谈到不一致,后面谈到人们在另外一件事情上保持一致,显然这是一种转折关系,\n能表示这一关系的词只有B,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "inflating",
+    "expanding",
+    "increasing",
+    "extending"
+   ],
+   "answer": 2,
+   "analysis": "从文章前面的内容可以看出,虽然人们在无家可归者的具体数量上有分歧,但在增加的趋势方面是一致的,\n因此空填入的词应该是表示无家可归者数量的增加,而能表示数量的增加只有increasing,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "predicts",
+    "displays",
+    "proves",
+    "discovers"
+   ],
+   "answer": 0,
+   "analysis": "空后说无家可归的数字在这个10年的后半期会达到10million,显然这是表示将来的数据,对于将来的数\n据只能用预测,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "assist",
+    "track",
+    "sustain",
+    "dismiss"
+   ],
+   "answer": 0,
+   "analysis": "从本句后面的内容我们可以看出,这里应该指的是找到能帮助无家可归者的方法变得困难了,表示这一含\n义的词为A,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Hence",
+    "But",
+    "Even",
+    "Only"
+   ],
+   "answer": 2,
+   "analysis": "空前谈到无家可归者最终能够找到一个可以给他们提供一日三餐和夜里睡觉的庇护所,空后说他们中的大\n部分人仍然在大街上流浪。这两句显然构成让步关系,C符合语境,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "lodging",
+    "shelter",
+    "dwelling",
+    "house"
+   ],
+   "answer": 1,
+   "analysis": "对于人数众多的无家可归者,其身份类似于难民,对于这种身份的人,显然庇护所对他们来说是最贴切的\n词,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "searching",
+    "strolling",
+    "crowding",
+    "wandering"
+   ],
+   "answer": 3,
+   "analysis": "四个选项中,B和D比较接近,但stroll指很闲适的散步,显然无家可归者不可能还能很闲适地在大街上\n散步,而wandering表示一种漫无目的的游荡,很适合形容这些无家可归者,因此答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "when",
+    "once",
+    "while",
+    "whereas"
+   ],
+   "answer": 2,
+   "analysis": "从空所在句子的内容可以看出这句应该是对另外一种,由于无生活技能而无家可归的人,前面谈到无家可\n3归者是由于精神方面的疾病,这里谈到精神正常的人也有无家可归者,两者形成对比,故本空选择C合适,表示对\n比关系。"
+  },
+  {
+   "q": "",
+   "options": [
+    "life",
+    "existence",
+    "survival",
+    "maintenance"
+   ],
+   "answer": 2,
+   "analysis": "空格的上段对赌场给威廉姆斯提供的服务给出的总结是“这些赌博活动变成了他称为的‘电子海洛因’”。\n空后则给出了一系列他赌博输钱的情况。既然是海洛因,那么自然是表示有上瘾的功能,说明他会继续赌博,显然\n空后的内容正是这一说法的实证描述,那么作为在这中间的空自然也是谈到赌博输钱的内容,查看选项,只有C满\n足题意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "around",
+    "over",
+    "on",
+    "up"
+   ],
+   "answer": 0,
+   "analysis": "结合句意,这里表达的应该是使他们生活变好,四个词组中,只有A表达这个意思,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "complex",
+    "comprehensive",
+    "complementary",
+    "compensating"
+   ],
+   "answer": 1,
+   "analysis": "从句子结构可以看出,填入的是修饰program的,这是怎么样的一个program呢?后面的定语从句有说明,\n这个program可以解决无家可归者许多需求,那么四个选项当中能满足这一要求的只有B项,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "So",
+    "Since",
+    "As",
+    "Thus"
+   ],
+   "answer": 2,
+   "analysis": "这个空要结合其后面的内容,上句谈到是comprehensiveprogram,后面一句谈到的是apackagedeal,两者\n显然是指差不多的内容,两者相当的内容,只能是并列结构,只有C是表示这种关系的连词,故答案为C。如果考\n生平时应注意积累一些常用的固定短语的话,本题可以与19题连起来考虑,as…putit是一个固定表达,意为“正\n如……所说的那样”。同样可以得出答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "puts",
+    "interprets",
+    "assumes",
+    "makes"
+   ],
+   "answer": 0,
+   "analysis": "本题解析参见第18题。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "supervision",
+    "manipulation",
+    "regulation",
+    "coordination"
+   ],
+   "answer": 3,
+   "analysis": "前面谈到是一个综合的方案,后面又说到是一个一揽子计划,对于这种计划,最重要的当然是要能调和各\n方利益,故答案为D。\n三、全文翻译\n无家可归者占美国人口的比例越来越大。实际上,无家可归者的问题已经达到如此规模,连地方政府都无法应\n对了。为了帮助无家可归者走向独立,联邦政府必须支持就业培训项目、提高最低工资并资助建设更多低价住房。\n大家对于美国到底有多少无家可归者的意见并不一致,估计数量在60万到300万之间。尽管人们估计的数字可\n能各不相同,但是分析家们在一件事上的确达成了共识,即无家可归者的数量正在增长。联邦政府的一项研究预测,\n在这个十年结束之前,无家可归者的数量将接近1900万。\n设法帮助日益增多的无家可归者变得越来越艰巨。即使无家可归者找到了庇护所,白天有三餐,晚上能安眠,\n仍然还有很多人每天大部分时间流落街头。部分问题是,许多无家可归的成年人都是酒鬼或者瘾君子;并且相当多\n的无家可归者患有严重的精神疾病;还有许多人虽然不喝酒吸毒,精神也正常,但就是没有改善生活现状的基本生\n存技能。《波士顿环球日报》记者克里斯·雷迪认为只有通过全面规划解决无家可归者的各种需求,这种局面才有\n4可能得到改善。用马萨诸塞州本特里学院社区服务部主任爱德华·兹罗特科瓦斯克的话来说就是:“各种规划必须"
+  }
+ ]
+}

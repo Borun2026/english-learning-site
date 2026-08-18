@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u1",
+  "stage": 2,
+  "title": "进行时(现在/过去进行时)",
+  "explanation": "## 现在进行时\n\n**构成:am / is / are + 动词 -ing**\n\n表示说话时正在进行的动作,常与 now、look、listen、at the moment 等连用。\n\n- Look! They are playing football.\n- 注意:like、love、want、know 等**状态动词**一般不用进行时。\n\n## 过去进行时\n\n**构成:was / were + 动词 -ing**\n\n表示过去某个时刻正在进行的动作,常与 at eight last night、at that time 等连用,也常与 when / while 引导的时间状语从句配合。\n\n## 用法对比\n\n| 场景 | 用进行时 | 用一般时 |\n|---|---|---|\n| 此刻正在做 | I am reading. | ❌ |\n| 经常习惯 | ❌ | I read every day. |\n| 过去某刻正在做 | I was reading at 8. | ❌ |\n\n口诀:进行时是\"正在进行\"的画面,一般时是\"经常发生\"的习惯。",
+  "examples": [
+    { "en": "Look! The children are playing football.", "cn": "看!孩子们正在踢足球。", "note": "look 提示动作正在进行,用现在进行时 are playing。" },
+    { "en": "I was watching TV at eight last night.", "cn": "昨晚八点我正在看电视。", "note": "过去某一时刻正在做,用 was + doing。" },
+    { "en": "She is reading a book now.", "cn": "她正在读书。", "note": "now 与现在进行时连用,is reading。" },
+    { "en": "While I was cooking, the phone rang.", "cn": "我做饭时电话响了。", "note": "while 后常用过去进行时,主句用一般过去时 rang。" }
+  ],
+  "errors": [
+    { "wrong": "I am knowing the answer.", "right": "I know the answer.", "note": "know 是状态动词,不能用进行时。" },
+    { "wrong": "She was cook dinner at six.", "right": "She was cooking dinner at six.", "note": "过去进行时是 was + 动词 -ing。" },
+    { "wrong": "They are play games now.", "right": "They are playing games now.", "note": "现在进行时要 be + 动词 -ing 形式。" }
+  ],
+  "quiz": [
+    { "q": "Listen! Someone ___ the piano.", "options": ["plays", "is playing", "played", "play"], "answer": 1, "note": "listen 提示动作正在发生,用现在进行时。" },
+    { "q": "At seven last night, I ___ my homework.", "options": ["do", "am doing", "was doing", "did"], "answer": 2, "note": "过去某一时刻正在做,用 was doing。" },
+    { "q": "My mother ___ dinner now.", "options": ["cook", "cooks", "is cooking", "cooked"], "answer": 2, "note": "now 提示正在进行,用 is cooking。" },
+    { "q": "They ___ TV when I came in.", "options": ["watch", "are watching", "were watching", "watched"], "answer": 2, "note": "came in 是过去参照点,当时正在看用 were watching。" },
+    { "q": "While she ___, the doorbell rang.", "options": ["cook", "cooked", "was cooking", "cooking"], "answer": 2, "note": "while 后常用过去进行时 was cooking。" }
+  ]
+}

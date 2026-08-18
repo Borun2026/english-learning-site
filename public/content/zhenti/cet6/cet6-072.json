@@ -1,0 +1,62 @@
+{
+ "id": "cet6-072",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第1套) Passage 2",
+ "title": "Degradation of the world's natural resources by humans is rapidly outpacing t...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 444,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found. The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer countries.",
+  "Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people. There appears little prospect of this desperate situation being remedied without radical action being taken. Water sources are under increasing threat from population growth, climate change, rapid urbanisation, rising levels of consumption, and the degradation of lands that previously provided a natural replenishment of water resources.",
+  "The rate of damage to the natural environment was found to increase globally, despite concerted efforts to persuade governments to take measures to improve the condition. \"If current trends continue, and the world fails to improve patterns of production and consumption, then the state of the world's environment will continue to decline,\" warned UN executive director Achim Steiner.",
+  "He said the tools for improving the environment for millions of people existed in developed countries, but were in danger of not being used.",
+  "The study found that basic measures to tackle some of the key causes of environmental damage were still not being taken. These included measures to reduce air pollution; to control the damage to marine eco-systems, which can have a huge effect on fish stocks on which hundreds of millions of people depend; and to curb the degradation of land where modern agricultural methods were pursued without regard to the longer-term consequences.",
+  "Despite the recent global agreement on cutting greenhouse gas emissions, global carbon output continues to rise. This will put a long-term strain on the ability of developing economies to feed their own people. Climate",
+  "change is aggravated by the emissions of greenhouse gases from chemical and natural fertilisers used in agriculture which increased by more than a quarter between 2000 and 2010. Other problem areas identified in the report included glaciers, which provide vital water resources for millions of people, but which are shrinking as the climate warms.",
+  "In rich countries, these problems have built up over decades and centuries while economic growth was pursued at the expense of the environment. Subsequent efforts to remedy the environment have met with partial success. But in developing countries, the path of future development has more potential to change, which has encouraged international institutions to devise more sustainable growth pathways that are supposed both to alleviate poverty and preserve the environment."
+ ],
+ "questions": [
+  {
+   "q": "文中 “impossible” 最接近的意思是?",
+   "options": [
+    "不可能的， 办不到的",
+    "处理，对付",
+    "化学的",
+    "条件，状况，环境"
+   ],
+   "answer": 0,
+   "analysis": "“impossible” 意为「不可能的， 办不到的」。原文语境:The study concludes that without radical action the level of prosperity that millions of people in the developed world count on will be impossible to maintain or extend to poorer c",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing ___ for millions of people.",
+   "options": [
+    "hardship",
+    "threat",
+    "state",
+    "prosperity"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Water scarcity is the curse of some of the poorest regions on Earth, leaving developing countries increasingly unable to feed themselves, and causing hardship for millions of people.”。空格处应填入 “hardship”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Degradation of the world's natural resources by humans is rapidly outpacing t",
+    "In recent years, the food industry has increased its use of labels",
+    "Social media is absolutely everywhere",
+    "Questions 51 to SS are based on the following passage"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Degradation of the world's natural resources by humans is rapidly outpacing the planet's ability to absorb the damage, a recent UN environmental study has found”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

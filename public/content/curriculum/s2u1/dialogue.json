@@ -1,0 +1,102 @@
+{
+  "id": "d-s2u1",
+  "stage": 2,
+  "unitId": "s2u1",
+  "scene": "咖啡馆点餐",
+  "goal": "成功点到咖啡,满意离开",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "咖啡师 Barista",
+      "line": "Good morning! What can I get for you? The machine is still heating up, so please wait a moment.",
+      "lineCn": "早上好!您想要点什么?咖啡机还在预热,请稍等一会儿。",
+      "grammar": [
+        { "name": "现在进行时表进行", "note": "The machine is heating up. be + doing 表示此刻正在进行的动作。" }
+      ],
+      "options": [
+        { "text": "I am having a latte and a croissant, please.", "textCn": "请给我一杯拿铁和一个可颂。", "feedback": "用现在进行时表达了想要的饮品,还点了小食,点餐清晰。", "next": "n2" },
+        { "text": "Coffee.", "textCn": "咖啡。", "feedback": "太笼统,工作人员不知道具体要哪种咖啡。", "next": "n3" },
+        { "text": "I am fine, thank you.", "textCn": "我很好,谢谢。", "feedback": "答非所问,这不是在问候你,而是在问你要点什么。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "咖啡师 Barista",
+      "line": "A latte and a croissant! The croissant is being warmed in the oven. What size would you like?",
+      "lineCn": "一杯拿铁和一个可颂!可颂正在烤箱里加热。您要大杯还是小杯?",
+      "grammar": [
+        { "name": "被动语态的进行时", "note": "The croissant is being warmed. be being + 过去分词表示\"正被加热\"。" }
+      ],
+      "options": [
+        { "text": "A large one, please. And is it being made right now?", "textCn": "请来大杯。现在正在做吗?", "feedback": "回答了尺寸,还用现在进行时追问进度,非常自然。", "next": "n4" },
+        { "text": "Yes.", "textCn": "是的。", "feedback": "没有回答尺寸问题,点单信息不完整。", "next": "n5" },
+        { "text": "I am not sure. What is the price?", "textCn": "我不确定。价格是多少?", "feedback": "没有先确定尺寸就问价格,店员的点单流程被打断。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "咖啡师 Barista",
+      "line": "I see... We have Americano, latte, cappuccino and mocha. What are you thinking of having?",
+      "lineCn": "明白了……我们有美式、拿铁、卡布奇诺和摩卡。您想喝哪一种呢?",
+      "grammar": [
+        { "name": "What are you thinking of having?", "note": "现在进行时表示\"正打算\",后接动名词,询问当下想法。" }
+      ],
+      "options": [
+        { "text": "I am thinking of having a mocha, please.", "textCn": "我想要一杯摩卡。", "feedback": "用 I am thinking of... 说出具体选择,对话回到正轨。", "next": "n2" },
+        { "text": "Whatever. Just bring me something.", "textCn": "随便。给我来点什么就行。", "feedback": "态度敷衍,店员无法确认你到底想要什么。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "咖啡师 Barista",
+      "line": "Yes, the milk is being steamed right now. That will be 28 yuan. Are you paying by card?",
+      "lineCn": "是的,牛奶正在打奶泡。一共 28 元。您刷卡支付吗?",
+      "grammar": [
+        { "name": "be being + 过去分词", "note": "The milk is being steamed. 强调\"此刻正被加热\",由正在进行加被动构成。" }
+      ],
+      "options": [
+        { "text": "Sure, here is my card. I am waiting for my drink near the window.", "textCn": "好的,这是我的卡。我在窗边等着取咖啡。", "feedback": "顺利付款并告知等候位置,全程礼貌清晰。", "next": "success" },
+        { "text": "I do not have money today.", "textCn": "我今天没带钱。", "feedback": "点了餐却付不了款,场面尴尬。", "next": "fail2" },
+        { "text": "Can I pay later? I am really in a hurry now.", "textCn": "我能晚点再付吗?我现在真的很赶时间。", "feedback": "在店里要求赊账很不合适,让店员为难。", "next": "fail2" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "咖啡师 Barista",
+      "line": "No problem. A medium latte is 24 yuan, and a large one is 28. Which one are you getting?",
+      "lineCn": "没问题。中杯拿铁 24 元,大杯 28 元。您要哪一种呢?",
+      "grammar": [
+        { "name": "Which one are you getting?", "note": "get 用现在进行时表示\"打算购买\",常用于点单时的确认。" }
+      ],
+      "options": [
+        { "text": "I am getting a large one, please.", "textCn": "我要大杯的。", "feedback": "明确了尺寸,点单信息完整了。", "next": "n4" },
+        { "text": "I am changing my mind. I do not want coffee anymore.", "textCn": "我改主意了,不想要咖啡了。", "feedback": "反复改主意,让店员无所适从。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "咖啡师 Barista",
+      "line": "Here is your latte and croissant. Enjoy! Have a nice day!",
+      "lineCn": "您的拿铁和可颂好了。请慢用!祝您愉快!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "咖啡师 Barista",
+      "line": "Okay... maybe you need a moment to decide. I will serve the next customer first.",
+      "lineCn": "好吧……也许您需要时间考虑一下。我先给下一位顾客点单了。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "咖啡师 Barista",
+      "line": "I am sorry, but I cannot give you the drink without payment. Please come back another time.",
+      "lineCn": "抱歉,没有付款我不能把饮品给您。请您下次再来吧。",
+      "end": true,
+      "success": false
+    }
+  }
+}

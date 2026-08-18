@@ -1,0 +1,27 @@
+{
+ "id": "economist-0073",
+ "type": "magazine",
+ "journal": "The Economist",
+ "journalEn": "The Economist",
+ "title": "Artificial intelligence is creeping into American lawmaking",
+ "date": "2026-04-25",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 667,
+ "tags": [
+  "general"
+ ],
+ "paragraphs": [
+  "Artificial intelligence is creeping into American lawmaking",
+  "State legislators love using chatbots",
+  "April 23rd 2026",
+  "KENT ROE is a busy man. In addition to his full-time job as a farmland appraiser, he sits on the board of a utility company and on the council of his local Lutheran church. If that wasn’t enough already, for up to 40 days a year he serves as one of 70 lawmakers in South Dakota’s House of Representatives. It is gruelling work, without much help. South Dakota has the smallest legislative staff in the country; roughly 60 staffers help lawmakers with research and drafting legislation.",
+  "These days Mr Roe relies increasingly on artificial intelligence (AI) to manage his workload. The representative says he uses AI chatbots for research, crafting arguments and mulling over talking points. “Honestly I love it,” he  enthuses. “It’s a search engine on steroids.” He sometimes uses AI to help write bits of legislation, too. The lawmaker runs first drafts of bills through Grok, an AI tool developed by Elon Musk’s xAI, to refine his ideas or check which other states might have passed similar laws. He likes to prompt Grok to apply what he calls a “constitutional stress test” on proposed legislation. “It’s an accepted tool, same as a calculator is to do math, or a cell phone is to do phone calls,” he points out. “We’re not in the world of buggy whips anymore.”",
+  "Usage of AI is booming among state lawmakers and their staff. A survey by the National Conference of State Legislatures, a non-partisan grouping of sitting lawmakers, found that 44% of state legislative staff used AI in their work last year, up from just 20% in 2024. Governors and state agencies are also adopting the technology, in part to prune back excessive and badly written regulations. Doomers warn of a deluge of AI-generated “slop laws” gumming up legislatures, to say nothing of representatives merely regurgitating whatever Claude or ChatGPT tells them.",
+  "Most state legislators turn to AI out of need. “You have a lot of workload and no staff to help you out,” laments Nick Hoheisel, a Republican member of the Kansas House of Representatives. He says research that previously took him hours can now be done in a matter of minutes. AI can also help stretched legislators, who are expected to grasp a bewildering array of policy issues, push back against better-resourced lobbyists. Monique Priestley, a Democratic member of the Vermont House of Representatives, says she uses AI to fact-check lobbyists on the fly during committee hearings. “I’ve actually caught lobbyists in lies,” she says.",
+  "For lawmakers using general-purpose models, however, AI making stuff up is a big problem. Mr Roe says he occasionally runs an AI prompt “ten times or a hundred times over” to calibrate for the right answer. Mr Hoheisel, for his part, says AI models hallucinate the most when it comes to case law. In any case, bills drafted with the help of AI are still overseen by lawyers, editors and researchers, notes John McCullough, the head of South Dakota’s legislative research council. But lawyers on legislative councils deal with crushing workloads as it is; a wave of AI-slop laws might easily overwhelm them.",
+  "At a deeper level, there is growing unease that lawmakers too reliant on AI may find it harder to think critically on important issues. Thought processes like writing, problem-solving and reasoning are inherent to the job. Offloading that to an AI raises stark questions about what it means to be a legislator. “I do worry that chatbots take away independent thought,” admits Mr Hoheisel in Kansas. “Your constituents aren’t electing Claude or ChatGPT. They’re electing you.”■",
+  "Stay on top of American politics with The US in brief, our daily newsletter with fast analysis of the most important political news, and Checks and Balance, a weekly note that examines the state of American democracy and the issues that matter to voters.",
+  "This article was downloaded by zlibrary from"
+ ]
+}

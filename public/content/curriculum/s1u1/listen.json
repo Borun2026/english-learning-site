@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u1",
+  "stage": 1,
+  "unitId": "s1u1",
+  "title": "听力挑战 · 问候与自我介绍",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "新同学",
+      "line": "Hello! What is your name?",
+      "lineCn": "你好!你叫什么名字?",
+      "grammar": [
+        { "name": "What is...? 疑问句", "note": "疑问词 What 放在句首,be 动词提前,询问姓名等基本信息。" }
+      ],
+      "options": [
+        { "text": "My name is Lily.", "correct": true, "feedback": "准确回答了姓名问题。" },
+        { "text": "I am twenty years old.", "correct": false, "feedback": "回答的是年龄,不是名字。" },
+        { "text": "Nice to meet you.", "correct": false, "feedback": "这是问候语,没有回答问题。" }
+      ]
+    },
+    {
+      "speaker": "新同学",
+      "line": "Are you from China?",
+      "lineCn": "你来自中国吗?",
+      "grammar": [
+        { "name": "Are you...? 一般疑问句", "note": "be 动词提前构成一般疑问句,用 Yes/No 回答。" }
+      ],
+      "options": [
+        { "text": "Yes, I am from Beijing.", "correct": true, "feedback": "Yes 回答 + 补充具体城市,非常自然。" },
+        { "text": "No, thank you.", "correct": false, "feedback": "这里不是拒绝帮助,thank you 用错了场景。" },
+        { "text": "China is very big.", "correct": false, "feedback": "没有回答问题,只是陈述了一个事实。" }
+      ]
+    }
+  ]
+}

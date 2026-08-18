@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u9",
+  "stage": 3,
+  "title": "时态综合",
+  "explanation": "## 时态综合:一个句子里的时间轴\n\n六级考试常在一个句子里综合考察多种时态。关键是**先定位时间参照点,再选时态**。\n\n## 核心时态一览\n\n1. **现在完成进行时 have/has been doing**:从过去一直持续到现在、可能还在继续的动作,如 I have been studying English for ten years(我学英语十年了,可能还在学)。\n2. **过去完成进行时 had been doing**:过去某时之前一直在进行的动作。\n3. **将来完成时 will have done**:将来某时之前将已完成,如 By next month, I will have finished the project。\n4. **现在完成时 have done 与过去时的区别**:强调结果与现在联系 vs 单纯过去事实。I have lost my key(现在没有钥匙)vs I lost my key yesterday。\n\n## 时间标志词\n\n- 现在完成:since, for, so far, recently, already\n- 完成进行:for + 时间段, since, all day\n- 将来完成:by + 将来时间, by the time\n\n## 时态呼应\n\n主句用过去时,从句也须过去时态系列;主句现在时,从句按需自由。It was said that he had gone abroad。\n\n## 易错点\n\n1. since 从句用过去时,主句用现在完成时:I have lived here since I was a child。\n2. by the time + 过去时,主句用过去完成时。",
+  "examples": [
+    { "en": "I have been reading this novel for three days.", "cn": "这本小说我已经读了三天了。", "note": "现在完成进行时,强调动作持续且可能仍在进行。" },
+    { "en": "By the end of this year, we will have built the bridge.", "cn": "到今年年底,我们将建成这座桥。", "note": "将来完成时,by + 将来时间标志。" },
+    { "en": "She had been working in the company for five years before she quit.", "cn": "辞职前,她在那家公司已经工作了五年。", "note": "过去完成进行时,强调过去的持续。" },
+    { "en": "It is the third time he has made the same mistake.", "cn": "这是他第三次犯同样的错误。", "note": "It is the first/second/third time + 现在完成时。" }
+  ],
+  "errors": [
+    { "wrong": "I am living here since 2015.", "right": "I have been living here since 2015.", "note": "since 引导的时间段用完成时态,不用现在进行时。" },
+    { "wrong": "By the time he arrived, the meeting started.", "right": "By the time he arrived, the meeting had started.", "note": "by the time + 过去时,主句用过去完成时。" },
+    { "wrong": "I have seen the movie last night.", "right": "I saw the movie last night.", "note": "有明确的过去时间 last night,用一般过去时。" }
+  ],
+  "quiz": [
+    { "q": "He ___ English since he was ten.", "options": ["learns", "has been learning", "learned", "will learn"], "answer": 1, "note": "since + 过去时间点,用现在完成进行时。" },
+    { "q": "By next Friday, I ___ this book.", "options": ["will have finished", "finish", "have finished", "finished"], "answer": 0, "note": "by + 将来时间,用将来完成时。" },
+    { "q": "She ___ the piano for two hours before dinner.", "options": ["plays", "played", "had been playing", "has played"], "answer": 2, "note": "晚餐前持续弹了两小时,用过去完成进行时。" },
+    { "q": "I ___ my keys; I can't find them anywhere.", "options": ["lost", "have lost", "was losing", "had lost"], "answer": 1, "note": "强调结果与现在联系(找不到钥匙),用现在完成时。" },
+    { "q": "This is the best film I ___ ever ___.", "options": ["have; seen", "did; see", "had; seen", "will; see"], "answer": 0, "note": "最高级/序数词后接现在完成时。" }
+  ]
+}

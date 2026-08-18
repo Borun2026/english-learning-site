@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u12",
+  "stage": 2,
+  "unitId": "s2u12",
+  "title": "真题演练 · 介词基础",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 介词基础。",
+  "questions": [
+    {
+      "q": "We have lunch ___ noon.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "by"
+      ],
+      "answer": 2,
+      "analysis": "at noon 是固定搭配。",
+      "point": "g-s2u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Children's Day is ___ June 1st.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 1,
+      "analysis": "具体日期前用 on。",
+      "point": "g-s2u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The book is ___ the desk.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "between"
+      ],
+      "answer": 1,
+      "analysis": "在物体表面用 on。",
+      "point": "g-s2u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She is sitting ___ her mother.",
+      "options": [
+        "next to",
+        "between",
+        "on",
+        "in"
+      ],
+      "answer": 0,
+      "analysis": "在…旁边用 next to。",
+      "point": "g-s2u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He is waiting ___ the bus stop.",
+      "options": [
+        "at",
+        "on",
+        "in",
+        "for"
+      ],
+      "answer": 0,
+      "analysis": "公交站是小地点,用 at。",
+      "point": "g-s2u12",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I have a meeting in Monday morning.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I have a meeting on Monday morning.。具体某一天的上午用 on。",
+      "point": "g-s2u12",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

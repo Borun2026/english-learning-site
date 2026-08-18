@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u2",
+  "stage": 1,
+  "unitId": "s1u2",
+  "title": "真题演练 · 一般现在时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 一般现在时。",
+  "questions": [
+    {
+      "q": "She ___ music every day.",
+      "options": [
+        "listen",
+        "listens",
+        "listening",
+        "listened"
+      ],
+      "answer": 1,
+      "analysis": "第三人称单数 she,listen 加 -s。",
+      "point": "g-s1u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "They ___ to school by bus every day.",
+      "options": [
+        "go",
+        "goes",
+        "going",
+        "went"
+      ],
+      "answer": 0,
+      "analysis": "主语 they 是复数,动词用原形 go。",
+      "point": "g-s1u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ he ___ his homework after dinner?",
+      "options": [
+        "Does / do",
+        "Do / does",
+        "Is / doing",
+        "Does / does"
+      ],
+      "answer": 0,
+      "analysis": "一般疑问句用 Does 提前,后面动词用原形 do。",
+      "point": "g-s1u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The earth ___ around the sun.",
+      "options": [
+        "move",
+        "moves",
+        "moving",
+        "moved"
+      ],
+      "answer": 1,
+      "analysis": "客观真理用一般现在时,earth 是单数,加 -s。",
+      "point": "g-s1u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Tom ___ like vegetables, but his sister does.",
+      "options": [
+        "don't",
+        "doesn't",
+        "not",
+        "isn't"
+      ],
+      "answer": 1,
+      "analysis": "第三人称单数 Tom 的否定用 doesn't,后接动词原形。",
+      "point": "g-s1u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She like music.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She likes music.。第三人称单数主语后,动词必须加 -s。",
+      "point": "g-s1u2",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

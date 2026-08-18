@@ -1,0 +1,68 @@
+{
+ "id": "cet6-081",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第1套) Passage 1",
+ "title": "One of the great successes of the Republican Party in recent decades is the r...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 454,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "One of the great successes of the Republican Party in recent decades is the relentless propagation of a simple formula for economic growth: tax cuts.",
+  "The formula doesn't work, but that has not affected its popularity. And while the cult of tax cuts has attracted many critics, it lacks for obvious rivals.",
+  "Democratic politicians have tended to campaign on helping people left behind by economic growth. When Democrats do talk about encouraging economic growth, they often sound like Republicans.",
+  "This is not just a political problem for Democrats; it is an economic problem for the United States. The nation needs a better story about the drivers of economic growth. The painful lessons of recent decades point to a promising candidate: higher wages.",
+  "Raising the wages of American workers ought to be the priority of economic policymakers. We'd all be better off paying less attention to quarterly updates on the growth of the nation's gross domestic product (GDP) and focusing instead on the growth of workers' paychecks.",
+  "Set aside, for the moment, the familiar argument for higher wages: fairness. The argument here is that",
+  "higher wages can fuel the engine of economic growth. Perhaps the most famous illustration of the benefits is the story of Henry Ford's decision in 1914 to pay",
+  "$5 a day to workers on his Model T assembly lines. He did it to increase production -- he was paying a premium to maintain a reliable workforce. The unexpected benefit was that Ford's factory workers became Ford customers, too.",
+  "The same logic still holds: Consumption drives the American economy, and workers who are paid more can spend more.",
+  "Mainstream economists insist that it is impossible to order up a sustainable increase in wages because compensation levels reflect the unerring judgment of market forces.",
+  "The conventional wisdom held that productivity growth was the only route to higher wages. Through that lens, efforts to negotiate higher wages were counterproductive. Minimum-wage laws would raise unemployment because there was only so much money in the wage pool, and if some people got more, others would get none.",
+  "It was in the context of this worldview that it became popular to argue that tax cuts would drive prosperity. Rich people would invest, productivity would increase, wages would rise.",
+  "In the real world, things are more complicated. Wages are influenced by a tug of war between employers and workers, and employers have been winning. One clear piece of evidence is the widening gap between productivity growth and wage growth since roughly 1970. Productivity has more than doubled; wages have lagged far behind.",
+  "A focus on wage growth would provide an antidote to the attractive simplicity of the belief in the magical power of tax cuts."
+ ],
+ "questions": [
+  {
+   "q": "文中 “Mainstream” 最接近的意思是?",
+   "options": [
+    "主流的",
+    "洽谈， 协商",
+    "逻辑，逻辑学，条理性",
+    "生产,产品,作品,(研究)成果,总产量"
+   ],
+   "answer": 0,
+   "analysis": "“Mainstream” 意为「主流的」。原文语境:Mainstream economists insist that it is impossible to order up a sustainable increase in wages because compensation levels reflect the unerring judgment of market forces.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:When Democrats do talk about encouraging economic growth, they often ___ like Republicans.",
+   "options": [
+    "sound",
+    "Mainstream",
+    "clear",
+    "Perhaps"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“When Democrats do talk about encouraging economic growth, they often sound like Republicans.”。空格处应填入 “sound”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Professor Stephen Hawking has warned that the creation of powerful artifcial",
+    "In recent years, the food industry has increased its use of labels",
+    "If there's one rule that most parents cling to in the confusing, fast-changin",
+    "One of the great successes of the Republican Party in recent decades is the r"
+   ],
+   "answer": 3,
+   "analysis": "本文以“One of the great successes of the Republican Party in recent decades is the relentless propagation of a simple formula for economic growth: tax cuts.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

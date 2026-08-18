@@ -1,0 +1,63 @@
+{
+ "id": "cet6-101",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第3套) Passage 1",
+ "title": "The \"American Dream\" promises that in the Land of Opportunity, any individual...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 456,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The \"American Dream\" promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone. And yet, young Americans today are struggling to earn more than their parents did at the same age, and upward mobility in the US actually compares unfavourably to that of other industrialised nations.",
+  "So why does the idea of the American Dream persist? A new study in the American Journal of Political Science identifies one factor that has been overlooked: the influence of reality TV.",
+  "Reality shows have come to dominate US television over the past 20 years, notes Eunji Kim from Vanderbilt University. And the overwhelming majority of these have a \"rags-to-riches\" storyline: they feature ordinary Americans who work hard to achieve great economic success. And while these programmes are regularly among the most-watched shows, news broadcasts -- which paint a more realistic view of the economic hardship faced by millions of Americans -- get a much smaller proportion of the viewership.",
+  "Rags-to-riches stories are ubiquitous on TV -- but does watching these programmes actually convince people that economic mobility is easily attainable? To find out, Kim's team had participants watch a 5-minute clip from a reality show with a rags-to-riches storyline. Control participants watched a clip from a reality show that didn't have a rags-to-riches story. After watching the shows, participants rated how much they agreed with four statements relating to the American Dream.",
+  "The results showed that those who'd watched a rags-to-riches clip did indeed have a significantly greater belief in the American Dream. Interestingly, when participants were separated by party affiliation, this effect was significant among Republicans but not Democrats, suggesting that the kind of messages implicit in these TV shows may play into people's existing socioeconomic beliefs.",
+  "Kim also conducted a survey of 3,000 US residents. They also rated the extent to which they believed success in life is related to various internal factors (such as ambition) and external factors (such as family wealth). Finally, they read a list of TV programmes and indicated which they regularly watched.",
+  "Participants who were heavy viewers of rags-to-riches programmes or frequent viewers had a stronger belief in the American Dream than those who never watched such shows.",
+  "Kim concludes that \"rags-to-riches entertainment media are an important cultural force that promotes and perpetuates beliefs in upward mobility\". And here's the problem: if people mistakenly believe that hard work is all that is needed for individuals to make a better life for themselves, they may be less supportive of policies that could actually combat inequality.",
+  "\"In this era of choice, entertainment media are what captures hearts and minds,\" Kim writes. \"Its political consequences are anything but trivial\"."
+ ],
+ "questions": [
+  {
+   "q": "文中 “individual” 最接近的意思是?",
+   "options": [
+    "综合)大学",
+    "个人的，个别的",
+    "美洲的",
+    "新闻媒介， 传播媒介"
+   ],
+   "answer": 1,
+   "analysis": "“individual” 意为「个人的，个别的」。原文语境:The \"American Dream\" promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:And the overwhelming majority of these have a \"rags-to-riches\" storyline: they feature ordinary Americans who work hard to ___ great economic success.",
+   "options": [
+    "Control",
+    "achieve",
+    "believe",
+    "paint"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“And the overwhelming majority of these have a \"rags-to-riches\" storyline: they feature ordinary Americans who work hard to achieve great economic success.”。空格处应填入 “achieve”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual",
+    "One of the great successes of the Republican Party in recent decades is the r",
+    "Selective colleges and universities in the U",
+    "In a few decades, artificial intelligence will surpass many of the abili"
+   ],
+   "answer": 0,
+   "analysis": "本文以“The \"American Dream\" promises that in the Land of Opportunity, any individual can climb the economic ladder and prosper through hard work and ambition alone.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

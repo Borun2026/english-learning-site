@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u12",
+  "stage": 3,
+  "unitId": "s3u12",
+  "title": "听力挑战 · 数据分析讨论",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "同事",
+      "line": "How many users tried the new feature this month so far?",
+      "lineCn": "这个月到现在有多少用户试用了新功能?",
+      "grammar": [
+        { "name": "限定词 half 的用法", "note": "half of 表示'一半',常用于回答数量问题。" }
+      ],
+      "options": [
+        { "text": "About half of them gave it a try.", "correct": true, "feedback": "half of 准确回答数量,表达自然。" },
+        { "text": "Each user was given a free month.", "correct": false, "feedback": "谈赠送活动,没有回答试用人数。" },
+        { "text": "Most of the data was collected last year.", "correct": false, "feedback": "谈数据收集时间,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "What does the survey tell us about the market this year?",
+      "lineCn": "今年的调查告诉了我们市场的什么情况?",
+      "grammar": [
+        { "name": "数量词 a number of", "note": "a number of 后接可数名词复数,表示'许多'。" }
+      ],
+      "options": [
+        { "text": "A large number of young people prefer online shopping.", "correct": true, "feedback": "a number of 加复数名词,用法正确。" },
+        { "text": "All the data was stored in a safe place.", "correct": false, "feedback": "谈数据存放,没有回答市场信息。" },
+        { "text": "The market was closed last Sunday.", "correct": false, "feedback": "谈市场歇业,与调查结论无关。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Which figure stands out in the chart the most this week?",
+      "lineCn": "这周图表里哪个数据最突出?",
+      "grammar": [
+        { "name": "限定词 nearly all of", "note": "nearly all of 表示'几乎全部',限定所修饰的名词。" }
+      ],
+      "options": [
+        { "text": "Nearly all of the growth came from the north.", "correct": true, "feedback": "nearly all of 限定范围,说明突出数据准确。" },
+        { "text": "The chart was printed in black and white.", "correct": false, "feedback": "谈图表打印样式,没有回答数据问题。" },
+        { "text": "The north is colder than the south.", "correct": false, "feedback": "谈地理气候,与数据图表无关。" }
+      ]
+    }
+  ]
+}

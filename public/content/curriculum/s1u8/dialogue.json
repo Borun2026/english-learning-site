@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u8",
+  "stage": 1,
+  "unitId": "s1u8",
+  "scene": "请求帮助与建议",
+  "goal": "成功借到自行车并表示感谢",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同学 Mike",
+      "line": "Hi, Li Hua! You look worried. What is wrong?",
+      "lineCn": "嗨,李华!你看起来很发愁。怎么了?",
+      "grammar": [
+        { "name": "情态动词 can 表示请求", "note": "can 可以表示能力,也可以礼貌地请求,如 Can you help me?,后面接动词原形。" }
+      ],
+      "options": [
+        { "text": "Can you help me? I need a bike for this afternoon.", "textCn": "你能帮我吗?我今天下午需要一辆自行车。", "feedback": "用 Can you...? 礼貌地提出请求,对方愿意帮忙。", "next": "n2" },
+        { "text": "You must give me a bike now.", "textCn": "你现在必须给我一辆自行车。", "feedback": "must 语气太强硬,像命令而不是请求,很不礼貌。", "next": "n3" },
+        { "text": "Nothing. Go away.", "textCn": "没什么。走开。", "feedback": "拒绝沟通,没人能帮到你。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同学 Mike",
+      "line": "Sure! I can help you. Why do you need a bike?",
+      "lineCn": "当然!我能帮你。你为什么需要自行车?",
+      "grammar": [
+        { "name": "情态动词 may 表示请求", "note": "may 也可以表示请求许可,比 can 更正式,如 May I borrow your bike?,回答用 Sure 或 Yes, you may。" }
+      ],
+      "options": [
+        { "text": "I need to go to the library, but the bus is too slow. May I borrow your bike?", "textCn": "我要去图书馆,但公交车太慢了。我可以借用你的自行车吗?", "feedback": "说明原因并礼貌地用 May I...? 请求,对方更愿意借给你。", "next": "n4" },
+        { "text": "Because I need it. Give me your bike.", "textCn": "因为我需要。把你的自行车给我。", "feedback": "语气像命令,没有礼貌,对方不想借。", "next": "n3" },
+        { "text": "I do not know why.", "textCn": "我不知道为什么。", "feedback": "连原因都说不清楚,对方难以信任你。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同学 Mike",
+      "line": "Are you sure? You look a little stressed. Can I do anything for you?",
+      "lineCn": "你确定吗?你看起来有点着急。我能为你做点什么吗?",
+      "grammar": [
+        { "name": "情态动词 should 表示建议", "note": "should 表示\"应该\",用来给别人提建议,如 You should ask for help politely。" }
+      ],
+      "options": [
+        { "text": "Yes, please! You should know I really need a bike. Can you lend me yours, and I will return it tomorrow?", "textCn": "是的!你应该知道我真的很需要自行车。能把你的借我吗?我明天就还。", "feedback": "及时补救,重新礼貌地提出请求,还承诺归还,对方愿意考虑。", "next": "n4" },
+        { "text": "No one can help me.", "textCn": "没人能帮我。", "feedback": "消极放弃,拒绝别人的好意。", "next": "fail1" },
+        { "text": "I do not want to bother you.", "textCn": "我不想麻烦你。", "feedback": "太客气反而错失机会,没有真正开口求助。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同学 Mike",
+      "line": "Okay, I understand. My bike is over there. When will you bring it back?",
+      "lineCn": "好的,我明白了。我的自行车在那边。你什么时候还回来?",
+      "grammar": [
+        { "name": "情态动词 must 与 will 承诺", "note": "must 表示\"必须\",语气强;will 用于承诺将来的事情,如 I will return it tomorrow。" }
+      ],
+      "options": [
+        { "text": "I will bring it back tomorrow afternoon. Thank you so much! You are a great friend!", "textCn": "我明天下午还回来。太感谢你了!你真是个好哥们!", "feedback": "给出归还时间并真诚感谢,成功借到自行车,目标达成!", "next": "success" },
+        { "text": "I will bring it back when I want.", "textCn": "我想什么时候还就什么时候还。", "feedback": "没有明确归还时间,还显得不负责,对方不放心借给你。", "next": "fail2" },
+        { "text": "You must give it to me now.", "textCn": "你现在必须把它给我。", "feedback": "用 must 命令对方,完全没有感谢和礼貌,借不到车。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同学 Mike",
+      "line": "You are welcome! Take care, and see you tomorrow!",
+      "lineCn": "不客气!路上小心,明天见!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同学 Mike",
+      "line": "Oh, I am sorry to hear that. I hope things get better.",
+      "lineCn": "哦,真为你难过。希望事情好起来。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同学 Mike",
+      "line": "Hmm, I am not sure about lending it now. Maybe ask someone else.",
+      "lineCn": "嗯,我现在不太放心借给你。也许问问别人吧。",
+      "end": true,
+      "success": false
+    }
+  }
+}

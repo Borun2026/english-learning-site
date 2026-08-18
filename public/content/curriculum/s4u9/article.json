@@ -1,0 +1,1498 @@
+{
+  "id": "a-s4u9",
+  "stage": 4,
+  "unitId": "s4u9",
+  "title": "Translating a Paper Together",
+  "newWords": [
+    "guild",
+    "awe",
+    "vaccine",
+    "contagious",
+    "faithfully",
+    "freelance",
+    "sociable",
+    "benign",
+    "lapse",
+    "manoeuvre",
+    "obstruction",
+    "glacier",
+    "hypocrisy",
+    "hygiene",
+    "swarm"
+  ],
+  "sentences": [
+    {
+      "text": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+      "translation": "我们小小的翻译行会可能接下把一篇关于疫苗的论文译成中文的项目,而这项工作可能持续整整一个月。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Our small translation guild may take on a project to render a paper on vaccine into Chinese",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Our small translation guild"
+            },
+            {
+              "role": "谓语",
+              "text": "may take on"
+            },
+            {
+              "role": "宾语",
+              "text": "a project"
+            },
+            {
+              "role": "定语(不定式)",
+              "text": "to render a paper on vaccine into Chinese"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "the work may last a whole month",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the work"
+            },
+            {
+              "role": "谓语",
+              "text": "may last"
+            },
+            {
+              "role": "时间状语",
+              "text": "a whole month"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "take on",
+          "note": "take on 表示「承接(任务)」。"
+        },
+        {
+          "name": "render A into B",
+          "note": "render A into B 表示「把 A 译成 B」,是翻译领域常用动词。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "文献翻译常以项目(guild)形式协作分工,本单元围绕翻译实战展开。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "Our small translation guild may take on a project to render a paper on vaccine into Chinese",
+          "name": "take on"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "Our small translation guild may take on a project to render a paper on vaccine into Chinese",
+          "name": "render A into B"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "Our small translation guild may take on a project to render a paper on vaccine into Chinese",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+          "answer": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+          "note": "take on 表示「承接(任务)」。",
+          "point": "take on"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+          "answer": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+          "note": "render A into B 表示「把 A 译成 B」,是翻译领域常用动词。",
+          "point": "render A into B"
+        }
+      ]
+    },
+    {
+      "text": "The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+      "translation": "仅第一页就让我们充满敬畏,因为作者可能把一个整段塞进一个长句里。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The first page alone may fill us with awe",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The first page alone"
+            },
+            {
+              "role": "谓语",
+              "text": "may fill"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "状语",
+              "text": "with awe"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the author may pack a whole paragraph into one long sentence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the author"
+            },
+            {
+              "role": "谓语",
+              "text": "may pack"
+            },
+            {
+              "role": "宾语",
+              "text": "a whole paragraph"
+            },
+            {
+              "role": "状语",
+              "text": "into one long sentence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "fill A with B",
+          "note": "fill us with awe 表示「使我们充满敬畏」。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明敬畏的来源。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the author may pack a whole paragraph into one long sentence",
+          "name": "fill A with B"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the author may pack a whole paragraph into one long sentence",
+          "name": "for 表示原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+          "answer": "The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+          "note": "fill us with awe 表示「使我们充满敬畏」。",
+          "point": "fill A with B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+          "answer": "The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+          "note": "for 补充说明敬畏的来源。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "A vaccine may protect a person from a contagious disease, and the paper may describe the trial of the vaccine in clear detail.",
+      "translation": "疫苗可以保护人免受传染病的侵袭,而论文可能详细描述疫苗的试验。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A vaccine may protect a person from a contagious disease",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A vaccine"
+            },
+            {
+              "role": "谓语",
+              "text": "may protect"
+            },
+            {
+              "role": "宾语",
+              "text": "a person"
+            },
+            {
+              "role": "状语",
+              "text": "from a contagious disease"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the paper may describe the trial of the vaccine in clear detail",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the paper"
+            },
+            {
+              "role": "谓语",
+              "text": "may describe"
+            },
+            {
+              "role": "宾语",
+              "text": "the trial of the vaccine"
+            },
+            {
+              "role": "状语",
+              "text": "in clear detail"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "protect A from B",
+          "note": "protect a person from a disease 表示「保护某人免受疾病侵害」。"
+        },
+        {
+          "name": "in clear detail",
+          "note": "in detail 表示「详细地」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the paper may describe the trial of the vaccine in clear detail",
+          "name": "protect A from B"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the paper may describe the trial of the vaccine in clear detail",
+          "name": "in clear detail"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A vaccine may protect a person from a contagious disease, and the paper may describe the trial of the vaccine in clear detail.",
+          "answer": "A vaccine may protect a person from a contagious disease, and the paper may describe the trial of the vaccine in clear detail.",
+          "note": "protect a person from a disease 表示「保护某人免受疾病侵害」。",
+          "point": "protect A from B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A vaccine may protect a person from a contagious disease, and the paper may describe the trial of the vaccine in clear detail.",
+          "answer": "A vaccine may protect a person from a contagious disease, and the paper may describe the trial of the vaccine in clear detail.",
+          "note": "in detail 表示「详细地」。",
+          "point": "in clear detail"
+        }
+      ]
+    },
+    {
+      "text": "To render the text faithfully, we may divide the work: one member may handle the method section, and another may take the discussion of the result.",
+      "translation": "为了忠实再现原文,我们可能分工:一个成员负责方法部分,另一个负责结果讨论。",
+      "chunks": [
+        {
+          "label": "目的状语",
+          "color": "#8ab4f8",
+          "text": "To render the text faithfully"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may divide the work",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may divide"
+            },
+            {
+              "role": "宾语",
+              "text": "the work"
+            }
+          ]
+        },
+        {
+          "label": "解释说明一",
+          "color": "#9fd8e8",
+          "text": "one member may handle the method section",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "one member"
+            },
+            {
+              "role": "谓语",
+              "text": "may handle"
+            },
+            {
+              "role": "宾语",
+              "text": "the method section"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "解释说明二",
+          "color": "#9fd8e8",
+          "text": "another may take the discussion of the result",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "another"
+            },
+            {
+              "role": "谓语",
+              "text": "may take"
+            },
+            {
+              "role": "宾语",
+              "text": "the discussion of the result"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "To render the text faithfully 说明分工的目的。"
+        },
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后具体说明如何分工。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "忠实(faithfully)是翻译的第一原则,团队分工是文献翻译协作的常见形式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "another may take the discussion of the result",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "another may take the discussion of the result",
+          "name": "冒号解释说明"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "another may take the discussion of the result",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To render the text faithfully, we may divide the work: one member may handle the method section, and another may take the discussion of the result.",
+          "answer": "To render the text faithfully, we may divide the work: one member may handle the method section, and another may take the discussion of the result.",
+          "note": "To render the text faithfully 说明分工的目的。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To render the text faithfully, we may divide the work: one member may handle the method section, and another may take the discussion of the result.",
+          "answer": "To render the text faithfully, we may divide the work: one member may handle the method section, and another may take the discussion of the result.",
+          "note": "冒号后具体说明如何分工。",
+          "point": "冒号解释说明"
+        }
+      ]
+    },
+    {
+      "text": "A freelance translator may work alone at home, yet our team may prefer to meet, for a hard phrase may need a fresh mind.",
+      "translation": "自由译者可能独自在家工作,然而我们团队更喜欢见面,因为一个难译的短语需要一个清醒的头脑。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "A freelance translator may work alone at home",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A freelance translator"
+            },
+            {
+              "role": "谓语",
+              "text": "may work"
+            },
+            {
+              "role": "状语",
+              "text": "alone at home"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "our team may prefer to meet",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "our team"
+            },
+            {
+              "role": "谓语",
+              "text": "may prefer"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to meet"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a hard phrase may need a fresh mind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a hard phrase"
+            },
+            {
+              "role": "谓语",
+              "text": "may need"
+            },
+            {
+              "role": "宾语",
+              "text": "a fresh mind"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "prefer to do",
+          "note": "prefer to do sth 表示「更愿意做某事」。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明团队喜欢见面的原因。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A freelance translator may work alone at home",
+          "name": "prefer to do"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A freelance translator may work alone at home",
+          "name": "for 表示原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A freelance translator may work alone at home, yet our team may prefer to meet, for a hard phrase may need a fresh mind.",
+          "answer": "A freelance translator may work alone at home, yet our team may prefer to meet, for a hard phrase may need a fresh mind.",
+          "note": "prefer to do sth 表示「更愿意做某事」。",
+          "point": "prefer to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A freelance translator may work alone at home, yet our team may prefer to meet, for a hard phrase may need a fresh mind.",
+          "answer": "A freelance translator may work alone at home, yet our team may prefer to meet, for a hard phrase may need a fresh mind.",
+          "note": "for 补充说明团队喜欢见面的原因。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "We may use a dictionary and a book of terminology, yet the key may be a sociable discussion over a cup of tea; a benign change of word may alter the tone of a whole page, so we may weigh every choice with care.",
+      "translation": "我们可能使用词典和术语手册,然而关键可能是一杯茶旁的友好讨论。; 一个看似无害的用词改变就可能改变整页的语气,所以我们可能慎重权衡每一个选择。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may use a dictionary and a book of terminology",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may use"
+            },
+            {
+              "role": "宾语",
+              "text": "a dictionary and a book of terminology"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the key may be a sociable discussion over a cup of tea",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the key"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "a sociable discussion over a cup of tea"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A benign change of word may alter the tone of a whole page",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A benign change of word"
+            },
+            {
+              "role": "谓语",
+              "text": "may alter"
+            },
+            {
+              "role": "宾语",
+              "text": "the tone of a whole page"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may weigh every choice with care",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may weigh"
+            },
+            {
+              "role": "宾语",
+              "text": "every choice"
+            },
+            {
+              "role": "状语",
+              "text": "with care"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 yet",
+          "note": "「工具重要,但交流更重要」,先让步后强调。"
+        },
+        {
+          "name": "因果连词 so",
+          "note": "so 引出结论:「所以…」。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "选词须谨慎:词义的细微变化可能改变整句语气。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A benign change of word may alter the tone of a whole page",
+          "name": "转折连词 yet"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A benign change of word may alter the tone of a whole page",
+          "name": "因果连词 so"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A benign change of word may alter the tone of a whole page",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may use a dictionary and a book of terminology, yet the key may be a sociable discussion over a cup of tea; a benign change of word may alter the tone of a whole page, so we may weigh every choice with care.",
+          "answer": "We may use a dictionary and a book of terminology, yet the key may be a sociable discussion over a cup of tea; a benign change of word may alter the tone of a whole page, so we may weigh every choice with care.",
+          "note": "「工具重要,但交流更重要」,先让步后强调。",
+          "point": "转折连词 yet"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may use a dictionary and a book of terminology, yet the key may be a sociable discussion over a cup of tea; a benign change of word may alter the tone of a whole page, so we may weigh every choice with care.",
+          "answer": "We may use a dictionary and a book of terminology, yet the key may be a sociable discussion over a cup of tea; a benign change of word may alter the tone of a whole page, so we may weigh every choice with care.",
+          "note": "so 引出结论:「所以…」。",
+          "point": "因果连词 so"
+        }
+      ]
+    },
+    {
+      "text": "A small lapse in the first draft may grow into a big error in the final version, and this is where the second reader may prove his value.",
+      "translation": "初稿中的一个小疏忽可能演变成终稿中的大错误,而这正是第二读者证明自己价值的地方。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "A small lapse in the first draft may grow into a big error in the final version",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A small lapse in the first draft"
+            },
+            {
+              "role": "谓语",
+              "text": "may grow"
+            },
+            {
+              "role": "状语",
+              "text": "into a big error in the final version"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "this is where the second reader may prove his value",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语从句",
+              "text": "where the second reader may prove his value"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "grow into",
+          "note": "grow into 表示「演变成」。"
+        },
+        {
+          "name": "where 表语从句",
+          "note": "where 引导表语从句,表示「…的地方」。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "互校(second reader)机制能及时拦截初稿中的失误。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A small lapse in the first draft may grow into a big error in the final version",
+          "name": "grow into"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A small lapse in the first draft may grow into a big error in the final version",
+          "name": "where 表语从句"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "A small lapse in the first draft may grow into a big error in the final version",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A small lapse in the first draft may grow into a big error in the final version, and this is where the second reader may prove his value.",
+          "answer": "A small lapse in the first draft may grow into a big error in the final version, and this is where the second reader may prove his value.",
+          "note": "grow into 表示「演变成」。",
+          "point": "grow into"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A small lapse in the first draft may grow into a big error in the final version, and this is where the second reader may prove his value.",
+          "answer": "A small lapse in the first draft may grow into a big error in the final version, and this is where the second reader may prove his value.",
+          "note": "where 引导表语从句,表示「…的地方」。",
+          "point": "where 表语从句"
+        }
+      ]
+    },
+    {
+      "text": "We may also manoeuvre the long sentence with skill, cut it in half, and keep the logic intact; an obstruction may appear in the middle of the work, and a technical term may refuse to fit the target phrase.",
+      "translation": "我们还可以娴熟地处置长句,把它一分为二,并保持逻辑完整。; 工作进行到一半时可能出现障碍,而某个技术术语可能拒绝匹配目标表达。",
+      "chunks": [
+        {
+          "label": "主干(谓语一)",
+          "color": "#a8dab5",
+          "text": "We may also manoeuvre the long sentence with skill",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "状语",
+              "text": "may also"
+            },
+            {
+              "role": "谓语",
+              "text": "manoeuvre"
+            },
+            {
+              "role": "宾语",
+              "text": "the long sentence"
+            },
+            {
+              "role": "状语",
+              "text": "with skill"
+            }
+          ]
+        },
+        {
+          "label": "主干(谓语二)",
+          "color": "#a8dab5",
+          "text": "cut it in half",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "cut"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "状语",
+              "text": "in half"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(谓语三)",
+          "color": "#a8dab5",
+          "text": "keep the logic intact",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "keep"
+            },
+            {
+              "role": "宾语",
+              "text": "the logic"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "intact"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "An obstruction may appear in the middle of the work",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An obstruction"
+            },
+            {
+              "role": "谓语",
+              "text": "may appear"
+            },
+            {
+              "role": "状语",
+              "text": "in the middle of the work"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a technical term may refuse to fit the target phrase",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a technical term"
+            },
+            {
+              "role": "谓语",
+              "text": "may refuse"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to fit the target phrase"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "may manoeuvre, cut, and keep 三个谓语并列。"
+        },
+        {
+          "name": "keep + 宾语 + 宾补",
+          "note": "keep the logic intact:形容词 intact 作宾补。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "长句拆分为短句时须保持逻辑完整,是英译汉的核心技巧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "a technical term may refuse to fit the target phrase",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "a technical term may refuse to fit the target phrase",
+          "name": "keep + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "a technical term may refuse to fit the target phrase",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may also manoeuvre the long sentence with skill, cut it in half, and keep the logic intact; an obstruction may appear in the middle of the work, and a technical term may refuse to fit the target phrase.",
+          "answer": "We may also manoeuvre the long sentence with skill, cut it in half, and keep the logic intact; an obstruction may appear in the middle of the work, and a technical term may refuse to fit the target phrase.",
+          "note": "may manoeuvre, cut, and keep 三个谓语并列。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may also manoeuvre the long sentence with skill, cut it in half, and keep the logic intact; an obstruction may appear in the middle of the work, and a technical term may refuse to fit the target phrase.",
+          "answer": "We may also manoeuvre the long sentence with skill, cut it in half, and keep the logic intact; an obstruction may appear in the middle of the work, and a technical term may refuse to fit the target phrase.",
+          "note": "keep the logic intact:形容词 intact 作宾补。",
+          "point": "keep + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "We may treat such a term like a glacier: slow to move, but patient effort may melt it in the end.",
+      "translation": "我们可以把这样的术语当作冰川:移动缓慢,但耐心的努力最终会融化它。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "We may treat such a term like a glacier",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may treat"
+            },
+            {
+              "role": "宾语",
+              "text": "such a term"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "like a glacier"
+            }
+          ]
+        },
+        {
+          "label": "解释说明一",
+          "color": "#9fd8e8",
+          "text": "slow to move"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "解释说明二",
+          "color": "#9fd8e8",
+          "text": "patient effort may melt it in the end",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "patient effort"
+            },
+            {
+              "role": "谓语",
+              "text": "may melt"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "时间状语",
+              "text": "in the end"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "treat A like B",
+          "note": "treat A like B 表示「把 A 当作 B 来对待」。"
+        },
+        {
+          "name": "比喻修辞",
+          "note": "以 glacier 喻难啃的术语,形象说明耐心的重要性。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "We may treat such a term like a glacier",
+          "name": "treat A like B"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "We may treat such a term like a glacier",
+          "name": "比喻修辞"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may treat such a term like a glacier: slow to move, but patient effort may melt it in the end.",
+          "answer": "We may treat such a term like a glacier: slow to move, but patient effort may melt it in the end.",
+          "note": "treat A like B 表示「把 A 当作 B 来对待」。",
+          "point": "treat A like B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may treat such a term like a glacier: slow to move, but patient effort may melt it in the end.",
+          "answer": "We may treat such a term like a glacier: slow to move, but patient effort may melt it in the end.",
+          "note": "以 glacier 喻难啃的术语,形象说明耐心的重要性。",
+          "point": "比喻修辞"
+        }
+      ]
+    },
+    {
+      "text": "No one may hide an error behind a polite phrase, for hypocrisy may poison a translation team, and honesty is our first rule.",
+      "translation": "没有人可以把错误藏在客套话后面,因为虚伪会毒害翻译团队,而诚实是我们的第一准则。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "No one may hide an error behind a polite phrase",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "No one"
+            },
+            {
+              "role": "谓语",
+              "text": "may hide"
+            },
+            {
+              "role": "宾语",
+              "text": "an error"
+            },
+            {
+              "role": "状语",
+              "text": "behind a polite phrase"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "hypocrisy may poison a translation team",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "hypocrisy"
+            },
+            {
+              "role": "谓语",
+              "text": "may poison"
+            },
+            {
+              "role": "宾语",
+              "text": "a translation team"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句二(主系表)",
+          "color": "#a8dab5",
+          "text": "honesty is our first rule",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "honesty"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "our first rule"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "for 表示原因",
+          "note": "for 引导并列分句,解释说明不能隐藏错误的原因。"
+        },
+        {
+          "name": "翻译协作",
+          "note": "团队协作以诚实互信为前提,虚伪是协作的毒药。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "No one may hide an error behind a polite phrase",
+          "name": "for 表示原因"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "No one may hide an error behind a polite phrase",
+          "name": "翻译协作"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):No one may hide an error behind a polite phrase, for hypocrisy may poison a translation team, and honesty is our first rule.",
+          "answer": "No one may hide an error behind a polite phrase, for hypocrisy may poison a translation team, and honesty is our first rule.",
+          "note": "for 引导并列分句,解释说明不能隐藏错误的原因。",
+          "point": "for 表示原因"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):No one may hide an error behind a polite phrase, for hypocrisy may poison a translation team, and honesty is our first rule.",
+          "answer": "No one may hide an error behind a polite phrase, for hypocrisy may poison a translation team, and honesty is our first rule.",
+          "note": "团队协作以诚实互信为前提,虚伪是协作的毒药。",
+          "point": "翻译协作"
+        }
+      ]
+    },
+    {
+      "text": "We may also pay attention to hygiene of language: a clean sentence is a clear sentence, and clarity may beat every fancy trick; a swarm of detail may overwhelm the reader, so the final version may keep only the fact that may matter.",
+      "translation": "我们还要注意语言的卫生:干净的句子就是清晰的句子,而清晰可以胜过一切花招。; 大量细节可能压垮读者,所以终稿只保留可能重要的内容。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may also pay attention to hygiene of language",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "状语",
+              "text": "may also"
+            },
+            {
+              "role": "谓语",
+              "text": "pay attention to"
+            },
+            {
+              "role": "宾语",
+              "text": "hygiene of language"
+            }
+          ]
+        },
+        {
+          "label": "解释说明一",
+          "color": "#9fd8e8",
+          "text": "a clean sentence is a clear sentence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a clean sentence"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a clear sentence"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "解释说明二",
+          "color": "#9fd8e8",
+          "text": "clarity may beat every fancy trick",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "clarity"
+            },
+            {
+              "role": "谓语",
+              "text": "may beat"
+            },
+            {
+              "role": "宾语",
+              "text": "every fancy trick"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A swarm of detail may overwhelm the reader",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A swarm of detail"
+            },
+            {
+              "role": "谓语",
+              "text": "may overwhelm"
+            },
+            {
+              "role": "宾语",
+              "text": "the reader"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the final version may keep only the fact that may matter",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the final version"
+            },
+            {
+              "role": "谓语",
+              "text": "may keep"
+            },
+            {
+              "role": "宾语",
+              "text": "only the fact"
+            },
+            {
+              "role": "定语从句",
+              "text": "that may matter"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "pay attention to",
+          "note": "pay attention to 表示「注意、关注」。"
+        },
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后以两个分句解释语言卫生的含义。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "hygiene of language 语言卫生:译文应干净、清晰、无杂质。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the final version may keep only the fact that may matter",
+          "name": "pay attention to"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the final version may keep only the fact that may matter",
+          "name": "冒号解释说明"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the final version may keep only the fact that may matter",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may also pay attention to hygiene of language: a clean sentence is a clear sentence, and clarity may beat every fancy trick; a swarm of detail may overwhelm the reader, so the final version may keep only the fact that may matter.",
+          "answer": "We may also pay attention to hygiene of language: a clean sentence is a clear sentence, and clarity may beat every fancy trick; a swarm of detail may overwhelm the reader, so the final version may keep only the fact that may matter.",
+          "note": "pay attention to 表示「注意、关注」。",
+          "point": "pay attention to"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may also pay attention to hygiene of language: a clean sentence is a clear sentence, and clarity may beat every fancy trick; a swarm of detail may overwhelm the reader, so the final version may keep only the fact that may matter.",
+          "answer": "We may also pay attention to hygiene of language: a clean sentence is a clear sentence, and clarity may beat every fancy trick; a swarm of detail may overwhelm the reader, so the final version may keep only the fact that may matter.",
+          "note": "冒号后以两个分句解释语言卫生的含义。",
+          "point": "冒号解释说明"
+        }
+      ]
+    },
+    {
+      "text": "In the end, we may deliver the text with pride, and the praise of the author may be worth more than the fee, for it may prove that we render his idea faithfully.",
+      "translation": "最后,我们可能自豪地交付译稿,而作者的赞誉可能比稿费更珍贵,因为它证明了我们忠实地再现了他的思想。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the end"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may deliver the text with pride",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may deliver"
+            },
+            {
+              "role": "宾语",
+              "text": "the text"
+            },
+            {
+              "role": "状语",
+              "text": "with pride"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the praise of the author may be worth more than the fee",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the praise of the author"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "worth more than the fee"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "it may prove that we render his idea faithfully",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语",
+              "text": "may prove"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that we render his idea faithfully"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be worth",
+          "note": "be worth 后接名词/动名词,表示「值得」。"
+        },
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 prove 的宾语。"
+        },
+        {
+          "name": "翻译实战",
+          "note": "译者的最高回报是作者认可译文忠实(render faithfully)。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the praise of the author may be worth more than the fee",
+          "name": "be worth"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the praise of the author may be worth more than the fee",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u9",
+          "phrase": "the praise of the author may be worth more than the fee",
+          "name": "翻译实战"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the end, we may deliver the text with pride, and the praise of the author may be worth more than the fee, for it may prove that we render his idea faithfully.",
+          "answer": "In the end, we may deliver the text with pride, and the praise of the author may be worth more than the fee, for it may prove that we render his idea faithfully.",
+          "note": "be worth 后接名词/动名词,表示「值得」。",
+          "point": "be worth"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the end, we may deliver the text with pride, and the praise of the author may be worth more than the fee, for it may prove that we render his idea faithfully.",
+          "answer": "In the end, we may deliver the text with pride, and the praise of the author may be worth more than the fee, for it may prove that we render his idea faithfully.",
+          "note": "that 引导宾语从句,作 prove 的宾语。",
+          "point": "宾语从句 that"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u9",
+      "name": "take on",
+      "note": "take on 表示「承接(任务)」。",
+      "sourceExample": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+      "sourceExampleCn": "我们小小的翻译行会可能接下把一篇关于疫苗的论文译成中文的项目,而这项工作可能持续整整一个月。"
+    },
+    {
+      "grammarId": "g-s4u9",
+      "name": "render A into B",
+      "note": "render A into B 表示「把 A 译成 B」,是翻译领域常用动词。",
+      "sourceExample": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+      "sourceExampleCn": "我们小小的翻译行会可能接下把一篇关于疫苗的论文译成中文的项目,而这项工作可能持续整整一个月。"
+    },
+    {
+      "grammarId": "g-s4u9",
+      "name": "翻译实战",
+      "note": "文献翻译常以项目(guild)形式协作分工,本单元围绕翻译实战展开。",
+      "sourceExample": "Our small translation guild may take on a project to render a paper on vaccine into Chinese, and the work may last a whole month.",
+      "sourceExampleCn": "我们小小的翻译行会可能接下把一篇关于疫苗的论文译成中文的项目,而这项工作可能持续整整一个月。"
+    },
+    {
+      "grammarId": "g-s4u9",
+      "name": "fill A with B",
+      "note": "fill us with awe 表示「使我们充满敬畏」。",
+      "sourceExample": "The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+      "sourceExampleCn": "仅第一页就让我们充满敬畏,因为作者可能把一个整段塞进一个长句里。"
+    },
+    {
+      "grammarId": "g-s4u9",
+      "name": "for 表示原因",
+      "note": "for 补充说明敬畏的来源。",
+      "sourceExample": "The first page alone may fill us with awe, for the author may pack a whole paragraph into one long sentence.",
+      "sourceExampleCn": "仅第一页就让我们充满敬畏,因为作者可能把一个整段塞进一个长句里。"
+    }
+  ]
+}

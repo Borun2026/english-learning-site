@@ -1,0 +1,1186 @@
+{
+  "id": "a-s3u4",
+  "stage": 3,
+  "unitId": "s3u4",
+  "title": "Against the Odds",
+  "newWords": [
+    "peril",
+    "outweigh",
+    "unify",
+    "completion",
+    "pave",
+    "invaluable",
+    "ponder",
+    "solidarity",
+    "potentially",
+    "necessitate",
+    "prestige",
+    "prolonged",
+    "reap",
+    "reckless",
+    "resolute",
+    "depict",
+    "scarcity"
+  ],
+  "sentences": [
+    {
+      "text": "Beginning with a single textbook, the young man learned every subject by himself.",
+      "translation": "从一本课本开始,这个年轻人自学了每一门功课。",
+      "chunks": [
+        {
+          "label": "状语(现在分词短语)",
+          "color": "#8ab4f8",
+          "text": "Beginning with a single textbook"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the young man learned every subject",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the young man"
+            },
+            {
+              "role": "谓语",
+              "text": "learned"
+            },
+            {
+              "role": "宾语",
+              "text": "every subject"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "by himself"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词短语作状语",
+          "note": "Beginning with... 作伴随/方式状语,主语为分词的逻辑主语。",
+          "example": "Starting from zero, she succeeded.",
+          "exampleCn": "从零开始,她成功了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "the young man learned every subject",
+          "name": "现在分词短语作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:从零开始,她成功了。",
+          "answer": "Starting from zero, she succeeded.",
+          "note": "Beginning with... 作伴随/方式状语,主语为分词的逻辑主语。",
+          "point": "现在分词短语作状语"
+        }
+      ]
+    },
+    {
+      "text": "Considering the low family income, the decision to study medicine will seem impossible.",
+      "translation": "考虑到家庭收入低,学医的决定似乎是不可能的。",
+      "chunks": [
+        {
+          "label": "状语(现在分词短语)",
+          "color": "#8ab4f8",
+          "text": "Considering the low family income"
+        },
+        {
+          "label": "主干(主语,含不定式定语)",
+          "color": "#a8dab5",
+          "text": "the decision to study medicine"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "will seem impossible",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "will seem"
+            },
+            {
+              "role": "表语",
+              "text": "impossible"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词 Considering 作状语",
+          "note": "Considering... 意为\"考虑到……\"。",
+          "example": "Considering his age, he is strong.",
+          "exampleCn": "考虑到他的年龄,他很强壮。"
+        },
+        {
+          "name": "不定式作后置定语",
+          "note": "to study medicine 修饰 decision。",
+          "example": "the decision to move on",
+          "exampleCn": "继续前进的决定"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Considering the low family income",
+          "name": "现在分词 Considering 作状语"
+        },
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Considering the low family income",
+          "name": "不定式作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:考虑到他的年龄,他很强壮。",
+          "answer": "Considering his age, he is strong.",
+          "note": "Considering... 意为\"考虑到……\"。",
+          "point": "现在分词 Considering 作状语"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:继续前进的决定",
+          "answer": "the decision to move on",
+          "note": "to study medicine 修饰 decision。",
+          "point": "不定式作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "To achieve his goal, he will read one book every week without fail.",
+      "translation": "为了达到目标,他每周必读一本书,从不间断。",
+      "chunks": [
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "To achieve his goal"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he will read one book every week",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will read"
+            },
+            {
+              "role": "宾语",
+              "text": "one book"
+            },
+            {
+              "role": "状语",
+              "text": "every week"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "without fail"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式短语作目的状语",
+          "note": "to achieve his goal 表示目的,可译为\"为了……\"。",
+          "example": "To save money, he walks to work.",
+          "exampleCn": "为了省钱,他步行上班。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "he will read one book every week",
+          "name": "不定式短语作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:为了省钱,他步行上班。",
+          "answer": "To save money, he walks to work.",
+          "note": "to achieve his goal 表示目的,可译为\"为了……\"。",
+          "point": "不定式短语作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "Disappointed by the first result, he will try again with a new method.",
+      "translation": "第一次结果令他失望,但他会用新方法再试一次。",
+      "chunks": [
+        {
+          "label": "状语(过去分词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "Disappointed by the first result"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "he will try again",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will try"
+            },
+            {
+              "role": "状语",
+              "text": "again"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with a new method"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词短语作状语",
+          "note": "Disappointed by... 表原因,\"因为对……失望\"。",
+          "example": "Surprised by the news, she smiled.",
+          "exampleCn": "听到消息很惊讶,她笑了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Disappointed by the first result",
+          "name": "过去分词短语作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:听到消息很惊讶,她笑了。",
+          "answer": "Surprised by the news, she smiled.",
+          "note": "Disappointed by... 表原因,\"因为对……失望\"。",
+          "point": "过去分词短语作状语"
+        }
+      ]
+    },
+    {
+      "text": "Tired of the endless manual work, he will never give up his dream.",
+      "translation": "尽管厌倦了没完没了的手工活,他也绝不会放弃梦想。",
+      "chunks": [
+        {
+          "label": "状语(过去分词短语表让步)",
+          "color": "#8ab4f8",
+          "text": "Tired of the endless manual work"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he will never give up his dream",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will never give up"
+            },
+            {
+              "role": "宾语",
+              "text": "his dream"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词 Tired of 作状语",
+          "note": "Tired of... 意为\"厌倦了……\",表让步。",
+          "example": "Tired of waiting, he left.",
+          "exampleCn": "厌倦了等待,他离开了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Tired of the endless manual work",
+          "name": "过去分词 Tired of 作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:厌倦了等待,他离开了。",
+          "answer": "Tired of waiting, he left.",
+          "note": "Tired of... 意为\"厌倦了……\",表让步。",
+          "point": "过去分词 Tired of 作状语"
+        }
+      ]
+    },
+    {
+      "text": "Worried about the tuition, he will work every summer to save the money.",
+      "translation": "因为担心学费,他每个夏天都会打工攒钱。",
+      "chunks": [
+        {
+          "label": "状语(过去分词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "Worried about the tuition"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "he will work every summer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will work"
+            },
+            {
+              "role": "状语",
+              "text": "every summer"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "to save the money"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词作状语",
+          "note": "Worried about... 表原因。",
+          "example": "Worried about the exam, she could not sleep.",
+          "exampleCn": "担心考试,她睡不着。"
+        },
+        {
+          "name": "不定式表目的",
+          "note": "to save the money 表打工的目的。",
+          "example": "He works to support his family.",
+          "exampleCn": "他工作是为了养家。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Worried about the tuition",
+          "name": "过去分词作状语"
+        },
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "Worried about the tuition",
+          "name": "不定式表目的"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:担心考试,她睡不着。",
+          "answer": "Worried about the exam, she could not sleep.",
+          "note": "Worried about... 表原因。",
+          "point": "过去分词作状语"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:他工作是为了养家。",
+          "answer": "He works to support his family.",
+          "note": "to save the money 表打工的目的。",
+          "point": "不定式表目的"
+        }
+      ]
+    },
+    {
+      "text": "With the support of his family, he will enter the university next year.",
+      "translation": "在家庭的支持下,他明年将进入大学。",
+      "chunks": [
+        {
+          "label": "状语(with 复合结构)",
+          "color": "#8ab4f8",
+          "text": "With the support of his family"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he will enter the university",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will enter"
+            },
+            {
+              "role": "宾语",
+              "text": "the university"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "next year"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "with + 名词作状语",
+          "note": "With the support of... 意为\"在……的支持下\"。",
+          "example": "With your help, we can win.",
+          "exampleCn": "有了你的帮助,我们就能赢。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "With the support of his family",
+          "name": "with + 名词作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:有了你的帮助,我们就能赢。",
+          "answer": "With your help, we can win.",
+          "note": "With the support of... 意为\"在……的支持下\"。",
+          "point": "with + 名词作状语"
+        }
+      ]
+    },
+    {
+      "text": "The path ahead is rough, yet it will pave the way for the whole village.",
+      "translation": "前方的路崎岖不平,但它将为整个村庄铺平道路。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The path ahead is rough",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The path ahead"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "rough"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "it will pave the way",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语",
+              "text": "will pave"
+            },
+            {
+              "role": "宾语",
+              "text": "the way"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "for the whole village"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "yet 并列连词",
+          "note": "yet 表转折,\"然而\"。",
+          "example": "The task is hard, yet we persist.",
+          "exampleCn": "任务艰难,然而我们坚持。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "The path ahead is rough",
+          "name": "yet 并列连词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:任务艰难,然而我们坚持。",
+          "answer": "The task is hard, yet we persist.",
+          "note": "yet 表转折,\"然而\"。",
+          "point": "yet 并列连词"
+        }
+      ]
+    },
+    {
+      "text": "In comparison with the salary, the sense of purpose will outweigh every other concern.",
+      "translation": "与薪水相比,使命感将胜过其他一切顾虑。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "In comparison with the salary"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the sense of purpose will outweigh every other concern",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the sense of purpose"
+            },
+            {
+              "role": "谓语",
+              "text": "will outweigh"
+            },
+            {
+              "role": "宾语",
+              "text": "every other concern"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in comparison with 短语",
+          "note": "意为\"与……相比\"。",
+          "example": "In comparison with last year, sales rose.",
+          "exampleCn": "与去年相比,销售额上升了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "the sense of purpose will outweigh every other concern",
+          "name": "in comparison with 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:与去年相比,销售额上升了。",
+          "answer": "In comparison with last year, sales rose.",
+          "note": "意为\"与……相比\"。",
+          "point": "in comparison with 短语"
+        }
+      ]
+    },
+    {
+      "text": "His story will depict the power of patience and the value of a clear aim.",
+      "translation": "他的故事将描绘耐心的力量和明确目标的价值。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "His story will depict the power of patience and the value of a clear aim",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "His story"
+            },
+            {
+              "role": "谓语",
+              "text": "will depict"
+            },
+            {
+              "role": "宾语",
+              "text": "the power of patience and the value of a clear aim"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "两个并列宾语 the power of patience 和 the value of a clear aim。",
+          "example": "The book depicts rural life.",
+          "exampleCn": "这本书描绘了乡村生活。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "His story will depict the power of patience and the value of a clear aim",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这本书描绘了乡村生活。",
+          "answer": "The book depicts rural life.",
+          "note": "两个并列宾语 the power of patience 和 the value of a clear aim。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The peril of retreat is small next to the joy of completion.",
+      "translation": "退缩的危险,与完成的喜悦相比微不足道。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The peril of retreat"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is small",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "small"
+            }
+          ]
+        },
+        {
+          "label": "状语(表比较)",
+          "color": "#8ab4f8",
+          "text": "next to the joy of completion"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "next to 表比较",
+          "note": "next to 在此意为\"与……相比\"。",
+          "example": "His worry is nothing next to mine.",
+          "exampleCn": "他的担心与我的相比不算什么。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "next to the joy of completion",
+          "name": "next to 表比较"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他的担心与我的相比不算什么。",
+          "answer": "His worry is nothing next to mine.",
+          "note": "next to 在此意为\"与……相比\"。",
+          "point": "next to 表比较"
+        }
+      ]
+    },
+    {
+      "text": "An invaluable lesson will come from the prolonged struggle.",
+      "translation": "一场宝贵的教训将来自这漫长的奋斗。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "An invaluable lesson will come",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An invaluable lesson"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "from the prolonged struggle"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "come from 短语",
+          "note": "come from 意为\"来自\"。",
+          "example": "True strength comes from struggle.",
+          "exampleCn": "真正的力量来自奋斗。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "An invaluable lesson will come",
+          "name": "come from 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:真正的力量来自奋斗。",
+          "answer": "True strength comes from struggle.",
+          "note": "come from 意为\"来自\"。",
+          "point": "come from 短语"
+        }
+      ]
+    },
+    {
+      "text": "He will not ponder the past too long; he will look forward.",
+      "translation": "他不会在回忆中停留太久;他将向前看。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "He will not ponder the past too long",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "He"
+            },
+            {
+              "role": "谓语",
+              "text": "will not ponder"
+            },
+            {
+              "role": "宾语",
+              "text": "the past"
+            },
+            {
+              "role": "状语",
+              "text": "too long"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "he will look forward",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "will look"
+            },
+            {
+              "role": "状语",
+              "text": "forward"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "look forward 短语",
+          "note": "look forward 意为\"向前看\"。",
+          "example": "Look forward, not backward.",
+          "exampleCn": "向前看,不要向后看。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "He will not ponder the past too long",
+          "name": "look forward 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:向前看,不要向后看。",
+          "answer": "Look forward, not backward.",
+          "note": "look forward 意为\"向前看\"。",
+          "point": "look forward 短语"
+        }
+      ]
+    },
+    {
+      "text": "The solidarity of the family will unify every plan they make.",
+      "translation": "家庭的团结将统一他们制定的每一项计划。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The solidarity of the family"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will unify every plan",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will unify"
+            },
+            {
+              "role": "宾语",
+              "text": "every plan"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(省略 that)",
+          "color": "#c8a5e0",
+          "text": "they make"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句省略关系词",
+          "note": "they make 修饰 every plan,省略了 that。",
+          "example": "the plan he made",
+          "exampleCn": "他制定的计划"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "The solidarity of the family",
+          "name": "定语从句省略关系词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他制定的计划",
+          "answer": "the plan he made",
+          "note": "they make 修饰 every plan,省略了 that。",
+          "point": "定语从句省略关系词"
+        }
+      ]
+    },
+    {
+      "text": "This experience will potentially necessitate a change in the old method.",
+      "translation": "这段经历可能会需要改变旧的方法。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "This experience will potentially necessitate a change",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "This experience"
+            },
+            {
+              "role": "谓语",
+              "text": "will potentially necessitate"
+            },
+            {
+              "role": "宾语",
+              "text": "a change"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "in the old method"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 potentially",
+          "note": "potentially 意为\"潜在地、可能地\"。",
+          "example": "This may potentially help.",
+          "exampleCn": "这可能会有所帮助。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "This experience will potentially necessitate a change",
+          "name": "副词 potentially"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这可能会有所帮助。",
+          "answer": "This may potentially help.",
+          "note": "potentially 意为\"潜在地、可能地\"。",
+          "point": "副词 potentially"
+        }
+      ]
+    },
+    {
+      "text": "The prestige of the school will not guarantee a good job.",
+      "translation": "学校的声望并不能保证一份好工作。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The prestige of the school will not guarantee a good job",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The prestige of the school"
+            },
+            {
+              "role": "谓语",
+              "text": "will not guarantee"
+            },
+            {
+              "role": "宾语",
+              "text": "a good job"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "注意否定词 not 修饰谓语。",
+          "example": "A degree does not guarantee success.",
+          "exampleCn": "学位并不能保证成功。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "The prestige of the school will not guarantee a good job",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:学位并不能保证成功。",
+          "answer": "A degree does not guarantee success.",
+          "note": "注意否定词 not 修饰谓语。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "A resolute heart will reap a rich harvest in the end.",
+      "translation": "坚定的心终将获得丰硕的收获。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A resolute heart will reap a rich harvest",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A resolute heart"
+            },
+            {
+              "role": "谓语",
+              "text": "will reap"
+            },
+            {
+              "role": "宾语",
+              "text": "a rich harvest"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in the end"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in the end 短语",
+          "note": "意为\"最终、最后\"。",
+          "example": "In the end, patience wins.",
+          "exampleCn": "最终,耐心获胜。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "A resolute heart will reap a rich harvest",
+          "name": "in the end 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:最终,耐心获胜。",
+          "answer": "In the end, patience wins.",
+          "note": "意为\"最终、最后\"。",
+          "point": "in the end 短语"
+        }
+      ]
+    },
+    {
+      "text": "A reckless choice will cost more than a patient wait.",
+      "translation": "轻率的选择会比耐心的等待付出更大代价。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A reckless choice will cost more",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A reckless choice"
+            },
+            {
+              "role": "谓语",
+              "text": "will cost"
+            },
+            {
+              "role": "宾语",
+              "text": "more"
+            }
+          ]
+        },
+        {
+          "label": "比较状语",
+          "color": "#8ab4f8",
+          "text": "than a patient wait"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "more...than 比较",
+          "note": "more than 构成比较结构。",
+          "example": "This will cost more than that.",
+          "exampleCn": "这会比那个花费更大。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "A reckless choice will cost more",
+          "name": "more...than 比较"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这会比那个花费更大。",
+          "answer": "This will cost more than that.",
+          "note": "more than 构成比较结构。",
+          "point": "more...than 比较"
+        }
+      ]
+    },
+    {
+      "text": "The scarcity of time will force us to be creative.",
+      "translation": "时间的匮乏将迫使我们发挥创造力。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The scarcity of time"
+        },
+        {
+          "label": "主干(谓语+宾语+宾补)",
+          "color": "#a8dab5",
+          "text": "will force us to be creative",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will force"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "to be creative"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "force sb to do",
+          "note": "force 后接宾语再接不定式,\"迫使某人做某事\"。",
+          "example": "Hunger forced him to work.",
+          "exampleCn": "饥饿迫使他工作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u4",
+          "phrase": "will force us to be creative",
+          "name": "force sb to do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:饥饿迫使他工作。",
+          "answer": "Hunger forced him to work.",
+          "note": "force 后接宾语再接不定式,\"迫使某人做某事\"。",
+          "point": "force sb to do"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u4",
+      "name": "现在分词短语作状语",
+      "note": "Beginning with... 作伴随/方式状语,主语为分词的逻辑主语。",
+      "sourceExample": "Beginning with a single textbook, the young man learned every subject by himself.",
+      "sourceExampleCn": "从一本课本开始,这个年轻人自学了每一门功课。"
+    },
+    {
+      "grammarId": "g-s3u4",
+      "name": "现在分词 Considering 作状语",
+      "note": "Considering... 意为\"考虑到……\"。",
+      "sourceExample": "Considering the low family income, the decision to study medicine will seem impossible.",
+      "sourceExampleCn": "考虑到家庭收入低,学医的决定似乎是不可能的。"
+    },
+    {
+      "grammarId": "g-s3u4",
+      "name": "不定式作后置定语",
+      "note": "to study medicine 修饰 decision。",
+      "sourceExample": "Considering the low family income, the decision to study medicine will seem impossible.",
+      "sourceExampleCn": "考虑到家庭收入低,学医的决定似乎是不可能的。"
+    },
+    {
+      "grammarId": "g-s3u4",
+      "name": "不定式短语作目的状语",
+      "note": "to achieve his goal 表示目的,可译为\"为了……\"。",
+      "sourceExample": "To achieve his goal, he will read one book every week without fail.",
+      "sourceExampleCn": "为了达到目标,他每周必读一本书,从不间断。"
+    },
+    {
+      "grammarId": "g-s3u4",
+      "name": "过去分词短语作状语",
+      "note": "Disappointed by... 表原因,\"因为对……失望\"。",
+      "sourceExample": "Disappointed by the first result, he will try again with a new method.",
+      "sourceExampleCn": "第一次结果令他失望,但他会用新方法再试一次。"
+    }
+  ]
+}

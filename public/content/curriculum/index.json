@@ -1,0 +1,568 @@
+{
+ "version": 1,
+ "stages": [
+  {
+   "id": 1,
+   "name": "入门",
+   "desc": "入门 · 简单句与日常对话",
+   "units": [
+    {
+     "id": "s1u1",
+     "stage": 1,
+     "title": "基本句型与 be 动词",
+     "grammarTopic": "基本句型与 be 动词",
+     "scene": "问候与自我介绍",
+     "wordRange": [
+      0,
+      489
+     ]
+    },
+    {
+     "id": "s1u2",
+     "stage": 1,
+     "title": "一般现在时",
+     "grammarTopic": "一般现在时",
+     "scene": "谈论日常生活",
+     "wordRange": [
+      489,
+      978
+     ]
+    },
+    {
+     "id": "s1u3",
+     "stage": 1,
+     "title": "一般过去时",
+     "grammarTopic": "一般过去时",
+     "scene": "讲述周末经历",
+     "wordRange": [
+      978,
+      1467
+     ]
+    },
+    {
+     "id": "s1u4",
+     "stage": 1,
+     "title": "一般将来时",
+     "grammarTopic": "一般将来时",
+     "scene": "计划一次旅行",
+     "wordRange": [
+      1467,
+      1956
+     ]
+    },
+    {
+     "id": "s1u5",
+     "stage": 1,
+     "title": "冠词与名词复数",
+     "grammarTopic": "冠词与名词复数",
+     "scene": "购物买水果",
+     "wordRange": [
+      1956,
+      2444
+     ]
+    },
+    {
+     "id": "s1u6",
+     "stage": 1,
+     "title": "代词与物主",
+     "grammarTopic": "代词与物主",
+     "scene": "介绍家人朋友",
+     "wordRange": [
+      2444,
+      2933
+     ]
+    },
+    {
+     "id": "s1u7",
+     "stage": 1,
+     "title": "形容词与副词基础",
+     "grammarTopic": "形容词与副词基础",
+     "scene": "描述城市与天气",
+     "wordRange": [
+      2933,
+      3422
+     ]
+    },
+    {
+     "id": "s1u8",
+     "stage": 1,
+     "title": "情态动词入门",
+     "grammarTopic": "情态动词入门",
+     "scene": "请求帮助与建议",
+     "wordRange": [
+      3422,
+      3911
+     ]
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "name": "四级",
+   "desc": "四级 · 常见从句与时态",
+   "units": [
+    {
+     "id": "s2u1",
+     "stage": 2,
+     "title": "进行时",
+     "grammarTopic": "进行时",
+     "scene": "咖啡馆点餐",
+     "wordRange": [
+      3911,
+      4057
+     ]
+    },
+    {
+     "id": "s2u2",
+     "stage": 2,
+     "title": "现在完成时",
+     "grammarTopic": "现在完成时",
+     "scene": "聊人生经历",
+     "wordRange": [
+      4057,
+      4203
+     ]
+    },
+    {
+     "id": "s2u3",
+     "stage": 2,
+     "title": "过去完成时",
+     "grammarTopic": "过去完成时",
+     "scene": "讲述错过火车",
+     "wordRange": [
+      4203,
+      4349
+     ]
+    },
+    {
+     "id": "s2u4",
+     "stage": 2,
+     "title": "不定式 to do",
+     "grammarTopic": "不定式 to do",
+     "scene": "谈论计划与目标",
+     "wordRange": [
+      4349,
+      4496
+     ]
+    },
+    {
+     "id": "s2u5",
+     "stage": 2,
+     "title": "动名词 doing",
+     "grammarTopic": "动名词 doing",
+     "scene": "谈论爱好",
+     "wordRange": [
+      4496,
+      4642
+     ]
+    },
+    {
+     "id": "s2u6",
+     "stage": 2,
+     "title": "被动语态",
+     "grammarTopic": "被动语态",
+     "scene": "参观工厂讲解",
+     "wordRange": [
+      4642,
+      4788
+     ]
+    },
+    {
+     "id": "s2u7",
+     "stage": 2,
+     "title": "定语从句",
+     "grammarTopic": "定语从句",
+     "scene": "描述理想公寓",
+     "wordRange": [
+      4788,
+      4934
+     ]
+    },
+    {
+     "id": "s2u8",
+     "stage": 2,
+     "title": "比较级与最高级",
+     "grammarTopic": "比较级与最高级",
+     "scene": "比较手机型号",
+     "wordRange": [
+      4934,
+      5080
+     ]
+    },
+    {
+     "id": "s2u9",
+     "stage": 2,
+     "title": "情态动词推测",
+     "grammarTopic": "情态动词推测",
+     "scene": "猜测包裹去向",
+     "wordRange": [
+      5080,
+      5227
+     ]
+    },
+    {
+     "id": "s2u10",
+     "stage": 2,
+     "title": "连词与状语从句",
+     "grammarTopic": "连词与状语从句",
+     "scene": "解释迟到原因",
+     "wordRange": [
+      5227,
+      5373
+     ]
+    },
+    {
+     "id": "s2u11",
+     "stage": 2,
+     "title": "will 与 be going to",
+     "grammarTopic": "will 与 be going to",
+     "scene": "天气预报讨论",
+     "wordRange": [
+      5373,
+      5519
+     ]
+    },
+    {
+     "id": "s2u12",
+     "stage": 2,
+     "title": "介词基础",
+     "grammarTopic": "介词基础",
+     "scene": "问路指路",
+     "wordRange": [
+      5519,
+      5665
+     ]
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "name": "六级",
+   "desc": "六级 · 复杂语法与书面表达",
+   "units": [
+    {
+     "id": "s3u1",
+     "stage": 3,
+     "title": "if 条件句",
+     "grammarTopic": "if 条件句",
+     "scene": "讨论学习计划",
+     "wordRange": [
+      5665,
+      5822
+     ]
+    },
+    {
+     "id": "s3u2",
+     "stage": 3,
+     "title": "wish 虚拟语气",
+     "grammarTopic": "wish 虚拟语气",
+     "scene": "懊悔与愿望",
+     "wordRange": [
+      5822,
+      5980
+     ]
+    },
+    {
+     "id": "s3u3",
+     "stage": 3,
+     "title": "非谓语作定语",
+     "grammarTopic": "非谓语作定语",
+     "scene": "描述新闻事件",
+     "wordRange": [
+      5980,
+      6137
+     ]
+    },
+    {
+     "id": "s3u4",
+     "stage": 3,
+     "title": "非谓语作状语",
+     "grammarTopic": "非谓语作状语",
+     "scene": "讲述奋斗故事",
+     "wordRange": [
+      6137,
+      6294
+     ]
+    },
+    {
+     "id": "s3u5",
+     "stage": 3,
+     "title": "名词性从句",
+     "grammarTopic": "名词性从句",
+     "scene": "表达观点",
+     "wordRange": [
+      6294,
+      6452
+     ]
+    },
+    {
+     "id": "s3u6",
+     "stage": 3,
+     "title": "倒装句",
+     "grammarTopic": "倒装句",
+     "scene": "正式演讲",
+     "wordRange": [
+      6452,
+      6609
+     ]
+    },
+    {
+     "id": "s3u7",
+     "stage": 3,
+     "title": "强调句",
+     "grammarTopic": "强调句",
+     "scene": "澄清误解",
+     "wordRange": [
+      6609,
+      6766
+     ]
+    },
+    {
+     "id": "s3u8",
+     "stage": 3,
+     "title": "分词作状语",
+     "grammarTopic": "分词作状语",
+     "scene": "描述事故经过",
+     "wordRange": [
+      6766,
+      6924
+     ]
+    },
+    {
+     "id": "s3u9",
+     "stage": 3,
+     "title": "时态综合",
+     "grammarTopic": "时态综合",
+     "scene": "复盘项目进度",
+     "wordRange": [
+      6924,
+      7081
+     ]
+    },
+    {
+     "id": "s3u10",
+     "stage": 3,
+     "title": "短语动词",
+     "grammarTopic": "短语动词",
+     "scene": "日常事务处理",
+     "wordRange": [
+      7081,
+      7238
+     ]
+    },
+    {
+     "id": "s3u11",
+     "stage": 3,
+     "title": "介词进阶",
+     "grammarTopic": "介词进阶",
+     "scene": "商务邮件沟通",
+     "wordRange": [
+      7238,
+      7396
+     ]
+    },
+    {
+     "id": "s3u12",
+     "stage": 3,
+     "title": "限定词与数量词",
+     "grammarTopic": "限定词与数量词",
+     "scene": "数据分析讨论",
+     "wordRange": [
+      7396,
+      7553
+     ]
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "name": "考研",
+   "desc": "考研 · 长难句与真题实战",
+   "units": [
+    {
+     "id": "s4u1",
+     "stage": 4,
+     "title": "长难句拆解法",
+     "grammarTopic": "长难句拆解法",
+     "scene": "考研复试自我介绍",
+     "wordRange": [
+      7553,
+      7577
+     ]
+    },
+    {
+     "id": "s4u2",
+     "stage": 4,
+     "title": "从句嵌套",
+     "grammarTopic": "从句嵌套",
+     "scene": "导师学术交流",
+     "wordRange": [
+      7577,
+      7601
+     ]
+    },
+    {
+     "id": "s4u3",
+     "stage": 4,
+     "title": "非谓语综合与独立主格",
+     "grammarTopic": "非谓语综合与独立主格",
+     "scene": "论文咨询",
+     "wordRange": [
+      7601,
+      7625
+     ]
+    },
+    {
+     "id": "s4u4",
+     "stage": 4,
+     "title": "省略与指代",
+     "grammarTopic": "省略与指代",
+     "scene": "学术讲座问答",
+     "wordRange": [
+      7625,
+      7649
+     ]
+    },
+    {
+     "id": "s4u5",
+     "stage": 4,
+     "title": "英译汉技巧",
+     "grammarTopic": "英译汉技巧",
+     "scene": "翻译实践讨论",
+     "wordRange": [
+      7649,
+      7673
+     ]
+    },
+    {
+     "id": "s4u6",
+     "stage": 4,
+     "title": "阅读题型方法论",
+     "grammarTopic": "阅读题型方法论",
+     "scene": "备考策略交流",
+     "wordRange": [
+      7673,
+      7697
+     ]
+    },
+    {
+     "id": "s4u7",
+     "stage": 4,
+     "title": "完形与新题型技巧",
+     "grammarTopic": "完形与新题型技巧",
+     "scene": "复习经验分享",
+     "wordRange": [
+      7697,
+      7721
+     ]
+    },
+    {
+     "id": "s4u8",
+     "stage": 4,
+     "title": "考研作文句式",
+     "grammarTopic": "考研作文句式",
+     "scene": "写作批改讨论",
+     "wordRange": [
+      7721,
+      7745
+     ]
+    },
+    {
+     "id": "s4u9",
+     "stage": 4,
+     "title": "翻译实战",
+     "grammarTopic": "翻译实战",
+     "scene": "文献翻译协作",
+     "wordRange": [
+      7745,
+      7769
+     ]
+    },
+    {
+     "id": "s4u10",
+     "stage": 4,
+     "title": "真题长难句精讲",
+     "grammarTopic": "真题长难句精讲",
+     "scene": "答辩演练",
+     "wordRange": [
+      7769,
+      7793
+     ]
+    }
+   ]
+  },
+  {
+   "id": 5,
+   "name": "雅思",
+   "desc": "雅思 · 学术表达与图表",
+   "units": [
+    {
+     "id": "s5u1",
+     "stage": 5,
+     "title": "学术写作句式",
+     "grammarTopic": "学术写作句式",
+     "scene": "学术演讲",
+     "wordRange": [
+      7793,
+      8036
+     ]
+    },
+    {
+     "id": "s5u2",
+     "stage": 5,
+     "title": "同义替换策略",
+     "grammarTopic": "同义替换策略",
+     "scene": "论文答辩",
+     "wordRange": [
+      8036,
+      8279
+     ]
+    },
+    {
+     "id": "s5u3",
+     "stage": 5,
+     "title": "图表描述",
+     "grammarTopic": "图表描述",
+     "scene": "数据讨论会",
+     "wordRange": [
+      8279,
+      8522
+     ]
+    },
+    {
+     "id": "s5u4",
+     "stage": 5,
+     "title": "观点论述框架",
+     "grammarTopic": "观点论述框架",
+     "scene": "观点辩论",
+     "wordRange": [
+      8522,
+      8765
+     ]
+    },
+    {
+     "id": "s5u5",
+     "stage": 5,
+     "title": "学术词汇搭配",
+     "grammarTopic": "学术词汇搭配",
+     "scene": "学术会议社交",
+     "wordRange": [
+      8765,
+      9008
+     ]
+    },
+    {
+     "id": "s5u6",
+     "stage": 5,
+     "title": "口语流利表达",
+     "grammarTopic": "口语流利表达",
+     "scene": "职场谈判",
+     "wordRange": [
+      9008,
+      9251
+     ]
+    }
+   ]
+  }
+ ]
+}

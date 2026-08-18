@@ -1,0 +1,63 @@
+{
+ "id": "cet6-106",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第2套) Passage 2",
+ "title": "People who repeatedly give unwanted advice can be well-meaning and genuinely ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 446,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "People who repeatedly give unwanted advice can be well-meaning and genuinely want to help. Others might do this out of a sense of self-worth around the ability to influence others. One study found that people with a high tendency to seek power were more likely to give advice than those with an opposite tendency.",
+  "Under the guise of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control. They may not be fully aware of this drive, however.",
+  "These people may also display a problematic degree of emotional vulnerability, becoming upset very quickly, and taking a long time to calm down. It is possible that their emotions were only validated in childhood when they were at their loudest, encouraging them to adopt responses to discomfort that are excessive in most situations.",
+  "When someone is giving advice in order to make themselves feel more powerful, there is underlying anxiety to their behavior that recipients of the advice tend to notice. It can be tempting in this situation to react harshly to the advice giver and to accuse them of being manipulative, but this approach might produce an undesired result.",
+  "If the act of giving advice is contributing actively to someone's feelings of self-worth, an outright rejection may be perceived as a threat, activating their fight-or-flight response, possibly causing them to double down on their validation-seeking behavior, or leading to a larger conflict.",
+  "The key is to validate without over-identifying. You can let them know that you have heard them and appreciate where they are coming from without taking on the potentially damaging narrative that you could not have gotten by without their help. You had better say something like, \"Thanks for the idea. I have my own plan for handling this, but I really appreciate your perspective and will take it into consideration. Can I let you know when I need help in the future?\"",
+  "If you have trouble setting boundaries tactfully, prioritize working on your own ability to self-regulate. As uncomfortable as it may make you continuously receiving unwanted advice, if you can respond with compassion, the situation will likely diffuse much faster.",
+  "Though it is usually not the intended outcome of giving unsolicited advice, many who receive it often feel stressed, offended, or simply annoyed by unwanted suggestions. Setting a boundary in this regard, if you feel you need one, is perfectly reasonable and something that can bring you increased emotional safety.",
+  "It is best to set boundaries in a way that takes into account the individual's underlying reasons for doing what they are doing to avoid unnecessary conflict and more stress."
+ ],
+ "questions": [
+  {
+   "q": "文中 “around” 最接近的意思是?",
+   "options": [
+    "同情",
+    "吸引人的",
+    "在…周围",
+    "大概， 多半 A"
+   ],
+   "answer": 2,
+   "analysis": "“around” 意为「在…周围」。原文语境:Others might do this out of a sense of self-worth around the ability to influence others.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Under the guise of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in ___.",
+   "options": [
+    "control",
+    "respond",
+    "produce",
+    "react"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Under the guise of unselfishness, people may be driven to give you unwanted advice because it makes them feel powerful or in control.”。空格处应填入 “control”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Nationally, one in six children miss 15 or more days of school in a year",
+    "With population increases and global urbanisation ever accelerating, much att",
+    "These days, nobody needs to cook",
+    "People who repeatedly give unwanted advice can be well-meaning and genuinely"
+   ],
+   "answer": 3,
+   "analysis": "本文以“People who repeatedly give unwanted advice can be well-meaning and genuinely want to help.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

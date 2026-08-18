@@ -1,0 +1,61 @@
+{
+ "id": "cet6-080",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第2套) Passage 2",
+ "title": "A few weeks ago, a well-meaning professor tried to explain the physiological ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 445,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized for a mistake in his information. He then issued an apology and deleted his erroneous tweet.",
+  "Communicating science beyond the academic bubble is necessary to augmenting public understanding of health and environmental issues and helping individuals make well-informed personal decisions.",
+  "However, scientists who engage in science communication must acknowledge that even in their area, their expertise is deep but narrow. They need to recognize the constraints in their own knowledge. That is not to suggest that they only write or present on their own research, but rather, that they consult with an expert if the topic is outside of their discipline. Fact-checking with a scientist who works in the specialty will prevent the unintentional",
+  "spread of misinformation, and the process of doing so may yield tiny pieces of interesting new information that can be incorporated.",
+  "Some have argued that the public is not educated enough to understand scientific information, especially for any complex phenomena, but this is absurd. Science instruction can be found at all levels of public education with most secondary schools offering classes on biology, physics, and chemistry. If anything, social media has shown that the public craves knowledge based on a solid scientific foundation. Even the public discourse that follows most scientific articles shows that online readers can understand even the most baffling of scientific principles.",
+  "It is equally imperative to emphasize that being an expert on a topic does not automatically make a scholar qualified to communicate it to a nonscientific audience. A number of scientists recently have been offering public-aimed explanations of scientific phenomena. Even though they have appropriate credentials, they often do very little in the way of explaining. One biologist shared an intricate analogy involving a library, books, paper, a recipe, ingredients, and a cake to explain the process behind vaccines. Any explanation that requires a written key to keep track of what each item represents is not a clear example for public consumption.",
+  "Science communication is a science in and of itself. It requires rigorous training and instruction. A scientist should take communication courses that can teach a person how to identify and eliminate jargon and how to develop effective analogies to explain complex concepts. One cannot assume communication expertise-imagine if someone just decided that they were a physicist and started trying to contribute to the field without the necessary background. Doing a poor job communicating science to the public will only create confusion and widen the gap between science and society, a gap that scientists are trying to close."
+ ],
+ "questions": [
+  {
+   "q": "文中 “explanation” 最接近的意思是?",
+   "options": [
+    "教授",
+    "说明，解释",
+    "在…较远的一边",
+    "基础"
+   ],
+   "answer": 1,
+   "analysis": "“explanation” 意为「说明，解释」。原文语境:Any explanation that requires a written key to keep track of what each item represents is not a clear example for public consumption.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:They need to ___ the constraints in their own knowledge.",
+   "options": [
+    "spread",
+    "yield",
+    "create",
+    "recognize"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“They need to recognize the constraints in their own knowledge.”。空格处应填入 “recognize”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "A few weeks ago, a well-meaning professor tried to explain the physiological",
+    "Open data sharers are still in the minority in many fields",
+    "Facing water shortages and escalating fertilizer costs, farmers in developing",
+    "Professor Stephen Hawking has warned that the creation of powerful artifcial"
+   ],
+   "answer": 0,
+   "analysis": "本文以“A few weeks ago, a well-meaning professor tried to explain the physiological process behind viruses and the human body in a tweet and was immediately criticized”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,1041 @@
+{
+  "id": "a-s3u1",
+  "stage": 3,
+  "unitId": "s3u1",
+  "title": "A Realistic Study Plan",
+  "newWords": [
+    "blueprint",
+    "envisage",
+    "concise",
+    "coherent",
+    "activate",
+    "analytical",
+    "optimum",
+    "periodic",
+    "adhere",
+    "conformity",
+    "authorize",
+    "principally",
+    "notable",
+    "confirmation",
+    "counselor",
+    "disastrous"
+  ],
+  "sentences": [
+    {
+      "text": "If you want to pass the national English test in June, you need a clear blueprint, not a vague hope.",
+      "translation": "如果你想在六月通过全国英语考试,你需要的不是一个模糊的希望,而是一个清晰的蓝图。",
+      "chunks": [
+        {
+          "label": "条件状语从句(第一条件句)",
+          "color": "#f6c177",
+          "text": "If you want to pass the national English test in June"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you need a clear blueprint",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "need"
+            },
+            {
+              "role": "宾语",
+              "text": "a clear blueprint"
+            }
+          ]
+        },
+        {
+          "label": "补语(对比补充)",
+          "color": "#9fd8e8",
+          "text": "not a vague hope"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "第一条件句",
+          "note": "if 从句用一般现在时表示条件,主句用 will/情态动词等表示结果。",
+          "example": "If you study hard, you will pass the test.",
+          "exampleCn": "如果你努力学习,你就会通过考试。"
+        },
+        {
+          "name": "not...but... 对比结构",
+          "note": "not A but B 强调\"不是A,而是B\"。",
+          "example": "It is not a dream but a plan.",
+          "exampleCn": "这不是梦想,而是计划。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "If you want to pass the national English test in June",
+          "name": "第一条件句"
+        },
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "If you want to pass the national English test in June",
+          "name": "not...but... 对比结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:如果你努力学习,你就会通过考试。",
+          "answer": "If you study hard, you will pass the test.",
+          "note": "if 从句用一般现在时表示条件,主句用 will/情态动词等表示结果。",
+          "point": "第一条件句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:这不是梦想,而是计划。",
+          "answer": "It is not a dream but a plan.",
+          "note": "not A but B 强调\"不是A,而是B\"。",
+          "point": "not...but... 对比结构"
+        }
+      ]
+    },
+    {
+      "text": "If you plan your week with a concise timetable, you will find time for every subject.",
+      "translation": "如果你用一份简洁的时间表规划一周,你就会为每门功课找到时间。",
+      "chunks": [
+        {
+          "label": "条件状语从句(第一条件句)",
+          "color": "#f6c177",
+          "text": "If you plan your week with a concise timetable"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will find time",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will find"
+            },
+            {
+              "role": "宾语",
+              "text": "time"
+            }
+          ]
+        },
+        {
+          "label": "目的状语",
+          "color": "#8ab4f8",
+          "text": "for every subject"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "第一条件句",
+          "note": "if + 一般现在时,主句 will + 动词原形。",
+          "example": "If you start early, you will finish on time.",
+          "exampleCn": "如果你早点开始,你就会按时完成。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "If you plan your week with a concise timetable",
+          "name": "第一条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:如果你早点开始,你就会按时完成。",
+          "answer": "If you start early, you will finish on time.",
+          "note": "if + 一般现在时,主句 will + 动词原形。",
+          "point": "第一条件句"
+        }
+      ]
+    },
+    {
+      "text": "Should you fall behind, do not panic; adjust the plan rather than abandon it.",
+      "translation": "万一你落后了,不要惊慌;调整计划,而不是放弃它。",
+      "chunks": [
+        {
+          "label": "倒装条件句(Should 前置)",
+          "color": "#f6c177",
+          "text": "Should you fall behind"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "do not panic"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "adjust the plan"
+        },
+        {
+          "label": "比较连词短语",
+          "color": "#f6c177",
+          "text": "rather than abandon it"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "倒装条件句",
+          "note": "Should + 主语 + 动词原形 = If + 主语 + should...,用于正式文体表万一。",
+          "example": "Should you need help, call me.",
+          "exampleCn": "万一你需要帮助,就打电话给我。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "Should you fall behind",
+          "name": "倒装条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:万一你需要帮助,就打电话给我。",
+          "answer": "Should you need help, call me.",
+          "note": "Should + 主语 + 动词原形 = If + 主语 + should...,用于正式文体表万一。",
+          "point": "倒装条件句"
+        }
+      ]
+    },
+    {
+      "text": "Even if you find the task hard, keep to the schedule and do not stop.",
+      "translation": "即使你觉得任务很难,也要坚持按计划进行,不要停下来。",
+      "chunks": [
+        {
+          "label": "让步状语从句",
+          "color": "#f6c177",
+          "text": "Even if you find the task hard"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "keep to the schedule"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "do not stop"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "even if 让步条件句",
+          "note": "even if 意为\"即使\",从句提出让步条件,主句照常执行。",
+          "example": "Even if it rains, we will go.",
+          "exampleCn": "即使下雨,我们也会去。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "Even if you find the task hard",
+          "name": "even if 让步条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:即使下雨,我们也会去。",
+          "answer": "Even if it rains, we will go.",
+          "note": "even if 意为\"即使\",从句提出让步条件,主句照常执行。",
+          "point": "even if 让步条件句"
+        }
+      ]
+    },
+    {
+      "text": "Unless you activate the plan on day one, your energy will fade within a week.",
+      "translation": "除非你第一天就启动计划,否则你的精力会在一周内消退。",
+      "chunks": [
+        {
+          "label": "条件状语从句(unless)",
+          "color": "#f6c177",
+          "text": "Unless you activate the plan on day one"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "your energy will fade",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "your energy"
+            },
+            {
+              "role": "谓语",
+              "text": "will fade"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "within a week"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "unless 条件句",
+          "note": "unless = if...not,意为\"除非\"。",
+          "example": "Unless you try, you will never know.",
+          "exampleCn": "除非你去尝试,否则你永远不会知道。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "Unless you activate the plan on day one",
+          "name": "unless 条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:除非你去尝试,否则你永远不会知道。",
+          "answer": "Unless you try, you will never know.",
+          "note": "unless = if...not,意为\"除非\"。",
+          "point": "unless 条件句"
+        }
+      ]
+    },
+    {
+      "text": "If you ask me, half an hour of reading each morning will do more than any magic method.",
+      "translation": "依我看,每天早晨半小时的阅读比任何神奇的方法都更有用。",
+      "chunks": [
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "If you ask me"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "half an hour of reading each morning will do more",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "half an hour of reading each morning"
+            },
+            {
+              "role": "谓语",
+              "text": "will do"
+            },
+            {
+              "role": "宾语",
+              "text": "more"
+            }
+          ]
+        },
+        {
+          "label": "比较状语",
+          "color": "#8ab4f8",
+          "text": "than any magic method"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "条件句 + 比较级",
+          "note": "more...than 表比较;if you ask me 是口语化插入条件。",
+          "example": "Reading will help more than any trick.",
+          "exampleCn": "阅读比任何技巧都更有帮助。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "half an hour of reading each morning will do more",
+          "name": "条件句 + 比较级"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:阅读比任何技巧都更有帮助。",
+          "answer": "Reading will help more than any trick.",
+          "note": "more...than 表比较;if you ask me 是口语化插入条件。",
+          "point": "条件句 + 比较级"
+        }
+      ]
+    },
+    {
+      "text": "If you start with a small goal, the task will not seem so large.",
+      "translation": "如果你从小目标开始,任务就不会显得那么庞大。",
+      "chunks": [
+        {
+          "label": "条件状语从句(第一条件句)",
+          "color": "#f6c177",
+          "text": "If you start with a small goal"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the task will not seem so large",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the task"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will not seem"
+            },
+            {
+              "role": "表语",
+              "text": "so large"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "系动词 seem",
+          "note": "seem 是系动词,后接形容词作表语。",
+          "example": "The plan will seem easy.",
+          "exampleCn": "这个计划会显得很简单。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "the task will not seem so large",
+          "name": "系动词 seem"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这个计划会显得很简单。",
+          "answer": "The plan will seem easy.",
+          "note": "seem 是系动词,后接形容词作表语。",
+          "point": "系动词 seem"
+        }
+      ]
+    },
+    {
+      "text": "Provided that you review your progress every week, you will see steady improvement.",
+      "translation": "只要你每周回顾自己的进步,就能看到稳步提升。",
+      "chunks": [
+        {
+          "label": "条件状语从句(provided that)",
+          "color": "#f6c177",
+          "text": "Provided that you review your progress every week"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will see steady improvement",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will see"
+            },
+            {
+              "role": "宾语",
+              "text": "steady improvement"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "provided that 条件连词",
+          "note": "provided that = if,意为\"倘若、只要\",多见于书面语。",
+          "example": "Provided that you practice daily, you will improve.",
+          "exampleCn": "只要你每天练习,你就会进步。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "Provided that you review your progress every week",
+          "name": "provided that 条件连词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:只要你每天练习,你就会进步。",
+          "answer": "Provided that you practice daily, you will improve.",
+          "note": "provided that = if,意为\"倘若、只要\",多见于书面语。",
+          "point": "provided that 条件连词"
+        }
+      ]
+    },
+    {
+      "text": "A notable counselor can not authorize your success; the effort must come from within.",
+      "translation": "一位出色的顾问也无法替你批准成功;努力必须来自你自身。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A notable counselor can not authorize your success",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A notable counselor"
+            },
+            {
+              "role": "谓语",
+              "text": "can not authorize"
+            },
+            {
+              "role": "宾语",
+              "text": "your success"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the effort must come from within"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "情态动词 can/must",
+          "note": "情态动词后接动词原形;can not 表\"不能\",must 表\"必须\"。",
+          "example": "You must act, not just wish.",
+          "exampleCn": "你必须行动,而不只是空想。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "A notable counselor can not authorize your success",
+          "name": "情态动词 can/must"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:你必须行动,而不只是空想。",
+          "answer": "You must act, not just wish.",
+          "note": "情态动词后接动词原形;can not 表\"不能\",must 表\"必须\"。",
+          "point": "情态动词 can/must"
+        }
+      ]
+    },
+    {
+      "text": "Remember that a coherent plan with periodic review will always beat a clever excuse.",
+      "translation": "记住:一份连贯的、有定期回顾的计划,总能胜过聪明的借口。",
+      "chunks": [
+        {
+          "label": "主干(谓语,祈使句)",
+          "color": "#a8dab5",
+          "text": "Remember",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Remember"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a coherent plan with periodic review will always beat a clever excuse"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句",
+          "note": "Remember that... 中 that 从句作 remember 的宾语。",
+          "example": "Remember that practice matters.",
+          "exampleCn": "记住,练习很重要。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "that a coherent plan with periodic review will always beat a clever excuse",
+          "name": "that 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:记住,练习很重要。",
+          "answer": "Remember that practice matters.",
+          "note": "Remember that... 中 that 从句作 remember 的宾语。",
+          "point": "that 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "An analytical mind will help you find the optimum use of your time.",
+      "translation": "分析型的头脑会帮助你找到时间的最佳用途。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾宾补)",
+          "color": "#a8dab5",
+          "text": "An analytical mind will help you find the optimum use of your time",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An analytical mind"
+            },
+            {
+              "role": "谓语",
+              "text": "will help"
+            },
+            {
+              "role": "宾语",
+              "text": "you"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "find the optimum use of your time"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "help sb do 结构",
+          "note": "help 后接宾语再接不带 to 的不定式。",
+          "example": "A good habit will help you succeed.",
+          "exampleCn": "好习惯会帮助你成功。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "An analytical mind will help you find the optimum use of your time",
+          "name": "help sb do 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:好习惯会帮助你成功。",
+          "answer": "A good habit will help you succeed.",
+          "note": "help 后接宾语再接不带 to 的不定式。",
+          "point": "help sb do 结构"
+        }
+      ]
+    },
+    {
+      "text": "If you adhere to a simple routine, you will develop a strong habit.",
+      "translation": "如果你坚持简单的日常安排,你就会养成牢固的习惯。",
+      "chunks": [
+        {
+          "label": "条件状语从句(第一条件句)",
+          "color": "#f6c177",
+          "text": "If you adhere to a simple routine"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will develop a strong habit",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "will develop"
+            },
+            {
+              "role": "宾语",
+              "text": "a strong habit"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "adhere to 短语",
+          "note": "adhere to 意为\"坚持、遵守\"。",
+          "example": "Adhere to your plan.",
+          "exampleCn": "坚持你的计划。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "If you adhere to a simple routine",
+          "name": "adhere to 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:坚持你的计划。",
+          "answer": "Adhere to your plan.",
+          "note": "adhere to 意为\"坚持、遵守\"。",
+          "point": "adhere to 短语"
+        }
+      ]
+    },
+    {
+      "text": "Do not expect conformity without effort; you must activate your own will.",
+      "translation": "不要指望不付出努力就能保持一致;你必须激活自己的意志。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Do not expect conformity"
+        },
+        {
+          "label": "条件状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "without effort"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you must activate your own will",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "must activate"
+            },
+            {
+              "role": "宾语",
+              "text": "your own will"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "without 介词短语表条件",
+          "note": "without + 名词 表示\"如果没有……\"。",
+          "example": "Without practice, you will fail.",
+          "exampleCn": "没有练习,你就会失败。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "you must activate your own will",
+          "name": "without 介词短语表条件"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:没有练习,你就会失败。",
+          "answer": "Without practice, you will fail.",
+          "note": "without + 名词 表示\"如果没有……\"。",
+          "point": "without 介词短语表条件"
+        }
+      ]
+    },
+    {
+      "text": "A disastrous mistake is to compare yourself with a perfect image.",
+      "translation": "最灾难性的错误,就是拿自己和完美的形象作比较。",
+      "chunks": [
+        {
+          "label": "主干(主系表前半)",
+          "color": "#a8dab5",
+          "text": "A disastrous mistake is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A disastrous mistake"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语(不定式)",
+          "color": "#9fd8e8",
+          "text": "to compare yourself with a perfect image"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "主语 + be + 不定式,不定式说明主语内容。",
+          "example": "The key is to start small.",
+          "exampleCn": "关键是小处着手。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "to compare yourself with a perfect image",
+          "name": "不定式作表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:关键是小处着手。",
+          "answer": "The key is to start small.",
+          "note": "主语 + be + 不定式,不定式说明主语内容。",
+          "point": "不定式作表语"
+        }
+      ]
+    },
+    {
+      "text": "Principally, your success will depend on how you use the morning hour.",
+      "translation": "主要来说,你的成功将取决于你如何使用早晨的时间。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Principally"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "your success will depend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "your success"
+            },
+            {
+              "role": "谓语",
+              "text": "will depend"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语,内含宾语从句)",
+          "color": "#8ab4f8",
+          "text": "on how you use the morning hour"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "depend on + 宾语从句",
+          "note": "depend on 后接 how 引导的宾语从句。",
+          "example": "Success depends on how you plan.",
+          "exampleCn": "成功取决于你如何规划。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "on how you use the morning hour",
+          "name": "depend on + 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:成功取决于你如何规划。",
+          "answer": "Success depends on how you plan.",
+          "note": "depend on 后接 how 引导的宾语从句。",
+          "point": "depend on + 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "If I envisage a year of steady practice, I see clear progress.",
+      "translation": "如果我设想一年稳定的练习,我就能看到清晰的进步。",
+      "chunks": [
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "If I envisage a year of steady practice"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I see clear progress",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "see"
+            },
+            {
+              "role": "宾语",
+              "text": "clear progress"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 条件句(主句一般现在时)",
+          "note": "if 从句和主句都用一般现在时,表普遍规律。",
+          "example": "If you practice daily, you improve.",
+          "exampleCn": "你若每天练习,就会进步。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "If I envisage a year of steady practice",
+          "name": "if 条件句(主句一般现在时)"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:你若每天练习,就会进步。",
+          "answer": "If you practice daily, you improve.",
+          "note": "if 从句和主句都用一般现在时,表普遍规律。",
+          "point": "if 条件句(主句一般现在时)"
+        }
+      ]
+    },
+    {
+      "text": "Your final confirmation will come from the test result itself.",
+      "translation": "你最终的确认将来自考试成绩本身。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "Your final confirmation will come",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Your final confirmation"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "from the test result itself"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "come from 短语",
+          "note": "come from 表示\"来自\"。",
+          "example": "The answer will come from practice.",
+          "exampleCn": "答案将来自实践。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "Your final confirmation will come",
+          "name": "come from 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:答案将来自实践。",
+          "answer": "The answer will come from practice.",
+          "note": "come from 表示\"来自\"。",
+          "point": "come from 短语"
+        }
+      ]
+    },
+    {
+      "text": "In short, if you act today, tomorrow will thank you.",
+      "translation": "总之,如果你今天行动起来,明天会感谢你。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "In short"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "if you act today"
+        },
+        {
+          "label": "主干(主谓宾,拟人)",
+          "color": "#a8dab5",
+          "text": "tomorrow will thank you"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "拟人修辞",
+          "note": "tomorrow will thank you 用拟人手法,意为\"明天会回报你\"。",
+          "example": "Time will reward the patient.",
+          "exampleCn": "时间会回报有耐心的人。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u1",
+          "phrase": "tomorrow will thank you",
+          "name": "拟人修辞"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:时间会回报有耐心的人。",
+          "answer": "Time will reward the patient.",
+          "note": "tomorrow will thank you 用拟人手法,意为\"明天会回报你\"。",
+          "point": "拟人修辞"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u1",
+      "name": "第一条件句",
+      "note": "if 从句用一般现在时表示条件,主句用 will/情态动词等表示结果。",
+      "sourceExample": "If you want to pass the national English test in June, you need a clear blueprint, not a vague hope.",
+      "sourceExampleCn": "如果你想在六月通过全国英语考试,你需要的不是一个模糊的希望,而是一个清晰的蓝图。"
+    },
+    {
+      "grammarId": "g-s3u1",
+      "name": "not...but... 对比结构",
+      "note": "not A but B 强调\"不是A,而是B\"。",
+      "sourceExample": "If you want to pass the national English test in June, you need a clear blueprint, not a vague hope.",
+      "sourceExampleCn": "如果你想在六月通过全国英语考试,你需要的不是一个模糊的希望,而是一个清晰的蓝图。"
+    },
+    {
+      "grammarId": "g-s3u1",
+      "name": "倒装条件句",
+      "note": "Should + 主语 + 动词原形 = If + 主语 + should...,用于正式文体表万一。",
+      "sourceExample": "Should you fall behind, do not panic; adjust the plan rather than abandon it.",
+      "sourceExampleCn": "万一你落后了,不要惊慌;调整计划,而不是放弃它。"
+    },
+    {
+      "grammarId": "g-s3u1",
+      "name": "even if 让步条件句",
+      "note": "even if 意为\"即使\",从句提出让步条件,主句照常执行。",
+      "sourceExample": "Even if you find the task hard, keep to the schedule and do not stop.",
+      "sourceExampleCn": "即使你觉得任务很难,也要坚持按计划进行,不要停下来。"
+    },
+    {
+      "grammarId": "g-s3u1",
+      "name": "unless 条件句",
+      "note": "unless = if...not,意为\"除非\"。",
+      "sourceExample": "Unless you activate the plan on day one, your energy will fade within a week.",
+      "sourceExampleCn": "除非你第一天就启动计划,否则你的精力会在一周内消退。"
+    }
+  ]
+}

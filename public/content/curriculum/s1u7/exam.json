@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u7",
+  "stage": 1,
+  "unitId": "s1u7",
+  "title": "真题演练 · 形容词与副词基础",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 形容词与副词基础。",
+  "questions": [
+    {
+      "q": "She is a ___ girl.",
+      "options": [
+        "beauty",
+        "beautiful",
+        "beautifully",
+        "beautify"
+      ],
+      "answer": 1,
+      "analysis": "名词 girl 前用形容词 beautiful。",
+      "point": "g-s1u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He speaks English ___.",
+      "options": [
+        "good",
+        "well",
+        "best",
+        "goodly"
+      ],
+      "answer": 1,
+      "analysis": "修饰动词 speak 用副词 well。",
+      "point": "g-s1u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The little dog runs ___.",
+      "options": [
+        "slow",
+        "slowly",
+        "slower",
+        "slowest"
+      ],
+      "answer": 1,
+      "analysis": "修饰动词 run 用副词 slowly。",
+      "point": "g-s1u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She feels ___ today.",
+      "options": [
+        "happy",
+        "happily",
+        "happiness",
+        "very"
+      ],
+      "answer": 0,
+      "analysis": "feel 是系动词,后面用形容词 happy 作表语。",
+      "point": "g-s1u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This is a ___ day.",
+      "options": [
+        "sun",
+        "sunny",
+        "sunnily",
+        "cloud"
+      ],
+      "answer": 1,
+      "analysis": "名词 day 前用形容词 sunny。",
+      "point": "g-s1u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She sings good.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She sings well.。修饰动词 sing 用副词 well,不用形容词 good。",
+      "point": "g-s1u7",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

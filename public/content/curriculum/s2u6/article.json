@@ -1,0 +1,844 @@
+{
+  "id": "a-s2u6",
+  "stage": 2,
+  "unitId": "s2u6",
+  "title": "A Visit to the Factory",
+  "newWords": [
+    "added",
+    "answered",
+    "baking",
+    "built",
+    "carefully",
+    "checked",
+    "cleaned",
+    "delivered",
+    "improved",
+    "loaves",
+    "made",
+    "mixed",
+    "packed",
+    "produced",
+    "sent",
+    "shaped",
+    "warmly",
+    "was",
+    "welcomed",
+    "crucial"
+  ],
+  "sentences": [
+    {
+      "text": "Welcome to our factory, where fresh bread is made every day.",
+      "translation": "欢迎来到我们的工厂,这里每天都会生产新鲜的面包。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Welcome to our factory",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Welcome"
+            },
+            {
+              "role": "状语(介词短语)",
+              "text": "to our factory"
+            }
+          ]
+        },
+        {
+          "label": "从句(非限制性定语从句)",
+          "color": "#c8a5e0",
+          "text": "where fresh bread is made every day"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态 is made",
+          "note": "be+过去分词构成被动语态,动作的承受者 bread 作主语,表示\"面包被生产\"。"
+        },
+        {
+          "name": "where 引导非限制性定语从句",
+          "note": "where 修饰 factory,补充说明\"在这个工厂里\"发生的事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "where fresh bread is made every day",
+          "name": "被动语态 is made"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "where fresh bread is made every day",
+          "name": "where 引导非限制性定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Welcome to our factory, where fresh bread is made every day.",
+          "answer": "Welcome to our factory, where fresh bread is made every day.",
+          "note": "be+过去分词构成被动语态,动作的承受者 bread 作主语,表示\"面包被生产\"。",
+          "point": "被动语态 is made"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Welcome to our factory, where fresh bread is made every day.",
+          "answer": "Welcome to our factory, where fresh bread is made every day.",
+          "note": "where 修饰 factory,补充说明\"在这个工厂里\"发生的事。",
+          "point": "where 引导非限制性定语从句"
+        }
+      ]
+    },
+    {
+      "text": "The wheat is cleaned first, and then it is ground with care.",
+      "translation": "小麦先被清洗,然后被仔细地磨碎。",
+      "chunks": [
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "The wheat is cleaned",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "The wheat"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is cleaned"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "first"
+        },
+        {
+          "label": "连词(承接)",
+          "color": "#f6c177",
+          "text": "and then"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "it is ground",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "it"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is ground"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with care"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般现在时被动语态",
+          "note": "is cleaned / is ground 都是 be+过去分词,强调动作本身而不是谁做的。"
+        },
+        {
+          "name": "and then 然后",
+          "note": "and then 表示动作的先后顺序,\"先……然后……\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "The wheat is cleaned",
+          "name": "一般现在时被动语态"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "The wheat is cleaned",
+          "name": "and then 然后"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The wheat is cleaned first, and then it is ground with care.",
+          "answer": "The wheat is cleaned first, and then it is ground with care.",
+          "note": "is cleaned / is ground 都是 be+过去分词,强调动作本身而不是谁做的。",
+          "point": "一般现在时被动语态"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The wheat is cleaned first, and then it is ground with care.",
+          "answer": "The wheat is cleaned first, and then it is ground with care.",
+          "note": "and then 表示动作的先后顺序,\"先……然后……\"。",
+          "point": "and then 然后"
+        }
+      ]
+    },
+    {
+      "text": "Water and salt are added to it, and it is mixed for a long time.",
+      "translation": "水和盐被加进去,然后被搅拌很长时间。",
+      "chunks": [
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "Water and salt are added to it",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "Water and salt"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "are added"
+            },
+            {
+              "role": "状语(介词短语)",
+              "text": "to it"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "it is mixed",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "it"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is mixed"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for a long time"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态 are added",
+          "note": "are added 中 be 动词随主语 Water and salt(复数)用 are。"
+        },
+        {
+          "name": "for + 时间段",
+          "note": "for a long time 表示\"持续很长时间\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "Water and salt are added to it",
+          "name": "被动语态 are added"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "Water and salt are added to it",
+          "name": "for + 时间段"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Water and salt are added to it, and it is mixed for a long time.",
+          "answer": "Water and salt are added to it, and it is mixed for a long time.",
+          "note": "are added 中 be 动词随主语 Water and salt(复数)用 are。",
+          "point": "被动语态 are added"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Water and salt are added to it, and it is mixed for a long time.",
+          "answer": "Water and salt are added to it, and it is mixed for a long time.",
+          "note": "for a long time 表示\"持续很长时间\"。",
+          "point": "for + 时间段"
+        }
+      ]
+    },
+    {
+      "text": "The bread is shaped by hand, and then it is put into a hot oven to bake.",
+      "translation": "面包被手工塑形,然后被放进热烤箱里烘烤。",
+      "chunks": [
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "The bread is shaped",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "The bread"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is shaped"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "by hand"
+        },
+        {
+          "label": "连词(承接)",
+          "color": "#f6c177",
+          "text": "and then"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "it is put into a hot oven",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "it"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is put"
+            },
+            {
+              "role": "状语",
+              "text": "into a hot oven"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "to bake"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "by hand 手工地",
+          "note": "by hand 表示\"用手工的方式\",说明动作的执行方式。"
+        },
+        {
+          "name": "被动语态 is put",
+          "note": "put 的过去分词仍是 put(不规则动词),be+put 表示\"被放\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "it is put into a hot oven",
+          "name": "by hand 手工地"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "it is put into a hot oven",
+          "name": "被动语态 is put"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The bread is shaped by hand, and then it is put into a hot oven to bake.",
+          "answer": "The bread is shaped by hand, and then it is put into a hot oven to bake.",
+          "note": "by hand 表示\"用手工的方式\",说明动作的执行方式。",
+          "point": "by hand 手工地"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The bread is shaped by hand, and then it is put into a hot oven to bake.",
+          "answer": "The bread is shaped by hand, and then it is put into a hot oven to bake.",
+          "note": "put 的过去分词仍是 put(不规则动词),be+put 表示\"被放\"。",
+          "point": "被动语态 is put"
+        }
+      ]
+    },
+    {
+      "text": "After baking, the bread is packed into a big box and is sent to another city.",
+      "translation": "烘烤之后,面包被装进大箱子,并被运往另一个城市。",
+      "chunks": [
+        {
+          "label": "时间状语(介词+动名词)",
+          "color": "#8ab4f8",
+          "text": "After baking"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "the bread is packed into a big box",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "the bread"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is packed"
+            },
+            {
+              "role": "状语",
+              "text": "into a big box"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "is sent to another city",
+          "parts": [
+            {
+              "role": "谓语(被动语态)",
+              "text": "is sent"
+            },
+            {
+              "role": "状语",
+              "text": "to another city"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "after + 动名词作时间状语",
+          "note": "After baking 表示\"烘烤之后\",介词 after 后接动名词。"
+        },
+        {
+          "name": "被动语态 is packed / is sent",
+          "note": "两个并列的被动谓语,表示\"被包装、被运送\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "the bread is packed into a big box",
+          "name": "after + 动名词作时间状语"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "the bread is packed into a big box",
+          "name": "被动语态 is packed / is sent"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After baking, the bread is packed into a big box and is sent to another city.",
+          "answer": "After baking, the bread is packed into a big box and is sent to another city.",
+          "note": "After baking 表示\"烘烤之后\",介词 after 后接动名词。",
+          "point": "after + 动名词作时间状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After baking, the bread is packed into a big box and is sent to another city.",
+          "answer": "After baking, the bread is packed into a big box and is sent to another city.",
+          "note": "两个并列的被动谓语,表示\"被包装、被运送\"。",
+          "point": "被动语态 is packed / is sent"
+        }
+      ]
+    },
+    {
+      "text": "Every day, about a thousand loaves are produced by our factory.",
+      "translation": "每天,我们工厂大约生产一千条面包。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Every day"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "about a thousand loaves are produced",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "about a thousand loaves"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "are produced"
+            }
+          ]
+        },
+        {
+          "label": "状语(by 引出施动者)",
+          "color": "#8ab4f8",
+          "text": "by our factory"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态 by + 施动者",
+          "note": "by our factory 引出动作的执行者,翻译成\"由我们的工厂\"。"
+        },
+        {
+          "name": "produce 生产",
+          "note": "loaf(条/块)的复数形式是 loaves,are produced 表示\"被生产\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "about a thousand loaves are produced",
+          "name": "被动语态 by + 施动者"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "about a thousand loaves are produced",
+          "name": "produce 生产"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Every day, about a thousand loaves are produced by our factory.",
+          "answer": "Every day, about a thousand loaves are produced by our factory.",
+          "note": "by our factory 引出动作的执行者,翻译成\"由我们的工厂\"。",
+          "point": "被动语态 by + 施动者"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Every day, about a thousand loaves are produced by our factory.",
+          "answer": "Every day, about a thousand loaves are produced by our factory.",
+          "note": "loaf(条/块)的复数形式是 loaves,are produced 表示\"被生产\"。",
+          "point": "produce 生产"
+        }
+      ]
+    },
+    {
+      "text": "The factory was built in 1990, and it was improved last year.",
+      "translation": "这家工厂建于1990年,去年进行了改进。",
+      "chunks": [
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "The factory was built",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "The factory"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "was built"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in 1990"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "it was improved",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "it"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "was improved"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "last year"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般过去时被动语态",
+          "note": "was built / was improved 是 be(was)+过去分词,表示过去发生的被动动作。"
+        },
+        {
+          "name": "in 1990 时间状语",
+          "note": "in+年份表示\"在某一年\",last year 表示\"去年\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "The factory was built",
+          "name": "一般过去时被动语态"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "The factory was built",
+          "name": "in 1990 时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The factory was built in 1990, and it was improved last year.",
+          "answer": "The factory was built in 1990, and it was improved last year.",
+          "note": "was built / was improved 是 be(was)+过去分词,表示过去发生的被动动作。",
+          "point": "一般过去时被动语态"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The factory was built in 1990, and it was improved last year.",
+          "answer": "The factory was built in 1990, and it was improved last year.",
+          "note": "in+年份表示\"在某一年\",last year 表示\"去年\"。",
+          "point": "in 1990 时间状语"
+        }
+      ]
+    },
+    {
+      "text": "You are warmly welcomed here, and your question is always answered by our staff.",
+      "translation": "你们在这里受到热情的欢迎,你们的问题总会得到我们员工的解答。",
+      "chunks": [
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "You are warmly welcomed",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "You"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "are warmly welcomed"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "here"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "your question is always answered",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "your question"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is always answered"
+            }
+          ]
+        },
+        {
+          "label": "状语(by 引出施动者)",
+          "color": "#8ab4f8",
+          "text": "by our staff"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态 welcome / answer",
+          "note": "are warmly welcomed 和 is answered 表示\"被欢迎、被解答\"。"
+        },
+        {
+          "name": "副词修饰被动语态",
+          "note": "warmly、always 是副词,放在 be 动词与过去分词之间或之前。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "your question is always answered",
+          "name": "被动语态 welcome / answer"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "your question is always answered",
+          "name": "副词修饰被动语态"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You are warmly welcomed here, and your question is always answered by our staff.",
+          "answer": "You are warmly welcomed here, and your question is always answered by our staff.",
+          "note": "are warmly welcomed 和 is answered 表示\"被欢迎、被解答\"。",
+          "point": "被动语态 welcome / answer"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You are warmly welcomed here, and your question is always answered by our staff.",
+          "answer": "You are warmly welcomed here, and your question is always answered by our staff.",
+          "note": "warmly、always 是副词,放在 be 动词与过去分词之间或之前。",
+          "point": "副词修饰被动语态"
+        }
+      ]
+    },
+    {
+      "text": "Remember, quality is checked carefully, because safety is crucial for us, and the bread is delivered to the shop on time.",
+      "translation": "请记住,质量会被仔细检查,因为安全对我们至关重要,而且面包会被准时送到商店。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Remember",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Remember"
+            }
+          ]
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "quality is checked carefully",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "quality"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is checked carefully"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "safety is crucial for us"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(被动语态)",
+          "color": "#a8dab5",
+          "text": "the bread is delivered to the shop on time",
+          "parts": [
+            {
+              "role": "主语(动作承受者)",
+              "text": "the bread"
+            },
+            {
+              "role": "谓语(被动语态)",
+              "text": "is delivered"
+            },
+            {
+              "role": "状语",
+              "text": "to the shop"
+            },
+            {
+              "role": "时间状语",
+              "text": "on time"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态 is checked",
+          "note": "is checked 表示\"被检查\",carefully 修饰被检查的方式。"
+        },
+        {
+          "name": "被动语态 is delivered",
+          "note": "is delivered to the shop 表示\"被送到商店\",on time 表示\"准时\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "the bread is delivered to the shop on time",
+          "name": "被动语态 is checked"
+        },
+        {
+          "grammarId": "g-s2u6",
+          "phrase": "the bread is delivered to the shop on time",
+          "name": "被动语态 is delivered"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Remember, quality is checked carefully, because safety is crucial for us, and the bread is delivered to the shop on time.",
+          "answer": "Remember, quality is checked carefully, because safety is crucial for us, and the bread is delivered to the shop on time.",
+          "note": "is checked 表示\"被检查\",carefully 修饰被检查的方式。",
+          "point": "被动语态 is checked"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Remember, quality is checked carefully, because safety is crucial for us, and the bread is delivered to the shop on time.",
+          "answer": "Remember, quality is checked carefully, because safety is crucial for us, and the bread is delivered to the shop on time.",
+          "note": "is delivered to the shop 表示\"被送到商店\",on time 表示\"准时\"。",
+          "point": "被动语态 is delivered"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u6",
+      "name": "被动语态 is made",
+      "note": "be+过去分词构成被动语态,动作的承受者 bread 作主语,表示\"面包被生产\"。",
+      "sourceExample": "Welcome to our factory, where fresh bread is made every day.",
+      "sourceExampleCn": "欢迎来到我们的工厂,这里每天都会生产新鲜的面包。"
+    },
+    {
+      "grammarId": "g-s2u6",
+      "name": "where 引导非限制性定语从句",
+      "note": "where 修饰 factory,补充说明\"在这个工厂里\"发生的事。",
+      "sourceExample": "Welcome to our factory, where fresh bread is made every day.",
+      "sourceExampleCn": "欢迎来到我们的工厂,这里每天都会生产新鲜的面包。"
+    },
+    {
+      "grammarId": "g-s2u6",
+      "name": "一般现在时被动语态",
+      "note": "is cleaned / is ground 都是 be+过去分词,强调动作本身而不是谁做的。",
+      "sourceExample": "The wheat is cleaned first, and then it is ground with care.",
+      "sourceExampleCn": "小麦先被清洗,然后被仔细地磨碎。"
+    },
+    {
+      "grammarId": "g-s2u6",
+      "name": "and then 然后",
+      "note": "and then 表示动作的先后顺序,\"先……然后……\"。",
+      "sourceExample": "The wheat is cleaned first, and then it is ground with care.",
+      "sourceExampleCn": "小麦先被清洗,然后被仔细地磨碎。"
+    },
+    {
+      "grammarId": "g-s2u6",
+      "name": "被动语态 are added",
+      "note": "are added 中 be 动词随主语 Water and salt(复数)用 are。",
+      "sourceExample": "Water and salt are added to it, and it is mixed for a long time.",
+      "sourceExampleCn": "水和盐被加进去,然后被搅拌很长时间。"
+    }
+  ]
+}

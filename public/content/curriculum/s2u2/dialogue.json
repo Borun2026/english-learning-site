@@ -1,0 +1,45 @@
+{
+  "id": "d-s2u2",
+  "stage": 2,
+  "unitId": "s2u2",
+  "scene": "聊人生经历",
+  "goal": "让朋友听完你的一次难忘经历",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "朋友 Emily", "line": "Hey! I have heard that you have done so many interesting things. What is the most unforgettable experience you have ever had?", "lineCn": "嘿!我听说你做过很多有趣的事。你最难忘的经历是什么?", "grammar": [ { "name": "现在完成时提问经历", "note": "Have you ever...? 询问过去是否发生过,强调与现在的关联。" } ],
+      "options": [
+        { "text": "I have traveled alone across three provinces. That was truly unforgettable!", "textCn": "我曾独自旅行穿越三个省份。那真的很难忘!", "feedback": "用现在完成时点出经历,引起朋友的好奇心。", "next": "n2" },
+        { "text": "Nothing special.", "textCn": "没什么特别的。", "feedback": "拒绝分享,聊天无法继续。", "next": "n3" },
+        { "text": "I have a pen.", "textCn": "我有一支笔。", "feedback": "答非所问,朋友问的是经历而不是物品。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "朋友 Emily", "line": "Wow, you have traveled alone? I have never been brave enough to do that. What happened on the trip?", "lineCn": "哇,你独自旅行过?我从没勇气这么做。旅途上发生了什么?", "grammar": [ { "name": "have + 过去分词", "note": "I have never been brave enough... 现在完成时强调从过去到现在从未有过。" } ],
+      "options": [
+        { "text": "I have climbed a mountain at sunrise and I have met three kind old farmers on the way.", "textCn": "我在日出时爬过一座山,途中还遇到了三位善良的老农。", "feedback": "用两个现在完成时具体描述经历,画面感很强。", "next": "n4" },
+        { "text": "I went there.", "textCn": "我去了那儿。", "feedback": "信息太少,朋友完全不知道你经历了什么。", "next": "n5" },
+        { "text": "It has been a long time, I do not remember.", "textCn": "已经过去很久了,我不记得了。", "feedback": "自己都忘了,这段经历也很难讲出来。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "朋友 Emily", "line": "Come on, everyone has had at least one special moment. Has anything interesting ever happened to you?", "lineCn": "别这样,每个人都有至少一个特别的时刻。你身上有没有发生过什么有趣的事?", "grammar": [ { "name": "Has anything ever happened...?", "note": "现在完成时疑问句,询问是否曾经发生过,ever 加强语气。" } ],
+      "options": [
+        { "text": "Actually, I have once gotten lost in the city for a whole night. That is a long story!", "textCn": "其实,我曾经在城里迷路了一整晚。这说来话长!", "feedback": "找到了一个值得讲的经历,把话题拉了回来。", "next": "n2" },
+        { "text": "I have told you, nothing happened to me.", "textCn": "我说过了,什么都没发生过。", "feedback": "再次拒绝,朋友也不再想追问了。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "朋友 Emily", "line": "That sounds amazing! Have you ever done anything like that again since then?", "lineCn": "听起来太棒了!从那以后,你有没有再做过类似的事?", "grammar": [ { "name": "since 引导的时间状语", "note": "since then 与现在完成时连用,表示\"从那之后到现在\"。" } ],
+      "options": [
+        { "text": "I have been to the seaside twice since then, and I have made many friends there.", "textCn": "从那以后我去过海边两次,在那里交了很多朋友。", "feedback": "用现在完成时继续展开,经历越讲越丰满。", "next": "n6" },
+        { "text": "No, I have not.", "textCn": "不,没有。", "feedback": "话题到这里断了,经历没讲完。", "next": "n6" }
+      ] },
+    "n5": { "id": "n5", "speaker": "朋友 Emily", "line": "Well, try to remember something. Has anything exciting ever happened to you in your life?", "lineCn": "好吧,试着回忆一下。你人生中有没有发生过什么激动人心的事?", "grammar": [ { "name": "Has anything...happened?", "note": "疑问词 anything 与现在完成时搭配,表示\"是否发生过什么\"。" } ],
+      "options": [
+        { "text": "Yes! I have once won first prize in a speech contest. I have never forgotten that day.", "textCn": "有!我曾在一场演讲比赛中得过一等奖。我从没忘记那一天。", "feedback": "终于讲出了具体经历,还用了两个现在完成时。", "next": "n6" },
+        { "text": "I have forgotten everything. I really cannot think of any.", "textCn": "我全忘了,真的想不起来任何事。", "feedback": "一再推脱,朋友只好放弃追问。", "next": "fail1" }
+      ] },
+    "n6": { "id": "n6", "speaker": "朋友 Emily", "line": "That is really wonderful! Thank you so much for sharing this with me. I have learned a lot about you today.", "lineCn": "真的太棒了!非常感谢你和我分享这些。今天我对你有了很多了解。", "grammar": [ { "name": "现在完成时表持续", "note": "I have learned a lot... 表示到现在为止已经了解了很多。" } ],
+      "options": [
+        { "text": "Thanks for listening! Maybe we can make our own memories together next time.", "textCn": "谢谢你听我说!也许下次我们也可以一起创造我们的回忆。", "feedback": "顺利讲完经历,还邀约下次一起玩,对话圆满结束。", "next": "success" },
+        { "text": "Whatever. I am leaving now.", "textCn": "随便吧。我要走了。", "feedback": "突然离开,辜负了朋友的热情,经历也不算真正聊完。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "朋友 Emily", "line": "Deal! I cannot wait to hear more of your stories next time!", "lineCn": "说定了!我等不及下次再听你的故事了!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "朋友 Emily", "line": "Okay... maybe you just do not want to talk. Let us talk about something else then.", "lineCn": "好吧……也许你只是不想说。那我们聊点别的吧。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "朋友 Emily", "line": "Oh, sure. See you later then. It was nice talking to you.", "lineCn": "哦,好的。那回头见,和你聊天很开心。", "end": true, "success": false }
+  }
+}

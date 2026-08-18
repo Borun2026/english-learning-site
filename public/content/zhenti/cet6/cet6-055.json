@@ -1,0 +1,59 @@
+{
+ "id": "cet6-055",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第1套) Passage 1",
+ "title": "It is not controversial to say that an unhealthy diet causes bad health",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 454,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "It is not controversial to say that an unhealthy diet causes bad health. Nor are the basic elements of healthy eating disputed. Obesity raises susceptibility to cancer, and Britain is the sixth most obese country on Earth. That is a public health emergency. But naming the problem is the easy part. No one disputes the costs in quality of life and depleted health budgets of an obese population, but the quest for solutions gets diverted by ideological arguments around responsibility and choice. And the water is muddied by lobbying from the industries that profit from consumption of obesity-inducing products.",
+  "Historical precedent suggests that science and politics can overcome resistance from businesses that pollute and poison but it takes time, and success often starts small. So it is heartening to note that a programme in Leeds has achieved a reduction in childhood obesity, becoming the first UK city to reverse a fattening trend. The best results were among younger children and in more deprived areas. When 28% of English children aged two to 15 are obese, a national shift on the scale achieved by Leeds would lengthen hundreds of thousands of lives. A significant factor in the Leeds experience appears to be a scheme called - H- EN- R- Y,- which helps parents reward behaviours that prevent obesity in children.",
+  "Many members of parliament are uncomfortable even with their own government's anti-obesity strategy, since it involves a \" sugar tax \" and a ban on the sale of energy drinks to under- 16s. Bans and taxes can be blunt instruments, but their harshest critics can rarely suggest better methods. These critics just oppose regulation itself.",
+  "The relationship between poor health and inequality is too pronounced for governments to be passive about large-scale intervention. People living in the most deprived areas are four times more prone to die from avoidable causes than counterparts in more affluent places. As the structural nature of public health problems becomes harder to ignore, the complaint about overprotective government loses potency.",
+  "In fact, the polarised debate over public health interventions should have been abandoned long ago . Government action works when individuals are motivated to respond. Individuals need governments that expand access to good choices. The HENRY programme was delivered in part through children's centres. Closing such centres and cutting council budgets doesn't magically increase reserves of individual self-reliance. The function of a well-designed state intervention is not to deprive people of liberty but to build social capacity and infrastructure that helps people take responsibility for their wellbeing. The obesity crisis will not have a solution devised by left or right ideology-but experience indicates that the private sector needs the incentive of regulation before it starts taking public health emergencies seriously."
+ ],
+ "questions": [
+  {
+   "q": "文中 “ignore” 最接近的意思是?",
+   "options": [
+    "质量，[统计] 品质",
+    "干涉， 干预， 介入",
+    "不顾， 不理， 忽视",
+    "科学"
+   ],
+   "answer": 2,
+   "analysis": "“ignore” 意为「不顾， 不理， 忽视」。原文语境:As the structural nature of public health problems becomes harder to ignore, the complaint about overprotective government loses potency.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Obesity raises susceptibility to cancer, and ___ is the sixth most obese country on Earth.",
+   "options": [
+    "Britain",
+    "reward",
+    "state",
+    "resistance"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Obesity raises susceptibility to cancer, and Britain is the sixth most obese country on Earth.”。空格处应填入 “Britain”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "It is not controversial to say that an unhealthy diet causes bad health",
+    "Phonics, which involves sounding out words syllable () by syllable, is the be",
+    "Women have historically been paid less",
+    "Officials at the White House announced a new space policy focused on managing"
+   ],
+   "answer": 0,
+   "analysis": "本文以“It is not controversial to say that an unhealthy diet causes bad health.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

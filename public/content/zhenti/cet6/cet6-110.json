@@ -1,0 +1,74 @@
+{
+ "id": "cet6-110",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第1套) Passage 2",
+ "title": "After earning a bachelor's degree, I was determined to do what I love",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "After earning a bachelor's degree, I was determined to do what I love. I headed straight to graduate school to investigate the social problems that fascinated me.",
+  "For almost a decade, I told everyone I encountered that they should do the same. \"Follow your passion,\" I counseled. \"You can figure out the employment stuff later.\"",
+  "It wasn't until I began to research this widely accepted career advice that I understood how problematic it really was.",
+  "As a sociologist, I interviewed college students and professional workers to learn what it really meant to pursue their dreams, which I will refer to here as the passion principle. I was stunned by what I found out about this principle in the research for my new book.",
+  "Surveys show the American public has long held the passion principle in high regard as a career decision-making priority. And its popularity is even stronger among those facing job instability.",
+  "Advocates of the passion principle found it compelling because they believed that following one's passion can provide workers with both the motivation necessary to work hard and a place to find fulfillment.",
+  "Yet, what I found is that following one's passion does not necessarily lead to fulfillment, but is one of the most powerful cultural forces perpetuating overwork. I also found that promoting the pursuit of one's passion helps perpetuate social inequalities due to the fact that not everyone has the same economic resources to allow them to pursue their passion with ease.",
+  "While the passion principle is broadly popular, not everyone has the necessary resources to turn their passion into a",
+  "stable, good-paying job. Passion-seekers from wealthy families are better able to wait until a job they are passionate",
+  "about comes along without worrying about student loans in the meantime. They are also better situated to take unpaid",
+  "internships to get their foot in the door while their parents pay their rent. And they often have access to parents' social",
+  "networks to help them find jobs. Surveys revealed that working-class and first-generation college graduates, regardless",
+  "of their career field, are more likely than their wealthier peers to end up in low-paying unskilled jobs when they pursue",
+  "their passion.",
+  "Colleges, workplaces and career counselors who promote the \"follow your passion\" path for everyone, without",
+  "leveling the playing field, help perpetuate socioeconomic inequalities among career aspirants.",
+  "It's not just well-off passion-seekers who benefit from the passion principle. Employers of passionate workers do,",
+  "too. Potential employers showed greater interest in passionate applicants in part because they believed the applicants",
+  "would work hard at their jobs without expecting an increase in pay. They even sacrifice a good salary, job stability and",
+  "leisure time to work in a job they love."
+ ],
+ "questions": [
+  {
+   "q": "文中 “necessary” 最接近的意思是?",
+   "options": [
+    "必要地",
+    "必要的",
+    "大概， 多半 A",
+    "职业"
+   ],
+   "answer": 1,
+   "analysis": "“necessary” 意为「必要的」。原文语境:Advocates of the passion principle found it compelling because they believed that following one's passion can provide workers with both the motivation necessary to work hard and a ",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:It's not just well-off passion-seekers who ___ from the passion principle.",
+   "options": [
+    "pursue",
+    "benefit",
+    "promote",
+    "salary"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“It's not just well-off passion-seekers who benefit from the passion principle.”。空格处应填入 “benefit”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Officials at the White House announced a new space policy focused on managing",
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual",
+    "It is not controversial to say that an unhealthy diet causes bad health",
+    "After earning a bachelor's degree, I was determined to do what I love"
+   ],
+   "answer": 3,
+   "analysis": "本文以“After earning a bachelor's degree, I was determined to do what I love.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u4",
+  "stage": 4,
+  "title": "省略与指代",
+  "explanation": "## 省略与指代:读懂\"留白\"的艺术\n\n考研阅读中,省略和指代是理解的关键。作者为了简洁常省略重复成分,并用代词指代前文。读不懂省略和指代,就抓不住句意。\n\n## 常见省略\n\n1. **并列省略**:He likes coffee and I (like) tea。省略重复的谓语动词。\n2. **定语从句省略**:The man (whom) I met yesterday。关系代词作宾语可省略。\n3. **状语从句省略**:When (I was) young, I lived here。从句主语与主句一致时可省略主谓。\n4. **不定式省略**:He can run faster than I can (run)。\n5. **so/not 替代**:I think so / I hope not。\n\n## 指代关系\n\n1. it/that 指代单数名词或上文整件事:He won, but nobody knew it。\n2. they/them 指代复数名词:注意往前找最近的可数复数先行词。\n3. one/ones 代替同类不同个:The red apple is sweeter than the green one。\n\n## 考研实战\n\n真题阅读理解几乎每题都有指代题(What does \"it\" refer to?)。解题要点:指代就近原则 + 单复数一致 + 语义通顺验证。翻译时把省略部分补全再译,译文要流畅自然。",
+  "examples": [
+    { "en": "When in doubt, ask for help.", "cn": "有疑问时,就寻求帮助。", "note": "省略 When you are,补全为 When you are in doubt。" },
+    { "en": "He speaks French better than I do.", "cn": "他法语说得比我好。", "note": "do 替代 speak French,避免重复。" },
+    { "en": "The car I bought is cheaper than the one she bought.", "cn": "我买的车比她买的便宜。", "note": "one 代替 car,指代同类事物。" },
+    { "en": "Although tired, he kept working.", "cn": "虽然累了,他仍继续工作。", "note": "省略 Although he was,补全主语和 be 动词。" }
+  ],
+  "errors": [
+    { "wrong": "I like tea, and she likes.", "right": "I like tea, and she does too.", "note": "省略后用助动词替代,不能只留 likes。" },
+    { "wrong": "The man whom I saw him yesterday is my uncle.", "right": "The man whom I saw yesterday is my uncle.", "note": "关系代词作宾语后不能再保留代词 him,或者直接省略 whom。" },
+    { "wrong": "He can swim faster than I can swim fast.", "right": "He can swim faster than I can.", "note": "重复内容省略,只留情态动词。" }
+  ],
+  "quiz": [
+    { "q": "The flowers in the garden are prettier than ___ in the park.", "options": ["that", "those", "it", "this"], "answer": 1, "note": "those 替代可数复数 flowers。" },
+    { "q": "When ___ young, he lived in the countryside.", "options": ["was", "is", "being", "was he"], "answer": 2, "note": "省略 when he was,补全时用 being 或直接省略。" },
+    { "q": "Do you think it will rain? I ___ not.", "options": ["hope", "think", "want", "wish"], "answer": 0, "note": "I hope not 是固定省略表达。" },
+    { "q": "He works harder than any other student ___ in his class.", "options": ["does", "do", "is", "are"], "answer": 0, "note": "does 替代 works hard。" },
+    { "q": "This is the house ___ I was born.", "options": ["where", "that", "which", "what"], "answer": 0, "note": "where 引导定语从句表地点,不可省略。" }
+  ]
+}

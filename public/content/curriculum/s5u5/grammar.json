@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u5",
+  "stage": 5,
+  "title": "学术词汇搭配",
+  "explanation": "## 学术词汇搭配:Collocation 决定地道度\n\n雅思高分考生不靠生僻单词,靠**正确搭配(collocation)**。搭配错误会直接拉低 Lexical Resource 与口语的自然度。\n\n## 高频学术搭配\n\n1. **动词 + 名词**:conduct research(开展研究), draw a conclusion(得出结论), make progress(取得进步), pose a threat(构成威胁)。\n2. **形容词 + 名词**:significant impact, considerable amount, growing concern, vital role。\n3. **副词 + 形容词**:highly effective, widely accepted, increasingly popular, severely affected。\n4. **介词搭配**:be capable of, be concerned about, depend on, benefit from, contribute to。\n\n## 易错搭配警示\n\n- do a research(错误)→ conduct/carry out research。\n- make a conclusion(错误)→ draw/reach a conclusion。\n- pay attention on(错误)→ pay attention to。\n\n## 积累方法\n\n1. 用搭配词典查词时看完整搭配,而非单个单词。\n2. 按话题分类积累:环境、教育、科技、健康。\n3. 口语写作中刻意使用 2-3 个高级搭配,提升表达层次。",
+  "examples": [
+    { "en": "The government conducted a large-scale survey on public health.", "cn": "政府就公共卫生开展了一项大规模调查。", "note": "conduct a survey 是标准学术搭配。" },
+    { "en": "Technology plays a vital role in modern education.", "cn": "科技在现代教育中起着至关重要的作用。", "note": "play a vital role in 表\"起重要作用\"。" },
+    { "en": "This measure is highly effective in reducing pollution.", "cn": "这项措施在减少污染方面非常有效。", "note": "highly + effective 是副词形容词搭配。" },
+    { "en": "Regular reading contributes to the improvement of writing skills.", "cn": "经常阅读有助于写作能力的提高。", "note": "contribute to 表\"有助于\"。" }
+  ],
+  "errors": [
+    { "wrong": "I need to do a research on this topic.", "right": "I need to conduct research on this topic.", "note": "research 与 conduct/carry out 搭配,不用 do。" },
+    { "wrong": "We can draw a conclusion that exercise is helpful.", "right": "We can draw the conclusion that exercise is helpful.", "note": "draw a/the conclusion 固定搭配,this 处应用定冠词 the。" },
+    { "wrong": "You should pay attention on your pronunciation.", "right": "You should pay attention to your pronunciation.", "note": "pay attention 后接 to,固定介词搭配。" }
+  ],
+  "quiz": [
+    { "q": "\"开展研究\"的正确搭配是?", "options": ["do research", "conduct research", "make research", "research do"], "answer": 1, "note": "conduct/carry out research 是标准搭配。" },
+    { "q": "\"得出结论\"的正确表达是?", "options": ["make a conclusion", "draw a conclusion", "get a conclusion", "conclusion draw"], "answer": 1, "note": "draw/reach a conclusion 是固定搭配。" },
+    { "q": "play a vital ___ in modern society 中应填?", "options": ["role", "part of", "place", "position"], "answer": 0, "note": "play a vital role in 表\"起重要作用\"。" },
+    { "q": "\"对……担忧\"的正确搭配是?", "options": ["concerned at", "concerned about", "concerned for to", "concerned of"], "answer": 1, "note": "be concerned about 是固定搭配。" },
+    { "q": "The proposal is ___ accepted by the public.", "options": ["wide", "widely", "wider", "width"], "answer": 1, "note": "副词 widely 修饰过去分词 accepted。" }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "id": "d-s3u11",
+  "stage": 3,
+  "unitId": "s3u11",
+  "scene": "商务邮件沟通",
+  "goal": "电话确认合作细节并达成一致",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Good morning. This is David Davis from Meridian Trading. I am calling on behalf of our purchasing department regarding the autumn order.",
+      "lineCn": "早上好。我是 Meridian 贸易公司的 David Davis。我代表采购部就秋季订单一事致电。",
+      "grammar": [
+        { "name": "介词短语 on behalf of / regarding", "note": "on behalf of 代表……,regarding 关于、就……而言,二者是商务电话开场的地道表达。" }
+      ],
+      "options": [
+        { "text": "Good morning, Mr. Davis. I was expecting your call in connection with the revised contract.", "textCn": "早上好,Davis 先生。我正期待您关于修订合同的来电。", "feedback": "专业回应,谈判开始。", "next": "n2" },
+        { "text": "Good morning. I am afraid I know nothing about any autumn order.", "textCn": "早上好。恐怕我对秋季订单一无所知。", "feedback": "业务不清,对方说明来意。", "next": "n3" },
+        { "text": "Could you call back later? I am in the middle of a meeting at the moment.", "textCn": "您能晚点打来吗?我正在开会。", "feedback": "婉拒通话,对方争取机会。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Perfect. In terms of delivery time, we hope to receive the first batch by the end of October.",
+      "lineCn": "很好。就交货时间而言,我们希望十月底前收到第一批货。",
+      "grammar": [
+        { "name": "介词短语 in terms of", "note": "in terms of 就……而言、在……方面,是商务讨论中最常用的限定讨论范围的介词短语。" }
+      ],
+      "options": [
+        { "text": "That should be feasible in terms of our current production capacity.", "textCn": "就我们目前的生产能力而言,这是可行的。", "feedback": "正面回应,谈判推进。", "next": "n4" },
+        { "text": "By the end of October? Due to the holiday season, our factory will be short of hands.", "textCn": "十月底?由于假期临近,我们工厂会人手不足。", "feedback": "说明困难,双方协商。", "next": "n4" },
+        { "text": "I cannot commit without checking with the production department first.", "textCn": "不先和生产部确认,我无法承诺。", "feedback": "谨慎回应,对方追问。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "I see. In light of our long partnership, I would appreciate it if you could look into the order.",
+      "lineCn": "我明白了。鉴于我们长期的合作关系,希望您能查一下这笔订单。",
+      "grammar": [
+        { "name": "介词短语 in light of", "note": "in light of 鉴于、考虑到,正式书面语,用于说明理由与背景。" }
+      ],
+      "options": [
+        { "text": "You are right. I will search for the order details in our system right away.", "textCn": "您说得对。我马上在系统里查订单详情。", "feedback": "立即行动,转回正题。", "next": "n2" },
+        { "text": "Our partnership is irrelevant here. You should send everything by email instead.", "textCn": "合作关系与这无关。您应该把一切发邮件给我。", "feedback": "态度生硬,对方不悦。", "next": "n5" },
+        { "text": "I am too busy for this. Please deal with my colleague instead.", "textCn": "我太忙了。请找我同事处理吧。", "feedback": "推诿事务,对方失望。", "next": "n5" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Good. As for the price, our board proposes a five percent discount in exchange for a larger order.",
+      "lineCn": "好。至于价格,我方董事会提议:若订单增大,则提供百分之五的折扣作为交换。",
+      "grammar": [
+        { "name": "介词短语 as for / in exchange for", "note": "as for 至于、关于;in exchange for 以……作为交换,是讨价还价的常用结构。" }
+      ],
+      "options": [
+        { "text": "A five percent discount is acceptable in principle, but let me confirm the exact quantity.", "textCn": "原则上可以接受百分之五的折扣,但请让我确认具体数量。", "feedback": "原则接受,继续磋商细节。", "next": "n6" },
+        { "text": "In exchange for a larger order, we would need at least ten percent off.", "textCn": "作为加量的交换,我们至少需要打九折。", "feedback": "还价有力,谈判拉锯。", "next": "n6" },
+        { "text": "The price is not my department. Please talk to our sales director in charge of pricing.", "textCn": "价格不是我负责的。请找负责定价的销售总监谈。", "feedback": "层层推诿,对方不满。", "next": "n5" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "I am disappointed, to be honest. In spite of my efforts, we seem to be going around in circles.",
+      "lineCn": "说实话,我很失望。尽管我多方努力,我们似乎一直在原地打转。",
+      "grammar": [
+        { "name": "介词短语 in spite of", "note": "in spite of 尽管,后接名词短语,引导让步,语气比 although 更正式。" }
+      ],
+      "options": [
+        { "text": "I apologise for the confusion. From now on, I will personally take charge of this matter.", "textCn": "我为混乱道歉。从现在起,我会亲自负责此事。", "feedback": "承担责任,谈判重启。", "next": "n6" },
+        { "text": "In spite of your disappointment, I cannot magically solve everything in one call.", "textCn": "尽管您失望,我也无法一通电话变出一切。", "feedback": "态度消极,对方进一步施压。", "next": "n7" },
+        { "text": "You are right to be frustrated. Due to my neglect, this call should have happened earlier.", "textCn": "您有理由沮丧。由于我的疏忽,这通电话本该更早打。", "feedback": "诚恳道歉,气氛缓和。", "next": "n6" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Thank you for your cooperation. In addition to the discount, we also ask for priority shipping.",
+      "lineCn": "感谢您的配合。除了折扣之外,我们还要求优先发货。",
+      "grammar": [
+        { "name": "介词短语 in addition to", "note": "in addition to 除……之外(还),后接名词,用于逐条罗列要求。" }
+      ],
+      "options": [
+        { "text": "Priority shipping is possible, provided that you cover the extra cost.", "textCn": "优先发货可行,前提是贵方承担额外费用。", "feedback": "有条件同意,谈判深入。", "next": "n6b" },
+        { "text": "In addition to priority shipping, do you have any other requirements?", "textCn": "除了优先发货,贵方还有其他要求吗?", "feedback": "主动了解全部条件。", "next": "n6b" },
+        { "text": "Priority shipping is out of the question, regardless of what you offer.", "textCn": "优先发货免谈,不管贵方提出什么条件。", "feedback": "一口回绝,对方不悦。", "next": "n7" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Very well. Let us also discuss the packaging specifications, especially in terms of moisture protection.",
+      "lineCn": "很好。我们再谈谈包装规格,尤其是在防潮方面。",
+      "grammar": [
+        { "name": "介词短语 in terms of(方面)", "note": "in terms of 在此限定讨论维度(防潮),与 especially 连用突出重点。" }
+      ],
+      "options": [
+        { "text": "We will use waterproof materials in accordance with your previous requirements.", "textCn": "我们会依照贵方以往的要求使用防水材料。", "feedback": "符合要求,细节敲定。", "next": "n8" },
+        { "text": "In terms of moisture, our standard packaging should suffice.", "textCn": "就防潮而言,我们的标准包装应该足够。", "feedback": "说明方案,对方评估。", "next": "n8" },
+        { "text": "Packaging is trivial. Let us focus on the money instead.", "textCn": "包装是小事,我们还是谈钱吧。", "feedback": "轻视细节,对方不以为然。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "In regard to the tone of this call, I must say your attitude is making negotiation difficult.",
+      "lineCn": "就这通电话的氛围而言,我必须说您的态度让谈判变得困难。",
+      "grammar": [
+        { "name": "介词短语 in regard to", "note": "in regard to 关于、就……而言,正式用语,常见于书面沟通与正式场合。" }
+      ],
+      "options": [
+        { "text": "I apologise. With respect to the earlier remarks, I spoke out of frustration, not intention.", "textCn": "我道歉。关于之前的言论,那是出于沮丧,并非有意。", "feedback": "真诚致歉,关系修复。", "next": "n8" },
+        { "text": "Regardless of your feelings, business is business. My terms stand.", "textCn": "不管您感受如何,生意就是生意。我的条件不变。", "feedback": "强硬到底,谈判破裂。", "next": "fail1" },
+        { "text": "I had no intention of sounding harsh. In comparison with our usual partners, we are quite flexible.", "textCn": "我无意语气生硬。与我们通常的伙伴相比,我们相当灵活。", "feedback": "自我澄清,谈判继续。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Let us move forward, then. In accordance with the usual practice, we will pay a thirty percent deposit upon signing.",
+      "lineCn": "那我们向前推进。按照惯例,签约时我们将支付三成定金。",
+      "grammar": [
+        { "name": "介词短语 in accordance with", "note": "in accordance with 依照、按照,是合同与正式文书的标准用语。" }
+      ],
+      "options": [
+        { "text": "In accordance with our policy, we require the deposit before production starts.", "textCn": "按照我方政策,生产开始前须收到定金。", "feedback": "条款一致,继续确认。", "next": "n8b" },
+        { "text": "A thirty percent deposit sounds reasonable. In return, we will send you the contract by tonight.", "textCn": "三成定金合理。作为回报,我们今晚就把合同发给您。", "feedback": "积极响应,协议成形。", "next": "n8b" },
+        { "text": "Forget the deposit. In the event of default, we can sue each other.", "textCn": "别谈定金了。一旦违约,我们互相起诉就行。", "feedback": "轻率极端,对方愕然。", "next": "fail2" }
+      ]
+    },
+    "n8b": {
+      "id": "n8b",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Understood. Regarding insurance, we will arrange full coverage at our own expense.",
+      "lineCn": "明白。关于保险,我们将自费安排全额投保。",
+      "grammar": [
+        { "name": "介词 regarding", "note": "regarding 关于,与 with regard to 同义,口语与书面通用,商务电话自然衔接。" }
+      ],
+      "options": [
+        { "text": "That is generous. In return, we will guarantee the quality of every batch.", "textCn": "贵方很大方。作为回报,我方将保证每批货的质量。", "feedback": "互惠互让,合作愉快。", "next": "n9" },
+        { "text": "Due to the high value of the goods, please ensure the insurance covers sea transport.", "textCn": "鉴于货物价值高,请确保保险涵盖海运。", "feedback": "风险意识强,细节周全。", "next": "n9" },
+        { "text": "Insurance is unnecessary, in my view, due to the short shipping distance.", "textCn": "依我看,运输距离短,保险没有必要。", "feedback": "轻视风险,对方提醒。", "next": "n9" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Excellent. In conclusion, we have agreed on price, delivery, and shipping. Anything else to add?",
+      "lineCn": "很好。总而言之,我们已就价格、交货和运输达成一致。还有要补充的吗?",
+      "grammar": [
+        { "name": "介词短语 in conclusion", "note": "in conclusion 总之、最后,用于总结陈词,是正式交流的收尾用语。" }
+      ],
+      "options": [
+        { "text": "One thing, in addition to what we have agreed: please mark every package in accordance with our labelling standards.", "textCn": "除已商定内容外还有一点:请按我方标签标准标记每个包裹。", "feedback": "补充细节,协议更完整。", "next": "n10" },
+        { "text": "Nothing else. In the meantime, I will prepare the formal agreement.", "textCn": "没有其他了。同时,我会准备正式协议。", "feedback": "共识达成,收尾顺利。", "next": "success" },
+        { "text": "I need to think it over. In case of further questions, I will email you tomorrow.", "textCn": "我需要再想想。如有疑问,我明天发邮件。", "feedback": "临场犹豫,合作悬置。", "next": "fail1" }
+      ]
+    },
+    "n10": {
+      "id": "n10",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Noted. In the event of any discrepancies, we will contact you within 48 hours.",
+      "lineCn": "记下了。一旦出现任何不符,我们将在四十八小时内联系贵方。",
+      "grammar": [
+        { "name": "介词短语 in the event of", "note": "in the event of 如果发生……,引导可能出现的状况,是合同语言的常见表达。" }
+      ],
+      "options": [
+        { "text": "Perfect. In comparison with previous orders, this process has been remarkably smooth.", "textCn": "很好。与以往订单相比,这次流程异常顺畅。", "feedback": "彼此满意,合作达成。", "next": "success" },
+        { "text": "I hope there will be no discrepancies. In any case, I trust your team.", "textCn": "希望不会有差错。无论如何,我信任贵方团队。", "feedback": "信任表达,合作圆满。", "next": "success" },
+        { "text": "On the whole, I am satisfied. I look forward to our future cooperation.", "textCn": "总体而言,我很满意。期待我们未来的合作。", "feedback": "展望合作,皆大欢喜。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "Then we are all set. With regard to the contract, you will receive it by email within the hour. Thank you for your time.",
+      "lineCn": "那我们一切就绪。关于合同,一小时内您将收到邮件。感谢您的时间。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "I am sorry the negotiation could not continue. In hindsight, a little flexibility would have served both sides.",
+      "lineCn": "很遗憾谈判无法继续。事后看来,多一点灵活对双方都有利。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "客户经理 Mr. Davis",
+      "line": "This conversation is over. Without trust, no contract is worth the paper it is printed on.",
+      "lineCn": "谈话到此为止。没有信任,任何合同都不值得它所用的那张纸。",
+      "end": true,
+      "success": false
+    }
+  }
+}

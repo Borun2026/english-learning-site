@@ -1,0 +1,63 @@
+{
+ "id": "cet6-076",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第3套) Passage 2",
+ "title": "Scientists have created by accident an enzyme () that breaks down plastic dri...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 446,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Scientists have created by accident an enzyme that breaks down plastic drinks bottles. The breakthrough could help solve the global plastic pollution crisis by enabling for the first time the full recycling of bottles.",
+  "The new research was spurred by the discovery in 2016 of the first bacterium that had naturally evolved to eat plastic at a waste dump in Japan. Scientists have now revealed the detailed structure of the crucial enzyme produced by the bug.",
+  "An international team then adjusted the enzyme to see how it had evolved, but tests showed they had accidentally made the molecule even better at breaking down the plastic used for drinks bottles. \"What actually turned out was we improved the enzyme, which was a bit of a shock,\" said head researcher Prof. McGeehan, at the University of Portsmouth, UK.",
+  "Currently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable largescale process.",
+  "\"What we are hoping to do is use this enzyme to turn this plastic back into its original components, so we can literally recycle it back to plastic,\" said McGeehan. \"It means we won't need to dig up any more oil and, fundamentally, it should reduce the amount of plastic in the environment.\"",
+  "About 1 million plastic bottles are sold each minute around the globe and, with just 14% recycled, many end up in the oceans where they have polluted even the remotest parts, harming marine life and potentially people who eat seafood. \"Plastic is incredibly resistant to degradation.\" said McGeehan. \"It is one of these wonder materials that has been made a little bit too well.\"",
+  "Currently those bottles that are recycled can only be turned into opaque fibres for clothing or carpets, while the new enzyme indicates a way to recycle old clear plastic bottles back into new clear plastic bottles.",
+  "\"You are always up against the fact that oil is cheap, so plastic is cheap,\" said McGeehan. \"It is so easy for manufacturers to generate more of that stuff, rather than even try to recycle, but I believe there is a public interest here: perception is changing so much that companies are starting to look at how they can properly recycle these bottles.\"",
+  "Prof. Adisa Azapagic, at the University of Manchester in the UK, agreed the enzyme could be useful but added: \"A full life-cycle assessment would be needed to ensure that the technology does not solve one environmental problem -- waste -- at the expense of others, including additional greenhouse gas emissions.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “shock” 最接近的意思是?",
+   "options": [
+    "使)震惊",
+    "自行车",
+    "降级",
+    "乐观的， 乐观主义的"
+   ],
+   "answer": 0,
+   "analysis": "“shock” 意为「使)震惊」。原文语境:\"What actually turned out was we improved the enzyme, which was a bit of a shock,\" said head researcher Prof.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Currently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a ___ largescale process.",
+   "options": [
+    "viable",
+    "detailed",
+    "cheap",
+    "better"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Currently, the enzyme takes a few days to start breaking down the plastic, far faster than the centuries it takes in the oceans, but the researchers are optimistic this can be speeded up even further and become a viable largescale process.”。空格处应填入 “viable”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "\" The dangerous thing about lying is people don't understand how the act chan",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "Scientists have created by accident an enzyme () that breaks down plastic dri",
+    "Look at the people around you"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Scientists have created by accident an enzyme that breaks down plastic drinks bottles.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

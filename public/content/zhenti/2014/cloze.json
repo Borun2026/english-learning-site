@@ -1,0 +1,305 @@
+{
+ "id": "z2014-cloze-0",
+ "year": 2014,
+ "section": "cloze",
+ "index": 0,
+ "source": "2014年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "As many people hit middle age, they often start to notice that their memory and mental clarity are not what they used to be.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "We suddenly can't remember ___1___ we put the keys just a moment ago, or an old acquaintance's name, or the name of an old band we used to love.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "As the brain ___2___ , we refer to these occurrences as \"senior moments.\" ___3___ seemingly innocent, this loss of mental focus can potentially have a(an) ___4___ impact on our professional, social, and personal ___5___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It ___6___ out that the brain needs exercise in much the same way our muscles do, and the right mental ___7___ can significantly improve our basic cognitive ___8___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Thinking is essentially a ___9___ of making connections in the brain.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "To a certain extent, our ability to ___10___ in making the connections that drive intelligence is inherited.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___11___ , because these connections are made through effort and practice, scientists believe that intelligence can expand and fluctuate ___12___ mental effort.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Now, a new Web-based company has taken it a step ___13___ and developed the first \"brain training program\" designed to actually help people improve and regain their mental ___14___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The Web-based program ___15___ you to systematically improve your memory and attention skills.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The program keeps ___16___ of your progress and provides detailed feedback ___17___ your performance and improvement.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Most importantly, it ___18___ modifies and enhances the games you play to ___19___ on the strengths you are developing--much like a(n) ___20___ exercise routine requires you to increase resistance and vary your muscle use.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "why",
+    "when",
+    "that",
+    "where"
+   ],
+   "answer": 3,
+   "analysis": "本句句义为“我们会突然想不起来放钥匙_____”。划线处及之后的“_____weputthekeyjustamoment\nago”作remember的宾语从句。根据put的用法“putsomethinginsomeplace”(把某物放在某处)可知,空格处\n缺少的是地点状语,在四个选项中只有where表示地点状语,因此正确答案是D。why和when分别引导原因\n状语从句和时间状语从句,可放到空格处,但是无法做put的地点状语,所以排除选项A和B。that放在动词\nremember之后引导宾语从句,此时的that没有任何实际意义可以省略,而且that并不能充当put的地点状语,\n所以排除选项C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "improves",
+    "fades",
+    "collapses",
+    "recovers"
+   ],
+   "answer": 1,
+   "analysis": "本句句义为“随着大脑_____,我们把这些事件称之为‘老不中用的瞬间’”。首先,这句话中的“these\noccurrences”指的是上一句话中提到的“忘记钥匙所放位置,一位熟人的名字或者钟爱的乐队的名字”的情况,\n这些情况都是不好的事情,因此空格部分要填的词要带有负面的意思,因此可以首次排除选项A和D。比较选\n项B和C,根据意思可以得出是“随着大脑的衰老”,而不是“随着大脑的倒塌或崩溃”。因此正确答案是B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "While",
+    "Unless",
+    "Once",
+    "If"
+   ],
+   "answer": 0,
+   "analysis": "在这个长句中,前面是“seeminglyinnocent”(看似简单)后面是“impact”(影响),由此可知句子前\n后表达的意思是截然不同的,句子间的逻辑关系表示对比和转折。四个选项中只有选项A表达转折和对比的意\n思。其它三个选项放在空格中会导致意义不通。所以正确答案为A。While经常用来表示句子前后意义的对比。\n而unless,once,if用来表示条件。"
+  },
+  {
+   "q": "",
+   "options": [
+    "uneven",
+    "limited",
+    "damaging",
+    "obscure"
+   ],
+   "answer": 2,
+   "analysis": "在上一题的分析中可以看出,这个句子前后是转折的关系,前面说“看似简单”,后面是“有潜在的\n影响”,下文中又开始介绍解决方法,因此这里的空格处一定是与innocent意思相反的词。比较四个选项,可\n以看出只有选项Cdamaging符合句意,而其它三个选项均不符合句意,所以正确答案是C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "relationship",
+    "environment",
+    "wellbeing",
+    "outlook"
+   ],
+   "answer": 2,
+   "analysis": "本句句义为“注意力不集中看似简单但会对我们的职业、社会和个人的_____产生潜在的破坏性影响”。\n由此可知,注意力不集中会带来破坏性影响。此外,空格处所填词汇要同时能被professional,social和personal\n三词修饰,只有wellbeing符合句意,因此,正确答案为C。选项A、B和D只能被professional,social和personal\n三词同时修饰,故排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "turns",
+    "finds",
+    "points",
+    "figures"
+   ],
+   "answer": 0,
+   "analysis": "第二段第一句提到神经科学家们越来越显示人们可以做很多事。第二句提到“_____我们的大脑像肌\n肉一样需要锻炼……”。由此可推断第二句是第一句的详细阐释说明,因此,第二句是神经科学家们研究得出\n的结论。此外,根据动词搭配、用法可知,“Itturnsoutthat+句子”是常见的固定结构,表示“结果是,原来\n是,证明是”,详细阐述研究的具体结果。其他的选项都可以和out搭配,但是选项B和D的主语多为人而不\n是物。如果选项C放到空格处,则It的指代不明。因此只有A是正确答案,it作形式主语,真正的主语是后面\nthat引导的从句。"
+  },
+  {
+   "q": "",
+   "options": [
+    "responses",
+    "roundabouts",
+    "workouts",
+    "associations"
+   ],
+   "answer": 2,
+   "analysis": "前一句提到了“thebrainneedsexercise(大脑需要锻炼)”,之后的连接词为and,这说明前后两句的\n意思是并列的,后一句的意思是“而且适当的大脑_____可以显著提高我们基本的认知……”,所以这里的“the\nrightmental_____”指的就是前面的“thebrainneedsexercise”。根据四个选项的意思可知,只有workouts符合\n句意,因此选项C为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "genre",
+    "criterion",
+    "circumstances",
+    "functions"
+   ],
+   "answer": 3,
+   "analysis": "本句句意为“而且适当的脑力锻炼可以显著地提高我们的基本认知_____。”根据上下文语意可知,\n通过脑力锻炼,提高老年人的记忆力,由此可知,脑力锻炼能够提高认知的功能,选项D符合句意,为正确答\n案。选项ABC均不符合上下文语意。genre多指的是文学或艺术作品的题材或类型,如果和cognitive搭配,\n则意义不通。作者在后面开始讨论thinking即思考在大脑中的地位,所以这里指的是大脑基本的认知功能,而\n不是认知标准或认知环境,可排除选项BC。"
+  },
+  {
+   "q": "",
+   "options": [
+    "channel",
+    "process",
+    "sequence",
+    "condition"
+   ],
+   "answer": 1,
+   "analysis": "本句句意为“思考本质上是大脑进行各个神经元链接的_____。”首先,空格处需要一名词,做表语,\n而且被ofmakingconnections修饰。其次,文中下一句是对这种makingconnections的阐释和分析,因此只有\nprocess(过程)符合句意,故B为正确答案。选项Achannel侧重于指某种渠道,原文并没有提及。选项Csequence\n指的是次序,指一系列的东西按照序列进行排列,原文中并没有强调神经元连接的次序问题。选项Dcondition\n指的是条件、状况,文中没有指出思考是构建连接的条件或者状况。因此可排除ACD。"
+  },
+  {
+   "q": "",
+   "options": [
+    "excel",
+    "feature",
+    "persist",
+    "believe"
+   ],
+   "answer": 0,
+   "analysis": "本句句意为“在某种程度上,_____连接能力促进了智力的发展,而这种能力是遗传的。”首先,根\n据ability的用法以及选项可知,空格处需要动词,构成不定式作后置定语修饰ability。其次,由于这种能力是\n遗传性的,不是后天获得的,所以这里讲的是人类的一个优势。此外,根据搭配和用法,综合推断可知excel最\n符合句意,因此选项A为正确答案。其它三个选项都可与介词“in”搭配,但是选项Bfeature强调“以……为\n特写对象”,选项C表示“坚持做某事”,选项D表示“相信某人或某事”,均不符合句意,可排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "However",
+    "Moreover",
+    "Otherwise",
+    "Therefore"
+   ],
+   "answer": 0,
+   "analysis": "本句句意为“_____,由于构建这些连接需要通过努力和实践才能实现,科学家们相信智力可……而\n提高和波动。”由此可知,本句意为“这种能力可以增强和变化”。而上一句提到“这种能力是遗传的”的,\n很显然前后两句构成了转折对比关系。因此选项A是正确答案。选项B引导递进关系,选项C经常引导的是\n可能的结果,而下文分析的不是假设性的结果,选项D引导因果关系,因此选项BCD均可排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "instead of",
+    "regardless of",
+    "apart from",
+    "according to"
+   ],
+   "answer": 3,
+   "analysis": "首先,由该句前半句“构建这些连接需要通过努力和实践”可知,锻炼是智力提高的原因。其次,mental\neffort和前面的effortandpractice形成了照应的关系,所以构建连接依靠于effort,而智力又依靠于构建连接。\n此外,根据四个选项的具体含义,可推知accordingto最符合句意,因此,正确答案为D。选项A和B表示“智\n力增加”和“锻炼”之间毫无关系,与文意不符,可排除。选项C表明“除了锻炼(还有其他)或者除了锻炼\n(别无其他)”,语气太绝对,不符合句意,可排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "back",
+    "further",
+    "aside",
+    "around"
+   ],
+   "answer": 1,
+   "analysis": "上文提到了人们可以通过努力和锻炼来提高智力,本段首句介绍一个公司开发了一套程序,这套程序\n可帮助提高脑力方面的能力。由此可知,本段是对上文的补充说明,是“alotcanbedone”的进一步发展,而\nTakeastepfurther表示“进一步采取措施”因此,选项B为正确答案。Takeastepback向后退一步,takeastep\naside让……到一边去,takeasteparound没有此搭配,因此选项ACD都可排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "framework",
+    "stability",
+    "sharpness",
+    "flexibility"
+   ],
+   "answer": 2,
+   "analysis": "前文提到脑力的下降导致人们会忘记很多事情,这说明脑力变得迟钝,现在有公司开发了一套程序帮\n助人们提高脑力,因此这里说的是提高脑力的敏锐度,和前面的迟钝性形成对比,因此只有选项C正确。选项\nA和B从意义上都说不通,选项D如果和mental放到一起,意思是处事和思考问题的灵活性,而不是指正常\n生理状态的脑力,它无法和脑力的生理衰老形成对比。因此,正确答案是C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "hurries",
+    "reminds",
+    "forces",
+    "allows"
+   ],
+   "answer": 3,
+   "analysis": "本句句义为“这套基于网络的程序_____使你系统地提高增强记忆力和注意力的技巧”。文中上一段\n提到“程序实际上可以提高或重获智力”,说明这套程序带来了好处,帮助提高智力,因此,空格里的词不能\n带有负面意思,所以选项A和C都要排除。选项B意为“提醒”,但这项程序的功能在于帮助人们训练大脑,\n而不是提醒人们做某事,故排除选项B。正确答案只有选项D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "order",
+    "track",
+    "hold",
+    "pace"
+   ],
+   "answer": 2,
+   "analysis": "本题要求找出文章的首段,可用排除法解题。B项首句中的特征词“another”,F项中的特征词“however”\n都体现了是对上文信息的衔接,故不能作为首段。再次比对剩下的C、D、G三个选项,D项首句介绍到具体\n勘察对象的特点,G项首句介绍到地面勘察手段,从篇章结构来看,这两个选项都属于在分析问题,显然不符\n合首段特征,可排除。而剩下的B项,首句是一个疑问句,提出问题“地面上什么都看不到,考古学家如何知\n道去哪找想要找的东西?”,这符合问题解决型文章结构的首段特征,由此可推知,选项C可为段首,再者,\nA项首句中的“archaeologicalsites”与C项末句中的“archaeologicalsites”形成了衔接呼应,再次确认本题答\n案可选C项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "to",
+    "on",
+    "for",
+    "with"
+   ],
+   "answer": 1,
+   "analysis": "本句句义为“这项程序追踪你的进程并对你的表现和进步给出详细的反馈”。这里考察的是performance\nandimprovement和feedback之间的关系。和feedback常和on或者from搭配,表示对performanceandimprovement\n的反馈,而不是表方向的to或表目的的for,更不是表关系的with。因此,正确答案是B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "constantly",
+    "habitually",
+    "irregularly",
+    "unusually"
+   ],
+   "answer": 0,
+   "analysis": "上文提到智力锻炼是一个过程,需要实践和锻炼,并且可以系统性地提高,这里作者主要强调“调整\n和改进的连续性”。此外,从全文来看,作者对这一程序持肯定态度。因此,选项A是最佳答案。选项Bhabitually\n侧重指“动作或人的习惯性或者积习难改”;选项C强调“不定期”;选项D侧重指“与众不同”,可排除选\n项B、C和D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "carry",
+    "put",
+    "build",
+    "take"
+   ],
+   "answer": 2,
+   "analysis": "本句句义为“最重要的是,它不断调整和优化你参与的游戏,以_____你正在培养的优势”。本段中\n作者强调锻炼过程的系统性,连续性,而on本身就可含有“连续”之意。而且训练之后能够提高智力,因此\nbuildon(增加,增添)最符合句意,故为正确答案。其他三个选项都不能表示“不断增加”之意,故排除。"
+  },
+  {
+   "q": "Section Ⅱ",
+   "options": [
+    "risky",
+    "familiar",
+    "idle",
+    "effective"
+   ],
+   "answer": 3,
+   "analysis": "本句句义为“最重要的是,它不断调整和优化你参与的游戏,以强化你正在培养的优势——就像_____\n常规训练可以提高你的抵抗力和变化肌肉使用的方式”。从上下文看,作者对这种训练程序持积极态度,因此\neffective最符合句意,故D为正确答案。选项A和C含有消极含义,不符合句意。选项B不能明确表达积极\n的含义,故排除。\n三、全文翻译\n很多人到了中年时,他们经常会发现自己的记忆力和头脑清晰度不像先前那样好了。我们会突然想不起来\n刚才放钥匙的位置,一个老熟人的名字或者是曾钟爱的乐队的名字。随着大脑的逐渐衰老,我们把这些事件称\n之为“老不中用的瞬间”。虽然这种症状看似简单,但是注意力不集中对我们的职业,社会和个人安康会产生\n潜在的破坏性影响。\n研究神经系统的神经科学家日益表明,人们实际上能有许多事情可做。结果表明,我们的大脑像肌肉一样\n需要锻炼,而且适当的脑力锻炼可以显著地提高我们的基本认知功能。思考本质上是大脑进行各个神经元链接\n的过程。在某种程度上,超强的连接能力促进了智力的发展,而这种能力是遗传的。然而,由于构建这些连接\n需要通过努力和实践才能实现,科学家们相信智力可随脑力活动而提高和波动。\n现在,一家基于网络的公司更近了一步,开发出了第一套“脑力训练程序”。这套程序可以切实地帮助人\n们提高和重获大脑的敏锐度。"
+  }
+ ]
+}

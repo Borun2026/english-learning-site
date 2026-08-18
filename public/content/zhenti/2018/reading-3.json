@@ -1,0 +1,362 @@
+{
+ "id": "z2018-reading-3",
+ "year": 2018,
+ "section": "reading",
+ "index": 3,
+ "source": "2018年全国硕士研究生招生考试英语(一)",
+ "title": "Reading Text 3",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "Any fair-minded assessment of the dangers of the deal between Britain's National Health Service (NHS) and DeepMind must start by acknowledging that both sides mean well.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "DeepMind is one of the leading artificial intelligence (AI) companies in the world.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The potential of this work applied to healthcare is very great, but it could also lead to further concentration of power in the tech giants.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It Is against that background that the information commissioner, Elizabeth Denham, has issued her damning verdict against the Royal Free hospital trust under the NHS, which handed over to DeepMind the records of 1.6 million patients In 2015 on the basis of a vague agreement which took far too little account of the patients' rights and their expectations of privacy.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "DeepMind has almost apologized.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The NHS trust has mended its ways.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Further arrangements- and there may be many-between the NHS and DeepMind will be carefully scrutinised to ensure that all necessary permissions have been asked of patients and all unnecessary data has been cleaned.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "There are lessons about informed patient consent to learn.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "But privacy is not the only angle in this case and not even the most important.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Ms Denham chose to concentrate the blame on the NHS trust, since under existing law it “controlled” the data and DeepMind merely “processed\" it.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "But this distinction misses the point that it is processing and aggregation, not the mere possession of bits, that gives the data value.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The great question is who should benefit from the analysis of all the data that our lives now generate.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Privacy law builds on the concept of damage to an individual from identifiable knowledge about them.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "That misses the way the surveillance economy works.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The data of an individual there gains its value only when it is compared with the data of countless millions more.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The use of privacy law to curb the tech giants in this instance feels slightly maladapted.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This practice does not address the real worry.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It is not enough to say that the algorithms DeepMind develops will benefit patients and save lives.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "What matters is that they will belong to a private monopoly which developed them using public resources.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "If software promises to save lives on the scale that dugs now can, big data may be expected to behave as a big pharm has done.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "We are still at the beginning of this revolution and small choices now may turn out to have gigantic consequences later.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "A long struggle will be needed to avoid a future of digital feudalism.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Ms Denham's report is a welcome start.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "31.Wha is true of the agreement between the NHS and DeepMind ?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] It caused conflicts among tech giants.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[B] It failed to pay due attention to patient’s rights.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] It fell short of the latter's expectations",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[D] It put both sides into a dangerous situation.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "32.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The NHS trust responded to Denham's verdict with",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] empty promises.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[B] tough resistance.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] necessary adjustments.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[D] sincere apologies.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "33.The author argues in Paragraph 2 that",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] privacy protection must be secured at all costs.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[B] leaking patients' data is worse than selling it.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] making profits from patients' data is illegal.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[D] the value of data comes from the processing of it",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "34.According to the last paragraph, the real worry arising from this deal is",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] the vicious rivalry among big pharmas.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[B] the ineffective enforcement of privacy law.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] the uncontrolled use of new software.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[D] the monopoly of big data by tech giants.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "35.The author's attitude toward the application of AI to healthcare is",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] ambiguous.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[B] cautious.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] appreciative.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[D] contemptuous.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "Wha is true of the agreement between the NHS and DeepMind ?",
+   "options": [
+    "It caused conflicts among tech giants.",
+    "It failed to pay due attention to patient’s rights.",
+    "It fell short of the latter's expectations",
+    "It put both sides into a dangerous situation."
+   ],
+   "answer": 1,
+   "analysis": "细节题。根据题干中的NHS,DeepMind和agreement回文定位第一段第四句“Itisagainstthatbackground\nthattheinformationcommissioner,hasissuedherdamningverdictagainsttheRoyalFreehospitaltrustundertheNHS,\nwhichhandedovertoDeepMindtherecordsof1.6millionpatientsin2015onthebasisofavagueagreementwhichtookfar\ntoolittleaccountofthepatients’rightsandtheirexpectationsofprivacy”。根据avagueagreementwhichtookfartoolittle\naccountofthepatients’rightsandtheirexpectationsofprivacy这一部分的语义信息,说明NHS与DeepMind之间的协议\n没有充分考虑到病人的权利与隐私。这句话的言外之意就是协议未能充分关注病人的权利。故确定答案为选项B,\n其中failedto是tookfartoolittleaccount的同义改写。"
+  },
+  {
+   "q": "The NHS trust responded to Denham's verdict with",
+   "options": [
+    "empty promises.",
+    "tough resistance.",
+    "necessary adjustments.",
+    "sincere apologies."
+   ],
+   "answer": 2,
+   "analysis": "细节题。根据题干中的NHStrust,以及Denham’sverdict回文定位第二段第二句“TheNHStrusthasmended\nitsways.”根据第二句的语义信息,NHStrust针对Denham’sverdict已经调整了其与DeepMind的协议内容,故通过\n同义替换,可确定正确答案为C。"
+  },
+  {
+   "q": "The author argues in Paragraph 2 that",
+   "options": [
+    "privacy protection must be secured at all costs.",
+    "leaking patients' data is worse than selling it.",
+    "making profits from patients' data is illegal.",
+    "the value of data comes from the processing of it"
+   ],
+   "answer": 3,
+   "analysis": "推理题。根据题干,此题定位在第二段最后一句but之后的转折句。“Butthisdistinctionmissesthepoint\nthatitisprocessingandaggregation,notthemerepossessionofbits,thatgivesdatavalue”.这种区分忽视了一个点:是处\n理和收集赋予数据意义,而不是拥有数据。选项中的“processing”和原文中的“processing”原词复现。选项中的“the\nvalueofdata”对应原文中的“datavalue”。因此,D项为正确答案。"
+  },
+  {
+   "q": "According to the last paragraph, the real worry arising from this deal is",
+   "options": [
+    "the vicious rivalry among big pharmas.",
+    "the ineffective enforcement of privacy law.",
+    "the uncontrolled use of new software.",
+    "the monopoly of big data by tech giants."
+   ],
+   "answer": 3,
+   "analysis": "细节题。根据题干此题定位在文中最后一段的第四句。“Whatmattersisthattheywillbelongtoaprivate\nmonopolywhichdevelopedthemusingpublicresources.”重要的是这些进步属于一个私人垄断企业,而私人垄断企来使\n用公共资源进行研发。而这正真正的担忧所在。因此,选项D为正确答案,themonopolyofbigdatabytechgiants对\n应原文中的aprivatemonopoly。"
+  },
+  {
+   "q": "The author's attitude toward the application of AI to healthcare is Text 4 The U.S. Postal Service (USPS) continues to bleed red ink. It reported a net loss of $5.6 billion for fiscal 2016, the 10th straight year its expenses have exceeded revenue. Meanwhile, it has more than $120 billion in unfunded liabilities, mostly for employee health and retirement costs. There are many bankruptcies. Fundamentally, the USPS is in a historic squeeze between technological change that has permanently decreased demand for its bread-and-butter product, first-class mail, and a regulatory structure that denies management the flexibility to adjust its operations to the new reality And interest groups ranging from postal unions to greeting-card makers exert self-interested pressure on the USPS’s ultimate overseer-Congress-insisting that whatever else happens to the Postal Service, aspects of the status quo they depend on get protected. This is why repeated attempts at reform legislation have failed in recent years, leaving the Postal Service unable to pay its bills except by deferring vital modernization. Now comes word that everyone involved---Democrats, Republicans, the Postal Service, the unions and the system's heaviest users—has finally agreed on a plan to fix the system. Legislation is moving through the House that would save USPS an estimated $28.6 billion over five years, which could help pay for new vehicles, among other survival measures. Most of the money would come from a penny-per-letter permanent rate increase and from shifting postal retirees into Medicare. The latter step would largely offset the financial burden of annually pre-funding retiree health care, thus addressing a long-standing complaint by the USPS and its union. If it clears the House, this measure would still have to get through the Senate – where someone is bound to point out that it amounts to the bare, bare minimum necessary to keep the Postal Service afloat, not comprehensive reform. There’s no change to collective bargaining at the USPS, a major omission considering that personnel accounts for 80 percent of the agency’s costs. Also missing is any discussion of eliminating Saturday letter delivery. That common-sense change enjoys wide public support and would save the USPS $2 billion per year. But postal special-interest groups seem to have killed it, at least in the House. The emerging consensus around the bill is a sign that legislators are getting frightened about a politically embarrassing short-term collapse at the USPS. It is not, however, a sign that they’re getting serious about transforming the postal system for the 21st century.",
+   "options": [
+    "ambiguous.",
+    "cautious.",
+    "appreciative.",
+    "contemptuous."
+   ],
+   "answer": 1,
+   "analysis": "态度题。本题考查作者对本文主题“将人工智能应用于医疗健康”的态度。根据顺序性原则定位在最后\n一段。该段倒数第三句话指出“我们目前依然处于这一改革的前期,并且任何小的选择都会对未来产生深远的影响”,\n其中“still”一词,以及“small”(小)和“gigantic”(巨大的)对比,都体现出了作者对待整个事件是小心谨慎的态度,因此[B]\ncautious为正确答案。\n词汇难点:\nassessment 评定,评估 privacy 隐私 damning 证据确凿的\ncommissioner委员,专员 acknowledge承认 vague 含糊的\nverdict 裁决 potential 潜力 mendone’sway改过自新\nensure 确保 consent 同意 possession 拥有\nangle 角度;立场 aggregation 聚集 analysis 分析\nidentifiable 可识别的 feudalism 封建主义 monopoly 垄断\ncurb 仰制,约束 generate 产生 revolution 革命\nalgorithm 演算法 surveillance 监视 consequence 后果\ngigantic 巨大的 maladapted 不适合的\n难句分析:"
+  }
+ ]
+}

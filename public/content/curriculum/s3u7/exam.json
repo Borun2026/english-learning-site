@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u7",
+  "stage": 3,
+  "unitId": "s3u7",
+  "title": "真题演练 · 强调句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 强调句。",
+  "questions": [
+    {
+      "q": "It was in the library ___ I found the book.",
+      "options": [
+        "that",
+        "where",
+        "which",
+        "when"
+      ],
+      "answer": 0,
+      "analysis": "强调地点状语用 that,不是 where。",
+      "point": "g-s3u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ was Tom that won the first prize.",
+      "options": [
+        "This",
+        "It",
+        "That",
+        "He"
+      ],
+      "answer": 1,
+      "analysis": "强调句固定以 It 开头。",
+      "point": "g-s3u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It was not until dark ___ he realized the danger.",
+      "options": [
+        "when",
+        "that",
+        "which",
+        "before"
+      ],
+      "answer": 1,
+      "analysis": "not until 强调结构用 that。",
+      "point": "g-s3u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It is I who ___ wrong.",
+      "options": [
+        "am",
+        "is",
+        "are",
+        "be"
+      ],
+      "answer": 0,
+      "analysis": "强调主语 I 时,谓语与 I 一致,用 am。",
+      "point": "g-s3u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It was the rain ___ delayed our flight.",
+      "options": [
+        "what",
+        "which",
+        "that",
+        "who"
+      ],
+      "answer": 2,
+      "analysis": "强调主语 the rain,用 that。",
+      "point": "g-s3u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:It was yesterday when he came back.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:It was yesterday that he came back.。强调句中固定用 that,不用 when。",
+      "point": "g-s3u7",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

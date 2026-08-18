@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u6",
+  "stage": 1,
+  "unitId": "s1u6",
+  "title": "听力挑战 · 介绍家人朋友",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "新朋友",
+      "line": "Who is the woman standing over there?",
+      "lineCn": "站在那边的女士是谁?",
+      "grammar": [
+        { "name": "人称代词 she/he", "note": "指代女性用 she,男性用 he,人称代词要与人物的性别一致。" }
+      ],
+      "options": [
+        { "text": "She is my mother, Mrs. Li.", "correct": true, "feedback": "用 she 指代女士并介绍身份,人称使用正确。" },
+        { "text": "He is my teacher, Mr. Wang.", "correct": false, "feedback": "he 指男性,而问题问的是那位女士。" },
+        { "text": "Her bag is red and new.", "correct": false, "feedback": "只说了她的包,没有回答她是谁。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "Is this your little brother, Tom?",
+      "lineCn": "汤姆,这是你的小弟弟吗?",
+      "grammar": [
+        { "name": "物主代词 your/my/his", "note": "your 表示'你的',my 表示'我的',his 表示'他的'。" }
+      ],
+      "options": [
+        { "text": "Yes, his name is Sam.", "correct": true, "feedback": "his 指代弟弟,名字回答完整,符合问句。" },
+        { "text": "Yes, her name is Lily.", "correct": false, "feedback": "her 是女性物主代词,与'弟弟'性别矛盾。" },
+        { "text": "No, my parents are at home.", "correct": false, "feedback": "答非所问,说的是父母而不是弟弟。" }
+      ]
+    }
+  ]
+}

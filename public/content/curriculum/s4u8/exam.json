@@ -1,0 +1,87 @@
+{
+  "id": "e-s4u8",
+  "stage": 4,
+  "unitId": "s4u8",
+  "title": "真题演练 · 考研作文句式",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 考研作文句式。",
+  "questions": [
+    {
+      "q": "(完形填空,见原文空位)",
+      "options": [
+        "clears",
+        "warms",
+        "shows",
+        "breaks"
+      ],
+      "answer": 2,
+      "analysis": "本空所需动词的主语是agenderprejudice(性别歧视),同时本动词还与up构成了词组。根据上下文很容\n易判断本句的意思是“离过婚的人可以再婚,但存在性别歧视”。能够表达此意的选项是[C]shows,因为词组show\nup的意思就是“显现出来,显露”。",
+      "point": "zhenti:z2016-cloze-0:q19",
+      "source": "2016 考研英语一真题"
+    },
+    {
+      "q": "(完形填空,见原文空位)",
+      "options": [
+        "made",
+        "served",
+        "saved",
+        "used"
+      ],
+      "answer": 1,
+      "analysis": "served up 上菜,固定搭配,一片煮牛肉被端上桌。",
+      "point": "zhenti:z2020-cloze-0:q16",
+      "source": "2020 考研英语一真题"
+    },
+    {
+      "q": "SectionⅡ",
+      "options": [
+        "follow up",
+        "pick up",
+        "open up",
+        "end up"
+      ],
+      "answer": 3,
+      "analysis": "end up 以…告终,健康恐慌最终以无人理会告终。",
+      "point": "zhenti:z2020-cloze-0:q20",
+      "source": "2020 考研英语一真题"
+    },
+    {
+      "q": "Section II",
+      "options": [
+        "inflexible",
+        "incapable",
+        "unreliable",
+        "unsuitable"
+      ],
+      "answer": 2,
+      "analysis": "此处考察词义辨析。19,onlyfiveofthe30childrenpairedwiththe“20”testerparticipatedinafollow-up\nactivity.该句含义为:在接下来的活动中30个孩子中只有5个孩子与。。。样的测试者能合作,所以结合上文提到的\n大部分孩子信任测试者,但是5/30属于一小部分,大部分对应的是信任,那么小比例的对应的是不信任,所以tester\n的修饰词应该为C,unreliable不可靠的,不可信任的,故C为正确选项。\n词汇难点:\nindividual 个人 institution 社会公共机构dishonesty 不诚实行为\noxytocin 催产素 hormone 荷尔蒙,激素credible 可信的\ntrigger 触发,引起 herd 使集中在一起toddler 学步的儿童\ninstinct 本能,直觉 prompt 促使 differentiate 区分\nexposure 暴露 spray 喷 dishonest 不诚实的\nsignificantly 大幅度地 amount 数量 exclaim 呼喊\ninhale 吸入(气体等)tricky 难对付的,复杂的worthwhile 值得(做)的\nmajority 大多数 cooperate 合作 participate 参加\ndemonstrate 论证;说明 leader",
+      "point": "zhenti:z2018-cloze-0:q20",
+      "source": "2018 考研英语一真题"
+    },
+    {
+      "q": "The phrase “beer up”(Line 2, Para. 2) is closest in meaning to",
+      "options": [
+        "sharpen",
+        "define",
+        "boast",
+        "share"
+      ],
+      "answer": 0,
+      "analysis": "词汇释义题。根据题目定位到第2段第2句:Yetasdistrusthasrisentowardallmedia,peoplemaybestarting\ntobeefuptheirmedialiteracyskills。句子的情感色彩判断,因为逗号前提到“人们对于所有媒体的不信任增加”,可以\n推知人们应该开始增强其媒体素养的技能,故选A。",
+      "point": "zhenti:z2018-reading-2:q2",
+      "source": "2018 考研英语一真题"
+    },
+    {
+      "q": "A lot of students take up law as their profession due to _____.",
+      "options": [
+        "the growing demand from clients",
+        "the increasing pressure of inflation",
+        "the prospect of working in big firms",
+        "the attraction of financial rewards"
+      ],
+      "answer": 3,
+      "analysis": "根据题干关键词“students”和“takeuplawastheirprofession”,我们可以迅速定位到原文第二段第\n二句“Thebestlawyersmadeskyscrapers-fullofmoney,temptingevermorestudentstopileintolawschools.”即律\n师界的精英们收入丰厚,从而吸引更多的学生进入法学院。很明显吸引学生学法律的是money,即可直接得出\n正确答案为D。\n选项A“客户不断增长的需求”,文中并未提及相关信息,属于无中生有。选项B“通货膨胀不断增长的压力”,\n定位到原文中出现inflation的句子“Duringthedecadebeforetheeconomiccrisis,spendingonlegalservicesin\nAmericagrewtwiceasfastasinflation.”即经济危机前十年间,美国法律服务方面开销的增长速度是通货膨胀时\n期的两倍。这里的inflation(通货膨胀)只是作为一个对比时期,与选项表述的毫无关联。而选项C“在大公\n司就职的愿景”,回文定位“Butmostlawgraduatesnevergetabig-firmjob.”即“然而,大多数法律专业的毕业\n生并未能获得在大公司工作的机会。”选项表述的意思与原文正好相反,故排除。",
+      "point": "zhenti:z2014-reading-2:q1",
+      "source": "2014 考研英语一真题"
+    }
+  ]
+}

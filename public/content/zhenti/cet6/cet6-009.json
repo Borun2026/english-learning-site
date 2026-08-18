@@ -1,0 +1,63 @@
+{
+ "id": "cet6-009",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第2套) Passage 1",
+ "title": "Facing water shortages and escalating fertilizer costs, farmers in developing...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 438,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Facing water shortages and escalating fertilizer costs, farmers in developing countries are using raw sewage to irrigate and fertilize nearly 49 million acres of cropland, according to a new report--and it may not be a bad thing.",
+  "While the practice carries serious health risks for many, those dangers are outweighed by the social and economic gains for poor urban farmers and consumers who need affordable food. \"There is a large potential for wastewater agriculture to both help and hurt great numbers of urban consumers,\" said Liqa Raschid-Sally, who led the study.",
+  "The report focused on poor urban areas, where farms in or near cities supply relatively inexpensive food. Most of these operations draw irrigation water from local rivers or lakes. Unlike developed cities, however, these areas lack advanced water-treatment facilities, and rivers effectively become sewers .",
+  "When this water is used for agricultural irrigation, farmers risk absorbing disease-causing becteria, as do consumers who eat the produce raw and unwashed. Nearly 2.2 million people die a year because of diarrhea-related diseases, according to WHO statistics. More than 80% of those cases can be attributed to contact with contaminated water and a lack of proper sanitation. But Pay Drechsel, an environmental scientist, argues that the social and economic benefits of using untreated human waste to grow food outweigh the health risks.",
+  "Those dangers can be addressed with farmer and consumer education, he said, while the free water and nutrients from human waste can help urban farmers in developing countries to escape poverty.",
+  "Agriculture is a water-intensive business, accounting for nearly 70% of global fresh water consumption. In poor, dry regions, untreated wastewater is the only viable irrigation source to keep farmers in business. In some cases, water is so scarce that farmers break open sewage pipes transporting waste to local rivers. Irrigation is the primary agricultural use of human waste in the developing world. But frequently untreated human waste harvested from lavatories is delivered to farms and spread as fertilizer. In most cases, the human waste is used on grain crops, which are eventually cooked, minimizing the risk of transmitting water-borne diseases. With fertilizer prices jumping nearly 50% per metric ton over the last year in some places, human waste is an attractive, and often necessary, alternative.",
+  "In cases where sewage mud is used, expensive chemical fertilizer use can be avoided. The mud contains the same",
+  "critical nutrients. \"Overly strict standards often fail,\" James Bartram, a WHO water-health expert, said. \"We need to accept that fact",
+  "across much of the planet, so waste with little or no treatment will be used in agriculture for good reason.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “outweigh” 最接近的意思是?",
+   "options": [
+    "比更重，比更重要",
+    "差不多",
+    "最初的",
+    "终于，最后"
+   ],
+   "answer": 0,
+   "analysis": "“outweigh” 意为「比更重，比更重要」。原文语境:But Pay Drechsel, an environmental scientist, argues that the social and economic benefits of using untreated human waste to grow food outweigh the health risks.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:The report focused on poor urban areas, where farms in or near cities supply relatively ___ food.",
+   "options": [
+    "chemical",
+    "primary",
+    "inexpensive",
+    "proper"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“The report focused on poor urban areas, where farms in or near cities supply relatively inexpensive food.”。空格处应填入 “inexpensive”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Macy's reported its sales plunged 5",
+    "On Jan",
+    "Facing water shortages and escalating fertilizer costs, farmers in developing",
+    "In recent years, the food industry has increased its use of labels"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Facing water shortages and escalating fertilizer costs, farmers in developing countries are using raw sewage to irrigate and fertilize nearly 49 million acres o”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

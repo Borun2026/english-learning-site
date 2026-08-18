@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u2",
+  "stage": 2,
+  "title": "现在完成时",
+  "explanation": "## 现在完成时的构成\n\n**have / has + 过去分词**\n\n主语是第三人称单数用 has,其余用 have。规则动词的过去分词与过去式相同(加 -ed);不规则动词需要记忆:go→gone、see→seen、eat→eaten、come→come。\n\n## 两种核心用法\n\n1. **过去动作影响现在**:动作发生在过去,结果或影响持续到现在。I have lost my key.(现在进不了门)\n2. **从过去持续到现在**:与 since + 时间点、for + 时间段连用。She has lived here for five years.\n\n## 标志词\n\n| 标志词 | 用法 |\n|---|---|\n| already | 肯定句,\"已经\" |\n| yet | 否定句和疑问句,句末 |\n| just / ever / never | 刚才 / 曾经 / 从不 |\n| since / for | 持续到现在 |\n\n注意:yesterday、last week 等过去时间词不能与完成时连用,只能用一般过去时。",
+  "examples": [
+    { "en": "I have finished my homework.", "cn": "我已经完成作业了。", "note": "have + 过去分词 finished,强调对现在的影响。" },
+    { "en": "She has lived here for five years.", "cn": "她住在这里五年了。", "note": "for + 时间段,动作从过去持续到现在。" },
+    { "en": "Have you ever been to Shanghai?", "cn": "你曾去过上海吗?", "note": "ever 用于疑问句,been to 表示\"去过\"。" },
+    { "en": "He hasn't come back yet.", "cn": "他还没回来。", "note": "yet 用于否定句,放在句末。" }
+  ],
+  "errors": [
+    { "wrong": "I have gone to Beijing twice.", "right": "I have been to Beijing twice.", "note": "去过又回来了用 been to;gone to 表示去了还没回来。" },
+    { "wrong": "She has came back.", "right": "She has come back.", "note": "come 的过去分词是 come,不是 came。" },
+    { "wrong": "I have seen the movie yesterday.", "right": "I saw the movie yesterday.", "note": "yesterday 是明确的过去时间词,要用一般过去时。" }
+  ],
+  "quiz": [
+    { "q": "She ___ already ___ her work.", "options": ["has / finish", "has / finished", "have / finished", "is / finishing"], "answer": 1, "note": "第三人称单数用 has + 过去分词 finished。" },
+    { "q": "I have ___ here since 2018.", "options": ["live", "lived", "living", "lives"], "answer": 1, "note": "since + 时间点,现在完成时,用过去分词 lived。" },
+    { "q": "___ you ever ___ to the Great Wall?", "options": ["Have / be", "Have / been", "Has / been", "Do / be"], "answer": 1, "note": "ever 用于完成时疑问句,you 用 have + been。" },
+    { "q": "He hasn't arrived ___.", "options": ["already", "just", "yet", "ever"], "answer": 2, "note": "yet 用于否定句,放在句末。" },
+    { "q": "They ___ just ___ lunch.", "options": ["has / had", "have / had", "had / had", "has / has"], "answer": 1, "note": "主语 they 用 have,过去分词是 had。" }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "cet6-004",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第2套) Passage 2",
+ "title": "What a waste of money",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 409,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "What a waste of money!In return for an averageof�44,000 of debt,students get an average of only 14 hours of lecture and tutorial time a week in Britain. Annual fees have risen from�1,000 to $9,000 in the last decade. But contact time at university has barely risen at all. And graduating doesn't even provide any guarantee of a decent job:sixin ten graduates today are in non-graduate jobs.",
+  "No wonder it has become fashionable to denounce many universities as little more that elaboratecom-tricks . There's a lotfor students to complain about the repayment threshold for paying back loans will be frozen for five years, meaning that lower-paid graduals have to start repaying their loans, and maintenance grants have been replaced by loans meaning that students from poorer backgrounds face higher debt than those with wealthier parents.",
+  "Yet it still pays to go to university. If going to university doesn't work out, students pay very little--if any--of their tuition fees back, you only start repaying when you are earning �21, 000 a year. Almost half of graduates--those who go on to earn less--will have a portion of their debt written off. It's not just the lectures and tutorials that are important. Education is the sum of what students teach each other in between lectures and seminars. Students do not merely benefit while at university, studies show they go on to be healthier and happier than non-graduates, and also far more likely to vote.",
+  "Whatever your talents, it is extraordinarily difficult to get a leading job in most fields without having been to university. Recruiters circle elite universities like vulturous . Many top firms will not even look at applications from those who lack a 2.1, i.e., an upper-second class degree, from an elite university. Students at university also meet those likely to be in leading jobs in the future, forming contacts for life. This might not be right, but school-leavers who fail to acknowledge as much risk making the wrong decision about going to university.",
+  "Perhaps the reason why so many universities offer their students so little is they know studying at a top university remains a brilliant investment even if you don't learn anything .Studying at university will only become less attractive if employers shift their focus away from where someone went to university--and there is no sign of that happening anytime soon. School-leavers may moan, but they have little choice but to embrace university and the student debt that comes with it."
+ ],
+ "questions": [
+  {
+   "q": "文中 “graduate” 最接近的意思是?",
+   "options": [
+    "决定,决心",
+    "抱怨",
+    "毕业",
+    "较低的"
+   ],
+   "answer": 2,
+   "analysis": "“graduate” 意为「毕业」。原文语境:And graduating doesn't even provide any guarantee of a decent job:sixin ten graduates today are in non-graduate jobs.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:___ half of graduates--those who go on to earn less--will have a portion of their debt written off.",
+   "options": [
+    "brilliant",
+    "Almost",
+    "upper",
+    "Perhaps"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Almost half of graduates--those who go on to earn less--will have a portion of their debt written off.”。空格处应填入 “Almost”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Spiders make their presence felt in late August and through early autumn",
+    "What a waste of money",
+    "Mindfulness has been shown to have a number of meaningful health benefits --",
+    "Questions 46 to SO are based on the following pge"
+   ],
+   "answer": 1,
+   "analysis": "本文以“What a waste of money!In return for an averageof�44,000 of debt,students get an average of only 14 hours of lecture and tutorial time a week in Britain.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

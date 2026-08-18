@@ -1,0 +1,64 @@
+{
+ "id": "cet6-064",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第3套) Passage 2",
+ "title": "Look at the people around you",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 448,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Look at the people around you. Some are passive, others more aggressive. Some work best alone, others crave companionship. We easily recognize that there is great variation among the individuals who live near us. Yet, when we speak of people from elsewhere, we seem to inevitably characterize them based on their country of origin.",
+  "Statistics specialists, when they speak of national averages, often make the same mistake.",
+  "Newly published research shows how erroneous such overviews are. Three researchers analyzed decades of values-based surveys and found that only between 16% and 21 % of the variation in cultural values could be explained by differences between countries. In other words, the vast majority of what makes us culturally distinct from one another has nothing to do with our homeland.",
+  "To determine what factors really are associated with culture, the authors combined data from 558 prior surveys that each measured one or more of Hofstede's cultural dimensions. These are traits, such as individualism and masculinity, that describe work-related cultural values. (They are not a measure of visible cultural traits, such as food or dress.) Though the validity of Hofstede's dimensions has been questioned, they have the singular benefit of having been in use for decades, which allows for historical and international comparisons.",
+  "The researchers found that both demographic factors, such as age, and environmental factors, such as long-term unemployment rates, were more correlated with cultural values than nationality. Occupation and social economic status were the most strongly correlated, suggesting that our values are more economically driven than we usually give them credit for.",
+  "The evidence implies that people with similar jobs and incomes are more culturally alike, regardless of where they live. Vas Taras, the lead author of the study, puts it this way: \"Tell me how much you make and I will make a pretty accurate prediction about your cultural values. Tell me what your nationality is and I probably will make a wrong prediction.\"",
+  "Taras says our erroneous belief that countries are cultures has caused businesses to teach their employees useless or even harmful ways of interacting with their international peers. Chinese and American lawyers might be trained to interact based on the assumption that the Chinese person is less individualistic, even though their similar social economic situations make it probable they are actually quite alike in that regard.",
+  "The country, as the unit of authority, is often a convenient way of generalizing about a population.",
+  "However, our focus on countries can mask broad variations within them. In the",
+  "majority of cases we would be better off identifying people by the factors that constrain their lives, like income, rather than by the lines surrounding them on a map."
+ ],
+ "questions": [
+  {
+   "q": "文中 “focus” 最接近的意思是?",
+   "options": [
+    "宁可，宁愿",
+    "作者",
+    "焦点，集中",
+    "错误地"
+   ],
+   "answer": 2,
+   "analysis": "“focus” 意为「焦点，集中」。原文语境:However, our focus on countries can mask broad variations within them.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:In other words, the vast majority of what makes us culturally ___ from one another has nothing to do with our homeland.",
+   "options": [
+    "passive",
+    "distinct",
+    "historical",
+    "cultural"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“In other words, the vast majority of what makes us culturally distinct from one another has nothing to do with our homeland.”。空格处应填入 “distinct”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "There're currently 21",
+    "* Industrial fishing for krill ( *F ) in the unspoilt waters around Antarctic",
+    "Look at the people around you",
+    "It is not controversial to say that an unhealthy diet causes bad health"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Look at the people around you.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "id": "z2013-cloze-0",
+ "year": 2013,
+ "section": "cloze",
+ "index": 0,
+ "source": "2013年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "People are, on the whole, poor at considering background information when making individual decisions.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "At first glance this might seem like a strength that ___1___ the ability to make judgments which are unbiased by ___2___ factors.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "But Dr.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Uri Simonsohn speculated that an inability to consider the big ___3___ was leading decision-makers to be biased by the daily samples of information they were working with.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___4___ , he theorised that a judge ___5___ of appearing too soft ___6___ crime might be more likely to send someone to prison ___7___ he had already sentenced five or six other defendants only to forced community service on that day.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "To___8___ this idea, he turned to the university-admissions process.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In theory, the ___9___ of an applicant should not depend on the few others___10___ randomly for interview during the same day, but Dr.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Simonsoho suspected the truth was ___11___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "He studied the results of 9,323 MBA interviews ___12___ by 31 admissions officers.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The interviewers had ___13___ applicants on a scale of one to five.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This scale ___14___ numerous factors into consideration.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The scores were ___15___ used in conjunction with an applicant’s score on the Graduate Management Admission Test, or GMAT, a standardized exam which is ___16___ out of 800 points, to make a decision on whether to accept him or her.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Dr.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Simonsohn found if the score of the previous candidate in a daily series of interviewees was 0.75 points or more higher than that of the one ___17___ that, then the score for the next applicant would___18___ by an average of 0.075 points.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This might sound small, but to ___19___the effects of such a decrease a candidate would need 30 more GMAT points than would otherwise have been ___20___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "grants",
+    "submits",
+    "transmits",
+    "delivers"
+   ],
+   "answer": 0,
+   "analysis": "第一句提到“总体而言,当人们自己做决定时,并不擅长考虑背景信息。”第二句顺接上文,“乍一看这\n是一种优势”,that引导定语从句,这种优势使人们具有一种能力,即能够做出不受外界因素影响的不带偏见的\n决定。B选项submit“服从,提交”,不能与ability连用,C选项transmit“传输,发射”,也不能与ability搭配,\nD选项deliver“传递”,同样不能与ability搭配。A,C,D无论从搭配上还是意思上都不合适。A选项grant本身\n具有赋予,授予的意思。故答案选A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "minor",
+    "external",
+    "crucial",
+    "objective"
+   ],
+   "answer": 1,
+   "analysis": "external外部因素和上文的backgroundinformation同义复现,不考虑背景信息,不受外界因素影响。A\n选项minor次要的,B选项external外部的,C选项crucial残酷的,D选项objective客观的,故答案选B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "issue",
+    "vision",
+    "picture",
+    "moment"
+   ],
+   "answer": 2,
+   "analysis": "句子主干:Theadministrationwas…assertingthat…。That后面是宾语从句,里面嵌套了一个原因状语\n从句。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Above all",
+    "On average",
+    "In principle",
+    "For example"
+   ],
+   "answer": 3,
+   "analysis": "通读后面的句子,提到了法官与被告,这明显是生活当中的一个具体的实例,故答案选D。而A选项\naboveall“首先”是用来列举条目;B选项onaverage“平均,通常”,出现的话,周围往往应该要出现数字。C选\n项inprinciple“大体上,原则上”,后面需要出现的是总结性的话语,将A,B,C排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "fond",
+    "fearful",
+    "capable",
+    "thoughtless"
+   ],
+   "answer": 1,
+   "analysis": "从句意上来看“例如,他们提出理论,认为法官不敢在罪行面前表现得太软弱,如果当天已经宣判五\n2六名被告执行缓刑,那么他很有可能将下一个人送入监狱。A选项fondof喜欢,B选项fearof惧怕,C选项\ncapableof有能力,D选项thoughtlessof考虑不周,故答案选B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "in",
+    "for",
+    "to",
+    "on"
+   ],
+   "answer": 3,
+   "analysis": "根据句内的逻辑关系,在对待犯罪行为方面害怕表现出太软弱,在……方面,关于……的表达应该用\n介词on,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "if",
+    "until",
+    "though",
+    "unless"
+   ],
+   "answer": 0,
+   "analysis": "A选项if表条件。B选项until表时间,往往跟not连用,直接排除。C选项though表让步,D选项\nunless相当于if...not。通读空格所在的前后句子,得出这两句之间的逻辑关系是表示条件的。"
+  },
+  {
+   "q": "",
+   "options": [
+    "test",
+    "emphasize",
+    "share",
+    "promote"
+   ],
+   "answer": 0,
+   "analysis": "首先注意到idea前面有指示代词this,很明显指代上文提出的观点。而且跟上文以法官为例一样,下\n文“他们把注意力转向大学录取过程”也是上文观点的例证,目的是对上文的观点进行检验,而不是A选项“促\n进”,B选项“强调”或C选项“分享”,故答案选D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "decision",
+    "quality",
+    "status",
+    "success"
+   ],
+   "answer": 3,
+   "analysis": "A选项decision“决定”,B选项quality“质量,品质”,C选项status“地位”,D选项success“成功”。申\n请者的____不应该取决于同一天随机选到的其他几名申请者。接着下文讲到面试官面试MBA申请者的结果\nresults,因此第9题应该也有结果的意思,与下文结合是达到正面的结果,因此答案是即“申请者的成功”。其\n它选项带入原文重叠答案,与原义不符合。"
+  },
+  {
+   "q": "",
+   "options": [
+    "found",
+    "studied",
+    "chosen",
+    "identified"
+   ],
+   "answer": 2,
+   "analysis": "空格后面有一个副词为randomly,随机地,既然是随机,那么A选项found“找到的”,选项B选项\nstudied“研究过的”,D选项identified“经鉴定的”就与randomly是相矛盾的,全部排除。"
+  },
+  {
+   "q": "",
+   "options": [
+    "otherwise",
+    "defensible",
+    "replaceable",
+    "exceptional"
+   ],
+   "answer": 0,
+   "analysis": "本题解题关键在于but,通过suspect可以看出Dr.Simonsohn与前文意思相反,因此otherwise正好符\n合题意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "inspired",
+    "expressed",
+    "conducted",
+    "secured"
+   ],
+   "answer": 2,
+   "analysis": "此外明显缺一个过去分词作interviews的定语,再看by后面的officers,只有conducted(执行),符\n合语境,故为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "assigned",
+    "rated",
+    "matched",
+    "arranged"
+   ],
+   "answer": 1,
+   "analysis": "本题末尾onetofive(从一到五),前面又有一个onascale(…的范围),A分配,D排列语义上说不\n通,再综合后面的factor(因素),对比一下,只有B(划分等级),整合起来,即划分成一到五个等级,合\n情合理Cmatch看似与to搭配,但也不符合文意,故正确答案为B."
+  },
+  {
+   "q": "",
+   "options": [
+    "put",
+    "got",
+    "took",
+    "gave"
+   ],
+   "answer": 2,
+   "analysis": "本题需联系整句话,take…intoconsideration(考虑,涉及),从形式上来说没有问题,再从意义上来\n看,说“这个等级考虑了几种因素……”,是对上文评级的进一步解释,也没有问题。"
+  },
+  {
+   "q": "",
+   "options": [
+    "instead",
+    "then",
+    "ever",
+    "rather"
+   ],
+   "answer": 1,
+   "analysis": "还是承接上文讲到的评级得分,后半句讲到的是(平时学校等级)考试得分,再结合中间conjunction\n一词(联接),可以推断为then(具有承接之意),因此为正确答案,而A和D为同一意义和用法(代替),\n与conjunction相冲突,C说不通,故也为错误选项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "selected",
+    "passed",
+    "marked",
+    "introduced"
+   ],
+   "answer": 2,
+   "analysis": "本题出在一个非限定性定语从句上,先行词为astandardizedexam,后半句是800分,考试和分数之间\n首选marked,选项B“通过”具有一定的干扰性,但注意主语是考试,所以正确选项为C。A为无关选项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "below",
+    "after",
+    "above",
+    "before"
+   ],
+   "answer": 3,
+   "analysis": "本句属于比较级,对比的是几个面试者的分数,A和C是空间上的上下,而这里缺的时间上的先后,\n故排除A和C,B是“之后”,不符合语言先后逻辑,故正确答案为A."
+  },
+  {
+   "q": "",
+   "options": [
+    "jump",
+    "float",
+    "fluctuate",
+    "drop"
+   ],
+   "answer": 3,
+   "analysis": "解本题需往下看,to…theeffectsofsuchadecrease,由此可以判断接下来那个应聘者的分数是出现了下\n降,故直击正确选项D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "achieve",
+    "undo",
+    "maintain",
+    "disregard"
+   ],
+   "answer": 1,
+   "analysis": "该句为不定式作主语,“(面试考官可能给)更低的分数”所带来的影响,可以推断,是消除或是抵消\n这种不利结果,应聘者需要在GMAT中多拿30分,A“达到”,C“保持”D“漠视”明显不符,故A“消除”为正确\n答案。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "necessary",
+    "possible",
+    "promising",
+    "helpful"
+   ],
+   "answer": 0,
+   "analysis": "该题难度较大,需把句意弄懂,也就是“这30分是比……所多的”建议把四个选项分别代入空格处,A\n“必须的”,B“可能的”,C“有前途的”,D“有帮助的”,对比之后,只有A最合逻辑,也就是说“这30\n4分是比原本该考试所必须要求的多出来的,即另外多拿本不需要的30分才能平衡前面的更低的分数”,故A为\n正确选项。\n三、全文翻译\n从总体上看,人们在做个人决定的时候是不怎么考虑背景信息的。乍一看,这貌似是一优点,这个有点让\n你能够不受外界因素的影响做出无偏见的判断。但是Dr.UriSimonsohn推测,没有能力掌握大局,就会导致决\n策者不能客观地做出判断,反而被日常生活中所接触的片面信息所影响。举个例子,Dr.Simonsohn认为:一位\n害怕对罪犯心慈手软的法官,如果那天他已经连续判了五六个缓刑,那么接下来的那一个很有可能会被判关押。\n为了验证这一想法,他把目光对准大学招生程序。理论上讲,申请人是否能成功,这跟同一天里随机选择\n的其他面试者是没有关系的,但是Dr.Simonsohn觉得,事实可能相反。\n他研究了由31位招生负责人进行的9323场MBA面试结果。面试官把参加面试的人从1到5分为5个等\n级。等级的划分考虑各种因素。该等级成绩,加上面试者的GMAT考试的成绩(GMAT即管理研究"
+  }
+ ]
+}

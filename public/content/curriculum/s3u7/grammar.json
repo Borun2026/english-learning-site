@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u7",
+  "stage": 3,
+  "title": "强调句",
+  "explanation": "## 强调句:It is/was + 被强调部分 + that + 其余\n\n强调句用于突出句子的某个成分(主语、宾语、状语),结构为 It is/was + 被强调部分 + that/who + 其他部分。去掉 It is...that 后句子仍然完整,这是判断强调句的黄金法则。\n\n## 基本用法\n\n原句:Tom met Mary in the park yesterday。\n\n- 强调主语:It was Tom that (who) met Mary in the park yesterday。\n- 强调宾语:It was Mary that Tom met in the park yesterday。\n- 强调地点状语:It was in the park that Tom met Mary yesterday。\n- 强调时间状语:It was yesterday that Tom met Mary in the park。\n\n## 与定语从句的区别\n\nIt is the book that I bought yesterday(定语从句,book 在从句中作宾语)vs It was the book that I bought yesterday?去掉 It is...that 后,\"the book I bought\"不完整,这是定语从句。强调句去掉框架后句子仍完整。\n\n## 特殊强调\n\n1. 强调 not...until 结构:It was not until midnight that he came back。\n2. 强调句型与疑问句结合:Was it you that broke the window?Who was it that called?",
+  "examples": [
+    { "en": "It was in 2018 that he graduated from college.", "cn": "他是在 2018 年从大学毕业的。", "note": "强调时间状语 in 2018,去掉 It was...that 句子仍完整。" },
+    { "en": "It is the teacher who always encourages us.", "cn": "正是这位老师一直在鼓励我们。", "note": "强调人时可用 who 代替 that。" },
+    { "en": "It was not until midnight that he finished work.", "cn": "直到午夜他才完成工作。", "note": "强调 not...until 结构,固定搭配 It was not until...that。" },
+    { "en": "It is English that he studies at school.", "cn": "他在学校学的是英语。", "note": "强调宾语 English,去掉框架后 he studies English at school。" }
+  ],
+  "errors": [
+    { "wrong": "It was yesterday when he came back.", "right": "It was yesterday that he came back.", "note": "强调句中固定用 that,不用 when。" },
+    { "wrong": "It is because he is ill so he is absent.", "right": "It is because he is ill that he is absent.", "note": "强调原因状语用 that,不用 so。" },
+    { "wrong": "It was at the station which he saw the accident.", "right": "It was at the station that he saw the accident.", "note": "强调地点状语固定用 that,不用 which。" }
+  ],
+  "quiz": [
+    { "q": "It was in the library ___ I found the book.", "options": ["that", "where", "which", "when"], "answer": 0, "note": "强调地点状语用 that,不是 where。" },
+    { "q": "___ was Tom that won the first prize.", "options": ["This", "It", "That", "He"], "answer": 1, "note": "强调句固定以 It 开头。" },
+    { "q": "It was not until dark ___ he realized the danger.", "options": ["when", "that", "which", "before"], "answer": 1, "note": "not until 强调结构用 that。" },
+    { "q": "It is I who ___ wrong.", "options": ["am", "is", "are", "be"], "answer": 0, "note": "强调主语 I 时,谓语与 I 一致,用 am。" },
+    { "q": "It was the rain ___ delayed our flight.", "options": ["what", "which", "that", "who"], "answer": 2, "note": "强调主语 the rain,用 that。" }
+  ]
+}

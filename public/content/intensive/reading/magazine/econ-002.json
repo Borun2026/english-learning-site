@@ -1,0 +1,24 @@
+{
+ "id": "econ-002",
+ "type": "magazine",
+ "journal": "The Economist",
+ "journalEn": "The Economist",
+ "title": "Why Inflation Remains Stubbornly High",
+ "date": "2026-03-28",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 520,
+ "tags": [
+  "economics",
+  "inflation",
+  "policy"
+ ],
+ "paragraphs": [
+  "Central bankers around the world are grappling with a persistent problem: inflation refuses to fall to their 2% targets. Despite aggressive interest rate hikes over the past two years, consumer prices in many advanced economies remain stubbornly elevated. The experience of the 1970s looms large, when premature easing allowed inflation to become entrenched.",
+  "The root causes of today's inflation are complex and intertwined. Supply chain disruptions from the pandemic have largely subsided, but new pressures have emerged. Geopolitical tensions are pushing up energy and food prices. Labor markets remain tight, with unemployment at historic lows in many countries, giving workers unusual bargaining power.",
+  "Demographics also play a role. Aging populations in rich countries are reducing the supply of workers, while the retirement of baby boomers is shifting consumption patterns. Older people tend to spend more on services like healthcare, where productivity gains are harder to achieve, putting upward pressure on prices.",
+  "Fiscal policy has not helped. Governments ran enormous deficits during the pandemic and have been reluctant to tighten. The United States, in particular, continues to run a fiscal deficit of around 6% of GDP at a time of near-full employment. This is unprecedented in peacetime and adds fuel to inflationary fires.",
+  "The housing market presents another challenge. In many countries, a chronic shortage of housing has pushed rents and property prices to record levels. Since housing costs make up a large share of consumer price indices, this directly feeds into measured inflation.",
+  "Central banks face a difficult trade-off. Raise rates too high and they risk triggering a recession and mass unemployment. Ease too soon and inflation expectations may become unanchored, requiring even more painful adjustment later. The \"soft landing\" that many hoped for is looking increasingly elusive."
+ ]
+}

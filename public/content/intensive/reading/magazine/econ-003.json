@@ -1,0 +1,24 @@
+{
+ "id": "econ-003",
+ "type": "magazine",
+ "journal": "The Economist",
+ "journalEn": "The Economist",
+ "title": "The Surprising Comeback of Nuclear Energy",
+ "date": "2026-02-10",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 580,
+ "tags": [
+  "energy",
+  "nuclear",
+  "climate"
+ ],
+ "paragraphs": [
+  "For decades, nuclear power seemed destined for the dustbin of history. The accidents at Three Mile Island, Chernobyl, and Fukushima traumatized public opinion and led governments to mothball their nuclear ambitions. But a remarkable reversal is now underway. Countries that once swore off atomic energy are reconsidering, driven by the twin imperatives of energy security and decarbonization.",
+  "Japan, which shut down all its reactors after Fukushima, is restarting them. Germany, which planned to phase out nuclear entirely, is facing calls to reconsider. Even California, long a bastion of anti-nuclear sentiment, extended the life of its Diablo Canyon plant. The International Energy Agency now predicts that global nuclear capacity could double by 2050.",
+  "Several factors explain this renaissance. First, the war in Ukraine exposed the dangers of over-reliance on imported fossil fuels. Nuclear power offers a domestic, reliable source of baseload electricity that is not subject to the whims of authoritarian regimes or volatile commodity markets. Second, the urgency of climate change has clarified the stakes: without nuclear power, decarbonizing the global economy becomes vastly more difficult and expensive.",
+  "Technological advances are also changing the calculus. Small Modular Reactors (SMRs) promise to be cheaper, safer, and faster to build than traditional large-scale plants. Companies like NuScale, TerraPower, and Rolls-Royce are developing designs that could be factory-built and shipped to sites, dramatically reducing construction risk and cost overruns.",
+  "Fusion, long the holy grail of energy, is also making progress. The breakthrough at the National Ignition Facility in 2022, where a fusion reaction produced more energy than was put into the fuel, was a scientific milestone. Multiple private fusion startups have attracted billions in venture capital, betting that commercial fusion power could be viable within the next decade or two.",
+  "Skeptics point to the unresolved problem of nuclear waste and the enduring risk of catastrophic accidents. These concerns are legitimate, but they must be weighed against the certain harms of continued fossil fuel dependence, including air pollution that kills millions annually and the accelerating impacts of climate change. The nuclear debate is no longer about whether the risks are acceptable, but about which set of risks we prefer."
+ ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u8",
+  "stage": 1,
+  "title": "情态动词入门",
+  "explanation": "## 情态动词的特点\n\n情态动词(can、must、should)用来表达能力、必要性和建议。它们有三个共同特点:\n\n1. **后面接动词原形**,不加 -s、-ed,也不加 to。\n2. **不随主语变化**:I can / He can 都是 can。\n3. 否定直接加 not:**can't、mustn't、shouldn't**;疑问句把情态动词提到句首。\n\n## 三个情态动词的用法\n\n| 情态动词 | 含义 | 例句 |\n|---|---|---|\n| can | 能力、许可 | I can swim. / Can I...? |\n| must | 必须(语气强) | You must be quiet. |\n| should | 应该(建议) | You should rest. |\n\n- **mustn't** 表示\"禁止\",而不是\"不必\"。\n- **can 的过去式 could** 语气更委婉,常用来礼貌地请求:Could you help me?",
+  "examples": [
+    { "en": "I can swim very well.", "cn": "我游泳游得很好。", "note": "can 表示能力,后接动词原形 swim。" },
+    { "en": "You must finish your homework first.", "cn": "你必须先完成作业。", "note": "must 表示必须,语气强,后接原形 finish。" },
+    { "en": "We should help each other.", "cn": "我们应该互相帮助。", "note": "should 表示建议,语气温和。" },
+    { "en": "Can I use your phone?", "cn": "我可以用一下你的手机吗?", "note": "Can 提前构成疑问句,表示请求许可。" }
+  ],
+  "errors": [
+    { "wrong": "She can swims well.", "right": "She can swim well.", "note": "情态动词后动词用原形 swim,不能加 -s。" },
+    { "wrong": "He can to speak English.", "right": "He can speak English.", "note": "can 后直接接动词原形,不加 to。" },
+    { "wrong": "You should to rest more.", "right": "You should rest more.", "note": "should 后接动词原形,不加 to。" }
+  ],
+  "quiz": [
+    { "q": "___ I ask you a question?", "options": ["Can", "Do", "Does", "Have"], "answer": 0, "note": "请求许可用 Can 提前构成疑问句。" },
+    { "q": "You ___ smoke here. It is not allowed.", "options": ["can", "mustn't", "should", "are"], "answer": 1, "note": "禁止做某事用 mustn't。" },
+    { "q": "She ___ play the piano when she was five.", "options": ["can", "could", "must", "should"], "answer": 1, "note": "表示过去的能力用 could。" },
+    { "q": "You ___ finish your homework before dinner.", "options": ["must", "mustn't", "can't", "needn't"], "answer": 0, "note": "必须完成用 must,语气强。" },
+    { "q": "\"___ you help me?\" \"Of course.\"", "options": ["Must", "Should", "Could", "Might"], "answer": 2, "note": "礼貌请求用 could,语气最委婉。" }
+  ]
+}

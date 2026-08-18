@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u4",
+  "stage": 2,
+  "unitId": "s2u4",
+  "title": "听力挑战 · 谈论计划与目标",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "What do you plan to do this summer?",
+      "lineCn": "这个夏天你计划做什么?",
+      "grammar": [
+        { "name": "不定式作宾语", "note": "plan to do 中 to do 是不定式作宾语,表达打算做的事。" }
+      ],
+      "options": [
+        { "text": "I hope to travel around the country.", "correct": true, "feedback": "hope to do 使用不定式表达计划,自然贴切。" },
+        { "text": "I traveled to France last month.", "correct": false, "feedback": "过去时说的是上个月,不是夏天的计划。" },
+        { "text": "I have finished my homework.", "correct": false, "feedback": "现在完成时谈已完成的事,与未来计划无关。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "Why do you want to learn cooking this year?",
+      "lineCn": "你为什么今年想学烹饪?",
+      "grammar": [
+        { "name": "不定式表目的", "note": "want to do 中不定式说明想要做的事,回答时可说明目的。" }
+      ],
+      "options": [
+        { "text": "I want to open a small restaurant.", "correct": true, "feedback": "用 want to do 说明学烹饪的动机和目的。" },
+        { "text": "I cooked dinner for my family.", "correct": false, "feedback": "过去时说的是已经做过的事,没有说明目的。" },
+        { "text": "I have learned math for years.", "correct": false, "feedback": "谈的是数学,与学烹饪的目的无关。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "What is your goal for the new term?",
+      "lineCn": "你这学期的目标是什么?",
+      "grammar": [
+        { "name": "不定式作表语", "note": "My goal is to do... 中不定式作表语,说明目标的具体内容。" }
+      ],
+      "options": [
+        { "text": "My goal is to pass the final exam.", "correct": true, "feedback": "be to do 结构作表语,清楚表达目标。" },
+        { "text": "My goal was to pass the exam.", "correct": false, "feedback": "was 是过去时,与'新学期'的将来目标矛盾。" },
+        { "text": "I passed the exam last week.", "correct": false, "feedback": "说的是已完成的考试,不是目标。" }
+      ]
+    }
+  ]
+}

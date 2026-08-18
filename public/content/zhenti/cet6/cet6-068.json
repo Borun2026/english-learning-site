@@ -1,0 +1,76 @@
+{
+ "id": "cet6-068",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第2套) Passage 2",
+ "title": "Questions 51 to SS are based on the following passage",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 465,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Questions 51 to SS are based on the following passage.",
+  "The car has reshaped our cities. It seems to offer autonomy for everyone. There is something almost",
+  "delightful in the detachment from reality of advertisements showing mass-produced cars marketed as",
+  "symbols of individuality and of freedom when most of their lives will be spent making short journeys on",
+  "choked roads.",
+  "For all the fuss made about top speeds, cornering ability and acceleration, the most useful gadgets on",
+  "a modern car are those which work when you're going very slowly: parking sensors, sound systems, and",
+  "navigation apps which will show a way around upcoming traffic jams. This seems to be one of the few",
+  "areas where the benefit of sharing personal information comes straight back to the sharer: because these",
+  "apps know where almost all the users are, and how fast they are moving almost all the time, they can spot",
+  "cm) traffic congestion very quickly and suggest ways round it.",
+  "The problem comes when everyone is using a navigation app which tells them to avoid everyone else",
+  "using the same gadget. Traffic jams often appear where no one has enough information to avoid them.",
+  "When a lucky few have access to the knowledge, they will benefit greatly. But when everyone has perfect",
+  "information, traffic jams simply spread onto the side roads that seem to offer a way round them.",
+  "This new congestion teaches us two things. The first is that the promises of technology will never be",
+  "realised as fully as we hope; they will be limited by their unforeseen and unintended consequ,ences. Sitting",
+  "in a more comfortable car in a different traffic jam is pleasant but hardly the liberation that once seemed",
+  "to be promised. The second is that self-organisation will not get us where we want to go. The efforts of",
+  "millions of drivers to get ahead do not miraculously produce a situation in which everyone does better than before, but one in which almost everyone does rather worse. Central control and collective organisation can produce smoother and fairer outcomes, though even that much is never guaranteed.",
+  "Similar limits can be foreseen for the much greater advances promised by self-driving cars. Last week, one operated by the taxi company Uber struck nd killed a woman pushing her bicycle across a wide road in Arizona. This was the first recorded death involving a car which was supposed to be fully autonomous. Experts have said that it suggests a \"catastrophic failure\" of technology.",
+  "Increasingly, even Silicon Valley has to acknowledge the costs of the intoxicating (A D$IW) hurry that characterises its culture. What traffic teaches us is that reckless and uncontrolled change is as likely to harm us as it is to benefit us, and that thoughtful regulation is necessary for a better future."
+ ],
+ "questions": [
+  {
+   "q": "文中 “limited” 最接近的意思是?",
+   "options": [
+    "有限的",
+    "通知,报告",
+    "直的",
+    "拥挤，混杂"
+   ],
+   "answer": 0,
+   "analysis": "“limited” 意为「有限的」。原文语境:The first is that the promises of technology will never be realised as fully as we hope; they will be limited by their unforeseen and unintended consequ,ences.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:When a lucky few have access to the ___, they will benefit greatly.",
+   "options": [
+    "gadget",
+    "collective",
+    "information",
+    "knowledge"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“When a lucky few have access to the knowledge, they will benefit greatly.”。空格处应填入 “knowledge”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,",
+    "There're currently 21",
+    "According to a recent study, a small but growing proportion of the workforce",
+    "Questions 51 to SS are based on the following passage"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Questions 51 to SS are based on the following passage.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

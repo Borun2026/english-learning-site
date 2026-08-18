@@ -1,0 +1,188 @@
+{
+  "id": "d-s3u6",
+  "stage": 3,
+  "unitId": "s3u6",
+  "scene": "正式演讲",
+  "goal": "完成开场演讲并从容回应提问",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "评委 Professor Reed",
+      "line": "Welcome to the opening ceremony. Never have I seen such a full auditorium on a winter evening.",
+      "lineCn": "欢迎来到开幕典礼。我从未在冬日的傍晚见过这么满的礼堂。",
+      "grammar": [
+        { "name": "否定词句首部分倒装", "note": "Never 置于句首,助动词 have 提到主语 I 前,构成部分倒装,语气强烈正式。" }
+      ],
+      "options": [
+        { "text": "Thank you, Professor. Never have I felt more honoured than I do standing here today.", "textCn": "谢谢教授。站在这里,我从未感到如此荣幸。", "feedback": "用倒装句回应倒装句,开场漂亮。", "next": "n2" },
+        { "text": "Thank you. I hope the audience will enjoy my speech, whatever its quality may be.", "textCn": "谢谢。希望听众喜欢我的演讲,无论它质量如何。", "feedback": "缺乏自信,教授会鼓励。", "next": "n3" },
+        { "text": "The hall is full, but so is my nervousness. I fear I may forget my lines.", "textCn": "礼堂是满的,我的紧张也是。我怕我会忘词。", "feedback": "紧张失态,教授开导。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "评委 Professor Reed",
+      "line": "A confident opening, indeed. Not only is this ceremony a test of your speech, but it is also a celebration of hard work.",
+      "lineCn": "确实是个自信的开场。这场典礼不仅是对你演讲的考验,也是对努力的庆祝。",
+      "grammar": [
+        { "name": "Not only...but also 倒装", "note": "Not only 置于句首时,be 动词 is 提前形成部分倒装,与 but also 呼应,表递进。" }
+      ],
+      "options": [
+        { "text": "Not only have I prepared for weeks, but I have also practised before a mirror every evening.", "textCn": "我不仅准备了好几周,还每晚对着镜子练习。", "feedback": "如实汇报准备情况,印象良好。", "next": "n4" },
+        { "text": "I prepared, but not very thoroughly. I hope the audience will be forgiving.", "textCn": "我准备了,但不太充分。希望听众宽容。", "feedback": "准备不足,教授提醒。", "next": "n3" },
+        { "text": "Speaking of celebration, may I ask when the results will be announced?", "textCn": "说到庆祝,我能问问结果什么时候公布吗?", "feedback": "答非所问,教授纠正。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "评委 Professor Reed",
+      "line": "Do not be so hard on yourself. Only when you trust your preparation can you speak with genuine ease.",
+      "lineCn": "别对自己太苛刻。只有当你信任自己的准备,才能真正从容地演讲。",
+      "grammar": [
+        { "name": "Only when 倒装", "note": "Only when 引导状语从句置于句首,主句部分倒装,can 提到主语 you 前。" }
+      ],
+      "options": [
+        { "text": "You are right. Only by practising repeatedly can I truly relax on stage.", "textCn": "您说得对。只有反复练习,我才能在台上真正放松。", "feedback": "领会要点,信心回升。", "next": "n4" },
+        { "text": "I trust my notes more than myself. Hardly have I delivered a speech without reading them.", "textCn": "我更信任讲稿而非自己。我几乎没有不读稿讲过话。", "feedback": "坦诚但依赖讲稿,教授提醒。", "next": "n4" },
+        { "text": "To be frank, I am here mainly because my teacher forced me to apply.", "textCn": "坦白说,我来主要是老师逼我报名的。", "feedback": "缺乏热情,教授失望。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "评委 Professor Reed",
+      "line": "Then step onto the stage. Rarely do we give such young speakers a full hour, so make every minute count.",
+      "lineCn": "那么上台吧。我们很少给这么年轻的演讲者整整一小时,所以请让每一分钟都有价值。",
+      "grammar": [
+        { "name": "Rarely 句首倒装", "note": "Rarely 是半否定副词,置于句首时助动词 do 提前,构成部分倒装。" }
+      ],
+      "options": [
+        { "text": "I will. Seldom have I had such a precious opportunity, and I will not waste it.", "textCn": "我会的。我极少有这样的宝贵机会,绝不会浪费。", "feedback": "珍视机会,评委满意。", "next": "n4b" },
+        { "text": "An hour is short. Only when the clock starts will I feel the real pressure.", "textCn": "一小时很短。只有计时开始,我才会感到真正的压力。", "feedback": "心态真实,继续推进。", "next": "n4b" },
+        { "text": "Could you shorten my time? The shorter the speech, the safer I feel.", "textCn": "能缩短我的时间吗?演讲越短,我越有安全感。", "feedback": "怯场讨价还价,评委不满。", "next": "n5" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "评委 Professor Reed",
+      "line": "Then compose yourself. Seldom is a speaker judged by the first sentence alone, but first impressions still count.",
+      "lineCn": "那么镇定下来。演讲者很少仅凭第一句就被评判,但第一印象仍然重要。",
+      "grammar": [
+        { "name": "Seldom 句首倒装", "note": "Seldom 置句首,系动词 is 提前形成部分倒装,表示\"很少发生\"。" }
+      ],
+      "options": [
+        { "text": "Then I will open with a striking statistic. Only when the audience leans in will my story begin.", "textCn": "那我就以一个醒目的数据开场。只有当听众倾身时,我的故事才会开始。", "feedback": "开场设计巧妙,评委赞许。", "next": "n6" },
+        { "text": "I will open with a joke. Never has a joke failed to warm up a crowd.", "textCn": "我打算用笑话开场。笑话从未没能让观众热场。", "feedback": "幽默感良好,可以一试。", "next": "n6" },
+        { "text": "I will open with an apology for my poor English. So weak is my grammar that I fear ridicule.", "textCn": "我打算先为蹩脚的英语道歉。我的语法弱到担心被嘲笑。", "feedback": "自我贬低,评委纠正。", "next": "n5" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "评委 Professor Reed",
+      "line": "That question belongs in the Q&A session. Not until your speech ends can you take questions, so focus first.",
+      "lineCn": "那个问题属于问答环节。直到演讲结束你才能回答问题,所以先专注演讲。",
+      "grammar": [
+        { "name": "Not until 倒装", "note": "Not until 引导时间状语置于句首,主句部分倒装,can 提到主语 you 前。" }
+      ],
+      "options": [
+        { "text": "Understood. Not until my speech is over will I think about anything else.", "textCn": "明白了。直到演讲结束,我才会考虑其他任何事。", "feedback": "专注演讲,态度端正。", "next": "n6" },
+        { "text": "I cannot focus with so many eyes on me. So nervous am I that my hands are shaking.", "textCn": "这么多双眼睛看着我,我无法专注。我紧张到双手发抖。", "feedback": "紧张真实,评委鼓励。", "next": "n6" },
+        { "text": "Rules are rules, but never have I followed them blindly. I will answer questions anyway.", "textCn": "规矩是规矩,但我从不盲从。反正我要回答问题。", "feedback": "不守规矩,评委严肃警告。", "next": "fail1" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "评委 Professor Reed",
+      "line": "Very well. The stage is yours. Now comes the moment we have all been waiting for.",
+      "lineCn": "很好。舞台交给你。现在,我们等待已久的时刻到来了。",
+      "grammar": [
+        { "name": "完全倒装 Now comes", "note": "地点/时间副词 now 置于句首,谓语 comes 提到主语前,构成完全倒装,用于正式宣告。" }
+      ],
+      "options": [
+        { "text": "Thank you. Here begins my speech on the future of artificial intelligence.", "textCn": "谢谢。我的演讲《人工智能的未来》从这里开始。", "feedback": "开场干脆利落,观众鼓掌。", "next": "n7" },
+        { "text": "Thank you. Before I start, could you repeat the time limit once more?", "textCn": "谢谢。开始前,您能再重复一遍时限吗?", "feedback": "临场拖延,评委不满。", "next": "n5" },
+        { "text": "I am not ready. Only tomorrow would I feel prepared enough to speak.", "textCn": "我没准备好。只有明天我才会觉得自己足够有准备。", "feedback": "临阵退缩,演讲失败。", "next": "fail2" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "评委 Professor Reed",
+      "line": "(After your speech) Splendid delivery! The audience is now ready for questions. Only two questions remain on the list.",
+      "lineCn": "(演讲后)精彩的表达!观众现在准备提问了。名单上只剩下两个问题。",
+      "grammar": [
+        { "name": "Only+名词短语倒装", "note": "Only two questions 置于句首并非倒装,此处强调剩余数量,注意 Only 后接从句才倒装。" }
+      ],
+      "options": [
+        { "text": "I would be glad to answer any question. Nothing have I prepared more eagerly for than this session.", "textCn": "我很乐意回答任何问题。没有比这个环节我更热切准备的。", "feedback": "从容自信,观众好感。", "next": "n7b" },
+        { "text": "So relieved am I that the speech is over that I would rather skip the questions.", "textCn": "演讲结束我如释重负,真想跳过提问。", "feedback": "诚实但怯场,评委提醒。", "next": "n7b" },
+        { "text": "Questions make me uneasy. Never have I handled unexpected questions well.", "textCn": "提问让我不安。我从未妥善处理过突发提问。", "feedback": "坦诚弱点,进入问答。", "next": "n8" }
+      ]
+    },
+    "n7b": {
+      "id": "n7b",
+      "speaker": "评委 Professor Reed",
+      "line": "Then let the questions begin. Hardly has a speech been finished when the real test starts.",
+      "lineCn": "那么提问开始。演讲一结束,真正的考验就开始。",
+      "grammar": [
+        { "name": "Hardly...when 倒装", "note": "Hardly 置于句首,助动词 has 提前,与 when 连用,表示\"一……就……\"。" }
+      ],
+      "options": [
+        { "text": "I understand. Hardly had I finished speaking when my heart began racing.", "textCn": "我明白。我一讲完,心就开始怦怦跳。", "feedback": "坦诚可爱,继续问答。", "next": "n8" },
+        { "text": "Bring on the questions! Not until I answer the last one will I allow myself to relax.", "textCn": "放马过来!直到回答完最后一个问题,我才会让自己放松。", "feedback": "斗志昂扬,评委赞许。", "next": "n8" },
+        { "text": "I feel faint. Only if you promise gentle questions will I continue.", "textCn": "我头昏。只有您保证问题温和,我才继续。", "feedback": "过分怯懦,评委失望。", "next": "fail1" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "评委 Professor Reed",
+      "line": "Here is the first question: not only does your proposal promise efficiency, but it also threatens jobs. How do you respond?",
+      "lineCn": "这是第一个问题:你的方案不仅承诺效率,也威胁就业。你如何回应?",
+      "grammar": [
+        { "name": "Not only 倒装(提问)", "note": "not only 置于分句首,助动词 does 提前,构成部分倒装,提问更正式有力。" }
+      ],
+      "options": [
+        { "text": "Fair question. Not only does automation create new roles, but it also frees people for creative work.", "textCn": "问得好。自动化不仅创造新岗位,还把人们解放出来从事创造性工作。", "feedback": "回应专业有力,观众信服。", "next": "n9" },
+        { "text": "I have not considered that side of the issue, to be honest.", "textCn": "老实说,我没考虑过问题的这一面。", "feedback": "诚实但显不足,评委追问。", "next": "n9" },
+        { "text": "Job losses are not my concern. Only the technical side interests me.", "textCn": "失业不是我的事。只有技术层面让我感兴趣。", "feedback": "回避社会责任,印象大打折扣。", "next": "fail2" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "评委 Professor Reed",
+      "line": "A thoughtful answer. Here comes the final question, from the dean of our faculty.",
+      "lineCn": "深思熟虑的回答。最后一个问题来了,来自我们学院院长。",
+      "grammar": [
+        { "name": "完全倒装 Here comes", "note": "副词 here 置句首,动词 comes 完全倒装,正式场合宣告某人/事到来。" }
+      ],
+      "options": [
+        { "text": "I am listening. Never have I underestimated a question from the dean.", "textCn": "我在听。我从未低估过院长的提问。", "feedback": "态度恭敬,从容应对。", "next": "success" },
+        { "text": "Not again! Only if the question is easy will I attempt an answer.", "textCn": "又来!只有问题简单我才试着回答。", "feedback": "轻慢态度,院长再问一遍。", "next": "n8" },
+        { "text": "Whatever the question is, I am confident I can respond with grace.", "textCn": "无论什么问题,我都有信心优雅回应。", "feedback": "自信收尾,问答圆满。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "评委 Professor Reed",
+      "line": "A most impressive performance. Never have I seen a young speaker handle tough questions with such grace. Well done!",
+      "lineCn": "非常精彩的表演。我从未见过年轻演讲者如此优雅地应对刁钻问题。干得漂亮!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "评委 Professor Reed",
+      "line": "I am sorry to hear that. Only when you value your audience will your words truly matter.",
+      "lineCn": "听到这些我很遗憾。只有当你重视听众,你的话语才真正有分量。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "评委 Professor Reed",
+      "line": "Preparation is the mother of confidence. Never step onto a stage half-prepared again.",
+      "lineCn": "准备是自信之母。永远不要再半吊子地走上舞台。",
+      "end": true,
+      "success": false
+    }
+  }
+}

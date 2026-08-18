@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u5",
+  "stage": 4,
+  "unitId": "s4u5",
+  "scene": "翻译实践讨论",
+  "goal": "与同学敲定翻译分工方案",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "组员 Chen Yu",
+      "line": "We have a forty-page source text to translate within two weeks, so before we divide the work, I think we should first agree on the criteria for judging a qualified translation.",
+      "lineCn": "我们有两周时间翻译四十页的源文本,所以在分工之前,我想我们应该先就什么算合格译文的标准达成一致。",
+      "grammar": [
+        { "name": "so 结果状语从句 + 宾语从句", "note": "so 引出结果,before we divide the work 是时间状语从句,agree on the criteria for judging 中 judging 是动名词作介词宾语,句子层层嵌套。" }
+      ],
+      "options": [
+        { "text": "I agree completely. I suggest that we set three basic standards: accuracy against the original, naturalness in Chinese, and consistency of terminology across all sections.", "textCn": "我完全同意。我建议我们定三条基本标准:忠实原文、中文通顺、以及所有章节的术语统一。", "feedback": "提出具体、可操作的三条标准,为高效分工奠定了基础。", "next": "n2" },
+        { "text": "Let us just split the pages evenly and each of us can do whatever we want with our own part.", "textCn": "直接把页数平分就行,每个人自己那部分爱怎么翻怎么翻。", "feedback": "没有统一标准就分工,译文风格和术语必然混乱,返工成本极高。", "next": "n3" },
+        { "text": "It does not matter how we divide it, as long as I get the easiest part, because I am busy with job applications these days.", "textCn": "怎么分都行,只要把最简单的部分分给我就行,我最近忙着找工作。", "feedback": "只顾自己利益、挑肥拣瘦,会破坏团队信任。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "组员 Chen Yu",
+      "line": "Good, those standards sound reasonable. Now, since the text contains many specialized legal terms, who would be the most suitable person to handle chapters one and two, which are the most technical parts?",
+      "lineCn": "好,这些标准听起来合理。现在,由于文本含大量专业法律术语,谁最适合负责最难的技术性章节——第一章和第二章?",
+      "grammar": [
+        { "name": "since 原因从句 + 非限定性定语从句", "note": "since 引导原因状语从句,which are the most technical parts 是非限定性定语从句修饰 chapters,疑问句中嵌套多个从句。" }
+      ],
+      "options": [
+        { "text": "I took an elective course on legal translation last semester, so I can take chapters one and two, provided that I have one extra day, since legal terminology requires extra care.", "textCn": "上学期我选修过法律翻译课,所以我可以负责第一、二章,前提是多给我一天时间,因为法律术语需要格外仔细。", "feedback": "主动承担难点并给出合理的前提条件,展现团队担当。", "next": "n4" },
+        { "text": "I am willing to take them, but please do not expect me to do any proofreading later, because legal translation is exhausting.", "textCn": "我愿意负责它们,但别指望我之后还做校对,法律翻译太累了。", "feedback": "把翻译和校对割裂,质量环节无人负责,分工方案不完整。", "next": "n3" },
+        { "text": "I have no experience with legal translation, so it is better for everyone if you do it, Chen Yu, since your English is the best.", "textCn": "我没有法律翻译经验,所以最好陈宇你来,你英语最好。", "feedback": "把困难全推给别人,还顺手给别人戴高帽,协作意愿不足。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "组员 Chen Yu",
+      "line": "I have to remind everyone that the professor grades the project as a whole, not by individual sections, so if any part fails the standard, the whole team suffers the consequences.",
+      "lineCn": "我必须提醒大家,老师是按项目整体评分的,不是按个人部分,所以任何一部分不达标,全组都要承担后果。",
+      "grammar": [
+        { "name": "非谓语 not by 结构 + 条件状语从句", "note": "grades the project as a whole, not by individual sections 用 not by 构成对比,if any part fails 是条件状语从句,提醒语气正式有力。" }
+      ],
+      "options": [
+        { "text": "You are right, and I apologize for my attitude. Let me propose a fair scheme: we allocate sections by difficulty, pair each translator with a reviewer, and all share the glossary-building duty.", "textCn": "你说得对,我为刚才的态度道歉。我提议一个公平方案:按难度分配章节,每位译者配一位审校者,术语表由大家共同整理。", "feedback": "承认错误并提出完整方案,翻译、审校、术语三环紧扣,团队立刻回到正轨。", "next": "n4" },
+        { "text": "Well, if the team fails, that is not my problem, because I will have finished my own part on time.", "textCn": "如果团队失败,那不是我的问题,我自己的部分会按时完成。", "feedback": "把自己和团队割裂,这种心态下任何分工方案都难以执行。", "next": "fail1" },
+        { "text": "Then I suggest we ask the professor to grade us separately, so that my part is not affected by others.", "textCn": "那我建议让老师分开评分,这样我的部分不受别人影响。", "feedback": "试图改变评分规则而不是解决问题,根本不可行。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "组员 Chen Yu",
+      "line": "That sounds fair. Let me summarize the agreed plan: chapters one and two go to you with one extra day, the glossary is shared, and each section must pass cross-checking before we submit the final version together next Friday.",
+      "lineCn": "听起来公平。我来总结已敲定的方案:第一、二章由你负责并多给一天,术语表共同维护,每个部分必须先通过互查,下周五一起提交最终版。",
+      "grammar": [
+        { "name": "祈使句 let + 多分句并列", "note": "Let me summarize 是祈使句,冒号后三个分句并列,含 before 时间状语从句,用于高效确认共识。" }
+      ],
+      "options": [
+        { "text": "Agreed. I will start the glossary today and post it to our shared folder, so that everyone can contribute terms as they translate. The division of labor is now settled.", "textCn": "同意。我今天就建立术语表并发到共享文件夹,这样大家翻译时可以随时补充术语。分工方案就此敲定。", "feedback": "立即落实细节并确认方案成立,分工与标准全部到位,完美收尾。", "next": "success" },
+        { "text": "Wait, I still think I deserve fewer pages, because translation takes me longer than everyone else, and I want that in writing first.", "textCn": "等等,我还是觉得自己该少分些页数,因为我翻译比别人慢,而且这个要先白纸黑字写下来。", "feedback": "在方案敲定后重新翻案,再次陷入无谓的讨价还价。", "next": "fail1" },
+        { "text": "Fine, but I will only start after I see everyone else's first draft, so that I can match their style.", "textCn": "行,但我等看到别人的初稿才开始,这样好模仿他们的风格。", "feedback": "拖延开工,把风格统一的责任推给他人,时间表形同虚设。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "组员 Chen Yu",
+      "line": "Excellent, the plan is finalized. Let us all contribute our best work, and I will remind everyone of the deadline at our next group meeting.",
+      "lineCn": "很好,方案定了。大家都拿出最好的成果,我会在下次组会上提醒大家截止日期。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "组员 Chen Yu",
+      "line": "If we keep renegotiating, we will never finish. I suggest we take this to the professor to decide the division, since we clearly cannot agree among ourselves.",
+      "lineCn": "如果我们继续讨价还价,就永远完不成。既然我们内部无法达成一致,我建议把分工问题交给老师定夺。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "组员 Chen Yu",
+      "line": "Then the rest of us will proceed with the plan as agreed, and we will cover your part if you fail to deliver on time, which I hope will not happen.",
+      "lineCn": "那我们其他人按已定方案推进,如果你不能按时交付,我们会替你收尾,希望不会发生这种情况。",
+      "end": true,
+      "success": false
+    }
+  }
+}

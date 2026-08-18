@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u5",
+  "stage": 2,
+  "unitId": "s2u5",
+  "title": "真题演练 · 动名词 doing",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 动名词 doing。",
+  "questions": [
+    {
+      "q": "I like ___ football very much.",
+      "options": [
+        "play",
+        "to playing",
+        "playing",
+        "played"
+      ],
+      "answer": 2,
+      "analysis": "此处选动名词 playing,作 like 的宾语。",
+      "point": "g-s2u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She is interested in ___.",
+      "options": [
+        "dance",
+        "dancing",
+        "danced",
+        "to dance"
+      ],
+      "answer": 1,
+      "analysis": "介词 in 后接动名词 dancing。",
+      "point": "g-s2u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Let's stop ___ and take a rest.",
+      "options": [
+        "work",
+        "working",
+        "to work",
+        "worked"
+      ],
+      "answer": 1,
+      "analysis": "stop doing 表示停止正在做的事。",
+      "point": "g-s2u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ English every day is a good habit.",
+      "options": [
+        "Read",
+        "Reading",
+        "To reading",
+        "Reads"
+      ],
+      "answer": 1,
+      "analysis": "动名词 Reading 作主语。",
+      "point": "g-s2u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "My father finished ___ the car at noon.",
+      "options": [
+        "wash",
+        "washing",
+        "to wash",
+        "washed"
+      ],
+      "answer": 1,
+      "analysis": "finish 后接动名词 washing。",
+      "point": "g-s2u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I enjoy to read novels.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I enjoy reading novels.。enjoy 后接动名词,不接不定式。",
+      "point": "g-s2u5",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

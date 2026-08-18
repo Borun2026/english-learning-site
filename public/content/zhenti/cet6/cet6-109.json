@@ -1,0 +1,68 @@
+{
+ "id": "cet6-109",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第1套) Passage 1",
+ "title": "Nationally, one in six children miss 15 or more days of school in a year",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 455,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Nationally, one in six children miss 15 or more days of school in a year. Education officials have deplored all this missed instruction.",
+  "These chronically absent students suffer academically because of all the classroom instruction they miss out on. In 2015, the US secretary of education responded to this crisis, urging communities to support every student to attend every day and be successful in school. His open letter stated that missing 10% of school days in a year for any reason -- excused or unexcused -- is a primary cause of low academic achievement.",
+  "Worrying about whether children attend school makes sense. After all, if students don't show up, teachers can't teach them.",
+  "But what if America's attendance crisis is about much more than students missing class? What if, instead, it is a reflection of family and community crises these students face -- such as being ejected from the family apartment, fearing for their safety in their neighborhood or suffering an illness?",
+  "As social scientists we investigated how excused and unexcused absences relate to children's academic achievement.",
+  "We find that absences excused by a parent do little to harm children's learning. In fact, children with no unexcused absences -- but 15 to 18 excused absences -- have test scores equal to their peers who have no absences.",
+  "Meanwhile, the average child with even just one unexcused absence does much worse academically than peers with none.",
+  "We believe unexcused absence is a strong signal of the many challenges children and families face, including economic and medical hardships. Unexcused absences can be a powerful signal of how those out-of-school challenges affect children's academic progress.",
+  "Our evidence suggests unexcused absences are problematic, but for a different reason than people often think. Absence from school, and especially unexcused absence, matters mainly as a signal of many crises children and their families may be facing. It matters less as a cause of lower student achievement due to missed instruction.",
+  "How we choose to think of school absences matters for educational policy. School attendance policies typically hold schools and families accountable for the days children miss, regardless of whether they were excused or unexcused absences.",
+  "These policies assume that missing school for any reason harms children academically because they are missing classroom instruction. They also assume that schools will be able to effectively intervene by reducing student absences. We find neither to be the case.",
+  "As a result, these attendance policies end up disproportionately punishing families dealing with out-of-school crises in their lives and pressuring schools who serve them to get students to school more often.",
+  "We instead suggest using unexcused absence from school as a signal to channel resources to the children and",
+  "families who need them most."
+ ],
+ "questions": [
+  {
+   "q": "文中 “especially” 最接近的意思是?",
+   "options": [
+    "结果,成绩",
+    "影响",
+    "与此同时",
+    "特别，尤其，格外"
+   ],
+   "answer": 3,
+   "analysis": "“especially” 意为「特别，尤其，格外」。原文语境:Absence from school, and especially unexcused absence, matters mainly as a signal of many crises children and their families may be facing.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Unexcused absences can be a ___ signal of how those out-of-school challenges affect children's academic progress.",
+   "options": [
+    "powerful",
+    "especially",
+    "strong",
+    "accountable"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Unexcused absences can be a powerful signal of how those out-of-school challenges affect children's academic progress.”。空格处应填入 “powerful”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The other day I had to log into a service I hadn't used before",
+    "For years, the U",
+    "Nationally, one in six children miss 15 or more days of school in a year",
+    "Simulators are most often utilized within industries such as nuclear power, a"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Nationally, one in six children miss 15 or more days of school in a year.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

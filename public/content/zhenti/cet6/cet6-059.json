@@ -1,0 +1,60 @@
+{
+ "id": "cet6-059",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第1套) Passage 1",
+ "title": "Social media is absolutely everywhere",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Social media is absolutely everywhere. Billions of people use social media on a daily basis to create, share, and exchange ideas, messages, and information. Both individuals and businesses post regularly to engage and interact with people from around the world. It is a powerful communication medium that simultaneously provides immediate, frequent, permanent, and wide-reaching information across the globe.",
+  "People post their lives on social media for the world to see. Facebook, Twitter, Linkedln, and countless other social channels provide a quick and simple way to glimpse into a job candidate's personal life-both the positive and negative sides of it. Social media screening is tempting to use as part of the hiring process, but should employers make use of it when researching a potential candidate's background?",
+  "Incorporating the use of social media to screen job candidates is not an uncommon practice. A 2018 survey found that almost 70% of employers use social media to screen candidates before hiring them. But there are consequences and potential legal risks involved too. When done inappropriately, social media screening can be considered Unethical or even illegal.",
+  "Social media screening is essentially scrutinising a job candidate's private life. It can reveal information about protected characteristics like age, race, nationality, disability, gender, religion, etc., and that could bias a hiring decision. Pictures or comments on a private page that are taken out of context could ruin a perfectly good candidate's chances of getting hired. This process could potentially give an unfair advantage to one candidate over another. It creates an unequal playing field and potentially provides hiring managers with information that can impact their hiring decision in a negative way.",
+  "It's hard to ignore social media as a screening tool. While there are things that you shouldn 't see, there are some things that can be lawfully considered- making it a valuable source of relevant information too. Using social media screening appropriately can help ensure that you don't hire a toxic employee who will cost you money or stain your company 's reputation. Consider the lawful side of this process and you may be able to hire the best employee ever. There is a delicate balance.",
+  "Screening job candidates on social media must be done professionally and responsibly. Companies should stipulate that they will never ask for passwords, be consistent, document decisions, consider the source used and be aware that other laws may apply. In light of this it is probably best to look later in the process and ask human resources for help in navigating it. Social media is here to stay. But before using social media to screen job candidates, consulting with management and legal teams beforehand is essential in order to comply with all laws."
+ ],
+ "questions": [
+  {
+   "q": "文中 “private” 最接近的意思是?",
+   "options": [
+    "后来",
+    "定期地，有规律地",
+    "私人的",
+    "一致的， 协调的"
+   ],
+   "answer": 2,
+   "analysis": "“private” 意为「私人的」。原文语境:Social media screening is essentially scrutinising a job candidate's private life.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Pictures or comments on a private page that are taken out of ___ could ruin a perfectly good candidate's chances of getting hired.",
+   "options": [
+    "balance",
+    "quick",
+    "context",
+    "screen"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Pictures or comments on a private page that are taken out of context could ruin a perfectly good candidate's chances of getting hired.”。空格处应填入 “context”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Social media is absolutely everywhere",
+    "If there's one rule that most parents cling to in the confusing, fast-changin",
+    "Here's how the Pacific Northwest is preparing for \" The Big One\"",
+    "Vegetarians would prefer not to be compelled to eat meat"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Social media is absolutely everywhere.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,25 @@
+{
+ "id": "wr-002",
+ "type": "magazine",
+ "journal": "Wired",
+ "journalEn": "Wired",
+ "title": "Your Phone Is Listening. Should You Care?",
+ "date": "2026-02-18",
+ "difficulty": "beginner",
+ "difficultyLabel": "初级 A2-B1",
+ "wordCount": 380,
+ "tags": [
+  "privacy",
+  "technology",
+  "smartphones"
+ ],
+ "paragraphs": [
+  "You are chatting with a friend about a product, and later that day, you see an ad for it on your phone. It happens so often that many people believe their phones are secretly listening to their conversations. The reality is both less dramatic and more complex.",
+  "Your phone is probably not secretly recording your conversations. Independent security researchers have tested this thoroughly. They monitored the data that phones send to servers and found no evidence of continuous audio recording being transmitted to companies like Google or Facebook.",
+  "So why do those ads appear? The answer lies in the vast amount of other data your phone does collect. Every app you open, every website you visit, and every location you go to creates a digital trail. Companies use this information to build detailed profiles of your interests and habits.",
+  "If you searched for a product online, the advertising system knows you are interested. If you were near a store that sells that product, the location data connects you to it. If your friend, who was with you, later searches for the product on their device, the advertising system can make the connection.",
+  "The result is that the ads feel like mind-reading, but they are actually the result of massive data collection and sophisticated machine learning algorithms. The system knows so much about you that it can predict what you might want to buy with remarkable accuracy.",
+  "This does not mean you should not be concerned. Even if your phone is not secretly recording your conversations, the amount of data it collects is still enormous. And much of this data collection happens without meaningful consent. The long terms-of-service agreements that everyone clicks \"Accept\" on without reading give companies broad rights to collect and use personal data.",
+  "New privacy laws like Europe's GDPR and California's CCPA are giving consumers more rights over their data. But true digital privacy remains elusive. The trade-off between convenience and privacy is one that each person must navigate for themselves."
+ ]
+}

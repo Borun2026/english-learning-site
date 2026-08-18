@@ -1,0 +1,58 @@
+{
+ "id": "cet6-074",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第2套) Passage 2",
+ "title": "If there's one rule that most parents cling to in the confusing, fast-changin...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 455,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\"",
+  "As of today, that rule has been thrown out the window. The American Academy of Pediatrics (AAP), which first issued that recommendation back in 1999, has extensively updated and revised its guidelines for children and adolescents to reflect new research and new habits. The new guidelines, especially for very young children, shift the focus from WHAT is on the screen to WHO else is in the room. And in doing so, they raise some intriguing points about the future of learning from media. For babies younger than 18 months, AAP still says no screens at all are the best idea -- with one notable exception: Live video chat. Surveys indicate that families already popularly believe that \"Face time doesn't count\", or at least that the benefit of virtual visits with grandparents or other relatives outweighs the potential cost of exposing babies to the laptop or smartphone. The AAP doesn't cite positive evidence that infants actually get something out of this kind of \"conversation\", the way that they clearly do from live social interaction. But there's some observational research that infants as young as six months old are emotionally engaged by playing live peekaboo with Grandma online. For infants and toddlers , ages 15 months to 2 years old, there's limited evidence from a couple of very small studies that they can learn new words from educational media, if and only if parents are watching alongside them, repeating what the video says and/or drawing attention to what is on the screen. In other words, treating a video or an app like a picture book is the best bet.",
+  "The flip side of this is that many studies have actually shown poorer language skills correlated with earlier solo viewing of \"educational\" videos. There's also research that shows language delays in children who watch more TV and start watching earlier. In both cases, the problem seems to be media replacing interaction with people. For this reason, the new AAP guideline has changed from \"avoid all screens under age 2\" to \"avoid solo media use in this age group.\"",
+  "For preschoolers ages 2 to 5, there's more evidence that they have the ability to transfer knowledge from screens to the real world, including early literacy and math. For this age group, AAP recommends no more than an hour a day of screen use. And, just as with younger children, they want care-givers to take part in screen time: \"Co-view with your children, help children understand what they are seeing, and help them apply what they learn to the world around them.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “problem” 最接近的意思是?",
+   "options": [
+    "有趣的",
+    "要求，申请",
+    "问题",
+    "教育的， 教育性的"
+   ],
+   "answer": 2,
+   "analysis": "“problem” 意为「问题」。原文语境:In both cases, the problem seems to be media replacing interaction with people.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:There's also research that shows language delays in children who watch more TV and ___ watching earlier.",
+   "options": [
+    "count",
+    "benefit",
+    "start",
+    "avoid"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“There's also research that shows language delays in children who watch more TV and start watching earlier.”。空格处应填入 “start”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "If there's one rule that most parents cling to in the confusing, fast-changin",
+    "Teenagers at risk of depression, anxiety and suicide often wear their trouble",
+    "An awakening has been taking place in the physical world against the beauty m",
+    "People often discuss the dangers of too much stress, but lately a very differ"
+   ],
+   "answer": 0,
+   "analysis": "本文以“If there's one rule that most parents cling to in the confusing, fast-changing world of kids and media, it's \"No screens before age 2.\"”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

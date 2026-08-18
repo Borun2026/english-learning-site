@@ -1,0 +1,54 @@
+{
+ "id": "nce2-lesson-64",
+ "book": "nce2",
+ "title": "Lesson 64",
+ "mainKnowledge": [],
+ "sections": [
+  {
+   "heading": "虚拟语气(第三类条件句)",
+   "content": [
+    "虚拟语气所表述的不是一个事实,而是一种假设或愿望,常伴有if引导的非真实条件句",
+    "虚拟语气的形式:",
+    "|        |      从句(if引导)      |      主句       |",
+    "| :----: | :--------------------: | :-------------: |",
+    "| 现在时 |       did / were       |    would do     |",
+    "| 过去时 |        had done        | would have done |",
+    "| 将来时 | were to do / should do |    would do     |"
+   ]
+  },
+  {
+   "heading": "由suggest,insist等组成的宾语从句-虚拟语气",
+   "content": [
+    "在suggest,insist,demand,request,recommend等后面所接的that宾语从句中,谓语动词用should + 动词原形,而should常常可以省略,这是一种虚拟语气的结构",
+    "suggest后面也可以接动名词形式",
+    "```",
+    "He suggested that we (should) call on the headmaster.   他建议我们应该访问校长",
+    "He suggested meeting the headmaster.   他建议看望校长",
+    "```"
+   ]
+  },
+  {
+   "heading": "draw与介词组成的动词短语",
+   "content": [
+    "draw up   停住,草拟,制定",
+    "draw off  撤退,离开",
+    "draw in   吸入,使...进入",
+    "draw back   撤回,后缩"
+   ]
+  },
+  {
+   "heading": "短语结构",
+   "content": [
+    "be full of fear    充满了恐惧",
+    "without fear or favour  公平公正",
+    "put forward   提出"
+   ]
+  }
+ ],
+ "notes": [
+  "- 虚拟语气",
+  "- 由suggest,insist等组成的宾语从句-虚拟语气",
+  "- draw与介词组成的动词短语"
+ ],
+ "raw": "# Lesson 64\n\n- 虚拟语气\n- 由suggest,insist等组成的宾语从句-虚拟语气\n- draw与介词组成的动词短语\n\n##### 虚拟语气(第三类条件句)\n\n虚拟语气所表述的不是一个事实,而是一种假设或愿望,常伴有if引导的非真实条件句\n\n虚拟语气的形式:\n\n|        |      从句(if引导)      |      主句       |\n| :----: | :--------------------: | :-------------: |\n| 现在时 |       did / were       |    would do     |\n| 过去时 |        had done        | would have done |\n| 将来时 | were to do / should do |    would do     |\n\n##### 由suggest,insist等组成的宾语从句-虚拟语气\n\n在suggest,insist,demand,request,recommend等后面所接的that宾语从句中,谓语动词用should + 动词原形,而should常常可以省略,这是一种虚拟语气的结构\n\nsuggest后面也可以接动名词形式\n\n```\nHe suggested that we (should) call on the headmaster.   他建议我们应该访问校长\nHe suggested meeting the headmaster.   他建议看望校长\n```\n\n##### draw与介词组成的动词短语\n\ndraw up   停住,草拟,制定\n\ndraw off  撤退,离开\n\ndraw in   吸入,使...进入\n\ndraw back   撤回,后缩\n\n##### 短语结构\n\nbe full of fear    充满了恐惧\n\nwithout fear or favour  公平公正\n\nput forward   提出\n\n\n"
+}

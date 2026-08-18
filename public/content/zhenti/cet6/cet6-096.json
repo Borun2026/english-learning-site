@@ -1,0 +1,64 @@
+{
+ "id": "cet6-096",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第3套) Passage 2",
+ "title": "One hundred thirty-five students, four teachers, one giant classroom: This is...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 454,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "One hundred thirty-five students, four teachers, one giant classroom: This is what 9th grade looks like at Westwood High School, in Mesa, Arizona's largest school system. There, an innovative teaching model has taken hold, and is spreading to other schools in the district and beyond.",
+  "Five years ago, faced with high teacher turnover and declining student enrollment, Westwood's leaders decided to try something different. Working with professors at Arizona State University's teachers college, they piloted a classroom model known as team teaching, which allows teachers to dissolve the walls that separate their classes across physical or grade divides.",
+  "The teachers share large groups of students -- sometimes 100 or more -- and rotate between group instruction, one-on-one interventions, small study groups, or whatever the teachers as a team agree is a priority that day. What looks at times like chaos is in fact a carefully orchestrated plan: Each morning, the Westwood teams meet to hammer out a personalized program for every student the team will focus on that day.",
+  "By giving teachers more opportunity to collaborate, Mesa's administrators hoped to fill staffing gaps and boost teacher morale and retention. Initial research suggests the gamble could pay off.",
+  "\"Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see what's happening,\" said Andi Fourlis, superintendent of Mesa Public Schools. \"Our profession is so slow to advance because we are working in isolation.\"",
+  "Of course, overhauling teaching approaches can't fix all the frustrations teachers have, such as low pay, but",
+  "early results from Mesa show team teaching may be helping to reverse low morale. In a survey of hundreds of the district's teachers, researchers found those who worked on teams reported greater job satisfaction, more frequent collaborations with colleagues, and more positive interactions with students.",
+  "Another benefit of teams, teachers say, is that they can help each other improve their instruction. During one planning session, English teacher Jeff Hall shared a performance appraisal with a science teacher: Her recent lecture on something she called \"the central dogma of biology\" had bewildered him and their other teammates.",
+  "\"If the science is too confusing for me, can you imagine the frustration you feel as kids?\" Hall said. But the science teacher, he said, wouldn't have known about the confusion on her own.",
+  "The model is not for everyone. Some teachers approached about volunteering for a team have said they prefer to work alone. Team teaching can also be a scheduling nightmare, especially at schools like Westwood where only some staff work in teams. There are also thorny questions like how to evaluate four teachers on the performance of 135 students. But for the time being, it seems to be working."
+ ],
+ "questions": [
+  {
+   "q": "文中 “satisfaction” 最接近的意思是?",
+   "options": [
+    "机会",
+    "旋转，轮流",
+    "大的",
+    "满足,满意"
+   ],
+   "answer": 3,
+   "analysis": "“satisfaction” 意为「满足,满意」。原文语境:In a survey of hundreds of the district's teachers, researchers found those who worked on teams reported greater job satisfaction, more frequent collaborations with colleagues, and",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\"Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see what's happening,\" said Andi Fourlis, superintendent of Mesa ___ Schools.",
+   "options": [
+    "thorny",
+    "Initial",
+    "Public",
+    "large"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“\"Teachers are doing fantastic things, but it's very rare a teacher walks into another room to see what's happening,\" said Andi Fourlis, superintendent of Mesa Public Schools.”。空格处应填入 “Public”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "A few weeks ago, a well-meaning professor tried to explain the physiological",
+    "Many oppose workplace surveillance, because of the inherent dehumanizing effe",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is",
+    "It is irrefutable that employees know the difference between right and wrong"
+   ],
+   "answer": 2,
+   "analysis": "本文以“One hundred thirty-five students, four teachers, one giant classroom: This is what 9th grade looks like at Westwood High School, in Mesa, Arizona's largest scho”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

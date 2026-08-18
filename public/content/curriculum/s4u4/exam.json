@@ -1,0 +1,87 @@
+{
+ "id": "e-s4u4",
+ "stage": 4,
+ "unitId": "s4u4",
+ "title": "真题演练 · 省略与指代",
+ "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 省略与指代。",
+ "questions": [
+  {
+   "q": "(完形填空,见原文空位)",
+   "options": [
+    "genre",
+    "criterion",
+    "circumstances",
+    "functions"
+   ],
+   "answer": 3,
+   "analysis": "本句句意为“而且适当的脑力锻炼可以显著地提高我们的基本认知_____。”根据上下文语意可知,\n通过脑力锻炼,提高老年人的记忆力,由此可知,脑力锻炼能够提高认知的功能,选项D符合句意,为正确答\n案。选项ABC均不符合上下文语意。genre多指的是文学或艺术作品的题材或类型,如果和cognitive搭配,\n则意义不通。作者在后面开始讨论thinking即思考在大脑中的地位,所以这里指的是大脑基本的认知功能,而\n不是认知标准或认知环境,可排除选项BC。",
+   "point": "zhenti:z2014-cloze-0:q8",
+   "source": "2014 考研英语一真题"
+  },
+  {
+   "q": "The author’s attitude towards what Brendon Lynch said in his blog is one of_______. Text 3 Up until a few decades ago, our visions of the future were largely—though by no means uniformly—glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all. Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu to climate change. You might even be tempted to assume that humanity has little future to look forward to. But such gloominess is misplaced. The fossil record shows that many species have endured for millions of years—so why shouldn’t we? Take a broader look at our species’ place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years. Look up Homo sapiens in the “Red List” of threatened species of the international Union for the Concentration of Nature (IUCN), and you will read: “Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.” So what does our deep future hold? A growing number of researchers and organizations are now thinking seriously about that question. For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence. Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future. The potential evolution of today’s technology, and its social consequences, is dazzlingly complicated, and it’s perhaps best left to science-fiction writers and futurologists to explore the many possibilities we can envisage. That’s one reason why we have launched Arc, a new publication dedicated to the near future. But take a longer view and there is a surprising amount that we can say with considerable assurance. As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves. This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad. To be sure, the future is not all rosy. But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+   "options": [
+    "appreciation",
+    "understanding",
+    "indulgence",
+    "skepticism"
+   ],
+   "answer": 3,
+   "analysis": "根据题干,可以定位到文章最后一段倒数第二句,BrendonLynch,Microsoft'schiefprivacyofficer,blogged:\n“webelieveconsumersshouldhavemorecontrol.”这句话的意思是BrendonLynch在博客中评论道:“我们认为消\n费者应该有更大的自主权(或掌控权)”。而对于此题,解题关键在于紧跟的最后一句“Coulditbereallythat\nsimple?”,这是个反问句,从中我们可以明显看出作者所持有的怀疑态度,故D选项正确。\n三、长难句解析",
+   "point": "zhenti:z2013-reading-2:q5",
+   "source": "2013 考研英语一真题"
+  },
+  {
+   "q": "The flowers in the garden are prettier than ___ in the park.",
+   "options": [
+    "that",
+    "those",
+    "it",
+    "this"
+   ],
+   "answer": 1,
+   "analysis": "those 替代可数复数 flowers。",
+   "point": "g-s4u4",
+   "source": "本单元语法课练习"
+  },
+  {
+   "q": "When ___ young, he lived in the countryside.",
+   "options": [
+    "was",
+    "is",
+    "being",
+    "was he"
+   ],
+   "answer": 2,
+   "analysis": "省略 when he was,补全时用 being 或直接省略。",
+   "point": "g-s4u4",
+   "source": "本单元语法课练习"
+  },
+  {
+   "q": "Do you think it will rain? I ___ not.",
+   "options": [
+    "hope",
+    "think",
+    "want",
+    "wish"
+   ],
+   "answer": 0,
+   "analysis": "I hope not 是固定省略表达。",
+   "point": "g-s4u4",
+   "source": "本单元语法课练习"
+  },
+  {
+   "q": "He works harder than any other student ___ in his class.",
+   "options": [
+    "does",
+    "do",
+    "is",
+    "are"
+   ],
+   "answer": 0,
+   "analysis": "does 替代 works hard。",
+   "point": "g-s4u4",
+   "source": "本单元语法课练习"
+  }
+ ]
+}

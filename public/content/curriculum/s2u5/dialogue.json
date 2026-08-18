@@ -1,0 +1,49 @@
+{
+  "id": "d-s2u5",
+  "stage": 2,
+  "unitId": "s2u5",
+  "scene": "谈论爱好",
+  "goal": "找到共同爱好并约好一起做",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "同学 Lily", "line": "Hi! The weekend is coming. What do you enjoy doing in your free time?", "lineCn": "嗨!周末要来了。你空闲时间喜欢做什么?", "grammar": [ { "name": "enjoy + doing", "note": "enjoy 后接动名词 doing,表示\"喜欢做某事\"。" } ],
+      "options": [
+        { "text": "I enjoy reading comics and playing badminton in the park.", "textCn": "我喜欢看漫画,还有在公园打羽毛球。", "feedback": "用 enjoy + doing 说出两个爱好,信息具体。", "next": "n2" },
+        { "text": "Nothing.", "textCn": "没什么。", "feedback": "回答太简单,话题无法展开。", "next": "n3" },
+        { "text": "I am a student.", "textCn": "我是学生。", "feedback": "答非所问,问的是爱好不是身份。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "同学 Lily", "line": "Really? I love playing badminton too! I am not very good at it, but I really enjoy playing after school.",
+      "lineCn": "真的吗?我也爱打羽毛球!我打得不算好,但我很喜欢放学后去打。", "grammar": [ { "name": "be good at + doing", "note": "be good at 后接动名词,表示\"擅长做某事\",not very good at 表示不太擅长。" } ],
+      "options": [
+        { "text": "What a coincidence! I have been thinking of finding a partner to practice with.", "textCn": "太巧了!我一直在想找个球伴一起练习。", "feedback": "主动回应共同爱好,还提出练习需求。", "next": "n4" },
+        { "text": "Oh. Good for you.", "textCn": "哦,那挺好。", "feedback": "反应冷淡,明明有共同爱好却不懂得接话。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "同学 Lily", "line": "Come on, everyone likes something! What about reading, drawing, or playing sports? Which one do you like doing most?",
+      "lineCn": "别这样,每个人都有喜欢的东西!读书、画画或者运动呢?你最喜欢哪个?", "grammar": [ { "name": "like doing most", "note": "like + doing 表习惯性爱好,most 表示\"最喜欢\"。" } ],
+      "options": [
+        { "text": "I like drawing most! I often draw cartoons in my notebook after class.", "textCn": "我最喜欢画画!我经常在课后在笔记本上画卡通。", "feedback": "说出了具体爱好,还补充了细节。", "next": "n2" },
+        { "text": "I hate everything.", "textCn": "我讨厌一切。", "feedback": "对一切都说讨厌,同学也无话可说。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "同学 Lily", "line": "Me too! Playing badminton with someone is much more fun than practicing alone. Have you joined any club?",
+      "lineCn": "我也是!有人一起打羽毛球比一个人练有意思多了。你加入了什么社团吗?", "grammar": [ { "name": "动名词作主语", "note": "Playing badminton with someone 是动名词短语作主语,谓语用单数。" } ],
+      "options": [
+        { "text": "Not yet. But I am thinking of joining the school badminton club. Do you want to join it together?", "textCn": "还没有。不过我在考虑加入学校羽毛球社。你想一起加入吗?", "feedback": "主动提出一起加入社团,抓住了共同爱好的机会。", "next": "n6" },
+        { "text": "No, I prefer playing alone.", "textCn": "不,我更喜欢一个人打。", "feedback": "当面拒绝刚找到的共同爱好,错失良机。", "next": "fail2" }
+      ] },
+    "n5": { "id": "n5", "speaker": "同学 Lily", "line": "I thought we could be partners since we both like badminton. Are you interested in playing together this weekend?",
+      "lineCn": "既然我们都喜欢羽毛球,我还以为我们可以当搭档呢。这个周末你感兴趣一起打球吗?", "grammar": [ { "name": "be interested in + doing", "note": "be interested in 后接动名词,表示\"对做某事感兴趣\"。" } ],
+      "options": [
+        { "text": "Yes, I am really interested in playing with you! How about Saturday afternoon?", "textCn": "当然,我很想和你一起打!周六下午怎么样?", "feedback": "抓住机会挽回,还主动约了具体时间。", "next": "n6" },
+        { "text": "Maybe. I will see.", "textCn": "也许吧,到时候再说。", "feedback": "不置可否,对方不好安排。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "同学 Lily", "line": "Saturday afternoon works for me! I cannot wait to start playing with you. Is there anything you enjoy doing after the game?",
+      "lineCn": "周六下午没问题!我都等不及要和你打球了。打完球之后你还喜欢做点什么?", "grammar": [ { "name": "enjoy doing 的用法", "note": "enjoy 必须接动名词,不可接 to do,是固定搭配。" } ],
+      "options": [
+        { "text": "I enjoy drinking bubble tea and chatting after the game. My treat!", "textCn": "打完球我喜欢喝奶茶聊聊天。我请客!", "feedback": "共同爱好已找到,还延伸出第二个共同点,约定圆满。", "next": "success" },
+        { "text": "I enjoy leaving immediately after the game.", "textCn": "打完球我喜欢马上走人。", "feedback": "刚约好一起玩就说要立刻走,氛围尴尬。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "同学 Lily", "line": "Ha, you are so fun! Then it is a date: Saturday afternoon, badminton and bubble tea!", "lineCn": "哈,你真有趣!那就约定了:周六下午,羽毛球加奶茶!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "同学 Lily", "line": "Oh... okay then. If you ever find a hobby, let me know. See you!", "lineCn": "哦……好吧。如果你哪天找到爱好,告诉我一声。再见!", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "同学 Lily", "line": "Alright, maybe another time. Enjoy your weekend!", "lineCn": "好吧,也许下次吧。周末愉快!", "end": true, "success": false }
+  }
+}

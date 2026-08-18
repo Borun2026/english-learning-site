@@ -1,0 +1,63 @@
+{
+ "id": "cet6-035",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第3套) Passage 1",
+ "title": "Economically speaking are we better off than we were ten years ago Twenty yea...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 471,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Economically speaking are we better off than we were ten years ago Twenty years ago",
+  "In their thirst for evidence on this issue commentators seized on the recent report by the Census Bureau which found that average household income rose by 5.2% in 2015. Unfortunately that conclusion puts too much weight on a useful but flawed and incomplete statistic. Among the more significant problems with the Census's measure are that 1 it excludes taxes transfers and compensation like employer-provided health insurance and 2 it is based on surveys rather than data. Even if precisely measured income data exclude important determinants of economic well-being such as the hours of work needed to earn that income.",
+  "While thinking about the question we came across a recently published article by Charles Jones and Peter Klenow which proposes an interesting new measure of economic welfare. While by no means perfect it is considerably more comprehensive than average income taking into account not only growth in consumption per person but also changes in working time life expectancy and inequality. Moreover it can be used to assess economic performance both across countries and over time.",
+  "The Jones-Klenow method can be illustrated by a cross-country example. Suppose we want to compare the economic welfare of citizens of the U.S. and France in 2005.",
+  "In 2005 as the authors observe real consumption per person in France was only 60% as high as the U.S. makiIn 2005 as the authors observe real consumption per person in France was only 60% as high as the U.S. making it appear that Americans were economically much better off than the French on average. However that comparison omits other relevant factors leisure time life expectancy and economic inequality. The French take longer vacations and retire earlier so typically work fewer hours they enjoy a higher life",
+  "4 expectancy presumably reflecting advantages with respect to health care diet lifestyle and the like and income and consumption are somewhat more equally distributed there than in the U.S. Because of these differences comparing France's consumption with the U.S.'s overstates the gap in economic welfare.",
+  "Similar calculations can be used to compare the U.S. and other countries. For example this calculation puts economic welfare in the United Kingdom at 97% of U.S. levels but estimates Mexican well-being at 22%.",
+  "The Jones-Klenow measure can also assess an economy's performance over time. According to this measure as of the early-to-mid-2000s the U.S. had the highest economic welfare of any large country. Since 2007 economic welfare in the U.S. has continued to improve. However the pace of improvement has slowed markedly.",
+  "Methodologically the lesson from the Jones-Klenow research is that economic welfare is multi-dimensional. Their approach is flexible enough that in principle other important quality-oflife changes could be incorporated--for example decreases in total emissions of pollutants and declines in crime rates."
+ ],
+ "questions": [
+  {
+   "q": "文中 “means” 最接近的意思是?",
+   "options": [
+    "幸福，福利",
+    "享受",
+    "方法，手段，金钱，财富",
+    "法国，法兰西"
+   ],
+   "answer": 2,
+   "analysis": "“means” 意为「方法，手段，金钱，财富」。原文语境:While by no means perfect it is considerably more comprehensive than average income taking into account not only growth in consumption per person but also changes in working time l",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Economically speaking are we better off than we were ten years ago Twenty years ago In their thirst for evidence on this issue commentators seized on the ___ report by the Census Bureau which found that average household income rose by 5.2% in 2015.",
+   "options": [
+    "incomplete",
+    "significant",
+    "perfect",
+    "recent"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Economically speaking are we better off than we were ten years ago Twenty years ago In their thirst for evidence on this issue commentators seized on the recent report by the Census Bureau which found that average household income rose by 5.2% in 2015.”。空格处应填入 “recent”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Economically speaking are we better off than we were ten years ago Twenty yea",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "Psychologists have long been in disagreement as to whether competition is a l",
+    "Look at the people around you"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Economically speaking are we better off than we were ten years ago Twenty years ago”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

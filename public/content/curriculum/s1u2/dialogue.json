@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u2",
+  "stage": 1,
+  "unitId": "s1u2",
+  "scene": "谈论日常生活",
+  "goal": "和室友聊出彼此每天的生活习惯",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "室友 Tom",
+      "line": "Hi, Li Hua! What do you usually do every day?",
+      "lineCn": "嗨,李华!你每天通常做些什么?",
+      "grammar": [
+        { "name": "助动词 do 构成疑问句", "note": "一般现在时的疑问句用助动词 do 帮助构成,主语是第三人称单数时用 does,后面的动词用原形。" }
+      ],
+      "options": [
+        { "text": "I get up at seven, and then I go to class.", "textCn": "我七点起床,然后去上课。", "feedback": "用一般现在时清楚说出自己的日常安排,好极了!", "next": "n2" },
+        { "text": "I got up at seven yesterday.", "textCn": "我昨天七点起床。", "feedback": "用了一般过去时,但对方问的是每天的习惯,应该用一般现在时。", "next": "n3" },
+        { "text": "I like music.", "textCn": "我喜欢音乐。", "feedback": "答非所问,没有说出每天的生活习惯。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "室友 Tom",
+      "line": "Sounds nice! I usually have breakfast at school. What about you?",
+      "lineCn": "听起来不错!我通常在学校吃早饭。你呢?",
+      "grammar": [
+        { "name": "频率副词 usually", "note": "usually 表示\"通常\",放在实义动词之前、be 动词之后,如 I usually have breakfast。" }
+      ],
+      "options": [
+        { "text": "I usually eat at home, then I walk to school.", "textCn": "我通常在家吃饭,然后走路去学校。", "feedback": "用 usually 说出自己的习惯,还补充了细节,对话很自然。", "next": "n4" },
+        { "text": "I am eating at home now.", "textCn": "我现在正在家吃饭。", "feedback": "现在进行时讲的是此刻的动作,而这里是谈论每天的习惯,应该用一般现在时。", "next": "n3" },
+        { "text": "Yes, I usually.", "textCn": "是的,我通常。", "feedback": "回答不完整,usually 是副词不能单独回答,应该说出具体习惯。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "室友 Tom",
+      "line": "Oh, I see. Do you like your daily life?",
+      "lineCn": "哦,我明白了。你喜欢你的日常生活吗?",
+      "grammar": [
+        { "name": "Do 引导的一般疑问句", "note": "Do you like...? 是 do 引导的一般疑问句,回答用 Yes, I do. 或 No, I do not." }
+      ],
+      "options": [
+        { "text": "Yes, I do. I like my school life very much.", "textCn": "是的,我喜欢。我非常喜欢我的校园生活。", "feedback": "完整地回答了 Do 问句,还加了一句说明,对话得以继续。", "next": "n4" },
+        { "text": "I do not know.", "textCn": "我不知道。", "feedback": "回答敷衍,让对方无法继续交流。", "next": "fail1" },
+        { "text": "Maybe. I like my room.", "textCn": "也许吧。我喜欢我的房间。", "feedback": "只说房间,没有聊到自己每天的生活,信息太少。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "室友 Tom",
+      "line": "Great! I go to bed at ten every night. How about you?",
+      "lineCn": "太好了!我每天晚上十点睡觉。你呢?",
+      "grammar": [
+        { "name": "一般现在时表示习惯", "note": "用一般现在时描述每天重复的习惯,常搭配 every day、usually 等时间词,如 I go to bed at ten。" }
+      ],
+      "options": [
+        { "text": "I go to bed at eleven, but I get up at six. We can go to school together!", "textCn": "我十一点睡觉,但六点起床。我们可以一起去上学!", "feedback": "说出了自己的习惯,还提出一起上学,和室友聊出了彼此的生活,成功达成目标!", "next": "success" },
+        { "text": "Okay. Goodbye.", "textCn": "好的。再见。", "feedback": "突然结束对话,没有回应对方的习惯,错过了互相了解的机会。", "next": "fail2" },
+        { "text": "I like bed.", "textCn": "我喜欢床。", "feedback": "回答过于简单随意,没有交流彼此的生活习惯。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "室友 Tom",
+      "line": "That is a good plan! See you tomorrow morning!",
+      "lineCn": "这是个好主意!明天早上见!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "室友 Tom",
+      "line": "Okay... Maybe we can talk later.",
+      "lineCn": "好吧……也许我们以后再聊。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "室友 Tom",
+      "line": "Alright. Talk to you later.",
+      "lineCn": "好吧。回头再聊。",
+      "end": true,
+      "success": false
+    }
+  }
+}

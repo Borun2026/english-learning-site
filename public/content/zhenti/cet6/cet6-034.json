@@ -1,0 +1,63 @@
+{
+ "id": "cet6-034",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第2套) Passage 2",
+ "title": "There're currently 21",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 451,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "There're currently 21.5 million students in America, and many will be funding their college on borrowed money. Given that there's now over $1.3 trillion in student loans on the books, it's pretty clear that many students are far from sensible. The average student's debt upon graduation now approaches $40, 000, and as college becomes ever more expensive, calls to make it \"free\" are multiplying. Even Hillary Clinton says that when it comes to college, \"Costs won't be a barrier. \"",
+  "But the only way college could be free is if the faculty and staff donated their time, the buildings required no maintenance, and campuses required no utilities. As long as it's impossible to produce something from nothing costs are absolutely a barrier.",
+  "7 The actual question we debate is who should pay for people to go to college. If taxpayers are to bear the cost of forgiving student loans, shouldn't they have a say in how their money is used?",
+  "At least taxpayers should be able to decide what students will study on the public dime. If we're going to force taxpayers to foot the bill for college degrees, students should only study those subjects that're of greatest benefit to taxpayers. After all, students making their own choices in this respect is what caused the problem in the first place. We simply don't need more poetry, gender studies, or sociology majors. How do we know which subjects benefit society? Easy.",
+  "Average starting salaries give a clear indication of what type of training society needs its new workers to have. Certainly, there're benefits to a college major beyond the job a student can perform. But if we're talking about the benefits to society, the only thing that matters is what the major enables the student to produce for society. And the value of what the student can produce is reflected in the wage employers are willing to pay the student to produce it.",
+  "A low wage for elementary school teachers, however, doesn't mean elementary education isn't important. It simply means there're too many elementary school teachers already.",
+  "Meanwhile, there're few who're willing and able to perform jobs requiring a petroleum engineering major, so the value of one more of those people is very high",
+  "So we can have taxpayers pick up students' tuition in exchange for dictating what those students will study. Or we can allow students both to choose their majors and pay for their education themselves. But in the end ,one of two things is true:",
+  "Either a college major is worth its cost or it isn't. If yes, taxpayer financing isn't needed If not taxpayer financing isn't desirable. Either way, taxpayers have no business paying for students' college education."
+ ],
+ "questions": [
+  {
+   "q": "文中 “choose” 最接近的意思是?",
+   "options": [
+    "商业，生意",
+    "值…的",
+    "使受益",
+    "选择，挑选"
+   ],
+   "answer": 3,
+   "analysis": "“choose” 意为「选择，挑选」。原文语境:Or we can allow students both to choose their majors and pay for their education themselves.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Either way, taxpayers have no ___ paying for students' college education.",
+   "options": [
+    "America",
+    "engineering",
+    "place",
+    "business"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Either way, taxpayers have no business paying for students' college education.”。空格处应填入 “business”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual",
+    "There're currently 21",
+    "Any veteran nicotine addict will testify that fancy packaging plays no role i",
+    "People who repeatedly give unwanted advice can be well-meaning and genuinely"
+   ],
+   "answer": 1,
+   "analysis": "本文以“There're currently 21.5 million students in America, and many will be funding their college on borrowed money.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

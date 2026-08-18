@@ -1,0 +1,305 @@
+{
+ "id": "z2019-cloze-0",
+ "year": 2019,
+ "section": "cloze",
+ "index": 0,
+ "source": "2019年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "Today we live in a world where GPS systems, digital maps, and other navigation apps are available on our smart phone.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___1___ of us just walk straight into the woods without a phone.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "But phones___2___on batteries, and batteries can die faster than we realize.___3___you get lost without a phone or a compass, and you ___4___can’t find north, we have a few tricks to help you navigate___5___to civilization, one of which is to follow the land.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "When you find yourself well___6___ a trail, but not in a completely ___7___area, you have to answer two questions: Which ___8___is downhill, in this particular area?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "And where is the nearest water source?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Humans overwhelmingly live in valleys, and on supplies of fresh water.___9___, if you head downhill, and follow any H2O you find, you should ___10___see signs of people.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "If you’ve explored the area before, keep an eye out for familiar sights—you may be ___11___how quickly identifying a distinctive rock or tree can restore your bearings.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Another___12___:Climb high and look for signs of human habitation.___13___,even in dense forest, you should able to ___14___gaps in the tree line due to roads, train tracks, and other paths people carve___15___ the woods.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Head toward these ___16___ to find a way out.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "At night, scan the horizon for ___17___ light sources, such as fires and streetlights, then walk toward the glow of light pollution.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___18___,assuming you’re lost in an area humans tend to frequent, look for the ___19___we leave on the landscape.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Trail blazes, tire tracks, and other features can ___20___you to civilization.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "Some",
+    "Most",
+    "Few",
+    "All"
+   ],
+   "answer": 2,
+   "analysis": "首句指出如今我们的智能手机拥有各种导航功能;本句切入具体场景:我们中______会不\n带手机走进森林。可见首句意在为该句结论做铺垫:手机导航功能强大,自然是户外必备“神器”,也\n即,没有人会不带手机就贸然入林,选项中表否定含义的代词只有[C]Few。"
+  },
+  {
+   "q": "",
+   "options": [
+    "put",
+    "take",
+    "run",
+    "come"
+   ],
+   "answer": 2,
+   "analysis": "空格所在句意为:但是手机________电池,而电池耗尽的速度会比我们意识到的更快。“空\n格动词+on”需体现“手机”与“电池”的关系,由句首But(体现上下文语义转折:手机功能固然强\n大,但一切最终取决于电池)以及常识“手机是依靠电池提供能量才得以运转”可以判断[C]run正确,\n表示“(机器/设备依靠某种能源)运转”。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Since",
+    "If",
+    "Though",
+    "Until"
+   ],
+   "answer": 1,
+   "analysis": "本题考查句内逻辑,从句、主句大意分别为“在没有导航工具的情况下迷路”、“我们有一\n些技巧帮助你确定路线……”,很明显,“迷路”构成“帮你找路”的“假设性前提”,[B]If符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "formally",
+    "relatively",
+    "gradually",
+    "literally"
+   ],
+   "answer": 3,
+   "analysis": "“_______找不到北”与其前的“在没有手机和指南针的情况下迷路”形式上由and相连,\n语义统一但更进一步:迷路且方向感尽失,故空格处副词只能表示肯定或强调,[D]literally用于“强\n调所说内容为真,尽管听起来有些夸张”,符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "back",
+    "next",
+    "around",
+    "away"
+   ],
+   "answer": 0,
+   "analysis": "空格所在句意为,如果你(在林中)迷路,我们有一些技巧可以助你确定路线_______文明\n社会。上下文语境表明civilization与woods构成“文明社会VS原始丛林”的对立,而helpnavigate\n意为“助你找回/明确方向”,故________tocivilization应体现“返回文明社会”之意,[A]back正确。\n词汇注释与难句分析\nGPS全球定位系统(GlobalPositioningSystem)die停止运转\nnavigation导航;领航 Straight径直;笔直地\nbattery电池 compass指南针,罗盘\ntrick诀窍;技巧 navigate找到正确的行进方向\nIfyougetlostwithoutaphoneoracompass,andyouliterallycan’tfindnorth,\n衔接词主语1谓语1 状语 连词主语2状语谓语2宾语\nwehaveafewtrickstohelpyounavigatebacktocivilization,oneofwhichistofollowtheland.\n主语谓语宾语 目的状语 主语系动词表语\n注释:本句中tohelpyounavigatebacktocivilization为目的状语,解释说明提供这些技巧的目的;\n帮助迷路者重返文明社会,oneofwhich引导定于从句,引出其中一个技巧:沿着陆地"
+  },
+  {
+   "q": "",
+   "options": [
+    "onto",
+    "off",
+    "across",
+    "alone"
+   ],
+   "answer": 1,
+   "analysis": "上段末句指出,迷路后的对策之一是沿着陆地走。本句指出,当发现自己_____小路/路线,\n但又……时,你必须回答两个问题:在这片区域内哪一……是下坡路?最近的水源在哪里?可见,上\n段末与本句构成“概说(迷路后的对策)细说”的语义场,故本句Whenyoufindyourself________a\ntrail实际在重申上述假设前提(When表示“条件”),即“如果迷路”,off作介词课表“偏离”,由程\n度副词well(大大地,远远地)修饰,意为“完全偏离路线/迷路”,故[B]off符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "unattractive",
+    "uncrowded",
+    "unchanged",
+    "unfamiliar"
+   ],
+   "answer": 3,
+   "analysis": "but表明“并非身处完全________的区域”与“发现自己远离小路(即迷路)”构成对比转\n折,而not再度转折,则inacompletely________area应该与welloffatrail同指“迷路”,意即“身处\n完全陌生之地”,故[D]unfamiliar符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "site",
+    "point",
+    "way",
+    "place"
+   ],
+   "answer": 2,
+   "analysis": "空格所在句介绍迷路时必须思考的两个问题:哪一______是下山/下坡/向下的?最近的水源\n在哪里?由“绝大多数人住在山谷中(山谷地势较低)”和“如果你朝下坡方向走(headdownhill)……\n就应该能看到人的迹象”可知,下坡方向有人类居住的可能性极大,迷路者的目的既然是文明社会,\ndownhill应是其努力辨明并选择走的方向,whichway...为固定用法,表示“某方向、往某方向”,[C]way\n正确。"
+  },
+  {
+   "q": "",
+   "options": [
+    "So",
+    "Yet",
+    "Instead",
+    "Besides"
+   ],
+   "answer": 0,
+   "analysis": "本题考查第三四句之间的逻辑关联,第三句意为:(森林里)绝大多数人住在山谷中,依靠\n淡水供应生活,第四句意为:如果你朝下坡且顺着发现的水走,……应该会看到人的迹象。可见第四\n句是基于第三句常识得出的逻辑结论,[A]So符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "immediately",
+    "intentionally",
+    "unexpectedly",
+    "eventually"
+   ],
+   "answer": 3,
+   "analysis": "句子结构if...,youshould...(如果……,你应该会……;此处should用于“表示预期”,指\n“应该会、可能”)明确“条件结果”的句内逻辑,即主句中“看到人的迹象”是从句中条件“朝\n下坡方向走”达成的结果,选项中符合文意的只有[D]eventually,该词强调“(经过一番困难后)最终”,\n符合“一路向下、同时不断追寻水源”的语境。\n词汇注释与难句分析\ntrail"
+  },
+  {
+   "q": "",
+   "options": [
+    "surprised",
+    "annoyed",
+    "frightened",
+    "confused"
+   ],
+   "answer": 0,
+   "analysis": "破折号后内容是对其前建议“密切关注熟悉景物”的解释说明(adistinctiverockortree具\n体familiarsights),表明这么做的意义:认出某熟悉景物会让人迅速找回方向感。Howquickly引导的\n感叹号体现对耗时之短的惊叹,空格词应与该惊叹语气一致,为积极正向语义,[A]surprised符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "problem",
+    "option",
+    "view",
+    "result"
+   ],
+   "answer": 1,
+   "analysis": "第二段介绍迷路后的一种对策“朝下坡方向、顺着水源走,以寻找人迹”;第三段介绍在曾\n探索过区域迷路后的对策“寻找熟悉景物”。第四段1句冒号后内容“登高并寻找人类居住的迹象”在\n语义上与前述内容构成并列关系,故本段应开始介绍第三种对策,option内涵为“可供选择的事物、\n选项”,用在此处可以代指“(可供选择的)对策”,故B正确。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Above all",
+    "In contrast",
+    "On average",
+    "For example"
+   ],
+   "answer": 3,
+   "analysis": "首句引出对策内容:登高并寻找人类的迹象。二三句指出,即便身处密林之中,也应该能……\n由于人们开辟道路、铁轨和其他小路而造成的林木线缺口,朝这些……走以便找到出路。由文意可知,\n二句“林木线缺口(gapsinthetreeline)”是人力为之的结果,应属于首句“人类居住的迹象(signsof\nhumanhabitation)”,故首句与二三句构成“抽象具化”的例证关系,[D]Forexample正确。"
+  },
+  {
+   "q": "",
+   "options": [
+    "bridge",
+    "avoid",
+    "spot",
+    "separate"
+   ],
+   "answer": 2,
+   "analysis": "由上题分析可知,二三句例证说明首句,空格后gapsinthetreeline(林木线缺口)是首句\nsignsofhumanhabitation(人类居住迹象)的具化,上文指出迷路后可以登高来寻找人类居住的迹象,\n空格词应该与首句lookfor语义接近,说明“寻找、发现(林木线缺口)”的文意,[C]spot符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "form",
+    "through",
+    "beyond",
+    "under"
+   ],
+   "answer": 1,
+   "analysis": "空格位于修饰roads,traintracksandotherpaths的定语从句(that)peoplecarve________the\nwoods中,已知关联为“道路、铁轨等是由人们铺就而成”,故本题实质转化为“考查roads...与woods\n之间的(方位)关联”。由因果标记词dueto可知,roads...即为林木线缺口的原因,可见它们位于森林\n之中,是人们开辟的结果,carvearoadthroughaplace为常见用法,表示“建起贯穿某地的道路”,介\n词through表示“从一端到另一端”,B正确。"
+  },
+  {
+   "q": "",
+   "options": [
+    "posts",
+    "links",
+    "shades",
+    "breaks"
+   ],
+   "answer": 3,
+   "analysis": "有these的回指功能可知,解题线索上文二句核心信息中。二句核心内容为:登高便能发\n现各种林木线缺口(gaps)。可见本句“朝着它们走应该能找到出路”中“它们”指代“缺口”,空格\n词应与二句gaps近义,[D]breaks符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "artificial",
+    "mysterious",
+    "hidden",
+    "limited"
+   ],
+   "answer": 0,
+   "analysis": "已知首句总体介绍迷路后的又一项对策,四句Atnight提示三句Headtoward...和四句scan\nthe...分别是白天和夜晚时的具体做法。因此四句scanthehorizonfor_____lightsources应该对应首句\nlookforsignsofhumanhabitation,空格词应与human对应。再由suchas可知,firesandstreetlights是\n______lightsources的具体例证,而“火和路灯”的共同特征是“人造光源”,[A]artificial正确。\n词汇注释与难句分析\nhabitation居住;住宅 scan细看,审视,查找\ndense茂密的,密集的,稠密的 horizon地平线\ntreeline林木线;指高海拔或高纬度地区树木生长的上限 glow光亮;光辉\ncarve切;雕刻 lightpollution光污染"
+  },
+  {
+   "q": "",
+   "options": [
+    "Finally",
+    "Consequently",
+    "Incidentally",
+    "Generally"
+   ],
+   "answer": 0,
+   "analysis": "空格所在句assumingyou’relostinanarea与第二段首句Whenyoufindyourself...butnotina\ncompletely...area、第三段首句Ifyou’veexploredtheareabefore结构一致、内容呼应,分别引出三种假\n设下(在“人类经常出没”、“不完全陌生”以及“曾探索过”的地方迷路时)的应对之举,因此可推\n知空格处应引出最后一种假设下的对策,[A]Finally符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "memories",
+    "marks",
+    "notes",
+    "belongings"
+   ],
+   "answer": 1,
+   "analysis": "空格所在句指出,假设你在人类经常出没的地方迷路,寻找我们在地面景观上留下的____。\n下文二句指出,小路上的树皮刻痕、轮胎的痕迹和其他特征可以……文明社会。可见二句主语Trail\nblazes,tiretracks,andotherfeatures即为首句宾语______weleaveonthelandscape的具体例证,而它们\n显然是人们在地面景观上留下的痕迹,[B]marks符合文意。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "restrict",
+    "adopt",
+    "lead",
+    "expose"
+   ],
+   "answer": 2,
+   "analysis": "由上题分析可知,“小路上的树皮刻痕、轮胎痕迹和其他特征”是迷路时可以借助的线索,\n而这些线索应该有助于引导人们重返文明社会。此外,本句是介绍迷路时的一种对策,应该与首段末\n句“一些回到文明世界的技巧”语义方向一致,______youtocivilization呼应首段navigate...tocivilization,\n空格词应与navigate近义,[C]lead符合文意,leadsbto/intosth为固定搭配,表示“引领某人到/进入\n某地”。\n词汇注释与难句分析\nassuming假定,假设 blaze树皮刻痕(用作指示道路或森林界线)\nfrequent常去,常到(某地方)\nlandscape风景;地形,地貌 tire轮胎\nSectionIIReadingComprehension\nPartA\nText1\n一、文章总体分析\n来源:ChristianScienceMonitor《基督教科学箴言报》2015.06.24文章PatienceasaCorporateVirtue\n(耐心,企业的美德)。主题:当前经济活动中短期主义盛行、危害经济发展;企业应进行长远决策,\n为后代建立更强健的经济。脉络:引入“英国银行业监管新规”并说明起长远目的“使企业做出更多\n长远决策,为后代建立更强健的经济”(第一段——剖析当前社会现象:上市公司中短期主义盛行(第\n二至四段)——提出削弱短期主义、鼓励"
+  }
+ ]
+}

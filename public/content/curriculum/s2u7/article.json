@@ -1,0 +1,792 @@
+{
+  "id": "a-s2u7",
+  "stage": 2,
+  "unitId": "s2u7",
+  "title": "My Ideal Apartment",
+  "newWords": [
+    "flowers",
+    "has",
+    "lives",
+    "makes",
+    "rooms",
+    "smiles",
+    "stands",
+    "trees",
+    "windows",
+    "dwelling",
+    "mood",
+    "landscape",
+    "cherish",
+    "fascinating",
+    "exterior"
+  ],
+  "sentences": [
+    {
+      "text": "I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+      "translation": "我想找一套安静明亮的公寓,因为好的住所能让我们的生活舒适。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I want to find an apartment",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "want"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to find an apartment"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "that is quiet and bright"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "a good dwelling can make our life comfortable"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 引导定语从句",
+          "note": "that is quiet and bright 修饰 apartment,that 在从句中作主语,表示\"安静的、明亮的公寓\"。"
+        },
+        {
+          "name": "make + 宾语 + 形容词",
+          "note": "make our life comfortable 中形容词 comfortable 作宾语补足语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "a good dwelling can make our life comfortable",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "a good dwelling can make our life comfortable",
+          "name": "make + 宾语 + 形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+          "answer": "I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+          "note": "that is quiet and bright 修饰 apartment,that 在从句中作主语,表示\"安静的、明亮的公寓\"。",
+          "point": "that 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+          "answer": "I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+          "note": "make our life comfortable 中形容词 comfortable 作宾语补足语。",
+          "point": "make + 宾语 + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+      "translation": "矗立在河边的那栋楼有一个小花园,它的窗户朝向美丽的风景,外观清新整洁。",
+      "chunks": [
+        {
+          "label": "主干(主语部分)",
+          "color": "#a8dab5",
+          "text": "The building",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The building"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "which stands near the river"
+        },
+        {
+          "label": "主干(谓语部分)",
+          "color": "#a8dab5",
+          "text": "has a small garden",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "has"
+            },
+            {
+              "role": "宾语",
+              "text": "a small garden"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "its windows face a beautiful landscape",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "its windows"
+            },
+            {
+              "role": "谓语",
+              "text": "face"
+            },
+            {
+              "role": "宾语",
+              "text": "a beautiful landscape"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the exterior is fresh and clean",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the exterior"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "fresh and clean"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "which 引导定语从句",
+          "note": "which stands near the river 修饰 building,which 在从句中作主语,代替\"楼\"。"
+        },
+        {
+          "name": "定语从句把主语和谓语分开",
+          "note": "定语从句插在主语 The building 和谓语 has 之间,阅读时先找主干。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "its windows face a beautiful landscape",
+          "name": "which 引导定语从句"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "its windows face a beautiful landscape",
+          "name": "定语从句把主语和谓语分开"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+          "answer": "The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+          "note": "which stands near the river 修饰 building,which 在从句中作主语,代替\"楼\"。",
+          "point": "which 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+          "answer": "The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+          "note": "定语从句插在主语 The building 和谓语 has 之间,阅读时先找主干。",
+          "point": "定语从句把主语和谓语分开"
+        }
+      ]
+    },
+    {
+      "text": "I like rooms that have big windows, because the sunlight makes me feel warm.",
+      "translation": "我喜欢有大窗户的房间,因为阳光让我感到温暖。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I like rooms",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "like"
+            },
+            {
+              "role": "宾语",
+              "text": "rooms"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "that have big windows"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "the sunlight makes me feel warm"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 引导定语从句(先行词复数)",
+          "note": "先行词 rooms 是复数,所以从句谓语用 have。"
+        },
+        {
+          "name": "make sb. do 使某人做",
+          "note": "makes me feel warm 中 feel 是省去 to 的不定式作宾补。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "the sunlight makes me feel warm",
+          "name": "that 引导定语从句(先行词复数)"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "the sunlight makes me feel warm",
+          "name": "make sb. do 使某人做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I like rooms that have big windows, because the sunlight makes me feel warm.",
+          "answer": "I like rooms that have big windows, because the sunlight makes me feel warm.",
+          "note": "先行词 rooms 是复数,所以从句谓语用 have。",
+          "point": "that 引导定语从句(先行词复数)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I like rooms that have big windows, because the sunlight makes me feel warm.",
+          "answer": "I like rooms that have big windows, because the sunlight makes me feel warm.",
+          "note": "makes me feel warm 中 feel 是省去 to 的不定式作宾补。",
+          "point": "make sb. do 使某人做"
+        }
+      ]
+    },
+    {
+      "text": "My ideal home is a place where I can read, cook, and rest freely with my family.",
+      "translation": "我理想的家是一个可以自由地和家人读书、做饭和休息的地方。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "My ideal home is a place",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My ideal home"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a place"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "where I can read, cook, and rest freely with my family"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "where 引导定语从句",
+          "note": "where I can... 修饰 place,先行词是表地点的名词,where 在从句中作地点状语。"
+        },
+        {
+          "name": "can + 动词原形",
+          "note": "can read, cook, and rest 三个并列动词原形,表示\"能够做……\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "where I can read, cook, and rest freely with my family",
+          "name": "where 引导定语从句"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "where I can read, cook, and rest freely with my family",
+          "name": "can + 动词原形"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My ideal home is a place where I can read, cook, and rest freely with my family.",
+          "answer": "My ideal home is a place where I can read, cook, and rest freely with my family.",
+          "note": "where I can... 修饰 place,先行词是表地点的名词,where 在从句中作地点状语。",
+          "point": "where 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My ideal home is a place where I can read, cook, and rest freely with my family.",
+          "answer": "My ideal home is a place where I can read, cook, and rest freely with my family.",
+          "note": "can read, cook, and rest 三个并列动词原形,表示\"能够做……\"。",
+          "point": "can + 动词原形"
+        }
+      ]
+    },
+    {
+      "text": "The neighbor who lives upstairs is a kind old lady who often smiles at us.",
+      "translation": "住在楼上的邻居是一位善良的老太太,她常常对我们微笑。",
+      "chunks": [
+        {
+          "label": "主干(主语部分)",
+          "color": "#a8dab5",
+          "text": "The neighbor",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The neighbor"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "who lives upstairs"
+        },
+        {
+          "label": "主干(系表部分)",
+          "color": "#a8dab5",
+          "text": "is a kind old lady",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a kind old lady"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "who often smiles at us"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "who 引导定语从句(人)",
+          "note": "who lives upstairs 修饰 neighbor,who 在从句中作主语,代替\"邻居\"。"
+        },
+        {
+          "name": "第二个 who 从句",
+          "note": "who often smiles at us 修饰 lady,再次用 who 补充说明老太太的特点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "who often smiles at us",
+          "name": "who 引导定语从句(人)"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "who often smiles at us",
+          "name": "第二个 who 从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The neighbor who lives upstairs is a kind old lady who often smiles at us.",
+          "answer": "The neighbor who lives upstairs is a kind old lady who often smiles at us.",
+          "note": "who lives upstairs 修饰 neighbor,who 在从句中作主语,代替\"邻居\"。",
+          "point": "who 引导定语从句(人)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The neighbor who lives upstairs is a kind old lady who often smiles at us.",
+          "answer": "The neighbor who lives upstairs is a kind old lady who often smiles at us.",
+          "note": "who often smiles at us 修饰 lady,再次用 who 补充说明老太太的特点。",
+          "point": "第二个 who 从句"
+        }
+      ]
+    },
+    {
+      "text": "There is also a park near the apartment that is full of trees and flowers.",
+      "translation": "公寓附近还有一个公园,那里长满了树木和花朵。",
+      "chunks": [
+        {
+          "label": "主干(there be 句型)",
+          "color": "#a8dab5",
+          "text": "There is also a park",
+          "parts": [
+            {
+              "role": "引导词",
+              "text": "There"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "主语",
+              "text": "a park"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "near the apartment"
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "that is full of trees and flowers"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "there be 存在句",
+          "note": "There is a park 表示\"有一个公园\",there 是引导词。"
+        },
+        {
+          "name": "be full of 充满",
+          "note": "that is full of trees and flowers 是定语从句,be full of 表示\"充满\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "that is full of trees and flowers",
+          "name": "there be 存在句"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "that is full of trees and flowers",
+          "name": "be full of 充满"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):There is also a park near the apartment that is full of trees and flowers.",
+          "answer": "There is also a park near the apartment that is full of trees and flowers.",
+          "note": "There is a park 表示\"有一个公园\",there 是引导词。",
+          "point": "there be 存在句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):There is also a park near the apartment that is full of trees and flowers.",
+          "answer": "There is also a park near the apartment that is full of trees and flowers.",
+          "note": "that is full of trees and flowers 是定语从句,be full of 表示\"充满\"。",
+          "point": "be full of 充满"
+        }
+      ]
+    },
+    {
+      "text": "The apartment that I have in mind is not too big, but it is comfortable and warm, and the quiet mood makes me happy.",
+      "translation": "我心里的那套公寓不太大,但舒适温馨,安静的氛围让我开心。",
+      "chunks": [
+        {
+          "label": "主干(主语部分)",
+          "color": "#a8dab5",
+          "text": "The apartment",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The apartment"
+            }
+          ]
+        },
+        {
+          "label": "从句(定语从句)",
+          "color": "#c8a5e0",
+          "text": "that I have in mind"
+        },
+        {
+          "label": "主干(系表部分)",
+          "color": "#a8dab5",
+          "text": "is not too big",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not too big"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "it is comfortable and warm",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "comfortable and warm"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the quiet mood makes me happy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the quiet mood"
+            },
+            {
+              "role": "谓语",
+              "text": "makes"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            },
+            {
+              "role": "补语",
+              "text": "happy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 在从句中作宾语可省略",
+          "note": "that I have in mind 中 that 作 have 的宾语(心里有的公寓),口语中可省略。"
+        },
+        {
+          "name": "make + 宾语 + 形容词",
+          "note": "makes me happy 中形容词 happy 作宾补,表示\"使我开心\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "the quiet mood makes me happy",
+          "name": "that 在从句中作宾语可省略"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "the quiet mood makes me happy",
+          "name": "make + 宾语 + 形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The apartment that I have in mind is not too big, but it is comfortable and warm, and the quiet mood makes me happy.",
+          "answer": "The apartment that I have in mind is not too big, but it is comfortable and warm, and the quiet mood makes me happy.",
+          "note": "that I have in mind 中 that 作 have 的宾语(心里有的公寓),口语中可省略。",
+          "point": "that 在从句中作宾语可省略"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The apartment that I have in mind is not too big, but it is comfortable and warm, and the quiet mood makes me happy.",
+          "answer": "The apartment that I have in mind is not too big, but it is comfortable and warm, and the quiet mood makes me happy.",
+          "note": "makes me happy 中形容词 happy 作宾补,表示\"使我开心\"。",
+          "point": "make + 宾语 + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "I hope one day I can buy such a home, where my family will be happy, and I will cherish this place, because it is fascinating to me.",
+      "translation": "我希望有一天我能买下这样一套房子,在那里我的家人会幸福,我会珍惜这个地方,因为它对我来说充满魅力。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I hope",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "hope"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "one day I can buy such a home"
+        },
+        {
+          "label": "从句(非限制性定语从句)",
+          "color": "#c8a5e0",
+          "text": "where my family will be happy"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will cherish this place",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will cherish"
+            },
+            {
+              "role": "宾语",
+              "text": "this place"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "it is fascinating to me"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hope + 宾语从句",
+          "note": "hope 后直接接从句 one day I can buy...,表示\"希望……\"。"
+        },
+        {
+          "name": "where 引导非限制性定语从句",
+          "note": "where my family will be happy 用逗号与主句隔开,补充说明房子的特点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "one day I can buy such a home",
+          "name": "hope + 宾语从句"
+        },
+        {
+          "grammarId": "g-s2u7",
+          "phrase": "one day I can buy such a home",
+          "name": "where 引导非限制性定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I hope one day I can buy such a home, where my family will be happy, and I will cherish this place, because it is fascinating to me.",
+          "answer": "I hope one day I can buy such a home, where my family will be happy, and I will cherish this place, because it is fascinating to me.",
+          "note": "hope 后直接接从句 one day I can buy...,表示\"希望……\"。",
+          "point": "hope + 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I hope one day I can buy such a home, where my family will be happy, and I will cherish this place, because it is fascinating to me.",
+          "answer": "I hope one day I can buy such a home, where my family will be happy, and I will cherish this place, because it is fascinating to me.",
+          "note": "where my family will be happy 用逗号与主句隔开,补充说明房子的特点。",
+          "point": "where 引导非限制性定语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u7",
+      "name": "that 引导定语从句",
+      "note": "that is quiet and bright 修饰 apartment,that 在从句中作主语,表示\"安静的、明亮的公寓\"。",
+      "sourceExample": "I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+      "sourceExampleCn": "我想找一套安静明亮的公寓,因为好的住所能让我们的生活舒适。"
+    },
+    {
+      "grammarId": "g-s2u7",
+      "name": "make + 宾语 + 形容词",
+      "note": "make our life comfortable 中形容词 comfortable 作宾语补足语。",
+      "sourceExample": "I want to find an apartment that is quiet and bright, because a good dwelling can make our life comfortable.",
+      "sourceExampleCn": "我想找一套安静明亮的公寓,因为好的住所能让我们的生活舒适。"
+    },
+    {
+      "grammarId": "g-s2u7",
+      "name": "which 引导定语从句",
+      "note": "which stands near the river 修饰 building,which 在从句中作主语,代替\"楼\"。",
+      "sourceExample": "The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+      "sourceExampleCn": "矗立在河边的那栋楼有一个小花园,它的窗户朝向美丽的风景,外观清新整洁。"
+    },
+    {
+      "grammarId": "g-s2u7",
+      "name": "定语从句把主语和谓语分开",
+      "note": "定语从句插在主语 The building 和谓语 has 之间,阅读时先找主干。",
+      "sourceExample": "The building which stands near the river has a small garden, and its windows face a beautiful landscape, and the exterior is fresh and clean.",
+      "sourceExampleCn": "矗立在河边的那栋楼有一个小花园,它的窗户朝向美丽的风景,外观清新整洁。"
+    },
+    {
+      "grammarId": "g-s2u7",
+      "name": "that 引导定语从句(先行词复数)",
+      "note": "先行词 rooms 是复数,所以从句谓语用 have。",
+      "sourceExample": "I like rooms that have big windows, because the sunlight makes me feel warm.",
+      "sourceExampleCn": "我喜欢有大窗户的房间,因为阳光让我感到温暖。"
+    }
+  ]
+}

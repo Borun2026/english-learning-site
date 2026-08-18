@@ -1,0 +1,1302 @@
+{
+  "id": "a-s5u2",
+  "stage": 5,
+  "unitId": "s5u2",
+  "title": "The Art of Paraphrase in Thesis Defence",
+  "newWords": [
+    "synonym",
+    "thesaurus",
+    "treatise",
+    "consolidation",
+    "reiterate",
+    "provenance",
+    "archaic",
+    "archives",
+    "abstraction",
+    "relentless",
+    "enigma",
+    "supportive",
+    "cultivation",
+    "colossal",
+    "accreditation",
+    "legitimize",
+    "secular",
+    "ardent",
+    "sinister"
+  ],
+  "sentences": [
+    {
+      "text": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+      "translation": "在学术写作中,用同义词谨慎替换某个单词可以避免重复并展示丰富的词汇量,这是每位论文答辩者都应追求的目标。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In academic writing"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the careful replacement of a word with its synonym"
+            },
+            {
+              "role": "谓语一",
+              "text": "can prevent"
+            },
+            {
+              "role": "宾语一",
+              "text": "repetition"
+            },
+            {
+              "role": "谓语二",
+              "text": "and demonstrate"
+            },
+            {
+              "role": "宾语二",
+              "text": "a rich vocabulary"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "an aim that every thesis candidate should pursue"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "名词化短语作主语",
+          "note": "the careful replacement of a word with its synonym 将动作名词化,使表达精炼正式,是学术写作的典型句式。"
+        },
+        {
+          "name": "同义替换避免重复",
+          "note": "用 prevent repetition 和 demonstrate a rich vocabulary 两个并列谓语说明同义替换的两个作用。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that every thesis candidate should pursue 修饰 aim,其中情态动词 should 表建议。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary",
+          "name": "名词化短语作主语"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary",
+          "name": "同义替换避免重复"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+          "answer": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+          "note": "the careful replacement of a word with its synonym 将动作名词化,使表达精炼正式,是学术写作的典型句式。",
+          "point": "名词化短语作主语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+          "answer": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+          "note": "用 prevent repetition 和 demonstrate a rich vocabulary 两个并列谓语说明同义替换的两个作用。",
+          "point": "同义替换避免重复"
+        }
+      ]
+    },
+    {
+      "text": "A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+      "translation": "同义词词典若谨慎使用,能给出有用的替换词,然而写作者绝不能在不尊重其含义细微差别的情况下接受一个新词。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A thesaurus",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A thesaurus"
+            }
+          ]
+        },
+        {
+          "label": "时间状语(过去分词)",
+          "color": "#8ab4f8",
+          "text": "when used with caution"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can reveal a useful alternative",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can reveal"
+            },
+            {
+              "role": "宾语",
+              "text": "a useful alternative"
+            }
+          ]
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a writer must never accept a new term without respect for its subtle difference in meaning",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a writer"
+            },
+            {
+              "role": "谓语",
+              "text": "must never accept"
+            },
+            {
+              "role": "宾语",
+              "text": "a new term"
+            },
+            {
+              "role": "方式状语",
+              "text": "without respect for its subtle difference in meaning"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词短语作时间状语",
+          "note": "when used with caution 相当于 when it is used with caution,省略主语和 be 动词,是书面语中的常见省略。"
+        },
+        {
+          "name": "yet 表示转折",
+          "note": "yet 引出与前文相反的情况,体现论证的辩证性。"
+        },
+        {
+          "name": "介词短语作方式状语",
+          "note": "without respect for... 表示\"不以……为尊重\",补充说明条件限制。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer must never accept a new term without respect for its subtle difference in meaning",
+          "name": "过去分词短语作时间状语"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer must never accept a new term without respect for its subtle difference in meaning",
+          "name": "yet 表示转折"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer must never accept a new term without respect for its subtle difference in meaning",
+          "name": "介词短语作方式状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+          "answer": "A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+          "note": "when used with caution 相当于 when it is used with caution,省略主语和 be 动词,是书面语中的常见省略。",
+          "point": "过去分词短语作时间状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+          "answer": "A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+          "note": "yet 引出与前文相反的情况,体现论证的辩证性。",
+          "point": "yet 表示转折"
+        }
+      ]
+    },
+    {
+      "text": "For example, a single treatise may use the word support in one chapter and the word strengthen in another, yet each choice can change the flavour of the argument.",
+      "translation": "例如,一篇专著可能在某一章使用 support 一词,在另一章使用 strengthen,然而每个选择都会改变论证的意味。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "For example"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "a single treatise may use the word support in one chapter and the word strengthen in another",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a single treatise"
+            },
+            {
+              "role": "谓语",
+              "text": "may use"
+            },
+            {
+              "role": "宾语一",
+              "text": "the word support"
+            },
+            {
+              "role": "地点状语",
+              "text": "in one chapter"
+            },
+            {
+              "role": "宾语二",
+              "text": "and the word strengthen in another"
+            }
+          ]
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "each choice can change the flavour of the argument",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each choice"
+            },
+            {
+              "role": "谓语",
+              "text": "can change"
+            },
+            {
+              "role": "宾语",
+              "text": "the flavour of the argument"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "举例论证 For example",
+          "note": "For example 引出具体实例,使抽象观点具象化,是学术写作最常用的例证方式。"
+        },
+        {
+          "name": "may 表可能性",
+          "note": "may 表示\"可能\",表达一种推测性的举例,语气委婉。"
+        },
+        {
+          "name": "yet 表转折",
+          "note": "yet 连接相反的情况,强调\"虽然同义,但选择有别\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a single treatise may use the word support in one chapter and the word strengthen in another",
+          "name": "举例论证 For example"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a single treatise may use the word support in one chapter and the word strengthen in another",
+          "name": "may 表可能性"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a single treatise may use the word support in one chapter and the word strengthen in another",
+          "name": "yet 表转折"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, a single treatise may use the word support in one chapter and the word strengthen in another, yet each choice can change the flavour of the argument.",
+          "answer": "For example, a single treatise may use the word support in one chapter and the word strengthen in another, yet each choice can change the flavour of the argument.",
+          "note": "For example 引出具体实例,使抽象观点具象化,是学术写作最常用的例证方式。",
+          "point": "举例论证 For example"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, a single treatise may use the word support in one chapter and the word strengthen in another, yet each choice can change the flavour of the argument.",
+          "answer": "For example, a single treatise may use the word support in one chapter and the word strengthen in another, yet each choice can change the flavour of the argument.",
+          "note": "may 表示\"可能\",表达一种推测性的举例,语气委婉。",
+          "point": "may 表可能性"
+        }
+      ]
+    },
+    {
+      "text": "During a thesis defence, a member of the committee may ask a candidate to paraphrase the question, and a short summary together with the consolidation of previous argument can show both understanding and control.",
+      "translation": "在论文答辩中,委员会成员可能要求候选人转述问题,而简短概括加上对先前论证的整合,可以同时展示理解力与掌控力。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "During a thesis defence"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "a member of the committee may ask a candidate to paraphrase the question",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a member of the committee"
+            },
+            {
+              "role": "谓语",
+              "text": "may ask"
+            },
+            {
+              "role": "宾语",
+              "text": "a candidate"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "to paraphrase the question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a short summary together with the consolidation of previous argument can show both understanding and control",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a short summary together with the consolidation of previous argument"
+            },
+            {
+              "role": "谓语",
+              "text": "can show"
+            },
+            {
+              "role": "宾语",
+              "text": "both understanding and control"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作宾补",
+          "note": "ask a candidate to paraphrase 中,to paraphrase 是不定式作宾补,表示\"要求某人做某事\"。",
+          "example": "The tutor asked me to explain the theory.",
+          "exampleCn": "导师要求我解释这个理论。"
+        },
+        {
+          "name": "together with 连接主语",
+          "note": "together with 连接的主语部分,谓语仍与中心词 a short summary 保持一致。"
+        },
+        {
+          "name": "名词化结构",
+          "note": "the consolidation of previous argument 将动词 consolidate 名词化,体现学术写作的正式语体。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a short summary together with the consolidation of previous argument can show both understanding and control",
+          "name": "不定式作宾补"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a short summary together with the consolidation of previous argument can show both understanding and control",
+          "name": "together with 连接主语"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a short summary together with the consolidation of previous argument can show both understanding and control",
+          "name": "名词化结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:导师要求我解释这个理论。",
+          "answer": "The tutor asked me to explain the theory.",
+          "note": "ask a candidate to paraphrase 中,to paraphrase 是不定式作宾补,表示\"要求某人做某事\"。",
+          "point": "不定式作宾补"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):During a thesis defence, a member of the committee may ask a candidate to paraphrase the question, and a short summary together with the consolidation of previous argument can show both understanding and control.",
+          "answer": "During a thesis defence, a member of the committee may ask a candidate to paraphrase the question, and a short summary together with the consolidation of previous argument can show both understanding and control.",
+          "note": "together with 连接的主语部分,谓语仍与中心词 a short summary 保持一致。",
+          "point": "together with 连接主语"
+        }
+      ]
+    },
+    {
+      "text": "A careful candidate can reiterate the central claim in fresh language, never in the same formula, and thereby convince the committee that the idea is truly his own.",
+      "translation": "细心的候选人会用新鲜的语言重申核心论点,绝不用同样的套话,从而让委员会相信这一观点确实是他自己的。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A careful candidate can reiterate the central claim in fresh language",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A careful candidate"
+            },
+            {
+              "role": "谓语",
+              "text": "can reiterate"
+            },
+            {
+              "role": "宾语",
+              "text": "the central claim"
+            },
+            {
+              "role": "方式状语",
+              "text": "in fresh language"
+            }
+          ]
+        },
+        {
+          "label": "否定状语",
+          "color": "#8ab4f8",
+          "text": "never in the same formula"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "thereby convince the committee that the idea is truly his own",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "thereby convince"
+            },
+            {
+              "role": "宾语",
+              "text": "the committee"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that the idea is truly his own"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "同义替换的核心策略",
+          "note": "reiterate the central claim in fresh language 说明\"用新词重申旧观点\",正是同义替换策略的应用。"
+        },
+        {
+          "name": "thereby + 动词表结果",
+          "note": "thereby convince 表示\"由此使……相信\",说明前面的行为产生的结果,书面色彩强。"
+        },
+        {
+          "name": "that 引导宾语从句",
+          "note": "that the idea is truly his own 作 convince 的宾语从句,说明使对方相信的内容。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A careful candidate can reiterate the central claim in fresh language",
+          "name": "同义替换的核心策略"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A careful candidate can reiterate the central claim in fresh language",
+          "name": "thereby + 动词表结果"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A careful candidate can reiterate the central claim in fresh language",
+          "name": "that 引导宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A careful candidate can reiterate the central claim in fresh language, never in the same formula, and thereby convince the committee that the idea is truly his own.",
+          "answer": "A careful candidate can reiterate the central claim in fresh language, never in the same formula, and thereby convince the committee that the idea is truly his own.",
+          "note": "reiterate the central claim in fresh language 说明\"用新词重申旧观点\",正是同义替换策略的应用。",
+          "point": "同义替换的核心策略"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A careful candidate can reiterate the central claim in fresh language, never in the same formula, and thereby convince the committee that the idea is truly his own.",
+          "answer": "A careful candidate can reiterate the central claim in fresh language, never in the same formula, and thereby convince the committee that the idea is truly his own.",
+          "note": "thereby convince 表示\"由此使……相信\",说明前面的行为产生的结果,书面色彩强。",
+          "point": "thereby + 动词表结果"
+        }
+      ]
+    },
+    {
+      "text": "A study of the provenance of a term, that is, its historical origin, can also explain why a word may feel archaic while another remains vivid and current.",
+      "translation": "对词语来源(即其历史渊源)的研究,也能解释为什么一个词可能显得古旧,而另一个词仍然生动且流行。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A study of the provenance of a term",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A study of the provenance of a term"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "that is, its historical origin"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can also explain why a word may feel archaic while another remains vivid and current",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can also explain"
+            },
+            {
+              "role": "宾语从句",
+              "text": "why a word may feel archaic while another remains vivid and current"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 that is",
+          "note": "that is 引出同位语,对前文的术语作进一步解释,增强表达的清晰度。"
+        },
+        {
+          "name": "why 引导宾语从句",
+          "note": "why a word may feel archaic... 是 explain 的宾语从句,用于解释原因。"
+        },
+        {
+          "name": "while 表示对比",
+          "note": "while 连接两个对比的现象,说明\"一个古旧,一个鲜活\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can also explain why a word may feel archaic while another remains vivid and current",
+          "name": "插入语 that is"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can also explain why a word may feel archaic while another remains vivid and current",
+          "name": "why 引导宾语从句"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can also explain why a word may feel archaic while another remains vivid and current",
+          "name": "while 表示对比"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A study of the provenance of a term, that is, its historical origin, can also explain why a word may feel archaic while another remains vivid and current.",
+          "answer": "A study of the provenance of a term, that is, its historical origin, can also explain why a word may feel archaic while another remains vivid and current.",
+          "note": "that is 引出同位语,对前文的术语作进一步解释,增强表达的清晰度。",
+          "point": "插入语 that is"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A study of the provenance of a term, that is, its historical origin, can also explain why a word may feel archaic while another remains vivid and current.",
+          "answer": "A study of the provenance of a term, that is, its historical origin, can also explain why a word may feel archaic while another remains vivid and current.",
+          "note": "why a word may feel archaic... 是 explain 的宾语从句,用于解释原因。",
+          "point": "why 引导宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "A scholar who works in the archives can learn that the original meaning of a concept may differ sharply from its modern usage, and this awareness can prevent a serious mistake.",
+      "translation": "在档案馆工作的学者能了解到,一个概念的原义可能与现代用法大相径庭,而这种意识可以避免严重的错误。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A scholar who works in the archives",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A scholar"
+            },
+            {
+              "role": "定语从句",
+              "text": "who works in the archives"
+            }
+          ]
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can learn that the original meaning of a concept may differ sharply from its modern usage",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can learn"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that the original meaning of a concept may differ sharply from its modern usage"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "this awareness can prevent a serious mistake",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this awareness"
+            },
+            {
+              "role": "谓语",
+              "text": "can prevent"
+            },
+            {
+              "role": "宾语",
+              "text": "a serious mistake"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "who 引导定语从句",
+          "note": "who works in the archives 修饰 A scholar,说明学者的工作场所,使指代精确。"
+        },
+        {
+          "name": "differ from 搭配",
+          "note": "differ sharply from 表示\"与……大不相同\",sharply 加强程度,是同义替换中的常用搭配。"
+        },
+        {
+          "name": "can 表能力与结果",
+          "note": "can learn 表示\"能够了解到\",can prevent 表示\"能够避免\",两个分句构成因果关系。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can learn that the original meaning of a concept may differ sharply from its modern usage",
+          "name": "who 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can learn that the original meaning of a concept may differ sharply from its modern usage",
+          "name": "differ from 搭配"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "can learn that the original meaning of a concept may differ sharply from its modern usage",
+          "name": "can 表能力与结果"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A scholar who works in the archives can learn that the original meaning of a concept may differ sharply from its modern usage, and this awareness can prevent a serious mistake.",
+          "answer": "A scholar who works in the archives can learn that the original meaning of a concept may differ sharply from its modern usage, and this awareness can prevent a serious mistake.",
+          "note": "who works in the archives 修饰 A scholar,说明学者的工作场所,使指代精确。",
+          "point": "who 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A scholar who works in the archives can learn that the original meaning of a concept may differ sharply from its modern usage, and this awareness can prevent a serious mistake.",
+          "answer": "A scholar who works in the archives can learn that the original meaning of a concept may differ sharply from its modern usage, and this awareness can prevent a serious mistake.",
+          "note": "differ sharply from 表示\"与……大不相同\",sharply 加强程度,是同义替换中的常用搭配。",
+          "point": "differ from 搭配"
+        }
+      ]
+    },
+    {
+      "text": "Similarly, an abstraction such as society may sound impressive, but a concrete example can carry far more weight in an oral examination.",
+      "translation": "同样,像 society 这样的抽象概念听起来可能令人印象深刻,但在口试中,具体的例子分量要大得多。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Similarly"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "an abstraction such as society may sound impressive",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an abstraction such as society"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may sound"
+            },
+            {
+              "role": "表语",
+              "text": "impressive"
+            }
+          ]
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a concrete example can carry far more weight in an oral examination",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a concrete example"
+            },
+            {
+              "role": "谓语",
+              "text": "can carry"
+            },
+            {
+              "role": "宾语",
+              "text": "far more weight"
+            },
+            {
+              "role": "地点状语",
+              "text": "in an oral examination"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "系动词 sound 表感官",
+          "note": "sound impressive 中 sound 是系动词,后接形容词作表语,表示\"听起来……\"。"
+        },
+        {
+          "name": "抽象与具体的对比",
+          "note": "用 abstraction 与 concrete example 对比,说明具体例证在论述中的说服力更强。"
+        },
+        {
+          "name": "比较级 far more",
+          "note": "far more weight 中 far 加强比较级,表示\"分量大得多\"。",
+          "example": "Evidence carries far more weight than opinion.",
+          "exampleCn": "证据比观点有分量得多。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a concrete example can carry far more weight in an oral examination",
+          "name": "系动词 sound 表感官"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a concrete example can carry far more weight in an oral examination",
+          "name": "抽象与具体的对比"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a concrete example can carry far more weight in an oral examination",
+          "name": "比较级 far more"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Similarly, an abstraction such as society may sound impressive, but a concrete example can carry far more weight in an oral examination.",
+          "answer": "Similarly, an abstraction such as society may sound impressive, but a concrete example can carry far more weight in an oral examination.",
+          "note": "sound impressive 中 sound 是系动词,后接形容词作表语,表示\"听起来……\"。",
+          "point": "系动词 sound 表感官"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Similarly, an abstraction such as society may sound impressive, but a concrete example can carry far more weight in an oral examination.",
+          "answer": "Similarly, an abstraction such as society may sound impressive, but a concrete example can carry far more weight in an oral examination.",
+          "note": "用 abstraction 与 concrete example 对比,说明具体例证在论述中的说服力更强。",
+          "point": "抽象与具体的对比"
+        }
+      ]
+    },
+    {
+      "text": "Indeed, the relentless pursuit of elegant variation can itself become an enigma, because a writer may prefer style to precision and confuse rather than impress the reader.",
+      "translation": "的确,对文雅变化的执着追求本身可能变成一个谜,因为写作者可能重文采而轻精确,结果让读者困惑而非印象深刻。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Indeed"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the relentless pursuit of elegant variation can itself become an enigma",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the relentless pursuit of elegant variation"
+            },
+            {
+              "role": "谓语",
+              "text": "can itself become"
+            },
+            {
+              "role": "表语",
+              "text": "an enigma"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "a writer may prefer style to precision and confuse rather than impress the reader"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "become 系动词用法",
+          "note": "become 是系动词,后接名词 an enigma 作表语,表示\"变成\"。"
+        },
+        {
+          "name": "prefer A to B 结构",
+          "note": "prefer style to precision 表示\"偏爱文采胜过精确\",是同义替换策略中要注意的取舍。",
+          "example": "She prefers reading to watching TV.",
+          "exampleCn": "她喜欢读书胜过看电视。"
+        },
+        {
+          "name": "rather than 对比结构",
+          "note": "confuse rather than impress 表示\"是困惑而不是留下印象\",强调两个动作的对立。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer may prefer style to precision and confuse rather than impress the reader",
+          "name": "become 系动词用法"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer may prefer style to precision and confuse rather than impress the reader",
+          "name": "prefer A to B 结构"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a writer may prefer style to precision and confuse rather than impress the reader",
+          "name": "rather than 对比结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Indeed, the relentless pursuit of elegant variation can itself become an enigma, because a writer may prefer style to precision and confuse rather than impress the reader.",
+          "answer": "Indeed, the relentless pursuit of elegant variation can itself become an enigma, because a writer may prefer style to precision and confuse rather than impress the reader.",
+          "note": "become 是系动词,后接名词 an enigma 作表语,表示\"变成\"。",
+          "point": "become 系动词用法"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:她喜欢读书胜过看电视。",
+          "answer": "She prefers reading to watching TV.",
+          "note": "prefer style to precision 表示\"偏爱文采胜过精确\",是同义替换策略中要注意的取舍。",
+          "point": "prefer A to B 结构"
+        }
+      ]
+    },
+    {
+      "text": "A supportive committee can usually ask a fair question to reveal the logic of a candidate, whereas a hostile one may expose every weakness, a confrontation that every candidate must face with courage.",
+      "translation": "友好的委员会通常会提出公正的问题来揭示候选人的逻辑,而敌对的委员会则可能暴露每一个弱点,这是每位候选人都必须勇敢面对的对抗。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A supportive committee can usually ask a fair question to reveal the logic of a candidate",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A supportive committee"
+            },
+            {
+              "role": "谓语",
+              "text": "can usually ask"
+            },
+            {
+              "role": "宾语",
+              "text": "a fair question"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to reveal the logic of a candidate"
+            }
+          ]
+        },
+        {
+          "label": "对比连词",
+          "color": "#f6c177",
+          "text": "whereas"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a hostile one may expose every weakness",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a hostile one"
+            },
+            {
+              "role": "谓语",
+              "text": "may expose"
+            },
+            {
+              "role": "宾语",
+              "text": "every weakness"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a confrontation that every candidate must face with courage"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to reveal the logic of a candidate 表示提问的目的,是书面语中表目的的标准句式。"
+        },
+        {
+          "name": "whereas 引导对比",
+          "note": "whereas 连接两种不同的委员会态度,形成鲜明的对照论证。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that every candidate must face with courage 修饰 confrontation,补充说明这种对抗的性质。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A supportive committee can usually ask a fair question to reveal the logic of a candidate",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A supportive committee can usually ask a fair question to reveal the logic of a candidate",
+          "name": "whereas 引导对比"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "A supportive committee can usually ask a fair question to reveal the logic of a candidate",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A supportive committee can usually ask a fair question to reveal the logic of a candidate, whereas a hostile one may expose every weakness, a confrontation that every candidate must face with courage.",
+          "answer": "A supportive committee can usually ask a fair question to reveal the logic of a candidate, whereas a hostile one may expose every weakness, a confrontation that every candidate must face with courage.",
+          "note": "to reveal the logic of a candidate 表示提问的目的,是书面语中表目的的标准句式。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A supportive committee can usually ask a fair question to reveal the logic of a candidate, whereas a hostile one may expose every weakness, a confrontation that every candidate must face with courage.",
+          "answer": "A supportive committee can usually ask a fair question to reveal the logic of a candidate, whereas a hostile one may expose every weakness, a confrontation that every candidate must face with courage.",
+          "note": "whereas 连接两种不同的委员会态度,形成鲜明的对照论证。",
+          "point": "whereas 引导对比"
+        }
+      ]
+    },
+    {
+      "text": "The cultivation of this skill can demand colossal effort, but the reward is clear, because a defence can change from a threat into a genuine discussion of an idea.",
+      "translation": "培养这项技能需要巨大的努力,但回报是明确的,因为答辩可以从威胁转变为对观点的真正讨论。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "The cultivation of this skill can demand colossal effort",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The cultivation of this skill"
+            },
+            {
+              "role": "谓语",
+              "text": "can demand"
+            },
+            {
+              "role": "宾语",
+              "text": "colossal effort"
+            }
+          ]
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the reward is clear",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the reward"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "clear"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "a defence can change from a threat into a genuine discussion of an idea"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "名词化主语",
+          "note": "The cultivation of this skill 将动词 cultivate 名词化,作主语,句式正式。"
+        },
+        {
+          "name": "change from A into B",
+          "note": "change from a threat into a genuine discussion 表示\"从威胁转变为讨论\",说明事物性质的变化。"
+        },
+        {
+          "name": "because 解释原因",
+          "note": "because 从句解释\"回报明确\"的原因,构成因果论证链。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a defence can change from a threat into a genuine discussion of an idea",
+          "name": "名词化主语"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a defence can change from a threat into a genuine discussion of an idea",
+          "name": "change from A into B"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "a defence can change from a threat into a genuine discussion of an idea",
+          "name": "because 解释原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The cultivation of this skill can demand colossal effort, but the reward is clear, because a defence can change from a threat into a genuine discussion of an idea.",
+          "answer": "The cultivation of this skill can demand colossal effort, but the reward is clear, because a defence can change from a threat into a genuine discussion of an idea.",
+          "note": "The cultivation of this skill 将动词 cultivate 名词化,作主语,句式正式。",
+          "point": "名词化主语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The cultivation of this skill can demand colossal effort, but the reward is clear, because a defence can change from a threat into a genuine discussion of an idea.",
+          "answer": "The cultivation of this skill can demand colossal effort, but the reward is clear, because a defence can change from a threat into a genuine discussion of an idea.",
+          "note": "change from a threat into a genuine discussion 表示\"从威胁转变为讨论\",说明事物性质的变化。",
+          "point": "change from A into B"
+        }
+      ]
+    },
+    {
+      "text": "Moreover, the accreditation of an academic programme can now depend on such an oral examination, which may legitimize the degree that an institution may award, and an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence, even in a secular field.",
+      "translation": "此外,学术项目的认证如今可能取决于这样的口试,口试能使机构授予的学位合法化;而对诚实学术的热忱坚守,即使在世俗领域,也仍然是抵御任何险恶扭曲证据的可靠盾牌。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Moreover"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "the accreditation of an academic programme can now depend on such an oral examination",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the accreditation of an academic programme"
+            },
+            {
+              "role": "谓语",
+              "text": "can now depend on"
+            },
+            {
+              "role": "宾语",
+              "text": "such an oral examination"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "which may legitimize the degree that an institution may award"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an ardent commitment to honest scholarship"
+            },
+            {
+              "role": "谓语",
+              "text": "can remain"
+            },
+            {
+              "role": "表语",
+              "text": "the sure shield"
+            },
+            {
+              "role": "定语",
+              "text": "against any sinister twist of evidence"
+            }
+          ]
+        },
+        {
+          "label": "让步状语",
+          "color": "#f6c177",
+          "text": "even in a secular field"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "which 引导非限定性定语从句",
+          "note": "which 指代 such an oral examination,对其作用作补充说明,使句式层次丰富。"
+        },
+        {
+          "name": "名词化与搭配",
+          "note": "commitment to honest scholarship 中,commitment 与介词 to 搭配,是学术英语中的高频搭配。"
+        },
+        {
+          "name": "even in 表让步",
+          "note": "even in a secular field 表示\"即使在世俗领域\",让步补充说明适用范围,使论证更严谨。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence",
+          "name": "which 引导非限定性定语从句"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence",
+          "name": "名词化与搭配"
+        },
+        {
+          "grammarId": "g-s5u2",
+          "phrase": "an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence",
+          "name": "even in 表让步"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Moreover, the accreditation of an academic programme can now depend on such an oral examination, which may legitimize the degree that an institution may award, and an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence, even in a secular field.",
+          "answer": "Moreover, the accreditation of an academic programme can now depend on such an oral examination, which may legitimize the degree that an institution may award, and an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence, even in a secular field.",
+          "note": "which 指代 such an oral examination,对其作用作补充说明,使句式层次丰富。",
+          "point": "which 引导非限定性定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Moreover, the accreditation of an academic programme can now depend on such an oral examination, which may legitimize the degree that an institution may award, and an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence, even in a secular field.",
+          "answer": "Moreover, the accreditation of an academic programme can now depend on such an oral examination, which may legitimize the degree that an institution may award, and an ardent commitment to honest scholarship can remain the sure shield against any sinister twist of evidence, even in a secular field.",
+          "note": "commitment to honest scholarship 中,commitment 与介词 to 搭配,是学术英语中的高频搭配。",
+          "point": "名词化与搭配"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u2",
+      "name": "名词化短语作主语",
+      "note": "the careful replacement of a word with its synonym 将动作名词化,使表达精炼正式,是学术写作的典型句式。",
+      "sourceExample": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+      "sourceExampleCn": "在学术写作中,用同义词谨慎替换某个单词可以避免重复并展示丰富的词汇量,这是每位论文答辩者都应追求的目标。"
+    },
+    {
+      "grammarId": "g-s5u2",
+      "name": "同义替换避免重复",
+      "note": "用 prevent repetition 和 demonstrate a rich vocabulary 两个并列谓语说明同义替换的两个作用。",
+      "sourceExample": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+      "sourceExampleCn": "在学术写作中,用同义词谨慎替换某个单词可以避免重复并展示丰富的词汇量,这是每位论文答辩者都应追求的目标。"
+    },
+    {
+      "grammarId": "g-s5u2",
+      "name": "that 引导定语从句",
+      "note": "that every thesis candidate should pursue 修饰 aim,其中情态动词 should 表建议。",
+      "sourceExample": "In academic writing, the careful replacement of a word with its synonym can prevent repetition and demonstrate a rich vocabulary, an aim that every thesis candidate should pursue.",
+      "sourceExampleCn": "在学术写作中,用同义词谨慎替换某个单词可以避免重复并展示丰富的词汇量,这是每位论文答辩者都应追求的目标。"
+    },
+    {
+      "grammarId": "g-s5u2",
+      "name": "过去分词短语作时间状语",
+      "note": "when used with caution 相当于 when it is used with caution,省略主语和 be 动词,是书面语中的常见省略。",
+      "sourceExample": "A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+      "sourceExampleCn": "同义词词典若谨慎使用,能给出有用的替换词,然而写作者绝不能在不尊重其含义细微差别的情况下接受一个新词。"
+    },
+    {
+      "grammarId": "g-s5u2",
+      "name": "yet 表示转折",
+      "note": "yet 引出与前文相反的情况,体现论证的辩证性。",
+      "sourceExample": "A thesaurus, when used with caution, can reveal a useful alternative, yet a writer must never accept a new term without respect for its subtle difference in meaning.",
+      "sourceExampleCn": "同义词词典若谨慎使用,能给出有用的替换词,然而写作者绝不能在不尊重其含义细微差别的情况下接受一个新词。"
+    }
+  ]
+}

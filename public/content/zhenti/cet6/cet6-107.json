@@ -1,0 +1,63 @@
+{
+ "id": "cet6-107",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第3套) Passage 1",
+ "title": "Mindfulness has been shown to have a number of meaningful health benefits -- ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 455,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Mindfulness has been shown to have a number of meaningful health benefits -- it can help reduce anxiety and promote healing in those suffering from chronic illness.",
+  "The practice is based on an insight first described in ancient Buddhist texts that human beings have the capacity to observe experience without being caught up in it. This means simply that it is possible to observe ourselves having a craving, or a happy thought, or even a scary emotion, without reacting in the moment in a way that amplifies the feeling or sends the mind spiraling off into thinking about old memories or anticipating events.",
+  "This practice of mindfulness can help calm the mind and the body as we learn not to react to experience with likes and dislikes or judgments of good and bad. It does not make us cold or indifferent but more fully present.",
+  "One of the challenges of practicing mindfulness in our contemporary world is that there has been a profound transformation in human attention. The artist Jenny Odell argues that in our \"attention economy\" human attention has been transformed into a commodity that big corporations buy and sell. This economy rests on a technological revolution of mobile phones and social media that makes it possible for corporations to target our attention with their content at every moment.",
+  "The devices most people use are a perpetual diversion from the present moment. The result is that it can feel as though our ability to focus, and be fully present, has been stolen. But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love.",
+  "Most mindfulness research focuses on the individual benefits of the practice, but some scholars assert that we can not only practice mindfulness for ourselves but also practice it for others. It can help us build stronger, healthier relationships.",
+  "The sad truth is that living in the attention economy, most of us have become bad listeners. However, just as it is possible to watch ourselves having an experience without reacting, it's possible to watch another person have an experience without getting tied up in reactivity and judgment.",
+  "The gift of mindfulness is a practice of listening with compassion to others describe their experiences. To give this gift means putting away your phone, turning off social media, and setting aside other common distractions. It means practicing being fully present in another person's presence and listening to them with complete attention without judgment, while resisting the urge to make the interaction about you.",
+  "If we judge the value of gifts based on their price, this gift may seem worthless, but in a distracted world, it is a precious one."
+ ],
+ "questions": [
+  {
+   "q": "文中 “setting” 最接近的意思是?",
+   "options": [
+    "价格",
+    "镶嵌",
+    "有目的的",
+    "减少， 缩小"
+   ],
+   "answer": 1,
+   "analysis": "“setting” 意为「镶嵌」。原文语境:To give this gift means putting away your phone, turning off social media, and setting aside other common distractions.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:But mindfulness can help us ___ the attention economy and relish the things that make life special, like being together with those we love.",
+   "options": [
+    "resist",
+    "build",
+    "judge",
+    "learn"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“But mindfulness can help us resist the attention economy and relish the things that make life special, like being together with those we love.”。空格处应填入 “resist”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Questions 46 to SO are based on the following pge",
+    "Mindfulness has been shown to have a number of meaningful health benefits --",
+    "Home to virgin reefs, rare sharks and vast numbers of exotic fish, the Coral",
+    "Women have historically been paid less"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Mindfulness has been shown to have a number of meaningful health benefits -- it can help reduce anxiety and promote healing in those suffering from chronic illn”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

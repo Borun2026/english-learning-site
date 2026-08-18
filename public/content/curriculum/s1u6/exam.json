@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u6",
+  "stage": 1,
+  "unitId": "s1u6",
+  "title": "真题演练 · 代词与物主",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 代词与物主。",
+  "questions": [
+    {
+      "q": "___ am a student.",
+      "options": [
+        "Me",
+        "My",
+        "I",
+        "Mine"
+      ],
+      "answer": 2,
+      "analysis": "作主语用主格 I。",
+      "point": "g-s1u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This is ___ book.",
+      "options": [
+        "I",
+        "me",
+        "my",
+        "mine"
+      ],
+      "answer": 2,
+      "analysis": "后面有名词 book,用形容词性物主代词 my。",
+      "point": "g-s1u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The blue bike is ___.",
+      "options": [
+        "she",
+        "her",
+        "hers",
+        "herself"
+      ],
+      "answer": 2,
+      "analysis": "后面无名词,用名词性物主代词 hers。",
+      "point": "g-s1u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Please help ___.",
+      "options": [
+        "he",
+        "him",
+        "his",
+        "himself"
+      ],
+      "answer": 1,
+      "analysis": "动词 help 后作宾语,用宾格 him。",
+      "point": "g-s1u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We love ___ school.",
+      "options": [
+        "we",
+        "our",
+        "ours",
+        "us"
+      ],
+      "answer": 1,
+      "analysis": "后面有名词 school,用形容词性物主代词 our。",
+      "point": "g-s1u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Me like English.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I like English.。作主语用主格 I,不能用宾格 me。",
+      "point": "g-s1u6",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

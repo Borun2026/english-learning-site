@@ -1,0 +1,55 @@
+package main
+
+import (
+	"embed"
+	"io/fs"
+	"net/http"
+	"path"
+	"strings"
+)
+
+//go:embed all:dist
+var distFS embed.FS
+
+func spaHandler() http.Handler {
+	sub, err := fs.Sub(distFS, "dist")
+	if err != nil {
+		sub = distFS
+	}
+	fileServer := http.FileServer(http.FS(sub))
+	indexHTML, _ := fs.ReadFile(sub, "index.html")
+	fallback := []byte(`<!doctype html><meta charset="utf-8"><title>english-app</title><p>run build_app.bat first</p>`)
+	if len(indexHTML) == 0 {
+		indexHTML = fallback
+	}
+
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		p := path.Clean("/" + r.URL.Path)
+		if strings.Contains(p, "..") {
+			http.Error(w, "invalid path", http.StatusBadRequest)
+			return
+		}
+		if isReservedPath(p) {
+			http.NotFound(w, r)
+			return
+		}
+		rel := strings.TrimPrefix(p, "/")
+		if rel == "" {
+			rel = "index.html"
+		}
+		if f, err := sub.Open(rel); err == nil {
+			_ = f.Close()
+			fileServer.ServeHTTP(w, r)
+			return
+		}
+		w.Header().Set("Content-Type", "text/html; charset=utf-8")
+		_, _ = w.Write(indexHTML)
+	})
+}
+
+func isReservedPath(p string) bool {
+	return strings.HasPrefix(p, "/api/") ||
+		p == "/__ai_proxy" ||
+		p == "/piper" ||
+		p == "/health"
+}

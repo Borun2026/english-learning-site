@@ -1,0 +1,66 @@
+{
+ "id": "cet6-046",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第2套) Passage 2",
+ "title": "Officials at the White House announced a new space policy focused on managing...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Officials at the White House announced a new space policy focused on managing the increasing number of satellites that companies and governments are launching into space. Space Policy Directive-3 lays out general guidelines for the United States to mitigate the effects of space debris and track and manage traffic in space.",
+  "This policy sets the stage for the Department of Commerce to take over the management of traffic in space. The department will make sure that newly launched satellites don't use radio frequencies that would interfere with existing satellites, and schedule when such new satellites can be launched. This only applies to American space activities, but the hope is that it will help standardize a set of norms in the dawning commercial spaceflight industry throughout the world.",
+  "Space, especially the space directly around our planet, is getting more crowded as more governments and companies launch satellites. One impetus for the policy is that companies are already starting to build massive constellations , comprising hundreds or thousands of satellites with many moving parts among them. With so much stuff in space, and a limited area around our planet, the government wants to reduce the chances of a collision. Two or more satellites slamming into each other could create many more out-of-control bits that would pose even more hazards to the growing collection of satellites in space.",
+  "And it's not like this hasn't happened before. In 2009 an old Russian craft slammed into a communications satellite, creating a cloud of hundreds of pieces of debris and putting other hardware at risk. Journalist Sarah Scoles reports that NASA currently tracks about 24,000 objects in space, and in 2016 the Air Force had to issue 3,995,874 warnings to satellite owners alerting them to a potential nearby threat from another satellite or bit of debris.",
+  "That's why this new policy also includes directions to update the current U.S. Government Orbital Debris",
+  "Mitigation Standard Practices, which already require any entity that launches a satellite or spacecraft to vigorously",
+  "analyze the likelihood that any of their actions, from an unexpected failure or normal operations, will create more",
+  "space debris. It includes accounting for any piece of debris they plan to release over 5mm that might stay in orbit",
+  "for 25 years or more. It might seem surprising to think about an item staying in space for that long, but the oldest satellite still in orbit--Vanguard 1--turned 60 in 2018.",
+  "Agencies and companies throughout the world are working on developing technology that would dispose of",
+  "or capture space debris before it causes serious damage. But for now, the U.S. government is more focused on",
+  "preventing new debris from forming than taking the trash out of orbit."
+ ],
+ "questions": [
+  {
+   "q": "文中 “Commerce” 最接近的意思是?",
+   "options": [
+    "政策，保险单",
+    "贸易， 商业",
+    "使(船)下水，发射,开始,开办",
+    "美洲的"
+   ],
+   "answer": 1,
+   "analysis": "“Commerce” 意为「贸易， 商业」。原文语境:This policy sets the stage for the Department of Commerce to take over the management of traffic in space.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Agencies and companies throughout the world are working on developing technology that would ___ of or capture space debris before it causes serious damage.",
+   "options": [
+    "build",
+    "dispose",
+    "interfere",
+    "control"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Agencies and companies throughout the world are working on developing technology that would dispose of or capture space debris before it causes serious damage.”。空格处应填入 “dispose”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Many people associate their self-worth with their work",
+    "Officials at the White House announced a new space policy focused on managing",
+    "Last year, a child was born at a hospital in the UK with her heart outside he",
+    "Spiders make their presence felt in late August and through early autumn"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Officials at the White House announced a new space policy focused on managing the increasing number of satellites that companies and governments are launching i”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

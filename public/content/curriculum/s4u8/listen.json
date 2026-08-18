@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u8",
+  "stage": 4,
+  "unitId": "s4u8",
+  "title": "听力挑战 · 写作批改讨论",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "写作老师",
+      "line": "Your opening sentence is weak, so I suggest using an inverted structure to attract the reader's attention.",
+      "lineCn": "你的开头句太弱,我建议用倒装结构来吸引读者注意。",
+      "grammar": [
+        { "name": "倒装句增色", "note": "suggest doing 后接建议内容;倒装结构(Never/Only 等提前)可使开头句更有力度。" }
+      ],
+      "options": [
+        { "text": "The teacher suggests improving the opening with inversion.", "correct": true, "feedback": "老师建议用倒装结构强化开头句。" },
+        { "text": "The teacher suggests deleting the opening sentence.", "correct": false, "feedback": "老师是建议改写强化,不是删除。" },
+        { "text": "The teacher thinks the opening sentence is already strong.", "correct": false, "feedback": "老师认为开头句偏弱,与原文相反。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I always rely on simple sentences, but my teacher reminds me that complex structures impress examiners.",
+      "lineCn": "我总是依赖简单句,但老师提醒我,复杂的句式结构才能打动考官。",
+      "grammar": [
+        { "name": "宾语从句转述", "note": "reminds me that... 是宾语从句,传达老师的提醒;复杂结构与简单句形成对比。" }
+      ],
+      "options": [
+        { "text": "The teacher reminds him to use more complex structures.", "correct": true, "feedback": "老师提醒他复杂句式更能打动考官。" },
+        { "text": "Simple sentences always impress the examiners most.", "correct": false, "feedback": "老师的观点正相反:复杂结构才令人印象深刻。" },
+        { "text": "The student never listens to his teacher's advice.", "correct": false, "feedback": "学生只是陈述现状,并未说不听劝告。" }
+      ]
+    },
+    {
+      "speaker": "写作老师",
+      "line": "This paragraph lacks a topic sentence, which means the main point is not clear to the reader.",
+      "lineCn": "这一段缺少主题句,这意味着读者看不清段落要点。",
+      "grammar": [
+        { "name": "非限制性定语从句指代整句", "note": "which means... 中 which 指代前面整个事实(缺少主题句),写作批改常用句式。" }
+      ],
+      "options": [
+        { "text": "The paragraph is unclear because it lacks a topic sentence.", "correct": true, "feedback": "缺少主题句导致要点不清晰。" },
+        { "text": "The paragraph is perfect and needs no changes.", "correct": false, "feedback": "老师明确指出了段落的问题。" },
+        { "text": "The reader always understands the point immediately.", "correct": false, "feedback": "原文说要点不清晰,读者难以把握。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I will memorize several advanced sentence patterns and adapt them to different essay topics.",
+      "lineCn": "我会记住几个高级句型,并把它们套用到不同的作文题目上。",
+      "grammar": [
+        { "name": "句型迁移运用", "note": "memorize... and adapt them 是并列谓语;them 指代句型,体现句型举一反三的用法。" }
+      ],
+      "options": [
+        { "text": "He will memorize patterns and apply them to various topics.", "correct": true, "feedback": "记住句型并灵活迁移到不同题目。" },
+        { "text": "He will use one fixed pattern for every essay topic.", "correct": false, "feedback": "他要做的是灵活适配,而非一套句型走天下。" },
+        { "text": "He will stop learning new sentence patterns.", "correct": false, "feedback": "他恰恰要继续积累句型。" }
+      ]
+    }
+  ]
+}

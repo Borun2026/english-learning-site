@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u2",
+  "stage": 3,
+  "title": "wish 虚拟语气",
+  "explanation": "## wish 的虚拟用法\n\nwish 后接宾语从句时,表示与现实相反、无法实现的愿望,从句必须用虚拟语气。关键是**把握从句的时态回落**。\n\n## 三种时间对应\n\n1. **对现在的愿望**:wish + 过去时(be 用 were),如 I wish I were rich。表示\"现在没有钱\"的遗憾。\n2. **对过去的愿望**:wish + 过去完成时,如 I wish I had studied harder。表示\"过去没做到\"的后悔。\n3. **对将来的愿望**:wish + would/could + 动词原形,如 I wish you would stop smoking。表示对将来难以改变的期待。\n\n## 辨析与替换\n\n- wish 侧重\"难以实现的愿望\",hope 侧重\"可能实现的希望\",hope 后不用虚拟语气。\n- 与 if only 相同:If only I had known! 相当于 I wish I had known。\n- 写作加分句:If only 开头的感叹句比 I wish 更有力,常用于道歉与复盘场景。\n\n## 常考陷阱\n\nwish 本身用过去时(wished)时,从句时态还要再回落一层:He wished he had come earlier(他当时后悔没早点来)。翻译时注意区分\"希望\"与\"但愿\"的语气。",
+  "examples": [
+    { "en": "I wish I were a doctor now.", "cn": "我真希望我现在是一名医生。", "note": "对现在的愿望,be 动词用 were。" },
+    { "en": "She wishes she had not wasted her time.", "cn": "她后悔自己浪费了时间。", "note": "对过去的后悔,用过去完成时。" },
+    { "en": "I wish you would stop complaining.", "cn": "我真希望你不再抱怨。", "note": "对将来的期待,用 would + 动词原形。" },
+    { "en": "If only I had followed your advice!", "cn": "要是当初听了你的建议就好了!", "note": "If only 与 wish 同义,表达强烈的后悔。" }
+  ],
+  "errors": [
+    { "wrong": "I wish I am taller.", "right": "I wish I were taller.", "note": "对现在的愿望用过去时,be 用 were。" },
+    { "wrong": "He wishes he studied harder last year.", "right": "He wishes he had studied harder last year.", "note": "对过去的愿望要用过去完成时,不能只用一般过去时。" },
+    { "wrong": "I hope I were free tomorrow.", "right": "I hope I will be free tomorrow.", "note": "hope 表示可能实现的希望,不用虚拟语气。" }
+  ],
+  "quiz": [
+    { "q": "I wish I ___ how to swim.", "options": ["know", "knew", "have known", "will know"], "answer": 1, "note": "对现在的愿望用过去时 knew。" },
+    { "q": "She wishes she ___ the early bus yesterday.", "options": ["caught", "had caught", "would catch", "catches"], "answer": 1, "note": "对过去的遗憾用过去完成时。" },
+    { "q": "We wish you ___ here with us tomorrow.", "options": ["were", "are", "would be", "had been"], "answer": 2, "note": "对将来的期待用 would + 动词原形。" },
+    { "q": "___ only I had locked the door!", "options": ["If", "Wish", "Hope", "Unless"], "answer": 0, "note": "If only 表强烈愿望,后接虚拟语气。" },
+    { "q": "He wished he ___ more careful in the interview.", "options": ["was", "is", "had been", "would be"], "answer": 2, "note": "wished 本身过去时,从句时态再回落一层,用 had been。" }
+  ]
+}

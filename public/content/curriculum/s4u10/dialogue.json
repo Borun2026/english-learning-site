@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u10",
+  "stage": 4,
+  "unitId": "s4u10",
+  "scene": "答辩演练",
+  "goal": "完成一次模拟答辩并回应提问",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "答辩委员会主席 Professor Zhou",
+      "line": "We are here today to hold a mock defense of your thesis proposal, and you will be expected to present the core ideas clearly and then respond to the committee's questions with confidence.",
+      "lineCn": "今天在这里对你的开题报告进行模拟答辩,你需要清晰地陈述核心思想,然后自信地回应委员会的提问。",
+      "grammar": [
+        { "name": "被动语态 will be expected + 不定式并列", "note": "will be expected to present and respond 是被动语态后接两个并列不定式,正式场合常用此结构提出要求。" }
+      ],
+      "options": [
+        { "text": "Thank you, Professor Zhou. My study investigates how collaborative writing tasks affect the lexical accuracy of advanced EFL learners, using a mixed-methods design with both quantitative analysis and follow-up interviews.", "textCn": "谢谢周教授。我的研究考察协作写作任务如何影响高级英语学习者的词汇准确性,采用混合方法设计,包括定量分析和后续访谈。", "feedback": "研究问题、对象、方法一句话讲清,开场即展示了清晰的逻辑框架。", "next": "n2" },
+        { "text": "Well, my topic is about writing and words and learners, and I have done a lot of reading on it.", "textCn": "我的题目是关于写作、词汇和学习者的,我读了很多相关文献。", "feedback": "表述含糊、信息量低,答辩开场最关键的三分钟内没有给出任何实质内容。", "next": "n3" },
+        { "text": "Actually, I was going to change my topic at the last minute, so just ask me anything about writing in general.", "textCn": "其实我最后一刻想换题目,你们随便问点写作相关的问题就行。", "feedback": "在答辩现场才想换题,说明准备不足,委员会无法认真对待。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "答辩委员会成员 Professor Chen",
+      "line": "Interesting design. However, I am concerned about the feasibility of the follow-up interviews, because your sample size is thirty students, and conducting thirty individual interviews within one month seems ambitious, to say the least.",
+      "lineCn": "设计有趣。不过我担心后续访谈的可行性,因为样本量是三十名学生,一个月内完成三十场个人访谈,至少可以说是雄心勃勃。",
+      "grammar": [
+        { "name": "because 原因从句 + to say the least 插入语", "note": "because 引导双分句原因,to say the least 是评注性插入语,用来委婉表达质疑,是答辩现场得体发问的模板。" }
+      ],
+      "options": [
+        { "text": "That is a fair concern. My plan is to conduct group interviews of three to four students at a time, which reduces the session count to about eight while still capturing individual voices through written reflections collected beforehand.", "textCn": "这是个合理的顾虑。我的计划是每次 3 至 4 人分组访谈,场次可减到八场左右,同时通过事先收集的书面反思保留个体声音。", "feedback": "正面承认问题、给出替代方案并用数据支撑,这是答辩中教科书式的回应。", "next": "n4" },
+        { "text": "I have already booked all thirty interviews, so the schedule problem is not mine, and you can check with the students yourself if you do not believe me.", "textCn": "三十场访谈我都约好了,时间问题不归我管,不信你自己去问学生。", "feedback": "回怼委员并转移举证责任,态度对抗,答辩大忌。", "next": "n3" },
+        { "text": "If the interviews are too difficult, I can simply remove that part from the study, since nobody will compare the two designs anyway.", "textCn": "如果访谈太难,我直接删掉这部分研究就行,反正也没人对比两种设计。", "feedback": "为求省事轻易砍掉方法核心,委员会只会怀疑你的研究价值。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "答辩委员会主席 Professor Zhou",
+      "line": "I am afraid the committee is having difficulty following your presentation, and since the purpose of this mock defense is precisely to help you improve, we would like you to slow down and present your research question, design, and expected outcomes one by one.",
+      "lineCn": "恐怕委员会难以跟上你的陈述,而这次模拟答辩的目的恰恰是帮你改进,我们希望你把研究问题、设计和预期成果逐项放慢讲清楚。",
+      "grammar": [
+        { "name": "since 原因从句 + 不定式 to help 作表语", "note": "the purpose is precisely to help 中不定式作表语,since 引导原因,one by one 是方式状语,主席的批评温和而有建设性。" }
+      ],
+      "options": [
+        { "text": "I apologize for the confusion. Let me restate clearly: my research question is whether group writing improves lexical accuracy; the design is a pre-test and post-test comparison between two classes; and the expected outcome is a measurable improvement in the treatment group.", "textCn": "抱歉造成混乱。我重新清晰陈述:研究问题是小组写作能否提升词汇准确性;设计是两班前后测对比;预期结果是实验组的可测量提升。", "feedback": "分号分隔三要素,结构一目了然,成功把答辩拉回正轨。", "next": "n4" },
+        { "text": "I think I explained it clearly already, so maybe the committee members did not listen carefully.", "textCn": "我觉得我刚才讲得很清楚,可能是各位委员没仔细听。", "feedback": "把责任推给委员会,在答辩中这是最致命的失分行为。", "next": "fail1" },
+        { "text": "Could we skip this part? The printed proposal in your hands contains everything, so please just read it yourselves.", "textCn": "这段能跳过吗?你们手里的纸质开题报告都写着,请自己读吧。", "feedback": "要求评委自己看材料,彻底放弃答辩的职责,印象分归零。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "答辩委员会成员 Professor Chen",
+      "line": "Much clearer, thank you. One more question: your expected outcome assumes that learners improve because of collaboration itself, but how will you rule out the alternative explanation that the improvement simply comes from spending more time on writing tasks?",
+      "lineCn": "清楚多了,谢谢。还有一个问题:你的预期结果假设进步来自协作本身,但如何排除另一种解释——进步仅仅来自花在写作任务上更多的时间?",
+      "grammar": [
+        { "name": "同位语从句 + 名词化表达", "note": "the alternative explanation that the improvement comes from 中 that 引导同位语从句,spending more time 是动名词作介词宾语,质疑层层深入。" }
+      ],
+      "options": [
+        { "text": "That is precisely the weakness I want to address, and my design controls for it: the control group will spend the same amount of time on individual writing of equal length, so that the only difference between the two groups lies in the collaborative element itself.", "textCn": "这恰是我想处理的关键弱点,我的设计已经加以控制:对照组用同样时间完成等长个体写作,这样两组唯一差异就在于协作要素本身。", "feedback": "预判质疑、给出对照设计、逻辑闭环,完美的答辩收尾。", "next": "success" },
+        { "text": "I have not thought about that possibility, but if it turns out to be true, I will just change my conclusion to match the result.", "textCn": "我没想过这种可能,但如果真发生了,我就改结论去迁就结果。", "feedback": "先暴露设计漏洞,又以改结论应付,学术严谨性受到严重质疑。", "next": "fail2" },
+        { "text": "In my view, this alternative explanation is not worth considering, because my supervisor believes collaboration works.", "textCn": "我认为这种解释不值得考虑,因为我的导师相信协作有效。", "feedback": "用权威代替论证,回避问题本身,委员会无法接受。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "答辩委员会主席 Professor Zhou",
+      "line": "That is a well-prepared response, and it shows that you have anticipated the key threats to your design. On behalf of the committee, I declare this mock defense a pass, and we look forward to your real defense.",
+      "lineCn": "这是准备充分的回答,表明你预判了设计的关键威胁。我代表委员会宣布本次模拟答辩通过,期待你的正式答辩。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "答辩委员会主席 Professor Zhou",
+      "line": "Given the presentation difficulties, I suggest we pause the session here so that you can reorganize your materials, and we will reschedule the mock defense next week.",
+      "lineCn": "鉴于陈述存在问题,我建议本次模拟答辩暂停,请你重新整理材料,我们下周重新安排。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "答辩委员会主席 Professor Zhou",
+      "line": "I am afraid the committee cannot approve the design in its current form, so please revise your methodology with your supervisor and we will hold another mock defense before the official one.",
+      "lineCn": "恐怕委员会无法认可当前形式的设计,请与导师一起修改方法部分,正式答辩前我们会再安排一次模拟。",
+      "end": true,
+      "success": false
+    }
+  }
+}

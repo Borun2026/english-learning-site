@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u10",
+  "stage": 2,
+  "unitId": "s2u10",
+  "title": "真题演练 · 连词与状语从句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 连词与状语从句。",
+  "questions": [
+    {
+      "q": "He was ill, ___ he didn't go to school.",
+      "options": [
+        "and",
+        "but",
+        "so",
+        "or"
+      ],
+      "answer": 2,
+      "analysis": "生病导致没上学,表结果用 so。",
+      "point": "g-s2u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ it rained heavily, they went on working.",
+      "options": [
+        "Because",
+        "Although",
+        "So",
+        "And"
+      ],
+      "answer": 1,
+      "analysis": "尽管下大雨仍继续工作,表让步用 although。",
+      "point": "g-s2u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I like apples, ___ my sister likes bananas.",
+      "options": [
+        "but",
+        "so",
+        "because",
+        "or"
+      ],
+      "answer": 0,
+      "analysis": "喜好相反,表转折用 but。",
+      "point": "g-s2u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He didn't come to class ___ he was ill.",
+      "options": [
+        "so",
+        "because",
+        "but",
+        "although"
+      ],
+      "answer": 1,
+      "analysis": "说明原因用 because。",
+      "point": "g-s2u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Work hard, ___ you will fail the exam.",
+      "options": [
+        "and",
+        "but",
+        "or",
+        "so"
+      ],
+      "answer": 2,
+      "analysis": "\"否则\"用 or,祈使句 + or 表警告。",
+      "point": "g-s2u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Because he was ill, so he didn't come.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Because he was ill, he didn't come.。because 和 so 不能同时出现在一个句子里。",
+      "point": "g-s2u10",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

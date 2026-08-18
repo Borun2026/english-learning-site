@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u2",
+  "stage": 3,
+  "unitId": "s3u2",
+  "title": "听力挑战 · 懊悔与愿望",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "I really wish I had started learning English much earlier.",
+      "lineCn": "我真希望我早一点开始学英语。",
+      "grammar": [
+        { "name": "wish + 过去完成式", "note": "对过去事实的遗憾用 wish + had done,表示'但愿当时……'。" }
+      ],
+      "options": [
+        { "text": "It is never too late to begin.", "correct": true, "feedback": "安慰鼓励对方,回应遗憾心情得体。" },
+        { "text": "You started English last week.", "correct": false, "feedback": "与'希望早学'的遗憾矛盾,事实不符。" },
+        { "text": "I will start English tomorrow.", "correct": false, "feedback": "谈自己的计划,没有回应对方的懊悔。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "If only I had kept my old job at the bank that year.",
+      "lineCn": "要是那年我留在银行的工作就好了。",
+      "grammar": [
+        { "name": "If only 虚拟语气", "note": "If only 后接 had done 表达对过去未能实现的愿望的强烈遗憾。" }
+      ],
+      "options": [
+        { "text": "You made a brave choice back then.", "correct": true, "feedback": "肯定对方当年的决定,安慰自然得体。" },
+        { "text": "You kept your job yesterday.", "correct": false, "feedback": "与辞职的遗憾事实矛盾,时态混乱。" },
+        { "text": "Your old job is in the north.", "correct": false, "feedback": "谈工作的地理位置,没有回应心情。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "I wish I could speak French as well as you.",
+      "lineCn": "我希望能像你一样把法语说得那么好。",
+      "grammar": [
+        { "name": "wish + could 表愿望", "note": "wish + could do 表达对现在状况的虚拟愿望。" }
+      ],
+      "options": [
+        { "text": "You can start with simple words and build up.", "correct": true, "feedback": "给出可行建议,鼓励对方学习法语。" },
+        { "text": "You spoke French well last month.", "correct": false, "feedback": "与'现在还不会'的愿望矛盾。" },
+        { "text": "French is spoken in Canada.", "correct": false, "feedback": "陈述法语的使用地区,没有回应愿望。" }
+      ]
+    }
+  ]
+}

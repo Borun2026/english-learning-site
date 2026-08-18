@@ -1,0 +1,24 @@
+{
+ "id": "wr-001",
+ "type": "magazine",
+ "journal": "Wired",
+ "journalEn": "Wired",
+ "title": "How Quantum Computing Will Change Everything",
+ "date": "2026-04-30",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 500,
+ "tags": [
+  "technology",
+  "computing",
+  "quantum"
+ ],
+ "paragraphs": [
+  "Quantum computing has been \"ten years away\" for the past thirty years. But this time, the experts say, it really is different. In December 2024, Google's quantum computer \"Willow\" achieved a milestone that had eluded researchers for decades: it performed a calculation in under five minutes that would take the world's fastest classical supercomputer longer than the age of the universe to complete.",
+  "This achievement does not mean quantum computers are ready for practical use. The calculation was a benchmark test, not a real-world problem. But it demonstrated something crucial: quantum error correction works. This has been the central obstacle to building useful quantum computers. Qubits, the fundamental units of quantum information, are extraordinarily fragile. They can be disturbed by the slightest vibration, temperature change, or stray electromagnetic field.",
+  "Google's breakthrough involved encoding information across multiple physical qubits to create a single \"logical qubit\" that is more stable and less error-prone. As more physical qubits were added, the error rate decreased — the opposite of what happens with classical computers. This phenomenon, called \"below threshold\" error correction, is the holy grail of quantum computing.",
+  "The implications are staggering. A sufficiently powerful quantum computer could revolutionize drug discovery by simulating molecular interactions with perfect accuracy. It could transform materials science, enabling the design of new materials with properties that currently exist only in theory. It could break most of the encryption that protects the world's digital communications.",
+  "That last point is both a promise and a threat. Governments and companies are racing to develop \"post-quantum cryptography\" — encryption methods that can withstand attacks from quantum computers. The transition could be the largest upgrade in the history of cybersecurity.",
+  "Skeptics warn that the hype around quantum computing has led to unrealistic expectations before. They are right to be cautious. But the fundamental physics is sound, and the engineering challenges, while formidable, are being solved one by one. The quantum future may finally be arriving."
+ ]
+}

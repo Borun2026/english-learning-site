@@ -1,0 +1,58 @@
+{
+ "id": "cet6-037",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第1套) Passage 1",
+ "title": "\" The dangerous thing about lying is people don't understand how the act chan...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 451,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "\" The dangerous thing about lying is people don't understand how the act changes us,\" says Dan Ariely, behavioural psychologist at Duke University. Psychologists have documented children lying as early as the age of two. Some experts even consider lying a developmental milestone, like crawling and walking, because it requires sophisticated planning, attention and the ability to see a situation from someone else's perspective to manipulate them. But, for most people, lying gets limited as we develop a sense of morality and the ability to self-regulate.",
+  "Harvard cognitive neuroscientist Joshua Greene says, for most of us, lying takes work. In studies, he gave study subjects a chance to deceive for monetary gain while examining their brains in a functional MRI machine, which maps blood flow to active parts of the brain. Some people told the truth instantly and instinctively. But others opted to lie, and they showed increased activity in their frontal parietal (M:,fl al.J ) control network, which is involved in difficult or complex thinking. This suggests that they were deciding between truth and dishonesty-and ultimately opting for the latter. For a follow-up analysis, he found that people whose neural ( if al.J ) reward centres were more active when they won money were also more likely to be among the group of liars-suggesting that lying may have to do with the inability to resist temptation.",
+  "External conditions also matter in terms of when and how often we lie.We are more likely to lie, research shows, when we are able to rationalise it, when we are stressed and fatigued or see others being dishonest. And we are less likely to lie when we have moral reminders or when we think others are watching. \" We as a society need to understand that, when we don't punish lying, we increase the probability it will happen again,\" Ariely says.",
+  "In a 20 1 6 study published in the journal Nature Neuroscience, Ariely and colleagues showed how dishonesty alters people's brains, making it easier to tell lies in the future. When people uttered a falsehood, the scientists noticed a burst of activity in their arnygdala. The arnygdala is a crucial part of the brain that produces fear, anxiety and emotional responses including that sinking, guilty feeling you get when you lie. But when scientists had their subjects play a game-in which they won money by deceiving their partner, they noticed the negative signals from the amygdala began to decrease. Not only that, but when people faced no consequences for dishonesty, their falsehoods tended to get even more sensational. This means that if you give people multiple opportunities to lie for their own benefit, they start with little lies which get bigger over time."
+ ],
+ "questions": [
+  {
+   "q": "文中 “probability” 最接近的意思是?",
+   "options": [
+    "感情的， 情绪的",
+    "货币,钱",
+    "可能性",
+    "道德，美德"
+   ],
+   "answer": 2,
+   "analysis": "“probability” 意为「可能性」。原文语境:\" We as a society need to understand that, when we don't punish lying, we increase the probability it will happen again,\" Ariely says.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\" The dangerous thing about lying is people don't understand how the act changes us,\" says Dan Ariely, behavioural ___ at Duke University.",
+   "options": [
+    "psychologist",
+    "chance",
+    "Nature",
+    "matter"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“\" The dangerous thing about lying is people don't understand how the act changes us,\" says Dan Ariely, behavioural psychologist at Duke University.”。空格处应填入 “psychologist”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Some people in the US have asserted that forgiving student loan debt is one w",
+    "Questions 51 to SS are based on the following passage",
+    "America's education system has become less a ladder of opportunity than a str",
+    "\" The dangerous thing about lying is people don't understand how the act chan"
+   ],
+   "answer": 3,
+   "analysis": "本文以“\" The dangerous thing about lying is people don't understand how the act changes us,\" says Dan Ariely, behavioural psychologist at Duke University.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

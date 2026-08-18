@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u9",
+  "stage": 2,
+  "unitId": "s2u9",
+  "title": "听力挑战 · 猜测包裹去向",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "同事",
+      "line": "I cannot find my package. Where could it be?",
+      "lineCn": "我找不到我的包裹了,它可能在哪儿?",
+      "grammar": [
+        { "name": "情态动词 could 表推测", "note": "could 表示'可能',用于对现在情况的推测。" }
+      ],
+      "options": [
+        { "text": "It might be at the front desk.", "correct": true, "feedback": "might be 表示推测位置,语气合理自然。" },
+        { "text": "It is definitely in my hand.", "correct": false, "feedback": "语气过于肯定,且与找不到包裹矛盾。" },
+        { "text": "It will arrive tomorrow.", "correct": false, "feedback": "谈的是将来到达,不是推测当前位置。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Do you think the delivery has come today?",
+      "lineCn": "你觉得今天的快递到了吗?",
+      "grammar": [
+        { "name": "must have done 表肯定推测", "note": "must have + 过去分词,表示对过去情况相当肯定的推测。" }
+      ],
+      "options": [
+        { "text": "It must have arrived this morning.", "correct": true, "feedback": "must have arrived 对过去到达做肯定推测,恰当。" },
+        { "text": "It has arrived in my hometown.", "correct": false, "feedback": "快递到家乡与当前场景矛盾,答非所问。" },
+        { "text": "It arrives every day.", "correct": false, "feedback": "一般现在时谈惯例,没有推测今天的快递。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Why is the box still missing from the shelf?",
+      "lineCn": "箱子为什么还不在架子上?",
+      "grammar": [
+        { "name": "may have done 表可能推测", "note": "may have + 过去分词,表示对过去发生情况的可能推测。" }
+      ],
+      "options": [
+        { "text": "Someone may have taken the wrong box.", "correct": true, "feedback": "may have taken 对过去情况的推测,解释了原因。" },
+        { "text": "Someone takes boxes every day.", "correct": false, "feedback": "一般现在时谈习惯,不能解释箱子为何消失。" },
+        { "text": "The box is empty and light.", "correct": false, "feedback": "描述箱子状态,没有推测去向。" }
+      ]
+    }
+  ]
+}

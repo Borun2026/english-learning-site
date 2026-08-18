@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u11",
+  "stage": 3,
+  "unitId": "s3u11",
+  "title": "听力挑战 · 商务邮件沟通",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "同事",
+      "line": "Did you attach the file to the email this morning?",
+      "lineCn": "你今天早上把文件附到邮件里了吗?",
+      "grammar": [
+        { "name": "介词 to 表对象", "note": "attach...to 是固定搭配,to 引出附件的接收对象。" }
+      ],
+      "options": [
+        { "text": "Yes, I attached it to the second message.", "correct": true, "feedback": "attached to 搭配正确,明确回应。" },
+        { "text": "No, the file is too large to print.", "correct": false, "feedback": "谈打印困难,没有回应是否附上文件。" },
+        { "text": "I emailed the team about the delay.", "correct": false, "feedback": "谈通知团队延期,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "主管",
+      "line": "To whom should we address this invoice in the end?",
+      "lineCn": "这张发票最后应该寄给谁?",
+      "grammar": [
+        { "name": "介词 to 表对象", "note": "address...to 表示'把……寄送给',to 后接对象。" }
+      ],
+      "options": [
+        { "text": "Please send it to the finance department.", "correct": true, "feedback": "明确寄送对象,to 的使用正确。" },
+        { "text": "The invoice was sent last Friday.", "correct": false, "feedback": "谈寄送时间,没有回答寄给谁。" },
+        { "text": "We addressed the envelope carefully.", "correct": false, "feedback": "谈写地址的动作,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Have you replied to the client about the new deadline?",
+      "lineCn": "你就新的截止日期回复客户了吗?",
+      "grammar": [
+        { "name": "介词 within 与 before", "note": "within 表示'在……之内',before 表示'在……之前',表时间界限。" }
+      ],
+      "options": [
+        { "text": "I replied within an hour, before the end of day.", "correct": true, "feedback": "within 与 before 使用准确,回复及时。" },
+        { "text": "I will reply after the deadline.", "correct": false, "feedback": "在截止日期之后回复,明显失当。" },
+        { "text": "The client replied to our question.", "correct": false, "feedback": "主客颠倒,是客户回复了我们。" }
+      ]
+    }
+  ]
+}

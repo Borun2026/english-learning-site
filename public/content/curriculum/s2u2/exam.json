@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u2",
+  "stage": 2,
+  "unitId": "s2u2",
+  "title": "真题演练 · 现在完成时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 现在完成时。",
+  "questions": [
+    {
+      "q": "She ___ already ___ her work.",
+      "options": [
+        "has / finish",
+        "has / finished",
+        "have / finished",
+        "is / finishing"
+      ],
+      "answer": 1,
+      "analysis": "第三人称单数用 has + 过去分词 finished。",
+      "point": "g-s2u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I have ___ here since 2018.",
+      "options": [
+        "live",
+        "lived",
+        "living",
+        "lives"
+      ],
+      "answer": 1,
+      "analysis": "since + 时间点,现在完成时,用过去分词 lived。",
+      "point": "g-s2u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ you ever ___ to the Great Wall?",
+      "options": [
+        "Have / be",
+        "Have / been",
+        "Has / been",
+        "Do / be"
+      ],
+      "answer": 1,
+      "analysis": "ever 用于完成时疑问句,you 用 have + been。",
+      "point": "g-s2u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He hasn't arrived ___.",
+      "options": [
+        "already",
+        "just",
+        "yet",
+        "ever"
+      ],
+      "answer": 2,
+      "analysis": "yet 用于否定句,放在句末。",
+      "point": "g-s2u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "They ___ just ___ lunch.",
+      "options": [
+        "has / had",
+        "have / had",
+        "had / had",
+        "has / has"
+      ],
+      "answer": 1,
+      "analysis": "主语 they 用 have,过去分词是 had。",
+      "point": "g-s2u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I have gone to Beijing twice.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I have been to Beijing twice.。去过又回来了用 been to;gone to 表示去了还没回来。",
+      "point": "g-s2u2",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

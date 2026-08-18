@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u10",
+  "stage": 3,
+  "unitId": "s3u10",
+  "title": "真题演练 · 短语动词",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 短语动词。",
+  "questions": [
+    {
+      "q": "Can you ___ this new word in the dictionary?",
+      "options": [
+        "look up",
+        "look after",
+        "look forward to",
+        "look down on"
+      ],
+      "answer": 0,
+      "analysis": "look up 表示\"查阅\"。",
+      "point": "g-s3u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We have to ___ the bad weather.",
+      "options": [
+        "put up with",
+        "put on",
+        "put off",
+        "put out"
+      ],
+      "answer": 0,
+      "analysis": "put up with 表示\"忍受\"。",
+      "point": "g-s3u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The plane will ___ at 9 a.m.",
+      "options": [
+        "take off",
+        "take up",
+        "take over",
+        "take after"
+      ],
+      "answer": 0,
+      "analysis": "take off 表示\"起飞\"。",
+      "point": "g-s3u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He ___ the meeting because he was ill.",
+      "options": [
+        "put off",
+        "put up",
+        "put down",
+        "put out"
+      ],
+      "answer": 0,
+      "analysis": "put off 表示\"推迟\"。",
+      "point": "g-s3u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I can't ___ what he means.",
+      "options": [
+        "figure out",
+        "figure in",
+        "figure for",
+        "figure on"
+      ],
+      "answer": 0,
+      "analysis": "figure out 表示\"弄明白\"。",
+      "point": "g-s3u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Please turn on it.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Please turn it on.。代词宾语必须放在\"动词+副词\"中间。",
+      "point": "g-s3u10",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

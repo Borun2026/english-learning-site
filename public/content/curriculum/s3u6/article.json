@@ -1,0 +1,1216 @@
+{
+  "id": "a-s3u6",
+  "stage": 3,
+  "unitId": "s3u6",
+  "title": "Address to the Graduates",
+  "newWords": [
+    "pragmatic",
+    "definitive",
+    "transcend",
+    "nonetheless",
+    "visualize",
+    "hazardous",
+    "intrinsic",
+    "credible",
+    "embody",
+    "apt",
+    "reassure",
+    "setback",
+    "enlighten",
+    "universally",
+    "eligible",
+    "collaborate",
+    "forthcoming"
+  ],
+  "sentences": [
+    {
+      "text": "Never will I forget this day at our university.",
+      "translation": "我永远不会忘记我们在大学的这一天。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "Never will I forget this day",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Never"
+            },
+            {
+              "role": "谓语(部分倒装)",
+              "text": "will I forget"
+            },
+            {
+              "role": "宾语",
+              "text": "this day"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "at our university"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "否定副词前置的倒装",
+          "note": "never 置于句首,助动词提到主语前,构成部分倒装。",
+          "example": "Never have I seen such a view.",
+          "exampleCn": "我从未见过这样的景色。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Never will I forget this day",
+          "name": "否定副词前置的倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我从未见过这样的景色。",
+          "answer": "Never have I seen such a view.",
+          "note": "never 置于句首,助动词提到主语前,构成部分倒装。",
+          "point": "否定副词前置的倒装"
+        }
+      ]
+    },
+    {
+      "text": "Only when we face our fear can we discover our true strength.",
+      "translation": "只有面对恐惧,我们才能发现真正的力量。",
+      "chunks": [
+        {
+          "label": "条件状语从句(only when)",
+          "color": "#f6c177",
+          "text": "Only when we face our fear"
+        },
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "can we discover our true strength",
+          "parts": [
+            {
+              "role": "谓语(部分倒装)",
+              "text": "can we discover"
+            },
+            {
+              "role": "宾语",
+              "text": "our true strength"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "only + 状语从句 的倒装",
+          "note": "only 修饰状语置于句首时,主句用部分倒装。",
+          "example": "Only then did I understand.",
+          "exampleCn": "只有那时我才明白。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "can we discover our true strength",
+          "name": "only + 状语从句 的倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:只有那时我才明白。",
+          "answer": "Only then did I understand.",
+          "note": "only 修饰状语置于句首时,主句用部分倒装。",
+          "point": "only + 状语从句 的倒装"
+        }
+      ]
+    },
+    {
+      "text": "Not only will the course improve our English, but it will also open a new door for us.",
+      "translation": "这门课程不仅会提高我们的英语,还会为我们打开一扇新的大门。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "Not only will the course improve our English",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Not only"
+            },
+            {
+              "role": "谓语(部分倒装)",
+              "text": "will the course improve"
+            },
+            {
+              "role": "宾语",
+              "text": "our English"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "it will also open a new door for us"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not only...but also...",
+          "note": "not only 置于句首时前半句倒装。",
+          "example": "Not only did he win, but he also broke the record.",
+          "exampleCn": "他不仅赢了,还打破了纪录。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Not only will the course improve our English",
+          "name": "not only...but also..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他不仅赢了,还打破了纪录。",
+          "answer": "Not only did he win, but he also broke the record.",
+          "note": "not only 置于句首时前半句倒装。",
+          "point": "not only...but also..."
+        }
+      ]
+    },
+    {
+      "text": "Seldom do we see such a wonderful chance.",
+      "translation": "我们很少看到这么好的机会。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "Seldom do we see such a wonderful chance",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Seldom"
+            },
+            {
+              "role": "谓语(部分倒装)",
+              "text": "do we see"
+            },
+            {
+              "role": "宾语",
+              "text": "such a wonderful chance"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "频率副词前置倒装",
+          "note": "seldom 置于句首,构成部分倒装。",
+          "example": "Seldom does he complain.",
+          "exampleCn": "他很少抱怨。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Seldom do we see such a wonderful chance",
+          "name": "频率副词前置倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他很少抱怨。",
+          "answer": "Seldom does he complain.",
+          "note": "seldom 置于句首,构成部分倒装。",
+          "point": "频率副词前置倒装"
+        }
+      ]
+    },
+    {
+      "text": "So great is the challenge that we must work together.",
+      "translation": "挑战如此巨大,我们必须共同努力。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "So great is the challenge",
+          "parts": [
+            {
+              "role": "表语",
+              "text": "So great"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "主语",
+              "text": "the challenge"
+            }
+          ]
+        },
+        {
+          "label": "结果状语从句",
+          "color": "#c8a5e0",
+          "text": "that we must work together"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "so...that 倒装",
+          "note": "so + 表语置于句首,主谓倒装。",
+          "example": "So fast did he run that we lost him.",
+          "exampleCn": "他跑得太快,我们跟丢了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "that we must work together",
+          "name": "so...that 倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他跑得太快,我们跟丢了。",
+          "answer": "So fast did he run that we lost him.",
+          "note": "so + 表语置于句首,主谓倒装。",
+          "point": "so...that 倒装"
+        }
+      ]
+    },
+    {
+      "text": "Hardly can we express our gratitude for every lesson.",
+      "translation": "我们几乎无法表达对每一堂课的感激之情。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "Hardly can we express our gratitude",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Hardly"
+            },
+            {
+              "role": "谓语(部分倒装)",
+              "text": "can we express"
+            },
+            {
+              "role": "宾语",
+              "text": "our gratitude"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "for every lesson"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hardly 前置倒装",
+          "note": "hardly 置于句首,助动词提前。",
+          "example": "Hardly can I believe it.",
+          "exampleCn": "我几乎不敢相信。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Hardly can we express our gratitude",
+          "name": "hardly 前置倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我几乎不敢相信。",
+          "answer": "Hardly can I believe it.",
+          "note": "hardly 置于句首,助动词提前。",
+          "point": "hardly 前置倒装"
+        }
+      ]
+    },
+    {
+      "text": "Here is the result of all our effort.",
+      "translation": "这就是我们全部努力的成果。",
+      "chunks": [
+        {
+          "label": "主干(完全倒装)",
+          "color": "#a8dab5",
+          "text": "Here is the result of all our effort",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Here"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "主语",
+              "text": "the result of all our effort"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "here 引导的完全倒装",
+          "note": "here 置于句首,主语与谓语完全倒装。",
+          "example": "Here comes the bus.",
+          "exampleCn": "公交车来了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Here is the result of all our effort",
+          "name": "here 引导的完全倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:公交车来了。",
+          "answer": "Here comes the bus.",
+          "note": "here 置于句首,主语与谓语完全倒装。",
+          "point": "here 引导的完全倒装"
+        }
+      ]
+    },
+    {
+      "text": "Hardly do we leave this place before we miss it.",
+      "translation": "我们一离开这个地方就开始想念它。",
+      "chunks": [
+        {
+          "label": "主干(倒装句)",
+          "color": "#a8dab5",
+          "text": "Hardly do we leave this place",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "Hardly"
+            },
+            {
+              "role": "谓语(部分倒装)",
+              "text": "do we leave"
+            },
+            {
+              "role": "宾语",
+              "text": "this place"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "before we miss it"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hardly...before 结构",
+          "note": "意为\"一……就……\"。",
+          "example": "Hardly had we started before it rained.",
+          "exampleCn": "我们一出发就下雨了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Hardly do we leave this place",
+          "name": "hardly...before 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们一出发就下雨了。",
+          "answer": "Hardly had we started before it rained.",
+          "note": "意为\"一……就……\"。",
+          "point": "hardly...before 结构"
+        }
+      ]
+    },
+    {
+      "text": "May you realize your dream, and may your future shine.",
+      "translation": "愿你们实现梦想,愿你们的未来闪闪发光。",
+      "chunks": [
+        {
+          "label": "主干(倒装祈愿句)",
+          "color": "#a8dab5",
+          "text": "May you realize your dream",
+          "parts": [
+            {
+              "role": "情态动词(前置)",
+              "text": "May"
+            },
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语+宾语",
+              "text": "realize your dream"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(倒装祈愿句)",
+          "color": "#a8dab5",
+          "text": "may your future shine",
+          "parts": [
+            {
+              "role": "情态动词(前置)",
+              "text": "may"
+            },
+            {
+              "role": "主语",
+              "text": "your future"
+            },
+            {
+              "role": "谓语",
+              "text": "shine"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "may 祈愿倒装",
+          "note": "may 置于句首表祝愿,主谓不倒装语序为 may + 主语 + 动词。",
+          "example": "May you succeed.",
+          "exampleCn": "祝你成功。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "May you realize your dream",
+          "name": "may 祈愿倒装"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:祝你成功。",
+          "answer": "May you succeed.",
+          "note": "may 置于句首表祝愿,主谓不倒装语序为 may + 主语 + 动词。",
+          "point": "may 祈愿倒装"
+        }
+      ]
+    },
+    {
+      "text": "Should a setback shake your confidence, remember that failure is a teacher, not a judge.",
+      "translation": "如果挫折动摇你的信心,请记住:失败是老师,不是法官。",
+      "chunks": [
+        {
+          "label": "倒装条件句(虚拟)",
+          "color": "#f6c177",
+          "text": "Should a setback shake your confidence"
+        },
+        {
+          "label": "主干(谓语,祈使句)",
+          "color": "#a8dab5",
+          "text": "remember"
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that failure is a teacher, not a judge"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "should 倒装条件句",
+          "note": "should + 主语 + 动词原形 = if + 主语 + should...。",
+          "example": "Should you change your mind, call me.",
+          "exampleCn": "万一你改变主意,就给我打电话。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Should a setback shake your confidence",
+          "name": "should 倒装条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:万一你改变主意,就给我打电话。",
+          "answer": "Should you change your mind, call me.",
+          "note": "should + 主语 + 动词原形 = if + 主语 + should...。",
+          "point": "should 倒装条件句"
+        }
+      ]
+    },
+    {
+      "text": "Nonetheless, the task ahead is hazardous, and we must stay humble.",
+      "translation": "尽管如此,前方的任务充满危险,我们必须保持谦逊。",
+      "chunks": [
+        {
+          "label": "插入语(连接副词)",
+          "color": "#9fd8e8",
+          "text": "Nonetheless"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the task ahead is hazardous",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the task ahead"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "hazardous"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "we must stay humble"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "连接副词 nonetheless",
+          "note": "意为\"尽管如此\"。",
+          "example": "The plan is risky; nonetheless, we try.",
+          "exampleCn": "计划有风险;尽管如此,我们还是试试。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "the task ahead is hazardous",
+          "name": "连接副词 nonetheless"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:计划有风险;尽管如此,我们还是试试。",
+          "answer": "The plan is risky; nonetheless, we try.",
+          "note": "意为\"尽管如此\"。",
+          "point": "连接副词 nonetheless"
+        }
+      ]
+    },
+    {
+      "text": "We will collaborate with the world and embody the spirit of this school.",
+      "translation": "我们将与世界合作,体现这所学校的精神。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We will collaborate with the world",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will collaborate"
+            },
+            {
+              "role": "状语",
+              "text": "with the world"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "and embody the spirit of this school"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "collaborate with 与 embody 由 and 连接。",
+          "example": "We must learn and grow.",
+          "exampleCn": "我们必须学习并成长。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "and embody the spirit of this school",
+          "name": "并列谓语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们必须学习并成长。",
+          "answer": "We must learn and grow.",
+          "note": "collaborate with 与 embody 由 and 连接。",
+          "point": "并列谓语"
+        }
+      ]
+    },
+    {
+      "text": "A pragmatic plan will reassure the anxious crowd.",
+      "translation": "一个务实的计划将使焦虑的人群安心。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A pragmatic plan will reassure the anxious crowd",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A pragmatic plan"
+            },
+            {
+              "role": "谓语",
+              "text": "will reassure"
+            },
+            {
+              "role": "宾语",
+              "text": "the anxious crowd"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "形容词 pragmatic/anxious 分别修饰名词。",
+          "example": "Clear rules reassure people.",
+          "exampleCn": "明确的规则让人安心。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "A pragmatic plan will reassure the anxious crowd",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:明确的规则让人安心。",
+          "answer": "Clear rules reassure people.",
+          "note": "形容词 pragmatic/anxious 分别修饰名词。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The definitive answer will come from the final test.",
+      "translation": "最终答案将来自最后的考试。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The definitive answer will come",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The definitive answer"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "from the final test"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "come from 短语",
+          "note": "意为\"来自\"。",
+          "example": "The truth comes from evidence.",
+          "exampleCn": "真相来自证据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "The definitive answer will come",
+          "name": "come from 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:真相来自证据。",
+          "answer": "The truth comes from evidence.",
+          "note": "意为\"来自\"。",
+          "point": "come from 短语"
+        }
+      ]
+    },
+    {
+      "text": "Hard work will transcend every natural limit.",
+      "translation": "努力工作将超越一切天然的极限。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Hard work will transcend every natural limit",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Hard work"
+            },
+            {
+              "role": "谓语",
+              "text": "will transcend"
+            },
+            {
+              "role": "宾语",
+              "text": "every natural limit"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "transcend 意为\"超越\"。",
+          "example": "Courage transcends fear.",
+          "exampleCn": "勇气超越恐惧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Hard work will transcend every natural limit",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:勇气超越恐惧。",
+          "answer": "Courage transcends fear.",
+          "note": "transcend 意为\"超越\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The intrinsic value of learning will never change.",
+      "translation": "学习的内在价值永远不会改变。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The intrinsic value of learning will never change",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The intrinsic value of learning"
+            },
+            {
+              "role": "谓语",
+              "text": "will never change"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓结构",
+          "note": "intrinsic 意为\"内在的、固有的\"。",
+          "example": "The value of truth never changes.",
+          "exampleCn": "真理的价值永不改变。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "The intrinsic value of learning will never change",
+          "name": "主谓结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:真理的价值永不改变。",
+          "answer": "The value of truth never changes.",
+          "note": "intrinsic 意为\"内在的、固有的\"。",
+          "point": "主谓结构"
+        }
+      ]
+    },
+    {
+      "text": "A credible leader will enlighten the team with a clear vision.",
+      "translation": "一位可靠的领导者会用清晰的愿景启迪团队。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A credible leader will enlighten the team",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A credible leader"
+            },
+            {
+              "role": "谓语",
+              "text": "will enlighten"
+            },
+            {
+              "role": "宾语",
+              "text": "the team"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with a clear vision"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "with 短语作方式状语",
+          "note": "with a clear vision 表示方式。",
+          "example": "She led the team with courage.",
+          "exampleCn": "她以勇气带领团队。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "A credible leader will enlighten the team",
+          "name": "with 短语作方式状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她以勇气带领团队。",
+          "answer": "She led the team with courage.",
+          "note": "with a clear vision 表示方式。",
+          "point": "with 短语作方式状语"
+        }
+      ]
+    },
+    {
+      "text": "Every eligible graduate will receive a certificate.",
+      "translation": "每位符合条件的毕业生都将获得证书。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Every eligible graduate will receive a certificate",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Every eligible graduate"
+            },
+            {
+              "role": "谓语",
+              "text": "will receive"
+            },
+            {
+              "role": "宾语",
+              "text": "a certificate"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "every 修饰单数名词。",
+          "example": "Every winner will receive a prize.",
+          "exampleCn": "每位获胜者都将获得奖品。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "Every eligible graduate will receive a certificate",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:每位获胜者都将获得奖品。",
+          "answer": "Every winner will receive a prize.",
+          "note": "every 修饰单数名词。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "Visualize your goal, and you will find the right road.",
+      "translation": "想象你的目标,你就会找到正确的路。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Visualize your goal"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you will find the right road"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句 + and + 陈述句",
+          "note": "表条件与结果:\"做……,就会……\"。",
+          "example": "Work hard, and you will win.",
+          "exampleCn": "努力工作,你就会赢。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "you will find the right road",
+          "name": "祈使句 + and + 陈述句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:努力工作,你就会赢。",
+          "answer": "Work hard, and you will win.",
+          "note": "表条件与结果:\"做……,就会……\"。",
+          "point": "祈使句 + and + 陈述句"
+        }
+      ]
+    },
+    {
+      "text": "The forthcoming year will be a new beginning.",
+      "translation": "即将到来的一年将是一个新的开始。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The forthcoming year will be a new beginning",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The forthcoming year"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "a new beginning"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主系表结构",
+          "note": "forthcoming 意为\"即将到来的\"。",
+          "example": "Tomorrow will be a new day.",
+          "exampleCn": "明天将是新的一天。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "The forthcoming year will be a new beginning",
+          "name": "主系表结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:明天将是新的一天。",
+          "answer": "Tomorrow will be a new day.",
+          "note": "forthcoming 意为\"即将到来的\"。",
+          "point": "主系表结构"
+        }
+      ]
+    },
+    {
+      "text": "An apt word will calm a worried heart.",
+      "translation": "一句恰当的话能安抚一颗忧虑的心。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An apt word will calm a worried heart",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An apt word"
+            },
+            {
+              "role": "谓语",
+              "text": "will calm"
+            },
+            {
+              "role": "宾语",
+              "text": "a worried heart"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "apt 意为\"恰当的\"。",
+          "example": "A kind word calms the mind.",
+          "exampleCn": "一句友善的话能安抚心灵。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "An apt word will calm a worried heart",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一句友善的话能安抚心灵。",
+          "answer": "A kind word calms the mind.",
+          "note": "apt 意为\"恰当的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "Universally, we love a story of quiet courage.",
+      "translation": "普遍而言,我们都喜爱安静勇气这样的故事。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Universally"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we love a story of quiet courage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "love"
+            },
+            {
+              "role": "宾语",
+              "text": "a story of quiet courage"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词作评注性状语",
+          "note": "universally 表示\"普遍地\"。",
+          "example": "Universally, honesty is valued.",
+          "exampleCn": "普遍而言,诚实受人珍视。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u6",
+          "phrase": "we love a story of quiet courage",
+          "name": "副词作评注性状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:普遍而言,诚实受人珍视。",
+          "answer": "Universally, honesty is valued.",
+          "note": "universally 表示\"普遍地\"。",
+          "point": "副词作评注性状语"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u6",
+      "name": "否定副词前置的倒装",
+      "note": "never 置于句首,助动词提到主语前,构成部分倒装。",
+      "sourceExample": "Never will I forget this day at our university.",
+      "sourceExampleCn": "我永远不会忘记我们在大学的这一天。"
+    },
+    {
+      "grammarId": "g-s3u6",
+      "name": "only + 状语从句 的倒装",
+      "note": "only 修饰状语置于句首时,主句用部分倒装。",
+      "sourceExample": "Only when we face our fear can we discover our true strength.",
+      "sourceExampleCn": "只有面对恐惧,我们才能发现真正的力量。"
+    },
+    {
+      "grammarId": "g-s3u6",
+      "name": "not only...but also...",
+      "note": "not only 置于句首时前半句倒装。",
+      "sourceExample": "Not only will the course improve our English, but it will also open a new door for us.",
+      "sourceExampleCn": "这门课程不仅会提高我们的英语,还会为我们打开一扇新的大门。"
+    },
+    {
+      "grammarId": "g-s3u6",
+      "name": "频率副词前置倒装",
+      "note": "seldom 置于句首,构成部分倒装。",
+      "sourceExample": "Seldom do we see such a wonderful chance.",
+      "sourceExampleCn": "我们很少看到这么好的机会。"
+    },
+    {
+      "grammarId": "g-s3u6",
+      "name": "so...that 倒装",
+      "note": "so + 表语置于句首,主谓倒装。",
+      "sourceExample": "So great is the challenge that we must work together.",
+      "sourceExampleCn": "挑战如此巨大,我们必须共同努力。"
+    }
+  ]
+}

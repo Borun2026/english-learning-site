@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u2",
+  "stage": 4,
+  "unitId": "s4u2",
+  "title": "听力挑战 · 导师学术交流",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "导师",
+      "line": "The experiment we designed last semester produced results that exceeded all of our expectations.",
+      "lineCn": "我们上学期设计的实验产生了超出所有人预期的结果。",
+      "grammar": [
+        { "name": "定语从句嵌套", "note": "we designed 是省略引导词的定语从句修饰 experiment;that exceeded... 是另一层定语从句修饰 results,两个从句层层嵌套。" }
+      ],
+      "options": [
+        { "text": "The experimental results were better than expected.", "correct": true, "feedback": "结果超出了所有人的预期,即比预想更好。" },
+        { "text": "The experiment failed completely last semester.", "correct": false, "feedback": "原文说结果超出预期,并非失败。" },
+        { "text": "The results were never published in any journal.", "correct": false, "feedback": "发表与否原文并未提到。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "What I want to know is whether the data we collected can support our hypothesis.",
+      "lineCn": "我想知道的是我们收集的数据能否支持我们的假设。",
+      "grammar": [
+        { "name": "名词性从句多层嵌套", "note": "主语从句 What I want to know + 表语从句 whether the data can support our hypothesis,其中 the data we collected 又嵌套了一个定语从句。" }
+      ],
+      "options": [
+        { "text": "He wonders if the collected data can support the hypothesis.", "correct": true, "feedback": "他想知道的正是数据能否支持假设。" },
+        { "text": "He wonders whether the hypothesis should be rewritten first.", "correct": false, "feedback": "他问的是数据能否支持假设,不是假设是否重写。" },
+        { "text": "He wonders when the data were collected.", "correct": false, "feedback": "他没有询问数据的收集时间。" }
+      ]
+    },
+    {
+      "speaker": "导师",
+      "line": "You should clarify the method that you adopted when you analyzed the samples.",
+      "lineCn": "你应该澄清分析样本时所采用的方法。",
+      "grammar": [
+        { "name": "定语从句 + 状语从句复合", "note": "that you adopted 是定语从句修饰 method;when you analyzed the samples 是时间状语从句,说明采用方法的时间背景。" }
+      ],
+      "options": [
+        { "text": "The professor suggests clarifying the method of analysis.", "correct": true, "feedback": "导师建议把分析样本时采用的方法讲清楚。" },
+        { "text": "The professor suggests collecting new samples immediately.", "correct": false, "feedback": "导师建议的是澄清方法,不是重取样本。" },
+        { "text": "The professor suggests removing the method section.", "correct": false, "feedback": "导师并未要求删除方法部分。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "The conclusion that we drew from these findings is that further experiments are necessary.",
+      "lineCn": "我们从这些发现中得出的结论是,还需要进一步的实验。",
+      "grammar": [
+        { "name": "同位语从句 + 表语从句", "note": "that we drew from these findings 是同位语从句说明 conclusion 的内容;is that further experiments are necessary 是表语从句。" }
+      ],
+      "options": [
+        { "text": "The conclusion is that more experiments are still needed.", "correct": true, "feedback": "结论正是需要开展进一步的实验。" },
+        { "text": "The conclusion is that the theory has been fully proven.", "correct": false, "feedback": "原文结论是需要更多实验,而非理论已完全证实。" },
+        { "text": "The conclusion is that the journal has rejected the paper.", "correct": false, "feedback": "期刊是否拒稿原文并未提及。" }
+      ]
+    }
+  ]
+}

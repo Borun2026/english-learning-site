@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u2",
+  "stage": 5,
+  "unitId": "s5u2",
+  "title": "听力挑战 · 论文答辩",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "评审专家",
+      "line": "Could you clarify what you mean by the term adaptive testing as it appears in your dissertation?",
+      "lineCn": "你能解释一下论文中 adaptive testing 这个术语的含义吗?",
+      "grammar": [
+        { "name": "澄清类答辩句式", "note": "Could you clarify what you mean by... 是答辩中要求澄清概念的礼貌句式;as it appears in 引导时间/方式从句。" }
+      ],
+      "options": [
+        { "text": "The examiner asks the candidate to define adaptive testing.", "correct": true, "feedback": "专家要求澄清论文中该术语的含义。" },
+        { "text": "The examiner asks about the cover page of the thesis.", "correct": false, "feedback": "问题针对术语定义,与封面无关。" },
+        { "text": "The examiner asks about the bibliography format.", "correct": false, "feedback": "专家问的是术语含义,不是参考文献格式。" }
+      ]
+    },
+    {
+      "speaker": "答辩学生",
+      "line": "I would like to emphasize that our approach differs from traditional methods in several important respects.",
+      "lineCn": "我想强调,我们的方法与传统方法在几个重要方面有所不同。",
+      "grammar": [
+        { "name": "强调性学术句式", "note": "I would like to emphasize that... 是答辩中突出要点的学术句式;differ from... in... respects 是同义替换中的差异化表达。" }
+      ],
+      "options": [
+        { "text": "The new approach differs from traditional methods in key respects.", "correct": true, "feedback": "新方法与传统方法在多个重要方面不同。" },
+        { "text": "The new approach is identical to traditional methods.", "correct": false, "feedback": "学生强调的正是二者存在差异。" },
+        { "text": "The new approach ignores traditional research completely.", "correct": false, "feedback": "学生说差异,并非完全无视传统方法。" }
+      ]
+    },
+    {
+      "speaker": "答辩学生",
+      "line": "The data we gathered strongly support the hypothesis that earlier exposure leads to better outcomes.",
+      "lineCn": "我们收集的数据有力地支持这样一个假设:更早接触会带来更好的结果。",
+      "grammar": [
+        { "name": "数据支持的同义表达", "note": "strongly support 的同义替换词有 back up、reinforce、confirm;the hypothesis that... 是同位语从句。" }
+      ],
+      "options": [
+        { "text": "The gathered data strongly back the earlier-exposure hypothesis.", "correct": true, "feedback": "数据有力支持更早接触效果更好的假设。" },
+        { "text": "The data contradict the earlier-exposure hypothesis.", "correct": false, "feedback": "数据是支持而非反驳该假设。" },
+        { "text": "The data have no connection with the hypothesis.", "correct": false, "feedback": "数据与假设直接相关并予以支持。" }
+      ]
+    },
+    {
+      "speaker": "评审专家",
+      "line": "While our findings are promising, we must admit that certain variables remained beyond our control.",
+      "lineCn": "虽然我们的发现令人鼓舞,但必须承认某些变量仍超出了我们的控制。",
+      "grammar": [
+        { "name": "让步 + 承认局限句式", "note": "While 引导让步从句;beyond our control 与 out of our hands 是同义替换,承认研究局限显示严谨。" }
+      ],
+      "options": [
+        { "text": "The researchers admit that some variables were uncontrollable.", "correct": true, "feedback": "研究者承认部分变量无法控制。" },
+        { "text": "All variables were perfectly controlled in the study.", "correct": false, "feedback": "原文明确承认有些变量无法控制。" },
+        { "text": "The findings are meaningless because of the variables.", "correct": false, "feedback": "发现仍是令人鼓舞的,并未否定其价值。" }
+      ]
+    },
+    {
+      "speaker": "答辩学生",
+      "line": "Finally, I should mention that the framework we propose can be adapted to other fields with minor modifications.",
+      "lineCn": "最后,我应该提到,我们提出的框架经过少量调整即可应用于其他领域。",
+      "grammar": [
+        { "name": "适用性拓展句式", "note": "be adapted to 与 be applied to 同义;with minor modifications 表示只需小幅调整,是推广价值的表达。" }
+      ],
+      "options": [
+        { "text": "The framework can be applied to other fields with small changes.", "correct": true, "feedback": "框架略作调整即可推广到其他领域。" },
+        { "text": "The framework works only in one narrow field.", "correct": false, "feedback": "学生强调框架具有推广性,而非局限于单一领域。" },
+        { "text": "The framework cannot be modified in any way.", "correct": false, "feedback": "框架正是可以小幅修改的。" }
+      ]
+    }
+  ]
+}

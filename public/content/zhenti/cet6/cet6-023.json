@@ -1,0 +1,63 @@
+{
+ "id": "cet6-023",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第3套) Passage 1",
+ "title": "Tennessee's technical and community colleges will not outsource (   ) managem...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 437,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Tennessee's technical and community colleges will not outsource management of their facilities to a",
+  "private company, a decision one leader said was bolstered by an analysis of spending at each campus. In an email sent Monday to college presidents in the Tennessee Board of Regents system, outgoing Chancellor",
+  "John Morgan said an internal analysis showed that each campus' spending on facilities management fell well below the industry standards identified by the state. Morgan said those findings--which included data from the system's 13 community colleges, 27 technical colleges and six universities--were part of the decision not to move forward with Governor Bill Haslam's proposal to privatize management of state buildings in an effort to save money.",
+  "\"While these numbers are still being validated by the state, we feel any adjustments they might suggest will be immaterial,\" Morgan wrote to the presidents. \"System institutions are operating very efficiently based on this analysis, raising the question of the value of pursuing a broad scale outsourcing initiative.\"",
+  "Worker's advocates have criticized Haslam's plan, saying it would mean some campus workers would lose their jobs or benefits. Haslam has said colleges would be free to opt in or out of the out souring plan, which has not been finalized.",
+  "Morgan notified the Haslam administration of his decision to opt out in a letter sent last week. That letter, which includes several concerns Morgan has with the plan, was originally obtained by The Commercial Appeal in Memphis.",
+  "In an email statement from the state's Office of Customer Focused Government, which is examining the possibility of outsourcing, spokeswoman Michelle R. Martin said officials were still working to analyze the data from the Board of Regents. Data on management expenses at the college system and in other state departments will be part of a \"business justification\" the state will use as officials deliberate the specifics of an outsourcing plan.",
+  "\"The state's facilities management project team is still in the process of developing its business justification and expects to have that completed and available to the public at the end of February,\" Martin said. \"At this time there is nothing to take action on since the analysis has yet to be completed.\"",
+  "Morgan's comments on outsourcing mark the second time this month that he has come out against one of Haslam's plans for higher education in Tennessee. Morgan said last week that he would retire at the end of January because of the governor's proposal to split off six universities of the Board of Regents system and create separate governing boards for each of them. In his resignation letter, Morgan called the reorganization \"unworkable\"."
+ ],
+ "questions": [
+  {
+   "q": "文中 “analyze” 最接近的意思是?",
+   "options": [
+    "分析",
+    "技术的， 工艺的",
+    "商业，生意",
+    "主管人员"
+   ],
+   "answer": 0,
+   "analysis": "“analyze” 意为「分析」。原文语境:Martin said officials were still working to analyze the data from the Board of Regents.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Tennessee's technical and community colleges will not outsource management of their facilities to a private company, a decision one ___ said was bolstered by an analysis of spending at each campus.",
+   "options": [
+    "administration",
+    "month",
+    "value",
+    "leader"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Tennessee's technical and community colleges will not outsource management of their facilities to a private company, a decision one leader said was bolstered by an analysis of spending at each campus.”。空格处应填入 “leader”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "It is the season for some frantic last-minute math across the country, employ",
+    "Manufactures of products that claim to be environmentally friendly will face",
+    "Look at the people around you",
+    "Tennessee's technical and community colleges will not outsource ( ) managem"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Tennessee's technical and community colleges will not outsource management of their facilities to a”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

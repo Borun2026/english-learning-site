@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u1",
+  "stage": 3,
+  "unitId": "s3u1",
+  "title": "真题演练 · if 条件句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 if 条件句。",
+  "questions": [
+    {
+      "q": "If you ___ hard, you will succeed.",
+      "options": [
+        "work",
+        "worked",
+        "will work",
+        "would work"
+      ],
+      "answer": 0,
+      "analysis": "第一条件句:if 从句用一般现在时。",
+      "point": "g-s3u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "If I ___ a bird, I would fly freely.",
+      "options": [
+        "am",
+        "was",
+        "were",
+        "be"
+      ],
+      "answer": 2,
+      "analysis": "与现在事实相反的虚拟,be 用 were。",
+      "point": "g-s3u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "If she ___ the truth, she would not have lied.",
+      "options": [
+        "knows",
+        "knew",
+        "had known",
+        "has known"
+      ],
+      "answer": 2,
+      "analysis": "与过去相反,从句用过去完成时 had known。",
+      "point": "g-s3u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ you need help, just call me.",
+      "options": [
+        "Will",
+        "If",
+        "Had",
+        "Should"
+      ],
+      "answer": 3,
+      "analysis": "Should 提头省略 if,表示\"万一\",这是正式用法。",
+      "point": "g-s3u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "If you heat ice, it ___ into water.",
+      "options": [
+        "will melt",
+        "melts",
+        "melted",
+        "would melt"
+      ],
+      "answer": 1,
+      "analysis": "零条件句表普遍真理,主句用一般现在时。",
+      "point": "g-s3u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:If it will rain tomorrow, we will stay home.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:If it rains tomorrow, we will stay home.。if 条件从句中不用 will,用一般现在时表将来。",
+      "point": "g-s3u1",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

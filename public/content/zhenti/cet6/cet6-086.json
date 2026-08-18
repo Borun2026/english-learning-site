@@ -1,0 +1,60 @@
+{
+ "id": "cet6-086",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第3套) Passage 2",
+ "title": "Spiders make their presence felt in late August and through early autumn",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Spiders make their presence felt in late August and through early autumn. This is the mating season of some of the most common varieties, when male house spiders come out of hidden corners to look for females, and garden spiders reach adult size and spin their most dazzling webs.",
+  "Yet while the spider is a familiar fixture of nursery poems or songs and Halloween decorations, its relationship with humans is complicated. Fear of spiders is common and has serious impacts on the lives of sufferers. Its prevalence appears unrelated to any rational assessment of risk. Spiders in the UK are almost all harmless. Farmland species perform valuable ecosystem services, by preying on insects that are our competitors for crops. But they are a constant source of human anxieties -- with a cultural association with witches and wickedness dating back to the middle ages.",
+  "Does this perhaps explain, in part, the lack of data about how spiders are faring in our age of ecological crisis? British butterflies are the most studied group of insects in the world, due to the long tradition of collecting and observing them. But spider conservationists point out that it was only in the 1980s that the classification of house spiders was properly sorted out. And while information about insect populations is gathered by experiments that measure the numbers hitting windscreens or traps, there have been few attempts to count spiders.",
+  "The huge reductions in the numbers of flying insects can only mean a reduction in spiders' food supply. A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for development. This means the overall picture for spiders is worrying, as it is for most creatures. But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.",
+  "Of around 650 spider species regularly recorded in the UK, the majority thrive in marshes and wasteland. Conservation efforts, often led by determined individuals, have helped some species to recover by reintroducing them to new areas. With rewilding now firmly on the environmental policy agenda, the hope is that in future, spiders will be enabled to migrate by themselves, adapting to climate change by moving along wildlife corridors.",
+  "It seems unlikely that spiders will ever attract the same level of human enthusiasm as bees, birds or butterflies, in spite of their unique status as nature's spinners. But as they reveal themselves in all their splendour this autumn, it would be a good thing if more animal lovers recognised the ways in which spiders are simply terrific."
+ ],
+ "questions": [
+  {
+   "q": "文中 “destruction” 最接近的意思是?",
+   "options": [
+    "不可能的， 办不到的",
+    "破坏， 毁灭， 摧毁",
+    "保存，保护",
+    "野生生物"
+   ],
+   "answer": 1,
+   "analysis": "“destruction” 意为「破坏， 毁灭， 摧毁」。原文语境:A recent landmark study identified a 75% fall in insect populations between 1989 and 2016, with pesticide use thought to be to blame along with the destruction of wild areas for de",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it ___ for them to migrate.",
+   "options": [
+    "constant",
+    "unlikely",
+    "impossible",
+    "level"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“But conservationists are most concerned about those varieties that are threatened due to habitat loss and fragmentation, which makes it impossible for them to migrate.”。空格处应填入 “impossible”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "An awakening has been taking place in the physical world against the beauty m",
+    "Spiders make their presence felt in late August and through early autumn",
+    "Vegetarians would prefer not to be compelled to eat meat",
+    "When I re-entered the full-time workforce a few years ago after a decade of s"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Spiders make their presence felt in late August and through early autumn.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u8",
+  "stage": 2,
+  "unitId": "s2u8",
+  "title": "听力挑战 · 比较手机型号",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "Which phone do you think is better for me?",
+      "lineCn": "你觉得哪款手机更适合我?",
+      "grammar": [
+        { "name": "比较级 better than", "note": "better 是 good 的比较级,比较两个事物时使用。" }
+      ],
+      "options": [
+        { "text": "I think the A9 is better for daily use.", "correct": true, "feedback": "用比较级 better 给出明确推荐,符合问句。" },
+        { "text": "I bought the A9 last month.", "correct": false, "feedback": "谈的是购买行为,没有比较推荐。" },
+        { "text": "Both phones are in my bag.", "correct": false, "feedback": "只说手机位置,没有回答哪款更好。" }
+      ]
+    },
+    {
+      "speaker": "店员",
+      "line": "What is the difference between these two models?",
+      "lineCn": "这两款型号有什么区别?",
+      "grammar": [
+        { "name": "much + 比较级", "note": "much 可加强比较级,表示'大得多'。" }
+      ],
+      "options": [
+        { "text": "The new one has a much larger screen.", "correct": true, "feedback": "much larger 强调差别明显,准确比较两款手机。" },
+        { "text": "The old one is in the drawer.", "correct": false, "feedback": "只说旧手机的位置,没有说明差异。" },
+        { "text": "I compared them with my friend.", "correct": false, "feedback": "说的是比较这个动作,没有给出比较结果。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "Is the battery life good on this one?",
+      "lineCn": "这款的电池续航好吗?",
+      "grammar": [
+        { "name": "比较级表优劣", "note": "用 lasts longer than 比较电池续航,than 后接比较对象。" }
+      ],
+      "options": [
+        { "text": "Yes, it lasts much longer than the old one.", "correct": true, "feedback": "用比较级说明续航优势,直接回答问题。" },
+        { "text": "No, I left it at home.", "correct": false, "feedback": "说的是手机落在家里,没有评价续航。" },
+        { "text": "Yes, it cost more than my budget.", "correct": false, "feedback": "谈的是价格超出预算,不是电池续航。" }
+      ]
+    }
+  ]
+}

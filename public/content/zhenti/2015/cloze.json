@@ -1,0 +1,317 @@
+{
+ "id": "z2015-cloze-0",
+ "year": 2015,
+ "section": "cloze",
+ "index": 0,
+ "source": "2015年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "Though not biologically related, friends are as \"related\" as fourth cousins, sharing about 1% of genes.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "That is ___1___ a study,published from the University of California and Yale University in the Proceedings of the National Academy of Sciences, has ___2___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The study is a genome-wide analysis conducted ___3___ 1,932 unique subjects which ___4___ pairs of unrelated friends and unrelated strangers.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The same people were used in both ___5___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "While 1% may seem ___6___ , it is not so to a geneticist.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "As co-author of the study James Fowler, professor of medical genetics at UC San Diego, says, \"Most people do not even ___7___ their fourth cousins but somehow manage to select as friends the people who ___8___ our kin.\"",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The study ___9___ found that the genes for smell were something shared in friends but not genes for immunity.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Why this similarity exists in smell genes is difficult to explain, for now.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___10___ , as the team suggests, it draws us to similar environments but there is more ___11___ it.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "There could be many mechanisms working together that ___12___ us in choosing genetically similar friends ___13___ \"functional kinship\" of being friends with ___14___ !",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "One of the remarkable findings of the study was that the similar genes seem to be evolving ___15___ than other genes.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Studying this could help ___16___ why human evolution picked pace in the last 30,000 years, with social environment being a major ___17___ factor.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The findings do not simply explain people's ___18___ to befriend those of similar ___19___ backgrounds, say the researchers.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Though all the subjects were drawn from a population of European extraction, care was taken to ___20___ that all subjects, friends and strangers were taken from the same population.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "when",
+    "why",
+    "how",
+    "what"
+   ],
+   "answer": 3,
+   "analysis": "该题考查的是语法知识。根据句子结构和选项的特点,可以判断出空格处应填从属连词引导表语从句;\n再根据句子的内容,可以看出该从句是一项研究的相关内容,不是指研究的时间(when),原因(why)和方\n式(how),表示具体内容的表语从句用what引导,因此,该题的答案为what。"
+  },
+  {
+   "q": "",
+   "options": [
+    "defended",
+    "concluded",
+    "withdrawn",
+    "advised"
+   ],
+   "answer": 1,
+   "analysis": "从此题所在句子的前后内容可以判断出,thatis_______中的that是指第一句话的内容(朋友与我们基\n因上的相关性),很显然是研究得出的结论。因此,答案为concluded。"
+  },
+  {
+   "q": "",
+   "options": [
+    "for",
+    "with",
+    "on",
+    "by"
+   ],
+   "answer": 2,
+   "analysis": "根据空格所在句子的内容(研究对1932位独特的受试者进行分析)判断出进行分析的对象是1932unique\nsubjects。Conductanalysison…是固定表达。"
+  },
+  {
+   "q": "",
+   "options": [
+    "compared",
+    "sought",
+    "separated",
+    "connected"
+   ],
+   "answer": 0,
+   "analysis": "该空格所在的句子是which引导的定语从句修饰study,意思是:对几对基因不相关的朋友和陌生人进\n行_______。因为“研究”的内容是关于朋友间基因上的相关性问题,所以完整的意思应该是:对几对基因不\n相关的朋友和陌生人进行比较。所以最佳答案为compared。其余选项不符合句意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "tests",
+    "objects",
+    "samples",
+    "examples"
+   ],
+   "answer": 2,
+   "analysis": "根据空格的前后内容判断,到第五个空为止,文章都在讲实验过程,和实验对象,第五个空格所在句\n子的内容是:相同的人们都用于实验中的这两类______。所以根据上下文语境和内容,应该选与实验对象相对\n应的samples(样例)。因此,答案是samples。选项A.测试,B.物体,D.事例均不符合前后语境和语义。"
+  },
+  {
+   "q": "",
+   "options": [
+    "insignificant",
+    "unexpected",
+    "unreliable",
+    "incredible"
+   ],
+   "answer": 0,
+   "analysis": "本题考核的是形容词结构作表语。形容词作表语时,通过主语和表语搭配的一致性来判断所选填的形\n容词。空所在的语境为:尽管这1%看起来似乎____,但是遗传学家可不这么认为。空前后形成对比转折的逻\n辑关系,而从后文列举的例子中可知遗传学家JamesFowler对这1%基因的态度是肯定的,而从常识判断,1%\n所占的比例也是非常小的,综合分析,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "visit",
+    "miss",
+    "seek",
+    "know"
+   ],
+   "answer": 3,
+   "analysis": "本题空格处考查了动词,解题的关键是确定主语mostpeople(很多人)与宾语theirfourthcousins(他\n2们隔三代的表亲)两者之间的关系。空所在的语境为:大多数人甚至不____他们隔三代的表亲,但却设法选择\n那些____我们亲戚的人作为朋友。根据上下文语义以及文章主旨的导向,不难判断D选项最符合文意,“很多\n人甚至不认识自己隔三代的表亲”,故答案选择D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "resemble",
+    "influence",
+    "favor",
+    "surpass"
+   ],
+   "answer": 0,
+   "analysis": "空格处要求填入一个及物动词,能够直接接宾语kin(亲戚),然而四个选项都是及物动词,所以关\n键在于判断哪个更符合上下文语境。空所在的语境为:大多数人甚至不认识他们隔三代的表亲,但却设法选择\n那些____他们亲戚的人作为朋友。将四个选项分别代入,B选项“影响他们的亲戚”,C“支持他们的亲戚”,\nD选项“超过他们的亲戚”均无上下文依据,根据全文中心导向:基因上的相似性,不难判断,A选项“像他\n们亲戚”符合上下文语义,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "again",
+    "also",
+    "instead",
+    "thus"
+   ],
+   "answer": 1,
+   "analysis": "空格处要求填入的副词修饰动词“found”,空所在的句子开头用“Thestudy…”,显然讨论的是同一\n个研究,前文指出研究发现朋友与我们有1%的基因关系,而空所在句“thegenesforsmellweresomethingshared\ninfriends(朋友间在嗅觉基因方面有相关性)”在进一步详细讨论该话题,前后之间是顺接关系,A选项强调\n同样的东西再一次提及,C选项表示对比转折,D选项表示因果关系,只有B选项also表示顺接递进关系,故\n答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Meanwhile",
+    "Furthermore",
+    "Likewise",
+    "Perhaps"
+   ],
+   "answer": 3,
+   "analysis": "从选项和文中句子结构可以判断,空格处要求填入一个能够体现前后两个句子逻辑关系的副词,空前\n的句子谈到“为什么在嗅觉基因方面存在相似性还很难解释”,空后却紧接着对此得出一个相关结论,很明显\n是矛盾的,所以此结论只能是一种不确定的推测,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "about",
+    "to",
+    "from",
+    "like"
+   ],
+   "answer": 1,
+   "analysis": "该题为介词选择题。后半句出现比较级,可见是和前文形成比较关系,因此和上半句介词保持一致,\n用介词to。该句翻译:它(这种相似性)吸引我们到相同的环境,并且使我们更为相似。因此答案为to。"
+  },
+  {
+   "q": "",
+   "options": [
+    "drive",
+    "observe",
+    "confuse",
+    "limit"
+   ],
+   "answer": 0,
+   "analysis": "该句意思为:很多机制共同作用,从而_____我们选择基因相似的朋友,_____和_____交朋友的“功\n能关系”。根据上下文可知,此处所填入动词需符合结构_____sb.indoingsth.,B选项observe(观察,遵守)\n和C选项confuse(困惑)均无此用法。符合该结构只有A选项drive(驱使)和D选项limit(限制)。根据上\n下文可得知:这些机制驱使我们选择基因相似的朋友,符合文章主题。如果选“限制”则为反向干扰。因此答\n案为drive。"
+  },
+  {
+   "q": "",
+   "options": [
+    "according to",
+    "rather than",
+    "regardless of",
+    "along with"
+   ],
+   "answer": 1,
+   "analysis": "所填词为逻辑关系短语,空前说选择基因相似的朋友,空后说具有“实用关系”的朋友,可知前后为\n对立关系,并且根据文章主题,可知肯定前者而否定后者,可锁定B选项ratherthan。A选项accordingto(根\n据)没有体现出对立及取舍关系,因此排除;C选项regardlessof(不管)表让步关系,干扰性较强,但文章更\n强调取前舍后,因此排除;D选项alongwith(伴随)表顺接,故排除。故答案为ratherthan。"
+  },
+  {
+   "q": "",
+   "options": [
+    "chances",
+    "responses",
+    "missions",
+    "benefits"
+   ],
+   "answer": 3,
+   "analysis": "根据前文functionalkinship(实用关系)可得出D选项benefits(利益),前后形成呼应。A选项chances\n3(机会)、B选项responses(反应)、C选项missions(使命)均不符合题意。故答案为benefits。"
+  },
+  {
+   "q": "",
+   "options": [
+    "later",
+    "slower",
+    "faster",
+    "earlier"
+   ],
+   "answer": 2,
+   "analysis": "该句为:evolving______thanothergenes(比其他基因进化得______).根据同词复现,我们找到该段\n第二句话中:humanevolutionpickedpaceinthelast30,000years(人类进化在过去30000年间提速)。C选项faster\n与下文pickedpace(加速)形成呼应,故答案为faster。"
+  },
+  {
+   "q": "",
+   "options": [
+    "forecast",
+    "remember",
+    "understand",
+    "express"
+   ],
+   "answer": 2,
+   "analysis": "此题考查动宾搭配。根据语意。空格后面是一个why引导的宾语从句,意为“人类进化在过去三万年\n间得以加速的原因”,表示这一研究的结果和意义。能与这一宾语从句构成搭配的只有C选项understand。A\n选项forecast“预测”与“过去三万年”相矛盾,B选项remember“记住”和D选项“express”均不符合文意。"
+  },
+  {
+   "q": "",
+   "options": [
+    "unpredictable",
+    "contributory",
+    "controllable",
+    "disruptive"
+   ],
+   "answer": 1,
+   "analysis": "此空需要填入一个形容词,表达社会环境对人类进步所起到的作用。Help,pickpace这两个表达都是\n积极的含义,因此此处需要填入一个带有褒义的感情色彩的词,因此排除A选项“不可预测的”和D选项“破\n坏性的”;B而C选项“可控的”,与语意无关;因此正确答案为B选项contributory“促进的”。"
+  },
+  {
+   "q": "",
+   "options": [
+    "endeavor",
+    "decision",
+    "arrangement",
+    "tendency"
+   ],
+   "answer": 3,
+   "analysis": "此处进一步陈述这一研究的结论。A选项endeavor“努力”,B选项“决定”,C选项“安排”,D\n选项“倾向”。本文的主旨重在解释人们交朋友时不自觉的一种倾向,而非通过人为的有意识的举动来选择朋\n友。因此正确答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "political",
+    "religious",
+    "ethnic",
+    "economic"
+   ],
+   "answer": 2,
+   "analysis": "结合文意,人们普遍希望和有相似_____背景的人交朋友。C选项ethnic意为“种族的,民族的”,是\n对上文中多次重复出现的genes,以及下文的thesamepopulation的同义复现。因此正确答案为C。A选项political\n“政治的”,B选项“宗教的”,D选项“经济的”均不符合原文文意。"
+  },
+  {
+   "q": "Section Ⅱ",
+   "options": [
+    "see",
+    "show",
+    "prove",
+    "tell"
+   ],
+   "answer": 0,
+   "analysis": "此处考察动词,动词势必要看前后搭配。Seethat构成固定词组,意为“务必使……”,符合文意,\n即:即使所有的受访者都拥有欧洲血统,(研究者们)仍然悉心确保所有的受访者、朋友和陌生人都来自于同一\n群种。选项B“展示”,选项C“证明”,选项D“辨别”均无此含义,且不符合文意。\n三、全文翻译\n尽管朋友之间在血缘上没有关系,但是从生理学上看,朋友却类似我们的第四表亲,大约有1%的基因相\n同。这就是研究所得出的结论,该研究由加利福尼亚大学和耶鲁大学发表在《美国国家科学院院刊》上。研究\n对1932位独特的实验对象进行了全基因组分析,对没有血缘关系的朋友和没有血缘关系的陌生人进行了比较。\n两组实验样本涉及的人员都是相同的。\n尽管这1%看起来似乎微不足道,但是遗传学家可不这么认为。正如加州大学圣地亚哥分校的医学遗传学\n教授詹姆斯·福勒所说:“大多数人甚至不认识他们的同辈远亲,但却设法选择那些类似亲戚的人做朋友。”\n该研究还发现朋友之间在嗅觉基因方面有相关性,而不是免疫基因。为什么在嗅觉基因方面存在相似性,\n目前还很难解释。也许正如研究人员认为,这种相似性将我们吸引到相同的环境中,但事情也并非这么简单。\n可能有很多机制共同作用,从而促使我们选择和自己基因相似的朋友,而不是选择以利益为导向的“功能型亲\n属关系”。\n该研究还有一项值得注意的发现:相似的基因似乎比其他的基因进化得更快。此研究可以有助于解"
+  }
+ ]
+}

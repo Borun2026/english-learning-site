@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u3",
+  "stage": 4,
+  "unitId": "s4u3",
+  "title": "听力挑战 · 论文咨询",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "导师",
+      "line": "Having reviewed your draft, I suggest focusing on the discussion section before submitting it.",
+      "lineCn": "审阅了你的初稿之后,我建议你在提交之前重点修改讨论部分。",
+      "grammar": [
+        { "name": "现在分词完成式作状语", "note": "Having reviewed 表示动作发生在主句之前(先审阅、后建议);suggest doing 接动名词作宾语。" }
+      ],
+      "options": [
+        { "text": "The professor advises improving the discussion section first.", "correct": true, "feedback": "建议的重点正是提交前完善讨论部分。" },
+        { "text": "The professor advises rewriting the introduction section.", "correct": false, "feedback": "导师强调的是讨论部分,不是引言。" },
+        { "text": "The professor advises submitting the draft immediately.", "correct": false, "feedback": "原文是修改后再提交,不能立即提交。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "Considering the limited time, we decide to shorten the literature review rather than omit it entirely.",
+      "lineCn": "考虑到时间有限,我们决定缩短文献综述,而不是完全删掉它。",
+      "grammar": [
+        { "name": "现在分词状语 + rather than 结构", "note": "Considering the limited time 是分词短语作原因状语;rather than 连接两个并列选择,强调选择前者。" }
+      ],
+      "options": [
+        { "text": "They will make the literature review shorter, not delete it.", "correct": true, "feedback": "决定是缩短文献综述而非完全删除。" },
+        { "text": "They will omit the literature review completely.", "correct": false, "feedback": "原文明确表示不会完全删掉。" },
+        { "text": "They will extend the literature review to more chapters.", "correct": false, "feedback": "原文是缩短,不是延长。" }
+      ]
+    },
+    {
+      "speaker": "导师",
+      "line": "The data being analyzed now will determine whether your hypothesis is supported by the evidence.",
+      "lineCn": "目前正在分析的数据将决定你的假设能否得到证据支持。",
+      "grammar": [
+        { "name": "被动分词作定语", "note": "being analyzed 是现在分词被动式作定语,表示正在进行中的分析;后接 whether 引导的宾语从句。" }
+      ],
+      "options": [
+        { "text": "The analysis of the data will show whether the hypothesis holds.", "correct": true, "feedback": "数据分析的结果将检验假设是否成立。" },
+        { "text": "The data will be discarded because they are unusable.", "correct": false, "feedback": "原文没有说数据会被弃用。" },
+        { "text": "The hypothesis has already been confirmed by other researchers.", "correct": false, "feedback": "假设是否成立要等数据分析结果,尚未证实。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "Time permitting, we will present our findings at the conference next month without any delay.",
+      "lineCn": "如果时间允许,我们将如期在下个月的会议上展示我们的发现。",
+      "grammar": [
+        { "name": "独立主格结构", "note": "Time permitting 是名词+现在分词构成的独立主格,表条件(如果时间允许),主句主语与之不同。" }
+      ],
+      "options": [
+        { "text": "They plan to present the findings at the conference next month.", "correct": true, "feedback": "时间允许的话,下个月会议如期展示成果。" },
+        { "text": "They plan to cancel the presentation at the conference.", "correct": false, "feedback": "原文是要准时参加并展示,不是取消。" },
+        { "text": "They will delay the presentation until next year.", "correct": false, "feedback": "原文明确说 without any delay,不会推迟。" }
+      ]
+    }
+  ]
+}

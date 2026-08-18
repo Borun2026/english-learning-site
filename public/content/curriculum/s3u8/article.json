@@ -1,0 +1,1316 @@
+{
+  "id": "a-s3u8",
+  "stage": 3,
+  "unitId": "s3u8",
+  "title": "The Day the Train Stopped",
+  "newWords": [
+    "constrain",
+    "grim",
+    "prematurely",
+    "conscientious",
+    "entail",
+    "accountable",
+    "subsequently",
+    "deterioration",
+    "incidentally",
+    "momentum",
+    "likelihood",
+    "rectify",
+    "uphold"
+  ],
+  "sentences": [
+    {
+      "text": "Beginning the journey in heavy rain, the train will move with care through the mountain.",
+      "translation": "冒着大雨开始旅程,火车将小心翼翼地穿过山间。",
+      "chunks": [
+        {
+          "label": "状语(现在分词短语)",
+          "color": "#8ab4f8",
+          "text": "Beginning the journey in heavy rain"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the train will move with care through the mountain",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the train"
+            },
+            {
+              "role": "谓语",
+              "text": "will move"
+            },
+            {
+              "role": "状语",
+              "text": "with care through the mountain"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词短语作伴随状语",
+          "note": "Beginning the journey... 表伴随动作,逻辑主语是 the train。",
+          "example": "Reading the letter, she smiled.",
+          "exampleCn": "读着信,她笑了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "the train will move with care through the mountain",
+          "name": "现在分词短语作伴随状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:读着信,她笑了。",
+          "answer": "Reading the letter, she smiled.",
+          "note": "Beginning the journey... 表伴随动作,逻辑主语是 the train。",
+          "point": "现在分词短语作伴随状语"
+        }
+      ]
+    },
+    {
+      "text": "Worried by the sudden noise, the driver will stop the car at once.",
+      "translation": "被突如其来的响声惊扰,司机将立刻停车。",
+      "chunks": [
+        {
+          "label": "状语(过去分词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "Worried by the sudden noise"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the driver will stop the car",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the driver"
+            },
+            {
+              "role": "谓语",
+              "text": "will stop"
+            },
+            {
+              "role": "宾语",
+              "text": "the car"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "at once"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词短语作状语",
+          "note": "Worried by... 表原因,\"因为被……惊扰\"。",
+          "example": "Frightened by the dog, he ran.",
+          "exampleCn": "被狗吓到,他跑了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "the driver will stop the car",
+          "name": "过去分词短语作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:被狗吓到,他跑了。",
+          "answer": "Frightened by the dog, he ran.",
+          "note": "Worried by... 表原因,\"因为被……惊扰\"。",
+          "point": "过去分词短语作状语"
+        }
+      ]
+    },
+    {
+      "text": "Tired of the long wait, a traveler will begin to complain.",
+      "translation": "厌倦了漫长的等待,一位旅客会开始抱怨。",
+      "chunks": [
+        {
+          "label": "状语(过去分词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "Tired of the long wait"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a traveler will begin to complain",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a traveler"
+            },
+            {
+              "role": "谓语",
+              "text": "will begin"
+            },
+            {
+              "role": "宾语",
+              "text": "to complain"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词短语作状语",
+          "note": "Tired of... 表原因。",
+          "example": "Tired of noise, he moved away.",
+          "exampleCn": "厌倦了噪音,他搬走了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "a traveler will begin to complain",
+          "name": "过去分词短语作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:厌倦了噪音,他搬走了。",
+          "answer": "Tired of noise, he moved away.",
+          "note": "Tired of... 表原因。",
+          "point": "过去分词短语作状语"
+        }
+      ]
+    },
+    {
+      "text": "Considering the damage to the bridge, the engineer will work all night.",
+      "translation": "考虑到桥梁的损坏,工程师将通宵工作。",
+      "chunks": [
+        {
+          "label": "状语(现在分词短语)",
+          "color": "#8ab4f8",
+          "text": "Considering the damage to the bridge"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the engineer will work all night",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the engineer"
+            },
+            {
+              "role": "谓语",
+              "text": "will work"
+            },
+            {
+              "role": "状语",
+              "text": "all night"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词 Considering 作状语",
+          "note": "意为\"考虑到……\"。",
+          "example": "Considering the cost, we wait.",
+          "exampleCn": "考虑到成本,我们再等等。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "Considering the damage to the bridge",
+          "name": "现在分词 Considering 作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:考虑到成本,我们再等等。",
+          "answer": "Considering the cost, we wait.",
+          "note": "意为\"考虑到……\"。",
+          "point": "现在分词 Considering 作状语"
+        }
+      ]
+    },
+    {
+      "text": "To prevent a similar accident, the company will upgrade the signal system.",
+      "translation": "为了防止类似事故,公司将升级信号系统。",
+      "chunks": [
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "To prevent a similar accident"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the company will upgrade the signal system",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the company"
+            },
+            {
+              "role": "谓语",
+              "text": "will upgrade"
+            },
+            {
+              "role": "宾语",
+              "text": "the signal system"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式短语作目的状语",
+          "note": "to prevent... 表目的,\"为了……\"。",
+          "example": "To save time, he takes a taxi.",
+          "exampleCn": "为了节省时间,他坐出租车。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "the company will upgrade the signal system",
+          "name": "不定式短语作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:为了节省时间,他坐出租车。",
+          "answer": "To save time, he takes a taxi.",
+          "note": "to prevent... 表目的,\"为了……\"。",
+          "point": "不定式短语作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "The investigation will end in a month, and the report will come soon.",
+      "translation": "调查将在一个月内结束,报告很快就会出来。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The investigation will end in a month",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The investigation"
+            },
+            {
+              "role": "谓语",
+              "text": "will end"
+            },
+            {
+              "role": "状语",
+              "text": "in a month"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the report will come soon"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "and 并列句",
+          "note": "两个分句由 and 连接。",
+          "example": "The storm will pass, and the sky will clear.",
+          "exampleCn": "暴风雨会过去,天空会放晴。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The investigation will end in a month",
+          "name": "and 并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:暴风雨会过去,天空会放晴。",
+          "answer": "The storm will pass, and the sky will clear.",
+          "note": "两个分句由 and 连接。",
+          "point": "and 并列句"
+        }
+      ]
+    },
+    {
+      "text": "At last the train will start again, and everyone will feel relieved.",
+      "translation": "最后火车将重新启动,所有人都松了一口气。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "At last"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the train will start again",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the train"
+            },
+            {
+              "role": "谓语",
+              "text": "will start"
+            },
+            {
+              "role": "状语",
+              "text": "again"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "everyone will feel relieved"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "and 并列句",
+          "note": "第二分句为主系表结构。",
+          "example": "He smiled, and everyone felt safe.",
+          "exampleCn": "他笑了,所有人都感到安心。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "everyone will feel relieved",
+          "name": "and 并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他笑了,所有人都感到安心。",
+          "answer": "He smiled, and everyone felt safe.",
+          "note": "第二分句为主系表结构。",
+          "point": "and 并列句"
+        }
+      ]
+    },
+    {
+      "text": "The police will close the road until the repair is complete.",
+      "translation": "警方将封闭道路,直到修复完成。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The police will close the road",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The police"
+            },
+            {
+              "role": "谓语",
+              "text": "will close"
+            },
+            {
+              "role": "宾语",
+              "text": "the road"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "until the repair is complete"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "until 时间状语从句",
+          "note": "until 意为\"直到……\"。",
+          "example": "Wait here until I return.",
+          "exampleCn": "在这里等到我回来。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The police will close the road",
+          "name": "until 时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:在这里等到我回来。",
+          "answer": "Wait here until I return.",
+          "note": "until 意为\"直到……\"。",
+          "point": "until 时间状语从句"
+        }
+      ]
+    },
+    {
+      "text": "An honest driver will not hide the truth; he will accept the blame.",
+      "translation": "诚实的司机不会隐瞒真相;他会接受指责。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An honest driver will not hide the truth",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An honest driver"
+            },
+            {
+              "role": "谓语",
+              "text": "will not hide"
+            },
+            {
+              "role": "宾语",
+              "text": "the truth"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he will accept the blame"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "分号连接并列句",
+          "note": "两个分句意义对比,用分号连接。",
+          "example": "He did not lie; he told the truth.",
+          "exampleCn": "他没有撒谎;他说了真话。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "An honest driver will not hide the truth",
+          "name": "分号连接并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他没有撒谎;他说了真话。",
+          "answer": "He did not lie; he told the truth.",
+          "note": "两个分句意义对比,用分号连接。",
+          "point": "分号连接并列句"
+        }
+      ]
+    },
+    {
+      "text": "The accident will remind us that safety must come first.",
+      "translation": "这次事故将提醒我们安全第一。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The accident will remind us",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The accident"
+            },
+            {
+              "role": "谓语",
+              "text": "will remind"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that safety must come first"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "remind sb that 从句",
+          "note": "remind 后接宾语再接 that 从句。",
+          "example": "He reminded me that time was short.",
+          "exampleCn": "他提醒我时间不多了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The accident will remind us",
+          "name": "remind sb that 从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他提醒我时间不多了。",
+          "answer": "He reminded me that time was short.",
+          "note": "remind 后接宾语再接 that 从句。",
+          "point": "remind sb that 从句"
+        }
+      ]
+    },
+    {
+      "text": "The sudden stop will constrain the movement of the train and shock the whole carriage.",
+      "translation": "突然的停车将限制火车的运动,并使整个车厢受到冲击。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The sudden stop will constrain the movement of the train",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The sudden stop"
+            },
+            {
+              "role": "谓语",
+              "text": "will constrain"
+            },
+            {
+              "role": "宾语",
+              "text": "the movement of the train"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "and shock the whole carriage"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "constrain 与 shock 并列,共享主语。",
+          "example": "The wave will rise and fall.",
+          "exampleCn": "浪会升起又落下。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The sudden stop will constrain the movement of the train",
+          "name": "并列谓语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:浪会升起又落下。",
+          "answer": "The wave will rise and fall.",
+          "note": "constrain 与 shock 并列,共享主语。",
+          "point": "并列谓语"
+        }
+      ]
+    },
+    {
+      "text": "A grim report will follow the terrible day.",
+      "translation": "可怕的一天之后将是一份严峻的报告。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A grim report will follow the terrible day",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A grim report"
+            },
+            {
+              "role": "谓语",
+              "text": "will follow"
+            },
+            {
+              "role": "宾语",
+              "text": "the terrible day"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "grim 意为\"严峻的、阴沉的\"。",
+          "example": "Silence followed the question.",
+          "exampleCn": "问题之后是一片沉默。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "A grim report will follow the terrible day",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:问题之后是一片沉默。",
+          "answer": "Silence followed the question.",
+          "note": "grim 意为\"严峻的、阴沉的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "We should not jump to a conclusion prematurely.",
+      "translation": "我们不应过早地下结论。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We should not jump to a conclusion",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "should not jump"
+            },
+            {
+              "role": "宾语",
+              "text": "to a conclusion"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "prematurely"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "jump to a conclusion",
+          "note": "意为\"匆忙下结论\"。",
+          "example": "Do not jump to conclusions too fast.",
+          "exampleCn": "不要太快下结论。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "We should not jump to a conclusion",
+          "name": "jump to a conclusion"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要太快下结论。",
+          "answer": "Do not jump to conclusions too fast.",
+          "note": "意为\"匆忙下结论\"。",
+          "point": "jump to a conclusion"
+        }
+      ]
+    },
+    {
+      "text": "A conscientious worker will check the machine every morning.",
+      "translation": "尽责的工人每天早晨都会检查机器。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A conscientious worker will check the machine",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A conscientious worker"
+            },
+            {
+              "role": "谓语",
+              "text": "will check"
+            },
+            {
+              "role": "宾语",
+              "text": "the machine"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "every morning"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "conscientious 意为\"尽责的\"。",
+          "example": "Check the door before you sleep.",
+          "exampleCn": "睡前检查一下门。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "A conscientious worker will check the machine",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:睡前检查一下门。",
+          "answer": "Check the door before you sleep.",
+          "note": "conscientious 意为\"尽责的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The repair will entail a high cost and a long wait.",
+      "translation": "维修将需要高昂的费用和漫长的等待。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The repair will entail a high cost and a long wait",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The repair"
+            },
+            {
+              "role": "谓语",
+              "text": "will entail"
+            },
+            {
+              "role": "宾语",
+              "text": "a high cost and a long wait"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "entail 用法",
+          "note": "entail 意为\"使必要、需要\"。",
+          "example": "Success entails hard work.",
+          "exampleCn": "成功需要努力工作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The repair will entail a high cost and a long wait",
+          "name": "entail 用法"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:成功需要努力工作。",
+          "answer": "Success entails hard work.",
+          "note": "entail 意为\"使必要、需要\"。",
+          "point": "entail 用法"
+        }
+      ]
+    },
+    {
+      "text": "The company will remain accountable for every step of the process.",
+      "translation": "公司将对过程的每一步负责。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The company will remain accountable",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The company"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will remain"
+            },
+            {
+              "role": "表语",
+              "text": "accountable"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for every step of the process"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "remain + 表语",
+          "note": "remain 作系动词,\"保持\"。",
+          "example": "The door will remain open.",
+          "exampleCn": "门会一直开着。"
+        },
+        {
+          "name": "be accountable for",
+          "note": "意为\"对……负责\"。",
+          "example": "We are accountable for the result.",
+          "exampleCn": "我们对结果负责。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The company will remain accountable",
+          "name": "remain + 表语"
+        },
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The company will remain accountable",
+          "name": "be accountable for"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:门会一直开着。",
+          "answer": "The door will remain open.",
+          "note": "remain 作系动词,\"保持\"。",
+          "point": "remain + 表语"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我们对结果负责。",
+          "answer": "We are accountable for the result.",
+          "note": "意为\"对……负责\"。",
+          "point": "be accountable for"
+        }
+      ]
+    },
+    {
+      "text": "Subsequently, the station will add more signal to guide the crowd.",
+      "translation": "随后,车站将增加更多信号来引导人群。",
+      "chunks": [
+        {
+          "label": "插入语(连接副词)",
+          "color": "#9fd8e8",
+          "text": "Subsequently"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the station will add more signal",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the station"
+            },
+            {
+              "role": "谓语",
+              "text": "will add"
+            },
+            {
+              "role": "宾语",
+              "text": "more signal"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的)",
+          "color": "#8ab4f8",
+          "text": "to guide the crowd"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to guide the crowd 表目的。",
+          "example": "He speaks louder to guide the crowd.",
+          "exampleCn": "他提高声音来引导人群。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "the station will add more signal",
+          "name": "不定式作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他提高声音来引导人群。",
+          "answer": "He speaks louder to guide the crowd.",
+          "note": "to guide the crowd 表目的。",
+          "point": "不定式作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "The deterioration of the road will begin within a year.",
+      "translation": "道路的恶化将在一年内开始。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The deterioration of the road"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will begin"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "within a year"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "within + 时间段",
+          "note": "within a year 意为\"一年之内\"。",
+          "example": "The bridge will collapse within years.",
+          "exampleCn": "这座桥几年内就会坍塌。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The deterioration of the road",
+          "name": "within + 时间段"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这座桥几年内就会坍塌。",
+          "answer": "The bridge will collapse within years.",
+          "note": "within a year 意为\"一年之内\"。",
+          "point": "within + 时间段"
+        }
+      ]
+    },
+    {
+      "text": "Incidentally, the old engine will need a complete repair.",
+      "translation": "顺便说一句,旧发动机将需要全面维修。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Incidentally"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the old engine will need a complete repair",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the old engine"
+            },
+            {
+              "role": "谓语",
+              "text": "will need"
+            },
+            {
+              "role": "宾语",
+              "text": "a complete repair"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 incidentally",
+          "note": "意为\"顺便说一句\"。",
+          "example": "Incidentally, the meeting is moved.",
+          "exampleCn": "顺便说一句,会议改期了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "the old engine will need a complete repair",
+          "name": "插入语 incidentally"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:顺便说一句,会议改期了。",
+          "answer": "Incidentally, the meeting is moved.",
+          "note": "意为\"顺便说一句\"。",
+          "point": "插入语 incidentally"
+        }
+      ]
+    },
+    {
+      "text": "The momentum of the crash will push the car forward.",
+      "translation": "撞击的动量会把车向前推。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾宾补)",
+          "color": "#a8dab5",
+          "text": "The momentum of the crash will push the car forward",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The momentum of the crash"
+            },
+            {
+              "role": "谓语",
+              "text": "will push"
+            },
+            {
+              "role": "宾语",
+              "text": "the car"
+            },
+            {
+              "role": "宾补",
+              "text": "forward"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "push + 宾语 + 宾补",
+          "note": "宾补 forward 说明结果。",
+          "example": "Push the door open.",
+          "exampleCn": "把门推开。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The momentum of the crash will push the car forward",
+          "name": "push + 宾语 + 宾补"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:把门推开。",
+          "answer": "Push the door open.",
+          "note": "宾补 forward 说明结果。",
+          "point": "push + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "The likelihood of another storm is still high.",
+      "translation": "再次出现暴风雨的可能性仍然很高。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The likelihood of another storm"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is still high",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "still high"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主系表结构",
+          "note": "likelihood 意为\"可能性\"。",
+          "example": "The chance of rain is high.",
+          "exampleCn": "下雨的可能性很大。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The likelihood of another storm",
+          "name": "主系表结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:下雨的可能性很大。",
+          "answer": "The chance of rain is high.",
+          "note": "likelihood 意为\"可能性\"。",
+          "point": "主系表结构"
+        }
+      ]
+    },
+    {
+      "text": "We will rectify the error before the next trip.",
+      "translation": "我们将在下一次出行前纠正这个错误。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will rectify the error",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will rectify"
+            },
+            {
+              "role": "宾语",
+              "text": "the error"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "before the next trip"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "before 介词短语作时间状语",
+          "note": "before the next trip 说明时间。",
+          "example": "Rest before the long trip.",
+          "exampleCn": "长途出行前好好休息。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "We will rectify the error",
+          "name": "before 介词短语作时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:长途出行前好好休息。",
+          "answer": "Rest before the long trip.",
+          "note": "before the next trip 说明时间。",
+          "point": "before 介词短语作时间状语"
+        }
+      ]
+    },
+    {
+      "text": "The law will uphold the right of every citizen.",
+      "translation": "法律将维护每个公民的权利。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The law will uphold the right of every citizen",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The law"
+            },
+            {
+              "role": "谓语",
+              "text": "will uphold"
+            },
+            {
+              "role": "宾语",
+              "text": "the right of every citizen"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "uphold 意为\"维护、支持\"。",
+          "example": "We uphold the value of freedom.",
+          "exampleCn": "我们维护自由的价值。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u8",
+          "phrase": "The law will uphold the right of every citizen",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们维护自由的价值。",
+          "answer": "We uphold the value of freedom.",
+          "note": "uphold 意为\"维护、支持\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u8",
+      "name": "现在分词短语作伴随状语",
+      "note": "Beginning the journey... 表伴随动作,逻辑主语是 the train。",
+      "sourceExample": "Beginning the journey in heavy rain, the train will move with care through the mountain.",
+      "sourceExampleCn": "冒着大雨开始旅程,火车将小心翼翼地穿过山间。"
+    },
+    {
+      "grammarId": "g-s3u8",
+      "name": "过去分词短语作状语",
+      "note": "Worried by... 表原因,\"因为被……惊扰\"。",
+      "sourceExample": "Worried by the sudden noise, the driver will stop the car at once.",
+      "sourceExampleCn": "被突如其来的响声惊扰,司机将立刻停车。"
+    },
+    {
+      "grammarId": "g-s3u8",
+      "name": "现在分词 Considering 作状语",
+      "note": "意为\"考虑到……\"。",
+      "sourceExample": "Considering the damage to the bridge, the engineer will work all night.",
+      "sourceExampleCn": "考虑到桥梁的损坏,工程师将通宵工作。"
+    },
+    {
+      "grammarId": "g-s3u8",
+      "name": "不定式短语作目的状语",
+      "note": "to prevent... 表目的,\"为了……\"。",
+      "sourceExample": "To prevent a similar accident, the company will upgrade the signal system.",
+      "sourceExampleCn": "为了防止类似事故,公司将升级信号系统。"
+    },
+    {
+      "grammarId": "g-s3u8",
+      "name": "and 并列句",
+      "note": "两个分句由 and 连接。",
+      "sourceExample": "The investigation will end in a month, and the report will come soon.",
+      "sourceExampleCn": "调查将在一个月内结束,报告很快就会出来。"
+    }
+  ]
+}

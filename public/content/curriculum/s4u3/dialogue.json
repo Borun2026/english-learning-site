@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u3",
+  "stage": 4,
+  "unitId": "s4u3",
+  "scene": "论文咨询",
+  "goal": "问清论文修改要求并确认时间表",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "I have gone through your first draft, and while the overall framework is acceptable, there are several issues that must be addressed before resubmission.",
+      "lineCn": "我看完了你的初稿,总体框架可以接受,但有几个问题必须在重新提交前解决。",
+      "grammar": [
+        { "name": "while 让步状语从句 + that 定语从句", "note": "while 在此表\"虽然\"引导让步,issues that must be addressed 中 that 引导定语从句,是批改场景常见的正式表达。" }
+      ],
+      "options": [
+        { "text": "Thank you for the feedback, Professor Zhang. Could you please specify which issues you consider most critical, so that I can prioritize my revision accordingly?", "textCn": "谢谢您的反馈,张老师。您能具体说明哪些问题最关键吗?这样我就能按优先级修改。", "feedback": "主动请求明确重点,体现高效沟通,为后续修改打下基础。", "next": "n2" },
+        { "text": "Oh, I thought my draft was almost perfect already.", "textCn": "哦,我以为我的初稿已经很完美了。", "feedback": "轻视导师反馈,会让导师认为你缺乏修改的诚意。", "next": "n3" },
+        { "text": "Fine, I will fix everything. Do you think I can finish it tonight?", "textCn": "行,我全都改。您觉得我今晚能改完吗?", "feedback": "想一晚改完全部问题,说明没有认真评估修改的难度,态度轻率。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "The literature review section needs stronger synthesis, your methodology chapter lacks a justification for the sampling strategy, and the discussion fails to address one of your research questions explicitly.",
+      "lineCn": "文献综述部分需要更强的综合提炼,方法论一章缺少对抽样策略的论证,讨论部分也没有明确回应其中一个研究问题。",
+      "grammar": [
+        { "name": "三重复合宾语结构", "note": "三个并列句各带一个宾语及补充说明:needs stronger synthesis、lacks a justification、fails to address,构成工整的排比长句。" }
+      ],
+      "options": [
+        { "text": "I understand. Regarding the sampling strategy, would you prefer that I justify it by citing similar studies in the field, or should I conduct a small pilot test to support the choice?", "textCn": "我明白了。关于抽样策略,您是希望我引用领域内相似研究来论证,还是做一个小的预测试来支持这个选择?", "feedback": "针对具体问题提出两个备选方案请导师定夺,展示了对问题的深入思考。", "next": "n4" },
+        { "text": "Could you just tell me which one is the easiest to fix, so I can do that first and ignore the others?", "textCn": "您能告诉我哪个最好改吗?我先改那个,其他的不管了。", "feedback": "选择性逃避修改,论文质量会大打折扣。", "next": "n3" },
+        { "text": "I do not agree with your comments, because I spent a lot of time on the literature review and it is already very good.", "textCn": "我不同意您的意见,我花了很多时间写文献综述,它已经写得很好了。", "feedback": "未仔细消化意见就反驳,显得固执,不利于论文修改。", "next": "fail1" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "Let me be clear: the comments I have written in the margins are not suggestions but requirements, and skipping any of them will delay your graduation timeline.",
+      "lineCn": "我说清楚:我写在页边的批注不是建议而是要求,跳过任何一条都会影响你的毕业时间。",
+      "grammar": [
+        { "name": "not...but... 并列否定结构 + 动名词主语", "note": "not suggestions but requirements 表\"不是……而是……\",skipping any of them 是动名词短语作主语,表达严肃要求。" }
+      ],
+      "options": [
+        { "text": "I apologize for the misunderstanding. I will go through every single comment carefully, and could you confirm whether the deadline for the revised version remains the same?", "textCn": "抱歉我理解有误。我会仔细处理每一条批注,您能确认修订版的截止日期是否保持不变吗?", "feedback": "诚恳道歉并立刻追问时间节点,把注意力拉回核心任务。", "next": "n4" },
+        { "text": "But some of your comments conflict with what my classmates were told by their supervisors.", "textCn": "但您有些批注和别的同学导师说的不一致。", "feedback": "拿别人的情况顶撞自己的导师,毫无建设性,只会激化矛盾。", "next": "fail2" },
+        { "text": "Sorry, I will just delete the problematic sections so that there is nothing left to revise.", "textCn": "抱歉,我把有问题的部分删掉,这样就没东西要改了。", "feedback": "用删除代替修改,论文完整性受损,是最差的选择。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "A pilot test would be the more rigorous option, given that your questionnaire was adapted from an English instrument, and I expect the revised draft by noon on October 20th, with a progress report due one week earlier.",
+      "lineCn": "鉴于你的问卷是从英文量表改编的,预测试是更严谨的选择。我要求 10 月 20 日中午前交修订稿,并且提前一周交进度报告。",
+      "grammar": [
+        { "name": "given that 原因从句 + 并列时间状语", "note": "given that 引导原因状语从句,with a progress report due 是独立主格结构补充时间信息,体现长难句的信息整合。" }
+      ],
+      "options": [
+        { "text": "Understood. I will run the pilot test this week, submit the progress report by October 13th, and send you the full revision by noon on October 20th. Is that schedule acceptable to you?", "textCn": "明白。本周我会完成预测试,10 月 13 日前交进度报告,10 月 20 日中午前发送完整修订稿。这个安排您认可吗?", "feedback": "把导师要求的时间逐一复述确认,专业且严谨,时间表就此敲定。", "next": "success" },
+        { "text": "October 20th is too early for me because I have job interviews every day next month, so could we postpone it to December?", "textCn": "10 月 20 日对我来说太早了,下个月我天天有面试,能不能推迟到 12 月?", "feedback": "以找工作为由大幅延期,显得论文优先级过低,导师很难接受。", "next": "fail1" },
+        { "text": "I will try my best, but I cannot promise anything, because I am not sure how the pilot test will go.", "textCn": "我会尽力,但我不能承诺任何事,因为不确定预测试会怎样。", "feedback": "不给明确承诺会让导师无法安排后续环节,沟通等于没有结论。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "Perfect. The schedule is now confirmed: progress report on October 13th and full revision by noon on October 20th. I look forward to reading your improved version.",
+      "lineCn": "很好。时间表现在确认:10 月 13 日交进度报告,10 月 20 日中午前交完整修订稿。期待读到你的改进版。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "I am afraid that timeline is not negotiable, since the department has fixed deadlines. Please plan your revision accordingly and contact me once you have a concrete plan.",
+      "lineCn": "恐怕这个时间不可协商,因为学院有固定的截止日期。请据此安排修改,制定好具体计划后联系我。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "论文指导教师 Professor Zhang",
+      "line": "Then we will proceed as follows: you will report your progress to me every Friday, and we will adjust the schedule based on what you actually deliver.",
+      "lineCn": "那就这样:你每周五向我汇报进度,我们根据你的实际交付情况调整安排。",
+      "end": true,
+      "success": false
+    }
+  }
+}

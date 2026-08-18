@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u9",
+  "stage": 2,
+  "title": "情态动词推测(may/might/could)",
+  "explanation": "## 情态动词表推测\n\n情态动词不仅可以表达能力、义务,还可以表达对情况的**推测**。可能性从高到低排列:\n\n| 情态动词 | 含义 | 例句 |\n|---|---|---|\n| must | 一定(把握极大) | He must be at home. |\n| may | 可能(不太确定) | He may be at home. |\n| might | 也许(可能性更小) | He might come tonight. |\n| could | 可能(委婉、不确定) | It could rain. |\n\n## 否定与过去推测\n\n- **否定推测**用 can't(不可能):That can't be Mary. 注意不能用 mustn't(mustn't 表示\"禁止\")。\n- **对过去的推测**:may / might / could / must + have + 过去分词:He may have missed the train.\n\n口诀:must 很肯定,can't 不可能,may/might/could 是\"也许\"。",
+  "examples": [
+    { "en": "He may be at home now.", "cn": "他现在可能在家。", "note": "may 表推测,语气较弱,后接动词原形 be。" },
+    { "en": "She might come to the party tonight.", "cn": "她今晚也许来参加聚会。", "note": "might 语气更委婉,可能性更小。" },
+    { "en": "The light is on. He must be in the room.", "cn": "灯亮着,他一定在房间里。", "note": "有依据的肯定推测用 must。" },
+    { "en": "It can't be true.", "cn": "这不可能是真的。", "note": "否定推测用 can't,表示\"不可能\"。" }
+  ],
+  "errors": [
+    { "wrong": "She might can come tomorrow.", "right": "She might come tomorrow.", "note": "might 后不能再用 can,情态动词不连用。" },
+    { "wrong": "He mustn't be at school because I saw him at home.", "right": "He can't be at school because I saw him at home.", "note": "否定推测用 can't;mustn't 只表示禁止。" },
+    { "wrong": "He may has left.", "right": "He may have left.", "note": "对过去的推测用 may + have + 过去分词。" }
+  ],
+  "quiz": [
+    { "q": "He ___ be at home now. I'm not sure.", "options": ["must", "may", "can't", "shouldn't"], "answer": 1, "note": "不确定的推测用 may。" },
+    { "q": "That ___ be Mary. She has gone to London.", "options": ["must", "can't", "may", "might"], "answer": 1, "note": "她已去伦敦,现在不可能是她,用 can't。" },
+    { "q": "I hear someone knocking. It ___ be Tom.", "options": ["must", "can't", "may", "needn't"], "answer": 0, "note": "听到敲门声,有把握的推测用 must。" },
+    { "q": "He ___ have finished the work; the light is still on.", "options": ["can't", "may", "must", "might"], "answer": 0, "note": "灯还亮着说明没完成,否定推测用 can't have done。" },
+    { "q": "\"___ I use your phone?\" \"Sure.\"", "options": ["May", "Must", "Need", "Shall"], "answer": 0, "note": "may 用于请求许可,语气礼貌。" }
+  ]
+}

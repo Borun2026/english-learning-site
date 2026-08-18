@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u5",
+  "stage": 1,
+  "unitId": "s1u5",
+  "scene": "购物买水果",
+  "goal": "买到想要的水果并付钱成功",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Hello! Can I help you?",
+      "lineCn": "你好!需要帮忙吗?",
+      "grammar": [
+        { "name": "不定冠词 a/an", "note": "可数名词单数前用 a 或 an:以辅音音素开头用 a,以元音音素开头用 an,如 a banana、an apple。" }
+      ],
+      "options": [
+        { "text": "Yes, please. I want to buy some apples and bananas.", "textCn": "是的。我想买一些苹果和香蕉。", "feedback": "礼貌回应并说出要买的水果,购物顺利开始。", "next": "n2" },
+        { "text": "I want an apple and a orange.", "textCn": "我要一个苹果和一个橙子。", "feedback": "orange 以元音音素开头,应该说 an orange,而且只买一两个有点少。", "next": "n3" },
+        { "text": "No help.", "textCn": "不用帮。", "feedback": "不礼貌也不清楚,老板无法为你服务。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Sure! The apples are five yuan each. How many do you want?",
+      "lineCn": "当然!苹果五元一个。你要多少个?",
+      "grammar": [
+        { "name": "名词复数规则", "note": "可数名词复数一般直接加 -s,如 apples;以 s、x、ch、sh 结尾的单词加 -es,如 boxes、watches。" }
+      ],
+      "options": [
+        { "text": "I want three apples and two bananas, please. How much are they?", "textCn": "我要三个苹果和两个香蕉。一共多少钱?", "feedback": "说清了数量和种类,还主动询问价格,购物非常顺利。", "next": "n4" },
+        { "text": "I want apple.", "textCn": "我要苹果。", "feedback": "apple 是可数名词,单数前要加 a 或 an,或直接用复数 apples,这里缺少冠词。", "next": "n3" },
+        { "text": "Many. I do not know.", "textCn": "很多。我不知道。", "feedback": "没有给出具体数量,老板无法称重算钱。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Here is the fruit. Look at the apples and the bananas. Which do you like?",
+      "lineCn": "水果在这。看看这些苹果和香蕉,你喜欢哪种?",
+      "grammar": [
+        { "name": "定冠词 the", "note": "the 用于特指双方都知道的人或物,如 the apples on the table,而 a/an 表示\"一个\"。" }
+      ],
+      "options": [
+        { "text": "I like the red apples. I want four of them.", "textCn": "我喜欢这些红苹果。我要四个。", "feedback": "用 the 特指店里的红苹果,并给出数量,重新进入购买正轨。", "next": "n4" },
+        { "text": "I like nothing here.", "textCn": "我一样都不喜欢。", "feedback": "什么都不买,老板无法成交。", "next": "fail1" },
+        { "text": "Maybe I will come back tomorrow.", "textCn": "也许我明天再来。", "feedback": "一再拖延,今天的购物没有结果。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "That is ten yuan in total, please.",
+      "lineCn": "一共十元,请付款。",
+      "grammar": [
+        { "name": "不可数名词", "note": "money、water、juice 等不可数名词没有复数形式,也不能用 a/an,要说 some money。" }
+      ],
+      "options": [
+        { "text": "Here is the money. Thank you very much!", "textCn": "给你钱。非常感谢!", "feedback": "付钱成功,水果买到手,购物目标达成!", "next": "success" },
+        { "text": "I do not have money with me.", "textCn": "我身上没带钱。", "feedback": "没有钱就无法付账,购物失败。", "next": "fail2" },
+        { "text": "Give me the fruit first. I will pay later.", "textCn": "先把水果给我。我以后再付钱。", "feedback": "不肯先付钱,老板不会同意。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Thank you! Here are your apples and bananas. Have a nice day!",
+      "lineCn": "谢谢!这是你的苹果和香蕉。祝你今天愉快!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Oh, I see. Maybe another fruit next time.",
+      "lineCn": "哦,我明白了。也许下次再买别的水果。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "水果店老板 Ms. Green",
+      "line": "Sorry, but you need to pay for the fruit first. Please come back later.",
+      "lineCn": "抱歉,你需要先付钱才能拿走水果。请下次再来。",
+      "end": true,
+      "success": false
+    }
+  }
+}

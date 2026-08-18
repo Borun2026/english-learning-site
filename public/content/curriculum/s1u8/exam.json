@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u8",
+  "stage": 1,
+  "unitId": "s1u8",
+  "title": "真题演练 · 情态动词入门",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 情态动词入门。",
+  "questions": [
+    {
+      "q": "___ I ask you a question?",
+      "options": [
+        "Can",
+        "Do",
+        "Does",
+        "Have"
+      ],
+      "answer": 0,
+      "analysis": "请求许可用 Can 提前构成疑问句。",
+      "point": "g-s1u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "You ___ smoke here. It is not allowed.",
+      "options": [
+        "can",
+        "mustn't",
+        "should",
+        "are"
+      ],
+      "answer": 1,
+      "analysis": "禁止做某事用 mustn't。",
+      "point": "g-s1u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She ___ play the piano when she was five.",
+      "options": [
+        "can",
+        "could",
+        "must",
+        "should"
+      ],
+      "answer": 1,
+      "analysis": "表示过去的能力用 could。",
+      "point": "g-s1u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "You ___ finish your homework before dinner.",
+      "options": [
+        "must",
+        "mustn't",
+        "can't",
+        "needn't"
+      ],
+      "answer": 0,
+      "analysis": "必须完成用 must,语气强。",
+      "point": "g-s1u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"___ you help me?\" \"Of course.\"",
+      "options": [
+        "Must",
+        "Should",
+        "Could",
+        "Might"
+      ],
+      "answer": 2,
+      "analysis": "礼貌请求用 could,语气最委婉。",
+      "point": "g-s1u8",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She can swims well.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She can swim well.。情态动词后动词用原形 swim,不能加 -s。",
+      "point": "g-s1u8",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

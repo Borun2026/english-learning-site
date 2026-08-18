@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u7",
+  "stage": 4,
+  "unitId": "s4u7",
+  "scene": "复习经验分享",
+  "goal": "组织一次有效的复习经验分享",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "学习小组组长 Sun Wei",
+      "line": "Welcome, everyone. Our goal today is to share revision experience in a way that benefits the whole group, so I suggest we begin by agreeing on a few ground rules for the session.",
+      "lineCn": "欢迎大家。今天的目标是以惠及全组的方式分享复习经验,所以我建议我们先就本场分享的几条基本规则达成一致。",
+      "grammar": [
+        { "name": "in a way that 定语从句 + so 结果从句", "note": "in a way that benefits the whole group 中 that 引导定语从句修饰 way,so 引出建议,句式正式且有条理。" }
+      ],
+      "options": [
+        { "text": "I propose three rules: each speaker gets ten minutes, one question per person after each talk, and all comments must focus on methods rather than personal criticism.", "textCn": "我提议三条规则:每位分享者十分钟,每场分享后每人一个问题,所有评论聚焦方法而非人身批评。", "feedback": "规则具体、可执行且保护发言氛围,为高效分享奠定基础。", "next": "n2" },
+        { "text": "Let us just start talking and whoever talks the loudest can go first.", "textCn": "直接开讲就行,谁声音大谁先说。", "feedback": "无组织无秩序,经验分享会必然变成闲聊,效率极低。", "next": "n3" },
+        { "text": "We do not need rules, because everyone here already knows everything about studying.", "textCn": "不需要规则,在座各位谁不知道学习是怎么回事。", "feedback": "轻视流程设计,参会者很容易跑题,分享会流于形式。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "分享者 Wang Fang",
+      "line": "Thank you. My key experience is that I stopped taking notes mechanically and started building a personal error bank instead, which I review every three days until the errors become automatic responses.",
+      "lineCn": "谢谢。我的核心经验是停止机械记笔记,转而建立个人错题本,每三天复习一次,直到错误点成为自动反应。",
+      "grammar": [
+        { "name": "表语从句 + which 非限定性定语从句 + until 时间从句", "note": "My key experience is that... 是表语从句,which 指代整个错题本做法,until 引导时间状语从句,典型的三层嵌套长难句。" }
+      ],
+      "options": [
+        { "text": "That is very practical. Could you tell us what kinds of errors you record, and how you decide whether an error is worth entering into the bank?", "textCn": "这很实用。你能告诉我们你记录哪类错误,以及如何判断一个错误是否值得记入错题本吗?", "feedback": "追问具体操作标准,让经验可复制,这是有效分享的关键。", "next": "n4" },
+        { "text": "I do not have an error bank, and I think memorizing wrong answers is a waste of time anyway.", "textCn": "我没有错题本,而且我觉得记错题本来就是浪费时间。", "feedback": "在没有听完方法的情况下武断否定,破坏分享氛围。", "next": "n3" },
+        { "text": "Can we skip this topic? I want to talk about which brand of pens to buy instead.", "textCn": "能跳过这个话题吗?我想聊买什么牌子的笔。", "feedback": "在讨论方法论时插入文具消费话题,严重跑题。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "学习小组组长 Sun Wei",
+      "line": "I am sorry to interrupt, but our time is limited, and if we drift away from the topic, we will not be able to extract any actionable advice for the rest of the group.",
+      "lineCn": "抱歉打断一下,我们时间有限,如果偏离主题,就无法为大家提炼出可操作的建议了。",
+      "grammar": [
+        { "name": "if 条件从句 + be able to 情态结构", "note": "if we drift away 是条件从句,be not able to extract 是情态动词否定式,整句用委婉但坚定的方式拉回话题。" }
+      ],
+      "options": [
+        { "text": "I apologize for the interruption. Let us get back to the question: what qualifies as a high-value error for the bank?", "textCn": "抱歉打断。让我们回到问题上来:什么算是值得进错题本的高价值错误?", "feedback": "快速承认失误并重新聚焦,挽回了分享会的节奏。", "next": "n4" },
+        { "text": "Fine, I will be quiet, but I think the whole session is boring anyway.", "textCn": "行,我不说话了,反正这场分享会很无聊。", "feedback": "消极抵抗,自己拒绝收获的同时也在消磨全组的积极性。", "next": "fail1" },
+        { "text": "If we cannot discuss what I want, then I will just leave the meeting.", "textCn": "如果我不能聊想聊的,那我干脆退出会议。", "feedback": "因个人偏好退出集体活动,既失礼也失去学习机会。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "分享者 Wang Fang",
+      "line": "I record errors that were caused by misunderstanding rather than carelessness, and I keep each entry short, writing down the trigger sentence, my wrong choice, and the correct reasoning in three lines at most.",
+      "lineCn": "我记录因理解偏差而非粗心造成的错误,每条尽量简短:触发句、我的错误选择、正确推理,最多三行。",
+      "grammar": [
+        { "name": "过去分词短语作后置定语", "note": "errors that were caused by... 可缩略为过去分词短语 caused by misunderstanding 作定语,writing down... 是现在分词伴随状语,信息密度高。" }
+      ],
+      "options": [
+        { "text": "This is exactly the kind of concrete advice we came for. Following this format, I suggest we each create our own error bank this week, then meet again to compare which error types appear most often across the group.", "textCn": "这正是我们来听的具体建议。按这个格式,我建议我们本周各自建立错题本,再碰头对比全组最常出现的错误类型。", "feedback": "把他人经验转化为全组的行动计划,分享会产出落到实处,组织目标达成。", "next": "success" },
+        { "text": "This sounds too time-consuming for me, so I will just scan my notes before the exam instead of building any system.", "textCn": "这听起来太费时间了,我还是考前翻翻笔记吧,不搞什么体系。", "feedback": "拒绝执行具体方法,分享会的产出无法落地,等于白开。", "next": "fail2" },
+        { "text": "Since we are already here, why not spend the remaining time sharing our favorite study snacks?", "textCn": "既然人都齐了,剩下的时间不如分享下各自喜欢的零食?", "feedback": "在正事完成之前又试图跑题,组织的效率被消耗殆尽。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "学习小组组长 Sun Wei",
+      "line": "Excellent, that concludes our session with a concrete outcome: each member builds a personal error bank this week, and we compare our findings next Monday. Thank you all for the productive sharing.",
+      "lineCn": "很好,本次分享会以具体产出收尾:每人本周建立个人错题本,下周一对比成果。感谢大家富有成效的分享。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "学习小组组长 Sun Wei",
+      "line": "I am sorry to see that, but I will not force anyone to stay. The rest of us will continue, and the meeting notes will be shared with everyone afterwards.",
+      "lineCn": "很遗憾看到这样,但我不会强留任何人。我们继续,会议记录之后会分享给大家。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "学习小组组长 Sun Wei",
+      "line": "Then I am afraid today's session has produced no actionable plan, which is a missed opportunity for all of us. Let us hope next week's meeting goes better.",
+      "lineCn": "恐怕今天这场分享没有产出任何可执行计划,这对我们所有人都是个遗憾。希望下周的会更好。",
+      "end": true,
+      "success": false
+    }
+  }
+}

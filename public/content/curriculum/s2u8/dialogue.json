@@ -1,0 +1,49 @@
+{
+  "id": "d-s2u8",
+  "stage": 2,
+  "unitId": "s2u8",
+  "scene": "比较手机型号",
+  "goal": "说服朋友买性价比更高的那款",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "朋友 Tom", "line": "I am going to buy the new Phone X this weekend. It is the most popular model this year!", "lineCn": "我这个周末要买新款 Phone X,它是今年最火的机型!", "grammar": [ { "name": "最高级 the most...", "note": "the most popular 是 popular 的最高级,表示\"最受欢迎的\"。" } ],
+      "options": [
+        { "text": "Wait! Phone X is much more expensive than Phone A, and the difference is really small.", "textCn": "等等!Phone X 比 Phone A 贵得多,但差别其实很小。", "feedback": "用比较级指出价格差距,提出质疑。", "next": "n2" },
+        { "text": "Great, buy it!", "textCn": "太好了,买吧!", "feedback": "随声附和,没有帮朋友理性比较。", "next": "n3" },
+        { "text": "I am hungry.", "textCn": "我饿了。", "feedback": "答非所问,完全没接朋友的话题。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "朋友 Tom", "line": "Really? But Phone X has the fastest processor and the best camera on the market. Is Phone A really better?",
+      "lineCn": "真的吗?可 Phone X 有市场上最快的处理器和最好的相机。Phone A 真的更好吗?", "grammar": [ { "name": "the + 最高级", "note": "the fastest, the best 是最高级形式,表示三者以上之最。" } ],
+      "options": [
+        { "text": "Look: Phone A is almost as fast as Phone X, but its price is 1,200 yuan lower. For most of us, A is a wiser choice.", "textCn": "你看:Phone A 速度和 Phone X 几乎一样快,但价格便宜 1200 元。对我们大多数人来说,A 更明智。", "feedback": "用 as...as 同级比较加数字对比,论证有力。", "next": "n4" },
+        { "text": "Whatever, both are fine.", "textCn": "随便,两款都行。", "feedback": "态度模糊,完全没有说服力。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "朋友 Tom", "line": "Hmm, but I really want the newest one. Do you think the expensive one is worth the money?",
+      "lineCn": "嗯,可我真的想要最新款。你觉得贵的这款值这个价吗?", "grammar": [ { "name": "the newest / the expensive one", "note": "形容词最高级修饰具体事物,表达\"最新/最贵\"。" } ],
+      "options": [
+        { "text": "Actually, the cheaper one has a longer battery life, which is more important to me. You should compare them carefully first.", "textCn": "其实,便宜那款续航更久,这点对我更重要。你应该先仔细比较一下。", "feedback": "用比较级长续航、重要性对比,给出理性建议。", "next": "n4" },
+        { "text": "Yes, it is worth it. Just buy it.", "textCn": "值,买吧。", "feedback": "盲目支持,反而可能让朋友多花冤枉钱。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "朋友 Tom", "line": "You have a point. But I still feel that Phone X looks cooler. Is the camera really the only thing that matters?",
+      "lineCn": "你说得有道理。可我还是觉得 Phone X 更酷。难道相机是唯一重要的东西吗?", "grammar": [ { "name": "比较级 + than", "note": "looks cooler 是 cool 的比较级,表达\"看起来更酷\"。" } ],
+      "options": [
+        { "text": "The camera of Phone A is even better than that of Phone X in low light. And its screen is as large as X's. Cool is not everything!", "textCn": "Phone A 的相机在暗光下甚至比 Phone X 更好,屏幕也一样大。酷不是一切!", "feedback": "用 even better than / as large as 层层比较,论据充分。", "next": "n6" },
+        { "text": "Then buy the cooler one. Never mind the price.", "textCn": "那就买更酷的,别管价格。", "feedback": "放弃论证,朋友多半会冲动消费。", "next": "fail2" }
+      ] },
+    "n5": { "id": "n5", "speaker": "朋友 Tom", "line": "I am really confused. Can you show me which one has a higher cost-performance ratio?",
+      "lineCn": "我真的很纠结。你能帮我看看哪个性价比更高吗?", "grammar": [ { "name": "比较级 higher", "note": "higher 是 high 的比较级,用于两者比较:性价比更高。" } ],
+      "options": [
+        { "text": "Sure. Phone A has almost the same functions but a much lower price, so its ratio is the highest. That is the smarter deal.", "textCn": "当然。Phone A 功能几乎一样但价格低得多,所以它的性价比最高,这才是更划算的。", "feedback": "用 the highest 最高级下结论,说服力拉满。", "next": "n6" },
+        { "text": "I have no idea. Just follow your heart.", "textCn": "我不知道,跟着感觉走吧。", "feedback": "没有给出任何实际对比。", "next": "fail1" }
+      ] },
+    "n6": { "id": "n6", "speaker": "朋友 Tom", "line": "Okay, I am convinced! But is it more convenient to buy it online or in the store?",
+      "lineCn": "好吧,我被说服了!不过网上买还是店里买更方便呢?", "grammar": [ { "name": "more convenient than", "note": "多音节形容词用 more + 原级构成比较级,表示\"更方便\"。" } ],
+      "options": [
+        { "text": "Buying online is usually cheaper than buying in the store, and the delivery is faster too. Let us order it together now!", "textCn": "网上买通常比店里买便宜,送货也更快。我们现在一起下单吧!", "feedback": "比较级对比购物渠道,还带朋友一起下单,劝服成功!", "next": "success" },
+        { "text": "Hmm, maybe you should buy Phone X anyway.", "textCn": "嗯,也许你还是该买 Phone X。", "feedback": "临阵反悔,前面的话都白说了。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "朋友 Tom", "line": "You are right! Phone A is the better choice. Thanks for saving me 1,200 yuan!", "lineCn": "你说得对!Phone A 是更好的选择。谢谢你帮我省了 1200 元!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "朋友 Tom", "line": "Alright, maybe I will just buy Phone X. Thanks anyway!", "lineCn": "好吧,也许我还是买 Phone X 吧。不管怎样,谢谢你!", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "朋友 Tom", "line": "Wait, now I am even more confused. Let me think about it at home.", "lineCn": "等等,我现在更糊涂了。我回家再想想。", "end": true, "success": false }
+  }
+}

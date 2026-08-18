@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u2",
+  "stage": 1,
+  "unitId": "s1u2",
+  "title": "听力挑战 · 谈论日常生活",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "室友",
+      "line": "What time do you usually get up?",
+      "lineCn": "你通常几点起床?",
+      "grammar": [
+        { "name": "一般现在时的疑问句", "note": "do 作助动词放在主语前构成一般疑问句,询问习惯性的日常动作。" }
+      ],
+      "options": [
+        { "text": "I usually get up at seven.", "correct": true, "feedback": "用一般现在时回答习惯性动作,符合问题要求。" },
+        { "text": "I went to bed at ten last night.", "correct": false, "feedback": "回答的是昨晚睡觉,而不是每天起床的时间。" },
+        { "text": "I will get up early tomorrow.", "correct": false, "feedback": "说的是明天的安排,而问题问的是平时的习惯。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Do you often cook at home?",
+      "lineCn": "你经常在家做饭吗?",
+      "grammar": [
+        { "name": "一般现在时的肯定与否定", "note": "表示经常性动作用一般现在时,回答 Yes 后用动词原形。" }
+      ],
+      "options": [
+        { "text": "Yes, I cook dinner every day.", "correct": true, "feedback": "Yes + 一般现在时,说明每天做饭的习惯。" },
+        { "text": "No, I cooked last night.", "correct": false, "feedback": "cooked 是一般过去时,与问题时态不符,而且自相矛盾。" },
+        { "text": "Yes, I am cooking now.", "correct": false, "feedback": "am cooking 是现在进行时,表示此刻正在做,不是经常性习惯。" }
+      ]
+    }
+  ]
+}

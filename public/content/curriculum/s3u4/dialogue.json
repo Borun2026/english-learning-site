@@ -1,0 +1,188 @@
+{
+  "id": "d-s3u4",
+  "stage": 3,
+  "unitId": "s3u4",
+  "scene": "讲述奋斗故事",
+  "goal": "完成一次鼓舞人心的奋斗故事分享",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "主持人 Zoe",
+      "line": "Welcome to our sharing session. To inspire your classmates, you are going to tell your own story of struggle today.",
+      "lineCn": "欢迎来到我们的分享会。为了激励同学们,你今天将讲述自己的奋斗故事。",
+      "grammar": [
+        { "name": "不定式作目的状语", "note": "To inspire your classmates 置于句首,说明说话目的,比 in order to 更正式。" }
+      ],
+      "options": [
+        { "text": "Thank you. Having struggled for years, I am glad to share my experience.", "textCn": "谢谢。经历了多年的奋斗,我很高兴分享我的经历。", "feedback": "开场大方得体,分享开始。", "next": "n2" },
+        { "text": "I am not sure I have any story worth telling. My life is rather ordinary.", "textCn": "我不确定自己有值得讲的故事。我的生活相当平凡。", "feedback": "低估自己,Zoe 会鼓励你。", "next": "n3" },
+        { "text": "I will tell it, but to be honest, I doubt anyone will find it inspiring.", "textCn": "我会讲,但说实话,我怀疑没人会觉得它励志。", "feedback": "缺乏自信,主持人帮你打气。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "主持人 Zoe",
+      "line": "Perfect. To begin with, tell us what motivated you to keep going when things got tough.",
+      "lineCn": "很好。首先请告诉我们,当处境艰难时,是什么激励你坚持下去。",
+      "grammar": [
+        { "name": "不定式作状语(目的/宾语)", "note": "what motivated you to keep going 中不定式 to keep going 作宾语补足语,表动作目的。" }
+      ],
+      "options": [
+        { "text": "To make my family proud, I studied under streetlights after working all day.", "textCn": "为了让家人骄傲,我每天工作结束后在路灯下学习。", "feedback": "细节真实感人,观众动容。", "next": "n4" },
+        { "text": "I am not sure what kept me going. I guess I was simply too stubborn to quit.", "textCn": "我不确定是什么让我坚持。大概是我太倔强,不肯放弃。", "feedback": "质朴坦诚,同样动人。", "next": "n4" },
+        { "text": "Honestly, I would rather not talk about the hardships. They embarrass me.", "textCn": "说实话,我不想谈那些艰辛。它们让我难堪。", "feedback": "回避困难,Zoe 会开导你。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "主持人 Zoe",
+      "line": "Remember, to move others, you must first be honest with yourself. Sit down and take a breath.",
+      "lineCn": "记住,要打动别人,你必须先对自己诚实。坐下来,深呼吸。",
+      "grammar": [
+        { "name": "不定式作目的状语(打动)", "note": "to move others 作目的状语,强调先真诚面对自己才能打动他人。" }
+      ],
+      "options": [
+        { "text": "You are right. I will start from the night I almost gave up.", "textCn": "你说得对。我从那个我几乎放弃的夜晚讲起。", "feedback": "鼓起勇气,找到切入点。", "next": "n2" },
+        { "text": "I still feel nervous. To calm down, let me close my eyes for a minute.", "textCn": "我还是紧张。为了冷静,让我闭眼一分钟。", "feedback": "坦诚调整状态,观众理解。", "next": "n4" },
+        { "text": "To find courage, I will imagine I am telling my story to my younger self.", "textCn": "为了找到勇气,我就想象自己在对年少时的自己讲故事。", "feedback": "独特的方法,效果不错。", "next": "n4" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "主持人 Zoe",
+      "line": "Wonderful, the audience is listening closely. Facing the hardest moment of your journey, what did you choose to do?",
+      "lineCn": "太好了,观众都在认真听。面对你人生中最艰难的时刻,你选择了怎么做?",
+      "grammar": [
+        { "name": "现在分词作状语(面对)", "note": "Facing the hardest moment 作时间/伴随状语,分词逻辑主语即句子主语 you。" }
+      ],
+      "options": [
+        { "text": "Facing failure, I chose to start over from the very beginning.", "textCn": "面对失败,我选择从头再来。", "feedback": "勇气可嘉,观众热烈鼓掌。", "next": "n4b" },
+        { "text": "I cried all night and almost gave up. Encouraged by my mother, I tried once more.", "textCn": "我哭了一整夜,几乎放弃。在母亲的鼓励下,我又试了一次。", "feedback": "真实感人,引起共鸣。", "next": "n4b" },
+        { "text": "To be honest, I nearly abandoned everything at that point.", "textCn": "说实话,那一刻我几乎放弃了一切。", "feedback": "坦诚承认脆弱,观众屏息。", "next": "n6" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "主持人 Zoe",
+      "line": "That is honesty. Tell us, trapped in hardship, how did you find the strength to rise?",
+      "lineCn": "这是真诚。请告诉我们,身处困境时,你是如何找到站起来的勇气?",
+      "grammar": [
+        { "name": "过去分词作状语(被动)", "note": "trapped in hardship 是过去分词短语作状语,表被动状态,主语 you 承受被困处境。" }
+      ],
+      "options": [
+        { "text": "Trapped in poverty, I took any job I could find and saved every penny for books.", "textCn": "身陷贫困,我做一切能找到的工作,省下每一分钱买书。", "feedback": "细节具体,深深打动听众。", "next": "n6" },
+        { "text": "Having no money for tuition, I borrowed notes from my classmates.", "textCn": "因为没有钱交学费,我向同学借笔记。", "feedback": "真实朴素,听众感同身受。", "next": "n6" },
+        { "text": "I do not want to dwell on the past. To look forward is all I care about.", "textCn": "我不想纠缠过去。向前看才是我关心的。", "feedback": "回避细节,Zoe 温和引导。", "next": "n5" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "主持人 Zoe",
+      "line": "Embarrassment has no place in a story of struggle. To win respect, you must first respect your own past.",
+      "lineCn": "奋斗故事里没有难堪的位置。要赢得尊重,你首先要尊重自己的过去。",
+      "grammar": [
+        { "name": "不定式作目的状语(赢得)", "note": "To win respect 表目的,强调尊重过去是赢得他人尊重的前提。" }
+      ],
+      "options": [
+        { "text": "You are right. I will share the whole story, painful as it is.", "textCn": "你说得对。我会分享全部故事,尽管它令人痛苦。", "feedback": "放下包袱,真诚分享。", "next": "n4" },
+        { "text": "I cannot do it. Rather than feeling embarrassed, I would rather stay silent.", "textCn": "我做不到。与其难堪,我宁愿保持沉默。", "feedback": "拒绝继续,分享失败。", "next": "fail1" },
+        { "text": "I will not give up, but let me start with a lighter part of the story first.", "textCn": "我不会放弃,但请允许我先讲轻松一点的部分。", "feedback": "逐步适应,分享继续。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "主持人 Zoe",
+      "line": "That courage deserves applause! Determined to start over, how did you rebuild your confidence?",
+      "lineCn": "这份勇气值得掌声!下定决心重新开始,你是如何重建自信的?",
+      "grammar": [
+        { "name": "过去分词作状语(下定决心)", "note": "Determined to start over 是固定搭配的过去分词短语作状语,表状态与决心。" }
+      ],
+      "options": [
+        { "text": "Determined to succeed, I woke up at five every morning to study.", "textCn": "下定决心要成功,我每天早晨五点起床学习。", "feedback": "行动力十足,听众肃然起敬。", "next": "n6b" },
+        { "text": "Having learned from my mistakes, I changed my whole method of learning.", "textCn": "从错误中吸取教训后,我彻底改变了学习方法。", "feedback": "善于反思,分享渐入佳境。", "next": "n6b" },
+        { "text": "I made a plan, but having tried so many times, I was not sure it would work.", "textCn": "我制定了计划,但尝试了太多次,不确定它会不会奏效。", "feedback": "真实而不确定,更显动人。", "next": "n7" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "主持人 Zoe",
+      "line": "A restart demands both courage and method. Determined to change, how did you protect your new habits?",
+      "lineCn": "重新开始需要勇气和方法。下定决心改变的你,是如何守护新习惯的?",
+      "grammar": [
+        { "name": "过去分词作状语(改变)", "note": "Determined to change 强调内心的坚定状态,与主句主语 you 保持逻辑一致。" }
+      ],
+      "options": [
+        { "text": "To protect my new habits, I removed every distraction from my desk.", "textCn": "为了保护新习惯,我把书桌上的所有干扰物都清掉了。", "feedback": "方法具体可行,值得借鉴。", "next": "n7" },
+        { "text": "I wrote my goals on the wall so that I would see them every morning.", "textCn": "我把目标写在墙上,这样每天早上都能看到。", "feedback": "用环境提醒自己,听众赞同。", "next": "n7" },
+        { "text": "I did not. The same laziness crept back again and again.", "textCn": "我没有守住。同样的懒惰一次又一次溜了回来。", "feedback": "真实不美化,同样动人。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "主持人 Zoe",
+      "line": "Amazing. To keep the audience engaged, could you share one concrete achievement of that period?",
+      "lineCn": "太棒了。为了让听众保持投入,你能分享那个阶段一个具体的成就吗?",
+      "grammar": [
+        { "name": "不定式作目的状语(保持)", "note": "To keep the audience engaged 作目的状语,engaged 是过去分词作宾语补足语。" }
+      ],
+      "options": [
+        { "text": "Having struggled for two years, I finally passed the exam with the highest score in my class.", "textCn": "奋斗两年后,我终于以全班最高分通过了考试。", "feedback": "成果辉煌,全场掌声雷动。", "next": "n8" },
+        { "text": "I improved my ranking from the bottom to the top ten. That made me believe in myself again.", "textCn": "我的排名从垫底提升到前十。这让我重新相信自己。", "feedback": "进步显著,鼓舞人心。", "next": "n8" },
+        { "text": "Achievements sound like bragging. To stay humble, I would rather not mention any.", "textCn": "谈成绩像炫耀。为了保持谦虚,我宁愿不提。", "feedback": "过分谦虚,主持人会引导。", "next": "n9" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "主持人 Zoe",
+      "line": "Outstanding! To end this story, what message do you want your classmates to take home?",
+      "lineCn": "出色!作为故事的结尾,你想让同学们带走什么讯息?",
+      "grammar": [
+        { "name": "不定式作目的状语(收尾)", "note": "To end this story 作目的状语,结构正式,适合演讲收尾。" }
+      ],
+      "options": [
+        { "text": "To anyone struggling now: never give up, because persistence always pays off.", "textCn": "致现在仍在挣扎的人:永不放弃,因为坚持总有回报。", "feedback": "金句有力,全场起立鼓掌。", "next": "n9" },
+        { "text": "I hope they learn that failure is not the opposite of success but a part of it.", "textCn": "我希望他们明白,失败不是成功的对立面,而是成功的一部分。", "feedback": "见解深刻,引发共鸣。", "next": "n9" },
+        { "text": "I am too moved to continue. Could someone else finish the speech for me?", "textCn": "我太激动说不下去了。能让别人替我讲完吗?", "feedback": "临场放弃,分享草草收场。", "next": "fail2" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "主持人 Zoe",
+      "line": "Thank you for that powerful sharing. Encouraged by your story, I am sure many classmates will keep striving.",
+      "lineCn": "感谢你充满力量的分享。受你故事的鼓舞,我相信很多同学会继续努力。",
+      "grammar": [
+        { "name": "过去分词作状语(受鼓舞)", "note": "Encouraged by your story 是过去分词短语作原因状语,表被动的鼓舞状态。" }
+      ],
+      "options": [
+        { "text": "Thank you for listening. Knowing that my story helps others, I feel truly proud.", "textCn": "谢谢聆听。知道我的故事能帮助别人,我由衷地自豪。", "feedback": "分享圆满,气氛达到高潮。", "next": "success" },
+        { "text": "I am glad it is over. To be honest, I never wanted to stand here in the first place.", "textCn": "我很高兴结束了。说实话,我一开始就不想站上来。", "feedback": "真诚但扫兴,分享留下遗憾。", "next": "fail2" },
+        { "text": "Knowing I might fail again, I still chose to speak today. That is enough.", "textCn": "明知可能再次失败,我今天仍然选择开口。这已经够了。", "feedback": "掷地有声,分享圆满结束。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "主持人 Zoe",
+      "line": "Your story has planted a seed in every heart here. Well done, and thank you.",
+      "lineCn": "你的故事在每个人心里种下了一颗种子。做得漂亮,谢谢你。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "主持人 Zoe",
+      "line": "I respect your choice, but your story deserves a voice. I hope you will try again next time.",
+      "lineCn": "我尊重你的选择,但你的故事值得被讲述。希望你下次再试一次。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "主持人 Zoe",
+      "line": "A story unfinished leaves its listeners uneasy. Next time, walk your words to the very end.",
+      "lineCn": "一个没讲完的故事让听众心悬着。下次,请把你的话讲到最后一刻。",
+      "end": true,
+      "success": false
+    }
+  }
+}

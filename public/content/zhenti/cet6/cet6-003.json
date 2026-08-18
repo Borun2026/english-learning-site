@@ -1,0 +1,60 @@
+{
+ "id": "cet6-003",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第2套) Passage 1",
+ "title": "Any veteran nicotine addict will testify that fancy packaging plays no role i...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 447,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Any veteran nicotine addict will testify that fancy packaging plays no role in the decision to keep smoking. So, it is argued, stripping cartons of their branding will trigger no mass movement to quit.",
+  "But that isn't why the government--under pressure from cancer charities, health workers and the Labour party-- has agreed to legislate for standardized packaging. The theory is that smoking should be stripped of any appeal to discourage new generations from starting in the first place. Plain packaging would be another step in the reclassification of cigarettes from inviting consumer products to narcotics.",
+  "Naturally, the tobacco industry is violently opposed. No business likes to admit that it sells addictive poison as a lifestyle choice. That is why government has historically intervened, banning advertising, imposing health warnings and punitive duties. This approach has led over time to a fall in smoking with numbers having roughly halved since the 1970s. Evidence from Australia suggests plain packaging pushes society further along that road. Since tobacco as one of the biggest causes of premature death in the UK, a measure that tames the habit even by a fraction is worth trying.",
+  "So why has it taken so long? The Department of Health declared its intention to consider the move in November 2010 and consulted through 2012. But the plan was suspended in July 2013. It did not escape notice that a lobbying firm set up by Lynton Crosby, David Cameron's election campaign director, had previously acted for Philip Morris International. (The prime minister denied there was a connection between his news adviser's outside interests and the change in legislative programme.) In November 2013, after an unnecessary round of additional consultation, health minister Jane Ellison said the government was minded to proceed after all. Now we are told Members of Parliament (MPs) will have a free voice before parliament is dissolved in March.",
+  "Parliament has in fact already authorised the government to tame the tobacco trade. MPs voted overwhelmingly in favour of Labour amendments to the children and families bill last February that included the power to regulate for plain packaging. With sufficient will in Downing Street this would have been done already. But strength of will is the missing ingredient where Mr. Cameron and public health are concerned. His attitude to state intervention has looked confused ever since his bizarre 2006 lament that chocolate oranges placed seductively at supermarket checkouts fueled obesity.",
+  "The government has moved reluctantly into a sensible public health policy, but with such obvious overcautiousness that any political credit due belongs to the opposition. Without sustained external pressure it seems certain Mr. Cameron would still be hooked on the interests of big tobacco companies."
+ ],
+ "questions": [
+  {
+   "q": "文中 “election” 最接近的意思是?",
+   "options": [
+    "考虑，细想",
+    "部,局,处,科,部门",
+    "选举",
+    "好感，赞成，偏爱"
+   ],
+   "answer": 2,
+   "analysis": "“election” 意为「选举」。原文语境:It did not escape notice that a lobbying firm set up by Lynton Crosby, David Cameron's election campaign director, had previously acted for Philip Morris International.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Evidence from ___ suggests plain packaging pushes society further along that road.",
+   "options": [
+    "escape",
+    "Australia",
+    "favour",
+    "tobacco"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Evidence from Australia suggests plain packaging pushes society further along that road.”。空格处应填入 “Australia”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Organic agriculture is a relatively untapped resource for feeding the Earth's",
+    "Research is meant to benefit society by raising public awareness and creating",
+    "Any veteran nicotine addict will testify that fancy packaging plays no role i",
+    "Questions 51 to SS are based on the following passage"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Any veteran nicotine addict will testify that fancy packaging plays no role in the decision to keep smoking.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

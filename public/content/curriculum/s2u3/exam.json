@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u3",
+  "stage": 2,
+  "unitId": "s2u3",
+  "title": "真题演练 · 过去完成时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 过去完成时。",
+  "questions": [
+    {
+      "q": "By the time we got home, our mother ___ dinner.",
+      "options": [
+        "cooked",
+        "has cooked",
+        "had cooked",
+        "was cooking"
+      ],
+      "answer": 2,
+      "analysis": "做饭先于到家,过去的过去用 had cooked。",
+      "point": "g-s2u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He said he ___ his key.",
+      "options": [
+        "lost",
+        "has lost",
+        "had lost",
+        "loses"
+      ],
+      "answer": 2,
+      "analysis": "说的时候已经丢了,said 是过去参照点,用 had lost。",
+      "point": "g-s2u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "After I ___ my homework, I watched TV.",
+      "options": [
+        "finish",
+        "finished",
+        "had finished",
+        "have finished"
+      ],
+      "answer": 2,
+      "analysis": "先完成作业再看电视,过去的过去用 had finished。",
+      "point": "g-s2u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She had never ___ to China before she came here.",
+      "options": [
+        "be",
+        "been",
+        "being",
+        "was"
+      ],
+      "answer": 1,
+      "analysis": "had + 过去分词,be 的过去分词是 been。",
+      "point": "g-s2u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We ___ English for two years before we went abroad.",
+      "options": [
+        "learn",
+        "learned",
+        "had learned",
+        "have learned"
+      ],
+      "answer": 2,
+      "analysis": "以 went 为过去参照点,之前持续两年用 had learned。",
+      "point": "g-s2u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I had saw the movie before.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I had seen the movie before.。过去完成时用过去分词 seen,不是过去式 saw。",
+      "point": "g-s2u3",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

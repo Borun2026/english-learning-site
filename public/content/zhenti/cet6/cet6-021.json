@@ -1,0 +1,58 @@
+{
+ "id": "cet6-021",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第2套) Passage 1",
+ "title": "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 455,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and other women who liberated American fashion from the confines of Parisian design. Independence came in tying, wrapping, storing, harmonizing, and rationalizing that wardrobe. These designers established the modem dress code, letting playsuits and other active wear outfits suffice for casual clothing, allowing pants to enter the wardrobe, and prizing rationalism and versatility in dress, in contradiction to dressing for an occasion or allotment of the day. Fashion in America was logical and answerable to the will of the women who wore it. Implicitly or explicitly, American fashion addressed a democracy, whereas traditional Paris-based fashion was prescriptive and imposed on women, willing or not.",
+  "In an earlier time, American fashion had also followed the dictates of Paris, or even copied and pirated specific French designs. Designer sportswear was not modeled on that of Europe, as \"modem art\" would later be; it was genuinely invented and developed in America. Its designers were not high-end with supplementary lines. The design objective and the business commitment were to sportswear, and the distinctive traits were problem-solving ingenuity and realistic lifestyle applications. Ease of care was most important: summer dresses and outfits, in particular, were chiefly cotton, readily capable of being washed and pressed at home. Closings were simple, practical, and accessible, as the modem woman depended on no personal maid to dress her. American designers prized resourcefulness and the freedom of women who wore the clothing.",
+  "Many have argued that the women designers of this time were able to project their own clothing values into a new style. Of course, much of this argument in the 1930s-40s was advanced because there was little or no experience in justifying apparel on the basis of utility. If Paris was cast aside, the tradition of beauty was also to some degree slighted. Designer sportswear would have to be verified by a standard other than that of pure beauty; the emulation of a designer's life in designer sportswear was a crude version of this relationship. The consumer was ultimately to be mentioned as well, especially by the likes of Dorothy Shaver, who could point to the sales figures at Lord & Taylor.",
+  "Could utility alone justify the new ideas of the American designers? Fashion is often regarded as a pursuit of beauty, and some cherished fashion's trivial relationship to the fine arts. What the designers of the American sportswear proved was that fashion is a genuine design art, answering to the demanding needs of service. Of course these practical, insightful designers have determined the course of late twentieth-century fashion. They were the pioneers of gender equity, in their useful, adaptable clothing, which was both made for the masses and capable of self-expression."
+ ],
+ "questions": [
+  {
+   "q": "文中 “simple” 最接近的意思是?",
+   "options": [
+    "创造力",
+    "鉴于",
+    "简单的",
+    "公平"
+   ],
+   "answer": 2,
+   "analysis": "“simple” 意为「简单的」。原文语境:Closings were simple, practical, and accessible, as the modem woman depended on no personal maid to dress her.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:The design objective and the business commitment were to sportswear, and the distinctive traits were problem-solving ingenuity and ___ lifestyle applications.",
+   "options": [
+    "later",
+    "particular",
+    "realistic",
+    "especially"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“The design objective and the business commitment were to sportswear, and the distinctive traits were problem-solving ingenuity and realistic lifestyle applications.”。空格处应填入 “realistic”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Macy's reported its sales plunged 5",
+    "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "While human achievements in mathematics continue to reach new levels of compl"
+   ],
+   "answer": 1,
+   "analysis": "本文以“We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and other women who liberated American fashion from the confines of Parisian design.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

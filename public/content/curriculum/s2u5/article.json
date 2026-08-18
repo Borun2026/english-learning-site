@@ -1,0 +1,815 @@
+{
+  "id": "a-s2u5",
+  "stage": 2,
+  "unitId": "s2u5",
+  "title": "My Hobbies",
+  "newWords": [
+    "books",
+    "cleaning",
+    "cooking",
+    "dishes",
+    "enjoys",
+    "fishing",
+    "flowers",
+    "grows",
+    "hobbies",
+    "interested",
+    "loves",
+    "pictures",
+    "playing",
+    "singing",
+    "stories",
+    "tries",
+    "weekends",
+    "appealing",
+    "essential"
+  ],
+  "sentences": [
+    {
+      "text": "My favorite hobbies are reading books and painting pictures at home.",
+      "translation": "我最喜欢的爱好是在家读书和画画。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "My favorite hobbies are reading books and painting pictures",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My favorite hobbies"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语(动名词短语)",
+              "text": "reading books and painting pictures"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at home"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "动名词作表语",
+          "note": "reading、painting 是动名词,放在 be 动词后作表语,说明主语的内容。",
+          "example": "My hobby is swimming.",
+          "exampleCn": "我的爱好是游泳。"
+        },
+        {
+          "name": "favorite 最喜欢的",
+          "note": "favorite 作定语修饰 hobbies,表示\"最喜欢的爱好\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My favorite hobbies are reading books and painting pictures",
+          "name": "动名词作表语"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My favorite hobbies are reading books and painting pictures",
+          "name": "favorite 最喜欢的"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我的爱好是游泳。",
+          "answer": "My hobby is swimming.",
+          "note": "reading、painting 是动名词,放在 be 动词后作表语,说明主语的内容。",
+          "point": "动名词作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My favorite hobbies are reading books and painting pictures at home.",
+          "answer": "My favorite hobbies are reading books and painting pictures at home.",
+          "note": "favorite 作定语修饰 hobbies,表示\"最喜欢的爱好\"。",
+          "point": "favorite 最喜欢的"
+        }
+      ]
+    },
+    {
+      "text": "I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+      "translation": "我喜欢夏天游泳和每天早上在公园里跑步,因为运动对我来说非常有吸引力。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I enjoy swimming in summer and running in the park every morning",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "enjoy"
+            },
+            {
+              "role": "宾语(动名词短语)",
+              "text": "swimming in summer and running in the park every morning"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "exercise is very appealing to me"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "enjoy + 动名词",
+          "note": "enjoy 后面只能接动名词,enjoy swimming/running 表示\"享受游泳/跑步\"。"
+        },
+        {
+          "name": "两个动名词并列作宾语",
+          "note": "swimming...and running... 两个动名词短语用 and 连接,共同作 enjoy 的宾语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I enjoy swimming in summer and running in the park every morning",
+          "name": "enjoy + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I enjoy swimming in summer and running in the park every morning",
+          "name": "两个动名词并列作宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+          "answer": "I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+          "note": "enjoy 后面只能接动名词,enjoy swimming/running 表示\"享受游泳/跑步\"。",
+          "point": "enjoy + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+          "answer": "I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+          "note": "swimming...and running... 两个动名词短语用 and 连接,共同作 enjoy 的宾语。",
+          "point": "两个动名词并列作宾语"
+        }
+      ]
+    },
+    {
+      "text": "My brother loves cooking, and he often tries new dishes for us at dinner.",
+      "translation": "我哥哥喜欢做饭,他经常在晚餐时为我们尝试新菜。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My brother loves cooking",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My brother"
+            },
+            {
+              "role": "谓语",
+              "text": "loves"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "cooking"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he often tries new dishes",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "often tries"
+            },
+            {
+              "role": "宾语",
+              "text": "new dishes"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for us"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "at dinner"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "love + 动名词",
+          "note": "love cooking 中动名词作宾语,表示\"喜欢做饭\"。"
+        },
+        {
+          "name": "try 尝试",
+          "note": "tries new dishes 表示\"尝试新菜\",一般现在时表示经常性的动作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "he often tries new dishes",
+          "name": "love + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "he often tries new dishes",
+          "name": "try 尝试"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My brother loves cooking, and he often tries new dishes for us at dinner.",
+          "answer": "My brother loves cooking, and he often tries new dishes for us at dinner.",
+          "note": "love cooking 中动名词作宾语,表示\"喜欢做饭\"。",
+          "point": "love + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My brother loves cooking, and he often tries new dishes for us at dinner.",
+          "answer": "My brother loves cooking, and he often tries new dishes for us at dinner.",
+          "note": "tries new dishes 表示\"尝试新菜\",一般现在时表示经常性的动作。",
+          "point": "try 尝试"
+        }
+      ]
+    },
+    {
+      "text": "My sister is interested in gardening, and she grows many flowers in our garden.",
+      "translation": "我妹妹对园艺感兴趣,她在我们花园里种了许多花。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "My sister is interested in gardening",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My sister"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "interested in gardening"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "she grows many flowers",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "she"
+            },
+            {
+              "role": "谓语",
+              "text": "grows"
+            },
+            {
+              "role": "宾语",
+              "text": "many flowers"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in our garden"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be interested in + 动名词",
+          "note": "be interested in 后接动名词 gardening,表示\"对园艺感兴趣\"。"
+        },
+        {
+          "name": "in our garden 地点状语",
+          "note": "介词短语 in our garden 说明种花的地点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My sister is interested in gardening",
+          "name": "be interested in + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My sister is interested in gardening",
+          "name": "in our garden 地点状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My sister is interested in gardening, and she grows many flowers in our garden.",
+          "answer": "My sister is interested in gardening, and she grows many flowers in our garden.",
+          "note": "be interested in 后接动名词 gardening,表示\"对园艺感兴趣\"。",
+          "point": "be interested in + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My sister is interested in gardening, and she grows many flowers in our garden.",
+          "answer": "My sister is interested in gardening, and she grows many flowers in our garden.",
+          "note": "介词短语 in our garden 说明种花的地点。",
+          "point": "in our garden 地点状语"
+        }
+      ]
+    },
+    {
+      "text": "We keep playing basketball on weekends, because it is good for our health.",
+      "translation": "我们周末坚持打篮球,因为这对我们的健康有好处。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We keep playing basketball",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "keep"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "playing basketball"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "on weekends"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "it is good for our health"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "keep + 动名词",
+          "note": "keep playing 中动名词作宾语,表示\"一直/坚持打\"。"
+        },
+        {
+          "name": "be good for 对……有益",
+          "note": "be good for our health 表示\"对我们的健康有益\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "We keep playing basketball",
+          "name": "keep + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "We keep playing basketball",
+          "name": "be good for 对……有益"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We keep playing basketball on weekends, because it is good for our health.",
+          "answer": "We keep playing basketball on weekends, because it is good for our health.",
+          "note": "keep playing 中动名词作宾语,表示\"一直/坚持打\"。",
+          "point": "keep + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We keep playing basketball on weekends, because it is good for our health.",
+          "answer": "We keep playing basketball on weekends, because it is good for our health.",
+          "note": "be good for our health 表示\"对我们的健康有益\"。",
+          "point": "be good for 对……有益"
+        }
+      ]
+    },
+    {
+      "text": "My father enjoys fishing, and he can sit by the river for a whole day.",
+      "translation": "我爸爸喜欢钓鱼,他能整天坐在河边。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My father enjoys fishing",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My father"
+            },
+            {
+              "role": "谓语",
+              "text": "enjoys"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "fishing"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "he can sit",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语(情态动词+动词原形)",
+              "text": "can sit"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "by the river"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for a whole day"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "enjoy + 动名词",
+          "note": "enjoy fishing 表示\"享受钓鱼\"。"
+        },
+        {
+          "name": "can + 动词原形",
+          "note": "can sit 表示能力\"能坐\",情态动词后接动词原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My father enjoys fishing",
+          "name": "enjoy + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "My father enjoys fishing",
+          "name": "can + 动词原形"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father enjoys fishing, and he can sit by the river for a whole day.",
+          "answer": "My father enjoys fishing, and he can sit by the river for a whole day.",
+          "note": "enjoy fishing 表示\"享受钓鱼\"。",
+          "point": "enjoy + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father enjoys fishing, and he can sit by the river for a whole day.",
+          "answer": "My father enjoys fishing, and he can sit by the river for a whole day.",
+          "note": "can sit 表示能力\"能坐\",情态动词后接动词原形。",
+          "point": "can + 动词原形"
+        }
+      ]
+    },
+    {
+      "text": "I do not like cleaning my room, but I love making my desk tidy.",
+      "translation": "我不喜欢打扫房间,但我喜欢把书桌收拾整齐。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I do not like cleaning my room",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(否定)",
+              "text": "do not like"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "cleaning my room"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I love making my desk tidy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "love"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "making my desk tidy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "like / love + 动名词",
+          "note": "like cleaning 和 love making 都是动名词作宾语,like 的否定式 do not like。"
+        },
+        {
+          "name": "make + 宾语 + 形容词",
+          "note": "make my desk tidy 中形容词 tidy 作宾补,表示\"使书桌整洁\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I do not like cleaning my room",
+          "name": "like / love + 动名词"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I do not like cleaning my room",
+          "name": "make + 宾语 + 形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I do not like cleaning my room, but I love making my desk tidy.",
+          "answer": "I do not like cleaning my room, but I love making my desk tidy.",
+          "note": "like cleaning 和 love making 都是动名词作宾语,like 的否定式 do not like。",
+          "point": "like / love + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I do not like cleaning my room, but I love making my desk tidy.",
+          "answer": "I do not like cleaning my room, but I love making my desk tidy.",
+          "note": "make my desk tidy 中形容词 tidy 作宾补,表示\"使书桌整洁\"。",
+          "point": "make + 宾语 + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "In the future, I hope to learn singing and writing stories.",
+      "translation": "将来,我希望学习唱歌和写故事。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the future"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I hope to learn singing and writing stories",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "hope"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to learn singing and writing stories"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "hope to do 希望做",
+          "note": "hope to learn 中不定式作宾语,表示\"希望学习\"。"
+        },
+        {
+          "name": "动名词作 learn 的宾语",
+          "note": "singing 和 writing 是动名词,作 learn 的宾语,表示\"学唱歌、学写故事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I hope to learn singing and writing stories",
+          "name": "hope to do 希望做"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "I hope to learn singing and writing stories",
+          "name": "动名词作 learn 的宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the future, I hope to learn singing and writing stories.",
+          "answer": "In the future, I hope to learn singing and writing stories.",
+          "note": "hope to learn 中不定式作宾语,表示\"希望学习\"。",
+          "point": "hope to do 希望做"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the future, I hope to learn singing and writing stories.",
+          "answer": "In the future, I hope to learn singing and writing stories.",
+          "note": "singing 和 writing 是动名词,作 learn 的宾语,表示\"学唱歌、学写故事\"。",
+          "point": "动名词作 learn 的宾语"
+        }
+      ]
+    },
+    {
+      "text": "Hobbies make our life fun, and they are essential to our happiness.",
+      "translation": "爱好让我们的生活充满乐趣,它们对我们的幸福至关重要。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Hobbies make our life fun",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Hobbies"
+            },
+            {
+              "role": "谓语",
+              "text": "make"
+            },
+            {
+              "role": "宾语",
+              "text": "our life"
+            },
+            {
+              "role": "补语",
+              "text": "fun"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "they are essential to our happiness",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "they"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "essential to our happiness"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "make + 宾语 + 形容词补语",
+          "note": "make our life colorful 中形容词 colorful 作宾语补足语,表示\"使生活丰富多彩\"。"
+        },
+        {
+          "name": "be essential to 对……至关重要",
+          "note": "be essential to+名词,表示\"对……必不可少\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "they are essential to our happiness",
+          "name": "make + 宾语 + 形容词补语"
+        },
+        {
+          "grammarId": "g-s2u5",
+          "phrase": "they are essential to our happiness",
+          "name": "be essential to 对……至关重要"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Hobbies make our life fun, and they are essential to our happiness.",
+          "answer": "Hobbies make our life fun, and they are essential to our happiness.",
+          "note": "make our life colorful 中形容词 colorful 作宾语补足语,表示\"使生活丰富多彩\"。",
+          "point": "make + 宾语 + 形容词补语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Hobbies make our life fun, and they are essential to our happiness.",
+          "answer": "Hobbies make our life fun, and they are essential to our happiness.",
+          "note": "be essential to+名词,表示\"对……必不可少\"。",
+          "point": "be essential to 对……至关重要"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u5",
+      "name": "动名词作表语",
+      "note": "reading、painting 是动名词,放在 be 动词后作表语,说明主语的内容。",
+      "sourceExample": "My favorite hobbies are reading books and painting pictures at home.",
+      "sourceExampleCn": "我最喜欢的爱好是在家读书和画画。"
+    },
+    {
+      "grammarId": "g-s2u5",
+      "name": "favorite 最喜欢的",
+      "note": "favorite 作定语修饰 hobbies,表示\"最喜欢的爱好\"。",
+      "sourceExample": "My favorite hobbies are reading books and painting pictures at home.",
+      "sourceExampleCn": "我最喜欢的爱好是在家读书和画画。"
+    },
+    {
+      "grammarId": "g-s2u5",
+      "name": "enjoy + 动名词",
+      "note": "enjoy 后面只能接动名词,enjoy swimming/running 表示\"享受游泳/跑步\"。",
+      "sourceExample": "I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+      "sourceExampleCn": "我喜欢夏天游泳和每天早上在公园里跑步,因为运动对我来说非常有吸引力。"
+    },
+    {
+      "grammarId": "g-s2u5",
+      "name": "两个动名词并列作宾语",
+      "note": "swimming...and running... 两个动名词短语用 and 连接,共同作 enjoy 的宾语。",
+      "sourceExample": "I enjoy swimming in summer and running in the park every morning, because exercise is very appealing to me.",
+      "sourceExampleCn": "我喜欢夏天游泳和每天早上在公园里跑步,因为运动对我来说非常有吸引力。"
+    },
+    {
+      "grammarId": "g-s2u5",
+      "name": "love + 动名词",
+      "note": "love cooking 中动名词作宾语,表示\"喜欢做饭\"。",
+      "sourceExample": "My brother loves cooking, and he often tries new dishes for us at dinner.",
+      "sourceExampleCn": "我哥哥喜欢做饭,他经常在晚餐时为我们尝试新菜。"
+    }
+  ]
+}

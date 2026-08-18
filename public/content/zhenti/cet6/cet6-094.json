@@ -1,0 +1,64 @@
+{
+ "id": "cet6-094",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第2套) Passage 2",
+ "title": "Statements, like \"beauty is in the eye of the beholder ()\", are rarely questi...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 453,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Statements, like \"beauty is in the eye of the beholder \", are rarely questioned. They've become so embedded in our consciousness that people think it's absurd to think otherwise. It might be useful, however, to at least push back on this assumption because people evaluate environment, situations, and people aesthetically. We may find that we still believe it is correct, but we may also find that there is a lot more to the situation than you suppose.",
+  "A recent study exploring aesthetic taste was published in Cognition. The results from this study show that people agree very much in their aesthetic evaluation of natural objects, but they disagree more about artifacts, or human-made objects.",
+  "The study found that shared taste was most common for faces and natural landscapes, but least common among works of architecture and art. The hypothesis is the commonly pleasing features, like proportion or symmetry, are at work.",
+  "Preferences for natural scenes might be learned through life experiences. Factors like habitability, safety, and openness might be preferred as people develop. Some of the details of landscapes change, but the basics are more common, e.g., water, open spaces, and signs of care.",
+  "Art and architecture, unlike natural spaces, do not have the same level of exposure. So, people do not have the same level of shared taste.",
+  "It's possible that the lower amount of agreement in the shared taste of artifacts has to do more with elements of style, rather than \"behavioral consequences\".",
+  "All of the consequences seem reasonable (or at least possible), but I think there might be an interesting philosophical conclusion that they did not draw. It seems that there is an objective ground to our aesthetic preferences or evaluations. I am not saying this would mean beauty is completely objective, just that there could possibly be general objective principles at work, i.e., beauty is not simply in the eye of the beholder.",
+  "Nature exhibits some of the universal aesthetic features, such as radiance, in a common way throughout the world. It's not exactly the same everywhere, but it is common. For example, a sunset is similar enough in different places to warrant almost universal appeal.",
+  "Possible universal principles of beauty -- such as proportion, fittingness, radiance, and others -- are general categories, which allow for a wide array of embodiments. When people get involved in making artifacts in architecture or art, they apply these very general concepts in unique ways. But the way they applied the principle may not have universal appeal.",
+  "This is why it's important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty. And it is always good to question our assumptions."
+ ],
+ "questions": [
+  {
+   "q": "文中 “otherwise” 最接近的意思是?",
+   "options": [
+    "发展",
+    "客观的",
+    "用其他方法",
+    "逻辑)前提，假说"
+   ],
+   "answer": 2,
+   "analysis": "“otherwise” 意为「用其他方法」。原文语境:They've become so embedded in our consciousness that people think it's absurd to think otherwise.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:This is why it's important to experience ___ cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty.",
+   "options": [
+    "absurd",
+    "general",
+    "diverse",
+    "simply"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“This is why it's important to experience diverse cultures and their artifacts because it opens us up to different ways of approaching or constructing beauty.”。空格处应填入 “diverse”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "Statements, like \"beauty is in the eye of the beholder ()\", are rarely questi",
+    "Massive rubbish dumps and sprawling landfills constitute one of the more unco",
+    "Effective Friday, Screen Actors Guild-American Federation of Television and R"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Statements, like \"beauty is in the eye of the beholder \", are rarely questioned.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

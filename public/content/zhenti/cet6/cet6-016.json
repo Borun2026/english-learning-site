@@ -1,0 +1,64 @@
+{
+ "id": "cet6-016",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第2套) Passage 2",
+ "title": "Questions 5i to 55 are based on the following passage",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 454,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Questions 5i to 55 are based on the following passage.",
+  "Our world now moves so fast that we seldom stop to see just how far we have come in just a few years. The latest iPhone 6s,for example, has a dual-core processor and fits nicely into your pocket. By comparison, you would expect to find a technological specification like this on your standard laptop in an office anywhere in the world.",
+  "It's no wonder shat new applications for the Internet of Things are moving ahead fast when almost every new device we buy has a plug on the end of it or a wireless connection to the internet. Soon, our current smartphone lifestyle will expand to create our own smart home lifestyle too.",
+  "All researches agree that close to 25 billion devices, things and sensors will be connected by 2020 which incidentally is also the moment that Millennials are expected to make up 75 percent of our overall workforce, and the fully connected home . become a reality for large numbers of people worldwide.",
+  "However, this is just the tip of the proverbial iceberg as smart buildings and even cities increasingly become the norm as leaders and business owners begin to wake up to the massive savings that technology can deliver through connected sensors and new forms of automation coupled with intelligent energy and facilities management.",
+  "Online security cameras, intelligent lighting and a wealth of sensors that control both temperature and air quality are offering an unprecedented level of control, efficiency, and improvements to what were once classed necessary costs when running a business or managing a large building.",
+  "We can expect that the ever-growing list of devices, systems and environments remain connected, always online and talking to each other. The big benefit will not only be in the housing of this enormous and rapidly growing amount of data, but will also be in the ability to run real time data analytics to extract actionable and ongoing knowledge.",
+  "The biggest and most exciting challenge of this technology is how to creatively leverage this ever-growing amount of data to deliver cost savings, improvements and tangible benefits to both businesses and citizens of these smart cities.",
+  "The good news is that most of this technology is already invented. Let's face it, it wasn't too long ago that the idea of working from anywhere and at anytime was some form of a distant utopian dream, and yet now we can perform almost any office-based task from any location in the world as long as we have access to the internet.",
+  "It's time to wake up to the fact that making smart buildings, cities and homes will dramatically improve our quality of life in the years ahead."
+ ],
+ "questions": [
+  {
+   "q": "文中 “current” 最接近的意思是?",
+   "options": [
+    "当前的",
+    "史无前例的",
+    "投递，解救",
+    "比较， 对比， 对照"
+   ],
+   "answer": 0,
+   "analysis": "“current” 意为「当前的」。原文语境:Soon, our current smartphone lifestyle will expand to create our own smart home lifestyle too.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Our world now moves so fast that we ___ stop to see just how far we have come in just a few years.",
+   "options": [
+    "necessary",
+    "increasingly",
+    "seldom",
+    "anywhere"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Our world now moves so fast that we seldom stop to see just how far we have come in just a few years.”。空格处应填入 “seldom”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Could you get by without using the internet for four and a half years",
+    "Questions 5i to 55 are based on the following passage",
+    "Twenty years ago, the Urban Land Institute defined the two types of cities th",
+    "Degradation of the world's natural resources by humans is rapidly outpacing t"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Questions 5i to 55 are based on the following passage.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

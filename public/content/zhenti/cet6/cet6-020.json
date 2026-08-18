@@ -1,0 +1,59 @@
+{
+ "id": "cet6-020",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第1套) Passage 2",
+ "title": "Macy's reported its sales plunged 5",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 458,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Macy's reported its sales plunged 5.2% in November and December at stores open more than a year, a disappoin ting holiday season performance that capped a difficult year for a department store chain facing wide-ranging challen ges. Its flagship stores in major U.S. cities depend heavily on international tourist spending, which shrank at many re tailers due to a strong dollar. Meanwhile, Macy's has simply struggled to lure consumers who are more interested in spending on travel or dining out than on new clothes or accessories. The company blamed much of the poor performance in November and December on unseasonably warm weath er. \"About 80% of our company's year-over-year declines incomparable sales can be attributed to shortfalls i n cold-weather goods,\" said chief executive Terry Lundgren in a press release. This prompted the company to cut it s forecasts for the full fourth quarter. However, it's clear that Macy's believes its troubles run deeper than a temporary aberration off the thermo meter. The retail giant said the poor financial performance this year has pushed it to begin implementing $400 millio n in cost-cutting measures. The company pledged to cut 600 back-office positions, though some 150 workers in thos",
+  "8 10 e roles would be reassigned to other jobs. It also plans to offer \"voluntary separation\" packages to 165 senior executi ves. It will slash staffing at its fleet of 770 stores, a move affecting some 3,000 employees.",
+  "The retailer also announced the locations of 36 stores it will close in early 2016. The company had previously a nnounced the planned closures, but had not said which locations would be affected. None of the chain's stores in th e Washington metropolitan area are to be closed.",
+  "Macy's has been moving aggressively to try to remake itself for a new era of shopping. It has plans to open mor e locations of Macy's Backstage, a newly-developed off-price concept which might help it better compete with ambit ious T. J. Maxx. It's also pushing ahead in 2016 with an expansion of Bluemercury, the beauty chain it bought last ye ar. At a time when young beauty shoppers are often turning to Sephora or Ulta instead of department store beauty co unters, Macy's hopes Bluemercury will help strengthen its position in the category.",
+  "One relative bright spot for Macy's during the holiday season was the online channel, where it rang up \"doubledigit\" increases in sales and a 25% increase in the number of orders it filled. That relative strength would be consisten t with what was seen in the wilder retail industry during the early part of the holiday season. While Thanksgiving, Bl ack Friday and Cyber Monday all saw record spending online, in-store sales plunged over the holiday weekend."
+ ],
+ "questions": [
+  {
+   "q": "文中 “ahead” 最接近的意思是?",
+   "options": [
+    "向前",
+    "第四，四分之一",
+    "舰队",
+    "资格较老的"
+   ],
+   "answer": 0,
+   "analysis": "“ahead” 意为「向前」。原文语境:It's also pushing ahead in 2016 with an expansion of Bluemercury, the beauty chain it bought last ye ar.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:None of the chain's stores in th e Washington ___ area are to be closed.",
+   "options": [
+    "better",
+    "voluntary",
+    "metropolitan",
+    "instead"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“None of the chain's stores in th e Washington metropolitan area are to be closed.”。空格处应填入 “metropolitan”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "In recent years, the food industry has increased its use of labels",
+    "Twenty years ago, the Urban Land Institute defined the two types of cities th",
+    "Macy's reported its sales plunged 5",
+    "Variability is crucially important for learning new skills"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Macy's reported its sales plunged 5.2% in November and December at stores open more than a year, a disappoin ting holiday season performance that capped a diffi”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

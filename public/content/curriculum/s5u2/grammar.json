@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u2",
+  "stage": 5,
+  "title": "同义替换策略",
+  "explanation": "## 同义替换策略:雅思阅读的解题钥匙\n\n雅思阅读 90% 的题考**同义替换(paraphrasing)**:题目与原文用不同词汇表达相同含义。识别替换,就能快速定位答案。\n\n## 四大替换类型\n\n1. **近义词替换**:原文 beneficial → 题目 advantageous;原文 expensive → costly。\n2. **词性转换**:原文名词改为题目动词:He showed courage → He acted courageously。\n3. **上下义词替换**:原文说 car,题目说 vehicle(上义词);原文说 vehicle,题目说 bus(下义词)。\n4. **句式转换**:主动变被动、陈述变否定之否定、定语从句变分词。\n\n## 实战定位法\n\n- 题干关键词(名词优先)→ 回文扫读找同义表达,而非找原词。\n- 数字、大写、时间词通常不替换,是定位锚点。\n- 判断题注意程度替换:原文 often,题目 always 属于绝对化陷阱。\n\n## 高频替换词对\n\nincrease/rise/grow/boost;decrease/decline/fall;important/crucial/vital/significant;cause/lead to/result in;show/indicate/demonstrate;need/require/demand。",
+  "examples": [
+    { "en": "The government is taking measures to reduce pollution.", "cn": "政府正采取措施减少污染。", "note": "reduce 可替换为 cut down on / lessen。" },
+    { "en": "Regular exercise is beneficial to heart health.", "cn": "经常锻炼对心脏健康有益。", "note": "beneficial 替换为 advantageous / good for。" },
+    { "en": "The research indicates that sleep affects memory.", "cn": "研究表明睡眠影响记忆。", "note": "indicate 替换为 show / suggest / demonstrate。" },
+    { "en": "A rise in temperature leads to the melting of glaciers.", "cn": "气温上升导致冰川融化。", "note": "leads to 替换为 results in / causes。" }
+  ],
+  "errors": [
+    { "wrong": "题目关键词必须和原文单词完全一致才能定位。", "right": "定位靠同义替换,不找原词照搬。", "note": "雅思阅读的核心就是识别替换表达。" },
+    { "wrong": "原文 often,判断题题目说 always 是正确的。", "right": "often 与 always 程度不同,属于陷阱。", "note": "绝对化程度词替换是判断题常见陷阱。" },
+    { "wrong": "替换只能换近义词。", "right": "词性转换、上下义词、句式转换都是替换。", "note": "同义替换有四种类型,远不止近义词。" }
+  ],
+  "quiz": [
+    { "q": "原文 beneficial 在题目中最可能被替换成?", "options": ["expensive", "advantageous", "dangerous", "important"], "answer": 1, "note": "beneficial 与 advantageous 是同义替换。" },
+    { "q": "原文说 car,题目说 vehicle,属于哪种替换?", "options": ["近义词", "上下义词", "反义词", "数字替换"], "answer": 1, "note": "vehicle 是 car 的上义词。" },
+    { "q": "原文 The report shows... 的替换表达是?", "options": ["The report was written by...", "The report indicates...", "The report is long...", "The report costs..."], "answer": 1, "note": "show 与 indicate 是同义动词。" },
+    { "q": "判断题中原文 rarely,题目 often 是什么问题?", "options": ["正确替换", "程度陷阱", "数字陷阱", "无问题"], "answer": 1, "note": "频率词 rarely 与 often 语义相反,是陷阱。" },
+    { "q": "下列哪组是常见的同义替换词对?", "options": ["increase/decline", "important/crucial", "rise/fall", "start/end"], "answer": 1, "note": "important 与 crucial 是同义替换词对。" }
+  ]
+}

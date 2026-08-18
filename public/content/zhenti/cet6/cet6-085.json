@@ -1,0 +1,67 @@
+{
+ "id": "cet6-085",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第3套) Passage 1",
+ "title": "Research is meant to benefit society by raising public awareness and creating...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Research is meant to benefit society by raising public awareness and creating products and innovations that enhance development. For research to serve its full purpose, the results must leave the confines of research laboratories and academic journals.",
+  "Findings effectively communicated can go a long way to serve the interests of the public. They can help address social injustices or improve treatments offered to patients.",
+  "Many researchers seem to be content with sharing the results of their studies in academic journals or at conferences. But few journals allow everybody to read the findings. Even articles freely available are usually written in academic language incomprehensible to the average reader.",
+  "For researchers in the tenure-track system, their main goal is winning tenure, which in part can be achieved by getting a number of papers published in prominent journals. Pressures like this mean communitylevel outreach is not prioritised.",
+  "Many researchers lack the writing skills to describe their results to a general audience. They may also worry about whether the public will understand their findings, or about findings being used to influence",
+  "controversial policies. These concerns cause some researchers to shy away from communicating their findings outside the academic community.",
+  "Propagating research findings beyond academic publications is particularly crucial for addressing certain social discrepancies. It can help families, communities, healthcare providers, policymakers, government agencies and other stakeholders to understand and respond to crises that plague society.",
+  "The benefits of sharing findings flow both ways. Engaging with other researchers and the public can lead to unexpected new connections and new ideas that could suggest fruitful new directions for research.",
+  "To benefit both researchers and the communities, the need to find innovative, accessible ways to share the work cannot be overstated.",
+  "Institutions and funding organisations should support more researchers to publish in open access journals so that the public doesn't have to pay to read them. Institutions and researchers should invest in partnerships that expand capacity for sharing results more broadly.",
+  "Furthermore, ethics committees should make it mandatory for researchers to share their results with the public. Every research participant should opt in or out of receiving results, as part of the process of giving informed consent.",
+  "There could be misunderstanding of the findings presented by the researcher because of technical terms. But this can be resolved by researchers engaging the services of professional writers or communication officers to help with translating their study into more accessible language and share it widely with media outlets and the public.",
+  "Sharing results with the people who are most affected by them makes us better researchers and ensures that our work can be used to improve people's lives. Institutions and collaborators must recognise the value of doing so."
+ ],
+ "questions": [
+  {
+   "q": "文中 “available” 最接近的意思是?",
+   "options": [
+    "读者",
+    "可获得的，可用的",
+    "住址",
+    "特别， 尤其"
+   ],
+   "answer": 1,
+   "analysis": "“available” 意为「可获得的，可用的」。原文语境:Even articles freely available are usually written in academic language incomprehensible to the average reader.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:These concerns cause some researchers to shy away from communicating their findings ___ the academic community.",
+   "options": [
+    "average",
+    "outside",
+    "accessible",
+    "controversial"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“These concerns cause some researchers to shy away from communicating their findings outside the academic community.”。空格处应填入 “outside”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "People often discuss the dangers of too much stress, but lately a very differ",
+    "Twenty years ago, the Urban Land Institute defined the two types of cities th",
+    "Research is meant to benefit society by raising public awareness and creating",
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Research is meant to benefit society by raising public awareness and creating products and innovations that enhance development.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}
