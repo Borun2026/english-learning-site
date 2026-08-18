@@ -82,17 +82,17 @@ export default function UnitPlayer() {
   const mark = (patch: Parameters<typeof setProgress>[1], xp = 5) => {
     setProgress(unitId, patch)
     const p = getProgress(unitId)
-    const unitDone = !!(p && p.vocab && p.grammar.done && p.article && p.dialogue.done && p.listen.done && p.exam?.done)
+    const unitDone = !!(p && p.vocab && !!p.grammar?.done && p.article && !!p.dialogue?.done && !!p.listen?.done && p.exam?.done)
     awardXp(xp, unitDone ? { unit: true } : {})
   }
 
   const progress = getProgress(unitId)
   const stepDone: Record<StepKey, boolean> = {
     vocab: !!progress?.vocab,
-    grammar: !!progress?.grammar.done,
+    grammar: !!progress?.grammar?.done,
     article: !!progress?.article,
-    dialogue: !!progress?.dialogue.done,
-    listen: !!progress?.listen.done,
+    dialogue: !!progress?.dialogue?.done,
+    listen: !!progress?.listen?.done,
     exam: !!progress?.exam?.done,
   }
 
