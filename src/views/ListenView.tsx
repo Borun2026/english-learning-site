@@ -23,6 +23,7 @@ export default function ListenView({
   /* ---------- 练习模式状态 ---------- */
   const [roundIdx, setRoundIdx] = useState(0)
   const [played, setPlayed] = useState(false)
+  const [listening, setListening] = useState(false)
   const [chosen, setChosen] = useState<number | null>(null)
   const [score, setScore] = useState(0)
   const [finished, setFinished] = useState(false)
@@ -63,6 +64,21 @@ export default function ListenView({
   }
 
   /* ---------- 练习模式 ---------- */
+  const finishListen = () => {
+    setListening(false)
+    setPlayed(true)
+  }
+
+  const startListen = () => {
+    setListening(true)
+    playRound(roundIdx, finishListen)
+  }
+
+  const stopListenAndAnswer = () => {
+    stopSpeech()
+    finishListen()
+  }
+
   const choose = (idx: number) => {
     if (!played || chosen != null) return
     setChosen(idx)
@@ -79,6 +95,7 @@ export default function ListenView({
     } else {
       setRoundIdx((r) => r + 1)
       setPlayed(false)
+      setListening(false)
       setChosen(null)
     }
   }
@@ -87,6 +104,7 @@ export default function ListenView({
     stopSpeech()
     setRoundIdx(0)
     setPlayed(false)
+    setListening(false)
     setChosen(null)
     setScore(0)
     setFinished(false)
@@ -143,6 +161,7 @@ export default function ListenView({
   const switchMode = (m: Mode) => {
     stopSpeech()
     setMode(m)
+    setListening(false)
     phaseRef.current = 'idle'
     setPhase('idle')
     setExamAnswers(challenge.rounds.map(() => null))
@@ -330,8 +349,15 @@ export default function ListenView({
       </div>
 
       <div className="listen-stage">
-        {!played ? (
-          <button className="btn big" onClick={() => playRound(roundIdx)}>
+        {listening ? (
+          <div className="played-row">
+            <span>🎙 聆听中…</span>
+            <button className="btn ghost" onClick={stopListenAndAnswer}>
+              ⏹ 提前停止作答
+            </button>
+          </div>
+        ) : !played ? (
+          <button className="btn big" onClick={startListen}>
             🔊 开始听(播完再选)
           </button>
         ) : (
@@ -343,7 +369,8 @@ export default function ListenView({
           </div>
         )}
 
-        {!played && <p className="hint">先盲听台词,再选择最佳回应。选择后才会显示原文和翻译。</p>}
+        {!played && !listening && <p className="hint">先盲听台词,再选择最佳回应。选择后才会显示原文和翻译。</p>}
+        {listening && <p className="hint">听完自动解锁选项,也可提前停止作答。</p>}
 
         <div className="options">
           {round.options.map((o, oi) => {

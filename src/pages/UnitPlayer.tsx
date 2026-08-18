@@ -3,7 +3,7 @@ import { useNavigate, useOutletContext, useParams, useSearchParams } from 'react
 import { findUnit, loadArticle, loadDialogue, loadExam, loadGrammar, loadIndex, loadListen } from '../lib/curriculum'
 import { prefetchNearby } from '../lib/prefetch'
 import { awardXp } from '../lib/stats'
-import { getProgress, setProgress } from '../lib/storage'
+import { getProgress, setProgress, useDataVersion } from '../lib/storage'
 import type { Article, ExamSet, GoalDialogue, GrammarLesson, ListenChallenge, UnitDef } from '../lib/types'
 import type { AppContext } from '../App'
 import ExamView from '../views/ExamView'
@@ -29,9 +29,11 @@ export default function UnitPlayer() {
   const [sp, setSp] = useSearchParams()
   const navigate = useNavigate()
   const { openPopup, onSpeak } = useOutletContext<AppContext>()
+  useDataVersion()
   const rawStep = sp.get('step')
   const step: StepKey = STEPS.some((s) => s.key === rawStep) ? (rawStep as StepKey) : 'vocab'
   const [unit, setUnit] = useState<UnitDef | null>(null)
+  const [nextUnit, setNextUnit] = useState<UnitDef | null>(null)
   const [grammar, setGrammar] = useState<GrammarLesson | null>(null)
   const [article, setArticle] = useState<Article | null>(null)
   const [dialogue, setDialogue] = useState<GoalDialogue | null>(null)
@@ -41,6 +43,13 @@ export default function UnitPlayer() {
 
   useEffect(() => {
     setError('')
+    setUnit(null)
+    setNextUnit(null)
+    setGrammar(null)
+    setArticle(null)
+    setDialogue(null)
+    setListen(null)
+    setExam(null)
     loadIndex()
       .then((idx) => {
         const u = findUnit(idx, unitId)
@@ -49,6 +58,9 @@ export default function UnitPlayer() {
           return
         }
         setUnit(u)
+        const all = idx.stages.flatMap((s) => s.units)
+        const i = all.findIndex((x) => x.id === unitId)
+        setNextUnit(i >= 0 && i < all.length - 1 ? all[i + 1] : null)
         loadGrammar(unitId).then(setGrammar)
         loadArticle(unitId).then(setArticle)
         loadDialogue(unitId).then(setDialogue)
@@ -80,7 +92,16 @@ export default function UnitPlayer() {
   }
 
   const mark = (patch: Parameters<typeof setProgress>[1], xp = 5) => {
+    const before = getProgress(unitId)
+    const already =
+      ('vocab' in patch && !!before?.vocab) ||
+      ('grammar' in patch && !!before?.grammar?.done) ||
+      ('article' in patch && !!before?.article) ||
+      ('dialogue' in patch && !!before?.dialogue?.done) ||
+      ('listen' in patch && !!before?.listen?.done) ||
+      ('exam' in patch && !!before?.exam?.done)
     setProgress(unitId, patch)
+    if (already) return
     const p = getProgress(unitId)
     const unitDone = !!(p && p.vocab && !!p.grammar?.done && p.article && !!p.dialogue?.done && !!p.listen?.done && p.exam?.done)
     awardXp(xp, unitDone ? { unit: true } : {})
@@ -105,9 +126,16 @@ export default function UnitPlayer() {
             阶段 {unit.stage} · {unit.id} · 语法:{unit.grammarTopic}
           </span>
         </div>
-        <button className="btn ghost" onClick={() => navigate('/')}>
-          ← 首页目录
-        </button>
+        <div className="row-btns">
+          {nextUnit && (
+            <button className="btn ghost" onClick={() => navigate(`/unit/${nextUnit.id}`)}>
+              下一单元 →
+            </button>
+          )}
+          <button className="btn ghost" onClick={() => navigate('/')}>
+            ← 首页目录
+          </button>
+        </div>
       </div>
 
       <div className="unit-steps">
@@ -128,7 +156,10 @@ export default function UnitPlayer() {
           <VocabView
             words={article?.newWords ?? []}
             onSpeak={onSpeak}
-            onComplete={() => mark({ vocab: true })}
+            onComplete={() => {
+              mark({ vocab: true })
+              setSp({ step: 'grammar' })
+            }}
           />
         )}
         {step === 'grammar' &&
@@ -182,9 +213,12 @@ export default function UnitPlayer() {
         {step === 'exam' &&
           (exam ? (
             <ExamView
+              key={unitId}
               exam={exam}
               onComplete={(score, total) => mark({ exam: { done: true, score, total } })}
               onReview={() => setSp({ step: 'grammar' })}
+              onNextUnit={() => navigate(nextUnit ? `/unit/${nextUnit.id}` : '/')}
+              nextLabel={nextUnit ? '下一单元 →' : '返回首页'}
               onOpenTree={(point) => {
                 // 真题考点:优先精确节点(g-xxx);真实考研题(zhenti:...)回退到本单元语法地图节点
                 const target = point.startsWith('g-') ? point : grammar?.grammarId ?? `g-${unitId}`

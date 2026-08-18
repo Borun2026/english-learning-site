@@ -2,7 +2,7 @@
 export async function fetchJson<T>(url: string): Promise<T> {
   let res: Response
   try {
-    res = await fetch(url)
+    res = await fetch(url, { cache: 'no-cache' })
   } catch {
     throw new Error('无法连接本地服务。请确认已运行: npm run dev(或双击 start.bat),然后访问 http://127.0.0.1:5273')
   }

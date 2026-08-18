@@ -12,6 +12,12 @@ interface SpeechRec {
   start: () => void
 }
 
+function band(n: number): string {
+  if (n >= 80) return 'ok'
+  if (n >= 60) return 'mid'
+  return 'low'
+}
+
 export default function ShadowRead({ text }: { text: string }) {
   const [listening, setListening] = useState(false)
   const [said, setSaid] = useState('')
@@ -46,8 +52,13 @@ export default function ShadowRead({ text }: { text: string }) {
         {listening ? '🎙 聆听中…' : '🎙 跟读'}
       </button>
       {result && (
-        <span className={'tag ' + (result.score >= 70 ? '' : '')}>
-          {result.score} 分{result.missed.length ? ` · 漏 ${result.missed.slice(0, 3).join('/')}` : ''}
+        <span className={'shadow-score ' + band(result.score)} title="综合分 = (准确 + 模糊) / 2">
+          <b>{result.score}</b>
+          <span className="shadow-metrics">
+            <span className={'shadow-metric ' + band(result.accuracy)} title="精确词重合">准 {result.accuracy}</span>
+            <span className={'shadow-metric ' + band(result.fuzzy)} title="近音/近形重合">近 {result.fuzzy}</span>
+          </span>
+          {result.missed.length ? <span className="shadow-missed">漏 {result.missed.slice(0, 3).join('/')}</span> : null}
         </span>
       )}
       {said && <span className="dim"> 「{said}」</span>}

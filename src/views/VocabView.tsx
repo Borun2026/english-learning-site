@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import VocabCard from '../components/VocabCard'
 import { addWord, reviewWord } from '../lib/vocab'
 
@@ -17,11 +17,29 @@ export default function VocabView({
   const [idx, setIdx] = useState(0)
   const [known, setKnown] = useState<number>(0)
   const [unknown, setUnknown] = useState<number>(0)
+  const [locked, setLocked] = useState(false)
+  const [askStart, setAskStart] = useState(false)
+  const busy = useRef(false)
+  const finished = useRef(false)
 
   const current = words[idx]
 
+  useEffect(() => {
+    busy.current = false
+    setLocked(false)
+  }, [idx])
+
+  const finish = () => {
+    if (finished.current) return
+    finished.current = true
+    setPhase('done')
+    onComplete()
+  }
+
   const answer = (know: boolean) => {
-    // P5-2 入池钩子:新词统一入池;「认识」按 easy 排到 5 天后,「不认识」今日学习
+    if (busy.current || finished.current || !current) return
+    busy.current = true
+    setLocked(true)
     addWord(current, 'unit-vocab')
     if (know) {
       reviewWord(current, 'easy')
@@ -30,10 +48,21 @@ export default function VocabView({
       setUnknown((n) => n + 1)
     }
     if (idx + 1 >= words.length) {
-      setPhase('done')
+      finish()
     } else {
       setIdx((i) => i + 1)
     }
+  }
+
+  const startTest = () => {
+    setAskStart(false)
+    setPhase('test')
+    setIdx(0)
+    setKnown(0)
+    setUnknown(0)
+    busy.current = false
+    finished.current = false
+    setLocked(false)
   }
 
   const restart = () => {
@@ -41,6 +70,9 @@ export default function VocabView({
     setIdx(0)
     setKnown(0)
     setUnknown(0)
+    busy.current = false
+    finished.current = false
+    setLocked(false)
   }
 
   if (phase === 'test' && current) {
@@ -54,15 +86,15 @@ export default function VocabView({
             </span>
           </div>
         </div>
-        <p className="hint">诚实自评:点「认识」会排到 5 天后复习;点「不认识」今天进入复习队列。自测完成才算完成本单元词汇。</p>
+        <p className="hint">释义已遮挡。点「认识」会排到 5 天后复习;点「不认识」今天进入复习队列。自测完成将进入语法课。</p>
         <div className="vocab-grid" style={{ justifyContent: 'center' }}>
-          <VocabCard word={current} onSpeak={onSpeak} />
+          <VocabCard word={current} onSpeak={onSpeak} masked />
         </div>
         <div className="row-btns" style={{ justifyContent: 'center', marginTop: 14 }}>
-          <button className="btn" onClick={() => answer(true)}>
+          <button className="btn" disabled={locked} onClick={() => answer(true)}>
             ✅ 认识
           </button>
-          <button className="btn ghost" onClick={() => answer(false)}>
+          <button className="btn ghost" disabled={locked} onClick={() => answer(false)}>
             ❌ 不认识
           </button>
         </div>
@@ -79,13 +111,11 @@ export default function VocabView({
             认识 {known} 个 · 不认识 {unknown} 个
           </p>
           <p className="hint">
-            全部 {words.length} 词已收入词汇池:「不认识」的词今天到期,「认识」的词 5 天后复习。可到
-            <a href="#/wordbook"> 📒 词汇中心 </a>
-            复习。
+            全部 {words.length} 词已收入词汇池:「不认识」的词今天到期,「认识」的词 5 天后复习。正在进入语法课…
           </p>
           <div className="row-btns">
-            <button className="btn" onClick={onComplete}>
-              ✅ 完成本单元词汇,标记进度
+            <button className="btn" disabled onClick={finish}>
+              ✅ 已完成本单元词汇
             </button>
             <button className="btn ghost" onClick={restart}>
               🔄 重新自测
@@ -111,10 +141,33 @@ export default function VocabView({
         ))}
       </div>
       <div className="step-actions">
-        <button className="btn" onClick={() => setPhase('test')}>
+        <button className="btn" onClick={() => setAskStart(true)}>
           ▶️ 开始自测
         </button>
       </div>
+      {askStart && (
+        <div className="modal-backdrop" onClick={() => setAskStart(false)}>
+          <div className="modal" onClick={(e) => e.stopPropagation()}>
+            <div className="modal-head">
+              <h3>是否开始单词自测？</h3>
+              <button className="icon-btn" onClick={() => setAskStart(false)}>
+                ✕
+              </button>
+            </div>
+            <p className="hint">
+              释义将被模糊遮挡，点击模糊区域可查看意思。点「认识」排到 5 天后复习，点「不认识」今天进入复习队列。自测完成后会自动进入语法课。
+            </p>
+            <div className="row-btns">
+              <button className="btn" onClick={startTest}>
+                开始自测
+              </button>
+              <button className="btn ghost" onClick={() => setAskStart(false)}>
+                继续预习
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
     </div>
   )
 }

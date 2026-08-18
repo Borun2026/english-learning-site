@@ -1545,6 +1545,37 @@ body {
 .vocab-card { border: 1px solid #e3e8f0; border-radius: 10px; padding: 10px 12px; background: #fbfcfe; }
 .vocab-head { display: flex; align-items: center; gap: 6px; }
 .vocab-head b { color: #1a4d8f; font-size: 17px; }
+.vocab-body { position: relative; }
+.vocab-body.is-masked {
+  cursor: pointer;
+  min-height: 56px;
+  overflow: hidden;
+  border-radius: 8px;
+}
+.vocab-mask {
+  filter: blur(8px);
+  user-select: none;
+  pointer-events: none;
+  transition: filter var(--transition-fast);
+}
+.vocab-mask-hint {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 13px;
+  color: var(--primary);
+  font-weight: 600;
+  pointer-events: none;
+  background: rgba(251, 252, 254, 0.58);
+  border-radius: 8px;
+  letter-spacing: 0.02em;
+}
+.vocab-body.is-masked:hover .vocab-mask-hint,
+.vocab-body.is-masked:focus-visible .vocab-mask-hint {
+  background: rgba(239, 246, 255, 0.72);
+}
 
 /* ---- AI 解析 ---- */
 .parse-input { width: 100%; border: 1.5px solid #dde4ee; border-radius: 10px; padding: 10px 12px; font-size: 15px; font-family: inherit; resize: vertical; }
@@ -1604,6 +1635,26 @@ body {
 .option.dim { opacity: 0.55; }
 .affix-quiz { margin-top: 8px; }
 .shadow-read { display: inline-flex; align-items: center; gap: 6px; margin-left: 6px; flex-wrap: wrap; }
+.shadow-score {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+  font-size: 12px;
+  font-weight: 600;
+  border-radius: var(--radius-full);
+  padding: 2px 8px;
+  border: 1px solid var(--border-color);
+  background: var(--bg-card-subtle);
+  color: var(--text-muted);
+}
+.shadow-score > b { font-size: 13px; font-variant-numeric: tabular-nums; }
+.shadow-score.ok { background: var(--color-success-bg); border-color: var(--color-success-border); color: var(--color-success); }
+.shadow-score.mid { background: var(--color-warn-bg); border-color: #fde68a; color: var(--color-warn); }
+.shadow-score.low { background: var(--color-danger-bg); border-color: var(--color-danger-border); color: var(--color-danger); }
+.shadow-metrics { display: inline-flex; gap: 5px; font-weight: 500; }
+.shadow-metric { font-variant-numeric: tabular-nums; opacity: 0.9; }
+.shadow-missed { color: var(--color-danger); font-weight: 500; }
 
 /* ---- 闪卡快跑游戏专区 ---- */
 .flash-game-container {

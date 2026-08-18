@@ -41,6 +41,18 @@ assert.ok(sc.missed.includes('lazy') || sc.missed.includes('dog'))
 assert.deepEqual(tokenizeEn("Don't stop."), ["don't", 'stop'])
 assert.equal(scoreShadow('Hello there friend', 'hello there friend').score, 100)
 
+assert.deepEqual(tokenizeEn('I have 3 apples'), ['have', '3', 'apples'])
+assert.deepEqual(tokenizeEn('I have three apples'), ['have', '3', 'apples'])
+assert.deepEqual(tokenizeEn('twenty-one students'), ['21', 'students'])
+assert.equal(scoreShadow('I have 3 apples', 'I have three apples').accuracy, 100)
+assert.equal(scoreShadow('twenty one students', '21 students').score, 100)
+assert.equal(scoreShadow('two hundred five', '205').accuracy, 100)
+
+const near = scoreShadow('beautiful jumps', 'beautifull jump')
+assert.equal(near.accuracy, 0, '近形不算精确命中')
+assert.equal(near.fuzzy, 100, '1 编辑距离应算模糊命中')
+assert.equal(near.score, 50)
+
 assert.equal(yesterdayKey(new Date('2026-08-16T12:00:00')), '2026-08-15')
 assert.equal(todayKey(new Date('2026-08-16T12:00:00')), '2026-08-16')
 

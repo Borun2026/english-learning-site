@@ -7,11 +7,15 @@ export default function ExamView({
   onComplete,
   onReview,
   onOpenTree,
+  onNextUnit,
+  nextLabel = '下一单元 →',
 }: {
   exam: ExamSet
   onComplete: (score: number, total: number) => void
   onReview: (point: string) => void
   onOpenTree: (point: string) => void
+  onNextUnit?: () => void
+  nextLabel?: string
 }) {
   const [answers, setAnswers] = useState<Record<number, number>>({})
   const [submitted, setSubmitted] = useState(false)
@@ -135,6 +139,11 @@ export default function ExamView({
               <button className="btn ghost" onClick={reset}>
                 🔄 重做
               </button>
+              {onNextUnit && (
+                <button className="btn" onClick={onNextUnit}>
+                  {nextLabel}
+                </button>
+              )}
             </>
           )}
         </div>

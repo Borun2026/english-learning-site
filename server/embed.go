@@ -39,6 +39,9 @@ func spaHandler() http.Handler {
 		}
 		if f, err := sub.Open(rel); err == nil {
 			_ = f.Close()
+			if strings.HasSuffix(strings.ToLower(rel), ".json") {
+				w.Header().Set("Cache-Control", "no-cache")
+			}
 			fileServer.ServeHTTP(w, r)
 			return
 		}
