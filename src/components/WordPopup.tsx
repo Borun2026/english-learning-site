@@ -50,6 +50,10 @@ export default function WordPopup({ word, x, y, onClose, onSpeak }: Props) {
   }, [onClose])
 
   useEffect(() => {
+    onSpeak(word)
+  }, [word])
+
+  useEffect(() => {
     let alive = true
     setLoading(true)
     setDict(null)

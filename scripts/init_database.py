@@ -16,9 +16,8 @@ except Exception:
 
 LETTERS = "abcdefghijklmnopqrstuvwxyz"
 AUDIO_EXTS = {".mp3", ".wav", ".opus", ".m4a", ".ogg", ".flac", ".aac"}
-_UP = Path(__file__).resolve().parent.parent.parent
-HARDCODED_DATA = _UP / "data"
-HARDCODED_AUDIO = _UP / "audio_assets"
+HARDCODED_DATA = Path(r"D:\英语单词资料\data")
+HARDCODED_AUDIO = Path(r"D:\英语单词资料\audio_assets")
 
 CORE_SCHEMA = """
 CREATE TABLE dict_entries (

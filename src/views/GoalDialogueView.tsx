@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import WordText from '../components/WordText'
 import GrammarBlock from '../components/GrammarBlock'
 import DialogueRecord, { type RecordItem } from '../components/DialogueRecord'
@@ -18,25 +18,44 @@ export default function GoalDialogueView({
 }) {
   const [curId, setCurId] = useState(dialogue.start)
   const [dlgWav, setDlgWav] = useState<string | undefined>()
+  const [dlgWavId, setDlgWavId] = useState<string | null>(null)
   const [chosen, setChosen] = useState<number | null>(null)
   const [history, setHistory] = useState<RecordItem[]>([])
   const [finished, setFinished] = useState(false)
   const [showRecord, setShowRecord] = useState(false)
   const [reported, setReported] = useState(false)
+  const [autoFollow, setAutoFollow] = useState(false)
+  const autoFollowRef = useRef(false)
+  const lastSpokenIdRef = useRef<string | null>(null)
 
   const node = dialogue.nodes[curId]
 
   useEffect(() => {
     let alive = true
+    setDlgWavId(null)
     dialogueWavUrl(dialogue.unitId, curId).then((u) => {
-      if (alive) setDlgWav(u)
+      if (alive) {
+        setDlgWav(u)
+        setDlgWavId(curId)
+      }
     })
     return () => {
       alive = false
     }
   }, [dialogue.unitId, curId])
 
-  const speakLine = () => onSpeak(node.line, undefined, dlgWav)
+  useEffect(() => {
+    if (!autoFollowRef.current || dlgWavId !== curId || lastSpokenIdRef.current === curId) return
+    lastSpokenIdRef.current = curId
+    onSpeak(node.line, undefined, dlgWav)
+  }, [curId, dlgWav, dlgWavId, node.line, onSpeak])
+
+  const speakLine = () => {
+    autoFollowRef.current = true
+    setAutoFollow(true)
+    lastSpokenIdRef.current = curId
+    onSpeak(node.line, undefined, dlgWav)
+  }
 
   const choose = (idx: number) => {
     if (chosen != null || finished) return
@@ -59,6 +78,9 @@ export default function GoalDialogueView({
   }
 
   const restart = () => {
+    autoFollowRef.current = false
+    lastSpokenIdRef.current = null
+    setAutoFollow(false)
     setCurId(dialogue.start)
     setChosen(null)
     setHistory([])
@@ -73,6 +95,7 @@ export default function GoalDialogueView({
         <div>
           <h2>🎯 {dialogue.scene}</h2>
           <span className="tag">目标式情景对话</span>
+          {autoFollow && <span className="dim"> · 连读中</span>}
         </div>
         <button className="btn ghost" onClick={speakLine}>
           🔊 朗读台词

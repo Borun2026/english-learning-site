@@ -46,7 +46,11 @@ export default function VocabCard({
       </div>
       <div
         className={'vocab-body' + (hide ? ' is-masked' : '')}
-        onClick={() => hide && setPeeked(true)}
+        onClick={() => {
+          if (!hide) return
+          setPeeked(true)
+          onSpeak(word)
+        }}
         title={hide ? '点击查看释义' : undefined}
       >
         <div className={hide ? 'vocab-mask' : undefined}>

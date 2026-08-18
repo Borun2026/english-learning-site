@@ -1,5 +1,5 @@
 import type React from 'react'
-import { LEVEL_NAMES, type WordLevelMark } from '../lib/wordLevel'
+import { LEVEL_NAMES, STOP_WORDS, type WordLevelMark } from '../lib/wordLevel'
 
 export default function WordText({
   text,
@@ -23,35 +23,33 @@ export default function WordText({
         const token = normalizeWord(w)
         if (!token) return <span key={i}>{w} </span>
         const hl = hlIdx === hlStart + i
-        const mark = levelOf?.(token)
+        const mark = STOP_WORDS.has(token) ? undefined : levelOf?.(token)
+        let lvClass = ''
+        const tips: string[] = []
+        if (mark?.level !== undefined && mark.level >= 2) {
+          lvClass += ' wl-lv' + mark.level
+          tips.push(`词库分级:${LEVEL_NAMES[mark.level] ?? `L${mark.level}`}`)
+        }
+        if (mark?.freqRank !== undefined) {
+          lvClass += ' wl-freq'
+          tips.push(`考研真题高频第 ${mark.freqRank} 位`)
+        }
         return (
-          <span
-            key={i}
-            className={'word' + (hl ? ' speaking' : '') + (className ? ' ' + className : '')}
-            onClick={
-              onWord
-                ? (e) => {
-                    // 单词点击不冒泡到句子,避免"点词查义"时同时触发"点句拆解"
-                    e.stopPropagation()
-                    onWord(e, w)
-                  }
-                : undefined
-            }
-          >
-            {w}{' '}
-            {mark?.level !== undefined && mark.level >= 2 && (
-              <span
-                className={'wl-badge lv' + mark.level}
-                title={`词库分级:${LEVEL_NAMES[mark.level] ?? `L${mark.level}`}`}
-              >
-                {LEVEL_NAMES[mark.level] ?? `L${mark.level}`}
-              </span>
-            )}
-            {mark?.freqRank !== undefined && (
-              <span className="wl-badge freq" title={`考研真题高频第 ${mark.freqRank} 位`}>
-                🔥{mark.freqRank}
-              </span>
-            )}
+          <span key={i}>
+            <span
+              className={'word' + (hl ? ' speaking' : '') + lvClass + (className ? ' ' + className : '')}
+              title={tips.length ? tips.join(' · ') : undefined}
+              onClick={
+                onWord
+                  ? (e) => {
+                      e.stopPropagation()
+                      onWord(e, w)
+                    }
+                  : undefined
+              }
+            >
+              {w}
+            </span>{' '}
           </span>
         )
       })}

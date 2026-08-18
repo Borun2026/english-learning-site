@@ -8,6 +8,22 @@ const BASE = import.meta.env.BASE_URL + 'content/'
 /** 考研真题高频 TOP 阈值:rank ≤ FREQ_TOP 显示「🔥 高频」徽章 */
 export const FREQ_TOP = 1000
 
+export const STOP_WORDS = new Set([
+  'a', 'an', 'the', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'from', 'by', 'as',
+  'is', 'are', 'was', 'were', 'be', 'been', 'being', 'am',
+  'and', 'or', 'but', 'if', 'so', 'not', 'no', 'nor', 'yet',
+  'do', 'does', 'did', 'have', 'has', 'had',
+  'i', 'you', 'he', 'she', 'it', 'we', 'they',
+  'this', 'that', 'these', 'those',
+  'my', 'your', 'his', 'her', 'its', 'our', 'their',
+  'me', 'him', 'us', 'them',
+  'who', 'whom', 'whose', 'which', 'what',
+  'will', 'would', 'could', 'should', 'can', 'may', 'might', 'must', 'shall',
+  'than', 'then', 'too', 'very', 'just', 'also', 'only',
+  'into', 'onto', 'upon', 'about', 'over', 'under', 'after', 'before',
+  'out', 'up', 'down', 'off', 'all', 'any', 'each', 'both', 'some',
+])
+
 /** 词级徽章名称(词库 level 语义:2 四级 / 3 六级 / 4 考研 / 5 雅思;0/1 初中/高中不显示) */
 export const LEVEL_NAMES: Record<number, string> = {
   2: '四级',
@@ -80,7 +96,7 @@ export async function computeWordLevelMarks(texts: string[]): Promise<Map<string
   for (const t of texts) {
     for (const raw of t.split(/\s+/)) {
       const w = normWord(raw)
-      if (w.length > 1 && /[a-z]/.test(w)) words.add(w)
+      if (w.length > 1 && /[a-z]/.test(w) && !STOP_WORDS.has(w)) words.add(w)
     }
   }
 

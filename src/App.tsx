@@ -5,7 +5,7 @@ import { normalizeWord } from './components/WordText'
 import { wordWavUrl } from './lib/audio'
 import { searchDict } from './lib/dict'
 import { initSpeech, speak } from './lib/speech'
-import { loadData, setTts } from './lib/storage'
+import { loadData, setTts, useDataVersion } from './lib/storage'
 import type { DictEntry } from './lib/types'
 
 interface PopupState {
@@ -26,11 +26,16 @@ export default function App() {
   const navigate = useNavigate()
   const [popup, setPopup] = useState<PopupState | null>(null)
   const [rate, setRate] = useState(loadData().tts.rate)
+  const dv = useDataVersion()
   const [netError, setNetError] = useState('')
   const [navSection, setNavSection] = useState<NavSection>('all')
   const [draft, setDraft] = useState('')
   const [open, setOpen] = useState(false)
   const [suggs, setSuggs] = useState<DictEntry[]>([])
+
+  useEffect(() => {
+    setRate(loadData().tts.rate)
+  }, [dv])
 
   useEffect(() => {
     const q = draft.trim()

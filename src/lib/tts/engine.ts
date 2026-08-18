@@ -82,7 +82,11 @@ export function playAudioBlob(
     }
     currentAudio = audio
     currentAudioReject = reject
-    audio.playbackRate = clampRate(rate)
+    const applyRate = () => {
+      audio.playbackRate = clampRate(rate)
+    }
+    applyRate()
+    audio.onloadedmetadata = applyRate
     audio.onended = () => {
       clear()
       resolve()
@@ -116,6 +120,7 @@ export function stopCurrentAudio() {
   if (audio) {
     audio.onended = null
     audio.onerror = null
+    audio.onloadedmetadata = null
     audio.pause()
     audio.src = ''
   }
@@ -143,7 +148,11 @@ export function playAudioUrl(
     }
     currentAudio = audio
     currentAudioReject = reject
-    audio.playbackRate = clampRate(rate)
+    const applyRate = () => {
+      audio.playbackRate = clampRate(rate)
+    }
+    applyRate()
+    audio.onloadedmetadata = applyRate
     audio.onended = () => {
       clear()
       resolve()

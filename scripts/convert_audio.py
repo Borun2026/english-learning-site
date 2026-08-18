@@ -12,7 +12,7 @@ except Exception:
     pass
 
 AUDIO_EXTS = {".mp3", ".wav", ".m4a", ".ogg", ".flac", ".aac"}
-DEFAULT_OUT = Path(__file__).resolve().parent.parent.parent / "audio_assets"
+DEFAULT_OUT = Path(r"D:\英语单词资料\audio_assets")
 
 
 def iter_src(src_root: Path):

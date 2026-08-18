@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """build_freq.py —— 从考研词频表生成 public/content/freq.json
-输入: ../01_词库/考研词频表/netem_full_list.json
+输入: D:\英语单词资料\01_词库\考研词频表\netem_full_list.json
 输出: public/content/freq.json { word: {rank, freq} }
 """
 import json

@@ -165,17 +165,20 @@ export default function ReaderView({
               <>
                 {s.grammarTags && s.grammarTags.length > 0 && (
                   <div className="grammar-tags">
-                    {s.grammarTags.map((t, ti) => (
-                      <button
-                        key={ti}
-                        className="grammar-tag"
-                        onClick={onOpenGrammar}
-                        title="跳转到本单元语法课"
-                      >
-                        📌 {t.name}
-                        <span className="grammar-tag-phrase">{t.phrase}</span>
-                      </button>
-                    ))}
+                    <h4 className="bd-section-title">📌 本句考点</h4>
+                    <div className="grammar-tags-list">
+                      {s.grammarTags.map((t, ti) => (
+                        <button
+                          key={ti}
+                          className="grammar-tag"
+                          onClick={onOpenGrammar}
+                          title="跳转到本单元语法课"
+                        >
+                          📌 {t.name}
+                          <span className="grammar-tag-phrase">{t.phrase}</span>
+                        </button>
+                      ))}
+                    </div>
                   </div>
                 )}
                 <SentenceBreakdown sentence={s} />
@@ -234,6 +237,7 @@ export default function ReaderView({
 }
 
 function SentenceExercises({ exercises }: { exercises: SentenceExercise[] }) {
+  const [open, setOpen] = useState(false)
   const [answers, setAnswers] = useState<Record<number, string>>({})
   const [revealed, setRevealed] = useState<Record<number, boolean>>({})
 
@@ -243,7 +247,10 @@ function SentenceExercises({ exercises }: { exercises: SentenceExercise[] }) {
 
   return (
     <div className="exercises">
-      {exercises.map((e, ei) => {
+      <button type="button" className="ex-toggle" onClick={() => setOpen((v) => !v)}>
+        {open ? `▾ 本句练习 (${exercises.length})` : `▸ 本句练习 (${exercises.length})`}
+      </button>
+      {open && exercises.map((e, ei) => {
         const mine = answers[ei]
         const showReveal = revealed[ei]
         return (
