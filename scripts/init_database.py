@@ -16,8 +16,6 @@ except Exception:
 
 LETTERS = "abcdefghijklmnopqrstuvwxyz"
 AUDIO_EXTS = {".mp3", ".wav", ".opus", ".m4a", ".ogg", ".flac", ".aac"}
-HARDCODED_DATA = Path(r"D:\英语单词资料\data")
-HARDCODED_AUDIO = Path(r"D:\英语单词资料\audio_assets")
 
 CORE_SCHEMA = """
 CREATE TABLE dict_entries (
@@ -95,7 +93,7 @@ def resolve_audio_root(site_root: Path, override):
         if not p.is_dir():
             raise SystemExit(f"audio root not found: {p}")
         return p
-    for cand in (HARDCODED_AUDIO, site_root / "public" / "content" / "audio"):
+    for cand in (site_root.parent / "audio_assets", site_root / "public" / "content" / "audio"):
         if cand.is_dir():
             return cand
     return None
@@ -321,10 +319,8 @@ def main():
     site_root = Path(args.site_root).resolve()
     if args.data_dir:
         data_dir = Path(args.data_dir)
-    elif HARDCODED_DATA.parent.exists():
-        data_dir = HARDCODED_DATA
     else:
-        data_dir = (site_root / ".." / ".." / "data").resolve()
+        data_dir = site_root.parent / "data"
     data_dir.mkdir(parents=True, exist_ok=True)
 
     content = site_root / "public" / "content"

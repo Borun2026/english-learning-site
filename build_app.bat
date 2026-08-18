@@ -29,27 +29,15 @@ if not exist "node_modules" (
     echo [1/4] npm 依赖已就绪
 )
 
-echo [2/4] 构建前端 (暂时移开音频目录以免打进 dist)...
-set "AUDIO_SRC=%cd%\public\content\audio"
-set "AUDIO_PARK=%cd%\..\_audio_tmp_build"
-set "MOVED_AUDIO=0"
-if exist "%AUDIO_SRC%" (
-    if exist "%AUDIO_PARK%" rmdir /s /q "%AUDIO_PARK%"
-    move /y "%AUDIO_SRC%" "%AUDIO_PARK%" >nul
-    set "MOVED_AUDIO=1"
-)
-
+echo [2/4] 构建前端 (音频不打进 exe, 构建后从 dist 删除)...
 call npm run build
-set "BUILD_ERR=%ERRORLEVEL%"
-
-if "%MOVED_AUDIO%"=="1" (
-    if not exist "%cd%\public\content" mkdir "%cd%\public\content"
-    move /y "%AUDIO_PARK%" "%AUDIO_SRC%" >nul
-)
-
-if not "%BUILD_ERR%"=="0" (
+if errorlevel 1 (
     echo [错误] npm run build 失败
     exit /b 1
+)
+if exist "dist\content\audio" (
+    echo 从 dist 删除音频目录...
+    rmdir /s /q "dist\content\audio"
 )
 
 echo [3/4] 复制 dist 到 server\dist (排除 audio)...
@@ -81,7 +69,7 @@ popd
 if not exist "..\data\english_core.db" (
     echo.
     echo 未检测到 data\english_core.db, 正在灌库...
-    python scripts\init_database.py
+    python scripts\init_database.py --data-dir "%cd%\..\data"
 )
 
 echo.

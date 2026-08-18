@@ -79,21 +79,33 @@ export function stopBrowser() {
 
 /* ---------------- 声音模型管理(设置页:预下载 / 删除 / 状态) ---------------- */
 
+const inflight = new Map<string, Promise<void>>()
+
 /**
  * 确保声音模型已进入 OPFS(文件名与 vits-web 内部契约一致,预测时直接命中缓存)。
  * 官方 HF 失败自动回退 hf-mirror.com 镜像。
  */
 export async function ensureBrowserVoice(id: BrowserVoiceId, onProgress?: (percent: number) => void): Promise<void> {
+  if (inflight.has(id)) return inflight.get(id)!
   if ((await listStoredBrowserVoices()).includes(id)) return
+  if (inflight.has(id)) return inflight.get(id)!
+  const p = (async () => {
+    try {
+      await download(id as VoiceId, (prog) => {
+        onProgress?.(prog.total > 0 ? Math.min(100, Math.round((prog.loaded / prog.total) * 100)) : 0)
+      })
+      return
+    } catch (e) {
+      console.warn(`[tts] 官方源下载 ${id} 失败,尝试镜像:`, e instanceof Error ? e.message : e)
+    }
+    await storeBrowserVoiceFrom(HF_MIRROR, id, onProgress)
+  })()
+  inflight.set(id, p)
   try {
-    await download(id as VoiceId, (p) => {
-      onProgress?.(p.total > 0 ? Math.min(100, Math.round((p.loaded / p.total) * 100)) : 0)
-    })
-    return
-  } catch (e) {
-    console.warn(`[tts] 官方源下载 ${id} 失败,尝试镜像:`, e instanceof Error ? e.message : e)
+    await p
+  } finally {
+    inflight.delete(id)
   }
-  await storeBrowserVoiceFrom(HF_MIRROR, id, onProgress)
 }
 
 /** 从指定源把 {id}.onnx 与 {id}.onnx.json 写入 OPFS 的 piper 目录(与 vits-web 同名) */
@@ -105,21 +117,12 @@ async function storeBrowserVoiceFrom(base: string, id: BrowserVoiceId, onProgres
     { url: `${base}/${rel}.json`, name: `${id}.onnx.json` },
     { url: `${base}/${rel}`, name: `${id}.onnx` },
   ]
-  // 先取总大小(配置仅几 KB,模型约 60-70MB),进度以字节计
   let total = 0
-  const sizes: number[] = []
+  let loaded = 0
   for (const f of files) {
     const res = await fetch(f.url)
-    if (!res.ok) throw new Error(`下载 ${f.name} 失败: HTTP ${res.status}`)
-    const n = Number(res.headers.get('Content-Length') ?? 0)
-    sizes.push(n)
-    total += n
-  }
-  let loaded = 0
-  for (let i = 0; i < files.length; i++) {
-    const f = files[i]
-    const res = await fetch(f.url)
     if (!res.ok || !res.body) throw new Error(`下载 ${f.name} 失败: HTTP ${res.status}`)
+    total += Number(res.headers.get('Content-Length') ?? 0)
     const reader = res.body.getReader()
     const handle = await dir.getFileHandle(f.name, { create: true })
     const w = await handle.createWritable()

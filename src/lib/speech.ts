@@ -203,6 +203,7 @@ export function speakSentences(
       {
         rate,
         onStart: () => {
+          if (sessionId !== id) return
           speakingFlag = true
           opts.onStart?.()
         },

@@ -33,7 +33,10 @@ func main() {
 	dbs, err := openDBs(paths)
 	if err != nil {
 		fmt.Println("[db] fatal:", err)
-		os.Exit(1)
+		if dbs != nil {
+			dbs.close()
+		}
+		return
 	}
 	defer dbs.close()
 
@@ -53,7 +56,7 @@ func main() {
 	if err != nil {
 		fmt.Println("[english-app] fatal:", err)
 		waitEnter(60 * time.Second)
-		os.Exit(1)
+		return
 	}
 	if actualPort != *port {
 		fmt.Printf("[port] %d occupied, using %d instead\n", *port, actualPort)
@@ -63,10 +66,17 @@ func main() {
 	go openBrowser(fmt.Sprintf("http://127.0.0.1:%d", actualPort))
 	go srv.preloadAudioManifest()
 
-	if err := http.Serve(ln, withCORS(mux)); err != nil {
+	hs := &http.Server{
+		Handler:           withCORS(mux),
+		ReadHeaderTimeout: 10 * time.Second,
+		ReadTimeout:       60 * time.Second,
+		WriteTimeout:      180 * time.Second,
+		IdleTimeout:       120 * time.Second,
+	}
+	if err := hs.Serve(ln); err != nil {
 		fmt.Println("[english-app] serve error:", err)
 		waitEnter(60 * time.Second)
-		os.Exit(1)
+		return
 	}
 }
 
@@ -110,6 +120,12 @@ func withCORS(next http.Handler) http.Handler {
 			w.WriteHeader(http.StatusNoContent)
 			return
 		}
+		defer func() {
+			if rec := recover(); rec != nil {
+				fmt.Println("[panic]", rec)
+				http.Error(w, "internal error", http.StatusInternalServerError)
+			}
+		}()
 		next.ServeHTTP(w, r)
 	})
 }
@@ -216,22 +232,41 @@ func findExistingInstance(base int) int {
 	if base < 1 || base > 65535 {
 		base = 8787
 	}
-	client := &http.Client{Timeout: 400 * time.Millisecond}
-	for p := base; p <= base+10 && p <= 65535; p++ {
-		resp, err := client.Get(fmt.Sprintf("http://127.0.0.1:%d/health", p))
-		if err != nil {
-			continue
-		}
-		body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<16))
-		resp.Body.Close()
-		var h struct {
-			Service string `json:"service"`
-		}
-		if json.Unmarshal(body, &h) == nil && h.Service == "english-app" {
-			return p
+	max := base + 50
+	if max > 65535 {
+		max = 65535
+	}
+	n := max - base + 1
+	found := make(chan int, n)
+	client := &http.Client{Timeout: 300 * time.Millisecond}
+	var wg sync.WaitGroup
+	for p := base; p <= max; p++ {
+		wg.Add(1)
+		go func(p int) {
+			defer wg.Done()
+			resp, err := client.Get(fmt.Sprintf("http://127.0.0.1:%d/health", p))
+			if err != nil {
+				return
+			}
+			body, _ := io.ReadAll(io.LimitReader(resp.Body, 1<<16))
+			resp.Body.Close()
+			var h struct {
+				Service string `json:"service"`
+			}
+			if json.Unmarshal(body, &h) == nil && h.Service == "english-app" {
+				found <- p
+			}
+		}(p)
+	}
+	wg.Wait()
+	close(found)
+	hit := 0
+	for p := range found {
+		if hit == 0 || p < hit {
+			hit = p
 		}
 	}
-	return 0
+	return hit
 }
 
 func waitEnter(timeout time.Duration) {

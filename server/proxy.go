@@ -15,6 +15,8 @@ const (
 	proxyTimeout = 120 * time.Second
 )
 
+var proxyClient = &http.Client{Timeout: proxyTimeout}
+
 func (s *server) handleAIProxy(w http.ResponseWriter, r *http.Request) {
 	if !requireLoopback(w, r) {
 		return
@@ -151,8 +153,7 @@ func forward(w http.ResponseWriter, r *http.Request, target *url.URL, method str
 		req.Header.Set(k, v)
 	}
 
-	client := &http.Client{Timeout: proxyTimeout}
-	resp, err := client.Do(req)
+	resp, err := proxyClient.Do(req)
 	if err != nil {
 		if ctx.Err() != nil {
 			http.Error(w, "proxy error: upstream request aborted or timed out", http.StatusBadGateway)

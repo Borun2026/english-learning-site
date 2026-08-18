@@ -67,14 +67,26 @@ export function getWordState(word: string): WordState | undefined {
   return loadData().wordStates[wordKey(word)]
 }
 
-/** 快标掌握:入池后连续 easy 复习直至 box≥5 */
+/** 快标掌握:入池后直接标为箱 5 / mastered */
 export function markMastered(word: string, source: WordSource): WordState {
-  let st = addWord(word, source)
-  let guard = 0
-  while (st.status !== 'mastered' && guard++ < 8) {
-    st = reviewWord(word, 'easy')!
+  addWord(word, source)
+  const key = wordKey(word)
+  const d = loadData()
+  const st = d.wordStates[key]
+  const now = Date.now()
+  const interval = st.interval > 0 ? st.interval : 21
+  const next: WordState = {
+    ...st,
+    reps: Math.max(1, st.reps),
+    box: 5,
+    status: 'mastered',
+    interval,
+    lastReviewAt: now,
+    next: now + interval * 86400000,
   }
-  return st
+  d.wordStates[key] = next
+  saveData(d)
+  return next
 }
 
 export function allWordStates(): WordState[] {

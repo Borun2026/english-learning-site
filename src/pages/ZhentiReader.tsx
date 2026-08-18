@@ -32,7 +32,7 @@ export default function ZhentiReader() {
     loadZhentiArticle(id).then((a) => {
       if (a) setArticle(a)
       else setErr('未找到该真题')
-    })
+    }).catch((e) => setErr(e instanceof Error ? e.message : '加载失败'))
   }, [id])
 
   const isCloze = article?.section === 'cloze'

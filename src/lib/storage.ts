@@ -3,6 +3,7 @@ import { companionFetch, probeCompanion } from './companion.ts'
 import type { AiConfig, AiConfigProfile, AiPreset, AiProfile, AiWordExplain, AiWritingFeedback, AppData, CoachMemory, GameBestEntry, MyArticle, PassageNote, PlanCheckins, PracticeSet, StudyPlan, TtsConfig, TtsEngineKind, UnitProgress, UserStats, WordSource, WordState } from './types'
 
 const KEY = 'english-learning-site:v1'
+const WRITE_AT_KEY = 'english-learning-site:v1:writtenAt'
 
 /**
  * AI 供应商预设(参考 cc-switch 72 个供应商预设整理,仅收录 OpenAI Chat Completions 兼容项)。
@@ -304,11 +305,33 @@ function localLooksEmpty(data: AppData): boolean {
   return Object.keys(data.progress).length === 0 && Object.keys(data.wordStates).length === 0
 }
 
-function dataWeight(data: AppData): number {
-  return Object.keys(data.progress).length + Object.keys(data.wordStates).length
+function readPersistedWriteAt(): number {
+  try {
+    const raw = localStorage.getItem(WRITE_AT_KEY)
+    if (raw) {
+      const n = Number(raw)
+      return Number.isFinite(n) ? n : 0
+    }
+    if (localStorage.getItem(KEY)) return Date.now()
+    return 0
+  } catch {
+    return 0
+  }
+}
+
+function persistWriteAt(ts: number) {
+  lastLocalWriteAt = ts
+  lastHydratedAt = ts
+  try {
+    localStorage.setItem(WRITE_AT_KEY, String(ts))
+  } catch {
+    /* ignore */
+  }
 }
 
 let lastHydratedAt = 0
+let lastLocalWriteAt = readPersistedWriteAt()
+lastHydratedAt = lastLocalWriteAt
 let hydrateInflight: Promise<boolean> | null = null
 let syncTimer: ReturnType<typeof setTimeout> | null = null
 
@@ -343,11 +366,9 @@ export async function hydrateFromCompanion(): Promise<boolean> {
       const remoteAt = typeof remote.updatedAt === 'number' ? remote.updatedAt : 0
       const local = loadData()
       const empty = localLooksEmpty(local)
-      if (!empty && !(remoteAt > lastHydratedAt)) return false
+      if (!empty && remoteAt <= lastLocalWriteAt) return false
       const m = migrateBackup(remote.data)
       if (!m) return false
-      if (!empty && dataWeight(m.data) <= dataWeight(local)) return false
-      lastHydratedAt = remoteAt || Date.now()
       saveData(m.data)
       return true
     } catch {
@@ -359,11 +380,51 @@ export async function hydrateFromCompanion(): Promise<boolean> {
   return hydrateInflight
 }
 
+function trimRecord<T>(rec: Record<string, T>, keep: number): Record<string, T> {
+  const keys = Object.keys(rec)
+  if (keys.length <= keep) return rec
+  const out: Record<string, T> = {}
+  for (const k of keys.slice(-keep)) out[k] = rec[k]
+  return out
+}
+
+function slimForQuota(data: AppData): AppData {
+  const next = { ...data }
+  if (next.aiWordCache && Object.keys(next.aiWordCache).length > 200) {
+    next.aiWordCache = trimRecord(next.aiWordCache, 200)
+  }
+  if (next.passageNotes && Object.keys(next.passageNotes).length > 150) {
+    next.passageNotes = trimRecord(next.passageNotes, 150)
+  }
+  if (next.practiceCache) next.practiceCache = {}
+  if (next.writingFeedback && Object.keys(next.writingFeedback).length > 50) {
+    next.writingFeedback = trimRecord(next.writingFeedback, 50)
+  }
+  if (next.gameAiNotes && Object.keys(next.gameAiNotes).length > 20) {
+    next.gameAiNotes = trimRecord(next.gameAiNotes, 20)
+  }
+  return next
+}
+
 export function saveData(data: AppData) {
   cache = data
-  localStorage.setItem(KEY, JSON.stringify(data))
+  try {
+    localStorage.setItem(KEY, JSON.stringify(data))
+  } catch (e) {
+    const name = (e as DOMException)?.name ?? ''
+    if (name === 'QuotaExceededError' || name === 'NS_ERROR_DOM_QUOTA_REACHED') {
+      const slim = slimForQuota(data)
+      cache = slim
+      try {
+        localStorage.setItem(KEY, JSON.stringify(slim))
+      } catch {
+        // 只保内存，不抛
+      }
+    }
+  }
+  persistWriteAt(Date.now())
   notify()
-  pushCompanionSync(data)
+  pushCompanionSync(cache)
 }
 
 export function useData(): AppData {

@@ -75,7 +75,13 @@ func (s *server) postUserSync(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "encode failed", http.StatusInternalServerError)
 		return
 	}
-	_, err = s.db.user.Exec(
+	tx, err := s.db.user.Begin()
+	if err != nil {
+		http.Error(w, "write failed", http.StatusInternalServerError)
+		return
+	}
+	defer tx.Rollback()
+	_, err = tx.Exec(
 		`INSERT INTO user_blob(id, payload_json, updated_at) VALUES(?,?,?)
 		 ON CONFLICT(id) DO UPDATE SET payload_json=excluded.payload_json, updated_at=excluded.updated_at`,
 		blobID, string(raw), now,
@@ -84,7 +90,11 @@ func (s *server) postUserSync(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "write failed", http.StatusInternalServerError)
 		return
 	}
-	s.bestEffortUpsert(data, now)
+	s.bestEffortUpsert(tx, data, now)
+	if err := tx.Commit(); err != nil {
+		http.Error(w, "write failed", http.StatusInternalServerError)
+		return
+	}
 	writeJSON(w, http.StatusOK, map[string]any{"updatedAt": now, "ok": true})
 }
 
@@ -105,7 +115,7 @@ func (s *server) readBlob() (int64, any, bool, error) {
 	return updatedAt, data, true, nil
 }
 
-func (s *server) bestEffortUpsert(data any, updatedAt int64) {
+func (s *server) bestEffortUpsert(tx *sql.Tx, data any, updatedAt int64) {
 	m, ok := data.(map[string]any)
 	if !ok {
 		return
@@ -117,7 +127,7 @@ func (s *server) bestEffortUpsert(data any, updatedAt int64) {
 				continue
 			}
 			sources, _ := json.Marshal(st["sources"])
-			_, _ = s.db.user.Exec(
+			_, _ = tx.Exec(
 				`INSERT INTO user_word_states(word, reps, interval_days, ef, next_review_at, status, box, wrong_count, sources_json, added_at, last_review_at)
 				 VALUES(?,?,?,?,?,?,?,?,?,?,?)
 				 ON CONFLICT(word) DO UPDATE SET
@@ -151,7 +161,7 @@ func (s *server) bestEffortUpsert(data any, updatedAt int64) {
 			if err != nil {
 				continue
 			}
-			_, _ = s.db.user.Exec(
+			_, _ = tx.Exec(
 				`INSERT INTO user_progress(module_id, progress_json, updated_at) VALUES(?,?,?)
 				 ON CONFLICT(module_id) DO UPDATE SET progress_json=excluded.progress_json, updated_at=excluded.updated_at`,
 				id, string(raw), updatedAt,

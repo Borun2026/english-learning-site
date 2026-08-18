@@ -1,4 +1,4 @@
-import { Suspense, useEffect, useState } from 'react'
+import { Suspense, useEffect, useRef, useState } from 'react'
 import { Link, NavLink, Outlet, useNavigate } from 'react-router-dom'
 import WordPopup from './components/WordPopup'
 import { normalizeWord } from './components/WordText'
@@ -32,6 +32,7 @@ export default function App() {
   const [draft, setDraft] = useState('')
   const [open, setOpen] = useState(false)
   const [suggs, setSuggs] = useState<DictEntry[]>([])
+  const blurTimer = useRef(0)
 
   useEffect(() => {
     setRate(loadData().tts.rate)
@@ -44,13 +45,18 @@ export default function App() {
       return
     }
     let alive = true
-    searchDict(q).then((rows) => {
-      if (alive) setSuggs(rows)
-    })
+    const t = window.setTimeout(() => {
+      searchDict(q).then((rows) => {
+        if (alive) setSuggs(rows)
+      })
+    }, 200)
     return () => {
+      window.clearTimeout(t)
       alive = false
     }
   }, [draft])
+
+  useEffect(() => () => window.clearTimeout(blurTimer.current), [])
 
   useEffect(() => {
     initSpeech()
@@ -100,7 +106,7 @@ export default function App() {
             onChange={(e) => setDraft(e.target.value)}
             onFocus={() => setOpen(true)}
             onBlur={() => {
-              window.setTimeout(() => setOpen(false), 150)
+              blurTimer.current = window.setTimeout(() => setOpen(false), 150)
             }}
             onKeyDown={(e) => {
               if (e.key === 'Escape') setOpen(false)

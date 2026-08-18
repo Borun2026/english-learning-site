@@ -39,15 +39,26 @@ func spaHandler() http.Handler {
 		}
 		if f, err := sub.Open(rel); err == nil {
 			_ = f.Close()
-			if strings.HasSuffix(strings.ToLower(rel), ".json") {
-				w.Header().Set("Cache-Control", "no-cache")
-			}
+			setStaticCache(w, rel)
 			fileServer.ServeHTTP(w, r)
 			return
 		}
 		w.Header().Set("Content-Type", "text/html; charset=utf-8")
+		w.Header().Set("Cache-Control", "no-cache")
 		_, _ = w.Write(indexHTML)
 	})
+}
+
+func setStaticCache(w http.ResponseWriter, rel string) {
+	lower := strings.ToLower(rel)
+	if rel == "index.html" || strings.HasSuffix(lower, ".json") {
+		w.Header().Set("Cache-Control", "no-cache")
+		return
+	}
+	base := path.Base(rel)
+	if (strings.HasSuffix(lower, ".js") || strings.HasSuffix(lower, ".css")) && strings.Contains(base, "-") {
+		w.Header().Set("Cache-Control", "public, max-age=31536000, immutable")
+	}
 }
 
 func isReservedPath(p string) bool {

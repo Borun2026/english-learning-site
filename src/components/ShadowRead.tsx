@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { canShadow, scoreShadow, type ShadowScore } from '../lib/shadow'
 import { addWrongWords } from '../lib/vocab'
 import { awardXp } from '../lib/stats'
@@ -10,6 +10,8 @@ interface SpeechRec {
   onerror: (() => void) | null
   onend: (() => void) | null
   start: () => void
+  stop?: () => void
+  abort?: () => void
 }
 
 function band(n: number): string {
@@ -22,6 +24,10 @@ export default function ShadowRead({ text }: { text: string }) {
   const [listening, setListening] = useState(false)
   const [said, setSaid] = useState('')
   const [result, setResult] = useState<ShadowScore | null>(null)
+  const recRef = useRef<SpeechRec | null>(null)
+
+  useEffect(() => () => { recRef.current?.abort?.() ?? recRef.current?.stop?.() }, [])
+
   if (!canShadow() || !text.trim()) return null
 
   const start = () => {
@@ -29,6 +35,7 @@ export default function ShadowRead({ text }: { text: string }) {
     const SR = w.SpeechRecognition || w.webkitSpeechRecognition
     if (!SR) return
     const rec = new SR()
+    recRef.current = rec
     rec.lang = 'en-US'
     rec.interimResults = false
     rec.onresult = (ev) => {

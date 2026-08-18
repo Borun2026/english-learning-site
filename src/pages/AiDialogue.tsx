@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import { Link, useOutletContext } from 'react-router-dom'
 import type { AppContext } from '../App'
 import WordText from '../components/WordText'
@@ -17,6 +17,8 @@ interface SpeechRec {
   onerror: (() => void) | null
   onend: (() => void) | null
   start: () => void
+  stop?: () => void
+  abort?: () => void
 }
 
 const SCENES = [
@@ -44,7 +46,10 @@ export default function AiDialogue() {
   const [freeMode, setFreeMode] = useState(false)
   const [draft, setDraft] = useState('')
   const [listening, setListening] = useState(false)
+  const recRef = useRef<SpeechRec | null>(null)
   const aiReady = !!loadData().aiConfig.apiKey
+
+  useEffect(() => () => { recRef.current?.abort?.() ?? recRef.current?.stop?.() }, [])
 
   const scene = SCENES[sceneIdx]
 
@@ -134,6 +139,7 @@ export default function AiDialogue() {
       return
     }
     const rec = new SR()
+    recRef.current = rec
     rec.lang = 'en-US'
     rec.interimResults = false
     rec.onresult = (ev: { results: { 0: { 0: { transcript: string } } } }) => {

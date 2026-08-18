@@ -26,6 +26,10 @@ let g = fresh
 for (let i = 0; i < 4; i++) g = applySrs(g, 'good')
 assert.equal(g.box, 5, '连续 good 4 次 → 箱 5')
 assert.equal(g.status, 'mastered', '箱≥5 → mastered')
+const forgot = applySrs(g, 'again')
+assert.equal(forgot.box, 1, 'mastered 词 again → 箱降回 1')
+assert.equal(forgot.status, 'learning', 'again 后 status=learning')
+assert.equal(forgot.reps, 0, 'again 清零 reps')
 let e = fresh
 for (let i = 0; i < 4; i++) e = applySrs(e, 'easy')
 assert.equal(e.status, 'mastered', '连续 easy 4 次 → mastered')

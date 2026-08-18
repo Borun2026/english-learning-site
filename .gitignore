@@ -21,3 +21,11 @@ data/
 server/dist/*
 !server/dist/.gitkeep
 *.exe
+scripts/_*.log
+scripts/_*.bat
+scripts/_probe_*.py
+scripts/_fix_*
+scripts/_all_tts*
+scripts/_pregen_*.log
+scripts/_scan_speakable.py
+scripts/_torch_install.log

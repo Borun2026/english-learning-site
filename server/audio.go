@@ -38,6 +38,7 @@ func (s *server) handleAudioStream(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 	w.Header().Set("Content-Type", ctype)
+	w.Header().Set("Cache-Control", "public, max-age=86400")
 	http.ServeContent(w, r, filepath.Base(fp), st.ModTime(), f)
 }
 
@@ -66,7 +67,7 @@ func (s *server) handleAudioCheck(w http.ResponseWriter, r *http.Request) {
 		if workers < 1 {
 			workers = 1
 		}
-		jobs := make(chan int)
+		jobs := make(chan int, len(keys))
 		var wg sync.WaitGroup
 		for w := 0; w < workers; w++ {
 			wg.Add(1)

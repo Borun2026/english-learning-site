@@ -69,14 +69,21 @@ export async function chat(
 
   const controller = new AbortController()
   const timer = setTimeout(() => controller.abort(), 60_000)
-  let res: Response
   try {
-    res = await aiFetch(cfg, `${base}${isResponses ? '/responses' : '/chat/completions'}`, {
+    const res = await aiFetch(cfg, `${base}${isResponses ? '/responses' : '/chat/completions'}`, {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', Authorization: `Bearer ${cfg.apiKey}` },
       body: JSON.stringify(body),
       signal: controller.signal,
     })
+    if (!res.ok) {
+      const errBody = await res.text().catch(() => '')
+      throw new Error(`AI 请求失败 HTTP ${res.status}: ${errBody.slice(0, 300)}`)
+    }
+    const data = await res.json()
+    const content = isResponses ? extractResponsesText(data) : (data?.choices?.[0]?.message?.content ?? '')
+    if (!content) throw new Error('AI 返回为空')
+    return content
   } catch (e) {
     if (controller.signal.aborted) throw new Error('AI 请求超时(60 秒),请稍后重试')
     if (e instanceof TypeError && /fetch/i.test(e.message)) {
@@ -90,14 +97,6 @@ export async function chat(
   } finally {
     clearTimeout(timer)
   }
-  if (!res.ok) {
-    const errBody = await res.text().catch(() => '')
-    throw new Error(`AI 请求失败 HTTP ${res.status}: ${errBody.slice(0, 300)}`)
-  }
-  const data = await res.json()
-  const content = isResponses ? extractResponsesText(data) : (data?.choices?.[0]?.message?.content ?? '')
-  if (!content) throw new Error('AI 返回为空')
-  return content
 }
 
 /** 解析 OpenAI/Codex Responses API 返回:output[].content[].text(output_text/refusal),兼容 choices 回退 */
@@ -162,8 +161,7 @@ export async function chatJSON<T>(
       try {
         const text = await chat(cfg, [
           ...messages,
-          { role: 'assistant' as const, content: '(上一次输出)' },
-          { role: 'user' as const, content: `你上次的输出不是合法 JSON。请严格按要求的 JSON 格式重新输出:${(e as Error).message}` },
+          { role: 'user' as const, content: '上次不是合法 JSON，请只输出 JSON' },
         ], { temperature: 0.1 })
         return extractJson(text) as T
       } catch (e2) {

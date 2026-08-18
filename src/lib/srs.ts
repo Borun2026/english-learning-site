@@ -30,7 +30,7 @@ const clampEf = (x: number) => Math.min(2.5, Math.max(1.3, x))
 
 /**
  * 复习一次。约定:
- * - again:连续记录清零、间隔归 0(调用方把 next 设为当前时间 = 当日队尾)、EF -0.2
+ * - again:连续记录清零、间隔归 0(调用方把 next 设为当前时间 = 当日队尾)、EF -0.2、箱降回 1
  * - hard:间隔 ×1.2,EF -0.15;首次 1 天
  * - good:间隔 ×EF;首次 3 天;箱 +1
  * - easy:间隔 ×EF×1.3,EF +0.15;首次 5 天;箱 +1
@@ -44,6 +44,7 @@ export function applySrs(s: SrsInput, grade: SrsGrade): SrsOutput {
     reps = 0
     interval = 0
     ef = clampEf(ef - 0.2)
+    box = 1
   } else if (grade === 'hard') {
     reps += 1
     ef = clampEf(ef - 0.15)
