@@ -10,6 +10,7 @@ import (
 	"os/exec"
 	"runtime"
 	"strings"
+	"sync"
 	"time"
 )
 
@@ -17,7 +18,7 @@ var startedAt = time.Now()
 
 func main() {
 	host := flag.String("host", "0.0.0.0", "listen host")
-	port := flag.Int("port", 8787, "listen port")
+	port := flag.Int("port", 8787, "base listen port; auto-increments if occupied")
 	flag.Parse()
 
 	paths := resolvePaths()
@@ -40,20 +41,53 @@ func main() {
 	mux.HandleFunc("/piper", srv.handlePiper)
 	mux.Handle("/", spaHandler())
 
-	addr := fmt.Sprintf("%s:%d", *host, *port)
-	fmt.Printf("[english-app] listening on http://%s\n", addr)
-	printLANIPs(*port)
-	go openBrowser(fmt.Sprintf("http://127.0.0.1:%d", *port))
+	ln, actualPort, err := listenAuto(*host, *port, 100)
+	if err != nil {
+		fmt.Println("[english-app] fatal:", err)
+		os.Exit(1)
+	}
+	if actualPort != *port {
+		fmt.Printf("[port] %d occupied, using %d instead\n", *port, actualPort)
+	}
+	fmt.Printf("[english-app] listening on http://127.0.0.1:%d\n", actualPort)
+	printLANIPs(actualPort)
+	go openBrowser(fmt.Sprintf("http://127.0.0.1:%d", actualPort))
+	go srv.preloadAudioManifest()
 
-	if err := http.ListenAndServe(addr, withCORS(mux)); err != nil {
+	if err := http.Serve(ln, withCORS(mux)); err != nil {
 		fmt.Println("[english-app] serve error:", err)
 		os.Exit(1)
 	}
 }
 
+func listenAuto(host string, base, tries int) (net.Listener, int, error) {
+	if base < 1 || base > 65535 {
+		base = 8787
+	}
+	if host == "" {
+		host = "0.0.0.0"
+	}
+	for i := 0; i < tries; i++ {
+		p := base + i
+		if p > 65535 {
+			break
+		}
+		ln, err := net.Listen("tcp", fmt.Sprintf("%s:%d", host, p))
+		if err == nil {
+			return ln, p, nil
+		}
+		fmt.Printf("[port] %d unavailable, trying %d...\n", p, p+1)
+	}
+	return nil, 0, fmt.Errorf("no free port in %d-%d", base, base+tries-1)
+}
+
 type server struct {
 	paths appPaths
 	db    *appDB
+
+	audioMu      sync.RWMutex
+	audioIdx     map[string]string
+	audioIdxDone bool
 }
 
 func withCORS(next http.Handler) http.Handler {

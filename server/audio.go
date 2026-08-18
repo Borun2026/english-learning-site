@@ -2,10 +2,13 @@ package main
 
 import (
 	"database/sql"
+	"fmt"
 	"net/http"
 	"os"
 	"path/filepath"
+	"runtime"
 	"strings"
+	"sync"
 )
 
 func (s *server) handleAudioStream(w http.ResponseWriter, r *http.Request) {
@@ -51,10 +54,45 @@ func (s *server) handleAudioCheck(w http.ResponseWriter, r *http.Request) {
 			keys = append(keys, p)
 		}
 	}
+	found := make([]bool, len(keys))
+	if len(keys) > 4 {
+		workers := runtime.NumCPU()
+		if workers > 8 {
+			workers = 8
+		}
+		if workers > len(keys) {
+			workers = len(keys)
+		}
+		if workers < 1 {
+			workers = 1
+		}
+		jobs := make(chan int)
+		var wg sync.WaitGroup
+		for w := 0; w < workers; w++ {
+			wg.Add(1)
+			go func() {
+				defer wg.Done()
+				for i := range jobs {
+					_, _, ok := s.resolveAudioFile(keys[i])
+					found[i] = ok
+				}
+			}()
+		}
+		for i := range keys {
+			jobs <- i
+		}
+		close(jobs)
+		wg.Wait()
+	} else {
+		for i, k := range keys {
+			_, _, ok := s.resolveAudioFile(k)
+			found[i] = ok
+		}
+	}
 	hits := make([]string, 0)
 	missing := make([]string, 0)
-	for _, k := range keys {
-		if _, _, ok := s.resolveAudioFile(k); ok {
+	for i, k := range keys {
+		if found[i] {
 			hits = append(hits, k)
 		} else {
 			missing = append(missing, k)
@@ -77,8 +115,51 @@ func (s *server) resolveAudioFile(key string) (string, string, bool) {
 	return "", "", false
 }
 
+func (s *server) preloadAudioManifest() {
+	if !s.db.coreReady() {
+		return
+	}
+	rows, err := s.db.core.Query(`SELECT audio_key, file_path FROM audio_manifest`)
+	if err != nil {
+		fmt.Println("[audio] manifest preload failed:", err)
+		return
+	}
+	m := make(map[string]string, 1<<14)
+	for rows.Next() {
+		var k, p string
+		if err := rows.Scan(&k, &p); err != nil {
+			continue
+		}
+		if p = strings.TrimSpace(p); p != "" {
+			m[k] = p
+		}
+	}
+	_ = rows.Close()
+	s.audioMu.Lock()
+	s.audioIdx = m
+	s.audioIdxDone = true
+	s.audioMu.Unlock()
+	fmt.Printf("[audio] manifest cached: %d entries\n", len(m))
+}
+
+func (s *server) cachedManifestPath(key string) (string, bool, bool) {
+	s.audioMu.RLock()
+	defer s.audioMu.RUnlock()
+	if !s.audioIdxDone {
+		return "", false, false
+	}
+	p, ok := s.audioIdx[key]
+	return p, ok, true
+}
+
 func (s *server) lookupManifestPath(key string) (string, bool) {
 	if !s.db.coreReady() {
+		return "", false
+	}
+	if p, ok, done := s.cachedManifestPath(key); done {
+		if ok {
+			return p, true
+		}
 		return "", false
 	}
 	var path string
