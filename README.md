@@ -21,7 +21,7 @@ npm run dev
 build_app.bat
 ```
 
-得到上级目录的 `english-app.exe` + `data\*.db`,双击运行后访问 **http://127.0.0.1:8787**。音频仍读 `public/content/audio`(或同级 `audio_assets\`),不打进 exe。
+得到上级目录的 `english-app.exe` + `data\*.db`,双击运行后访问 **http://127.0.0.1:8787**(若端口被占用自动顺延 8788、8789…最多 100 个,以控制台显示为准,浏览器自动打开正确地址;可用 `-port 9000` 指定起始端口)。音频仍读 `public/content/audio`(或同级 `audio_assets\`),不打进 exe。
 
 > 🔊 **语音朗读(默认引擎)**:浏览器内 Piper 自然音,首次点击朗读会自动下载声音模型(约 60-70MB,HF 官方源失败自动切 hf-mirror 镜像)缓存到浏览器,之后**断网可用**;也可在「设置 → 语音朗读」提前下载/删除三个声音模型,或切换到本地 Piper 服务/系统语音(三档自动降级)。
 
