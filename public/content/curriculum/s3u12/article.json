@@ -1,0 +1,1406 @@
+{
+  "id": "a-s3u12",
+  "stage": 3,
+  "unitId": "s3u12",
+  "title": "Reading the Numbers",
+  "newWords": [
+    "contemplate",
+    "ascribe",
+    "verdict",
+    "mediate",
+    "slump",
+    "elapse",
+    "intermittent",
+    "unanimous",
+    "retrieve",
+    "supervise",
+    "appraisal"
+  ],
+  "sentences": [
+    {
+      "text": "A majority of the vote will go to the new policy.",
+      "translation": "多数票将投向新政策。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "A majority of the vote"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will go"
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "to the new policy"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "a majority of + 名词",
+          "note": "意为\"大多数……\",后面名词可数/不可数皆可。",
+          "example": "A majority of the income comes from online sales.",
+          "exampleCn": "大部分收入来自线上销售。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "A majority of the vote",
+          "name": "a majority of + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:大部分收入来自线上销售。",
+          "answer": "A majority of the income comes from online sales.",
+          "note": "意为\"大多数……\",后面名词可数/不可数皆可。",
+          "point": "a majority of + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Half of the revenue will come from a mobile platform.",
+      "translation": "一半的收入将来自移动平台。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "Half of the revenue"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will come"
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "from a mobile platform"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "half of + 名词",
+          "note": "意为\"……的一半\"。",
+          "example": "Half of the work is done.",
+          "exampleCn": "一半的工作已完成。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "from a mobile platform",
+          "name": "half of + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一半的工作已完成。",
+          "answer": "Half of the work is done.",
+          "note": "意为\"……的一半\"。",
+          "point": "half of + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Every other store will suffer a slump in trade.",
+      "translation": "每隔一家店铺都会遭受贸易下滑。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 every other)",
+          "color": "#a8dab5",
+          "text": "Every other store"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will suffer a slump",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will suffer"
+            },
+            {
+              "role": "宾语",
+              "text": "a slump"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "in trade"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "every other + 名词",
+          "note": "意为\"每隔一个……\"。",
+          "example": "Every other day, we review the data.",
+          "exampleCn": "每隔一天,我们就回顾数据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will suffer a slump",
+          "name": "every other + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:每隔一天,我们就回顾数据。",
+          "answer": "Every other day, we review the data.",
+          "note": "意为\"每隔一个……\"。",
+          "point": "every other + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Few of the data will support the old conclusion.",
+      "translation": "这些数据中很少有能支持旧结论的。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "Few of the data"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will support the old conclusion",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will support"
+            },
+            {
+              "role": "宾语",
+              "text": "the old conclusion"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "few of + 名词",
+          "note": "意为\"……中极少\"(含否定意味)。",
+          "example": "Few of the tests were accurate.",
+          "exampleCn": "这些测试中几乎没有准确的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will support the old conclusion",
+          "name": "few of + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这些测试中几乎没有准确的。",
+          "answer": "Few of the tests were accurate.",
+          "note": "意为\"……中极少\"(含否定意味)。",
+          "point": "few of + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Neither option is perfect, so we must test both.",
+      "translation": "两个选项都不完美,所以我们必须都测试。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 neither)",
+          "color": "#a8dab5",
+          "text": "Neither option"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is perfect",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "perfect"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主谓宾,不定代词 both)",
+          "color": "#a8dab5",
+          "text": "we must test both"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "neither 限定词",
+          "note": "neither + 单数名词,表\"两者都不\"。",
+          "example": "Neither answer is right.",
+          "exampleCn": "两个答案都不对。"
+        },
+        {
+          "name": "both 不定代词",
+          "note": "both 表\"两者都\"。",
+          "example": "Test both before you choose.",
+          "exampleCn": "选择之前两个都测试。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "we must test both",
+          "name": "neither 限定词"
+        },
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "we must test both",
+          "name": "both 不定代词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:两个答案都不对。",
+          "answer": "Neither answer is right.",
+          "note": "neither + 单数名词,表\"两者都不\"。",
+          "point": "neither 限定词"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:选择之前两个都测试。",
+          "answer": "Test both before you choose.",
+          "note": "both 表\"两者都\"。",
+          "point": "both 不定代词"
+        }
+      ]
+    },
+    {
+      "text": "Each report will receive a careful check.",
+      "translation": "每份报告都将接受仔细检查。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 each)",
+          "color": "#a8dab5",
+          "text": "Each report"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will receive a careful check",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will receive"
+            },
+            {
+              "role": "宾语",
+              "text": "a careful check"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "each + 单数名词",
+          "note": "意为\"每一个\"。",
+          "example": "Each student will get a copy.",
+          "exampleCn": "每个学生都会得到一份。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will receive a careful check",
+          "name": "each + 单数名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:每个学生都会得到一份。",
+          "answer": "Each student will get a copy.",
+          "note": "意为\"每一个\"。",
+          "point": "each + 单数名词"
+        }
+      ]
+    },
+    {
+      "text": "Either plan will work in theory, but only one will work in practice.",
+      "translation": "两个计划理论上都可行,但实践上只有一个行得通。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 either)",
+          "color": "#a8dab5",
+          "text": "Either plan"
+        },
+        {
+          "label": "主干(谓语+状语)",
+          "color": "#a8dab5",
+          "text": "will work in theory"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "only one will work in practice"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "either 限定词",
+          "note": "either + 单数名词,表\"两者之一\"。",
+          "example": "Either way will do.",
+          "exampleCn": "两种方式都行。"
+        },
+        {
+          "name": "in theory / in practice",
+          "note": "意为\"理论上/实践中\"。",
+          "example": "In theory it is simple.",
+          "exampleCn": "理论上很简单。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "only one will work in practice",
+          "name": "either 限定词"
+        },
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "only one will work in practice",
+          "name": "in theory / in practice"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:两种方式都行。",
+          "answer": "Either way will do.",
+          "note": "either + 单数名词,表\"两者之一\"。",
+          "point": "either 限定词"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:理论上很简单。",
+          "answer": "In theory it is simple.",
+          "note": "意为\"理论上/实践中\"。",
+          "point": "in theory / in practice"
+        }
+      ]
+    },
+    {
+      "text": "Much of the evidence will remain unknown until the end of the survey.",
+      "translation": "大部分证据在调查结束前仍将不为所知。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "Much of the evidence"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "will remain unknown",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "will remain"
+            },
+            {
+              "role": "表语",
+              "text": "unknown"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "until the end of the survey"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "much of + 不可数名词",
+          "note": "意为\"……的大部分\"。",
+          "example": "Much of the value remains hidden.",
+          "exampleCn": "大部分价值仍未显现。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "until the end of the survey",
+          "name": "much of + 不可数名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:大部分价值仍未显现。",
+          "answer": "Much of the value remains hidden.",
+          "note": "意为\"……的大部分\"。",
+          "point": "much of + 不可数名词"
+        }
+      ]
+    },
+    {
+      "text": "All the evidence will point to one clear conclusion.",
+      "translation": "所有证据都将指向一个清晰的结论。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 all)",
+          "color": "#a8dab5",
+          "text": "All the evidence"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will point"
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "to one clear conclusion"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "all + 名词",
+          "note": "意为\"所有的……\"。",
+          "example": "All the money is gone.",
+          "exampleCn": "所有的钱都没了。"
+        },
+        {
+          "name": "point to",
+          "note": "意为\"指向\"。",
+          "example": "The facts point to one answer.",
+          "exampleCn": "事实指向一个答案。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "to one clear conclusion",
+          "name": "all + 名词"
+        },
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "to one clear conclusion",
+          "name": "point to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:所有的钱都没了。",
+          "answer": "All the money is gone.",
+          "note": "意为\"所有的……\"。",
+          "point": "all + 名词"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:事实指向一个答案。",
+          "answer": "The facts point to one answer.",
+          "note": "意为\"指向\"。",
+          "point": "point to"
+        }
+      ]
+    },
+    {
+      "text": "A single rule will guide the next step.",
+      "translation": "一条简单的规则将指导下一步。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 a single)",
+          "color": "#a8dab5",
+          "text": "A single rule"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will guide the next step",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will guide"
+            },
+            {
+              "role": "宾语",
+              "text": "the next step"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "a single + 名词",
+          "note": "意为\"仅仅一个……\"。",
+          "example": "A single error can ruin the data.",
+          "exampleCn": "一个错误就能毁掉数据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will guide the next step",
+          "name": "a single + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一个错误就能毁掉数据。",
+          "answer": "A single error can ruin the data.",
+          "note": "意为\"仅仅一个……\"。",
+          "point": "a single + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Both method and theory matter in this field.",
+      "translation": "在这个领域,方法和理论都很重要。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 both...and)",
+          "color": "#a8dab5",
+          "text": "Both method and theory"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "matter"
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "in this field"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "both...and...",
+          "note": "意为\"……和……都\"。",
+          "example": "Both speed and quality matter.",
+          "exampleCn": "速度和质量都很重要。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "Both method and theory",
+          "name": "both...and..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:速度和质量都很重要。",
+          "answer": "Both speed and quality matter.",
+          "note": "意为\"……和……都\"。",
+          "point": "both...and..."
+        }
+      ]
+    },
+    {
+      "text": "A quarter of the vote will come from the young.",
+      "translation": "四分之一的选票将来自年轻人。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "A quarter of the vote"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will come"
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "from the young"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "a quarter of + 名词",
+          "note": "意为\"……的四分之一\"。",
+          "example": "A quarter of the budget is saved.",
+          "exampleCn": "四分之一的预算被省下了。"
+        },
+        {
+          "name": "the + 形容词表一类人",
+          "note": "the young 意为\"年轻人\"。",
+          "example": "The rich and the poor differ.",
+          "exampleCn": "富人与穷人不同。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "A quarter of the vote",
+          "name": "a quarter of + 名词"
+        },
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "A quarter of the vote",
+          "name": "the + 形容词表一类人"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:四分之一的预算被省下了。",
+          "answer": "A quarter of the budget is saved.",
+          "note": "意为\"……的四分之一\"。",
+          "point": "a quarter of + 名词"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:富人与穷人不同。",
+          "answer": "The rich and the poor differ.",
+          "note": "the young 意为\"年轻人\"。",
+          "point": "the + 形容词表一类人"
+        }
+      ]
+    },
+    {
+      "text": "Every part of the test will receive a careful check.",
+      "translation": "测试的每一部分都将接受仔细检查。",
+      "chunks": [
+        {
+          "label": "主干(主语,限定词 every)",
+          "color": "#a8dab5",
+          "text": "Every part of the test"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will receive a careful check",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will receive"
+            },
+            {
+              "role": "宾语",
+              "text": "a careful check"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "every + 单数名词",
+          "note": "意为\"每一个\"。",
+          "example": "Every part of the plan is clear.",
+          "exampleCn": "计划的每个部分都很清晰。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will receive a careful check",
+          "name": "every + 单数名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:计划的每个部分都很清晰。",
+          "answer": "Every part of the plan is clear.",
+          "note": "意为\"每一个\"。",
+          "point": "every + 单数名词"
+        }
+      ]
+    },
+    {
+      "text": "A handful will question the verdict, and a few will agree.",
+      "translation": "少数人会质疑这个裁决,也有少数人会同意。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "A handful"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will question the verdict",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will question"
+            },
+            {
+              "role": "宾语",
+              "text": "the verdict"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "a few will agree"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "a handful",
+          "note": "意为\"少数、一小部分\"。",
+          "example": "A handful of us stayed.",
+          "exampleCn": "我们中少数人留下了。"
+        },
+        {
+          "name": "a few",
+          "note": "意为\"少数几个\"(肯定意味)。",
+          "example": "A few will disagree.",
+          "exampleCn": "会有少数人不同意。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will question the verdict",
+          "name": "a handful"
+        },
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will question the verdict",
+          "name": "a few"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们中少数人留下了。",
+          "answer": "A handful of us stayed.",
+          "note": "意为\"少数、一小部分\"。",
+          "point": "a handful"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:会有少数人不同意。",
+          "answer": "A few will disagree.",
+          "note": "意为\"少数几个\"(肯定意味)。",
+          "point": "a few"
+        }
+      ]
+    },
+    {
+      "text": "None of the money is lost.",
+      "translation": "这笔钱一分也没有丢。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "None of the money"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is lost",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "lost"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "none of + 名词",
+          "note": "意为\"……中没有一个\"。",
+          "example": "None of the plan is wasted.",
+          "exampleCn": "这个计划一点也没浪费。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "None of the money",
+          "name": "none of + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这个计划一点也没浪费。",
+          "answer": "None of the plan is wasted.",
+          "note": "意为\"……中没有一个\"。",
+          "point": "none of + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Several of the team will supervise the next step.",
+      "translation": "团队中有几个人将监督下一步。",
+      "chunks": [
+        {
+          "label": "主干(主语,数量词短语)",
+          "color": "#a8dab5",
+          "text": "Several of the team"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will supervise the next step",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will supervise"
+            },
+            {
+              "role": "宾语",
+              "text": "the next step"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "several of + 名词",
+          "note": "意为\"……中的几个\"。",
+          "example": "Several of the ideas are new.",
+          "exampleCn": "这些想法中有几个是新的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "will supervise the next step",
+          "name": "several of + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这些想法中有几个是新的。",
+          "answer": "Several of the ideas are new.",
+          "note": "意为\"……中的几个\"。",
+          "point": "several of + 名词"
+        }
+      ]
+    },
+    {
+      "text": "Once we retrieve the missing record, the picture will become clear.",
+      "translation": "一旦我们找回缺失的记录,情况就会变得清晰。",
+      "chunks": [
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "Once we retrieve the missing record"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the picture will become clear",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the picture"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will become"
+            },
+            {
+              "role": "表语",
+              "text": "clear"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "once 引导条件状语从句",
+          "note": "once 意为\"一旦\"。",
+          "example": "Once you start, it is easy.",
+          "exampleCn": "一旦开始,就容易了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "Once we retrieve the missing record",
+          "name": "once 引导条件状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一旦开始,就容易了。",
+          "answer": "Once you start, it is easy.",
+          "note": "once 意为\"一旦\"。",
+          "point": "once 引导条件状语从句"
+        }
+      ]
+    },
+    {
+      "text": "The appraisal will cover every part of the annual report.",
+      "translation": "评估将涵盖年度报告的每一部分。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The appraisal will cover every part of the annual report",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The appraisal"
+            },
+            {
+              "role": "谓语",
+              "text": "will cover"
+            },
+            {
+              "role": "宾语",
+              "text": "every part of the annual report"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "appraisal 意为\"评估\"。",
+          "example": "The report covers all the data.",
+          "exampleCn": "报告涵盖了所有数据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "The appraisal will cover every part of the annual report",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:报告涵盖了所有数据。",
+          "answer": "The report covers all the data.",
+          "note": "appraisal 意为\"评估\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "Do not ascribe the slump to luck; check the real cause.",
+      "translation": "不要把下滑归因于运气;去查查真正的原因。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Do not ascribe the slump to luck"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "check the real cause"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "ascribe A to B",
+          "note": "意为\"把A归因于B\"。",
+          "example": "Do not ascribe the failure to fate.",
+          "exampleCn": "不要把失败归因于命运。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "Do not ascribe the slump to luck",
+          "name": "ascribe A to B"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要把失败归因于命运。",
+          "answer": "Do not ascribe the failure to fate.",
+          "note": "意为\"把A归因于B\"。",
+          "point": "ascribe A to B"
+        }
+      ]
+    },
+    {
+      "text": "An intermittent signal will frustrate the whole system.",
+      "translation": "断断续续的信号会干扰整个系统。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An intermittent signal will frustrate the whole system",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An intermittent signal"
+            },
+            {
+              "role": "谓语",
+              "text": "will frustrate"
+            },
+            {
+              "role": "宾语",
+              "text": "the whole system"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "intermittent 意为\"间歇的\"。",
+          "example": "A weak signal frustrates the user.",
+          "exampleCn": "微弱的信号让用户烦恼。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "An intermittent signal will frustrate the whole system",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:微弱的信号让用户烦恼。",
+          "answer": "A weak signal frustrates the user.",
+          "note": "intermittent 意为\"间歇的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "We will contemplate the data before we make a choice.",
+      "translation": "我们会在做选择之前仔细思考这些数据。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will contemplate the data",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will contemplate"
+            },
+            {
+              "role": "宾语",
+              "text": "the data"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "before we make a choice"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "before 时间状语从句",
+          "note": "before + 从句表时间。",
+          "example": "Think twice before you answer.",
+          "exampleCn": "回答之前三思。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "We will contemplate the data",
+          "name": "before 时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:回答之前三思。",
+          "answer": "Think twice before you answer.",
+          "note": "before + 从句表时间。",
+          "point": "before 时间状语从句"
+        }
+      ]
+    },
+    {
+      "text": "The committee will mediate the dispute with patience.",
+      "translation": "委员会将耐心调解这场争端。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The committee will mediate the dispute",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The committee"
+            },
+            {
+              "role": "谓语",
+              "text": "will mediate"
+            },
+            {
+              "role": "宾语",
+              "text": "the dispute"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with patience"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "with + 抽象名词表方式",
+          "note": "with patience 意为\"耐心地\"。",
+          "example": "She spoke with care.",
+          "exampleCn": "她说话很谨慎。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "The committee will mediate the dispute",
+          "name": "with + 抽象名词表方式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她说话很谨慎。",
+          "answer": "She spoke with care.",
+          "note": "with patience 意为\"耐心地\"。",
+          "point": "with + 抽象名词表方式"
+        }
+      ]
+    },
+    {
+      "text": "Time will elapse fast when the work is interesting.",
+      "translation": "工作有趣时,时间过得很快。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "Time will elapse fast",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Time"
+            },
+            {
+              "role": "谓语",
+              "text": "will elapse"
+            },
+            {
+              "role": "状语",
+              "text": "fast"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "when the work is interesting"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "when 时间状语从句",
+          "note": "when + 从句表时间。",
+          "example": "When the sun sets, we rest.",
+          "exampleCn": "太阳落山时,我们休息。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "when the work is interesting",
+          "name": "when 时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:太阳落山时,我们休息。",
+          "answer": "When the sun sets, we rest.",
+          "note": "when + 从句表时间。",
+          "point": "when 时间状语从句"
+        }
+      ]
+    },
+    {
+      "text": "The final verdict will come from the top expert.",
+      "translation": "最终裁决将来自顶级专家。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The final verdict will come",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The final verdict"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "from the top expert"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "come from 短语",
+          "note": "意为\"来自\"。",
+          "example": "The answer comes from experience.",
+          "exampleCn": "答案来自经验。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "The final verdict will come",
+          "name": "come from 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:答案来自经验。",
+          "answer": "The answer comes from experience.",
+          "note": "意为\"来自\"。",
+          "point": "come from 短语"
+        }
+      ]
+    },
+    {
+      "text": "A unanimous vote will end the long debate.",
+      "translation": "一致的表决将结束这场漫长的辩论。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A unanimous vote will end the long debate",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A unanimous vote"
+            },
+            {
+              "role": "谓语",
+              "text": "will end"
+            },
+            {
+              "role": "宾语",
+              "text": "the long debate"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "unanimous 意为\"意见一致的\"。",
+          "example": "A clear vote ends the dispute.",
+          "exampleCn": "明确的表决结束争端。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u12",
+          "phrase": "A unanimous vote will end the long debate",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:明确的表决结束争端。",
+          "answer": "A clear vote ends the dispute.",
+          "note": "unanimous 意为\"意见一致的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u12",
+      "name": "a majority of + 名词",
+      "note": "意为\"大多数……\",后面名词可数/不可数皆可。",
+      "sourceExample": "A majority of the vote will go to the new policy.",
+      "sourceExampleCn": "多数票将投向新政策。"
+    },
+    {
+      "grammarId": "g-s3u12",
+      "name": "half of + 名词",
+      "note": "意为\"……的一半\"。",
+      "sourceExample": "Half of the revenue will come from a mobile platform.",
+      "sourceExampleCn": "一半的收入将来自移动平台。"
+    },
+    {
+      "grammarId": "g-s3u12",
+      "name": "every other + 名词",
+      "note": "意为\"每隔一个……\"。",
+      "sourceExample": "Every other store will suffer a slump in trade.",
+      "sourceExampleCn": "每隔一家店铺都会遭受贸易下滑。"
+    },
+    {
+      "grammarId": "g-s3u12",
+      "name": "few of + 名词",
+      "note": "意为\"……中极少\"(含否定意味)。",
+      "sourceExample": "Few of the data will support the old conclusion.",
+      "sourceExampleCn": "这些数据中很少有能支持旧结论的。"
+    },
+    {
+      "grammarId": "g-s3u12",
+      "name": "neither 限定词",
+      "note": "neither + 单数名词,表\"两者都不\"。",
+      "sourceExample": "Neither option is perfect, so we must test both.",
+      "sourceExampleCn": "两个选项都不完美,所以我们必须都测试。"
+    }
+  ]
+}

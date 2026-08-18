@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u6",
+  "stage": 5,
+  "unitId": "s5u6",
+  "title": "真题演练 · 口语流利表达",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 口语流利表达。",
+  "questions": [
+    {
+      "q": "PPP 法指的是?",
+      "options": [
+        "Point, Reason, Example",
+        "Pause, Plan, Play",
+        "Practice, Print, Pause",
+        "Point, Plan, Pray"
+      ],
+      "answer": 0,
+      "analysis": "观点 + 原因 + 例子是口语展开的标准方法。",
+      "point": "g-s5u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "遇到没想过的问题,自然的应对是?",
+      "options": [
+        "沉默",
+        "That's a good question. Let me think...",
+        "直接说不会",
+        "岔开话题"
+      ],
+      "answer": 1,
+      "analysis": "用填充语争取时间,保持语流不断。",
+      "point": "g-s5u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "下列哪个是话题开场表达?",
+      "options": [
+        "Well, to be honest",
+        "Goodbye",
+        "See you",
+        "No way"
+      ],
+      "answer": 0,
+      "analysis": "Well, to be honest 是自然的口语开场。",
+      "point": "g-s5u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "口语回答中\"最重要的是\"怎么说?",
+      "options": [
+        "Most importantly",
+        "The least",
+        "Nothing",
+        "Probably"
+      ],
+      "answer": 0,
+      "analysis": "Most importantly 强调重点信息。",
+      "point": "g-s5u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "提升流利度的最佳练习方式是?",
+      "options": [
+        "背整段答案",
+        "PPP 框架 + 自我录音回听",
+        "只读不练",
+        "追求语速"
+      ],
+      "answer": 1,
+      "analysis": "框架练习加回听纠错,比死背更有效。",
+      "point": "g-s5u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:直接回答 Yes 或 No 就结束。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Yes/No 后继续展开观点、原因与例子。。口语题要求展开,2-3 句话起步。",
+      "point": "g-s5u6",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

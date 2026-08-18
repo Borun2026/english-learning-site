@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u8",
+  "stage": 4,
+  "unitId": "s4u8",
+  "scene": "写作批改讨论",
+  "goal": "与批改老师确认修改意见",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "批改老师 Teacher Li",
+      "line": "I have finished marking your essay, and the overall argument is clear, but there are three categories of comments you should pay attention to before the final submission.",
+      "lineCn": "你的作文我批改完了,整体论证清晰,但有三类批注需要你在最终提交前注意。",
+      "grammar": [
+        { "name": "并列句 + 定语从句省略", "note": "三个分句并列,comments you should pay attention to 中 that 被省略,pay attention to 的 to 不能丢,是常见的定语从句陷阱。" }
+      ],
+      "options": [
+        { "text": "Thank you for marking it so promptly. Could you walk me through the three categories one by one, starting with the most serious one?", "textCn": "谢谢您批改得这么快。您能依次讲解这三类批注吗?先从最严重的那类开始。", "feedback": "请求分类讲解并主动关注优先级,沟通高效而礼貌。", "next": "n2" },
+        { "text": "But my classmates all got an A on their essays, so why is mine full of comments?", "textCn": "可是同学们都拿了 A,为什么我的作文全是批注?", "feedback": "先比较分数而非理解批注,把学习机会变成了抱怨。", "next": "n3" },
+        { "text": "Please just tell me what to change and I will do it without reading anything else.", "textCn": "您直接告诉我改哪里就行,别的我不看。", "feedback": "只想机械照做而不理解批注逻辑,同样的问题下次还会犯。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "批改老师 Teacher Li",
+      "line": "Certainly. The first and most serious category concerns paragraph-level logic, where several paragraphs present evidence without explicitly linking it back to your thesis statement.",
+      "lineCn": "当然。第一类也是最严重的一类涉及段落逻辑:有几段呈现了论据,却没有明确地把论据与你的论点句建立联系。",
+      "grammar": [
+        { "name": "where 定语从句 + 动名词复合结构", "note": "paragraphs present evidence without linking it back 中 without 后接动名词复合结构,where 引导定语从句修饰场景。" }
+      ],
+      "options": [
+        { "text": "I see, so the problem is not the evidence itself but the missing connection. Would it help if I added a concluding sentence to each paragraph that restates how the evidence supports my thesis?", "textCn": "我明白了,问题不在论据本身而在缺少联系。如果我在每段末尾加一句总结,重申论据如何支撑论点,这样会有效吗?", "feedback": "准确复述问题并提出针对性方案请老师确认,证明你真的读懂了批注。", "next": "n4" },
+        { "text": "But my evidence is all correct, and the teacher in high school always praised my paragraphs.", "textCn": "但我的论据都是对的,高中老师一直夸我段落写得好。", "feedback": "用过去的表扬辩护当前的问题,听不进新阶段的更高标准。", "next": "n3" },
+        { "text": "Could I just delete those paragraphs? Then there would be no problem with logic at all.", "textCn": "我能把那些段落删掉吗?这样逻辑问题就都不存在了。", "feedback": "删段会破坏论证完整性,是避重就轻的破坏性修改。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "批改老师 Teacher Li",
+      "line": "Let me explain the purpose of marking: the comments are meant to teach you how to revise independently, not to compare you with your classmates, and skipping them will only hurt your own progress.",
+      "lineCn": "我来解释批改的意义:批注是为了教你如何独立修改,而不是把你和同学比较,跳过它们只会损害你自己的进步。",
+      "grammar": [
+        { "name": "not...but 结构转化 + 动名词主语", "note": "meant to teach you, not to compare 用 not 连接不定式对比,skipping them 是动名词短语作主语,语气恳切而有分寸。" }
+      ],
+      "options": [
+        { "text": "I understand now, and I apologize for the earlier attitude. Please continue with the other two categories, so that I can revise the whole essay systematically.", "textCn": "我现在明白了,为刚才的态度道歉。请继续讲另外两类批注,这样我就能系统地修改整篇作文。", "feedback": "态度端正后主动要求完整信息,修改才能系统展开。", "next": "n4" },
+        { "text": "If the comments are so important, then maybe you should have graded my essay higher to motivate me.", "textCn": "如果批注这么重要,那您当初应该把分打高一点来激励我。", "feedback": "把评分的动机推到老师身上,继续回避自己的问题。", "next": "fail1" },
+        { "text": "Then I will ask another teacher to mark it instead, and see if they agree with you.", "textCn": "那我找别的老师批改,看看人家同不同意你。", "feedback": "用换老师来否定批注,是典型的逃避学习行为。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "批改老师 Teacher Li",
+      "line": "The second category is about sentence variety, since most of your sentences follow the same subject-verb-object pattern, which makes the writing monotonous; the third is about word choice, where several expressions are simply translated from Chinese.",
+      "lineCn": "第二类关乎句式变化:你的句子大多是同一主谓宾模式,读起来单调;第三类是用词,有几处表达是直接从中文直译过来的。",
+      "grammar": [
+        { "name": "since 原因从句 + which 非限定性从句 + where 定语从句", "note": "since 引导原因,which 指代前面整句,where 修饰 word choice,分号连接两大类别,是典型的多从句学术长句。" }
+      ],
+      "options": [
+        { "text": "Understood. My revision plan is as follows: I will vary the sentence openings with adverbial clauses, replace the translated expressions with the corpus-based alternatives you underlined, and submit the revised version this Friday for your further check. Does that cover everything you marked?", "textCn": "明白。我的修改计划如下:用状语从句变换句首,把直译表达换成您标注过的基于语料库的替换,周五提交修订版请您再审。这样是否覆盖了您全部批注?", "feedback": "针对三类批注逐项给出对策并确认时限与覆盖范围,展现出成熟的修改能力。", "next": "success" },
+        { "text": "This is too complicated, so I will just rewrite the whole essay in a simpler way, hoping the new version has fewer problems.", "textCn": "这太复杂了,我干脆用更简单的办法重写全文,希望新版本问题少点。", "feedback": "推倒重写而非针对性修改,把批注的智慧全部浪费了。", "next": "fail2" },
+        { "text": "May I submit the revised version without addressing the word-choice category, since my vocabulary is limited and I cannot find better words?", "textCn": "用词那一类我能不改吗?我词汇量有限,找不到更好的词。", "feedback": "主动放弃一个修改类别,说明还没有真正理解批注的优先级。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "批改老师 Teacher Li",
+      "line": "That plan covers everything I marked, and I am pleased to see that you have understood the comments thoroughly. I will be waiting for your revised version this Friday.",
+      "lineCn": "这个计划覆盖了我全部的批注,我很高兴看到你透彻理解了这些意见。周五等你的修订版。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "批改老师 Teacher Li",
+      "line": "I am afraid that approach will not work, since all three categories are weighted equally in the final grade. Please reconsider and revise them all.",
+      "lineCn": "恐怕这样行不通,三类批注在最终评分中权重相同。请重新考虑,全部修改。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "批改老师 Teacher Li",
+      "line": "Rewriting everything will very likely introduce new errors, and we would lose the progress you have already made. Please follow the comments instead, and come back to me if anything is unclear.",
+      "lineCn": "全部重写很可能引入新错误,还会丢掉你已有的进步。请按批注修改,有任何不清楚的地方随时来找我。",
+      "end": true,
+      "success": false
+    }
+  }
+}

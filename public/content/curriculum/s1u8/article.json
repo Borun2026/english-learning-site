@@ -1,0 +1,569 @@
+{
+  "id": "a-s1u8",
+  "stage": 1,
+  "unitId": "s1u8",
+  "title": "Help and Advice",
+  "newWords": [
+    "cannot",
+    "schoolbag",
+    "need",
+    "desk",
+    "classroom",
+    "library",
+    "phone",
+    "call",
+    "mother",
+    "may",
+    "should",
+    "ask",
+    "teacher",
+    "late",
+    "run",
+    "hallway",
+    "stairs",
+    "best",
+    "again"
+  ],
+  "sentences": [
+    {
+      "text": "Hello, can you help me, please?",
+      "translation": "你好,请问你能帮我一下吗?",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Hello,"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "can you help me",
+          "parts": [
+            {
+              "role": "情态动词",
+              "text": "can"
+            },
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "help"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": ", please?"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "情态动词 can 表请求",
+          "note": "Can you...? 用来礼貌地请求帮助,can 后接动词原形。",
+          "example": "Can you open the door?",
+          "exampleCn": "你能打开门吗?"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "can you help me",
+          "name": "情态动词 can 表请求"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:你能打开门吗?",
+          "answer": "Can you open the door?",
+          "note": "Can you...? 用来礼貌地请求帮助,can 后接动词原形。",
+          "point": "情态动词 can 表请求"
+        }
+      ]
+    },
+    {
+      "text": "I cannot find my schoolbag, and I need your help now.",
+      "translation": "我找不到我的书包了,现在需要你的帮助。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I cannot find my schoolbag",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "cannot find"
+            },
+            {
+              "role": "宾语",
+              "text": "my schoolbag"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I need your help now",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "need"
+            },
+            {
+              "role": "宾语",
+              "text": "your help"
+            },
+            {
+              "role": "时间状语",
+              "text": "now"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "cannot 表不能",
+          "note": "cannot (can't) 表示\"不能、做不到\",后接动词原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "I cannot find my schoolbag",
+          "name": "cannot 表不能"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I cannot find my schoolbag, and I need your help now.",
+          "answer": "I cannot find my schoolbag, and I need your help now.",
+          "note": "cannot (can't) 表示\"不能、做不到\",后接动词原形。",
+          "point": "cannot 表不能"
+        }
+      ]
+    },
+    {
+      "text": "You can look under the desk, in the classroom or in the library.",
+      "translation": "你可以看看书桌下面、教室里或者图书馆里。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "You can look under the desk, in the classroom or in the library",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "You"
+            },
+            {
+              "role": "情态动词",
+              "text": "can"
+            },
+            {
+              "role": "谓语",
+              "text": "look"
+            },
+            {
+              "role": "地点状语",
+              "text": "under the desk"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the classroom"
+            },
+            {
+              "role": "连词",
+              "text": "or"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the library"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "can 表建议",
+          "note": "You can look... 用 can 给对方建议,情态动词后动词用原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "You can look under the desk, in the classroom or in the library",
+          "name": "can 表建议"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You can look under the desk, in the classroom or in the library.",
+          "answer": "You can look under the desk, in the classroom or in the library.",
+          "note": "You can look... 用 can 给对方建议,情态动词后动词用原形。",
+          "point": "can 表建议"
+        }
+      ]
+    },
+    {
+      "text": "May I use your phone to call my mother, please?",
+      "translation": "请问我可以用你的电话给我妈妈打个电话吗?",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "May I use your phone to call my mother",
+          "parts": [
+            {
+              "role": "情态动词",
+              "text": "May"
+            },
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "use"
+            },
+            {
+              "role": "宾语",
+              "text": "your phone"
+            },
+            {
+              "role": "目的状语",
+              "text": "to call my mother"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": ", please?"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "May I...? 礼貌请求",
+          "note": "May I...? 是非常礼貌的请求许可,回答可以说 Yes, you may.",
+          "example": "May I come in?",
+          "exampleCn": "我可以进来吗?"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "May I use your phone to call my mother",
+          "name": "May I...? 礼貌请求"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我可以进来吗?",
+          "answer": "May I come in?",
+          "note": "May I...? 是非常礼貌的请求许可,回答可以说 Yes, you may.",
+          "point": "May I...? 礼貌请求"
+        }
+      ]
+    },
+    {
+      "text": "Yes, you may, and you should ask the teacher for help after class.",
+      "translation": "可以,而且你应该下课后请老师帮忙。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Yes,"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "you may",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "情态动词",
+              "text": "may"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "you should ask the teacher for help after class",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "情态动词",
+              "text": "should"
+            },
+            {
+              "role": "谓语",
+              "text": "ask"
+            },
+            {
+              "role": "宾语",
+              "text": "the teacher"
+            },
+            {
+              "role": "目的状语",
+              "text": "for help"
+            },
+            {
+              "role": "时间状语",
+              "text": "after class"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "should 表建议",
+          "note": "should 表示\"应该\",给别人建议时常用,后接动词原形。",
+          "example": "You should drink more water.",
+          "exampleCn": "你应该多喝水。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "you should ask the teacher for help after class",
+          "name": "should 表建议"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:你应该多喝水。",
+          "answer": "You should drink more water.",
+          "note": "should 表示\"应该\",给别人建议时常用,后接动词原形。",
+          "point": "should 表建议"
+        }
+      ]
+    },
+    {
+      "text": "You must not be late for class, and you must not run in the hallway or the stairs.",
+      "translation": "你上课不能迟到,也不可以在走廊或楼梯上跑。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "You must not be late for class",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "You"
+            },
+            {
+              "role": "谓语",
+              "text": "must not be"
+            },
+            {
+              "role": "表语",
+              "text": "late"
+            },
+            {
+              "role": "对象状语",
+              "text": "for class"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "you must not run in the hallway or the stairs",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "must not run"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the hallway or the stairs"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "must not 表禁止",
+          "note": "must not 表示\"禁止、不许\",语气比 should not 更强烈。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "you must not run in the hallway or the stairs",
+          "name": "must not 表禁止"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You must not be late for class, and you must not run in the hallway or the stairs.",
+          "answer": "You must not be late for class, and you must not run in the hallway or the stairs.",
+          "note": "must not 表示\"禁止、不许\",语气比 should not 更强烈。",
+          "point": "must not 表禁止"
+        }
+      ]
+    },
+    {
+      "text": "I will try my best, and I will say thank you to you again.",
+      "translation": "我会尽力的,我会再一次向你说谢谢。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will try my best",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will try"
+            },
+            {
+              "role": "宾语",
+              "text": "my best"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will say thank you to you again",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will say"
+            },
+            {
+              "role": "宾语",
+              "text": "thank you"
+            },
+            {
+              "role": "对象状语",
+              "text": "to you"
+            },
+            {
+              "role": "时间状语",
+              "text": "again"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will 表意愿",
+          "note": "will try 表示\"会努力\",will 后接动词原形,表达决心和承诺。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u8",
+          "phrase": "I will say thank you to you again",
+          "name": "will 表意愿"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will try my best, and I will say thank you to you again.",
+          "answer": "I will try my best, and I will say thank you to you again.",
+          "note": "will try 表示\"会努力\",will 后接动词原形,表达决心和承诺。",
+          "point": "will 表意愿"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u8",
+      "name": "情态动词 can 表请求",
+      "note": "Can you...? 用来礼貌地请求帮助,can 后接动词原形。",
+      "sourceExample": "Hello, can you help me, please?",
+      "sourceExampleCn": "你好,请问你能帮我一下吗?"
+    },
+    {
+      "grammarId": "g-s1u8",
+      "name": "cannot 表不能",
+      "note": "cannot (can't) 表示\"不能、做不到\",后接动词原形。",
+      "sourceExample": "I cannot find my schoolbag, and I need your help now.",
+      "sourceExampleCn": "我找不到我的书包了,现在需要你的帮助。"
+    },
+    {
+      "grammarId": "g-s1u8",
+      "name": "can 表建议",
+      "note": "You can look... 用 can 给对方建议,情态动词后动词用原形。",
+      "sourceExample": "You can look under the desk, in the classroom or in the library.",
+      "sourceExampleCn": "你可以看看书桌下面、教室里或者图书馆里。"
+    },
+    {
+      "grammarId": "g-s1u8",
+      "name": "May I...? 礼貌请求",
+      "note": "May I...? 是非常礼貌的请求许可,回答可以说 Yes, you may.",
+      "sourceExample": "May I use your phone to call my mother, please?",
+      "sourceExampleCn": "请问我可以用你的电话给我妈妈打个电话吗?"
+    },
+    {
+      "grammarId": "g-s1u8",
+      "name": "should 表建议",
+      "note": "should 表示\"应该\",给别人建议时常用,后接动词原形。",
+      "sourceExample": "Yes, you may, and you should ask the teacher for help after class.",
+      "sourceExampleCn": "可以,而且你应该下课后请老师帮忙。"
+    }
+  ]
+}

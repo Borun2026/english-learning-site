@@ -1,0 +1,60 @@
+{
+ "id": "cet6-026",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第1套) Passage 2",
+ "title": "The public must be able to understand the basics of science to make informed ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 423,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The public must be able to understand the basics of science to make informed decisions. Perhaps the most dramatic example of the negative consequences of poor communication between scientists and the public is the issue of climate change, where a variety of factors, not the least of which is a breakdown in the transmission of fundamental climate data to the general public, has contributed to widespread mistrust and misunderstanding of scientists and their research.",
+  "The issue of climate change also illustrates how the public acceptance and understanding of science (or the lack of it) can influence governmental decision-making with regard to regulation, science policy and research funding.",
+  "However, the importance of effective communication with a general audience is not limited to hot issues like climate change. It is also critical for socially charged neuroscience issues such as the genetic basis for a particular behavior, the therapeutic potential of stem cell therapy for neurodegenerative diseases, or the use of animal models, areas where the public understanding of science can also influence policy and funding decisions. Furthermore, with continuing advances in individual genome sequencing and the advent of personalized medicine, more non-scientists will need to be comfortable analyzing complex scientific information to make decisions that directly affect their quality of life.",
+  "Science journalism is the main channel for the popularization of scientific information among the public. Much has been written about how the relationship between scientists and the media can shape the efficient transmission of scientific advances to the public. Good science journalists are specialists in making complex topics accessible to a general audience, while adhering to scientific accuracy.",
+  "Unfortunately, pieces of science journalism can also oversimplify and generalize their subject material to the point that the basic information conveyed is obscured or at worst, obviously wrong. The impact of a basic discovery on human health can be exaggerated so that the public thinks a miraculous cure is a few months to years away when in reality the significance of the study is far more limited.",
+  "Even though scientists play a part in transmitting information to journalists and ultimately the public, too often the blame for ineffective communication is placed on the side of the journalists. We believe that at least part of the problem lies in places other than the interaction between scientists and members of the media, and exists because for one thing we underestimate how difficult it is for scientists to communicate effectively with a diversity of audiences, and for another most scientists do not receive formal training in science communication."
+ ],
+ "questions": [
+  {
+   "q": "文中 “accuracy” 最接近的意思是?",
+   "options": [
+    "管理",
+    "重要,重要性",
+    "治疗",
+    "准确， 精确"
+   ],
+   "answer": 3,
+   "analysis": "“accuracy” 意为「准确， 精确」。原文语境:Good science journalists are specialists in making complex topics accessible to a general audience, while adhering to scientific accuracy.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:However, the ___ of effective communication with a general audience is not limited to hot issues like climate change.",
+   "options": [
+    "importance",
+    "quality",
+    "medicine",
+    "basis"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“However, the importance of effective communication with a general audience is not limited to hot issues like climate change.”。空格处应填入 “importance”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Technology is never a neutral tool for achieving human ends",
+    "Children with attention problems in early childhood were 40% less likely to g",
+    "The public must be able to understand the basics of science to make informed",
+    "In recent years, the food industry has increased its use of labels"
+   ],
+   "answer": 2,
+   "analysis": "本文以“The public must be able to understand the basics of science to make informed decisions.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

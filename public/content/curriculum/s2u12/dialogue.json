@@ -1,0 +1,47 @@
+{
+  "id": "d-s2u12",
+  "stage": 2,
+  "unitId": "s2u12",
+  "scene": "问路指路",
+  "goal": "成功问到路并确认路线",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "路人 Stranger", "line": "Hi there! You look a little lost. Can I help you with something?", "lineCn": "您好!您看起来有点迷路了。有什么可以帮忙的吗?", "grammar": [ { "name": "方位介词", "note": "本课重点:along, across, past, at, near 等介词描述方位和路线。" } ],
+      "options": [
+        { "text": "Yes, please! I am looking for the City Library. Is it far from here?", "textCn": "太好了!我在找市图书馆。它离这儿远吗?", "feedback": "礼貌求助,还问了距离,信息明确。", "next": "n2" },
+        { "text": "Library.", "textCn": "图书馆。", "feedback": "只有一个词,对方不明白你想问什么。", "next": "n3" },
+        { "text": "I am fine.", "textCn": "我没事。", "feedback": "明明迷路了却说没事,错过帮助机会。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "路人 Stranger", "line": "It is not far. Go straight along this road, and turn left at the second crossing. You will see it on your right.", "lineCn": "不远。沿着这条路直走,在第二个十字路口左转,图书馆就在你的右手边。", "grammar": [ { "name": "along / at / on 的用法", "note": "along 表\"沿着\",at the crossing 表\"在路口\",on your right 表\"在你的右边\"。" } ],
+      "options": [
+        { "text": "Got it. So I go straight along this road, turn left at the second crossing, and the library is on my right. Is that right?", "textCn": "明白了。我沿着这条路直走,在第二个路口左转,图书馆在我右手边,对吗?", "feedback": "完整复述路线并确认,方向感满分。", "next": "n4" },
+        { "text": "Okay, bye.", "textCn": "好的,再见。", "feedback": "没听清细节就离开,大概率会走错。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "路人 Stranger", "line": "Sorry, I am not sure what you need. Are you looking for a place, like a shop or a building?",
+      "lineCn": "抱歉,我不太确定您需要什么。您是在找某个地方吗,比如商店或大楼?", "grammar": [ { "name": "介词表地点", "note": "like a shop 中 like 是介词表\"像\",描述场所类别。" } ],
+      "options": [
+        { "text": "I am looking for the City Library. I was told it is across from a big park.", "textCn": "我在找市图书馆。有人告诉我在一个大公园的对面。", "feedback": "说清目的地,还补充了标志性参照物。", "next": "n2" },
+        { "text": "Never mind, I will use my phone.", "textCn": "算了,我用手机导航。", "feedback": "拒绝帮助,等手机没电就麻烦了。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "路人 Stranger", "line": "Exactly! The library is across from the park, past the big supermarket. Walk past the bank, and you will see it near the bridge.",
+      "lineCn": "完全正确!图书馆在公园对面,经过大超市再往前。走过银行,桥边就能看到它。", "grammar": [ { "name": "past / across from / near", "note": "past 表\"经过\",across from 表\"在对面\",near 表\"在附近\"。" } ],
+      "options": [
+        { "text": "Let me repeat: past the bank, across from the park, near the bridge. Am I going in the right direction?", "textCn": "我重复一下:经过银行,公园对面,桥附近。我走的方向对吗?", "feedback": "再次复述关键地标,确认行进方向,非常可靠。", "next": "n6" },
+        { "text": "That is too much information. I will just walk around.", "textCn": "信息太多了,我还是随便逛逛吧。", "feedback": "不想记路线,很可能再次迷路。", "next": "fail2" }
+      ] },
+    "n5": { "id": "n5", "speaker": "路人 Stranger", "line": "Wait, please listen carefully! At the second crossing, turn left. Then keep walking along the street for about five minutes.", "lineCn": "等等,请仔细听!在第二个路口左转,然后沿着街再走大约五分钟。", "grammar": [ { "name": "At / along 介词的精确使用", "note": "at the crossing 表路口处,along the street 表沿着街道。" } ],
+      "options": [
+        { "text": "Thank you for repeating! So it is at the second crossing, not the first one. Got it now.", "textCn": "谢谢您再说一遍!是第二个路口,不是第一个。现在记住了。", "feedback": "细心确认关键信息,路线终于清晰。", "next": "n6" },
+        { "text": "I am in a hurry. I will figure it out by myself.", "textCn": "我赶时间,我自己想办法吧。", "feedback": "急急忙忙离开,方向还没搞清楚。", "next": "fail1" }
+      ] },
+    "n6": { "id": "n6", "speaker": "路人 Stranger", "line": "You are on the right track. From here, walk straight for two blocks, and the library will be in front of you. Easy, right?",
+      "lineCn": "你走的方向没错。从这里直走两个街区,图书馆就在你正前方。容易吧?", "grammar": [ { "name": "in front of 表方位", "note": "in front of 表\"在……正前方\",是常见的方位介词短语。" } ],
+      "options": [
+        { "text": "Yes! Walk straight for two blocks, and it is in front of me. Thank you so much for your help!", "textCn": "对!直走两个街区,它就在我正前方。太感谢您的帮助了!", "feedback": "完整确认最终路线并道谢,问路成功。", "next": "success" },
+        { "text": "Wait, is it in front of the bank or behind it? I am confused again.", "textCn": "等等,它是在银行前面还是后面?我又糊涂了。", "feedback": "路线已经清楚,却还不断追问,让路人无语。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "路人 Stranger", "line": "You are very welcome! Have a nice day at the library!", "lineCn": "不客气!祝您在图书馆度过愉快的一天!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "路人 Stranger", "line": "Alright, take care and good luck finding the library!", "lineCn": "好吧,路上小心,祝您顺利找到图书馆!", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "路人 Stranger", "line": "Haha, take it easy. Just remember: two blocks and you are there. Good luck!", "lineCn": "哈哈,别紧张。记住:两个街区就到了,祝你好运!", "end": true, "success": false }
+  }
+}

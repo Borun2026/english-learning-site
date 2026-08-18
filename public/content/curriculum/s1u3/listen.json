@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u3",
+  "stage": 1,
+  "unitId": "s1u3",
+  "title": "听力挑战 · 讲述周末经历",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "How was your weekend with your family?",
+      "lineCn": "你和家人度过的周末怎么样?",
+      "grammar": [
+        { "name": "一般过去时 was", "note": "was 是 be 动词的过去式,用来询问或描述过去发生的事。" }
+      ],
+      "options": [
+        { "text": "It was great. We visited my grandparents.", "correct": true, "feedback": "用一般过去时描述上周末做的事,回答贴切。" },
+        { "text": "It is sunny and warm outside.", "correct": false, "feedback": "说的是现在的天气,和上周末的经历无关。" },
+        { "text": "I will visit the park next week.", "correct": false, "feedback": "用一般将来时谈下周计划,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "What did you do yesterday evening?",
+      "lineCn": "你昨天晚上做了什么?",
+      "grammar": [
+        { "name": "一般过去时 did 疑问句", "note": "did 后接动词原形,询问过去某时发生的动作。" }
+      ],
+      "options": [
+        { "text": "I watched a movie at home.", "correct": true, "feedback": "watched 是过去式,准确回答昨晚的动作。" },
+        { "text": "I watch TV every night.", "correct": false, "feedback": "一般现在时表示习惯,不是昨晚发生的事。" },
+        { "text": "I am doing my homework.", "correct": false, "feedback": "现在进行时表示此刻正在做,与'昨天晚上'矛盾。" }
+      ]
+    }
+  ]
+}

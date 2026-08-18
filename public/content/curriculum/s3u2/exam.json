@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u2",
+  "stage": 3,
+  "unitId": "s3u2",
+  "title": "真题演练 · wish 虚拟语气",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 wish 虚拟语气。",
+  "questions": [
+    {
+      "q": "I wish I ___ how to swim.",
+      "options": [
+        "know",
+        "knew",
+        "have known",
+        "will know"
+      ],
+      "answer": 1,
+      "analysis": "对现在的愿望用过去时 knew。",
+      "point": "g-s3u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She wishes she ___ the early bus yesterday.",
+      "options": [
+        "caught",
+        "had caught",
+        "would catch",
+        "catches"
+      ],
+      "answer": 1,
+      "analysis": "对过去的遗憾用过去完成时。",
+      "point": "g-s3u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We wish you ___ here with us tomorrow.",
+      "options": [
+        "were",
+        "are",
+        "would be",
+        "had been"
+      ],
+      "answer": 2,
+      "analysis": "对将来的期待用 would + 动词原形。",
+      "point": "g-s3u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ only I had locked the door!",
+      "options": [
+        "If",
+        "Wish",
+        "Hope",
+        "Unless"
+      ],
+      "answer": 0,
+      "analysis": "If only 表强烈愿望,后接虚拟语气。",
+      "point": "g-s3u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He wished he ___ more careful in the interview.",
+      "options": [
+        "was",
+        "is",
+        "had been",
+        "would be"
+      ],
+      "answer": 2,
+      "analysis": "wished 本身过去时,从句时态再回落一层,用 had been。",
+      "point": "g-s3u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I wish I am taller.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I wish I were taller.。对现在的愿望用过去时,be 用 were。",
+      "point": "g-s3u2",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

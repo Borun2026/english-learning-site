@@ -1,0 +1,311 @@
+{
+ "id": "z2007-cloze-0",
+ "year": 2007,
+ "section": "cloze",
+ "index": 0,
+ "source": "2007年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "By 1830, the former Spanish and Portuguese colonies had become independent nations.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The roughly 20 million ___1___ of these nations looked ___2___ to the future.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Born in the crisis of the old regime and Iberian colonialism, many of the leaders of independence ___3___ the ideals of representative government, careers ___4___ to talent, freedom of commerce and trade, the ___5___ to private property, and a belief in the individual as the basis of society.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___6___ there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a ___7___ set of laws.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "On the issue of ___8___ of religion and the position of the Church, ___9___ , there was less agreement ___10___ the leadership.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Roman Catholicism had been the state religion and the only one ___11___ by the Spanish crown.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "___12___ most leaders sought to maintain Catholicism ___13___ the official religion of the new states, some sought to end the ___14___ of other faiths.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The defense of the Church became a rallying ___15___ for the conservative forces.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The ideals of the early leaders of independence were often egalitarian, valuing equality of everything.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Bolivar had received aid from Haiti and had ___16___ in return to abolish slavery in the areas he liberated.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "By 1854 slavery had been abolished everywhere except Spain’s ___17___ colonies.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Early promises to end Indian tribute and taxes on people of mixed origin came much ___18___ because the new nations still needed the revenue such policies ___19___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Egalitarian sentiments were often tempered by fears that the mass of the population was ___20___ self-rule and democracy.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "natives",
+    "inhabitants",
+    "peoples",
+    "individuals"
+   ],
+   "answer": 1,
+   "analysis": "空的前句指出西班牙和葡萄牙殖民地成为了独立的国家。空所在的语境为:大约200万这些国家的看到未\n来。显然这里填的词应该表示这些国家的居民。四个选项中B项最能准确表达此项含义,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "confusedly",
+    "cheerfully",
+    "worriedly",
+    "hopefully"
+   ],
+   "answer": 3,
+   "analysis": "显然这里填的一个词是形容民众是如何看待未来的状况的。文章首句已经说明这些前殖民地相继独立,对\n于刚脱离殖民统治的民众来说,这是应该一个令人欣喜的事件,因此,后文的论述也应与此一致。D项最能反映这\n一情形,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "shared",
+    "forgot",
+    "attained",
+    "rejected"
+   ],
+   "answer": 0,
+   "analysis": "空所在的语意为:许多独立国家的领导者典型的政府理念,……,以及把个体的信仰作为社会的基础。\n显然典型政府、职业、和自由贸易等都是对这一理念的具体说明,应该是这些领导人共同持有的。能表现一个群体\n拥有共同想法的动词只有A,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "related",
+    "close",
+    "open",
+    "devoted"
+   ],
+   "answer": 2,
+   "analysis": "我们已经判断出文章对这些领导人行为描述都是正面的,那么职业对有才能的人开放应该符合这种态度,\n故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "access",
+    "succession",
+    "right",
+    "return"
+   ],
+   "answer": 2,
+   "analysis": "从空后谈到把个体信仰作为社会的基础我们可以判断出,这里应该是对个体权力的尊重,而这又体现在对\n私有财产的尊重上,故空填的应该表示权力,答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Presumably",
+    "Incidentally",
+    "Obviously",
+    "Generally"
+   ],
+   "answer": 3,
+   "analysis": "空的前句谈到独立领导者拥有共同的信仰,空所在的内容应该是继续阐述独立后这些国家具有的特征,即\n独立的国家应该是“独立的主权,自主发展经济,遵循共同的法律。”显然选项中只有D能反映这一共同的理念。"
+  },
+  {
+   "q": "",
+   "options": [
+    "unique",
+    "common",
+    "particular",
+    "typical"
+   ],
+   "answer": 1,
+   "analysis": "这里填入的词是形容法律的,前面谈到这些独立的国家领导人有着共同治国理念,而后面谈到这些国家需\n要成为一个整体,常识告诉我们,要想成为一个整体必然需要一整套共同的法律,由此不难选出正确答案B项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "freedom",
+    "origin",
+    "impact",
+    "reform"
+   ],
+   "answer": 0,
+   "analysis": "空所在的内容是关于宗教信仰方面的,而且领导人在这个问题上没有达成一致。对于政治人物来说,对宗\n教信仰所持的观点一般只有两种,宗教自由或者宗教独裁,这里自然应该选择正面的态度,因此自由较好,故答案\n为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "therefore",
+    "however",
+    "indeed",
+    "moreover"
+   ],
+   "answer": 1,
+   "analysis": "从选项给出的内容可以判断这里填入的词表示逻辑关系。文章第一段讨论独立领导者们拥有共同的治国理\n念,而本段探讨的是他们在宗教问题方面存在的分歧。显然这是一种转折关系,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "with",
+    "about",
+    "among",
+    "by"
+   ],
+   "answer": 2,
+   "analysis": "空前内容表示分歧,既然是分歧自然是存在领导人之间,故本题选C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "allowed",
+    "preached",
+    "granted",
+    "funded"
+   ],
+   "answer": 0,
+   "analysis": "空所在的语境是:罗马天主教在独立以前是国教,也是被西班牙王国政府所的宗教。显然这里填入的词应\n该是许可之类的,A和C均有此义,C强调申请之后被批准,显然宗教不适合用这个词,而容许更适合,故答案为\nA。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Since",
+    "If",
+    "Unless",
+    "While"
+   ],
+   "answer": 3,
+   "analysis": "段落文字的大意是:“孩子11或12岁时,你就可以开始引导他们了。与他们一起定期分析他们的优缺点,\n一起改正缺点,比如克服交流障碍或合作困难。还要搞清楚他们不断追求的兴趣,因为这些兴趣会决定他们将来选\n择的最佳职业。”从这段内容上看,既涉及到了孩子的个人问题又涉及到将来的职业,显然是教会孩子如何了解自\n己,故答案为F。"
+  },
+  {
+   "q": "",
+   "options": [
+    "as",
+    "for",
+    "under",
+    "against"
+   ],
+   "answer": 0,
+   "analysis": "接12题的分析,显然这里填入的词表示“当作、作为”的意思,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "spread",
+    "interference",
+    "exclusion",
+    "influence"
+   ],
+   "answer": 2,
+   "analysis": "12题已经分析了这个句子表示的两种不同的观点,前面是把天主教作为国教,后面则应该表示内容与此相\n对立。而天主教一旦作为国教,那么自然要结束其他教派的传播,而对立观点则是应该结束对其他教派的排斥,故\n答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "support",
+    "cry",
+    "plea",
+    "wish"
+   ],
+   "answer": 1,
+   "analysis": "本题考查的是一个固定搭配,rallyingcry意思是“(起号召作用的)战斗口号”。"
+  },
+  {
+   "q": "",
+   "options": [
+    "urged",
+    "intended",
+    "expected",
+    "promised"
+   ],
+   "answer": 3,
+   "analysis": "前文谈到早期独立领导人的理想是平等主义,接着谈到波利瓦尔得到海地的帮助并要以废除他所解放的地\n区奴隶制度作为回报。由此可知废除奴隶是解放之后的事情,把将来的事情作为一种交换条件只能是一种承诺,故\n答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "controlling",
+    "former",
+    "remaining",
+    "original"
+   ],
+   "answer": 2,
+   "analysis": "空所在的语义为:到1854年,除了西班牙奴隶制已经全部被废除了。从前文知道,这些独立的国家多是\n西班牙的殖民地,是通过斗争才争取到的独立,因此废除奴隶制的是这些独立的国家,没有废除的当然是西班牙仍\n然保留的殖民地,四个选项只有C能表达此含义,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "slower",
+    "faster",
+    "easier",
+    "tougher"
+   ],
+   "answer": 0,
+   "analysis": "空后谈到政府需要这个税收,空前谈到减税的承诺,既然税收是必须的,那么减税承诺兑现必然是缓慢的,\n故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "created",
+    "produced",
+    "contributed",
+    "preferred"
+   ],
+   "answer": 1,
+   "analysis": "由18题的分析可以判断出这里填入的词表示这些政策创造的税收,选项A和B能表达这一含义,但A的\n创造通常是指抽象的东西,而税收是物质的,所以B项更合适,故答案为B。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "puzzled by",
+    "hostile to",
+    "pessimistic about",
+    "unprepared for"
+   ],
+   "answer": 3,
+   "analysis": "空所在的句意:平等主义的情绪经常会被一些担忧所冲淡,这种担忧就是大部分人对自治和民主。四个选\n项代入句中,只有D能使语义通顺,故答案为D。\n三、全文翻译\n到1830年,西班牙和葡萄牙的前殖民地已经成为独立国家。这些国家的大约两千万居民满怀希望地展望着未来。\n许多独立斗争的领导人出生于旧政权以及伊比利亚殖民主义的危机时刻,他们怀有共同的治国理念:创建民选政府、\n对人才开放的职业、实行商贸自由和私有财产权以及相信“个体是社会的基础”。当时,普遍存在这样的信念——\n新国家应该是自主、独立的国家,应该足以在经济上养活国民,并且通过一套共同法律使国家统一在一起。\n然而,关于宗教自由以及教会的地位问题,领导阶层之间的意见就不那么一致了。罗马天主教过去是西班牙的\n国教,并且是西班牙国王允许存在的唯一教派;虽然大多数领导人试图继续将天主教作为新国家的官方宗教,但是\n一些领导人却试图结束将其它信仰排除在外的局面。保护教会成为保守力量的战斗口号。\n早期独立运动领导人的理想通常是实行平等主义,重视一切平等。玻利瓦尔从海地获得了援助,作为回报,他\n承诺在他所解放的地区废除奴隶制。到1854年,除了西班牙剩余的殖民地以外,其它地方都已废除了奴隶制。取消\n印第安人纳贡以及停止向混血人种征税的早期承诺实现起来就缓慢得多,因为新国家仍然需要这类政策带来的收入。\n平等主义思想经常会被一些担忧所冲淡,这种担忧就是普通"
+  }
+ ]
+}

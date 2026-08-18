@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u4",
+  "stage": 5,
+  "unitId": "s5u4",
+  "scene": "校园英语辩论赛",
+  "goal": "清晰阐述己方立场,并有力回应对方辩友的反驳,赢得评委认可",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "辩论主席 (主持人)",
+      "line": "This house believes that university education should prioritise employability over pure academic knowledge. Affirmative, you have the floor.",
+      "lineCn": "本辩题:大学教育应优先培养学生的就业能力,而非纯学术知识。正方,请开始陈述。",
+      "grammar": [
+        { "name": "Prioritise A over B", "note": "观点论述框架的核心结构:prioritise A over B 表示“优先 A 而非 B”,立场鲜明。" }
+      ],
+      "options": [
+        { "text": "Thank you. First and foremost, we argue that employability is what students themselves expect: the vast majority enrol with career goals in mind.", "textCn": "谢谢。首先,我们主张就业能力正是学生自己的期待:绝大多数人入学时就带着职业目标。", "feedback": "用 First and foremost 开门见山,再以事实佐证,结构清晰有力。", "next": "n2" },
+        { "text": "We think employability is better than academic knowledge, and we will tell you why.", "textCn": "我们认为就业能力比学术知识好,我们会告诉你们为什么。", "feedback": "think、better than 过于随意,论证框架缺失,对方很容易抓住把柄。", "next": "n3" },
+        { "text": "Our side believes universities should teach jobs first, and forget about theory entirely.", "textCn": "我方认为大学应该先教工作技能,完全忘掉理论。", "feedback": "“完全忘掉理论”的极端化表述自曝弱点,给对方留下攻击口实。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "反方一辩 (对手)",
+      "line": "We reject the premise that employability and academic knowledge stand in opposition. Surely a solid theoretical foundation ultimately serves careers better.",
+      "lineCn": "我们反对把就业能力与学术知识对立起来的预设。扎实的理论功底最终岂不更有利于职业发展?",
+      "grammar": [
+        { "name": "We reject the premise that...", "note": "辩论反驳第一招:先攻击对方论点的前提 (premise),比逐句反驳更高效。" }
+      ],
+      "options": [
+        { "text": "We would challenge that in two ways. Although theory is valuable, the evidence shows graduates struggle most with practical skills, not with concepts.", "textCn": "我们从两方面反驳。虽然理论有价值,但证据表明毕业生最吃力的是实践技能,而非概念。", "feedback": "although 让步加 evidence 支撑,再以 not... but 收束,反驳严密。", "next": "n4" },
+        { "text": "No, you are wrong, theory is not better, we are right.", "textCn": "不对,你们错了,理论并不更好,我们才对。", "feedback": "只有立场没有论据,且打断式否定违反辩论礼貌,评委难以认同。", "next": "n5" },
+        { "text": "We never said theory is useless; we said universities should weigh practical training more heavily in the curriculum.", "textCn": "我们从没说理论无用;我们说的是大学应在课程中更重视实践训练。", "feedback": "澄清误解加重申立场,既不退让也不歪曲,是驳论的好范例。", "next": "n4" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "辩论主席 (主持人)",
+      "line": "Affirmative, I would remind you to structure your argument: state a position, give reasons, and support each reason with evidence.",
+      "lineCn": "正方,提醒你们结构化论证:表明立场、给出理由、并用证据支撑每条理由。",
+      "grammar": [
+        { "name": "Structure your argument", "note": "观点论述框架三要素:position (立场) + reasons (理由) + evidence (证据),缺一不可。" }
+      ],
+      "options": [
+        { "text": "Thank you. To be precise, our position is that curricula should embed work placements, because surveys show employers rank hands-on experience above grades.", "textCn": "谢谢。准确地说,我方立场是课程应嵌入实习环节,因为调查显示雇主把实践经验排在成绩之上。", "feedback": "position + because + 调查数据,框架完整,成功扳回一城。", "next": "n4" },
+        { "text": "Okay so basically, more jobs, less theory, that is all I am saying.", "textCn": "好吧,基本上就是多点工作技能,少点理论,我就想说这个。", "feedback": "basically 加口号式陈述,仍未组织起论证,对方攻势将压垮你。", "next": "fail1" },
+        { "text": "We maintain that practical training should take precedence, and studies from several universities support this view.", "textCn": "我方坚持实践训练应占优先地位,多所大学的研究支持这一观点。", "feedback": "maintain 加 take precedence 表达立场,再给出研究支持,基本合格。", "next": "n4" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "反方二辩 (对手)",
+      "line": "Your studies may favour practical skills, but we wonder whether those skills become obsolete within a decade. What protects a worker trained only for today's jobs?",
+      "lineCn": "你们的研究或许偏向实践技能,但我们怀疑这些技能十年内就会过时。只接受当下职业训练的人,靠什么保护自己?",
+      "grammar": [
+        { "name": "We wonder whether...", "note": "委婉质疑句式:we wonder whether 代替直接攻击,既能保住风度又暗含杀机。" }
+      ],
+      "options": [
+        { "text": "An astute point, but it actually strengthens our case: because skills evolve, universities must teach adaptability rather than fixed content, and adaptability is itself an employability skill.", "textCn": "敏锐的观点,但它反而加强了我们的立场:正因为技能在演变,大学必须教适应力而非固定内容,而适应力本身就是就业能力。", "feedback": "借力打力 (strengthen our case),把对方论据反转成己方论据,是高阶技巧。", "next": "n6" },
+        { "text": "You are wrong, workers will be fine, so let us move on to our next point.", "textCn": "你们错了,工人会没事的,我们进入下一个论点吧。", "feedback": "强行跳过对方质疑,问题没有解决,评委与对手都不会放过。", "next": "fail2" },
+        { "text": "We would reply that lifelong learning is the answer: a curriculum that trains people to learn keeps them employable as industries shift.", "textCn": "我方回应:终身学习才是答案。训练人们学会学习的课程,能让其在行业变迁中保持就业力。", "feedback": "以 lifelong learning 承接对方问题,回应有深度,展现了辩手的成熟。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "反方一辩 (对手)",
+      "line": "I would invite the affirmative side to respond to our challenge properly rather than dismissing it: how do you reconcile theory and employability?",
+      "lineCn": "请正方正面回应我方挑战,而非一挥手否定:你们如何协调理论与就业能力的关系?",
+      "grammar": [
+        { "name": "Reconcile A and B", "note": "reconcile A and B 表示“调和、使……相容”,是辩论中讨论矛盾概念的首选动词。" }
+      ],
+      "options": [
+        { "text": "We reconcile them by sequencing: students first acquire core theory, then apply it in placements, so the two are complementary, not competing.", "textCn": "我们通过排序来协调:学生先掌握核心理论,再在实习中应用,二者互补而非竞争。", "feedback": "先给出方法 (sequencing) 再解释结果,把对立转化为互补,回应堪称完美。", "next": "n4" },
+        { "text": "I do not know how to reconcile them, but our side still wins.", "textCn": "我不知道怎么协调,但我方依然占理。", "feedback": "承认无解还坚持取胜,这在辩论中是严重失分。", "next": "fail1" },
+        { "text": "In our view the two are not mutually exclusive; theory informs practice, and practice in turn deepens theoretical understanding.", "textCn": "我方认为二者并非互斥:理论指导实践,实践又反过来加深理论理解。", "feedback": "用 not mutually exclusive 加 in turn 的递进,思路清晰,站稳立场。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "评委 (评审老师)",
+      "line": "The affirmative side speaks of adaptability. Could you give a concrete example of how a university could build it into the curriculum?",
+      "lineCn": "正方提到了适应力。你们能否举出具体例子,说明大学如何把它融入课程?",
+      "grammar": [
+        { "name": "A concrete example", "note": "评委常要求 concrete example (具体例证):论点只有配实例才真正落地。" }
+      ],
+      "options": [
+        { "text": "Certainly. A project-based module where students tackle real industry problems each term trains them to transfer skills across domains, which no lecture can achieve.", "textCn": "当然。项目式课程让学生每学期解决真实行业问题,训练他们跨领域迁移技能,这是讲座式课堂无法做到的。", "feedback": "具体课程设计加 no lecture can achieve 的对比收束,实例扎实有画面感。", "next": "n7" },
+        { "text": "For example, universities can teach students to adapt, which is a good skill to have.", "textCn": "比如,大学可以教学生适应,这是项好技能。", "feedback": "用“教学生适应”解释“教适应”,循环论证,等于没举例子。", "next": "fail2" },
+        { "text": "Take internship modules linked with company projects: students rotate through different roles, and that rotation is precisely what builds versatility.", "textCn": "以校企联动的实习模块为例:学生轮换不同岗位,这种轮换正是塑造多面能力的方式。", "feedback": "从实习模块到角色轮换,层层具体,versatility 收尾点题。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "反方三辩 (对手)",
+      "line": "Time is short, so let us press the core issue: even if practical training is valuable, is it the university's duty, or the employer's?",
+      "lineCn": "时间有限,我们直击核心:即便实践训练有价值,它是大学的职责,还是雇主的职责?",
+      "grammar": [
+        { "name": "Press the core issue", "note": "辩论收尾常用策略:press (紧逼) 核心议题,迫使对方在关键点上表态。" }
+      ],
+      "options": [
+        { "text": "We would argue the responsibility is shared, but universities must lead, since they control the transition point where students first enter the workforce.", "textCn": "我们认为责任共担,但大学必须主导,因为大学掌握着学生初次进入职场的过渡节点。", "feedback": "shared but must lead 的定位既务实又坚定,用过渡节点论证职责归属。", "next": "n8" },
+        { "text": "It is the employer's job, clearly, so universities should not worry about it.", "textCn": "显然是雇主的活,大学不用操心。", "feedback": "一句话推卸掉全部责任,与己方“大学应优先就业能力”的主旨自相矛盾。", "next": "fail1" },
+        { "text": "We maintain that universities bear the primary duty, on the grounds that only they reach every future employee before the career begins.", "textCn": "我方坚持大学承担主要职责,理由在于:只有大学能在职业生涯开始前触达每一位未来员工。", "feedback": "on the grounds that 给出严密的归因,立场与论证高度一致。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "辩论主席 (主持人)",
+      "line": "The floor is yours for a final summary. In no more than a minute, why should this house vote for your side?",
+      "lineCn": "最后陈词时间交给你们。在一分钟内,为什么本场应投给你们?",
+      "grammar": [
+        { "name": "A final summary", "note": "辩论框架的收束环节:final summary 要求概括论点并重申立场,绝不能引入新论点。" }
+      ],
+      "options": [
+        { "text": "To summarise, we do not dismiss theory; we demand balance with practice. Because graduates deserve skills for today and minds for tomorrow, we ask for your vote.", "textCn": "总结而言,我们不否定理论;我们要求与实践平衡。因为毕业生既需要今日之技能,也需要明日之头脑,请投我们一票。", "feedback": "先澄清误解,再以 because 收束价值主张,结尾金句有力,评委深受打动。", "next": "success" },
+        { "text": "Yeah, so vote for us, we are right, thank you.", "textCn": "对,投我们吧,我们是对的,谢谢。", "feedback": "没有总结没有升华,以“我们是对的”结尾,说服力完全落空。", "next": "fail1" },
+        { "text": "In short, employability is not the enemy of knowledge but its completion; universities that pair the two prepare students for a changing world.", "textCn": "简言之,就业能力不是知识的敌人,而是知识的完成。将两者结合的大学,才为学生面对变化的世界做好了准备。", "feedback": "排比式收束 (not the enemy but its completion) 层次高,立场完整收口。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "辩论主席 (主持人)",
+      "line": "The judges have deliberated. By a majority decision, the motion is carried by the affirmative. Congratulations!",
+      "lineCn": "评委已评议完毕。以多数票,动议由正方通过。祝贺你们!",
+      "grammar": [
+        { "name": "The motion is carried", "note": "固定表达:the motion is carried 意为“动议获得通过”,是辩论赛宣布结果的规范用语。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "辩论主席 (主持人)",
+      "line": "The judges regret to inform you that the affirmative side fails to persuade on the core issues raised this round.",
+      "lineCn": "评委遗憾地告知:正方未能就本轮提出的核心问题作出有说服力的回应。",
+      "grammar": [
+        { "name": "Fail to persuade", "note": "fail to + 动词表示“未能……”,是正式场合宣布失利结果的稳妥说法。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "反方二辩 (对手)",
+      "line": "We thank the affirmative for the debate. Given the unanswered objections, we believe the verdict speaks for itself.",
+      "lineCn": "感谢正方的参与。鉴于多项反对意见未获回应,我们认为结果不言自明。",
+      "grammar": [
+        { "name": "Speaks for itself", "note": "固定短语 speak for itself 表示“不言自明”,辩论收尾中用于暗示胜负已分。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

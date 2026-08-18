@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u8",
+  "stage": 2,
+  "title": "比较级与最高级",
+  "explanation": "## 比较级与最高级\n\n- **比较级**用于两者之间的比较,句中常出现 than(比)。\n- **最高级**用于三者或三者以上的比较,形容词最高级前通常加 the,后接 in / of 表示范围。\n\n## 规则变化\n\n| 情况 | 比较级 | 最高级 |\n|---|---|---|\n| 一般单词 | tall→taller | tallest |\n| 以 -e 结尾 | nice→nicer | nicest |\n| 辅音字母 + y | heavy→heavier | heaviest |\n| 重读闭音节 | big→bigger | biggest |\n| 多音节词 | interesting→more interesting | most interesting |\n\n## 不规则变化\n\n| 原级 | 比较级 | 最高级 |\n|---|---|---|\n| good / well | better | best |\n| bad / badly | worse | worst |\n| many / much | more | most |\n| little | less | least |\n\n同级比较用 as...as(和…一样),否定式 not as / so...as。",
+  "examples": [
+    { "en": "This book is more interesting than that one.", "cn": "这本书比那本更有趣。", "note": "多音节词用 more + 原级构成比较级。" },
+    { "en": "She is the tallest girl in her class.", "cn": "她是班里最高的女孩。", "note": "最高级前加 the,用 in 表示范围。" },
+    { "en": "My bag is heavier than yours.", "cn": "我的包比你的重。", "note": "heavy 辅音加 y,变 y 为 i 加 -er。" },
+    { "en": "He runs as fast as his brother.", "cn": "他跑得和他哥哥一样快。", "note": "as...as 表示同级比较,中间用原级。" }
+  ],
+  "errors": [
+    { "wrong": "He is more taller than me.", "right": "He is taller than me.", "note": "比较级不能重复表达,不能 more 和 -er 同时用。" },
+    { "wrong": "She is the better student in her class.", "right": "She is the best student in her class.", "note": "全班范围内用最高级 best,不用比较级。" },
+    { "wrong": "His English is gooder than mine.", "right": "His English is better than mine.", "note": "good 的比较级是不规则形式 better。" }
+  ],
+  "quiz": [
+    { "q": "Tom is ___ than his brother.", "options": ["tall", "taller", "tallest", "the tallest"], "answer": 1, "note": "两者比较用比较级,且有 than。" },
+    { "q": "This is ___ movie I have ever seen.", "options": ["good", "better", "best", "the best"], "answer": 3, "note": "见过的最好的,用最高级且加 the。" },
+    { "q": "My bike is ___ than yours.", "options": ["cheap", "cheaper", "cheapest", "the cheapest"], "answer": 1, "note": "有 than,用比较级 cheaper。" },
+    { "q": "Physics is ___ difficult than Chinese.", "options": ["more", "most", "much", "many"], "answer": 0, "note": "difficult 是多音节词,比较级用 more。" },
+    { "q": "He is as ___ as his father.", "options": ["taller", "tall", "tallest", "the tallest"], "answer": 1, "note": "as...as 之间用形容词原级 tall。" }
+  ]
+}

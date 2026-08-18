@@ -1,0 +1,63 @@
+{
+ "id": "cet6-099",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第2套) Passage 1",
+ "title": "It is irrefutable that employees know the difference between right and wrong",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "It is irrefutable that employees know the difference between right and wrong. So why don't more employees intervene when they see someone exhibiting at-risk behavior in the workplace?",
+  "There are a number of factors that influence whether people intervene. First, they need to be able to see a risky situation beginning to unfold. Second, the company's culture needs to make them feel safe to speak up. And third, they need to have the communication skills to say something effectively.",
+  "This is not strictly a workplace problem; it's a growing problem off the job too. Every day people witness things on the street and choose to stand idly by. This is known as the bystander effect -- the more people who witness an event, the less likely anyone in that group is to help the victim. The psychology behind this is called diffusion of responsibility. Basically, the larger the crowd, the more people assume that someone else will take care of it -- meaning no one effectively intervenes or acts in a moment of need.",
+  "This crowd mentality is strong enough for people to evade their known responsibilities. But it's not only frontline workers who don't make safety interventions in the workplace. There are also instances where supervisors do not intervene either.",
+  "When a group of employees sees unsafe behavior not being addressed at a leadership level it creates the precedent that this is how these situations should be addressed, thus defining the safety culture for everyone.",
+  "Despite the fact that workers are encouraged to intervene when they observe unsafe operations, this happens less than half of the time. Fear is the ultimate factor in not intervening. There is a fear of penalty, a fear that they'll have to do more work if they intervene. Unsuccessful attempts in the past are another strong contributing factor to why people don't intervene -- they tend to prefer to defer that action to someone else for all future situations.",
+  "On many worksites, competent workers must be appointed. Part of their job is to intervene when workers perform a task without the proper equipment or if the conditions are unsafe. Competent workers are also required to stop work from continuing when there's a danger.",
+  "Supervisors also play a critical role. Even if a competent person isn't required, supervisors need a broad set of skills to not only identify and alleviate workplace hazards but also build a safety climate within their team that supports intervening and open communication among them.",
+  "Beyond competent workers and supervisors, it's important to educate everyone within the organization that they are obliged to intervene if they witness a possible unsafe act, whether you're a designated competent person, a supervisor or a frontline worker."
+ ],
+ "questions": [
+  {
+   "q": "文中 “unfold” 最接近的意思是?",
+   "options": [
+    "最后的，最终的",
+    "说话",
+    "展开，打开",
+    "片刻，瞬间，时刻"
+   ],
+   "answer": 2,
+   "analysis": "“unfold” 意为「展开，打开」。原文语境:First, they need to be able to see a risky situation beginning to unfold.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:First, they need to be able to see a risky situation beginning to ___.",
+   "options": [
+    "observe",
+    "assume",
+    "unfold",
+    "alleviate"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“First, they need to be able to see a risky situation beginning to unfold.”。空格处应填入 “unfold”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "It is irrefutable that employees know the difference between right and wrong",
+    "Beginning in the late sixteenth century, it became fashionable for young aris",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "Simulators are most often utilized within industries such as nuclear power, a"
+   ],
+   "answer": 0,
+   "analysis": "本文以“It is irrefutable that employees know the difference between right and wrong.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

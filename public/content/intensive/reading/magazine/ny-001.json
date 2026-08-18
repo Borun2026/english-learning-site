@@ -1,0 +1,25 @@
+{
+ "id": "ny-001",
+ "type": "magazine",
+ "journal": "The New Yorker",
+ "journalEn": "The New Yorker",
+ "title": "The Quiet Revolution in American Libraries",
+ "date": "2026-04-20",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 480,
+ "tags": [
+  "culture",
+  "society",
+  "education"
+ ],
+ "paragraphs": [
+  "Walk into a public library in any major American city today and you might be surprised by what you find. Gone are the days of dusty shelves and stern librarians demanding silence. The modern library is a bustling community hub, offering everything from 3D printers to podcasting studios.",
+  "The transformation has been gradual but profound. Over the past two decades, libraries have reinvented themselves as centers for digital literacy, small business development, and community engagement. Many now offer free Wi-Fi hotspots for checkout, homework help for students, and classes in coding and robotics.",
+  "This shift reflects a deeper change in how libraries understand their mission. The traditional role of a library was to collect and preserve books. The new role is to connect people with information in whatever form it takes, and to provide the tools and skills people need to navigate an increasingly complex world.",
+  "Librarians themselves have evolved with the institution. Today's librarian is as likely to be teaching a workshop on digital privacy as recommending a novel. Many have backgrounds in information science, education, or social work. They see their job as empowering patrons, not just lending books.",
+  "This evolution has not been without controversy. Some critics argue that libraries are losing their core identity by trying to be everything to everyone. They worry that the emphasis on technology and programs comes at the expense of books and quiet reading spaces. Others question whether the expansion of services is sustainable given tight municipal budgets.",
+  "Yet the evidence suggests that libraries are more popular than ever. Visitation has risen steadily in most cities, and library cards are at an all-time high. During the pandemic, libraries were essential providers of internet access for millions of Americans who lacked home broadband.",
+  "In an age of information overload and digital isolation, libraries offer something rare: a trusted, public space where anyone can come to learn, connect, and grow. That may be their most important role of all."
+ ]
+}

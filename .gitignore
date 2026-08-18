@@ -1,0 +1,23 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.vite/
+.DS_Store
+Thumbs.db
+# 预生成 wav 入库后不再忽略整个目录;仅忽略临时/半成品
+public/content/audio/_tmp/
+*.wav
+*.mp3
+*.ogg
+*.flac
+backup_*.zip
+*.zip
+raw_materials/
+zhenti_raw/
+docs/
+data/
+*.db
+server/dist/*
+!server/dist/.gitkeep
+*.exe

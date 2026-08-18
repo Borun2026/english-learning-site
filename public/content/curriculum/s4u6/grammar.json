@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u6",
+  "stage": 4,
+  "title": "阅读题型方法论",
+  "explanation": "## 阅读题型方法论:六类题型的破解逻辑\n\n考研英语阅读(Text 1-4)题型固定,方法比盲目刷题更重要。先定位,再比对,最后排除。\n\n## 六大题型与对策\n\n1. **主旨题**(What is the passage mainly about?):看首段首尾句 + 各段主题句,选项要覆盖全文,以偏概全的排除。\n2. **细节题**:回文定位,同义替换为正确答案,照抄原文的往往有陷阱。\n3. **推断题**(It can be inferred that...):选项必须是原文信息的合理延伸,过度推断和绝对化(only, all, never)排除。\n4. **词义题**(The word \"...\" is closest in meaning to...):回原文定位,看上下文逻辑(转折、因果、并列)猜词。\n5. **态度题**:找作者评价性词汇(形容词、副词、情态动词),注意 I think, in my view 等。\n6. **例证题**(The example is used to illustrate...):例子本身不重要,答案在例子前一句或后一句的观点句。\n\n## 解题流程\n\n1. 先读题干,划关键词。2. 回文定位到 1-2 句内。3. 对比选项与原文,找同义替换。4. 排除绝对化、无中生有、偷换概念的干扰项。\n\n## 时间分配\n\n每篇 15-18 分钟:通读 5 分钟 + 做题 10 分钟 + 检查 3 分钟。",
+  "examples": [
+    { "en": "The main purpose of this passage is to call for public attention to the issue of plastic waste.", "cn": "本文的主要目的是呼吁公众关注塑料垃圾问题。", "note": "主旨题正确项常用 call for / emphasize 等高度概括词。" },
+    { "en": "It can be inferred from the passage that the author is worried about the future of traditional media.", "cn": "从文中可以推断,作者对传统媒体的未来感到担忧。", "note": "推断题答案来自观点与语气词,非原文直说。" },
+    { "en": "The word \"paradox\" in paragraph 2 probably means a situation that seems contradictory.", "cn": "第二段中 paradox 一词大概指看似矛盾的情况。", "note": "词义题结合上下文逻辑关系推断。" },
+    { "en": "The example of the successful startup is used to illustrate that innovation requires patience.", "cn": "成功创业公司的例子被用来证明创新需要耐心。", "note": "例证题答案在例子前后的观点句。" }
+  ],
+  "errors": [
+    { "wrong": "细节题选项与原文一字不差,直接选。", "right": "细节题找同义替换,照抄原文的选项往往是干扰项。", "note": "命题人常把原文词换个说法或加限定词制造陷阱。" },
+    { "wrong": "推断题选绝对化表述:All scientists agree...", "right": "推断题排除绝对化表述,选合理延伸。", "note": "only/all/never 等绝对词几乎都是干扰项。" },
+    { "wrong": "主旨题选只概括第一段的选项。", "right": "主旨题选能覆盖全文中心的选项。", "note": "以偏概全的主旨选项是典型陷阱。" }
+  ],
+  "quiz": [
+    { "q": "细节题的正确答案通常具备什么特征?", "options": ["照抄原文", "同义替换", "出现绝对词", "与原文无关"], "answer": 1, "note": "正确答案多是原文的同义改写。" },
+    { "q": "词义题解题的第一步是?", "options": ["查词典", "回原文定位", "猜字母拼写", "看选项长度"], "answer": 1, "note": "先定位单词所在句及其上下文。" },
+    { "q": "例证题的观点句一般在哪里?", "options": ["例子内部", "例子前后", "文章结尾", "标题"], "answer": 1, "note": "观点句在例子的前一句或后一句。" },
+    { "q": "态度题应该重点关注什么词?", "options": ["名词", "评价性形容词和副词", "数字", "人名"], "answer": 1, "note": "评价性词汇传达作者态度。" },
+    { "q": "主旨题正确答案的特征是?", "options": ["只讲某一段", "覆盖全文", "包含具体数字", "出现绝对词"], "answer": 1, "note": "主旨题要求选项能统摄全文中心。" }
+  ]
+}

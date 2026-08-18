@@ -1,0 +1,59 @@
+{
+ "id": "cet6-084",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第2套) Passage 2",
+ "title": "Psychologists have long been in disagreement as to whether competition is a l...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 453,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Psychologists have long been in disagreement as to whether competition is a learned or a genetic component of human behavior. Whatever it is, you cannot but recognize the effect competition is exerting in academics and many other areas of contemporary life.",
+  "Psychologically speaking, competition has been seen as an inevitable consequence of human drives. According to Sigmund Freud, humans are born screaming for attention and full of organic drives for fulfillment in various areas. Initially, we compete for the attention of our parents. Thereafter, we are at the mercy of a battle between our base impulses for self-fulfillment and social and cultural norms which prohibit pure indulgence.",
+  "Current work in anthropology has suggested, however, that this view of the role of competition in human behavior may be incorrect. Thomas Hobbes, one of the great philosophers of the seventeenth century, is perhaps best remembered for his characterization of the \"natural world\", that is, the world before the imposition of the will of humanity, as being \"nasty, brutish, and short.\" This image of the pre-rational world is still widely held, reinforced by Charles Darwin's highly influential work. The Origin of Species. which established the doctrine of natural selection. This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle for survival is an inherent human trait which determines a person's success. Darwin's theory has even been summarized as \"survival of the fittest\" -- a phrase Darwin himself never used -- further highlighting competition's role in success. As it has often been pointed out, however, there is nothing in the concept of natural selection that suggests that competition is the most successful strategy for \"survival of the fittest.\" Darwin asserted in The Origin of Species that the struggles he was describing should be viewed as metaphors and could easily include dependence and cooperation.",
+  "Many studies have been conducted to test the importance placed on competition as opposed to other values, such as cooperation -- by various cultures, and generally conclude that Americans uniquely praise competition as natural, inevitable, and desirable. In 1937, the world-renowned anthropologist Margaret Mead",
+  "published Cooperation and Competition among Primitive Peoples, based on her studies of several societies that did not prize competition, and, in fact, seemed at times to place a negative value on it. One such society was the Zuni Indians of Arizona, and they, Mead found, valued cooperation far more than competition. After studying dozens of such cultures, Mead's final conclusion was that competitiveness is a culturally created aspect of human behavior, and that its prevalence in a particular society is relative to how that society values it."
+ ],
+ "questions": [
+  {
+   "q": "文中 “adapt” 最接近的意思是?",
+   "options": [
+    "有名望的，声誉鹊起的",
+    "使适应，改编",
+    "同时代的，当代的",
+    "社会的 <"
+   ],
+   "answer": 1,
+   "analysis": "“adapt” 意为「使适应，改编」。原文语境:This doctrine, which takes for granted that those species best able to adapt to and master the natural environment in which they live will survive, has suggested that the struggle ",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Current work in anthropology has suggested, however, that this view of the role of competition in human behavior may be ___.",
+   "options": [
+    "relative",
+    "incorrect",
+    "contemporary",
+    "Whatever"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Current work in anthropology has suggested, however, that this view of the role of competition in human behavior may be incorrect.”。空格处应填入 “incorrect”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Psychologists have long been in disagreement as to whether competition is a l",
+    "The market for products designed specifically for older adults could reach $3",
+    "Journal editors decide what gets published and what doesn't, affecting the ca",
+    "There're currently 21"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Psychologists have long been in disagreement as to whether competition is a learned or a genetic component of human behavior.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

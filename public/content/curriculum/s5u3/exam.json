@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u3",
+  "stage": 5,
+  "unitId": "s5u3",
+  "title": "真题演练 · 图表描述",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 图表描述。",
+  "questions": [
+    {
+      "q": "描述\"急剧上升\"的正确表达是?",
+      "options": [
+        "increased dramatically",
+        "increased a little",
+        "decreased sharply",
+        "remained stable"
+      ],
+      "answer": 0,
+      "analysis": "dramatically 修饰上升,表示\"急剧地\"。",
+      "point": "g-s5u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"达到峰值\"的标准表达是?",
+      "options": [
+        "hit the bottom",
+        "reach a peak of",
+        "level off",
+        "drop sharply"
+      ],
+      "answer": 1,
+      "analysis": "reach a peak of 描述最高点。",
+      "point": "g-s5u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "描述\"保持平稳\"的短语是?",
+      "options": [
+        "soar",
+        "plunge",
+        "remain stable",
+        "fluctuate wildly"
+      ],
+      "answer": 2,
+      "analysis": "remain stable 表示保持稳定。",
+      "point": "g-s5u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "描述占比\"占 30%\"的正确表达是?",
+      "options": [
+        "made up for 30%",
+        "accounted for 30%",
+        "took 30% to",
+        "cost 30%"
+      ],
+      "answer": 1,
+      "analysis": "account for 表示\"占……比例\"。",
+      "point": "g-s5u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Task 1 图表作文的正确立场是?",
+      "options": [
+        "发表个人观点",
+        "客观描述数据",
+        "提建议",
+        "讲故事"
+      ],
+      "answer": 1,
+      "analysis": "小作文只描述数据,不发表个人看法。",
+      "point": "g-s5u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:The number increased a lot in 2015.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:The number increased sharply/rapidly in 2015.。用精确的程度副词替代笼统的 a lot。",
+      "point": "g-s5u3",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

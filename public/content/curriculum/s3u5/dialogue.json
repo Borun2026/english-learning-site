@@ -1,0 +1,202 @@
+{
+  "id": "d-s3u5",
+  "stage": 3,
+  "unitId": "s3u5",
+  "scene": "表达观点",
+  "goal": "在课堂讨论中清楚表达观点并说服对方",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同学 Lucas",
+      "line": "Our class is debating whether homework should be abolished. What is your stance on this issue?",
+      "lineCn": "我们班正在辩论是否应该取消家庭作业。你对这个问题持什么立场?",
+      "grammar": [
+        { "name": "whether 引导的宾语从句", "note": "debating whether homework should be abolished 中 whether 从句作宾语,表二选一的疑问。" }
+      ],
+      "options": [
+        { "text": "What matters most is not homework itself but how it is designed.", "textCn": "最重要的不是作业本身,而是它如何被设计。", "feedback": "观点有层次,引起注意。", "next": "n2" },
+        { "text": "I believe that homework is completely unnecessary in the age of the Internet.", "textCn": "我认为在互联网时代,家庭作业完全没有必要。", "feedback": "立场鲜明但较极端。", "next": "n3" },
+        { "text": "I have not thought about it. Whatever others say, I will agree with the majority.", "textCn": "我没想过这个问题。无论别人说什么,我都随大流。", "feedback": "没有主见,Lucas 会追问。", "next": "n4" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同学 Lucas",
+      "line": "Interesting distinction. Could you explain what kind of homework you consider valuable?",
+      "lineCn": "有意思的区分。你能解释一下你认为哪种作业有价值吗?",
+      "grammar": [
+        { "name": "what 引导的宾语从句", "note": "explain what kind of homework you consider valuable 中 what 从句作 explain 的宾语。" }
+      ],
+      "options": [
+        { "text": "I think that tasks requiring deep thinking are valuable, while mechanical copying is not.", "textCn": "我认为需要深度思考的任务有价值,而机械抄写没有。", "feedback": "举例说明,论点清晰。", "next": "n2b" },
+        { "text": "The fact that we finish exercises at home proves nothing about our real understanding.", "textCn": "我们在家完成练习这个事实,并不能证明我们真正理解了。", "feedback": "用事实说话,说服力强。", "next": "n2b" },
+        { "text": "That is what I mean, but I cannot give a clear example right now.", "textCn": "这正是我的意思,但我现在举不出明确的例子。", "feedback": "论据不足,Lucas 会追问。", "next": "n6" }
+      ]
+    },
+    "n2b": {
+      "id": "n2b",
+      "speaker": "同学 Lucas",
+      "line": "A fair point. But some people argue that homework trains discipline. How would you answer them?",
+      "lineCn": "有道理。但有人认为作业能锻炼自律。你如何回应他们?",
+      "grammar": [
+        { "name": "that 引导的宾语从句(主张)", "note": "argue that homework trains discipline 中 that 从句作 argue 的宾语,是表明观点的常用句式。" }
+      ],
+      "options": [
+        { "text": "I would answer that discipline should come from interest, not compulsion.", "textCn": "我会回答说,自律应源于兴趣,而非强迫。", "feedback": "回应有力,反驳到位。", "next": "n5" },
+        { "text": "What I would say is that discipline has little value if it breeds resentment.", "textCn": "我想说的是,如果自律孕育怨气,它就没什么价值。", "feedback": "观点鲜明,继续交锋。", "next": "n5" },
+        { "text": "I have no answer. They may be right, for all I know.", "textCn": "我没有答案。说不定他们是对的。", "feedback": "缴械投降,Lucas 会追问。", "next": "n6" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同学 Lucas",
+      "line": "That is a bold claim. Are you certain that removing homework will improve our learning?",
+      "lineCn": "这是个大胆的主张。你确定取消作业会提高我们的学习效果吗?",
+      "grammar": [
+        { "name": "that 引导的宾语从句(确信)", "note": "certain that removing homework will improve our learning 中 that 从句作形容词 certain 的宾语。" }
+      ],
+      "options": [
+        { "text": "Yes. What we truly need is time for self-directed study, not endless assignments.", "textCn": "是的。我们真正需要的是自主学习的时穇,而不是做不完的作业。", "feedback": "观点鲜明,争论激烈。", "next": "n5" },
+        { "text": "To be honest, I am not sure whether it will help, but I dislike homework anyway.", "textCn": "老实说,我不确定有没有用,但我就是讨厌作业。", "feedback": "情感用事,Lucas 会追问证据。", "next": "n6" },
+        { "text": "Whether homework helps or not, I simply refuse to do any more of it.", "textCn": "不管作业有没有用,我就是拒绝再做。", "feedback": "任性表态,Lucas 提醒理性。", "next": "n7" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同学 Lucas",
+      "line": "Sitting on the fence is comfortable, but it persuades no one. What do you actually believe?",
+      "lineCn": "骑墙很舒服,但说服不了任何人。你真正相信的是什么?",
+      "grammar": [
+        { "name": "what 引导的宾语从句(追问)", "note": "What do you actually believe 中 what 作 believe 的宾语,疑问词置于句首构成特殊疑问。" }
+      ],
+      "options": [
+        { "text": "Honestly, what I believe is that moderate homework helps consolidate knowledge.", "textCn": "说实话,我相信适度的作业有助于巩固知识。", "feedback": "终于亮明立场,讨论进展。", "next": "n5" },
+        { "text": "I believe whatever the teacher says, so I need your opinion first.", "textCn": "老师说什么我信什么,所以我先听听你的意见。", "feedback": "缺乏独立思考,被引导。", "next": "n6" },
+        { "text": "The truth is that I have no opinion, and I am proud of my neutrality.", "textCn": "事实是我没有观点,而且我为自己的中立骄傲。", "feedback": "态度轻率,受到批评。", "next": "n7" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "同学 Lucas",
+      "line": "Now we are getting somewhere. The question that remains is how we could put your idea into practice.",
+      "lineCn": "现在我们有点进展了。剩下的问题是如何把你的想法付诸实践。",
+      "grammar": [
+        { "name": "表语从句 how", "note": "The question ... is how we could put your idea into practice 中 how 从句作表语,连接主宾信息。" }
+      ],
+      "options": [
+        { "text": "My suggestion is that we replace daily assignments with weekly projects.", "textCn": "我的建议是用每周项目取代每日作业。", "feedback": "提出可行方案,辩论深化。", "next": "n5b" },
+        { "text": "What I propose is a compromise: less homework, more classroom discussion.", "textCn": "我提议折中:减少作业,增加课堂讨论。", "feedback": "方案务实,获得认同。", "next": "n5b" },
+        { "text": "I doubt that teachers will ever accept any of our suggestions.", "textCn": "我怀疑老师会不会接受我们任何建议。", "feedback": "悲观怀疑,Lucas 会反驳。", "next": "n7" }
+      ]
+    },
+    "n5b": {
+      "id": "n5b",
+      "speaker": "同学 Lucas",
+      "line": "Then we agree on the direction. But which subject should pilot your proposal first?",
+      "lineCn": "那我们在方向上达成一致。但哪个科目该先试点你的提议呢?",
+      "grammar": [
+        { "name": "which 引导的宾语从句(选择)", "note": "which subject should pilot your proposal 作宾语,which 强调在特定范围内的选择。" }
+      ],
+      "options": [
+        { "text": "What I recommend is piloting it in mathematics, where practice truly matters.", "textCn": "我建议在数学科试点,因为那里的练习确实重要。", "feedback": "理由充分,讨论聚焦。", "next": "n8" },
+        { "text": "I suggest English, because the current exercises are the most repetitive.", "textCn": "我建议英语科,因为现在的练习最机械重复。", "feedback": "针对性明确,继续推进。", "next": "n8" },
+        { "text": "Piloting at all sounds unnecessary to me. Why not change everything at once?", "textCn": "试点在我看来纯属多余。为什么不一次性全改?", "feedback": "操之过急,Lucas 会纠正。", "next": "n7" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "同学 Lucas",
+      "line": "Vague ideas are hard to debate. Let me ask directly: what evidence supports your view?",
+      "lineCn": "模糊的想法很难辩论。我直接问:有什么证据支持你的观点?",
+      "grammar": [
+        { "name": "what 引导的主语从句", "note": "What I want from you is evidence 中 what 从句作主语,主语从句的经典用法。" }
+      ],
+      "options": [
+        { "text": "What I can offer is my own experience: I learn far more from projects than from exercises.", "textCn": "我能提供的是自身经验:我通过项目学到的远多于通过练习。", "feedback": "以实例为证,说服力上升。", "next": "n8" },
+        { "text": "I am not sure that evidence matters here. It is all about intuition.", "textCn": "我不确定证据在这里重要。这全靠直觉。", "feedback": "论证空洞,Lucas 批评。", "next": "n7" },
+        { "text": "Whether you believe me or not, my grades prove that my method works.", "textCn": "信不信由你,我的成绩证明我的方法有效。", "feedback": "用成绩说话,论点扎实。", "next": "n8" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "同学 Lucas",
+      "line": "A discussion dies without commitment. The possibility that your silence will be mistaken for agreement is quite high.",
+      "lineCn": "没有投入,讨论就会死掉。你的沉默被误认为同意的可能性相当高。",
+      "grammar": [
+        { "name": "that 引导的同位语从句", "note": "the possibility that your silence will be mistaken for agreement 中 that 从句说明 possibility 的内容。" }
+      ],
+      "options": [
+        { "text": "You have a point. What I should have said is that I support moderate homework.", "textCn": "你说得对。我本应该说的是我支持适度作业。", "feedback": "及时修正立场,回到讨论。", "next": "n5" },
+        { "text": "Fine, then let me say this: what I believe is none of your business.", "textCn": "行,那我就直说:我相信什么与你无关。", "feedback": "拒绝交流,讨论破裂。", "next": "fail1" },
+        { "text": "I will commit: I support moderate homework, and I can defend it.", "textCn": "我表态:我支持适度作业,而且我能为它辩护。", "feedback": "重拾立场,辩论继续。", "next": "n5" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "同学 Lucas",
+      "line": "That is a constructive proposal. Why do you think teachers should adopt it?",
+      "lineCn": "这是个建设性提议。你为什么认为老师应该采纳它?",
+      "grammar": [
+        { "name": "why 引导的宾语从句(理由)", "note": "Why do you think teachers should adopt it 中 why 从句作 think 的宾语,追问理由。" }
+      ],
+      "options": [
+        { "text": "I am convinced that project-based learning cultivates skills that last a lifetime.", "textCn": "我深信项目式学习能培养受益终身的技能。", "feedback": "理由长远深刻,说服力强。", "next": "n8b" },
+        { "text": "The reason is that it balances freedom and discipline.", "textCn": "理由是它平衡了自由与自律。", "feedback": "理由简明,获得认同。", "next": "n8b" },
+        { "text": "I do not know why you keep questioning me. I am just sharing my opinion.", "textCn": "我不知道你为什么一直追问。我只是分享观点。", "feedback": "不耐烦了,Lucas 引导理性。", "next": "n7" }
+      ]
+    },
+    "n8b": {
+      "id": "n8b",
+      "speaker": "同学 Lucas",
+      "line": "Before we conclude, let me play devil's advocate: what worries me is whether teachers will find time to evaluate weekly projects.",
+      "lineCn": "在结论之前,让我唱唱反调:我担心的是老师能否挤出时间评价每周项目。",
+      "grammar": [
+        { "name": "whether 引导的表语从句", "note": "what worries me is whether teachers will find time... 中 what 从句作主语,whether 从句作表语。" }
+      ],
+      "options": [
+        { "text": "That is a real concern. What we can do is limit each project to one page.", "textCn": "这是真实的顾虑。我们能做的是把每个项目限制在一页之内。", "feedback": "回应质疑,方案更完善。", "next": "n9" },
+        { "text": "The truth is that evaluation time is the teachers' problem, not ours.", "textCn": "事实是批改时间是老师的问题,不是我们的。", "feedback": "推卸责任,受到批评。", "next": "n7" },
+        { "text": "I had not considered that risk. What do you suggest we do about it?", "textCn": "我没考虑过这个风险。你建议我们怎么办?", "feedback": "虚心求教,继续完善方案。", "next": "n8" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "同学 Lucas",
+      "line": "Excellent reasoning. What you have presented is a well-structured viewpoint, and I am convinced.",
+      "lineCn": "推理出色。你所展示的是一个结构完整的观点,我被说服了。",
+      "grammar": [
+        { "name": "主语从句总结", "note": "What you have presented is... 用 what 从句作主语,是演讲与辩论收尾的正式总结句式。" }
+      ],
+      "options": [
+        { "text": "Thank you. I am glad that we could reach an agreement through discussion.", "textCn": "谢谢。我很高兴我们能通过讨论达成一致。", "feedback": "理性收尾,辩论圆满。", "next": "success" },
+        { "text": "I am not sure that you will keep your promise, but I appreciate the gesture.", "textCn": "我不确定你会不会守诺,但我感谢你的态度。", "feedback": "略带保留,仍达成共识。", "next": "success" },
+        { "text": "Actually, forget the whole debate. Whether we agree or not, homework will continue anyway.", "textCn": "算了,忘掉整场辩论吧。不管我们同不同意,作业都会继续。", "feedback": "前功尽弃,讨论失望收场。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同学 Lucas",
+      "line": "Agreed, and this is exactly what a good debate should achieve: a better idea, not a louder voice.",
+      "lineCn": "同意。这正是一场好的辩论该达成的:更好的想法,而不是更大的嗓门。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同学 Lucas",
+      "line": "I am sorry the debate ended that way. A viewpoint without evidence persuades no one.",
+      "lineCn": "辩论这样收场我很遗憾。没有证据的观点说服不了任何人。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同学 Lucas",
+      "line": "Giving up midway disappoints everyone who listened to you. I hope you will stand firm next time.",
+      "lineCn": "中途放弃会让所有听你说话的人失望。希望你下次立场坚定。",
+      "end": true,
+      "success": false
+    }
+  }
+}

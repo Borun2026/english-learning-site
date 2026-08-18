@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u4",
+  "stage": 4,
+  "unitId": "s4u4",
+  "title": "听力挑战 · 学术讲座问答",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "主讲人",
+      "line": "Unlike the previous model, this framework requires no manual adjustment, and it works faster.",
+      "lineCn": "与之前的模型不同,这个框架不需要手动调整,而且运行更快。",
+      "grammar": [
+        { "name": "省略与指代识别", "note": "Unlike 后省略了 the previous model 的比较结构;it 指代 this framework,理解指代对象是做题关键。" }
+      ],
+      "options": [
+        { "text": "The new framework runs faster and needs no manual adjustment.", "correct": true, "feedback": "新框架的优点是无需手动调整且速度更快。" },
+        { "text": "The new framework is slower but more accurate.", "correct": false, "feedback": "原文说它运行更快,不是更慢。" },
+        { "text": "The new framework requires constant manual adjustment.", "correct": false, "feedback": "原文说无需手动调整,正好相反。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "If we apply this method to large data sets, the results will be similar to those we obtained earlier.",
+      "lineCn": "如果我们将这种方法应用于大型数据集,结果会与我们早先得到的相似。",
+      "grammar": [
+        { "name": "指代 those + 省略", "note": "those 替代 results 以避免重复;we obtained earlier 是省略关系词的定语从句修饰 those。" }
+      ],
+      "options": [
+        { "text": "Applying the method to large data sets should produce similar results.", "correct": true, "feedback": "用于大型数据集会得到与之前相似的结果。" },
+        { "text": "The method only works on small data sets.", "correct": false, "feedback": "原文讨论的正是应用于大型数据集,并非只适用于小型。" },
+        { "text": "The earlier results cannot be reproduced at all.", "correct": false, "feedback": "原文说结果相似,即可重现。" }
+      ]
+    },
+    {
+      "speaker": "主讲人",
+      "line": "Although the theory sounds plausible, its application in practice is more complicated than in theory.",
+      "lineCn": "虽然这个理论听起来合理,但它在实践中的应用比理论上要复杂得多。",
+      "grammar": [
+        { "name": "比较结构省略 + it 指代", "note": "than in theory 后省略了 it is complicated;its 指代 the theory's,注意区分理论与应用两个层面。" }
+      ],
+      "options": [
+        { "text": "Applying the theory is harder than it sounds in theory.", "correct": true, "feedback": "理论合理,但实际应用更复杂。" },
+        { "text": "The theory is completely wrong in practice.", "correct": false, "feedback": "原文只是说应用复杂,并未说理论错误。" },
+        { "text": "The theory is applied exactly as described without difficulty.", "correct": false, "feedback": "原文明确说实践比理论复杂。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I agree with the speaker, but the evidence mentioned in the lecture does not fully support it.",
+      "lineCn": "我同意主讲人的观点,但讲座中提到的证据并不能完全支持它。",
+      "grammar": [
+        { "name": "指代与省略的辨析", "note": "it 指代前文的观点/理论;mentioned in the lecture 是过去分词短语作定语,注意抓指代对象。" }
+      ],
+      "options": [
+        { "text": "The student thinks the lecture evidence is not strong enough.", "correct": true, "feedback": "学生认为讲座中提到的证据支持不够充分。" },
+        { "text": "The student completely disagrees with the lecture.", "correct": false, "feedback": "学生表示同意主讲人,只是证据不足。" },
+        { "text": "The student thinks more evidence is unnecessary.", "correct": false, "feedback": "学生指出证据不足,并非认为证据可有可无。" }
+      ]
+    }
+  ]
+}

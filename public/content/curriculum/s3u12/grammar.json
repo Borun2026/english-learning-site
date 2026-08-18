@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u12",
+  "stage": 3,
+  "title": "限定词与数量词",
+  "explanation": "## 限定词与数量词:名词前的\"限定\"艺术\n\n限定词(determiner)用来限定名词的范围,数量词表达\"多少\"。二者决定名词前能不能加 a/an、用不用复数。\n\n## 三类基本限定词\n\n1. **冠词**:a/an(一个), the(特指)。\n2. **物主/指示**:my, your, his... this, that, these, those。\n3. **数量词**:some, any, many, much, few, little, several, enough。\n\n## 可数 vs 不可数\n\n- many + 可数复数 / much + 不可数:I have many books, but not much time。\n- a few(几个,肯定)/ few(几乎没有,否定)+ 可数;a little(一点)/ little(几乎没有)+ 不可数。\n- some 用于肯定句和邀请请求;any 用于否定和疑问。\n\n## 数量结构\n\n- 大量:a lot of / lots of / plenty of(可数不可数皆可);a large number of + 可数;a large amount of + 不可数。\n- 少量:a bit of + 不可数;a couple of + 可数。\n\n## 语序问题\n\n限定词之间也有顺序:both my parents;all the students;half an hour。易错点:such a beautiful day(a 在 such 后),so beautiful a day(so 后)。",
+  "examples": [
+    { "en": "There is little water in the bottle.", "cn": "瓶子里几乎没水了。", "note": "little + 不可数 water,含否定意味\"几乎没有\"。" },
+    { "en": "A few students have passed the test.", "cn": "有几个学生通过了考试。", "note": "a few + 可数复数,肯定意味\"有几个\"。" },
+    { "en": "I have plenty of time to prepare.", "cn": "我有充足的时间准备。", "note": "plenty of 可修饰可数与不可数名词。" },
+    { "en": "Such an interesting story deserves sharing.", "cn": "这么有趣的故事值得分享。", "note": "such + a/an + 形容词 + 名词的固定语序。" }
+  ],
+  "errors": [
+    { "wrong": "I don't have many money.", "right": "I don't have much money.", "note": "money 不可数,用 much。" },
+    { "wrong": "There are a little books on the shelf.", "right": "There are a few books on the shelf.", "note": "books 可数复数,用 a few。" },
+    { "wrong": "He asked me some questions, but I couldn't answer any of them. (改为否定语气)", "right": "He asked me some questions, and I answered a few of them.", "note": "a few 表肯定\"几个\",few 表否定\"几乎没几个\"。" }
+  ],
+  "quiz": [
+    { "q": "How ___ sugar do you need?", "options": ["many", "much", "few", "little"], "answer": 1, "note": "sugar 不可数,用 much。" },
+    { "q": "___ of the students have passed the exam.", "options": ["Much", "A few", "Little", "A little"], "answer": 1, "note": "students 可数复数,用 a few。" },
+    { "q": "I have ___ time left; I can't help you.", "options": ["a few", "little", "a little", "few"], "answer": 1, "note": "time 不可数 + 否定意味,用 little。" },
+    { "q": "Would you like ___ more tea?", "options": ["some", "any", "many", "few"], "answer": 0, "note": "疑问句中表示邀请/请求时用 some。" },
+    { "q": "It was ___ wonderful day that we stayed out all day.", "options": ["such a", "so a", "such", "a such"], "answer": 0, "note": "such a/an + 形容词 + 名词 + that。" }
+  ]
+}

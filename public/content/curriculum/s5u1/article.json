@@ -1,0 +1,1324 @@
+{
+  "id": "a-s5u1",
+  "stage": 5,
+  "unitId": "s5u1",
+  "title": "The Architecture of Academic Writing",
+  "newWords": [
+    "keystone",
+    "haven",
+    "fallacy",
+    "tutorial",
+    "airing",
+    "synchronise",
+    "numerate",
+    "suppression",
+    "apprehension",
+    "overrate",
+    "introspection",
+    "mediocre",
+    "sporadically",
+    "pretension",
+    "lenient",
+    "moderation",
+    "inventive",
+    "perverse",
+    "rudimentary",
+    "jolt"
+  ],
+  "sentences": [
+    {
+      "text": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+      "translation": "优秀学术写作的关键在于深思熟虑的结构,而研讨室可以成为每个学生自由练习的避风港。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The keystone of good academic writing is deliberate structure",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The keystone of good academic writing"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "deliberate structure"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a seminar room can serve as a haven",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a seminar room"
+            },
+            {
+              "role": "谓语",
+              "text": "can serve"
+            },
+            {
+              "role": "补语",
+              "text": "as a haven"
+            }
+          ]
+        },
+        {
+          "label": "定语从句",
+          "color": "#c8a5e0",
+          "text": "where every student may practise without fear"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "名词短语作主语",
+          "note": "The keystone of good academic writing 是一个以 of 连接的复杂名词短语,作句子的主语,这是学术写作的典型表达。"
+        },
+        {
+          "name": "and 连接并列句",
+          "note": "and 连接两个并列分句,使论述逻辑清晰,是学术写作中常用的并列结构。"
+        },
+        {
+          "name": "where 引导定语从句",
+          "note": "where 引导的定语从句修饰 haven,表示\"在这里学生可以练习\"。",
+          "example": "This is a lab where students can experiment.",
+          "exampleCn": "这是一个学生可以做实验的实验室。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The keystone of good academic writing is deliberate structure",
+          "name": "名词短语作主语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The keystone of good academic writing is deliberate structure",
+          "name": "and 连接并列句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The keystone of good academic writing is deliberate structure",
+          "name": "where 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+          "answer": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+          "note": "The keystone of good academic writing 是一个以 of 连接的复杂名词短语,作句子的主语,这是学术写作的典型表达。",
+          "point": "名词短语作主语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+          "answer": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+          "note": "and 连接两个并列分句,使论述逻辑清晰,是学术写作中常用的并列结构。",
+          "point": "and 连接并列句"
+        }
+      ]
+    },
+    {
+      "text": "A common fallacy in first-year writing is that a long sentence alone can express style, whereas clarity and logic matter far more, a truth that every tutorial can reinforce.",
+      "translation": "一年级写作中常见的谬论是:长句本身就能体现文采,而实际上清晰与逻辑重要得多,这一事实是每次辅导课都应强化的。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "A common fallacy in first-year writing is that a long sentence alone can express style",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A common fallacy in first-year writing"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语从句",
+              "text": "that a long sentence alone can express style"
+            }
+          ]
+        },
+        {
+          "label": "对比连词",
+          "color": "#f6c177",
+          "text": "whereas"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "clarity and logic matter far more",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "clarity and logic"
+            },
+            {
+              "role": "谓语",
+              "text": "matter"
+            },
+            {
+              "role": "程度状语",
+              "text": "far more"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a truth that every tutorial can reinforce"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "表语从句",
+          "note": "is 后面的 that 从句作表语,说明主语的内容,是学术写作中下定义、表观点的重要句式。",
+          "example": "The main idea is that practice matters.",
+          "exampleCn": "主要观点是练习很重要。"
+        },
+        {
+          "name": "whereas 表示对比",
+          "note": "whereas 引导对比关系,相当于\"而\",用于论证中对比两种观点。"
+        },
+        {
+          "name": "同位语作补充",
+          "note": "a truth that every tutorial can reinforce 对前文内容作补充说明,其中 that 引导定语从句修饰 truth。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "A common fallacy in first-year writing is that a long sentence alone can express style",
+          "name": "表语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "A common fallacy in first-year writing is that a long sentence alone can express style",
+          "name": "whereas 表示对比"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "A common fallacy in first-year writing is that a long sentence alone can express style",
+          "name": "同位语作补充"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:主要观点是练习很重要。",
+          "answer": "The main idea is that practice matters.",
+          "note": "is 后面的 that 从句作表语,说明主语的内容,是学术写作中下定义、表观点的重要句式。",
+          "point": "表语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A common fallacy in first-year writing is that a long sentence alone can express style, whereas clarity and logic matter far more, a truth that every tutorial can reinforce.",
+          "answer": "A common fallacy in first-year writing is that a long sentence alone can express style, whereas clarity and logic matter far more, a truth that every tutorial can reinforce.",
+          "note": "whereas 引导对比关系,相当于\"而\",用于论证中对比两种观点。",
+          "point": "whereas 表示对比"
+        }
+      ]
+    },
+    {
+      "text": "Many people acknowledge that an effective introduction should state the context, present a clear thesis, and outline the argument, though a public airing of a rival view can sharpen every part of that plan.",
+      "translation": "许多人承认,有效的引言应当说明背景、提出清晰的论点并勾勒论证,尽管公开讨论对立观点能磨砺方案的每一部分。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "Many people acknowledge",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Many people"
+            },
+            {
+              "role": "谓语",
+              "text": "acknowledge"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that an effective introduction should state the context, present a clear thesis, and outline the argument"
+        },
+        {
+          "label": "让步连词",
+          "color": "#f6c177",
+          "text": "though"
+        },
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "a public airing of a rival view can sharpen every part of that plan"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 引导宾语从句",
+          "note": "acknowledge 后接 that 宾语从句,从句中谓语并列使用 state、present、outline,使论证层次清晰。"
+        },
+        {
+          "name": "并列谓语",
+          "note": "should state..., present..., and outline... 三个并列谓语由逗号和 and 连接,是学术写作列举步骤的常用结构。"
+        },
+        {
+          "name": "though 引导让步状语从句",
+          "note": "though 表示\"尽管\",承认对方观点中有合理之处,使论证更加严密。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that an effective introduction should state the context, present a clear thesis, and outline the argument",
+          "name": "that 引导宾语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that an effective introduction should state the context, present a clear thesis, and outline the argument",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that an effective introduction should state the context, present a clear thesis, and outline the argument",
+          "name": "though 引导让步状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Many people acknowledge that an effective introduction should state the context, present a clear thesis, and outline the argument, though a public airing of a rival view can sharpen every part of that plan.",
+          "answer": "Many people acknowledge that an effective introduction should state the context, present a clear thesis, and outline the argument, though a public airing of a rival view can sharpen every part of that plan.",
+          "note": "acknowledge 后接 that 宾语从句,从句中谓语并列使用 state、present、outline,使论证层次清晰。",
+          "point": "that 引导宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Many people acknowledge that an effective introduction should state the context, present a clear thesis, and outline the argument, though a public airing of a rival view can sharpen every part of that plan.",
+          "answer": "Many people acknowledge that an effective introduction should state the context, present a clear thesis, and outline the argument, though a public airing of a rival view can sharpen every part of that plan.",
+          "note": "should state..., present..., and outline... 三个并列谓语由逗号和 and 连接,是学术写作列举步骤的常用结构。",
+          "point": "并列谓语"
+        }
+      ]
+    },
+    {
+      "text": "During a presentation, a student can learn that academic prose must be precise, neutral, and free from emotional exaggeration, and that a numerate speaker can synchronise a gesture with a key point to add weight to the message.",
+      "translation": "在演讲中,学生可以学到:学术散文必须精确、中立、不带感情夸张,并且擅长数据的人可以把手势与要点同步,为信息增添分量。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "During a presentation"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "a student can learn",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a student"
+            },
+            {
+              "role": "谓语",
+              "text": "can learn"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句一",
+          "color": "#c8a5e0",
+          "text": "that academic prose must be precise, neutral, and free from emotional exaggeration"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "宾语从句二",
+          "color": "#c8a5e0",
+          "text": "that a numerate speaker can synchronise a gesture with a key point to add weight to the message"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作时间状语",
+          "note": "During a presentation 位于句首作时间状语,交代论述的背景。"
+        },
+        {
+          "name": "并列宾语从句",
+          "note": "learn 后接两个 that 宾语从句,用 and 连接,是学术写作中列举多项内容的经典句式。"
+        },
+        {
+          "name": "情态动词 must 表必要性",
+          "note": "must 表示\"必须\",强调学术写作的客观要求,语气强烈而正式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that a numerate speaker can synchronise a gesture with a key point to add weight to the message",
+          "name": "介词短语作时间状语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that a numerate speaker can synchronise a gesture with a key point to add weight to the message",
+          "name": "并列宾语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that a numerate speaker can synchronise a gesture with a key point to add weight to the message",
+          "name": "情态动词 must 表必要性"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):During a presentation, a student can learn that academic prose must be precise, neutral, and free from emotional exaggeration, and that a numerate speaker can synchronise a gesture with a key point to add weight to the message.",
+          "answer": "During a presentation, a student can learn that academic prose must be precise, neutral, and free from emotional exaggeration, and that a numerate speaker can synchronise a gesture with a key point to add weight to the message.",
+          "note": "During a presentation 位于句首作时间状语,交代论述的背景。",
+          "point": "介词短语作时间状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):During a presentation, a student can learn that academic prose must be precise, neutral, and free from emotional exaggeration, and that a numerate speaker can synchronise a gesture with a key point to add weight to the message.",
+          "answer": "During a presentation, a student can learn that academic prose must be precise, neutral, and free from emotional exaggeration, and that a numerate speaker can synchronise a gesture with a key point to add weight to the message.",
+          "note": "learn 后接两个 that 宾语从句,用 and 连接,是学术写作中列举多项内容的经典句式。",
+          "point": "并列宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "For instance, instead of writing that a result is terrible, a numerate scientist can state that the outcome fell short of expectation and keep an objective tone.",
+      "translation": "例如,与其写\"结果很糟糕\",擅长数据的人可以陈述\"结果未达到预期\",从而保持客观的语气。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "For instance"
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "instead of writing"
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a result is terrible"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "a numerate scientist can state",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a numerate scientist"
+            },
+            {
+              "role": "谓语",
+              "text": "can state"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the outcome fell short of expectation"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(谓语并列)",
+          "color": "#a8dab5",
+          "text": "keep an objective tone",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "keep"
+            },
+            {
+              "role": "宾语",
+              "text": "an objective tone"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "instead of + 动名词",
+          "note": "instead of doing 表示\"而不是做某事\",用于对比两种写法,是学术写作中提出替代方案的高频结构。"
+        },
+        {
+          "name": "客观语气与同义改写",
+          "note": "用 fell short of expectation 替代 terrible,体现了学术写作避免主观、夸张用词的策略。"
+        },
+        {
+          "name": "并列谓语",
+          "note": "can state... and keep... 两个并列谓语使句子紧凑,语气平稳。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that the outcome fell short of expectation",
+          "name": "instead of + 动名词"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that the outcome fell short of expectation",
+          "name": "客观语气与同义改写"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "that the outcome fell short of expectation",
+          "name": "并列谓语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For instance, instead of writing that a result is terrible, a numerate scientist can state that the outcome fell short of expectation and keep an objective tone.",
+          "answer": "For instance, instead of writing that a result is terrible, a numerate scientist can state that the outcome fell short of expectation and keep an objective tone.",
+          "note": "instead of doing 表示\"而不是做某事\",用于对比两种写法,是学术写作中提出替代方案的高频结构。",
+          "point": "instead of + 动名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For instance, instead of writing that a result is terrible, a numerate scientist can state that the outcome fell short of expectation and keep an objective tone.",
+          "answer": "For instance, instead of writing that a result is terrible, a numerate scientist can state that the outcome fell short of expectation and keep an objective tone.",
+          "note": "用 fell short of expectation 替代 terrible,体现了学术写作避免主观、夸张用词的策略。",
+          "point": "客观语气与同义改写"
+        }
+      ]
+    },
+    {
+      "text": "The suppression of personal opinion is also essential in the method section, where the data can speak for themselves.",
+      "translation": "在方法部分,压制个人观点同样重要,在那里数据可以自己说话。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The suppression of personal opinion is also essential",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The suppression of personal opinion"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "also essential"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in the method section"
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "where the data can speak for themselves"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "名词化结构",
+          "note": "The suppression of personal opinion 将动词 suppress 名词化,使句子更正式,是学术写作的重要特征。"
+        },
+        {
+          "name": "介词短语作地点状语",
+          "note": "in the method section 交代了论述的具体位置,使表达精确。"
+        },
+        {
+          "name": "where 引导非限定性定语从句",
+          "note": "where 对 method section 作补充说明,非限定性定语从句前有逗号。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The suppression of personal opinion is also essential",
+          "name": "名词化结构"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The suppression of personal opinion is also essential",
+          "name": "介词短语作地点状语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "The suppression of personal opinion is also essential",
+          "name": "where 引导非限定性定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The suppression of personal opinion is also essential in the method section, where the data can speak for themselves.",
+          "answer": "The suppression of personal opinion is also essential in the method section, where the data can speak for themselves.",
+          "note": "The suppression of personal opinion 将动词 suppress 名词化,使句子更正式,是学术写作的重要特征。",
+          "point": "名词化结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The suppression of personal opinion is also essential in the method section, where the data can speak for themselves.",
+          "answer": "The suppression of personal opinion is also essential in the method section, where the data can speak for themselves.",
+          "note": "in the method section 交代了论述的具体位置,使表达精确。",
+          "point": "介词短语作地点状语"
+        }
+      ]
+    },
+    {
+      "text": "It is also advisable to anticipate a question from the audience, since any sign of apprehension can damage the force of the whole argument, yet even a great scholar can overrate his own contribution.",
+      "translation": "预想听众可能提出的问题也是明智的,因为任何紧张的迹象都可能损害整个论证的说服力,然而即使是伟大的学者也可能高估自己的贡献。",
+      "chunks": [
+        {
+          "label": "主干(形式主语)",
+          "color": "#a8dab5",
+          "text": "It is also advisable",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "also advisable"
+            }
+          ]
+        },
+        {
+          "label": "不定式(真正主语)",
+          "color": "#9fd8e8",
+          "text": "to anticipate a question from the audience"
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "since"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "any sign of apprehension can damage the force of the whole argument"
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "even a great scholar can overrate his own contribution",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "even a great scholar"
+            },
+            {
+              "role": "谓语",
+              "text": "can overrate"
+            },
+            {
+              "role": "宾语",
+              "text": "his own contribution"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形式主语 It",
+          "note": "It is advisable to do 中,It 是形式主语,真正主语是后面的不定式,使句子重心后移,表达客观。",
+          "example": "It is necessary to revise the paper.",
+          "exampleCn": "修改论文是必要的。"
+        },
+        {
+          "name": "since 引导原因状语从句",
+          "note": "since 表示\"由于\",引导原因状语从句,语气比 because 更委婉,常用于学术论证。"
+        },
+        {
+          "name": "yet 表示转折",
+          "note": "yet 连接前后两个分句,在承认前文后引出相反观点,使论证更全面。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "any sign of apprehension can damage the force of the whole argument",
+          "name": "形式主语 It"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "any sign of apprehension can damage the force of the whole argument",
+          "name": "since 引导原因状语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "any sign of apprehension can damage the force of the whole argument",
+          "name": "yet 表示转折"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:修改论文是必要的。",
+          "answer": "It is necessary to revise the paper.",
+          "note": "It is advisable to do 中,It 是形式主语,真正主语是后面的不定式,使句子重心后移,表达客观。",
+          "point": "形式主语 It"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is also advisable to anticipate a question from the audience, since any sign of apprehension can damage the force of the whole argument, yet even a great scholar can overrate his own contribution.",
+          "answer": "It is also advisable to anticipate a question from the audience, since any sign of apprehension can damage the force of the whole argument, yet even a great scholar can overrate his own contribution.",
+          "note": "since 表示\"由于\",引导原因状语从句,语气比 because 更委婉,常用于学术论证。",
+          "point": "since 引导原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "Such a habit can change through honest introspection, because reflection on a personal weakness is a reliable path to improvement.",
+      "translation": "这样的习惯可以通过诚实的自省而改变,因为对自身弱点的反思是通向进步的可信赖之路。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "Such a habit can change",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Such a habit"
+            },
+            {
+              "role": "谓语",
+              "text": "can change"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "through honest introspection"
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "reflection on a personal weakness is a reliable path to improvement"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作方式状语",
+          "note": "through honest introspection 表示\"通过诚实的自省\",说明改变的方式。"
+        },
+        {
+          "name": "because 引导原因状语从句",
+          "note": "because 直接给出理由,逻辑关系明确,是学术论证中解释因果的常用连词。"
+        },
+        {
+          "name": "名词短语作主语",
+          "note": "reflection on a personal weakness 整体作从句主语,使句子紧凑正式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "reflection on a personal weakness is a reliable path to improvement",
+          "name": "介词短语作方式状语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "reflection on a personal weakness is a reliable path to improvement",
+          "name": "because 引导原因状语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "reflection on a personal weakness is a reliable path to improvement",
+          "name": "名词短语作主语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Such a habit can change through honest introspection, because reflection on a personal weakness is a reliable path to improvement.",
+          "answer": "Such a habit can change through honest introspection, because reflection on a personal weakness is a reliable path to improvement.",
+          "note": "through honest introspection 表示\"通过诚实的自省\",说明改变的方式。",
+          "point": "介词短语作方式状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Such a habit can change through honest introspection, because reflection on a personal weakness is a reliable path to improvement.",
+          "answer": "Such a habit can change through honest introspection, because reflection on a personal weakness is a reliable path to improvement.",
+          "note": "because 直接给出理由,逻辑关系明确,是学术论证中解释因果的常用连词。",
+          "point": "because 引导原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "A mediocre presentation without original insight can rarely impress an audience, and people who attend a lecture only sporadically may miss the cumulative logic of a course, so a student should practise every week without fail.",
+      "translation": "没有独到见解的平庸演讲很少能打动听众,而那些只是偶尔听课的人可能会错过一门课程的累积逻辑,因此学生应当每周不间断地练习。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A mediocre presentation without original insight can rarely impress an audience",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A mediocre presentation without original insight"
+            },
+            {
+              "role": "谓语",
+              "text": "can rarely impress"
+            },
+            {
+              "role": "宾语",
+              "text": "an audience"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "people who attend a lecture only sporadically may miss the cumulative logic of a course",
+          "parts": [
+            {
+              "role": "主语(含定语从句)",
+              "text": "people who attend a lecture only sporadically"
+            },
+            {
+              "role": "谓语",
+              "text": "may miss"
+            },
+            {
+              "role": "宾语",
+              "text": "the cumulative logic of a course"
+            }
+          ]
+        },
+        {
+          "label": "结果连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干三",
+          "color": "#a8dab5",
+          "text": "a student should practise every week without fail",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a student"
+            },
+            {
+              "role": "谓语",
+              "text": "should practise"
+            },
+            {
+              "role": "时间状语",
+              "text": "every week without fail"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "who 引导定语从句",
+          "note": "who attend a lecture only sporadically 修饰 people,限定主语的范围,使论述准确。"
+        },
+        {
+          "name": "so 表示结果",
+          "note": "so 引出由前面原因导致的结论,是论证中\"因此\"的常用表达。"
+        },
+        {
+          "name": "may 表推测",
+          "note": "may 表示\"可能\",使观点留有分寸,体现学术表达的严谨性。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "people who attend a lecture only sporadically may miss the cumulative logic of a course",
+          "name": "who 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "people who attend a lecture only sporadically may miss the cumulative logic of a course",
+          "name": "so 表示结果"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "people who attend a lecture only sporadically may miss the cumulative logic of a course",
+          "name": "may 表推测"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A mediocre presentation without original insight can rarely impress an audience, and people who attend a lecture only sporadically may miss the cumulative logic of a course, so a student should practise every week without fail.",
+          "answer": "A mediocre presentation without original insight can rarely impress an audience, and people who attend a lecture only sporadically may miss the cumulative logic of a course, so a student should practise every week without fail.",
+          "note": "who attend a lecture only sporadically 修饰 people,限定主语的范围,使论述准确。",
+          "point": "who 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A mediocre presentation without original insight can rarely impress an audience, and people who attend a lecture only sporadically may miss the cumulative logic of a course, so a student should practise every week without fail.",
+          "answer": "A mediocre presentation without original insight can rarely impress an audience, and people who attend a lecture only sporadically may miss the cumulative logic of a course, so a student should practise every week without fail.",
+          "note": "so 引出由前面原因导致的结论,是论证中\"因此\"的常用表达。",
+          "point": "so 表示结果"
+        }
+      ]
+    },
+    {
+      "text": "Good academic prose should also avoid pretension and prefer plain language, while a lenient teacher, by contrast, may accept a vague expression without question and thus fail the student.",
+      "translation": "优秀的学术散文还应避免矫饰,偏好朴素的语言;相比之下,一位宽容的教师可能不加质疑地接受含糊的表达,从而辜负了学生。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "Good academic prose should also avoid pretension and prefer plain language",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Good academic prose"
+            },
+            {
+              "role": "谓语一",
+              "text": "should also avoid"
+            },
+            {
+              "role": "宾语一",
+              "text": "pretension"
+            },
+            {
+              "role": "谓语二",
+              "text": "and prefer"
+            },
+            {
+              "role": "宾语二",
+              "text": "plain language"
+            }
+          ]
+        },
+        {
+          "label": "对比连词",
+          "color": "#f6c177",
+          "text": "while"
+        },
+        {
+          "label": "主干二(主语)",
+          "color": "#a8dab5",
+          "text": "a lenient teacher",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a lenient teacher"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "by contrast"
+        },
+        {
+          "label": "主干二(谓语)",
+          "color": "#a8dab5",
+          "text": "may accept a vague expression without question and thus fail the student",
+          "parts": [
+            {
+              "role": "谓语一",
+              "text": "may accept"
+            },
+            {
+              "role": "宾语一",
+              "text": "a vague expression without question"
+            },
+            {
+              "role": "谓语二",
+              "text": "and thus fail"
+            },
+            {
+              "role": "宾语二",
+              "text": "the student"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "while 表示对比",
+          "note": "while 连接两个对比的分句,强调两种态度之间的对照,是论述中的常用衔接词。"
+        },
+        {
+          "name": "插入语 by contrast",
+          "note": "by contrast 作为插入语,明确提示转折对比,使逻辑线索清晰。"
+        },
+        {
+          "name": "并列谓语结构",
+          "note": "avoid... and prefer... 与 accept... and fail... 均为并列谓语,使句式对称、节奏平稳。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "Good academic prose should also avoid pretension and prefer plain language",
+          "name": "while 表示对比"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "Good academic prose should also avoid pretension and prefer plain language",
+          "name": "插入语 by contrast"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "Good academic prose should also avoid pretension and prefer plain language",
+          "name": "并列谓语结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Good academic prose should also avoid pretension and prefer plain language, while a lenient teacher, by contrast, may accept a vague expression without question and thus fail the student.",
+          "answer": "Good academic prose should also avoid pretension and prefer plain language, while a lenient teacher, by contrast, may accept a vague expression without question and thus fail the student.",
+          "note": "while 连接两个对比的分句,强调两种态度之间的对照,是论述中的常用衔接词。",
+          "point": "while 表示对比"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Good academic prose should also avoid pretension and prefer plain language, while a lenient teacher, by contrast, may accept a vague expression without question and thus fail the student.",
+          "answer": "Good academic prose should also avoid pretension and prefer plain language, while a lenient teacher, by contrast, may accept a vague expression without question and thus fail the student.",
+          "note": "by contrast 作为插入语,明确提示转折对比,使逻辑线索清晰。",
+          "point": "插入语 by contrast"
+        }
+      ]
+    },
+    {
+      "text": "For this reason, moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance, and an inventive example, used with care, can make an abstract theory feel concrete and memorable.",
+      "translation": "因此,语气适度、精心修改与诚实自省可以作为成功学术表现的基本要素,而一个精心使用的创造性例子可以使抽象理论变得具体而难忘。",
+      "chunks": [
+        {
+          "label": "原因状语",
+          "color": "#8ab4f8",
+          "text": "For this reason"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "moderation in tone, careful revision, and honest introspection"
+            },
+            {
+              "role": "谓语",
+              "text": "can serve"
+            },
+            {
+              "role": "补语",
+              "text": "as the essential component of a successful academic performance"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "an inventive example, used with care, can make an abstract theory feel concrete and memorable",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an inventive example"
+            },
+            {
+              "role": "插入语(过去分词)",
+              "text": "used with care"
+            },
+            {
+              "role": "谓语",
+              "text": "can make"
+            },
+            {
+              "role": "宾补结构",
+              "text": "an abstract theory feel concrete and memorable"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "For this reason 表因果衔接",
+          "note": "For this reason 位于句首,总结前文并引出结论,是学术段落收束的常用短语。"
+        },
+        {
+          "name": "过去分词作插入语",
+          "note": "used with care 是过去分词短语,补充说明例子的使用方式,前后用逗号隔开。"
+        },
+        {
+          "name": "使役结构 make + 宾语 + 宾补",
+          "note": "make an abstract theory feel concrete 中,feel 是省略 to 的宾补,表示\"使……变得\"。",
+          "example": "Good examples make ideas clear.",
+          "exampleCn": "好例子使观点清晰。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance",
+          "name": "For this reason 表因果衔接"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance",
+          "name": "过去分词作插入语"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance",
+          "name": "使役结构 make + 宾语 + 宾补"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For this reason, moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance, and an inventive example, used with care, can make an abstract theory feel concrete and memorable.",
+          "answer": "For this reason, moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance, and an inventive example, used with care, can make an abstract theory feel concrete and memorable.",
+          "note": "For this reason 位于句首,总结前文并引出结论,是学术段落收束的常用短语。",
+          "point": "For this reason 表因果衔接"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For this reason, moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance, and an inventive example, used with care, can make an abstract theory feel concrete and memorable.",
+          "answer": "For this reason, moderation in tone, careful revision, and honest introspection can serve as the essential component of a successful academic performance, and an inventive example, used with care, can make an abstract theory feel concrete and memorable.",
+          "note": "used with care 是过去分词短语,补充说明例子的使用方式,前后用逗号隔开。",
+          "point": "过去分词作插入语"
+        }
+      ]
+    },
+    {
+      "text": "If a student can cultivate this habit, he can transform his writing from a rudimentary exercise into a powerful instrument of communication, just as a clear speech can jolt an audience into deep attention; it would be perverse to ignore strong evidence merely because it may contradict a favourite hypothesis.",
+      "translation": "如果学生能培养这一习惯,他就能把自己的写作从初步的练习转化为有力的交流工具,正如清晰的演讲能让听众瞬间专注;仅仅因为证据可能与偏爱的假设相悖就无视它,那是反常的。",
+      "chunks": [
+        {
+          "label": "条件连词",
+          "color": "#f6c177",
+          "text": "If"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#c8a5e0",
+          "text": "a student can cultivate this habit"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "he can transform his writing from a rudimentary exercise into a powerful instrument of communication",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "can transform"
+            },
+            {
+              "role": "宾语",
+              "text": "his writing"
+            },
+            {
+              "role": "状语",
+              "text": "from a rudimentary exercise into a powerful instrument of communication"
+            }
+          ]
+        },
+        {
+          "label": "方式连词",
+          "color": "#f6c177",
+          "text": "just as"
+        },
+        {
+          "label": "方式状语从句",
+          "color": "#c8a5e0",
+          "text": "a clear speech can jolt an audience into deep attention"
+        },
+        {
+          "label": "主干二(形式主语)",
+          "color": "#a8dab5",
+          "text": "it would be perverse to ignore strong evidence",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "would be"
+            },
+            {
+              "role": "表语",
+              "text": "perverse"
+            },
+            {
+              "role": "不定式(真正主语)",
+              "text": "to ignore strong evidence"
+            }
+          ]
+        },
+        {
+          "label": "程度状语",
+          "color": "#8ab4f8",
+          "text": "merely"
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "it may contradict a favourite hypothesis"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "if 提出假设条件,主句给出结果,是学术写作中推理的典型结构。"
+        },
+        {
+          "name": "just as 引导方式状语从句",
+          "note": "just as 表示\"正如\",用类比加强论证的说服力。"
+        },
+        {
+          "name": "形式主语 it 与不定式",
+          "note": "it would be perverse to ignore 中,it 是形式主语,真正主语是不定式,使评述客观正式。"
+        },
+        {
+          "name": "because 引导原因状语从句",
+          "note": "merely because 强调\"仅仅因为\",指出理由的片面性,强化批判语气。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "he can transform his writing from a rudimentary exercise into a powerful instrument of communication",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "he can transform his writing from a rudimentary exercise into a powerful instrument of communication",
+          "name": "just as 引导方式状语从句"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "he can transform his writing from a rudimentary exercise into a powerful instrument of communication",
+          "name": "形式主语 it 与不定式"
+        },
+        {
+          "grammarId": "g-s5u1",
+          "phrase": "he can transform his writing from a rudimentary exercise into a powerful instrument of communication",
+          "name": "because 引导原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If a student can cultivate this habit, he can transform his writing from a rudimentary exercise into a powerful instrument of communication, just as a clear speech can jolt an audience into deep attention; it would be perverse to ignore strong evidence merely because it may contradict a favourite hypothesis.",
+          "answer": "If a student can cultivate this habit, he can transform his writing from a rudimentary exercise into a powerful instrument of communication, just as a clear speech can jolt an audience into deep attention; it would be perverse to ignore strong evidence merely because it may contradict a favourite hypothesis.",
+          "note": "if 提出假设条件,主句给出结果,是学术写作中推理的典型结构。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If a student can cultivate this habit, he can transform his writing from a rudimentary exercise into a powerful instrument of communication, just as a clear speech can jolt an audience into deep attention; it would be perverse to ignore strong evidence merely because it may contradict a favourite hypothesis.",
+          "answer": "If a student can cultivate this habit, he can transform his writing from a rudimentary exercise into a powerful instrument of communication, just as a clear speech can jolt an audience into deep attention; it would be perverse to ignore strong evidence merely because it may contradict a favourite hypothesis.",
+          "note": "just as 表示\"正如\",用类比加强论证的说服力。",
+          "point": "just as 引导方式状语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u1",
+      "name": "名词短语作主语",
+      "note": "The keystone of good academic writing 是一个以 of 连接的复杂名词短语,作句子的主语,这是学术写作的典型表达。",
+      "sourceExample": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+      "sourceExampleCn": "优秀学术写作的关键在于深思熟虑的结构,而研讨室可以成为每个学生自由练习的避风港。"
+    },
+    {
+      "grammarId": "g-s5u1",
+      "name": "and 连接并列句",
+      "note": "and 连接两个并列分句,使论述逻辑清晰,是学术写作中常用的并列结构。",
+      "sourceExample": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+      "sourceExampleCn": "优秀学术写作的关键在于深思熟虑的结构,而研讨室可以成为每个学生自由练习的避风港。"
+    },
+    {
+      "grammarId": "g-s5u1",
+      "name": "where 引导定语从句",
+      "note": "where 引导的定语从句修饰 haven,表示\"在这里学生可以练习\"。",
+      "sourceExample": "The keystone of good academic writing is deliberate structure, and a seminar room can serve as a haven where every student may practise without fear.",
+      "sourceExampleCn": "优秀学术写作的关键在于深思熟虑的结构,而研讨室可以成为每个学生自由练习的避风港。"
+    },
+    {
+      "grammarId": "g-s5u1",
+      "name": "表语从句",
+      "note": "is 后面的 that 从句作表语,说明主语的内容,是学术写作中下定义、表观点的重要句式。",
+      "sourceExample": "A common fallacy in first-year writing is that a long sentence alone can express style, whereas clarity and logic matter far more, a truth that every tutorial can reinforce.",
+      "sourceExampleCn": "一年级写作中常见的谬论是:长句本身就能体现文采,而实际上清晰与逻辑重要得多,这一事实是每次辅导课都应强化的。"
+    },
+    {
+      "grammarId": "g-s5u1",
+      "name": "whereas 表示对比",
+      "note": "whereas 引导对比关系,相当于\"而\",用于论证中对比两种观点。",
+      "sourceExample": "A common fallacy in first-year writing is that a long sentence alone can express style, whereas clarity and logic matter far more, a truth that every tutorial can reinforce.",
+      "sourceExampleCn": "一年级写作中常见的谬论是:长句本身就能体现文采,而实际上清晰与逻辑重要得多,这一事实是每次辅导课都应强化的。"
+    }
+  ]
+}

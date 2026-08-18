@@ -1,0 +1,62 @@
+{
+ "id": "cet6-073",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第2套) Passage 1",
+ "title": "Some people in the US have asserted that forgiving student loan debt is one w...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 426,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need. One government proposition is to eliminate $10,000 of debt for `economically distressed' students. Some in US Congress have gone so far as to suggest forgiving up to $50,000 in debt per student borrower, but does forgiving student debt necessarily correlate to helping the economically disadvantaged?",
+  "The answer is no. This policy is just giving money away to universities and the most affluent students in attendance. Federal Reserve data reveals that the highest-income 40 percent of households owe approximately",
+  "due to a combination of factors: students from high-income households are more likely to go to expensive colleges, less likely to receive financial aid, and more likely to have high incomes post-graduation. Plus, the majority of student debt is held by graduate degree earners, who earn approximately 25 percent more than their undergraduate counterparts. Clearly, giving free reign to banks to forgive student debt is a step in the wrong direction.",
+  "Other proposals for broader, long-term student loan plans have some fundamental problems. One idea is to cancel student debt only for undergraduate degrees and for students making less than $125,000.",
+  "This attempts to address the fact that Congress' previously mentioned student loan forgiveness plan largely helps out the wealthy, but is an adverse incentive for universities to keep raising tuition and for students to choose to major in low-earning degree programs. Colleges have no reason to make their programs more affordable if they believe students will just take out more debt. And, students will feel more comfortable making the irresponsible decision to go tens of thousands of dollars in debt to major in impractical or idealistic subjects if they know their loans will be forgiven.",
+  "This is especially concerning given the pandemic has rendered a college education practically worthless. Students are paying tens of thousands of dollars per year to live at home and be lectured on the Internet. Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost?",
+  "In the case of any of these student debt plans, working-class Americans who chose not to or could not afford to go to college will be subsidizing the education of the professional class. Plumbers and retail workers will be paying for the degrees of doctors and lawyers.",
+  "The Us government's effort to help those in debt is commendable but is this really the solution that will help the poor financially recover?"
+ ],
+ "questions": [
+  {
+   "q": "文中 “stimulate” 最接近的意思是?",
+   "options": [
+    "近似， 大约",
+    "刺激，促进",
+    "花费的,昂贵的",
+    "方向"
+   ],
+   "answer": 1,
+   "analysis": "“stimulate” 意为「刺激，促进」。原文语境:Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Do we really want to tell colleges that they can get away with providing below-average service for an ___ cost?",
+   "options": [
+    "outrageous",
+    "especially",
+    "expensive",
+    "worthless"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Do we really want to tell colleges that they can get away with providing below-average service for an outrageous cost?”。空格处应填入 “outrageous”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Some people in the US have asserted that forgiving student loan debt is one w",
+    "While human achievements in mathematics continue to reach new levels of compl",
+    "Human memory is notoriously unreliable",
+    "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Some people in the US have asserted that forgiving student loan debt is one way to stimulate the economy and give assistance to those in need.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

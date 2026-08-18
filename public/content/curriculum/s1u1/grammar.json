@@ -1,0 +1,27 @@
+{
+  "id": "g-s1u1",
+  "grammarId": "g-s1u1",
+  "stage": 1,
+  "cefr": "A1",
+  "title": "基本句型与 be 动词",
+  "refs": ["新概念英语第一册 Lesson 1-2:一般疑问句的构成(be 提前)", "95%英语语法·第1页:英文句子结构分类(简单句/并列句)"],
+  "explanation": "## 英语的基本句型\n\n英语句子由主语(谁/什么)和谓语(做什么/是什么)构成。最常用的三种基本句型:\n\n1. **主系表**:主语 + be动词 + 表语。be 动词(am/is/are)是系动词,后面跟名词或形容词,表示\"是什么/怎么样\"。\n2. **主谓宾**:主语 + 动词 + 宾语。表示\"做了什么\"。\n3. **There be**:There is/are + 名词 + 地点。表示\"某处有某物\"。\n\n## be 动词的三种形式\n\n| 主语 | be 动词 |\n|---|---|\n| I | am |\n| he / she / it / 单数名词 | is |\n| we / you / they / 复数名词 | are |\n\n否定式:在 be 后面加 not,如 is not = isn't。\n疑问式:把 be 提到主语前面,如 Is he a student?",
+  "examples": [
+    { "en": "I am a student.", "cn": "我是一名学生。", "note": "主系表:I 是主语,am 是 be 动词,a student 是表语。" },
+    { "en": "She is very kind.", "cn": "她非常友善。", "note": "表语也可以是形容词 kind。" },
+    { "en": "We are from China.", "cn": "我们来自中国。", "note": "主语是复数 we,be 用 are。" },
+    { "en": "There is a book on the desk.", "cn": "桌上有一本书。", "note": "There be 句型表示\"存在\"。" }
+  ],
+  "errors": [
+    { "wrong": "I is a student.", "right": "I am a student.", "note": "I 永远搭配 am,不能用 is。" },
+    { "wrong": "He are my brother.", "right": "He is my brother.", "note": "第三人称单数用 is,不是 are。" },
+    { "wrong": "There have a book on the desk.", "right": "There is a book on the desk.", "note": "\"有\"要用 There be,不能用 have 直接替换。" }
+  ],
+  "quiz": [
+    { "q": "She ___ my best friend.", "options": ["am", "is", "are", "be"], "answer": 1, "note": "第三人称单数 she 搭配 is。" },
+    { "q": "I ___ a teacher.", "options": ["am", "is", "are", "be"], "answer": 0, "note": "I 永远搭配 am。" },
+    { "q": "They ___ in the classroom.", "options": ["am", "is", "are", "be"], "answer": 2, "note": "复数主语 they 搭配 are。" },
+    { "q": "___ you a doctor?", "options": ["Is", "Am", "Are", "Be"], "answer": 2, "note": "you 搭配 are,疑问句把 are 提前。" },
+    { "q": "There ___ two cats under the tree.", "options": ["am", "is", "are", "be"], "answer": 2, "note": "There be 句型中,复数名词 cats 用 are。" }
+  ]
+}

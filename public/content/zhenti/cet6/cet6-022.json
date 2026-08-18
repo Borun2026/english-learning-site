@@ -1,0 +1,62 @@
+{
+ "id": "cet6-022",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第2套) Passage 2",
+ "title": "Massive rubbish dumps and sprawling landfills constitute one of the more unco...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 451,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Massive rubbish dumps and sprawling landfills constitute one of the more uncomfortable impacts that humans",
+  "have on wildlife. They have led some birds to give up on migration. Instead of flying thousands of miles in search of food, they make the waste sites their winter feeding grounds.",
+  "Researchers in Germany used miniature GPS tags to track the migrations of 70 white storks from different sites across Europe and Asia during the first five months of their lives. While many birds travelled along well-known routes to warmer climates, others stopped short and spent the winter on landfills, feeding on food waste, and the multitudes of insects that thrive on the dumps.",
+  "In the short-term, the birds seem to benefit from overwintering on rubbish dumps. Andrea Flack of the Max Planck Institute found that birds following traditional migration routes were more likely to die than German storks that flew only as far as northern Morocco, and spent the winter there on rubbish dumps. \"For the birds it's a very convenient way to get food. There are huge clusters of organic waste they can feed on,\" said Flack. The meals are not particularly appetising, or even safe. Much of the waste is discarded rotten meat, mixed in with other human debris such as plastic bags and old toys.",
+  "\"It's very risky. The birds can easily eat pieces of plastic or rubber bands and they can die,\" said Flack. \"And we don't know about the long-term consequences. They might eat something toxic and damage their health. We cannot estimate that yet.\"",
+  "The scientists tracked white storks from different colonies in Europe and Africa. The Russian, Greek and Polish storks flew as far as South Africa, while those from Spain, Tunisia and Germany flew only as far as the Sahel.",
+  "Landfill sites on the Iberian peninsula have long attracted local white storks, but all of the Spanish birds tagged in the study flew across the Sahara desert to the western Sahel. Writing in the journal, the scientists describe how the storks from Germany were clearly affected by the presence of waste sites, with four out of six birds that survived for at least five months overwintering on rubbish dumps in northern Morocco, instead of migrating to the Sahel.",
+  "Flack said it was too early to know whether the benefits of plentiful food outweighed the risks of feeding on landfills. But that's not the only uncertainty. Migrating birds affect ecosystems both at home and at their winter destinations, and disrupting the traditional routes could have unexpected side effects. White storks feed on locusts and other insects that can become pests if their numbers get out of hand. \"They provide a useful service,\" said Flack."
+ ],
+ "questions": [
+  {
+   "q": "文中 “damage” 最接近的意思是?",
+   "options": [
+    "野生生物",
+    "半岛",
+    "损害",
+    "特别， 尤其"
+   ],
+   "answer": 2,
+   "analysis": "“damage” 意为「损害」。原文语境:They might eat something toxic and damage their health.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Instead of flying thousands of miles in ___ of food, they make the waste sites their winter feeding grounds.",
+   "options": [
+    "benefit",
+    "constitute",
+    "describe",
+    "search"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Instead of flying thousands of miles in search of food, they make the waste sites their winter feeding grounds.”。空格处应填入 “search”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "Questions 5i to 55 are based on the following passage",
+    "Massive rubbish dumps and sprawling landfills constitute one of the more unco",
+    "Humans are fascinated by the source of their failings and virtues"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Massive rubbish dumps and sprawling landfills constitute one of the more uncomfortable impacts that humans”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

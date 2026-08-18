@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u2",
+  "stage": 5,
+  "unitId": "s5u2",
+  "scene": "硕士论文答辩会",
+  "goal": "顺利通过答辩委员会的提问环节,用同义替换策略清晰作答并获得认可",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "Welcome, Ms. Chen. To begin with, could you summarise the central argument of your thesis in your own words?",
+      "lineCn": "欢迎你,陈同学。首先,你能用自己的话概括一下论文的核心论点吗?",
+      "grammar": [
+        { "name": "In your own words", "note": "答辩经典指令:要求考生用自己的话重述 (paraphrase) 论文要点,考察是否真正理解而非背诵。" }
+      ],
+      "options": [
+        { "text": "Certainly. My thesis argues that community-based language programmes foster retention more effectively than conventional classroom instruction.", "textCn": "当然。我的论文主张:社区型语言项目比传统课堂教学更能有效提高语言保持率。", "feedback": "用 foster、retention 等学术词替换原题表述,重述完整且用词考究。", "next": "n2" },
+        { "text": "My thesis is about language programmes and how they help people remember languages better than classes do.", "textCn": "我的论文讲的是语言项目,以及它们怎么比上课更能帮人记住语言。", "feedback": "意思对,但 remember、help、classes 太口语,答辩需要学术化的同义替换。", "next": "n3" },
+        { "text": "It is basically the same as what I wrote in the abstract, so I do not think I need to say it again.", "textCn": "这和我摘要里写的差不多,我觉得没必要再说一遍。", "feedback": "回避提问显得态度不端,主席明确提醒你必须正面作答。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "答辩委员 Dr. Patel",
+      "line": "Your thesis examines the effect of community programmes on retention. In what sense does your study differ from prior work in this field?",
+      "lineCn": "你的论文考察社区项目对语言保持的影响。你的研究与先前同类研究有何不同?",
+      "grammar": [
+        { "name": "Prior work / previous studies", "note": "同义替换策略之一:用 prior work、earlier research、existing literature 轮换表达“先前研究”,避免重复。" }
+      ],
+      "options": [
+        { "text": "Unlike earlier research, which relied on self-reported data, my study incorporates longitudinal test results spanning eighteen months.", "textCn": "与依赖自我报告数据的早期研究不同,我的研究纳入了长达十八个月的纵向测验数据。", "feedback": "用 unlike 对比加 eighteen months 具体证据,差异化表述清晰有力。", "next": "n4" },
+        { "text": "My study is different because I did something new that nobody did before.", "textCn": "我的研究不同,因为我做了以前没人做过的新东西。", "feedback": "“做了新东西”空泛无据,评委无法判断差异所在,要求你具体说明。", "next": "n5" },
+        { "text": "I am not familiar with prior work, so I cannot really compare my study with theirs.", "textCn": "我对先前研究不熟悉,所以没法真正比较。", "feedback": "答辩前不了解文献综述是致命弱点,委员会无法信任你的研究定位。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "I would encourage you to rephrase the argument more formally, using the academic vocabulary you are expected to command at this level.",
+      "lineCn": "我建议你用更正式的方式重述论点,使用这个层次应掌握的学术词汇。",
+      "grammar": [
+        { "name": "I would encourage you to...", "note": "评委给出建议的委婉句式:would + 动词原形弱化指令感,比 you should 更符合答辩场合。" }
+      ],
+      "options": [
+        { "text": "I appreciate the guidance. To be precise, my thesis contends that community-based programmes outperform conventional instruction in sustaining language acquisition.", "textCn": "感谢指点。准确地说,我的论文主张:社区项目在维持语言习得方面优于传统教学。", "feedback": "用 contends、outperform、sustaining 完成漂亮的同义替换,重新进入正题。", "next": "n4" },
+        { "text": "Okay, so my paper talks about community stuff that makes language stick better than normal teaching.", "textCn": "好吧,我论文就是讲社区那点事儿能让语言记得更牢,比普通教学强。", "feedback": "stuff、stick 等口语词汇再次出现,完全无视学术语体要求。", "next": "fail1" },
+        { "text": "I am afraid I cannot think of a more formal way to say it at the moment.", "textCn": "恐怕我一时想不出更正式的说法。", "feedback": "承认自己无法替换表述,等于暴露词汇和改写能力不足。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "答辩委员 Dr. Ito",
+      "line": "You repeatedly describe your results as \"significant\". Could you specify precisely which findings proved significant, and in what statistical sense?",
+      "lineCn": "你反复把结果描述为“显著”。你能明确说明哪些发现显著,以及是何种统计意义上的显著吗?",
+      "grammar": [
+        { "name": "Specify precisely", "note": "评委追问时常用的精确化要求:specify + 副词 precisely/clearly,迫使考生把模糊用词 (significant) 落到实处。" }
+      ],
+      "options": [
+        { "text": "By significant, I mean statistically significant at the 0.05 level; specifically, the retention gap between the two cohorts proved significant in the second semester.", "textCn": "我所说的显著指 0.05 水平的统计显著;具体而言,两个队列在第二学期的保持差距达到显著水平。", "feedback": "主动澄清 ambiguous 术语并给出具体数据,同义替换的典范回应。", "next": "n6" },
+        { "text": "Significant just means important. My results were important because they showed improvement.", "textCn": "显著就是重要的意思。我的结果很重要,因为它们显示了进步。", "feedback": "把统计术语当日常用语,概念混淆会让委员会质疑你的方法学功底。", "next": "fail2" },
+        { "text": "I should clarify: the term refers to statistical significance, though I concede the effect size is modest.", "textCn": "我应澄清:该词指统计显著性,不过我承认效应量偏小。", "feedback": "定义准确且主动补充效应量信息,体现严谨的自我修正。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "答辩委员 Dr. Patel",
+      "line": "Allow me to rephrase my earlier question: what novel contribution does your study make that earlier investigations have not made?",
+      "lineCn": "请允许我换个说法重述刚才的问题:与早先的研究相比,你的研究做出了什么新的贡献?",
+      "grammar": [
+        { "name": "Allow me to rephrase", "note": "评委示范同义替换的标准句式:先明确告知 rephrase,再换一套词汇重问,考生应学习这种改写习惯。" }
+      ],
+      "options": [
+        { "text": "Thank you for the clarity. The novel contribution lies in linking retention outcomes to learners' community engagement, which earlier studies largely overlooked.", "textCn": "谢谢您说得更清楚。新的贡献在于把保持效果与学习者的社区参与联系起来,而早先研究大多忽视了这一点。", "feedback": "紧扣 novel contribution 作答,overlook 等高级替换词运用到位。", "next": "n4" },
+        { "text": "I still do not understand the question, to be honest.", "textCn": "老实说,我还是没听懂这个问题。", "feedback": "两次追问后仍无法理解,暴露出听力与应变能力不足。", "next": "fail1" },
+        { "text": "The contribution is that I connected retention with engagement, something not examined in depth before.", "textCn": "我的贡献是我把保持和参与联系了起来,这是以前没深入考察过的。", "feedback": "回答基本到位,若再用 linked to、prior to 等词会更正式。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "答辩委员 Dr. Ito",
+      "line": "Turning to practical implications, what recommendations would you draw from your findings for language educators?",
+      "lineCn": "谈到实际意义,你从研究结果中为语言教育者提出了哪些建议?",
+      "grammar": [
+        { "name": "Practical implications", "note": "答辩高频追问点:implications (影响、启示) 与 recommendations (建议) 常成对出现,表述时应区分二者。" }
+      ],
+      "options": [
+        { "text": "One key recommendation is that educators should integrate community-based practice into curricula, as our data indicate it markedly strengthens retention.", "textCn": "一项关键建议是:教育者应将社区实践融入课程,因为数据表明它能显著增强语言保持。", "feedback": "建议具体、因果清晰,把学术发现落到教学实践,符合委员会的期待。", "next": "n7" },
+        { "text": "Teachers should just do more community stuff because it works.", "textCn": "老师就该多做点社区活动,因为有用。", "feedback": "just、stuff、works 高度口语化,且缺乏数据支撑,说服力不足。", "next": "fail2" },
+        { "text": "I would suggest, on the basis of the evidence, that institutions allocate resources towards community-based initiatives rather than extending classroom hours.", "textCn": "基于证据,我建议机构把资源投向社区型项目,而非延长课堂课时。", "feedback": "基于证据的表述 (on the basis of the evidence) 让建议更有分量。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "No research is without limitations. Which weaknesses of your study would you yourself acknowledge?",
+      "lineCn": "任何研究都有局限。你愿意承认自己研究的哪些不足?",
+      "grammar": [
+        { "name": "No research is without limitations", "note": "双重否定句式:not... without... 表示“无不……”,是学术表达中增加深度的替换手段。" }
+      ],
+      "options": [
+        { "text": "I acknowledge that the sample was drawn from a single city, which may limit generalisability; future studies could replicate the design in other regions.", "textCn": "我承认样本取自单一城市,可能限制可推广性;未来研究可在其他地区重复该设计。", "feedback": "坦诚局限并给出对策,是答辩中最加分的一类回答。", "next": "n8" },
+        { "text": "My study has no real weaknesses, since I followed every standard procedure carefully.", "textCn": "我的研究没什么真正的弱点,因为我每一步都严格按标准程序来。", "feedback": "声称毫无缺陷既不可信也缺乏学术反思,委员会印象分大减。", "next": "fail1" },
+        { "text": "A limitation is the relatively brief observation window, though the eighteen-month design partly mitigates this concern.", "textCn": "局限之一是观察窗口较短,不过十八个月的设计在一定程度上缓解了这一担忧。", "feedback": "指出局限并说明缓解措施,平衡得体,展现了成熟的批判性思维。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "Before we conclude, is there anything you would like to add regarding the future directions of your research?",
+      "lineCn": "在结束之前,关于研究未来的方向,你有什么想补充的吗?",
+      "grammar": [
+        { "name": "Future directions", "note": "“未来研究方向”是论文结尾与答辩收尾的高频搭配,常与 extend, explore, investigate 连用。" }
+      ],
+      "options": [
+        { "text": "Yes. I hope to extend the study to rural communities, and to explore how tutor-led mentoring interacts with community-based learning.", "textCn": "有。我希望把研究扩展到农村社区,并探索导师辅导与社区学习之间的交互作用。", "feedback": "方向明确、动词地道 (extend, explore),为研究画上漂亮的省略号。", "next": "success" },
+        { "text": "I guess I will see what happens next, depending on whether I find a job.", "textCn": "我猜接下来看情况吧,取决于我找不找得到工作。", "feedback": "把学术规划说得随意含糊,与答辩的严肃氛围格格不入。", "next": "fail1" },
+        { "text": "I plan to investigate the longitudinal stability of the effects, and to test whether they persist beyond a two-year horizon.", "textCn": "我计划考察这些效应的纵向稳定性,并检验它们在两年之后是否依然持续。", "feedback": "研究规划具体严谨,委员会对你的科研潜力印象深刻。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "The committee is satisfied with your responses. Congratulations, Ms. Chen, your thesis passes with distinction.",
+      "lineCn": "委员会对你的回答很满意。恭喜你,陈同学,你的论文以优秀成绩通过。",
+      "grammar": [
+        { "name": "Pass with distinction", "note": "固定搭配:pass with distinction 表示“以优异成绩通过”,distinction 此处为名词“优异”。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "答辩主席 Prof. Wilson",
+      "line": "Thank you for your presentation. The committee would ask you to revise the thesis in line with the written comments you will receive.",
+      "lineCn": "感谢你的陈述。委员会要求你按照稍后收到的书面意见修改论文。",
+      "grammar": [
+        { "name": "In line with", "note": "介词短语 in line with 表示“与……一致、按照……”,比 following 更书面,是同义替换的好素材。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "答辩委员 Dr. Ito",
+      "line": "I am afraid the committee remains unconvinced on several methodological points. We shall deliberate on the outcome.",
+      "lineCn": "恐怕委员会在几个方法论要点上仍无法信服。我们将对结果进行评议。",
+      "grammar": [
+        { "name": "Remain unconvinced", "note": "remain + 形容词表示“仍然处于某状态”,unconvinced 比 not persuaded 更凝练,典型同义替换。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

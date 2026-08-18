@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u1",
+  "stage": 4,
+  "unitId": "s4u1",
+  "scene": "考研复试自我介绍",
+  "goal": "完成得体的复试自我介绍并给老师留下好印象",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "面试老师 Professor Wang",
+      "line": "Good morning. Please begin by giving a brief self-introduction, covering your academic background and research interests.",
+      "lineCn": "早上好。请先做一个简要的自我介绍,涵盖你的学业背景和研究兴趣。",
+      "grammar": [
+        { "name": "祈使句 + 非谓语结构", "note": "begin by giving... 中 by 后接动名词 giving 作方式状语,这是复试口语中常见的礼貌指令句式,比直接命令式更得体。" }
+      ],
+      "options": [
+        { "text": "Good morning, Professor Wang. I am Li Ming, a senior student majoring in Applied Linguistics at Beijing Normal University. My research interest lies in second language acquisition.", "textCn": "早上好,王教授。我叫李明,是北京师范大学应用语言学专业的大四学生。我的研究兴趣在于二语习得。", "feedback": "结构清晰:问候 + 姓名 + 专业背景 + 研究兴趣,直接回答了老师的全部要求。", "next": "n2" },
+        { "text": "Hello. My name is Li Ming. I come from a small city in China. My father is a teacher and my mother works in a hospital.", "textCn": "你好。我叫李明。我来自中国一个小城市。我爸爸是老师,妈妈在医院工作。", "feedback": "虽然礼貌,但讲家庭琐事偏离了复试要点,复试自我介绍应聚焦学业与研究。", "next": "n3" },
+        { "text": "Hi, I am Li Ming.", "textCn": "嗨,我是李明。", "feedback": "过于简短,既没有介绍专业背景,也没有提及研究兴趣,浪费了展示自己的机会。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "面试老师 Professor Wang",
+      "line": "Impressive. Could you tell me more specifically what attracted you to the field of second language acquisition, which is a rather competitive direction this year?",
+      "lineCn": "不错。你能更具体地说说是什么吸引你选择二语习得这个方向吗?今年这个方向竞争相当激烈。",
+      "grammar": [
+        { "name": "宾语从句嵌套 + 非限定性定语从句", "note": "what attracted you 是宾语从句,后面 which is a rather competitive direction 是非限定性定语从句修饰 field,典型的多层从句嵌套长难句。" }
+      ],
+      "options": [
+        { "text": "What fascinates me most is how learners acquire implicit knowledge through meaningful interaction, and I have been reading Krashen's input hypothesis, which deeply shaped my perspective.", "textCn": "最吸引我的是学习者如何通过有意义的互动获得内隐知识,我一直在读克拉申的输入假说,这深刻影响了我。", "feedback": "结合具体理论展示学术素养,用 which 引导的非限定性定语从句补充说明,展现了扎实的文献基础。", "next": "n4" },
+        { "text": "I think English is very interesting, and my English scores have always been high since primary school.", "textCn": "我觉得英语很有趣,从小英语成绩一直很高。", "feedback": "内容过于笼统且只谈成绩,复试老师更希望听到具体的研究兴趣和学术思考。", "next": "n3" },
+        { "text": "To be honest, I chose this direction because it is easier to get in.", "textCn": "说实话,我选这个方向是因为好考。", "feedback": "动机不当,直接暴露了功利心态,会给老师留下非常差的印象。", "next": "fail1" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "面试老师 Professor Wang",
+      "line": "I see. Perhaps you could also share what relevant research experience you have gained, if any, during your undergraduate years.",
+      "lineCn": "我明白了。也许你还可以分享一下本科期间如果有什么相关的科研经历。",
+      "grammar": [
+        { "name": "插入语 + 条件从句", "note": "if any 是插入语,相当于 if there is any relevant experience,使句子简洁;what 引导宾语从句。这是典型的书面化长句结构。" }
+      ],
+      "options": [
+        { "text": "I participated in a research project on vocabulary acquisition strategies, where I was responsible for data collection and statistical analysis using SPSS.", "textCn": "我参与过一个关于词汇习得策略的研究项目,负责用 SPSS 进行数据收集和统计分析。", "feedback": "用 where 引导的定语从句描述经历,具体且有细节,展现出真实的科研训练。", "next": "n4" },
+        { "text": "I have no research experience, but I promise I will work very hard if I am admitted.", "textCn": "我没有科研经历,但我保证如果被录取会非常努力。", "feedback": "诚实但缺乏竞争力,可以谈谈课程论文或毕业设计来弥补。", "next": "fail2" },
+        { "text": "I have too many experiences to mention one by one.", "textCn": "我经历太多,没法一一列举。", "feedback": "敷衍且自大,老师追问反而会让你陷入被动。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "面试老师 Professor Wang",
+      "line": "Very good. One last question: what do you consider to be your greatest strength when it comes to academic research, and what weakness are you currently working on?",
+      "lineCn": "很好。最后一个问题:就学术研究而言,你认为自己最大的优势是什么?现在又在改进什么弱点?",
+      "grammar": [
+        { "name": "what 引导的表语从句 + when it comes to", "note": "what you consider... 作表语,when it comes to 是固定短语\"当谈到……时\",后接名词或动名词,属于长难句中常见的套语结构。" }
+      ],
+      "options": [
+        { "text": "My greatest strength is perseverance, as evidenced by my year-long preparation for this examination; meanwhile, I am working to improve my public speaking, which I believe will matter in future academic seminars.", "textCn": "我最大的优势是毅力,一年备考可以证明;同时我在改进公开演讲能力,我相信这在未来的学术研讨会上很重要。", "feedback": "优缺点都具体可感,用 as evidenced by 和 which 从句丰富了表达,回答了老师的问题且不显傲慢。", "next": "success" },
+        { "text": "I am perfect in every way, and I have no weaknesses at all.", "textCn": "我各方面都很完美,完全没有弱点。", "feedback": "缺乏自我认知,这种回答会被认为不成熟,老师很难再继续提问。", "next": "fail1" },
+        { "text": "I think my weakness is that I like English too much, which makes me spend all my time on it.", "textCn": "我的缺点是我太喜欢英语了,把所有时间都花在上面。", "feedback": "把优点伪装成缺点的回答过于套路,老师面试过很多考生,这样的答案缺乏真诚。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "面试老师 Professor Wang",
+      "line": "Thank you, Li Ming. Your introduction was well structured and your answers demonstrated genuine academic curiosity. We will contact you soon.",
+      "lineCn": "谢谢你,李明。你的介绍结构清晰,回答也展现了真诚的学术好奇心。我们会尽快联系你。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "面试老师 Professor Wang",
+      "line": "I see. That will be all for your introduction. Please wait outside for the further arrangements.",
+      "lineCn": "我明白了。你的自我介绍部分就到这里,请到外面等待后续安排。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "面试老师 Professor Wang",
+      "line": "Alright, we have noted your situation. The interview panel will discuss your case collectively afterwards.",
+      "lineCn": "好的,你的情况我们记下了。面试组之后会集体讨论。",
+      "end": true,
+      "success": false
+    }
+  }
+}

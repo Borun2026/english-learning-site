@@ -1,0 +1,61 @@
+{
+ "id": "cet6-111",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第2套) Passage 1",
+ "title": "Simulators are most often utilized within industries such as nuclear power, a...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Simulators are most often utilized within industries such as nuclear power, aviation and surgery where failure results in disastrous consequences. To maximize the value from a simulation learning experience, participants should immediately and directly apply their learning to a specific intervention within their organization.",
+  "Most organizations aspire to deploy significant change programs, only to find them nearly impossible to implement. That is largely because successful change requires more than a vision, it requires a workforce that not only doesn't resist change, but embraces it.",
+  "To achieve success, an organization must build a transformation program that will allow change to be rapidly pulled across its departments and throughout its layers. Regardless of the level of senior management commitment, unless key thought leaders at all levels embrace the change, the initiative will wither and die. To create this kind of widespread passion, learning leaders must expose the workforce to what could be, which will enable them to rethink their mental models, enable them to break free from their deep-rooted paradigms and embrace the opportunity to learn.",
+  "Allowing participants to enter a simulated environment provides them with the opportunity to experience alternative realities which can prompt them to rethink their current beliefs.",
+  "Behavioral change is not easy for most adults. Lectures, training programs and workshops can explain the intellectual elements of transformation, but they are seldom effective at getting to the behavioral aspects that lie at the heart of a significant change initiative. Further, under normal working conditions, managers rarely see the full effect of their employee development efforts. As such, an intervention like a simulation can provide the stimulus for change.",
+  "An effective simulation can be better than experience as a learning tool because it accelerates time, compresses space, and unlike reality, is specifically designed to maximize participant learning. Simulations provide an immersive learning experience where skills, processes and knowledge all can be highlighted in a way reality cannot. The ability to explore, experiment and repeatedly apply new knowledge in unlimited, risk-free models is what makes simulation one of the most productive forms of learning.",
+  "Well-designed simulations can enable individuals and groups to develop a deep level of understanding about how their decisions and intuitive responses to business stimuli affect their fellow participants and the organization as a whole. To reap the benefits, however, simulations must feel like reality. At the end of the successful simulation, participants must declare \"this is us.\" If they don't, they will view the experience as a game, which can be difficult to apply on the job, or worse, irrelevant to everyday work tasks. To maximize benefits from simulation, participants should immediately apply the learning from the experience to forge a smooth link between learning and doing."
+ ],
+ "questions": [
+  {
+   "q": "文中 “develop” 最接近的意思是?",
+   "options": [
+    "不可能的， 办不到的",
+    "学习",
+    "发展",
+    "管理"
+   ],
+   "answer": 2,
+   "analysis": "“develop” 意为「发展」。原文语境:Well-designed simulations can enable individuals and groups to develop a deep level of understanding about how their decisions and intuitive responses to business stimuli affect th",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Well-designed simulations can enable individuals and groups to develop a deep level of ___ about how their decisions and intuitive responses to business stimuli affect their fellow participants and the organization as a whole.",
+   "options": [
+    "understanding",
+    "Regardless",
+    "seldom",
+    "largely"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Well-designed simulations can enable individuals and groups to develop a deep level of understanding about how their decisions and intuitive responses to business stimuli affect their fellow participants and the organization as a whole.”。空格处应填入 “understanding”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "America's education system has become less a ladder of opportunity than a str",
+    "Simulators are most often utilized within industries such as nuclear power, a",
+    "Women have historically been paid less",
+    "Selective colleges and universities in the U"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Simulators are most often utilized within industries such as nuclear power, aviation and surgery where failure results in disastrous consequences.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

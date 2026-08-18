@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u9",
+  "stage": 2,
+  "unitId": "s2u9",
+  "title": "真题演练 · 情态动词推测",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 情态动词推测。",
+  "questions": [
+    {
+      "q": "He ___ be at home now. I'm not sure.",
+      "options": [
+        "must",
+        "may",
+        "can't",
+        "shouldn't"
+      ],
+      "answer": 1,
+      "analysis": "不确定的推测用 may。",
+      "point": "g-s2u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "That ___ be Mary. She has gone to London.",
+      "options": [
+        "must",
+        "can't",
+        "may",
+        "might"
+      ],
+      "answer": 1,
+      "analysis": "她已去伦敦,现在不可能是她,用 can't。",
+      "point": "g-s2u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I hear someone knocking. It ___ be Tom.",
+      "options": [
+        "must",
+        "can't",
+        "may",
+        "needn't"
+      ],
+      "answer": 0,
+      "analysis": "听到敲门声,有把握的推测用 must。",
+      "point": "g-s2u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He ___ have finished the work; the light is still on.",
+      "options": [
+        "can't",
+        "may",
+        "must",
+        "might"
+      ],
+      "answer": 0,
+      "analysis": "灯还亮着说明没完成,否定推测用 can't have done。",
+      "point": "g-s2u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"___ I use your phone?\" \"Sure.\"",
+      "options": [
+        "May",
+        "Must",
+        "Need",
+        "Shall"
+      ],
+      "answer": 0,
+      "analysis": "may 用于请求许可,语气礼貌。",
+      "point": "g-s2u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She might can come tomorrow.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She might come tomorrow.。might 后不能再用 can,情态动词不连用。",
+      "point": "g-s2u9",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

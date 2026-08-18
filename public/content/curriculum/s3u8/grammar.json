@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u8",
+  "stage": 3,
+  "title": "分词作状语",
+  "explanation": "## 分词作状语:动作的\"旁白\"\n\n现在分词(doing)与过去分词(done)都可作状语,表达时间、原因、条件、让步、方式、伴随等关系。核心是**判断与主语的逻辑关系**:主动用 doing,被动用 done。\n\n## 现在分词作状语(主动)\n\n- 表时间:Hearing the alarm, he jumped up(听到警报,他跳了起来)。\n- 表原因:Being late, she missed the bus(因为迟到,她错过了公交车)。\n- 表伴随:He walked away, whistling a song(他哼着歌走开了)。\n\n## 过去分词作状语(被动)\n\n- 表条件:Given another chance, he would do better(再给一次机会,他会做得更好)。\n- 表原因:Encouraged by the teacher, he tried again(受到老师鼓励,他又试了一次)。\n- 表时间:Finished, the report was sent to the boss(完成后,报告被送给了老板)。\n\n## 完成式与独立主格\n\n- Having done 强调动作先发生:Having finished dinner, they went out。\n- 独立主格解决主语不一致:Time permitting, we'll stay(名词/代词 + 分词)。\n\n## 三大易错\n\n1. 分词逻辑主语必须与主句主语一致。\n2. 被动关系误用 doing:被鼓励要说 Encouraged,不说 Encouraging。\n3. 表目的不用分词,用 to do。",
+  "examples": [
+    { "en": "Seeing the police, the thief ran away.", "cn": "看到警察,小偷逃跑了。", "note": "现在分词表时间,thief 是 seeing 的逻辑主语。" },
+    { "en": "Surprised by the news, she couldn't speak.", "cn": "被这个消息震惊,她说不出话来。", "note": "过去分词表原因,she 是被震惊的对象。" },
+    { "en": "Having finished the task, he went home.", "cn": "完成任务后,他回家了。", "note": "Having done 强调动作先于主句动作完成。" },
+    { "en": "Weather permitting, we will go boating.", "cn": "如果天气允许,我们就去划船。", "note": "独立主格:名词 weather + 分词 permitting。" }
+  ],
+  "errors": [
+    { "wrong": "Encouraging by his words, she kept going.", "right": "Encouraged by his words, she kept going.", "note": "she 是被鼓励的对象,要用过去分词 Encouraged。" },
+    { "wrong": "Looking from the top, the park is beautiful.", "right": "Looked from the top, the park is beautiful.", "note": "这里逻辑主语是 park,公园是被看的,用 Looked。" },
+    { "wrong": "To see the accident, he called 911.", "right": "Seeing the accident, he called 911.", "note": "表原因/时间用分词,to do 只表目的。" }
+  ],
+  "quiz": [
+    { "q": "___ from the tower, the city looks smaller.", "options": ["Seeing", "Seen", "To see", "See"], "answer": 1, "note": "city 是被看的,用过去分词 Seen。" },
+    { "q": "___ the door, he went into the room.", "options": ["Opened", "Opening", "To open", "Open"], "answer": 1, "note": "he 主动开门,用现在分词 Opening。" },
+    { "q": "___ his homework, he watched TV.", "options": ["Finished", "Finishing", "Having finished", "To finish"], "answer": 2, "note": "先完成作业再看电视,用 Having finished。" },
+    { "q": "The exam ___, the students felt relieved.", "options": ["finishing", "finished", "finish", "to finish"], "answer": 1, "note": "独立主格中 exam 被完成,用过去分词 finished。" },
+    { "q": "___ by the accident, he couldn't drive again.", "options": ["Terrifying", "Terrified", "Terrify", "To terrify"], "answer": 1, "note": "he 被吓到,用过去分词 Terrified。" }
+  ]
+}

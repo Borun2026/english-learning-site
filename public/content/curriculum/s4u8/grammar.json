@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u8",
+  "stage": 4,
+  "title": "考研作文句式",
+  "explanation": "## 考研作文句式:模板的\"高级化\"改造\n\n考研大作文(图画/图表)与小作文(书信/通知)都靠句式得分。**评分标准看句式多样性**,高分关键是把常见表达升级。\n\n## 八大必背句式\n\n1. **引出图画**:As is vividly depicted in the picture, ...\n2. **描述现象**:There is a growing tendency that... / An increasing number of people...\n3. **引出观点**:From my perspective, ... / As far as I am concerned, ...\n4. **举例论证**:Take... as an example; A case in point is...\n5. **强调重要性**:It is of great importance to... / Nothing is more important than...\n6. **表因果**:It is owing to... that... / Consequently, ...\n7. **递进**:What's more / Moreover / Furthermore\n8. **结尾总结**:In conclusion / To sum up / All in all, ...\n\n## 句式升级四招\n\n1. 简单句 → 复合句:用 which/that 从句合并。\n2. 主动 → 被动:It should be noted that...\n3. 加插入语:as we all know, in my view。\n4. 用非谓语开头:Given the importance of..., ...\n\n## 避坑要点\n\n模板痕迹过重会扣分:不要整段背模板,要背句式骨架,填充自己的内容。语法错误最致命:写完必查主谓一致与时态。",
+  "examples": [
+    { "en": "As is vividly depicted in the picture, a student is buried in his books.", "cn": "如图生动所示,一名学生埋头于书本之中。", "note": "图画描述万能开头句。" },
+    { "en": "It is of great significance to protect our environment.", "cn": "保护环境非常重要。", "note": "be of + 抽象名词 = 形容词,高级表达。" },
+    { "en": "Nothing is more valuable than health.", "cn": "没有什么比健康更宝贵。", "note": "Nothing is more... than... 最高级强调句式。" },
+    { "en": "Given the rapid development of technology, online learning is becoming popular.", "cn": "鉴于科技的快速发展,在线学习正变得流行。", "note": "Given + 名词短语作状语,引出背景。" }
+  ],
+  "errors": [
+    { "wrong": "背诵整篇范文,考试直接默写。", "right": "背诵句式骨架,用自己的内容填充。", "note": "整篇照搬会被判模板化低分。" },
+    { "wrong": "This picture show that people like read books.", "right": "This picture shows that people like reading books.", "note": "主谓一致 show→shows,like 后接动名词 reading。" },
+    { "wrong": "In my opinion, I think it is very important and necessary.", "right": "In my opinion, it is of great importance.", "note": "去掉重复表达,用 of + 名词的高级结构。" }
+  ],
+  "quiz": [
+    { "q": "图画作文最佳的开头句式是?", "options": ["As is vividly depicted in the picture", "I want to say", "There is a picture", "Look at me"], "answer": 0, "note": "As is vividly depicted 是标准高分开头。" },
+    { "q": "It is of great ___ to master a second language.", "options": ["important", "importance", "importantly", "importantness"], "answer": 1, "note": "be of + 名词 importance,固定结构。" },
+    { "q": "___ the increasing pressure, students need more rest.", "options": ["Giving", "Given", "Give", "To give"], "answer": 1, "note": "Given + 名词表\"鉴于\"。" },
+    { "q": "下列哪个表达用于举例论证?", "options": ["Take... as an example", "All in all", "As far as I know", "What's more"], "answer": 0, "note": "take...as an example 是举例论证句式。" },
+    { "q": "写作中\"在我看来\"的高级表达是?", "options": ["I think", "In my opinion", "As far as I am concerned", "I feel"], "answer": 2, "note": "As far as I am concerned 更正式,常见于高分作文。" }
+  ]
+}

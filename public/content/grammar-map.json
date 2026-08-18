@@ -1,0 +1,389 @@
+{
+ "version": 1,
+ "nodes": [
+  {
+   "id": "g-s1u1",
+   "name": "基本句型与 be 动词",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u1",
+   "cefr": "A1"
+  },
+  {
+   "id": "g-s1u2",
+   "name": "一般现在时",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u2",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u3",
+   "name": "一般过去时",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u3",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u4",
+   "name": "一般将来时",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u4",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u5",
+   "name": "冠词与名词复数",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u5",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u6",
+   "name": "代词与物主",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u6",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u7",
+   "name": "形容词与副词基础",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u7",
+   "cefr": null
+  },
+  {
+   "id": "g-s1u8",
+   "name": "情态动词入门",
+   "category": "S1 入门",
+   "stage": 1,
+   "unitId": "s1u8",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u1",
+   "name": "进行时(现在/过去进行时)",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u1",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u2",
+   "name": "现在完成时",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u2",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u3",
+   "name": "过去完成时(入门)",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u3",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u4",
+   "name": "不定式 to do",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u4",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u5",
+   "name": "动名词 doing",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u5",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u6",
+   "name": "被动语态",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u6",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u7",
+   "name": "定语从句(who/which/that)",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u7",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u8",
+   "name": "比较级与最高级",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u8",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u9",
+   "name": "情态动词推测(may/might/could)",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u9",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u10",
+   "name": "连词与状语从句(and/but/so/because/although)",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u10",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u11",
+   "name": "will 与 be going to",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u11",
+   "cefr": null
+  },
+  {
+   "id": "g-s2u12",
+   "name": "介词基础",
+   "category": "S2 四级",
+   "stage": 2,
+   "unitId": "s2u12",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u1",
+   "name": "if 条件句",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u1",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u2",
+   "name": "wish 虚拟语气",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u2",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u3",
+   "name": "非谓语作定语",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u3",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u4",
+   "name": "非谓语作状语",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u4",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u5",
+   "name": "名词性从句",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u5",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u6",
+   "name": "倒装句",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u6",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u7",
+   "name": "强调句",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u7",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u8",
+   "name": "分词作状语",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u8",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u9",
+   "name": "时态综合",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u9",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u10",
+   "name": "短语动词",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u10",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u11",
+   "name": "介词进阶",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u11",
+   "cefr": null
+  },
+  {
+   "id": "g-s3u12",
+   "name": "限定词与数量词",
+   "category": "S3 六级",
+   "stage": 3,
+   "unitId": "s3u12",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u1",
+   "name": "长难句拆解法",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u1",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u2",
+   "name": "从句嵌套",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u2",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u3",
+   "name": "非谓语综合与独立主格",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u3",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u4",
+   "name": "省略与指代",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u4",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u5",
+   "name": "英译汉技巧",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u5",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u6",
+   "name": "阅读题型方法论",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u6",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u7",
+   "name": "完形与新题型技巧",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u7",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u8",
+   "name": "考研作文句式",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u8",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u9",
+   "name": "翻译实战",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u9",
+   "cefr": null
+  },
+  {
+   "id": "g-s4u10",
+   "name": "真题长难句精讲",
+   "category": "S4 考研",
+   "stage": 4,
+   "unitId": "s4u10",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u1",
+   "name": "学术写作句式",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u1",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u2",
+   "name": "同义替换策略",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u2",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u3",
+   "name": "图表描述",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u3",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u4",
+   "name": "观点论述框架",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u4",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u5",
+   "name": "学术词汇搭配",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u5",
+   "cefr": null
+  },
+  {
+   "id": "g-s5u6",
+   "name": "口语流利表达",
+   "category": "S5 雅思",
+   "stage": 5,
+   "unitId": "s5u6",
+   "cefr": null
+  }
+ ]
+}

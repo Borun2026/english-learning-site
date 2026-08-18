@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u3",
+  "stage": 5,
+  "title": "图表描述",
+  "explanation": "## 图表描述:Task 1 数据表达全攻略\n\n雅思小作文 Task 1 需要**客观描述数据**,不发表观点。掌握趋势与比较的表达,直接对应 Lexical Resource 和 Grammatical Range。\n\n## 趋势描述词汇\n\n- **上升**:increase, rise, grow, climb, soar;副词:steadily, sharply, gradually。\n- **下降**:decrease, decline, fall, drop, plunge;rapidly, slightly。\n- **平稳**:remain stable, stay constant, level off, plateau。\n- **波动**:fluctuate around, vary。\n\n## 必备句式\n\n1. 开头句:The line graph shows/charts/illustrates the changes in... over a period of...\n2. 描述上升:The number of tourists increased dramatically from 1 million in 2000 to 3 million in 2010。\n3. 描述峰谷:It reached a peak of... in...;It hit the lowest point at...\n4. 对比:While A rose steadily, B remained relatively stable。\n\n## 数据表达要点\n\n- 时态看数据时期:过去数据用过去时,预测用将来时。\n- 用介词 from...to..., by + 幅度:increased by 20%。\n- 描述占比:accounted for, constituted, made up。\n- 概括段:总结主要趋势,不逐点罗列。",
+  "examples": [
+    { "en": "The graph illustrates the changes in mobile phone usage between 2010 and 2020.", "cn": "该图展示了 2010 至 2020 年间手机使用量的变化。", "note": "开头句标准句式:illustrate + changes in + 时间范围。" },
+    { "en": "The number of visitors increased dramatically from 2 million to 5 million.", "cn": "游客数量从 200 万急剧增加到 500 万。", "note": "increase + from...to... 描述变化范围。" },
+    { "en": "The sales reached a peak of 10,000 units in March.", "cn": "三月份销售额达到 10000 台的峰值。", "note": "reach a peak of 描述最高点。" },
+    { "en": "By contrast, the figure for exports remained relatively stable.", "cn": "相比之下,出口数据保持相对稳定。", "note": "by contrast 引出对比,remain stable 描述平稳。" }
+  ],
+  "errors": [
+    { "wrong": "The number increased a lot in 2015.", "right": "The number increased sharply/rapidly in 2015.", "note": "用精确的程度副词替代笼统的 a lot。" },
+    { "wrong": "I think the increase is very good.", "right": "The increase can be attributed to economic growth.", "note": "Task 1 不发表个人观点,客观描述即可。" },
+    { "wrong": "The percentage of students rises 10%.", "right": "The percentage of students rose by 10%.", "note": "用 by + 幅度,并注意时态与数据时期一致。" }
+  ],
+  "quiz": [
+    { "q": "描述\"急剧上升\"的正确表达是?", "options": ["increased dramatically", "increased a little", "decreased sharply", "remained stable"], "answer": 0, "note": "dramatically 修饰上升,表示\"急剧地\"。" },
+    { "q": "\"达到峰值\"的标准表达是?", "options": ["hit the bottom", "reach a peak of", "level off", "drop sharply"], "answer": 1, "note": "reach a peak of 描述最高点。" },
+    { "q": "描述\"保持平稳\"的短语是?", "options": ["soar", "plunge", "remain stable", "fluctuate wildly"], "answer": 2, "note": "remain stable 表示保持稳定。" },
+    { "q": "描述占比\"占 30%\"的正确表达是?", "options": ["made up for 30%", "accounted for 30%", "took 30% to", "cost 30%"], "answer": 1, "note": "account for 表示\"占……比例\"。" },
+    { "q": "Task 1 图表作文的正确立场是?", "options": ["发表个人观点", "客观描述数据", "提建议", "讲故事"], "answer": 1, "note": "小作文只描述数据,不发表个人看法。" }
+  ]
+}

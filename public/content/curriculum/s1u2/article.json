@@ -1,0 +1,686 @@
+{
+  "id": "a-s1u2",
+  "stage": 1,
+  "unitId": "s1u2",
+  "title": "My Everyday Life",
+  "newWords": [
+    "every",
+    "morning",
+    "wash",
+    "face",
+    "hands",
+    "makes",
+    "cooks",
+    "eggs",
+    "friend",
+    "class",
+    "day",
+    "usually",
+    "food",
+    "finish",
+    "homework",
+    "parents",
+    "always",
+    "happy"
+  ],
+  "sentences": [
+    {
+      "text": "Every morning I get up at seven and wash my face and hands.",
+      "translation": "每天早晨我七点起床,然后洗脸洗手。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Every morning"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I get up at seven and wash my face and hands",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "get up"
+            },
+            {
+              "role": "时间状语",
+              "text": "at seven"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "wash"
+            },
+            {
+              "role": "宾语",
+              "text": "my face and hands"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般现在时",
+          "note": "get up 用动词原形,表示每天的习惯动作。一般现在时用来描述经常发生的事。",
+          "example": "I get up at six.",
+          "exampleCn": "我六点起床。"
+        },
+        {
+          "name": "at + 具体时间",
+          "note": "at seven 表示\"在七点\",at 用在具体钟点前。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I get up at seven and wash my face and hands",
+          "name": "一般现在时"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I get up at seven and wash my face and hands",
+          "name": "at + 具体时间"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我六点起床。",
+          "answer": "I get up at six.",
+          "note": "get up 用动词原形,表示每天的习惯动作。一般现在时用来描述经常发生的事。",
+          "point": "一般现在时"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Every morning I get up at seven and wash my face and hands.",
+          "answer": "Every morning I get up at seven and wash my face and hands.",
+          "note": "at seven 表示\"在七点\",at 用在具体钟点前。",
+          "point": "at + 具体时间"
+        }
+      ]
+    },
+    {
+      "text": "My mother makes breakfast, and my father cooks eggs for me.",
+      "translation": "我妈妈做早饭,我爸爸给我煮鸡蛋。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "My mother makes breakfast",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My mother"
+            },
+            {
+              "role": "谓语",
+              "text": "makes"
+            },
+            {
+              "role": "宾语",
+              "text": "breakfast"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "my father cooks eggs for me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "my father"
+            },
+            {
+              "role": "谓语",
+              "text": "cooks"
+            },
+            {
+              "role": "宾语",
+              "text": "eggs"
+            },
+            {
+              "role": "对象状语",
+              "text": "for me"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "第三人称单数",
+          "note": "主语是 my mother、my father 时,动词加 -s:makes、cooks。",
+          "example": "She likes apples.",
+          "exampleCn": "她喜欢苹果。"
+        },
+        {
+          "name": "并列句",
+          "note": "and 连接两个一般现在时的句子,分别说爸爸、妈妈做的事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "my father cooks eggs for me",
+          "name": "第三人称单数"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "my father cooks eggs for me",
+          "name": "并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她喜欢苹果。",
+          "answer": "She likes apples.",
+          "note": "主语是 my mother、my father 时,动词加 -s:makes、cooks。",
+          "point": "第三人称单数"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My mother makes breakfast, and my father cooks eggs for me.",
+          "answer": "My mother makes breakfast, and my father cooks eggs for me.",
+          "note": "and 连接两个一般现在时的句子,分别说爸爸、妈妈做的事。",
+          "point": "并列句"
+        }
+      ]
+    },
+    {
+      "text": "After breakfast I walk to school with my good friend.",
+      "translation": "早饭后我和好朋友一起走路去上学。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "After breakfast"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I walk to school with my good friend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "walk"
+            },
+            {
+              "role": "地点状语",
+              "text": "to school"
+            },
+            {
+              "role": "伴随状语",
+              "text": "with my good friend"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语从句的省略",
+          "note": "After breakfast 是时间状语,放在句首,表示\"早饭之后\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I walk to school with my good friend",
+          "name": "时间状语从句的省略"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After breakfast I walk to school with my good friend.",
+          "answer": "After breakfast I walk to school with my good friend.",
+          "note": "After breakfast 是时间状语,放在句首,表示\"早饭之后\"。",
+          "point": "时间状语从句的省略"
+        }
+      ]
+    },
+    {
+      "text": "We read English and write Chinese in class every day.",
+      "translation": "我们每天在课堂上读英语、写汉字。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We read English and write Chinese",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "read"
+            },
+            {
+              "role": "宾语",
+              "text": "English"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "write"
+            },
+            {
+              "role": "宾语",
+              "text": "Chinese"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in class"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "every day"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般现在时(复数主语)",
+          "note": "主语 we 是复数,动词用原形 read、write,不加 -s。"
+        },
+        {
+          "name": "every day 时间状语",
+          "note": "every day 表示\"每天\",常与一般现在时连用。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "We read English and write Chinese",
+          "name": "一般现在时(复数主语)"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "We read English and write Chinese",
+          "name": "every day 时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We read English and write Chinese in class every day.",
+          "answer": "We read English and write Chinese in class every day.",
+          "note": "主语 we 是复数,动词用原形 read、write,不加 -s。",
+          "point": "一般现在时(复数主语)"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We read English and write Chinese in class every day.",
+          "answer": "We read English and write Chinese in class every day.",
+          "note": "every day 表示\"每天\",常与一般现在时连用。",
+          "point": "every day 时间状语"
+        }
+      ]
+    },
+    {
+      "text": "I usually have lunch at school, and I like the food there very much.",
+      "translation": "我通常在学校吃午饭,我非常喜欢那里的饭菜。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "I usually have lunch at school",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "频率状语",
+              "text": "usually"
+            },
+            {
+              "role": "谓语",
+              "text": "have"
+            },
+            {
+              "role": "宾语",
+              "text": "lunch"
+            },
+            {
+              "role": "地点状语",
+              "text": "at school"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "I like the food there very much",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "like"
+            },
+            {
+              "role": "宾语",
+              "text": "the food"
+            },
+            {
+              "role": "地点状语",
+              "text": "there"
+            },
+            {
+              "role": "程度状语",
+              "text": "very much"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "频率副词",
+          "note": "usually 是频率副词,放在主语后、实义动词前,表示\"通常\"。",
+          "example": "She usually gets up early.",
+          "exampleCn": "她通常早起。"
+        },
+        {
+          "name": "and 连接并列句",
+          "note": "and 连接两个一般现在时的句子,描述两件日常的事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I like the food there very much",
+          "name": "频率副词"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I like the food there very much",
+          "name": "and 连接并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她通常早起。",
+          "answer": "She usually gets up early.",
+          "note": "usually 是频率副词,放在主语后、实义动词前,表示\"通常\"。",
+          "point": "频率副词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I usually have lunch at school, and I like the food there very much.",
+          "answer": "I usually have lunch at school, and I like the food there very much.",
+          "note": "and 连接两个一般现在时的句子,描述两件日常的事。",
+          "point": "and 连接并列句"
+        }
+      ]
+    },
+    {
+      "text": "In the evening I finish my homework, and then I watch TV with my parents.",
+      "translation": "晚上我写完作业,然后和爸爸妈妈一起看电视。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the evening"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "I finish my homework",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "finish"
+            },
+            {
+              "role": "宾语",
+              "text": "my homework"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "then"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "I watch TV with my parents",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "watch"
+            },
+            {
+              "role": "宾语",
+              "text": "TV"
+            },
+            {
+              "role": "伴随状语",
+              "text": "with my parents"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般现在时",
+          "note": "finish、watch 用动词原形,表示每天的习惯性动作。"
+        },
+        {
+          "name": "then 表时间顺序",
+          "note": "then 表示\"然后\",说明事情发生的先后顺序。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I watch TV with my parents",
+          "name": "一般现在时"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I watch TV with my parents",
+          "name": "then 表时间顺序"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the evening I finish my homework, and then I watch TV with my parents.",
+          "answer": "In the evening I finish my homework, and then I watch TV with my parents.",
+          "note": "finish、watch 用动词原形,表示每天的习惯性动作。",
+          "point": "一般现在时"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the evening I finish my homework, and then I watch TV with my parents.",
+          "answer": "In the evening I finish my homework, and then I watch TV with my parents.",
+          "note": "then 表示\"然后\",说明事情发生的先后顺序。",
+          "point": "then 表时间顺序"
+        }
+      ]
+    },
+    {
+      "text": "I go to bed at nine, and I always feel happy in my family.",
+      "translation": "我九点上床睡觉,在家里我总是感到很快乐。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "I go to bed at nine",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "go"
+            },
+            {
+              "role": "地点状语",
+              "text": "to bed"
+            },
+            {
+              "role": "时间状语",
+              "text": "at nine"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "I always feel happy in my family",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "频率状语",
+              "text": "always"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "feel"
+            },
+            {
+              "role": "表语",
+              "text": "happy"
+            },
+            {
+              "role": "地点状语",
+              "text": "in my family"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "频率副词 always",
+          "note": "always 表示\"总是\",放在 feel 等动词前。"
+        },
+        {
+          "name": "feel + 形容词",
+          "note": "feel happy 中 happy 是表语,说明\"感觉怎样\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I always feel happy in my family",
+          "name": "频率副词 always"
+        },
+        {
+          "grammarId": "g-s1u2",
+          "phrase": "I always feel happy in my family",
+          "name": "feel + 形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I go to bed at nine, and I always feel happy in my family.",
+          "answer": "I go to bed at nine, and I always feel happy in my family.",
+          "note": "always 表示\"总是\",放在 feel 等动词前。",
+          "point": "频率副词 always"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I go to bed at nine, and I always feel happy in my family.",
+          "answer": "I go to bed at nine, and I always feel happy in my family.",
+          "note": "feel happy 中 happy 是表语,说明\"感觉怎样\"。",
+          "point": "feel + 形容词"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u2",
+      "name": "一般现在时",
+      "note": "get up 用动词原形,表示每天的习惯动作。一般现在时用来描述经常发生的事。",
+      "sourceExample": "Every morning I get up at seven and wash my face and hands.",
+      "sourceExampleCn": "每天早晨我七点起床,然后洗脸洗手。"
+    },
+    {
+      "grammarId": "g-s1u2",
+      "name": "at + 具体时间",
+      "note": "at seven 表示\"在七点\",at 用在具体钟点前。",
+      "sourceExample": "Every morning I get up at seven and wash my face and hands.",
+      "sourceExampleCn": "每天早晨我七点起床,然后洗脸洗手。"
+    },
+    {
+      "grammarId": "g-s1u2",
+      "name": "第三人称单数",
+      "note": "主语是 my mother、my father 时,动词加 -s:makes、cooks。",
+      "sourceExample": "My mother makes breakfast, and my father cooks eggs for me.",
+      "sourceExampleCn": "我妈妈做早饭,我爸爸给我煮鸡蛋。"
+    },
+    {
+      "grammarId": "g-s1u2",
+      "name": "并列句",
+      "note": "and 连接两个一般现在时的句子,分别说爸爸、妈妈做的事。",
+      "sourceExample": "My mother makes breakfast, and my father cooks eggs for me.",
+      "sourceExampleCn": "我妈妈做早饭,我爸爸给我煮鸡蛋。"
+    },
+    {
+      "grammarId": "g-s1u2",
+      "name": "时间状语从句的省略",
+      "note": "After breakfast 是时间状语,放在句首,表示\"早饭之后\"。",
+      "sourceExample": "After breakfast I walk to school with my good friend.",
+      "sourceExampleCn": "早饭后我和好朋友一起走路去上学。"
+    }
+  ]
+}

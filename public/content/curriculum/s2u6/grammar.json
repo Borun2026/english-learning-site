@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u6",
+  "stage": 2,
+  "title": "被动语态",
+  "explanation": "## 被动语态的构成\n\n**be + 过去分词**(done)\n\n当我们强调动作的承受者,或不关心动作的执行者时,用被动语态。\n\n## 常见时态的被动形式\n\n| 时态 | 被动形式 | 例句 |\n|---|---|---|\n| 一般现在时 | am / is / are + done | The room is cleaned every day. |\n| 一般过去时 | was / were + done | The bridge was built in 2010. |\n| 一般将来时 | will be + done | The work will be finished tomorrow. |\n| 情态动词 | can / must + be + done | It must be done at once. |\n\n## 主动改被动的方法\n\n1. 宾语提前作主语;\n2. 谓语动词变为 be + 过去分词(be 随新主语和时态变化);\n3. 原主语用 by 引出,不必要时可以省略。\n\n注意:**不及物动词**(如 happen、take place、appear)没有被动语态,也不能用被动。",
+  "examples": [
+    { "en": "The room is cleaned every day.", "cn": "房间每天被打扫。", "note": "一般现在时被动,is + 过去分词 cleaned。" },
+    { "en": "The bridge was built in 2010.", "cn": "这座桥建于 2010 年。", "note": "一般过去时被动,was + 过去分词 built。" },
+    { "en": "English is spoken all over the world.", "cn": "全世界都说英语。", "note": "不强调施动者时用被动语态。" },
+    { "en": "The work will be finished tomorrow.", "cn": "这项工作明天将完成。", "note": "一般将来时被动,will be + 过去分词。" }
+  ],
+  "errors": [
+    { "wrong": "The window was broke yesterday.", "right": "The window was broken yesterday.", "note": "被动语态用过去分词 broken。" },
+    { "wrong": "The book was wrote by him.", "right": "The book was written by him.", "note": "write 的过去分词是 written,不是 wrote。" },
+    { "wrong": "The meeting was happened yesterday.", "right": "The meeting happened yesterday.", "note": "happen 是不及物动词,没有被动语态。" }
+  ],
+  "quiz": [
+    { "q": "Rice ___ in the south of China.", "options": ["grows", "is grown", "grew", "is growing"], "answer": 1, "note": "水稻是被种植,一般现在时被动 is grown。" },
+    { "q": "The letters ___ yesterday afternoon.", "options": ["are posted", "were posted", "posted", "is posted"], "answer": 1, "note": "过去时间用一般过去时被动 were posted。" },
+    { "q": "This song ___ by many people.", "options": ["is loved", "loves", "loved", "loving"], "answer": 0, "note": "歌是被喜欢,被动 is loved。" },
+    { "q": "The trees must ___ in spring.", "options": ["water", "be watered", "watering", "watered"], "answer": 1, "note": "情态动词被动是 must be + 过去分词。" },
+    { "q": "A new library ___ here next year.", "options": ["builds", "is built", "will be built", "built"], "answer": 2, "note": "明年将被建,一般将来时被动 will be built。" }
+  ]
+}

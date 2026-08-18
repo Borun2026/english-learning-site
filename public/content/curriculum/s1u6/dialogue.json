@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u6",
+  "stage": 1,
+  "unitId": "s1u6",
+  "scene": "介绍家人朋友",
+  "goal": "把家人介绍给新朋友并互相认识",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "新朋友 Lily",
+      "line": "Nice to meet you, Li Hua! Is this your family photo?",
+      "lineCn": "很高兴认识你,李华!这是你的全家福吗?",
+      "grammar": [
+        { "name": "物主代词 my/your/his/her", "note": "物主代词放在名词前表示所属关系,如 your family、my mother,相当于\"……的\"。" }
+      ],
+      "options": [
+        { "text": "Yes, it is! This is my mother, and this is my father.", "textCn": "是的!这是我妈妈,这是我爸爸。", "feedback": "大方确认并开始介绍家人,介绍进行得很顺利。", "next": "n2" },
+        { "text": "Yes. This is mine mother.", "textCn": "是的。这是我妈妈。", "feedback": "mine 是名词性物主代词,不能放在名词前修饰,这里应该用 my mother。", "next": "n3" },
+        { "text": "No, this is not my family.", "textCn": "不,这不是我的家人。", "feedback": "否认照片,拒绝了介绍家人的机会。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "新朋友 Lily",
+      "line": "They look so nice! Who is the boy next to you?",
+      "lineCn": "他们看起来真好!你旁边的男孩是谁?",
+      "grammar": [
+        { "name": "人称代词主格", "note": "作主语用 I、you、he、she、they,如 They look nice、He is my brother,后面接动词原形。" }
+      ],
+      "options": [
+        { "text": "He is my brother. His name is Li Wei, and he is a student too.", "textCn": "他是我弟弟。他叫李伟,他也是学生。", "feedback": "用 he、his 正确介绍了弟弟的名字和身份,信息丰富。", "next": "n4" },
+        { "text": "He is me brother.", "textCn": "他是我兄弟。", "feedback": "宾语代词 me 不能作定语修饰名词,这里应该用物主代词 my。", "next": "n3" },
+        { "text": "I do not know him.", "textCn": "我不认识他。", "feedback": "回避问题,对方无法继续了解你的家人。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "新朋友 Lily",
+      "line": "Oh, I see. Can you tell me about your family?",
+      "lineCn": "哦,我明白了。能给我讲讲你的家人吗?",
+      "grammar": [
+        { "name": "指示代词 this/that/these/those", "note": "this 指近处、that 指远处的单数;复数用 these、those,如 These are my grandparents。" }
+      ],
+      "options": [
+        { "text": "Sure! These are my grandparents, and those are my parents.", "textCn": "当然!这些是我爷爷奶奶,那些是我爸爸妈妈。", "feedback": "及时补救,用 these/those 清楚介绍了家人。", "next": "n4" },
+        { "text": "This is my family. It has people.", "textCn": "这是我的家人。里面有人。", "feedback": "信息太少太笼统,等于没介绍。", "next": "fail1" },
+        { "text": "My family is a secret.", "textCn": "我的家人是个秘密。", "feedback": "拒绝介绍家人,朋友只能放弃认识你的家人。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "新朋友 Lily",
+      "line": "Your family sounds lovely! My name is Lily. Can you introduce me to them?",
+      "lineCn": "你的家人听起来真温馨!我叫莉莉。你能把我介绍给他们吗?",
+      "grammar": [
+        { "name": "人称代词宾格", "note": "作宾语用 me、you、him、her、them,如 introduce me to them,与主格 he、she 等相对。" }
+      ],
+      "options": [
+        { "text": "Nice to meet you, Lily! Mom, Dad, this is my new friend Lily. Lily, these are my parents.", "textCn": "很高兴认识你,莉莉!妈妈、爸爸,这是我的新朋友莉莉。莉莉,这是我爸爸妈妈。", "feedback": "把双方互相介绍给对方,礼貌又完整,目标达成!", "next": "success" },
+        { "text": "Yes. Goodbye, Lily.", "textCn": "好的。再见,莉莉。", "feedback": "刚答应又马上告别,没有真正完成介绍。", "next": "fail2" },
+        { "text": "You are you, and I am me.", "textCn": "你是你,我是我。", "feedback": "答非所问,没有进行任何介绍。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "新朋友 Lily",
+      "line": "Hello, everyone! I am so happy to meet your family, Li Hua!",
+      "lineCn": "大家好!很高兴认识你的家人,李华!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "新朋友 Lily",
+      "line": "Alright, maybe I will meet your family another day.",
+      "lineCn": "好吧,也许改天再认识你的家人。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "新朋友 Lily",
+      "line": "Oh... well, nice to meet you anyway.",
+      "lineCn": "哦……好吧,认识你还是很高兴。",
+      "end": true,
+      "success": false
+    }
+  }
+}

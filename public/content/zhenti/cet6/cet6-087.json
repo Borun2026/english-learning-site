@@ -1,0 +1,63 @@
+{
+ "id": "cet6-087",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第1套) Passage 1",
+ "title": "Technology is never a neutral tool for achieving human ends",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 456,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Technology is never a neutral tool for achieving human ends. Technological innovations reshape people as they use these innovations to control their environment. Artificial intelligence, for example, is altering humanity.",
+  "While the term AI conjures up anxieties about killer robots or catastrophic levels of unemployment, there are other, deeper implications. As AI increasingly shapes the human experience, how does this change what it means to be human? Central to the problem is a person's capacity to make choices, particularly judgments that have moral implications.",
+  "Aristotle argued that the capacity for making practical judgments depends on regularly making them -- on habit and practice. We see the emergence of machines as substitute judges in a variety of everyday contexts as a potential threat to people learning how to effectively exercise judgment themselves.",
+  "In the workplace, managers routinely make decisions about who to hire or fire and which loan to approve, to name a few. These are areas where algorithmic prescription is replacing human judgment, and so people who might have had the chance to develop practical judgment in these areas no longer will.",
+  "Recommendation engines, which are increasingly prevalent intermediaries in people's consumption of culture, may serve to constrain choice and minimize luck. By presenting consumers with algorithmically selected choices of what to watch, read, stream and visit next, companies are replacing human taste with machine taste. In one sense, this is helpful. After all, machines can survey a wider range of choices than any individual is likely to have the time or energy to do on their own.",
+  "At the same time, though, this selection is optimizing for what people are likely to prefer based on what they've preferred in the past. We think there is some risk that people's options will be constrained by their past in a new and unanticipated way.",
+  "As machine learning algorithms improve and as they train on more extensive data sets, larger parts of everyday life are likely to become utterly predictable. The predictions are going to get better and better, and they will ultimately make common experiences more efficient and pleasant.",
+  "Algorithms could soon -- if they don't already -- have a better idea about which show you'd like to watch next and which job candidate you should hire than you do. One day, humans may even find a way for machines to make these decisions without some of the biases that humans typically display.",
+  "But to the extent that unpredictability is part of how people understand themselves and part of what people like about themselves, humanity is in the process of losing something significant. As they become more and more predictable, the creatures inhabiting the increasingly AI-mediated world will become less and less like us."
+ ],
+ "questions": [
+  {
+   "q": "文中 “example” 最接近的意思是?",
+   "options": [
+    "不断增加地,日益",
+    "例子，实例",
+    "强迫",
+    "潜在的"
+   ],
+   "answer": 1,
+   "analysis": "“example” 意为「例子，实例」。原文语境:Artificial intelligence, for example, is altering humanity.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Aristotle argued that the capacity for making practical judgments depends on ___ making them -- on habit and practice.",
+   "options": [
+    "predictable",
+    "likely",
+    "regularly",
+    "pleasant"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Aristotle argued that the capacity for making practical judgments depends on regularly making them -- on habit and practice.”。空格处应填入 “regularly”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Technology is never a neutral tool for achieving human ends",
+    "The market for products designed specifically for older adults could reach $3",
+    "\" The dangerous thing about lying is people don't understand how the act chan",
+    "Humans are fascinated by the source of their failings and virtues"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Technology is never a neutral tool for achieving human ends.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

@@ -1,0 +1,59 @@
+{
+ "id": "cet6-079",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第2套) Passage 1",
+ "title": "Since American idol star Taryn Southern started composing music with AI in 20...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 446,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI and modem technology where music production is concerned. Using AI in the creation of music is perceived by some as a helpful tool and by others as almost ccthe beginning of the end\".",
+  "In Taryn's case, AI software enabled her to communicate melodies and chords that she didn't know how to put together herself. The end product was therefore a collaborative effort, rather than a piece entirely produced by technology. Taryn's story has a distinctly positive feel that highlights the advantages of using AI in music production. It can serve as a source of inspiration, and as an ideal jumping-off point should a musician be hit with writer's b/oc .",
+  "Contrary to seeing AI as a tool, some musicians consider it to be hugely detrimental to the music scene. At the moment, because such technology is still so young, the music it's producing is not necessarily what we want to hear. In short, it's not of great quality. Those who have produced their own music, or even fans of authentic, artistic music, will also argue that a computer could never emulate the work (and human touch) of a true musician.",
+  "Music has been an integral part of the story of humans for ages; in fact, the first known piece of music is believed to be around 3,400 years old. Songs have long been used as a means of communicating messages and folk stories, covering everything from societal ethics to world history. Since many people see music as such an inherently human expression, it is often considered as too precious to impart to technology. The thought of a computer generating a \"random\" piece of music that hasn't been painstakingly created by an artist is almost seen as sacrilegious .",
+  "Regardless of which side of the argument you fall on, it seems likely that the use of AI in music production will only become more frequent. Our modem world is preoccupied with technological advancements. Instead of shying away from the idea of this bleak future, the best approach to take is one of optimism and curiosity. While there are always bound to be stubborn old-school musicians who refuse to use tech, music producers should consider AI as something to be embraced. AI music software is still very much in its infancy, but with more investors interested in the development and outcomes of such technology, and considering the rapid growth rate of other tech advances in recent years, it's only a matter of time before Ai-produced music is seen as the new norm."
+ ],
+ "questions": [
+  {
+   "q": "文中 “touch” 最接近的意思是?",
+   "options": [
+    "有帮助的， 有益的， 有用的",
+    "必要地",
+    "理想的事物",
+    "触摸"
+   ],
+   "answer": 3,
+   "analysis": "“touch” 意为「触摸」。原文语境:Those who have produced their own music, or even fans of authentic, artistic music, will also argue that a computer could never emulate the work (and human touch) of a true musicia",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Regardless of which side of the ___ you fall on, it seems likely that the use of AI in music production will only become more frequent.",
+   "options": [
+    "means",
+    "argument",
+    "inspiration",
+    "history"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Regardless of which side of the argument you fall on, it seems likely that the use of AI in music production will only become more frequent.”。空格处应填入 “argument”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "These days, nobody needs to cook",
+    "Perhaps it is time for farmers to put their feet up now that robots are used",
+    "Since American idol star Taryn Southern started composing music with AI in 20",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Since American idol star Taryn Southern started composing music with AI in 2017, musicians all over the world have begun wondering about the implications of AI ”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

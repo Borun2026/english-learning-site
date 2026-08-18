@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u7",
+  "stage": 2,
+  "unitId": "s2u7",
+  "title": "真题演练 · 定语从句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 定语从句。",
+  "questions": [
+    {
+      "q": "The boy ___ is playing football is my brother.",
+      "options": [
+        "which",
+        "who",
+        "whom",
+        "what"
+      ],
+      "answer": 1,
+      "analysis": "指人且在从句中作主语,用 who。",
+      "point": "g-s2u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This is the school ___ I studied two years ago.",
+      "options": [
+        "who",
+        "whom",
+        "which",
+        "when"
+      ],
+      "answer": 2,
+      "analysis": "school 是物,用 which。",
+      "point": "g-s2u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I like the book ___ covers are red.",
+      "options": [
+        "whose",
+        "which",
+        "that",
+        "who"
+      ],
+      "answer": 0,
+      "analysis": "covers 属于 book,表示\"…的\"用 whose。",
+      "point": "g-s2u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The pen ___ I lost is on the desk.",
+      "options": [
+        "who",
+        "which",
+        "whom",
+        "what"
+      ],
+      "answer": 1,
+      "analysis": "pen 是物,作 lost 的宾语,用 which。",
+      "point": "g-s2u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Do you know the man ___ is talking to Tom?",
+      "options": [
+        "which",
+        "whom",
+        "who",
+        "whose"
+      ],
+      "answer": 2,
+      "analysis": "指人且在从句中作主语,用 who。",
+      "point": "g-s2u7",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:The man which is standing there is my teacher.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:The man who is standing there is my teacher.。指人用 who,不用 which。",
+      "point": "g-s2u7",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

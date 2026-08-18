@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u7",
+  "stage": 4,
+  "title": "完形与新题型技巧",
+  "explanation": "## 完形与新题型技巧:逻辑是灵魂\n\n考研完形(20 空)和新题型(段落排序/填空/标题匹配)考察的核心是**篇章逻辑与词汇搭配**。\n\n## 完形填空六大技巧\n\n1. **先通读后作答**:先 2 分钟通读全文抓大意,切忌边读边选。\n2. **逻辑关系词**:however(转折)、therefore(因果)、moreover(递进)、in addition(补充)是命题核心,前后文逻辑决定选项。\n3. **词汇复现**:答案常是前文某词的近义、反义或原词复现。\n4. **固定搭配优先**:如 pay attention to, take pride in, spend...on。\n5. **语法线索**:时态、主谓一致、非谓语形式帮助锁定选项。\n6. **概率均衡**:20 题答案分布较均匀,做完后检查 5 选 1 的分布。\n\n## 新题型三类型\n\n1. **七选五(填句)**:看空格前后句的指代、逻辑、时态衔接;选项首尾词是关键线索。\n2. **段落排序**:找首段特征(引出话题、不含代词指代),再看指代衔接。\n3. **标题匹配(小标题)**:每段首句 + 段内关键词,选高度概括项。\n\n## 时间分配\n\n完形 15 分钟,新题型 15-20 分钟,不要恋战,先易后难。",
+  "examples": [
+    { "en": "He failed the exam, however, he didn't give up.", "cn": "他考试失败了,然而,他并没有放弃。", "note": "however 表转折,前后语气相反。" },
+    { "en": "The weather was bad; therefore, the flight was delayed.", "cn": "天气不好,因此航班延误了。", "note": "therefore 表因果,前因后果。" },
+    { "en": "In addition to English, she can speak French.", "cn": "除了英语,她还会说法语。", "note": "in addition to 表补充,后接名词。" },
+    { "en": "The experiment failed again. Nevertheless, the team remained optimistic.", "cn": "实验再次失败。尽管如此,团队仍然乐观。", "note": "nevertheless 表让步转折,连接正反信息。" }
+  ],
+  "errors": [
+    { "wrong": "完形填空边读边选,节省时间。", "right": "先通读全文把握大意,再回头作答。", "note": "没有整体语境,局部信息容易选错,通读反而更快。" },
+    { "wrong": "七选五只看空格前一句就选。", "right": "结合空格前后句的指代和逻辑线索判断。", "note": "前后句的代词、连词、复现词都是重要线索。" },
+    { "wrong": "新题型排序题先排中间段。", "right": "先找首段(通常引出话题、无指代),再顺藤摸瓜。", "note": "从首段入手,利用指代衔接逐步推进。" }
+  ],
+  "quiz": [
+    { "q": "He is poor, ___ he is happy.", "options": ["therefore", "however", "moreover", "in addition"], "answer": 1, "note": "贫穷与快乐是转折关系,用 however。" },
+    { "q": "The traffic was heavy; ___, we arrived on time.", "options": ["therefore", "nevertheless", "besides", "furthermore"], "answer": 1, "note": "交通拥堵却准时到达,表让步转折,用 nevertheless。" },
+    { "q": "He worked hard and ___, he won the prize.", "options": ["however", "therefore", "but", "yet"], "answer": 1, "note": "努力与获奖是因果关系,用 therefore。" },
+    { "q": "完形填空的最佳作答顺序是?", "options": ["边读边选", "先通读再作答", "只做会的题", "倒着做"], "answer": 1, "note": "先通读把握大意,语境完整才能选对。" },
+    { "q": "段落排序题中,首段通常具有什么特征?", "options": ["含代词指代", "引出话题", "含生僻词", "出现数字"], "answer": 1, "note": "首段引出话题,通常没有指代前文的代词。" }
+  ]
+}

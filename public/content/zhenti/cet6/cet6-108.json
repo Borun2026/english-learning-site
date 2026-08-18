@@ -1,0 +1,62 @@
+{
+ "id": "cet6-108",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第3套) Passage 2",
+ "title": "The other day I had to log into a service I hadn't used before",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 455,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The other day I had to log into a service I hadn't used before. Since I was a new user, the website decided that it needed to check I wasn't a robot and so set me a Captcha test to determine whether the user is a person or a machine.",
+  "I was presented with an image of a roadside scene over which was laid a grid. My \"challenge\" was to click on each cell in the grid that contained a traffic sign. I did so, a bit irritated. Then I was presented with another image and another grid -- also with a request to identify road signs. Like a lamb, I complied, after which the website accepted my input.",
+  "And then I realised what I had been doing was adding to a dataset for training the machine-learning software that guides self-driving cars. So, to gain access to an automated service that will benefit financially from my input, I first have to do some unpaid labor to help improve the performance of autonomous vehicles.",
+  "Neat, eh? But note also the delicious additional irony that the Captcha is described as an \"automated Turing test\". The Turing test was conceived, you may recall, as a way of enabling humans to determine whether a machine could respond in such a way that one couldn't tell whether it was a human or a robot. So we have wandered into a world in which machines make us do tricks to prove that we are humans!",
+  "The strangest aspect of this unparalleled shift is how under-discussed it has been. The metaphor of the boiling frog comes to mind. Have we become so subtly conditioned by digital technology that we don't see what's been",
+  "happening to us? Have we been conditioned to accept a world governed by \"smart\" tech, trading convenience to the point where we become a bit like machines ourselves?",
+  "In a recent startling and thoughtful book, two scholars -- Brett Frischmann, a law professor, and Evan Selinger, a philosopher -- argue that the answer to that question is \"yes\".",
+  "And they're right. There's nothing technophobic about that. We shape our tools and then our tools shape us. Technology is supposed to provide tools that serve human ends. But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours. In the process, they reduce us to the status of cheery rats running on treadmills designed by people who do not have our interests at heart. So back to the frog metaphor. Are we smart enough to jump out before it's too late? You don't even have to Google it to know the answer."
+ ],
+ "questions": [
+  {
+   "q": "文中 “proportion” 最接近的意思是?",
+   "options": [
+    "方法，手段，金钱，财富",
+    "比率，比例",
+    "认出，认为与一致",
+    "足够的"
+   ],
+   "answer": 1,
+   "analysis": "“proportion” 意为「比率，比例」。原文语境:But, as the machine-learning Captcha demonstrates, a significant proportion of digital tech now sees (and uses) humans as means to ends that are not ours.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Then I was presented with another image and another grid -- also with a ___ to identify road signs.",
+   "options": [
+    "metaphor",
+    "input",
+    "request",
+    "proportion"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Then I was presented with another image and another grid -- also with a request to identify road signs.”。空格处应填入 “request”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "The term \"environmentalist\" can mean different things",
+    "Macy's reported its sales plunged 5",
+    "The other day I had to log into a service I hadn't used before",
+    "The Paris climate agreement finalised in December last year heralded a new er"
+   ],
+   "answer": 2,
+   "analysis": "本文以“The other day I had to log into a service I hadn't used before.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

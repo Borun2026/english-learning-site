@@ -1,0 +1,202 @@
+{
+  "id": "d-s3u9",
+  "stage": 3,
+  "unitId": "s3u9",
+  "scene": "复盘项目进度",
+  "goal": "向负责人汇报项目进度并解决延期问题",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "经理 Ms. Wu",
+      "line": "Good afternoon. Let us review the project status. What has your team completed since the last meeting?",
+      "lineCn": "下午好。我们来复盘项目进度。自上次会议以来,你们团队完成了什么?",
+      "grammar": [
+        { "name": "现在完成时", "note": "has completed 强调从过去至今已完成的动作,常用于汇报阶段性成果。" }
+      ],
+      "options": [
+        { "text": "We have finished the market survey and have submitted the report to your office.", "textCn": "我们已完成市场调研,并把报告交到了您办公室。", "feedback": "成果明确,汇报顺利开始。", "next": "n2" },
+        { "text": "We have made little progress, I am afraid, because of staff changes.", "textCn": "恐怕我们进展不大,因为人员变动。", "feedback": "坦承进展缓慢,经理追问。", "next": "n3" },
+        { "text": "We have done everything on schedule, so there is nothing to worry about.", "textCn": "我们一切按计划完成,没什么可担心的。", "feedback": "过于乐观,经理会核实。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "经理 Ms. Wu",
+      "line": "Impressive. According to the plan, you should have delivered the prototype by now. Have you?",
+      "lineCn": "不错。按计划,你们本应已交付原型。交付了吗?",
+      "grammar": [
+        { "name": "should have done 完成式情态", "note": "should have delivered 表示\"本应完成而可能未完成\",委婉表达期望与事实的落差。" }
+      ],
+      "options": [
+        { "text": "Not yet, but we have been debugging it and will have completed it by Friday.", "textCn": "还没有,但我们一直在调试,周五前会完成。", "feedback": "如实说明并给出承诺时限。", "next": "n4" },
+        { "text": "We have not, because we had underestimated the hardware cost.", "textCn": "没有,因为我们当初低估了硬件成本。", "feedback": "坦承原因,经理深究。", "next": "n4" },
+        { "text": "We have finished the prototype, but it had failed several tests before we fixed it.", "textCn": "原型已完成,但在修复前它失败了好几次测试。", "feedback": "汇报曲折过程,信息完整。", "next": "n4b" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "经理 Ms. Wu",
+      "line": "I see. Had you foreseen these difficulties when we drafted the schedule?",
+      "lineCn": "我明白了。我们当初制定日程时,你们预见到这些困难了吗?",
+      "grammar": [
+        { "name": "过去完成时疑问", "note": "Had you foreseen 用过去完成时询问在制定日程之前是否已预见,追本溯源。" }
+      ],
+      "options": [
+        { "text": "Honestly, we had not expected the server to break down twice this month.", "textCn": "老实说,我们没想到服务器这个月会坏两次。", "feedback": "说明客观原因,经理理解。", "next": "n5" },
+        { "text": "We had anticipated some delays, but never on this scale.", "textCn": "我们预想过一些延误,但从没想过这么严重。", "feedback": "坦诚对比预期与现实。", "next": "n5" },
+        { "text": "We had planned everything carefully; the problems simply appeared out of nowhere.", "textCn": "我们当初计划得很仔细,问题就是凭空出现的。", "feedback": "归因于意外,经理继续追问。", "next": "n5" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "经理 Ms. Wu",
+      "line": "Friday is only three days away. Will you have finished the entire testing by then?",
+      "lineCn": "离周五只有三天了。到那时你们能完成全部测试吗?",
+      "grammar": [
+        { "name": "将来完成时", "note": "Will you have finished 表示到将来某一时刻(by then)已经完成,用于核查时限。" }
+      ],
+      "options": [
+        { "text": "Yes. We will have run all the tests by Thursday evening, leaving one day for fixes.", "textCn": "能。我们周四晚前会跑完所有测试,留一天修问题。", "feedback": "给出明确时间表,经理放心。", "next": "n4b" },
+        { "text": "I cannot promise that. We had planned to finish today, but the network has been unstable.", "textCn": "我不敢保证。我们原本计划今天完成,但网络一直不稳定。", "feedback": "说明变故,经理继续深究。", "next": "n6" },
+        { "text": "We will have finished if nothing else goes wrong, but I am not fully confident.", "textCn": "如果不再出岔子就能完成,但我不是完全有信心。", "feedback": "表达不确定性,被追问。", "next": "n4b" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "经理 Ms. Wu",
+      "line": "Good. Now, tell me about the budget. Have you spent what we had allocated?",
+      "lineCn": "好。现在说说预算。你们花完我们当初划拨的款项了吗?",
+      "grammar": [
+        { "name": "过去完成时(已拨款项)", "note": "we had allocated 用过去完成时,表示拨款发生在花费之前,体现时间层次。" }
+      ],
+      "options": [
+        { "text": "We have used about eighty percent, and we will have the rest under control.", "textCn": "我们已用了约八成,其余部分会控制好。", "feedback": "预算可控,经理满意。", "next": "n6" },
+        { "text": "We have exceeded the budget by ten percent, but the extra cost has been unavoidable.", "textCn": "我们超支了百分之十,但超出的费用不可避免。", "feedback": "坦承超支,经理追问细节。", "next": "n6" },
+        { "text": "I have no idea about the numbers. The accountant has been handling them.", "textCn": "我不清楚数字。一直是会计在管账。", "feedback": "一问三不知,经理不满。", "next": "n8" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "经理 Ms. Wu",
+      "line": "Misfortunes happen. The key is how your team has responded to them so far.",
+      "lineCn": "意外在所难免。关键看你们团队迄今如何应对。",
+      "grammar": [
+        { "name": "现在完成时(应对)", "note": "has responded 强调从问题发生至今的应对动作及其积累效果。" }
+      ],
+      "options": [
+        { "text": "We have reorganised the team and have added two engineers since last week.", "textCn": "我们重组了团队,自上星期起新增了两名工程师。", "feedback": "行动果断,经理认可。", "next": "n7" },
+        { "text": "We have been working overtime for two weeks straight.", "textCn": "我们已经连续加班两周了。", "feedback": "表达辛苦,经理体谅。", "next": "n7" },
+        { "text": "We have complained a lot, but have taken little action, I admit.", "textCn": "我们抱怨很多,但行动很少,我承认。", "feedback": "缺乏行动,经理批评。", "next": "n8" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "经理 Ms. Wu",
+      "line": "Then we have a deadline conflict. What had your team done by yesterday to solve the network problem?",
+      "lineCn": "那我们就面临期限冲突。到昨天为止,你们团队为解决网络问题做了什么?",
+      "grammar": [
+        { "name": "过去完成时(截至昨日)", "note": "What had your team done by yesterday 用过去完成时,限定\"到昨天\"的时间节点。" }
+      ],
+      "options": [
+        { "text": "We had switched to a backup server by yesterday morning.", "textCn": "到昨天早上,我们已经切换到备用服务器。", "feedback": "应对及时,方案明确。", "next": "n6b" },
+        { "text": "We had consulted an external specialist, whose advice we are following.", "textCn": "我们咨询了外部专家,正在按他的建议执行。", "feedback": "借力外援,处理得当。", "next": "n6b" },
+        { "text": "We had done nothing yet, hoping the issue would resolve itself.", "textCn": "我们什么都没做,指望问题自行消失。", "feedback": "消极等待,经理严厉批评。", "next": "n8" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "经理 Ms. Wu",
+      "line": "Understood. And how many defects have been reported by the testing team so far?",
+      "lineCn": "明白了。迄今测试团队报告了多少缺陷?",
+      "grammar": [
+        { "name": "现在完成时被动语态", "note": "have been reported 用被动语态,强调缺陷被报告这一事实,不带个人色彩。" }
+      ],
+      "options": [
+        { "text": "Fifteen defects have been reported, and we have already fixed twelve of them.", "textCn": "已报告十五个缺陷,我们已修复其中十二个。", "feedback": "修复率高,进度透明。", "next": "n7" },
+        { "text": "We have not counted them yet, but we will have a full list by tomorrow.", "textCn": "还没统计,但明天前会有完整清单。", "feedback": "稍显滞后,给出承诺。", "next": "n7" },
+        { "text": "Too many to count. The testers have been reporting new ones every day.", "textCn": "多到数不清。测试人员每天都在报告新的。", "feedback": "问题频发,经理担忧。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "经理 Ms. Wu",
+      "line": "All right. Looking at the overall picture, has your team delivered every milestone on time so far?",
+      "lineCn": "好。纵观全局,你们团队迄今是否按时交付了每个里程碑?",
+      "grammar": [
+        { "name": "现在完成时(里程碑)", "note": "has delivered 强调从项目开始至今的交付情况,结合 on time so far 限定范围。" }
+      ],
+      "options": [
+        { "text": "We had met every milestone until last week, when the server failed.", "textCn": "到上周服务器出故障前,我们每个里程碑都达标了。", "feedback": "说明过往业绩与转折点。", "next": "n7b" },
+        { "text": "We have missed two milestones so far, and we will have caught up by the end of the month.", "textCn": "至今错过两个里程碑,但月底前会追回来。", "feedback": "坦承缺口并给出补救计划。", "next": "n7b" },
+        { "text": "Honestly, we have not tracked the milestones carefully.", "textCn": "老实说,我们没有认真跟踪里程碑。", "feedback": "管理缺位,经理严肃批评。", "next": "n8" }
+      ]
+    },
+    "n7b": {
+      "id": "n7b",
+      "speaker": "经理 Ms. Wu",
+      "line": "Your efforts are noted. Still, the client has been calling every day. Have you informed them of the delay?",
+      "lineCn": "你们的努力我记下了。不过,客户每天都来电话。你们通知他们延期的事了吗?",
+      "grammar": [
+        { "name": "现在完成进行时", "note": "has been calling 强调\"不断来电\"这一持续进行的动作,传达客户的焦灼。" }
+      ],
+      "options": [
+        { "text": "Yes, we have explained the situation, and they have agreed to extend the deadline by a week.", "textCn": "是的,我们已解释情况,客户同意延期一周。", "feedback": "沟通到位,危机化解。", "next": "n9" },
+        { "text": "We have not told them yet, because we had hoped to finish before they noticed.", "textCn": "还没通知,因为我们本指望在他们发现前完成。", "feedback": "拖延告知,经理批评。", "next": "n9" },
+        { "text": "We will have told them by tomorrow. We are preparing a formal explanation now.", "textCn": "明天前会通知他们。我们正在准备正式说明。", "feedback": "计划告知,略有滞后。", "next": "n9" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "经理 Ms. Wu",
+      "line": "Passive waiting is unacceptable. Had your team taken action earlier, we would not be in this mess.",
+      "lineCn": "消极等待不可接受。如果你们团队早点行动,我们就不至于陷入这种困境。",
+      "grammar": [
+        { "name": "过去完成时+虚拟语气", "note": "Had your team taken action earlier 为虚拟条件句的倒装形式,表示与过去事实相反。" }
+      ],
+      "options": [
+        { "text": "You are right. Had we acted sooner, we would have avoided most of this delay.", "textCn": "您说得对。如果我们早点行动,大部分延误都能避免。", "feedback": "诚恳认错,决心补救。", "next": "n9" },
+        { "text": "I take full responsibility. Had I urged my team harder, we would have caught up.", "textCn": "我负全责。如果我当时逼团队更紧,我们早就赶上了。", "feedback": "勇于担责,经理缓和。", "next": "n9" },
+        { "text": "It was not our fault. Had the client approved the budget earlier, everything would have been fine.", "textCn": "不是我们的错。如果客户早点批准预算,一切都会顺利。", "feedback": "推卸责任,经理彻底失望。", "next": "fail2" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "经理 Ms. Wu",
+      "line": "Very well. Let me confirm the new milestones. By the end of next month, the project will have been completed, right?",
+      "lineCn": "很好。让我确认新里程碑。到下月底,项目将已完成,对吗?",
+      "grammar": [
+        { "name": "将来完成时被动语态", "note": "will have been completed 表示到将来某时点将被完成,被动语态突出项目本身。" }
+      ],
+      "options": [
+        { "text": "Yes. We will have delivered everything by the end of next month, and I will confirm it in writing.", "textCn": "是的。下月底前我们将交付全部内容,我会书面确认。", "feedback": "书面承诺,经理满意。", "next": "success" },
+        { "text": "We will have finished the core functions by then; the final polish may take a little longer.", "textCn": "届时核心功能将完成,最后的打磨可能要久一点。", "feedback": "如实说明,经理接受。", "next": "success" },
+        { "text": "I will have to check with the team first, but I will give you an answer tomorrow.", "textCn": "我得先和团队确认,明天给您答复。", "feedback": "无法当场承诺,经理不满。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "经理 Ms. Wu",
+      "line": "Then we are aligned. I will report the new schedule to the board today. Do not disappoint me.",
+      "lineCn": "那我们达成一致。我今天就向董事会汇报新日程。别让我失望。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "经理 Ms. Wu",
+      "line": "An uncertain answer is not an answer. Come back with a firm schedule.",
+      "lineCn": "模棱两可的回答不算回答。拿一份确定的时间表来见我。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "经理 Ms. Wu",
+      "line": "I am disappointed by this attitude. In project reviews, excuses without solutions help no one.",
+      "lineCn": "我对这种态度很失望。在项目复盘里,没有解决方案的借口毫无用处。",
+      "end": true,
+      "success": false
+    }
+  }
+}

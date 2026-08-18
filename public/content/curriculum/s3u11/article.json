@@ -1,0 +1,1384 @@
+{
+  "id": "a-s3u11",
+  "stage": 3,
+  "unitId": "s3u11",
+  "title": "A Formal Business Email",
+  "newWords": [
+    "reliance",
+    "catalyst",
+    "thereafter",
+    "intelligible",
+    "breach",
+    "commend",
+    "ascertain",
+    "hierarchy",
+    "transient",
+    "parameter",
+    "inevitably",
+    "irrespective",
+    "inaccurate",
+    "aspiration",
+    "assurance",
+    "intricate"
+  ],
+  "sentences": [
+    {
+      "text": "In accordance with the contract of January, we will deliver the goods by Friday.",
+      "translation": "按照一月份的合同,我们将在周五前交付货物。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "In accordance with the contract of January"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we will deliver the goods",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will deliver"
+            },
+            {
+              "role": "宾语",
+              "text": "the goods"
+            }
+          ]
+        },
+        {
+          "label": "时间状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "by Friday"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 in accordance with",
+          "note": "意为\"按照、依照\"。",
+          "example": "Act in accordance with the rules.",
+          "exampleCn": "按照规则行事。"
+        },
+        {
+          "name": "by + 时间点",
+          "note": "by Friday 意为\"在周五之前\"。",
+          "example": "Finish the job by noon.",
+          "exampleCn": "中午前完成工作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "In accordance with the contract of January",
+          "name": "介词短语 in accordance with"
+        },
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "In accordance with the contract of January",
+          "name": "by + 时间点"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:按照规则行事。",
+          "answer": "Act in accordance with the rules.",
+          "note": "意为\"按照、依照\"。",
+          "point": "介词短语 in accordance with"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:中午前完成工作。",
+          "answer": "Finish the job by noon.",
+          "note": "by Friday 意为\"在周五之前\"。",
+          "point": "by + 时间点"
+        }
+      ]
+    },
+    {
+      "text": "On behalf of our team, we express our sincere gratitude for your support.",
+      "translation": "谨代表我们团队,对您的支持表示诚挚的感谢。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "On behalf of our team"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we express our sincere gratitude",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "express"
+            },
+            {
+              "role": "宾语",
+              "text": "our sincere gratitude"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "for your support"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 on behalf of",
+          "note": "意为\"代表……\"。",
+          "example": "On behalf of all, I thank you.",
+          "exampleCn": "我代表所有人感谢你们。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "we express our sincere gratitude",
+          "name": "介词短语 on behalf of"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我代表所有人感谢你们。",
+          "answer": "On behalf of all, I thank you.",
+          "note": "意为\"代表……\"。",
+          "point": "介词短语 on behalf of"
+        }
+      ]
+    },
+    {
+      "text": "With regard to the delay, we apologize for the trouble.",
+      "translation": "关于这次延误,我们为带来的麻烦表示歉意。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "With regard to the delay"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "we apologize for the trouble"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 with regard to",
+          "note": "意为\"关于\"。",
+          "example": "With regard to your question, yes.",
+          "exampleCn": "关于你的问题,是的。"
+        },
+        {
+          "name": "apologize for",
+          "note": "意为\"为……道歉\"。",
+          "example": "I apologize for the mistake.",
+          "exampleCn": "我为这个错误道歉。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "we apologize for the trouble",
+          "name": "介词短语 with regard to"
+        },
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "we apologize for the trouble",
+          "name": "apologize for"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:关于你的问题,是的。",
+          "answer": "With regard to your question, yes.",
+          "note": "意为\"关于\"。",
+          "point": "介词短语 with regard to"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我为这个错误道歉。",
+          "answer": "I apologize for the mistake.",
+          "note": "意为\"为……道歉\"。",
+          "point": "apologize for"
+        }
+      ]
+    },
+    {
+      "text": "Prior to the meeting, please read the report and send your comment.",
+      "translation": "会议之前,请阅读报告并发送您的意见。",
+      "chunks": [
+        {
+          "label": "时间状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "Prior to the meeting"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "please read the report"
+        },
+        {
+          "label": "主干(并列祈使句)",
+          "color": "#a8dab5",
+          "text": "and send your comment"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词 prior to",
+          "note": "意为\"在……之前\"(正式)。",
+          "example": "Prior to the trip, check the car.",
+          "exampleCn": "出行之前,检查车辆。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "please read the report",
+          "name": "介词 prior to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:出行之前,检查车辆。",
+          "answer": "Prior to the trip, check the car.",
+          "note": "意为\"在……之前\"(正式)。",
+          "point": "介词 prior to"
+        }
+      ]
+    },
+    {
+      "text": "We write in response to your letter of March 3.",
+      "translation": "我们写信是回应您3月3日的来信。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We write",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "write"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in response to your letter of March 3"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 in response to",
+          "note": "意为\"回应、答复\"。",
+          "example": "In response to your request, we act.",
+          "exampleCn": "为回应你的请求,我们采取行动。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "in response to your letter of March 3",
+          "name": "介词短语 in response to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:为回应你的请求,我们采取行动。",
+          "answer": "In response to your request, we act.",
+          "note": "意为\"回应、答复\"。",
+          "point": "介词短语 in response to"
+        }
+      ]
+    },
+    {
+      "text": "Irrespective of the final result, we will keep our promise.",
+      "translation": "无论最终结果如何,我们都会信守承诺。",
+      "chunks": [
+        {
+          "label": "状语(介词短语表让步)",
+          "color": "#8ab4f8",
+          "text": "Irrespective of the final result"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we will keep our promise",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will keep"
+            },
+            {
+              "role": "宾语",
+              "text": "our promise"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 irrespective of",
+          "note": "意为\"不论、不管\"。",
+          "example": "Irrespective of the cost, we go.",
+          "exampleCn": "不管代价如何,我们都去。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "Irrespective of the final result",
+          "name": "介词短语 irrespective of"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不管代价如何,我们都去。",
+          "answer": "Irrespective of the cost, we go.",
+          "note": "意为\"不论、不管\"。",
+          "point": "介词短语 irrespective of"
+        }
+      ]
+    },
+    {
+      "text": "Owing to the storm, the original schedule will not be possible.",
+      "translation": "由于暴风雨,原定计划将无法实现。",
+      "chunks": [
+        {
+          "label": "状语(介词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "Owing to the storm"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the original schedule will not be possible",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the original schedule"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will not be"
+            },
+            {
+              "role": "表语",
+              "text": "possible"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 owing to",
+          "note": "意为\"由于\"。",
+          "example": "Owing to the rain, the game is off.",
+          "exampleCn": "由于下雨,比赛取消了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "the original schedule will not be possible",
+          "name": "介词短语 owing to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:由于下雨,比赛取消了。",
+          "answer": "Owing to the rain, the game is off.",
+          "note": "意为\"由于\"。",
+          "point": "介词短语 owing to"
+        }
+      ]
+    },
+    {
+      "text": "For the sake of clarity, every request will go to the project office.",
+      "translation": "为清晰起见,所有请求都将提交到项目办公室。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "For the sake of clarity"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "every request will go to the project office",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "every request"
+            },
+            {
+              "role": "谓语",
+              "text": "will go"
+            },
+            {
+              "role": "状语",
+              "text": "to the project office"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 for the sake of",
+          "note": "意为\"为了……起见\"。",
+          "example": "For the sake of safety, slow down.",
+          "exampleCn": "为了安全起见,请减速。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "every request will go to the project office",
+          "name": "介词短语 for the sake of"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:为了安全起见,请减速。",
+          "answer": "For the sake of safety, slow down.",
+          "note": "意为\"为了……起见\"。",
+          "point": "介词短语 for the sake of"
+        }
+      ]
+    },
+    {
+      "text": "In the course of the negotiation, we agree on the main point.",
+      "translation": "在谈判过程中,我们就主要问题达成一致。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "In the course of the negotiation"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we agree on the main point",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "agree"
+            },
+            {
+              "role": "宾语",
+              "text": "on the main point"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 in the course of",
+          "note": "意为\"在……过程中\"。",
+          "example": "In the course of the year, many changes came.",
+          "exampleCn": "在这一年里,发生了许多变化。"
+        },
+        {
+          "name": "agree on",
+          "note": "意为\"就……达成一致\"。",
+          "example": "We agree on the price.",
+          "exampleCn": "我们就价格达成一致。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "In the course of the negotiation",
+          "name": "介词短语 in the course of"
+        },
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "In the course of the negotiation",
+          "name": "agree on"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:在这一年里,发生了许多变化。",
+          "answer": "In the course of the year, many changes came.",
+          "note": "意为\"在……过程中\"。",
+          "point": "介词短语 in the course of"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我们就价格达成一致。",
+          "answer": "We agree on the price.",
+          "note": "意为\"就……达成一致\"。",
+          "point": "agree on"
+        }
+      ]
+    },
+    {
+      "text": "We look forward to your early reply and your final assurance.",
+      "translation": "我们期待您的早日回复和最终保证。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We look forward",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "look"
+            },
+            {
+              "role": "状语",
+              "text": "forward"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "to your early reply and your final assurance"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "look forward to + 名词",
+          "note": "to 是介词,后接名词/动名词。",
+          "example": "I look forward to your visit.",
+          "exampleCn": "我期待你的来访。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "to your early reply and your final assurance",
+          "name": "look forward to + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我期待你的来访。",
+          "answer": "I look forward to your visit.",
+          "note": "to 是介词,后接名词/动名词。",
+          "point": "look forward to + 名词"
+        }
+      ]
+    },
+    {
+      "text": "The contract will not breach our trust; it will build it.",
+      "translation": "合同不会破坏我们的信任;它会建立信任。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The contract will not breach our trust",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The contract"
+            },
+            {
+              "role": "谓语",
+              "text": "will not breach"
+            },
+            {
+              "role": "宾语",
+              "text": "our trust"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "it will build it"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "分号连接并列句",
+          "note": "前后形成对比关系。",
+          "example": "It will not break us; it will unite us.",
+          "exampleCn": "它不会击垮我们;它会让我们团结。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "The contract will not breach our trust",
+          "name": "分号连接并列句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:它不会击垮我们;它会让我们团结。",
+          "answer": "It will not break us; it will unite us.",
+          "note": "前后形成对比关系。",
+          "point": "分号连接并列句"
+        }
+      ]
+    },
+    {
+      "text": "We commend your team for the quick and professional work.",
+      "translation": "我们赞扬你们团队快速而专业的工作。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We commend your team",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "commend"
+            },
+            {
+              "role": "宾语",
+              "text": "your team"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语表原因)",
+          "color": "#8ab4f8",
+          "text": "for the quick and professional work"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "commend sb for",
+          "note": "意为\"因……称赞某人\"。",
+          "example": "They commended her for her courage.",
+          "exampleCn": "他们称赞她的勇气。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "for the quick and professional work",
+          "name": "commend sb for"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他们称赞她的勇气。",
+          "answer": "They commended her for her courage.",
+          "note": "意为\"因……称赞某人\"。",
+          "point": "commend sb for"
+        }
+      ]
+    },
+    {
+      "text": "Our reliance on your service will not change.",
+      "translation": "我们对你们服务的依赖不会改变。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "Our reliance on your service"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will not change"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "reliance on 搭配",
+          "note": "reliance on 意为\"对……的依赖\"。",
+          "example": "Reliance on luck is risky.",
+          "exampleCn": "依赖运气是有风险的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "Our reliance on your service",
+          "name": "reliance on 搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:依赖运气是有风险的。",
+          "answer": "Reliance on luck is risky.",
+          "note": "reliance on 意为\"对……的依赖\"。",
+          "point": "reliance on 搭配"
+        }
+      ]
+    },
+    {
+      "text": "The new policy will be a catalyst for fast growth.",
+      "translation": "新政策将成为快速增长的催化剂。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The new policy will be a catalyst",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The new policy"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "a catalyst"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "for fast growth"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "a catalyst for",
+          "note": "意为\"……的催化剂\"。",
+          "example": "Technology is a catalyst for change.",
+          "exampleCn": "技术是变革的催化剂。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "The new policy will be a catalyst",
+          "name": "a catalyst for"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:技术是变革的催化剂。",
+          "answer": "Technology is a catalyst for change.",
+          "note": "意为\"……的催化剂\"。",
+          "point": "a catalyst for"
+        }
+      ]
+    },
+    {
+      "text": "Thereafter, we will update the record every month.",
+      "translation": "此后,我们将每月更新记录。",
+      "chunks": [
+        {
+          "label": "插入语(连接副词)",
+          "color": "#9fd8e8",
+          "text": "Thereafter"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we will update the record",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will update"
+            },
+            {
+              "role": "宾语",
+              "text": "the record"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "every month"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "连接副词 thereafter",
+          "note": "意为\"此后\"。",
+          "example": "Thereafter, the rules changed.",
+          "exampleCn": "此后,规则改变了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "we will update the record",
+          "name": "连接副词 thereafter"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:此后,规则改变了。",
+          "answer": "Thereafter, the rules changed.",
+          "note": "意为\"此后\"。",
+          "point": "连接副词 thereafter"
+        }
+      ]
+    },
+    {
+      "text": "Please write in an intelligible style for the new reader.",
+      "translation": "请用易懂的风格写给新读者。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Please write"
+        },
+        {
+          "label": "方式状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "in an intelligible style"
+        },
+        {
+          "label": "状语(介词短语表目的)",
+          "color": "#8ab4f8",
+          "text": "for the new reader"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词 in 表方式",
+          "note": "in + 名词 表示以某种方式。",
+          "example": "Write in a clear style.",
+          "exampleCn": "以清晰的风格写作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "in an intelligible style",
+          "name": "介词 in 表方式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:以清晰的风格写作。",
+          "answer": "Write in a clear style.",
+          "note": "in + 名词 表示以某种方式。",
+          "point": "介词 in 表方式"
+        }
+      ]
+    },
+    {
+      "text": "We will ascertain the true cause before the next step.",
+      "translation": "我们将在下一步之前查明真正的原因。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will ascertain the true cause",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will ascertain"
+            },
+            {
+              "role": "宾语",
+              "text": "the true cause"
+            }
+          ]
+        },
+        {
+          "label": "时间状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "before the next step"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "before 介词短语作时间状语",
+          "note": "before + 名词 表时间。",
+          "example": "Think twice before the reply.",
+          "exampleCn": "回复之前三思。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "We will ascertain the true cause",
+          "name": "before 介词短语作时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:回复之前三思。",
+          "answer": "Think twice before the reply.",
+          "note": "before + 名词 表时间。",
+          "point": "before 介词短语作时间状语"
+        }
+      ]
+    },
+    {
+      "text": "The hierarchy of the office will help the new staff find the right person.",
+      "translation": "办公室的层级结构将帮助新员工找到合适的人。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The hierarchy of the office"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will help the new staff",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will help"
+            },
+            {
+              "role": "宾语",
+              "text": "the new staff"
+            }
+          ]
+        },
+        {
+          "label": "宾补(不定式)",
+          "color": "#9fd8e8",
+          "text": "find the right person"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "help sb (to) do",
+          "note": "help 后接不定式,to 可省略。",
+          "example": "This map will help you find the way.",
+          "exampleCn": "这张地图会帮你找到路。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "The hierarchy of the office",
+          "name": "help sb (to) do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这张地图会帮你找到路。",
+          "answer": "This map will help you find the way.",
+          "note": "help 后接不定式,to 可省略。",
+          "point": "help sb (to) do"
+        }
+      ]
+    },
+    {
+      "text": "The demand is transient, so the price will return to normal.",
+      "translation": "需求是暂时的,所以价格将回归正常。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The demand is transient",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The demand"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "transient"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the price will return to normal"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "so 表结果",
+          "note": "意为\"因此\"。",
+          "example": "The road is closed, so we wait.",
+          "exampleCn": "路被封了,所以我们等着。"
+        },
+        {
+          "name": "return to",
+          "note": "意为\"回到\"。",
+          "example": "Prices return to normal.",
+          "exampleCn": "价格回归正常。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "the price will return to normal",
+          "name": "so 表结果"
+        },
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "the price will return to normal",
+          "name": "return to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:路被封了,所以我们等着。",
+          "answer": "The road is closed, so we wait.",
+          "note": "意为\"因此\"。",
+          "point": "so 表结果"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:价格回归正常。",
+          "answer": "Prices return to normal.",
+          "note": "意为\"回到\"。",
+          "point": "return to"
+        }
+      ]
+    },
+    {
+      "text": "Every parameter of the design will receive a check twice.",
+      "translation": "设计的每个参数都将接受两次检查。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "Every parameter of the design"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will receive a check",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will receive"
+            },
+            {
+              "role": "宾语",
+              "text": "a check"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "twice"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "parameter 意为\"参数\"。",
+          "example": "Every part will receive a test.",
+          "exampleCn": "每个部件都将接受测试。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "Every parameter of the design",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:每个部件都将接受测试。",
+          "answer": "Every part will receive a test.",
+          "note": "parameter 意为\"参数\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "Delay will inevitably raise the total cost.",
+      "translation": "延误将不可避免地推高总成本。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Delay will inevitably raise the total cost",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Delay"
+            },
+            {
+              "role": "谓语",
+              "text": "will inevitably raise"
+            },
+            {
+              "role": "宾语",
+              "text": "the total cost"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 inevitably",
+          "note": "修饰谓语,意为\"不可避免地\"。",
+          "example": "Change inevitably brings risk.",
+          "exampleCn": "变化不可避免地带来风险。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "Delay will inevitably raise the total cost",
+          "name": "副词 inevitably"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:变化不可避免地带来风险。",
+          "answer": "Change inevitably brings risk.",
+          "note": "修饰谓语,意为\"不可避免地\"。",
+          "point": "副词 inevitably"
+        }
+      ]
+    },
+    {
+      "text": "An inaccurate figure will cause a big problem.",
+      "translation": "一个不准确的数字会造成大问题。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An inaccurate figure will cause a big problem",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An inaccurate figure"
+            },
+            {
+              "role": "谓语",
+              "text": "will cause"
+            },
+            {
+              "role": "宾语",
+              "text": "a big problem"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "inaccurate 意为\"不准确的\"。",
+          "example": "A wrong number causes confusion.",
+          "exampleCn": "错误的数字会引起混乱。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "An inaccurate figure will cause a big problem",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:错误的数字会引起混乱。",
+          "answer": "A wrong number causes confusion.",
+          "note": "inaccurate 意为\"不准确的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The aspiration of the company is to grow with honor.",
+      "translation": "公司的愿望是光荣地成长。",
+      "chunks": [
+        {
+          "label": "主干(主系表前半)",
+          "color": "#a8dab5",
+          "text": "The aspiration of the company is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The aspiration of the company"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语(不定式)",
+          "color": "#9fd8e8",
+          "text": "to grow with honor"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "不定式说明主语内容。",
+          "example": "The plan is to expand slowly.",
+          "exampleCn": "计划是稳步扩张。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "The aspiration of the company is",
+          "name": "不定式作表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:计划是稳步扩张。",
+          "answer": "The plan is to expand slowly.",
+          "note": "不定式说明主语内容。",
+          "point": "不定式作表语"
+        }
+      ]
+    },
+    {
+      "text": "An intricate question will need a patient answer.",
+      "translation": "复杂的问题需要耐心的回答。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An intricate question will need a patient answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An intricate question"
+            },
+            {
+              "role": "谓语",
+              "text": "will need"
+            },
+            {
+              "role": "宾语",
+              "text": "a patient answer"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "intricate 意为\"错综复杂的\"。",
+          "example": "A hard question needs time.",
+          "exampleCn": "难题需要时间。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u11",
+          "phrase": "An intricate question will need a patient answer",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:难题需要时间。",
+          "answer": "A hard question needs time.",
+          "note": "intricate 意为\"错综复杂的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u11",
+      "name": "介词短语 in accordance with",
+      "note": "意为\"按照、依照\"。",
+      "sourceExample": "In accordance with the contract of January, we will deliver the goods by Friday.",
+      "sourceExampleCn": "按照一月份的合同,我们将在周五前交付货物。"
+    },
+    {
+      "grammarId": "g-s3u11",
+      "name": "by + 时间点",
+      "note": "by Friday 意为\"在周五之前\"。",
+      "sourceExample": "In accordance with the contract of January, we will deliver the goods by Friday.",
+      "sourceExampleCn": "按照一月份的合同,我们将在周五前交付货物。"
+    },
+    {
+      "grammarId": "g-s3u11",
+      "name": "介词短语 on behalf of",
+      "note": "意为\"代表……\"。",
+      "sourceExample": "On behalf of our team, we express our sincere gratitude for your support.",
+      "sourceExampleCn": "谨代表我们团队,对您的支持表示诚挚的感谢。"
+    },
+    {
+      "grammarId": "g-s3u11",
+      "name": "介词短语 with regard to",
+      "note": "意为\"关于\"。",
+      "sourceExample": "With regard to the delay, we apologize for the trouble.",
+      "sourceExampleCn": "关于这次延误,我们为带来的麻烦表示歉意。"
+    },
+    {
+      "grammarId": "g-s3u11",
+      "name": "apologize for",
+      "note": "意为\"为……道歉\"。",
+      "sourceExample": "With regard to the delay, we apologize for the trouble.",
+      "sourceExampleCn": "关于这次延误,我们为带来的麻烦表示歉意。"
+    }
+  ]
+}

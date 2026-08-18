@@ -1,0 +1,87 @@
+{
+  "id": "e-s4u3",
+  "stage": 4,
+  "unitId": "s4u3",
+  "title": "真题演练 · 非谓语综合与独立主格",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 非谓语综合与独立主格。",
+  "questions": [
+    {
+      "q": "What advice might Cartwright give to those who sometimes have bad dreams? Text 4 Americans no longer expect public figures, whether in speech or in writing, to command the English language with skill and gift. Nor do they aspire to such command themselves. In his latest book, Doing Our Own Thing: The Degradation of language and Music and Why We Should Like, Care, John McWhorter, a linguist and controversialist of mixed liberal and conservative views, sees the triumph of 1960s counter-culture as responsible for the decline of formal English. Blaming the permissive 1960s is nothing new, but this is not yet another criticism against the decline in education. Mr. McWhorter’s academic speciality is language history and change, and he sees the gradual disappearance of “whom”, for example, to be natural and no more regrettable than the loss of the case-endings of Old English. But the cult of the authentic and the personal, “doing our own thing”, has spelt the death of formal speech, writing, poetry and music. While even the modestly educated sought an elevated tone when they put pen to paper before the 1960s, even the most well regarded writing since then has sought to capture spoken English on the page. Equally, in poetry, the highly personal, performative genre is the only form that could claim real liveliness. In both oral and written English, talking is triumphing over speaking, spontaneity over craft. Illustrated with an entertaining array of examples from both high and low culture, the trend that Mr. McWhorter documents is unmistakable. But it is less clear, to take the question of his subtitle, why we should, like, care. As a linguist, he acknowledges that all varieties of human language, including non-standard ones like Black English, can be powerfully expressive—there exists no language or dialect in the world that cannot convey complex ideas. He is not arguing, as many do, that we can no longer think straight because we do not talk proper. Russians have a deep love for their own language and carry large chunks of memorized poetry in their heads, while Italian politicians tend to elaborate speech that would seem old-fashioned to most English-speakers. Mr. McWhorter acknowledges that formal language is not strictly necessary, and proposes no radical education reforms—he is really grieving over the loss of something beautiful more than useful. We now take our English “on paper plates instead of china”. A shame, perhaps, but probably an inevitable one.",
+      "options": [
+        "Lead your life as usual.",
+        "Seek professional help.",
+        "Exercise conscious control.",
+        "Avoid anxiety in the daytime."
+      ],
+      "answer": 0,
+      "analysis": "文章末段在谈到对待梦的情况时说:那些长期受噩梦折磨的人应该寻求专家帮助,而对其他人来说,大脑\n有自动消除不良情绪的方法。既然大脑有自动消除不良情绪的办法,那么自然我们也不用太介意,由此得到答案为\nA。\n三、长难句分析",
+      "point": "zhenti:z2005-reading-3:q5",
+      "source": "2005 考研英语一真题"
+    },
+    {
+      "q": "Regarding Gilbert’s role in revitalizing the Philharmonic, the author feels Text 2 When Liam McGee departed as president of Bank of America in August, his explanation was surprisingly straight up. Rather than cloaking his exit in the usual vague excuses, he came right out and said he was leaving “to pursue my goal of running a company.” Broadcasting his ambition was “very much my decision,” McGee says. Within two weeks, he was talking for the first time with the board of Hartford Financial Services Group, which named him CEO and chairman on September 29. McGee says leaving without a position lined up gave him time to reflect on what kind of company he wanted to run. It also sent a clear message to the outside world about his aspirations. And McGee isn’t alone. In recent weeks the No. 2 executives at Avon and American Express quit with the explanation that they were looking for a CEO post. As boards scrutinize succession plans in response to shareholder pressure, executives who don’t get the nod also may wish to move on. A turbulent business environment also has senior managers cautious of letting vague pronouncements cloud their reputations. As the first signs of recovery begin to take hold, deputy chiefs may be more willing to make the jump without a net. In the third quarter, CEO turnover was down 23% from a year ago as nervous boards stuck with the leaders they had, according to Liberum Research. As the economy picks up, opportunities will abound for aspiring leaders. The decision to quit a senior position to look for a better one is unconventional. For years executives and headhunters have adhered to the rule that the most attractive CEO candidates are the ones who must be poached. Says Korn/Ferry senior partner Dennis Carey: “I can’t think of a single search I’ve done where a board has not instructed me to look at sitting CEOs first.” Those who jumped without a job haven’t always landed in top positions quickly. Ellen Marram quit as chief of Tropicana a decade ago, saying she wanted to be a CEO. It was a year before she became head of a tiny Internet-based commodities exchange. Robert Willumstad left Citigroup in 2005 with ambitions to be a CEO. He finally took that post at a major financial institution three years later. Many recruiters say the old disgrace is fading for top performers. The financial crisis has made it more acceptable to be between jobs or to leave a bad one. “The traditional rule was it’s safer to stay where you are, but that’s been fundamentally inverted,” says one headhunter. “The people who’ve been hurt the worst are those who’ve stayed too long.”",
+      "options": [
+        "doubtful.",
+        "enthusiastic.",
+        "confident.",
+        "puzzled."
+      ],
+      "answer": 0,
+      "analysis": "根据题干,可以定位到文章最后一段,尤其是最后三句提到,“Butwhatwillbethenatureofthatdifference?\nMerelyexpandingtheorchestra’srepertoirewillnotbeenough.IfGilbertandthePhilharmonicaretosucceed,they\nmustfirstchangetherelationshipbetweenAmerica’soldestorchestraandthenewaudienceithopestoattract.”很明显\n作者认为“Gilbert与众不同的实质仅仅是增加了管弦乐队的节目,这是不够的”,“Gilbert和thePhilharmonic要\n想成功,还必须做一些事情”,由此可知作者不满意Gilbert在振兴交响乐团中的作用。故A为正确答案。\n选项B和C为反向干扰。D不符合常识,作者不可能对其论述的内容迷惑不解,故排除。\n三、长难句分析",
+      "point": "zhenti:z2011-reading-1:q5",
+      "source": "2011 考研英语一真题"
+    },
+    {
+      "q": "Which of the following would be the best title for the text? Text 4 States will be able to force more people to pay sales tax when they make online purchases under a Supreme Court decision Thursday that will leave shoppers with lighter wallets but is a big financial win for states. The Supreme Court’s opinion Thursday overruled a pair of decades-old decisions that states said cost them billions of dollars in lost revenue annually. The decisions made it more difficult for states to collect sales tax on certain online purchases. The cases the court overturned said that if a business was shipping a customer’s purchase to a state where the business didn’t have a physical presence such as a warehouse or office, the business didn’t have to collect sales tax for the state. Customers were generally responsible for paying the sales tax to the state themselves if they weren’t charged it, but most didn’t realize they owed it and few paid. Justice Anthony Kennedy wrote that the previous decisions were flawed. “Each year the physical presence rule becomes further removed from economic reality and results in significant revenue losses to the States,” he wrote in an opinion joined by four other justices. Kennedy wrote that the rule “limited state’ ability to seek long-term prosperity and has prevented market participants from competing on an even playing field.” The ruling is a victory for big chains with a presence in many states, since they usually collect sales tax on online purchases already. Now, rivals will be charging sales tax where they hadn’t before. Big chains have been collecting sales tax nationwide because they typically have physical stores in whatever state a purchase is being shipped to. Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it, though third-party sellers who use the site don’t have to. Until now, many sellers that have a physical presence in only a single state or a few states have been able to avoid charging sales taxes when they ship to addresses outside those states. Sellers that use eBay and Etsy, which provide platforms for smaller sellers, also haven’t been collecting sales tax nationwide. Under the ruling Thursday, states can pass laws requiring out-of-state sellers to collect the state’s sales tax from customers and send it to the state. Retail trade groups praised the ruling, saying it levels the playing field for local and online businesses. The losers, said retail analyst Neil Saunders, are online-only retailers, especially smaller ones. Those retailers may face headaches complying with various state sales tax laws. The Small Business & Entrepreneurship Council advocacy group said in a statement, “Small businesses and internet entrepreneurs are not well served at all by this decision.”",
+      "options": [
+        "AI’s Future: In the Hands of Tech Giants",
+        "Frankenstein, the Novel Predicting the Age of AI",
+        "The Conscience of AI: Complex But Inevitable",
+        "AI Shall Be Killers Once Out of Control"
+      ],
+      "answer": 2,
+      "analysis": "主旨题。本文首段通过引用MaryShelley的书引出本文要探讨的话题新技术所引发的道德问\n题。第二段是明确指出AI引起的一些问题。第三段和第四段对第二段提出的两个问题进行了详细的\n阐述,表明我们并不能确定智能化的程度以及因为所处环境的复杂无法定义人类自我意识。而在第五\n段转折之后明确指出AI所涉及的道德问题已经触手可及了。全篇复现了AI和conscience这两个关键\n词,因此正确答案为C.TheConscienceofAI:ComplexButInevitable。\n选项A中的TechGiants是文章没有提及的概念。尽管文章以Frankenstein这本书为引子,但是这\n本书并没有预测AI,而是AI技术引发的道德问题,故排除选项B。作者在最后一段表明了对未来积\n极的态度,AI的发展并非代替人类的最高智慧,最终还是会为人类所用,故排除选项D,该选项中的\nAIshallbekillers呈现负向发展。\n四、词汇注释\nPrometheus普罗米修斯 work著作,作品\nbulb灯泡 foreshadow预示;是……的预兆\nraise引起,引发 ethical伦理的,道德的\nspark引发 concern担忧;令人担忧的事\nidentity身份;本身;本体 sci-fi科幻(小说)的\nconsciousness意识;自觉 reproduce复制\nevade难倒,使困惑 fascina",
+      "point": "zhenti:z2019-reading-3:q5",
+      "source": "2019 考研英语一真题"
+    },
+    {
+      "q": "It can be inferred from the last paragraph that __________. Text 3 In the idealized version of how science is done, facts about the world are waiting to be observed and collected by objective researchers who use the scientific method to carry out their work. But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route. We aim to be objective, but we cannot escape the context of our unique life experiences. Prior knowledge and interests influence what we experience, what we think our experiences mean, and the subsequent actions we take. Opportunities for misinterpretation, error, and self-deception abound. Consequently, discovery claims should be thought of as protoscience. Similar to newly staked mining claims, they are full of potential. But it takes collective scrutiny and acceptance to transform a discovery claim into a mature discovery. This is the credibility process, through which the individual researcher’s me, here, now becomes the community’s anyone, anywhere, anytime. Objective knowledge is the goal, not the starting point. Once a discovery claim becomes public, the discoverer receives intellectual credit. But, unlike with mining claims, the community takes control of what happens next. Within the complex social structure of the scientific community, researchers make discoveries; editors and reviewers act as gatekeepers by controlling the publication process; other scientists use the new finding to suit their own purposes; and finally, the public (including other scientists) receives the new discovery and possibly accompanying technology. As a discovery claim works its way through the community, the interaction and confrontation between shared and competing beliefs about the science and the technology involved transforms an individual’s discovery claim into the community’s credible discovery. Two paradoxes exist throughout this credibility process. First, scientific work tends to focus on some aspect of prevailing knowledge that is viewed as incomplete or incorrect. Little reward accompanies duplication and confirmation of what is already known and believed. The goal is new-search, not re-search. Not surprisingly, newly published discovery claims and credible discoveries that appear to be important and convincing will always be open to challenge and potential modification or refutation by future researchers. Second, novelty itself frequently provokes disbelief. Nobel Laureate and physiologist Albert Szent-Györgyi once described discovery as “seeing what everybody has seen and thinking what nobody has thought.” But thinking what nobody else has thought and telling others what they have missed may not change their views. Sometimes years are required for truly novel discovery claims to be accepted and appreciated. In the end, credibility “happens” to a discovery claim — a process that corresponds to what philosopher Annette Baier has described as the commons of the mind. “We reason together, challenge, revise, and complete each other’s reasoning and each other’s conceptions of reason.”",
+      "options": [
+        "Entergy’s business elsewhere might be affected",
+        "the authority of the NRC will be defied",
+        "Entergy will withdraw its Plymouth application",
+        "Vermont’s reputation might be damaged"
+      ],
+      "answer": 0,
+      "analysis": "文章首句和二句提到,该公司似乎认定其在福蒙特州的声誉已受损,因此决定和佛蒙特州背水\n一战。但不良后果还是有的。第三句提到,安特吉公司在美国还经营了11个反应堆。由末句“Butasthe\nNuclearRegulatoryCommission(NRC)reviewsthecompany’sapplication,itshouldkeepitmindwhat\npromisesfromEntergyareworth.”意思是:“核管理委员会(NRC)在审查该公司的申请的时候,它要牢记\n到底安特吉公司的哪个许诺是可信的。”由此可推断,A项“安特吉公司在其他地方的生意会受到影\n响”是正确答案。\n选项B文中并未提到,无中生有;选项C中withdraw并未提到,Plymouthapplication是对原文的曲解。\n选项D有文章末段首句中的isalready可知是对原文的曲解。\n三、长难句分析",
+      "point": "zhenti:z2012-reading-2:q5",
+      "source": "2012 考研英语一真题"
+    },
+    {
+      "q": "All things ___, the plan is better than expected.",
+      "options": [
+        "considered",
+        "considering",
+        "consider",
+        "to consider"
+      ],
+      "answer": 0,
+      "analysis": "独立主格:things 被考虑,用过去分词。",
+      "point": "g-s4u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ enough time, we could finish the work.",
+      "options": [
+        "Given",
+        "Giving",
+        "Give",
+        "Having given"
+      ],
+      "answer": 0,
+      "analysis": "given 表条件,\"如果给足够时间\"。",
+      "point": "g-s4u3",
+      "source": "本单元语法课练习"
+    }
+  ]
+}

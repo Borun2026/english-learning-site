@@ -1,0 +1,101 @@
+{
+  "id": "d-s1u1",
+  "stage": 1,
+  "unitId": "s1u1",
+  "scene": "问候与自我介绍",
+  "goal": "和新同学打招呼,顺利完成自我介绍并认识对方",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "新同学 Classmate",
+      "line": "Hello! I am Jack. Are you a new student here?",
+      "lineCn": "你好!我是杰克。你是这里的新同学吗?",
+      "grammar": [
+        { "name": "be 动词疑问句", "note": "Are you...? 把 be 提前构成疑问句,回答 Yes, I am. / No, I am not." }
+      ],
+      "options": [
+        { "text": "Yes, I am. My name is Li Hua. Nice to meet you!", "textCn": "是的。我叫李华。很高兴认识你!", "feedback": "完美的回应:回答问句 + 自我介绍 + 问候对方。", "next": "n2" },
+        { "text": "No.", "textCn": "不是。", "feedback": "太简短,对方无法继续对话,应该补充介绍自己。", "next": "n3" },
+        { "text": "I am fine, thank you.", "textCn": "我很好,谢谢。", "feedback": "答非所问,这是回答 How are you 的说法。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "新同学 Jack",
+      "line": "Nice to meet you too! What do you study?",
+      "lineCn": "我也很高兴认识你!你学什么专业?",
+      "grammar": [
+        { "name": "特殊疑问句", "note": "What do you study? 用疑问词 What 提问,助动词 do 帮助构成疑问句。" }
+      ],
+      "options": [
+        { "text": "I study English. What about you?", "textCn": "我学英语。你呢?", "feedback": "回答专业并反问对方,对话自然推进。", "next": "n4" },
+        { "text": "Yes, I study.", "textCn": "是的,我学习。", "feedback": "没有回答关键信息(学什么),而且对 What 提问回答 Yes 不合适。", "next": "n5" },
+        { "text": "I do not know.", "textCn": "我不知道。", "feedback": "不可能不知道自己的专业,回答显得敷衍。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "新同学 Jack",
+      "line": "Oh... okay. Anyway, what is your name?",
+      "lineCn": "哦……好吧。那,你叫什么名字?",
+      "grammar": [
+        { "name": "Anyway 转移话题", "note": "anyway 用于把话题拉回来,表示\"无论如何,还是……\"。" }
+      ],
+      "options": [
+        { "text": "I am Li Hua. And you are Jack, right?", "textCn": "我是李华。你是杰克,对吧?", "feedback": "抓住机会重新介绍自己,还确认了对方的名字,补救成功。", "next": "n2" },
+        { "text": "It is a secret.", "textCn": "这是个秘密。", "feedback": "拒绝透露名字,对方只能尴尬地结束对话。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "新同学 Jack",
+      "line": "I study computer science. It is really interesting!",
+      "lineCn": "我学计算机科学。它真的很有趣!",
+      "grammar": [
+        { "name": "形容词作表语", "note": "It is interesting. 主系表结构,interesting 作表语描述主语。" }
+      ],
+      "options": [
+        { "text": "Sounds great! I hope we can be friends.", "textCn": "听起来很棒!希望我们能成为朋友。", "feedback": "友善收尾,顺利达成目标,认识了新同学!", "next": "success" },
+        { "text": "Okay, goodbye.", "textCn": "好的,再见。", "feedback": "突然结束对话,虽然不算失败,但错过了交朋友的机会。", "next": "fail2" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "新同学 Jack",
+      "line": "Hmm, could you tell me what subject you like?",
+      "lineCn": "嗯,能告诉我你喜欢什么科目吗?",
+      "grammar": [
+        { "name": "Could you tell me...?", "note": "could 比 can 更礼貌,后面接疑问词引导的宾语从句 what subject you like。" }
+      ],
+      "options": [
+        { "text": "I like English very much.", "textCn": "我非常喜欢英语。", "feedback": "认真回答了问题,对话得以继续。", "next": "n4" },
+        { "text": "I do not want to talk.", "textCn": "我不想说话。", "feedback": "直接拒绝交流,对方只能离开。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "新同学 Jack",
+      "line": "Me too! See you in class, Li Hua!",
+      "lineCn": "我也是!课堂上见,李华!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "新同学 Jack",
+      "line": "Well... nice to meet you. Maybe next time.",
+      "lineCn": "好吧……很高兴认识你。也许下次再聊。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "新同学 Jack",
+      "line": "Oh, okay. See you around.",
+      "lineCn": "哦,好吧。回头见。",
+      "end": true,
+      "success": false
+    }
+  }
+}

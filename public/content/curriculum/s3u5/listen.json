@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u5",
+  "stage": 3,
+  "unitId": "s3u5",
+  "title": "听力挑战 · 表达观点",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "同学",
+      "line": "What do you think about the new policy at school?",
+      "lineCn": "你觉得学校的新政策怎么样?",
+      "grammar": [
+        { "name": "主语从句 what 引导", "note": "What matters most 是主语从句作主语,what 在从句中作主语。" }
+      ],
+      "options": [
+        { "text": "What matters most is whether it helps students.", "correct": true, "feedback": "主语从句加表语从句,观点表达结构清晰。" },
+        { "text": "The policy was signed last month.", "correct": false, "feedback": "陈述事实,没有表达观点。" },
+        { "text": "Policy is a difficult word.", "correct": false, "feedback": "评论单词本身,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "Do you think it is fair to judge people by appearance?",
+      "lineCn": "你觉得以貌取人公平吗?",
+      "grammar": [
+        { "name": "宾语从句 that 引导", "note": "I believe that... 中 that 引导宾语从句,陈述观点。" }
+      ],
+      "options": [
+        { "text": "I believe that kindness matters more than looks.", "correct": true, "feedback": "宾语从句完整表达观点,回应问题。" },
+        { "text": "Appearance changes every year.", "correct": false, "feedback": "一般性陈述,没有表明态度。" },
+        { "text": "People judge me yesterday.", "correct": false, "feedback": "时态与结构混乱,表达不成立。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "Why do you support this new idea so strongly, Sam?",
+      "lineCn": "山姆,你为什么这么强烈地支持这个新想法?",
+      "grammar": [
+        { "name": "what 引导名词性从句", "note": "what we need 在 because 后作从句主语,说明支持的理由。" }
+      ],
+      "options": [
+        { "text": "Because what we need is more practice time.", "correct": true, "feedback": "what 从句作主语说明理由,逻辑充分。" },
+        { "text": "We supported the old idea last year.", "correct": false, "feedback": "过去时谈旧想法,没有说明支持理由。" },
+        { "text": "Ideas are free and everywhere.", "correct": false, "feedback": "泛泛而谈,没有支持新想法的理由。" }
+      ]
+    }
+  ]
+}

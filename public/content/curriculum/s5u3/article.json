@@ -1,0 +1,1234 @@
+{
+  "id": "a-s5u3",
+  "stage": 5,
+  "unitId": "s5u3",
+  "title": "Reading Charts with Precision",
+  "newWords": [
+    "forfeit",
+    "absenteeism",
+    "microcosm",
+    "fulfillment",
+    "myriad",
+    "attainable",
+    "burgeon",
+    "meaningful",
+    "exploratory",
+    "venue",
+    "potent",
+    "profuse",
+    "legislative",
+    "renovation",
+    "hurdle",
+    "rekindle",
+    "variant",
+    "perpetuate",
+    "frustrating",
+    "ambiguity"
+  ],
+  "sentences": [
+    {
+      "text": "The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+      "translation": "下面的折线图可以说明 2015 至 2025 年间数字图书馆使用的急剧增长,这一趋势值得观察者认真研究。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The line chart below",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The line chart below"
+            }
+          ]
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can illustrate the dramatic growth of digital library use between 2015 and 2025",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can illustrate"
+            },
+            {
+              "role": "宾语",
+              "text": "the dramatic growth of digital library use"
+            },
+            {
+              "role": "时间状语",
+              "text": "between 2015 and 2025"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a trend that an observer should study with care"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "图表描述句式",
+          "note": "The line chart below can illustrate... 是雅思图表作文的标准开头,先点明图表类型与主要内容。",
+          "example": "The pie chart below shows the proportion of energy sources.",
+          "exampleCn": "下面的饼状图显示了能源来源的比例。"
+        },
+        {
+          "name": "同位语补充说明",
+          "note": "a trend that an observer should study 对前面的整体趋势作补充说明,其中 that 引导定语从句。"
+        },
+        {
+          "name": "时间范围表达",
+          "note": "between 2015 and 2025 说明数据的时间跨度,是图表描述必备要素。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can illustrate the dramatic growth of digital library use between 2015 and 2025",
+          "name": "图表描述句式"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can illustrate the dramatic growth of digital library use between 2015 and 2025",
+          "name": "同位语补充说明"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can illustrate the dramatic growth of digital library use between 2015 and 2025",
+          "name": "时间范围表达"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:下面的饼状图显示了能源来源的比例。",
+          "answer": "The pie chart below shows the proportion of energy sources.",
+          "note": "The line chart below can illustrate... 是雅思图表作文的标准开头,先点明图表类型与主要内容。",
+          "point": "图表描述句式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+          "answer": "The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+          "note": "a trend that an observer should study 对前面的整体趋势作补充说明,其中 that 引导定语从句。",
+          "point": "同位语补充说明"
+        }
+      ]
+    },
+    {
+      "text": "According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+      "translation": "根据数据,电子下载量从每年两百万次上升到一千五百万次,增幅超过百分之七百,而实体阅览室的访问量下降了一半以上。",
+      "chunks": [
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "According to the data"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "electronic download rose from two million to fifteen million a year",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "electronic download"
+            },
+            {
+              "role": "谓语",
+              "text": "rose"
+            },
+            {
+              "role": "状语",
+              "text": "from two million to fifteen million a year"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "an increase of more than seven hundred per cent"
+        },
+        {
+          "label": "对比连词",
+          "color": "#f6c177",
+          "text": "while"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a visit to a physical reading room fell by more than half",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a visit to a physical reading room"
+            },
+            {
+              "role": "谓语",
+              "text": "fell"
+            },
+            {
+              "role": "程度状语",
+              "text": "by more than half"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "According to 引出数据来源",
+          "note": "According to the data 表明数据的出处,使论述客观可信,是图表作文的核心句式。"
+        },
+        {
+          "name": "from... to... 数据变化表达",
+          "note": "rose from two million to fifteen million 用 from... to... 描述数据变化范围;fell by more than half 用 by 描述变化幅度。"
+        },
+        {
+          "name": "while 对比两条数据",
+          "note": "while 连接两组相反的数据趋势,使对比一目了然。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "electronic download rose from two million to fifteen million a year",
+          "name": "According to 引出数据来源"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "electronic download rose from two million to fifteen million a year",
+          "name": "from... to... 数据变化表达"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "electronic download rose from two million to fifteen million a year",
+          "name": "while 对比两条数据"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+          "answer": "According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+          "note": "According to the data 表明数据的出处,使论述客观可信,是图表作文的核心句式。",
+          "point": "According to 引出数据来源"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+          "answer": "According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+          "note": "rose from two million to fifteen million 用 from... to... 描述数据变化范围;fell by more than half 用 by 描述变化幅度。",
+          "point": "from... to... 数据变化表达"
+        }
+      ]
+    },
+    {
+      "text": "A myriad of research can explain the trend, and the convenience of remote access is probably the most potent driver, since a student can now consult a paper at any hour and in any venue.",
+      "translation": "大量研究可以解释这一趋势,而远程访问的便利可能是最有力的驱动因素,因为学生现在可以在任何时间、任何地点查阅论文。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A myriad of research can explain the trend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A myriad of research"
+            },
+            {
+              "role": "谓语",
+              "text": "can explain"
+            },
+            {
+              "role": "宾语",
+              "text": "the trend"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the convenience of remote access is probably the most potent driver",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the convenience of remote access"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "probably the most potent driver"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "since"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "a student can now consult a paper at any hour and in any venue"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "数量短语 a myriad of",
+          "note": "a myriad of 表示\"大量的\",修饰不可数名词 research,是学术写作中的书面表达。"
+        },
+        {
+          "name": "probably 表推测",
+          "note": "probably 表示\"很可能\",在图表分析中避免绝对化,体现严谨。"
+        },
+        {
+          "name": "since 引导原因状语从句",
+          "note": "since 给出数据变化的原因,衔接自然,增强论证逻辑。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the convenience of remote access is probably the most potent driver",
+          "name": "数量短语 a myriad of"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the convenience of remote access is probably the most potent driver",
+          "name": "probably 表推测"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the convenience of remote access is probably the most potent driver",
+          "name": "since 引导原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A myriad of research can explain the trend, and the convenience of remote access is probably the most potent driver, since a student can now consult a paper at any hour and in any venue.",
+          "answer": "A myriad of research can explain the trend, and the convenience of remote access is probably the most potent driver, since a student can now consult a paper at any hour and in any venue.",
+          "note": "a myriad of 表示\"大量的\",修饰不可数名词 research,是学术写作中的书面表达。",
+          "point": "数量短语 a myriad of"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A myriad of research can explain the trend, and the convenience of remote access is probably the most potent driver, since a student can now consult a paper at any hour and in any venue.",
+          "answer": "A myriad of research can explain the trend, and the convenience of remote access is probably the most potent driver, since a student can now consult a paper at any hour and in any venue.",
+          "note": "probably 表示\"很可能\",在图表分析中避免绝对化,体现严谨。",
+          "point": "probably 表推测"
+        }
+      ]
+    },
+    {
+      "text": "Although the profuse exchange of an idea over coffee at a library cafe can remain hard to replace, the digital source can offer speed that a print copy can never match.",
+      "translation": "尽管在图书馆咖啡馆里借助咖啡进行的思想畅谈仍难以替代,数字资源却能提供纸质副本永远无法比拟的速度。",
+      "chunks": [
+        {
+          "label": "让步连词",
+          "color": "#f6c177",
+          "text": "Although"
+        },
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "the profuse exchange of an idea over coffee at a library cafe can remain hard to replace"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the digital source can offer speed that a print copy can never match",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the digital source"
+            },
+            {
+              "role": "谓语",
+              "text": "can offer"
+            },
+            {
+              "role": "宾语(含定语从句)",
+              "text": "speed that a print copy can never match"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "Although 引导让步状语从句",
+          "note": "Although 先承认对方观点,再转折提出自己的看法,使论述全面有说服力。"
+        },
+        {
+          "name": "remain + 形容词",
+          "note": "remain hard to replace 中 remain 是系动词,表示\"仍然……\",强调状态持续。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that a print copy can never match 修饰 speed,never 加强语气,说明数字资源不可替代的优势。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the profuse exchange of an idea over coffee at a library cafe can remain hard to replace",
+          "name": "Although 引导让步状语从句"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the profuse exchange of an idea over coffee at a library cafe can remain hard to replace",
+          "name": "remain + 形容词"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the profuse exchange of an idea over coffee at a library cafe can remain hard to replace",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Although the profuse exchange of an idea over coffee at a library cafe can remain hard to replace, the digital source can offer speed that a print copy can never match.",
+          "answer": "Although the profuse exchange of an idea over coffee at a library cafe can remain hard to replace, the digital source can offer speed that a print copy can never match.",
+          "note": "Although 先承认对方观点,再转折提出自己的看法,使论述全面有说服力。",
+          "point": "Although 引导让步状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Although the profuse exchange of an idea over coffee at a library cafe can remain hard to replace, the digital source can offer speed that a print copy can never match.",
+          "answer": "Although the profuse exchange of an idea over coffee at a library cafe can remain hard to replace, the digital source can offer speed that a print copy can never match.",
+          "note": "remain hard to replace 中 remain 是系动词,表示\"仍然……\",强调状态持续。",
+          "point": "remain + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "It is interesting that the most dramatic increase can accompany an open-access policy, which can remove the financial hurdle that may block a student who can not pay.",
+      "translation": "有趣的是,最急剧的增长伴随着开放获取政策,该政策可以扫除可能阻挡无力付费学生的经济障碍。",
+      "chunks": [
+        {
+          "label": "主干(形式主语)",
+          "color": "#a8dab5",
+          "text": "It is interesting",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "interesting"
+            }
+          ]
+        },
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "that the most dramatic increase can accompany an open-access policy"
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "which can remove the financial hurdle that may block a student who can not pay"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形式主语 It is interesting that",
+          "note": "It is interesting that... 中 It 是形式主语,that 从句是真正主语,用于引出值得注意的现象。",
+          "example": "It is clear that the trend will continue.",
+          "exampleCn": "很明显,这一趋势将继续。"
+        },
+        {
+          "name": "多重从句嵌套",
+          "note": "which 引导非限定性定语从句,其中 that 引导的定语从句修饰 hurdle,who 引导的定语从句修饰 student,体现长难句分析能力。"
+        },
+        {
+          "name": "can not pay 表述限制",
+          "note": "who can not pay 说明被障碍阻挡的人群,使数据分析更具体。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "which can remove the financial hurdle that may block a student who can not pay",
+          "name": "形式主语 It is interesting that"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "which can remove the financial hurdle that may block a student who can not pay",
+          "name": "多重从句嵌套"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "which can remove the financial hurdle that may block a student who can not pay",
+          "name": "can not pay 表述限制"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:很明显,这一趋势将继续。",
+          "answer": "It is clear that the trend will continue.",
+          "note": "It is interesting that... 中 It 是形式主语,that 从句是真正主语,用于引出值得注意的现象。",
+          "point": "形式主语 It is interesting that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is interesting that the most dramatic increase can accompany an open-access policy, which can remove the financial hurdle that may block a student who can not pay.",
+          "answer": "It is interesting that the most dramatic increase can accompany an open-access policy, which can remove the financial hurdle that may block a student who can not pay.",
+          "note": "which 引导非限定性定语从句,其中 that 引导的定语从句修饰 hurdle,who 引导的定语从句修饰 student,体现长难句分析能力。",
+          "point": "多重从句嵌套"
+        }
+      ]
+    },
+    {
+      "text": "As the chart can show, the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period.",
+      "translation": "如图表所示,在同一时期内,借阅实体书的人数比例可能从百分之四十下降到勉强百分之十五。",
+      "chunks": [
+        {
+          "label": "方式状语从句",
+          "color": "#c8a5e0",
+          "text": "As the chart can show"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the number of people"
+            },
+            {
+              "role": "定语从句",
+              "text": "who borrow a physical book"
+            },
+            {
+              "role": "谓语",
+              "text": "can fall"
+            },
+            {
+              "role": "状语",
+              "text": "from forty per cent to barely fifteen per cent"
+            },
+            {
+              "role": "时间状语",
+              "text": "in the same period"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "As the chart shows 引图句式",
+          "note": "As the chart can show 表示\"如图所示\",用 As 引导的方式状语从句引出数据结论。"
+        },
+        {
+          "name": "百分比表达",
+          "note": "from forty per cent to barely fifteen per cent 用 per cent 表示百分比,是图表描述的核心语言。"
+        },
+        {
+          "name": "who 引导定语从句",
+          "note": "who borrow a physical book 修饰 people,精确限定统计对象。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period",
+          "name": "As the chart shows 引图句式"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period",
+          "name": "百分比表达"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period",
+          "name": "who 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):As the chart can show, the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period.",
+          "answer": "As the chart can show, the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period.",
+          "note": "As the chart can show 表示\"如图所示\",用 As 引导的方式状语从句引出数据结论。",
+          "point": "As the chart shows 引图句式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):As the chart can show, the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period.",
+          "answer": "As the chart can show, the number of people who borrow a physical book can fall from forty per cent to barely fifteen per cent in the same period.",
+          "note": "from forty per cent to barely fifteen per cent 用 per cent 表示百分比,是图表描述的核心语言。",
+          "point": "百分比表达"
+        }
+      ]
+    },
+    {
+      "text": "Nevertheless, a meaningful minority still prefer a print copy, and a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen.",
+      "translation": "然而,仍然有相当数量的少数人偏好纸质副本,而在线课程的学生缺勤记录也表明,有些人就是无法在屏幕前集中注意力。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Nevertheless"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "a meaningful minority still prefer a print copy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a meaningful minority"
+            },
+            {
+              "role": "谓语",
+              "text": "still prefer"
+            },
+            {
+              "role": "宾语",
+              "text": "a print copy"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a record of student absenteeism from an online course"
+            },
+            {
+              "role": "谓语",
+              "text": "can suggest"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that some people simply can not concentrate on a screen"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "Nevertheless 表转折",
+          "note": "Nevertheless 表示\"然而\",在承认主流趋势后指出相反的事实,使分析全面。"
+        },
+        {
+          "name": "suggest 引导宾语从句",
+          "note": "suggest 后接 that 宾语从句,表示\"表明、暗示\",是数据解读的常用动词。"
+        },
+        {
+          "name": "can not 表能力限制",
+          "note": "simply can not concentrate 强调客观上的能力限制,与上文纸质偏好形成呼应。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen",
+          "name": "Nevertheless 表转折"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen",
+          "name": "suggest 引导宾语从句"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen",
+          "name": "can not 表能力限制"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Nevertheless, a meaningful minority still prefer a print copy, and a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen.",
+          "answer": "Nevertheless, a meaningful minority still prefer a print copy, and a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen.",
+          "note": "Nevertheless 表示\"然而\",在承认主流趋势后指出相反的事实,使分析全面。",
+          "point": "Nevertheless 表转折"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Nevertheless, a meaningful minority still prefer a print copy, and a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen.",
+          "answer": "Nevertheless, a meaningful minority still prefer a print copy, and a record of student absenteeism from an online course can suggest that some people simply can not concentrate on a screen.",
+          "note": "suggest 后接 that 宾语从句,表示\"表明、暗示\",是数据解读的常用动词。",
+          "point": "suggest 引导宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "These data should not be read as evidence of decline, because the total volume of reading can continue to burgeon, and an exploratory survey can confirm that people read more often, not less.",
+      "translation": "这些数据不应被解读为阅读衰退的证据,因为阅读总量仍在持续增长,而且探索性调查也证实人们阅读得更频繁了,而非更少。",
+      "chunks": [
+        {
+          "label": "主干一(被动)",
+          "color": "#a8dab5",
+          "text": "These data should not be read as evidence of decline",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "These data"
+            },
+            {
+              "role": "谓语(被动)",
+              "text": "should not be read"
+            },
+            {
+              "role": "补语",
+              "text": "as evidence of decline"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句一",
+          "color": "#c8a5e0",
+          "text": "the total volume of reading can continue to burgeon"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "原因状语从句二",
+          "color": "#c8a5e0",
+          "text": "an exploratory survey can confirm that people read more often, not less"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "被动语态表达观点",
+          "note": "should not be read as 用被动语态表达\"不应被解读为\",是学术写作中客观陈述观点的典型句式。"
+        },
+        {
+          "name": "be read as 搭配",
+          "note": "be read as 表示\"被解读为\",用于引导对数据含义的讨论。"
+        },
+        {
+          "name": "not... not less 对比强调",
+          "note": "more often, not less 用对称结构强调结论的反转,增强说服力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "an exploratory survey can confirm that people read more often, not less",
+          "name": "被动语态表达观点"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "an exploratory survey can confirm that people read more often, not less",
+          "name": "be read as 搭配"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "an exploratory survey can confirm that people read more often, not less",
+          "name": "not... not less 对比强调"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):These data should not be read as evidence of decline, because the total volume of reading can continue to burgeon, and an exploratory survey can confirm that people read more often, not less.",
+          "answer": "These data should not be read as evidence of decline, because the total volume of reading can continue to burgeon, and an exploratory survey can confirm that people read more often, not less.",
+          "note": "should not be read as 用被动语态表达\"不应被解读为\",是学术写作中客观陈述观点的典型句式。",
+          "point": "被动语态表达观点"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):These data should not be read as evidence of decline, because the total volume of reading can continue to burgeon, and an exploratory survey can confirm that people read more often, not less.",
+          "answer": "These data should not be read as evidence of decline, because the total volume of reading can continue to burgeon, and an exploratory survey can confirm that people read more often, not less.",
+          "note": "be read as 表示\"被解读为\",用于引导对数据含义的讨论。",
+          "point": "be read as 搭配"
+        }
+      ]
+    },
+    {
+      "text": "One variant of the chart, which may separate download by subject, can show that a student of literature can use a digital archive almost as often as a science student.",
+      "translation": "图表的另一版本可能按学科划分下载量,它可以显示,文科学生使用数字档案馆的频率几乎与理科学生一样高。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "One variant of the chart",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "One variant of the chart"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "which may separate download by subject"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can show that a student of literature can use a digital archive almost as often as a science student",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can show"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that a student of literature can use a digital archive almost as often as a science student"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "which 引导非限定性定语从句",
+          "note": "which may separate download by subject 对图表版本作补充说明,解释其划分方式。"
+        },
+        {
+          "name": "同级比较 as... as",
+          "note": "almost as often as 表示\"几乎与……一样频繁\",用于比较两组数据的接近程度。",
+          "example": "This method is as effective as the old one.",
+          "exampleCn": "这个方法与旧方法一样有效。"
+        },
+        {
+          "name": "can show that 引数据结论",
+          "note": "can show 后接宾语从句,说明图表揭示的具体发现。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can show that a student of literature can use a digital archive almost as often as a science student",
+          "name": "which 引导非限定性定语从句"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can show that a student of literature can use a digital archive almost as often as a science student",
+          "name": "同级比较 as... as"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "can show that a student of literature can use a digital archive almost as often as a science student",
+          "name": "can show that 引数据结论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):One variant of the chart, which may separate download by subject, can show that a student of literature can use a digital archive almost as often as a science student.",
+          "answer": "One variant of the chart, which may separate download by subject, can show that a student of literature can use a digital archive almost as often as a science student.",
+          "note": "which may separate download by subject 对图表版本作补充说明,解释其划分方式。",
+          "point": "which 引导非限定性定语从句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:这个方法与旧方法一样有效。",
+          "answer": "This method is as effective as the old one.",
+          "note": "almost as often as 表示\"几乎与……一样频繁\",用于比较两组数据的接近程度。",
+          "point": "同级比较 as... as"
+        }
+      ]
+    },
+    {
+      "text": "Without such precise description, a statistic can retain an ambiguity that may invite abuse, and a frustrating debate about the death of reading may perpetuate itself for a long time.",
+      "translation": "没有这样精确的描述,一个统计数字就可能保留歧义,招致滥用,而关于\"阅读之死\"的令人沮丧的争论可能会长期持续下去。",
+      "chunks": [
+        {
+          "label": "条件状语",
+          "color": "#8ab4f8",
+          "text": "Without such precise description"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "a statistic can retain an ambiguity that may invite abuse",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a statistic"
+            },
+            {
+              "role": "谓语",
+              "text": "can retain"
+            },
+            {
+              "role": "宾语(含定语从句)",
+              "text": "an ambiguity that may invite abuse"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a frustrating debate about the death of reading may perpetuate itself for a long time",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a frustrating debate about the death of reading"
+            },
+            {
+              "role": "谓语",
+              "text": "may perpetuate itself"
+            },
+            {
+              "role": "时间状语",
+              "text": "for a long time"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作条件状语",
+          "note": "Without such precise description 用\"没有……\"来提出假设条件,引出负面后果。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that may invite abuse 修饰 ambiguity,说明歧义可能带来的风险。"
+        },
+        {
+          "name": "perpetuate itself 搭配",
+          "note": "perpetuate itself 表示\"使自身持续\",描述争论自我延续的现象,是学术写作的正式表达。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a frustrating debate about the death of reading may perpetuate itself for a long time",
+          "name": "介词短语作条件状语"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a frustrating debate about the death of reading may perpetuate itself for a long time",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "a frustrating debate about the death of reading may perpetuate itself for a long time",
+          "name": "perpetuate itself 搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Without such precise description, a statistic can retain an ambiguity that may invite abuse, and a frustrating debate about the death of reading may perpetuate itself for a long time.",
+          "answer": "Without such precise description, a statistic can retain an ambiguity that may invite abuse, and a frustrating debate about the death of reading may perpetuate itself for a long time.",
+          "note": "Without such precise description 用\"没有……\"来提出假设条件,引出负面后果。",
+          "point": "介词短语作条件状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Without such precise description, a statistic can retain an ambiguity that may invite abuse, and a frustrating debate about the death of reading may perpetuate itself for a long time.",
+          "answer": "Without such precise description, a statistic can retain an ambiguity that may invite abuse, and a frustrating debate about the death of reading may perpetuate itself for a long time.",
+          "note": "that may invite abuse 修饰 ambiguity,说明歧义可能带来的风险。",
+          "point": "that 引导定语从句"
+        }
+      ]
+    },
+    {
+      "text": "For a government, the most attainable goal is not to reverse the trend but to rekindle interest in critical reading, for example through the renovation of a library space that can encourage careful study.",
+      "translation": "对政府而言,最可实现的目标不是逆转趋势,而是重新点燃人们对批判性阅读的兴趣,例如通过翻新图书馆空间来鼓励静心学习。",
+      "chunks": [
+        {
+          "label": "对象状语",
+          "color": "#8ab4f8",
+          "text": "For a government"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the most attainable goal is not to reverse the trend but to rekindle interest in critical reading",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the most attainable goal"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "not to reverse the trend but to rekindle interest in critical reading"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "for example"
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "through the renovation of a library space that can encourage careful study"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not... but... 结构",
+          "note": "not to reverse the trend but to rekindle interest 用\"不是……而是……\"结构明确主张的方向,是观点论述的经典句式。",
+          "example": "The aim is not to complain but to improve.",
+          "exampleCn": "目的不是抱怨,而是改进。"
+        },
+        {
+          "name": "for example 举例",
+          "note": "for example 引出具体措施,使建议具有可操作性。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that can encourage careful study 修饰 space,说明翻新的目的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the most attainable goal is not to reverse the trend but to rekindle interest in critical reading",
+          "name": "not... but... 结构"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the most attainable goal is not to reverse the trend but to rekindle interest in critical reading",
+          "name": "for example 举例"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "the most attainable goal is not to reverse the trend but to rekindle interest in critical reading",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:目的不是抱怨,而是改进。",
+          "answer": "The aim is not to complain but to improve.",
+          "note": "not to reverse the trend but to rekindle interest 用\"不是……而是……\"结构明确主张的方向,是观点论述的经典句式。",
+          "point": "not... but... 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For a government, the most attainable goal is not to reverse the trend but to rekindle interest in critical reading, for example through the renovation of a library space that can encourage careful study.",
+          "answer": "For a government, the most attainable goal is not to reverse the trend but to rekindle interest in critical reading, for example through the renovation of a library space that can encourage careful study.",
+          "note": "for example 引出具体措施,使建议具有可操作性。",
+          "point": "for example 举例"
+        }
+      ]
+    },
+    {
+      "text": "A university should therefore neither forfeit its physical building nor neglect digital innovation, since both can serve the fulfillment of a student need; after all, a library can be a microcosm of the whole campus, and the legislative duty to fund it may never disappear.",
+      "translation": "因此,大学既不应放弃实体建筑,也不应忽视数字创新,因为两者都能服务于学生需求的实现;毕竟,图书馆可以是整个校园的缩影,为其提供资金的立法责任也可能永远不会消失。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A university should therefore neither forfeit its physical building nor neglect digital innovation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A university"
+            },
+            {
+              "role": "谓语",
+              "text": "should therefore neither forfeit"
+            },
+            {
+              "role": "宾语一",
+              "text": "its physical building"
+            },
+            {
+              "role": "谓语二",
+              "text": "nor neglect"
+            },
+            {
+              "role": "宾语二",
+              "text": "digital innovation"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "since"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "both can serve the fulfillment of a student need"
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "after all"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a library can be a microcosm of the whole campus",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a library"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "can be"
+            },
+            {
+              "role": "表语",
+              "text": "a microcosm of the whole campus"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三",
+          "color": "#a8dab5",
+          "text": "the legislative duty to fund it may never disappear",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the legislative duty to fund it"
+            },
+            {
+              "role": "谓语",
+              "text": "may never disappear"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "neither... nor... 结构",
+          "note": "neither forfeit... nor neglect... 表示\"既不……也不……\",用于陈述不应采取的两类行为。",
+          "example": "We should neither ignore data nor trust it blindly.",
+          "exampleCn": "我们既不应忽视数据,也不应盲目相信数据。"
+        },
+        {
+          "name": "since 引导原因状语从句",
+          "note": "since 说明\"二者兼顾\"的理由,呼应前文结论。"
+        },
+        {
+          "name": "插入语 after all",
+          "note": "after all 表示\"毕竟\",引出常识性论据,增强说服力。"
+        },
+        {
+          "name": "名词化结构",
+          "note": "the legislative duty to fund it 与 the fulfillment of a student need 均为名词化表达,体现学术语体的正式性。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "A university should therefore neither forfeit its physical building nor neglect digital innovation",
+          "name": "neither... nor... 结构"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "A university should therefore neither forfeit its physical building nor neglect digital innovation",
+          "name": "since 引导原因状语从句"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "A university should therefore neither forfeit its physical building nor neglect digital innovation",
+          "name": "插入语 after all"
+        },
+        {
+          "grammarId": "g-s5u3",
+          "phrase": "A university should therefore neither forfeit its physical building nor neglect digital innovation",
+          "name": "名词化结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们既不应忽视数据,也不应盲目相信数据。",
+          "answer": "We should neither ignore data nor trust it blindly.",
+          "note": "neither forfeit... nor neglect... 表示\"既不……也不……\",用于陈述不应采取的两类行为。",
+          "point": "neither... nor... 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A university should therefore neither forfeit its physical building nor neglect digital innovation, since both can serve the fulfillment of a student need; after all, a library can be a microcosm of the whole campus, and the legislative duty to fund it may never disappear.",
+          "answer": "A university should therefore neither forfeit its physical building nor neglect digital innovation, since both can serve the fulfillment of a student need; after all, a library can be a microcosm of the whole campus, and the legislative duty to fund it may never disappear.",
+          "note": "since 说明\"二者兼顾\"的理由,呼应前文结论。",
+          "point": "since 引导原因状语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u3",
+      "name": "图表描述句式",
+      "note": "The line chart below can illustrate... 是雅思图表作文的标准开头,先点明图表类型与主要内容。",
+      "sourceExample": "The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+      "sourceExampleCn": "下面的折线图可以说明 2015 至 2025 年间数字图书馆使用的急剧增长,这一趋势值得观察者认真研究。"
+    },
+    {
+      "grammarId": "g-s5u3",
+      "name": "同位语补充说明",
+      "note": "a trend that an observer should study 对前面的整体趋势作补充说明,其中 that 引导定语从句。",
+      "sourceExample": "The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+      "sourceExampleCn": "下面的折线图可以说明 2015 至 2025 年间数字图书馆使用的急剧增长,这一趋势值得观察者认真研究。"
+    },
+    {
+      "grammarId": "g-s5u3",
+      "name": "时间范围表达",
+      "note": "between 2015 and 2025 说明数据的时间跨度,是图表描述必备要素。",
+      "sourceExample": "The line chart below can illustrate the dramatic growth of digital library use between 2015 and 2025, a trend that an observer should study with care.",
+      "sourceExampleCn": "下面的折线图可以说明 2015 至 2025 年间数字图书馆使用的急剧增长,这一趋势值得观察者认真研究。"
+    },
+    {
+      "grammarId": "g-s5u3",
+      "name": "According to 引出数据来源",
+      "note": "According to the data 表明数据的出处,使论述客观可信,是图表作文的核心句式。",
+      "sourceExample": "According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+      "sourceExampleCn": "根据数据,电子下载量从每年两百万次上升到一千五百万次,增幅超过百分之七百,而实体阅览室的访问量下降了一半以上。"
+    },
+    {
+      "grammarId": "g-s5u3",
+      "name": "from... to... 数据变化表达",
+      "note": "rose from two million to fifteen million 用 from... to... 描述数据变化范围;fell by more than half 用 by 描述变化幅度。",
+      "sourceExample": "According to the data, electronic download rose from two million to fifteen million a year, an increase of more than seven hundred per cent, while a visit to a physical reading room fell by more than half.",
+      "sourceExampleCn": "根据数据,电子下载量从每年两百万次上升到一千五百万次,增幅超过百分之七百,而实体阅览室的访问量下降了一半以上。"
+    }
+  ]
+}

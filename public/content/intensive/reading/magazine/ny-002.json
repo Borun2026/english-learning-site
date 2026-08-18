@@ -1,0 +1,24 @@
+{
+ "id": "ny-002",
+ "type": "magazine",
+ "journal": "The New Yorker",
+ "journalEn": "The New Yorker",
+ "title": "The Man Who Remembered Everything",
+ "date": "2026-02-25",
+ "difficulty": "intermediate",
+ "difficultyLabel": "中级 B1-B2",
+ "wordCount": 510,
+ "tags": [
+  "science",
+  "memory",
+  "profile"
+ ],
+ "paragraphs": [
+  "Solomon Shereshevsky was a Russian journalist who never took notes. He didn't need to. When his editor once scolded him for not writing down the day's assignments, Shereshevsky repeated back every word of the morning meeting verbatim. Confused by his editor's surprise, he didn't realize that other people couldn't do this.",
+  "Shereshevsky's case, studied extensively by the neuropsychologist Alexander Luria over three decades, remains one of the most extraordinary in the annals of memory research. He could recall random sequences of numbers, nonsense syllables, and foreign words years after encountering them. His memory seemed to have no limits.",
+  "But this gift came with a burden. Shereshevsky's mind was so crowded with sensory details that he struggled to think abstractly. Every word triggered a cascade of images, sounds, tastes, and smells. The word \"nothing\" evoked a mental picture of someone looking into an empty cabinet. He had difficulty understanding metaphors or grasping the main point of a story because he was lost in the details.",
+  "His condition, now known as hyperthymesia or highly superior autobiographical memory, reveals something profound about the nature of forgetting. We tend to think of forgetting as a failure of the mind. But Shereshevsky's case suggests that forgetting is not a bug but a feature. To think clearly, we must be able to forget.",
+  "Without the ability to filter out irrelevant details, Shereshevsky found it almost impossible to read fiction. Each sentence generated so many associations that he lost the thread of the narrative. He became a professional mnemonist, performing memory feats on stage, but his personal life was chaotic. He could not hold a steady job because every environment overwhelmed his senses.",
+  "His story challenges our assumptions about memory and intelligence. We assume that remembering more is always better. But Shereshevsky showed that a perfect memory can be a prison. Wisdom requires not just the ability to remember, but the wisdom to forget."
+ ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "d-s2u6",
+  "stage": 2,
+  "unitId": "s2u6",
+  "scene": "参观工厂讲解",
+  "goal": "向参观者讲清生产流程",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "参观者 Visitor", "line": "Thank you for showing us around. Could you tell us how the juice is made from the beginning?", "lineCn": "谢谢您带我们参观。能从头讲讲果汁是怎么做出来的吗?", "grammar": [ { "name": "被动语态提问", "note": "is made 是 be + 过去分词,强调果汁\"被制作\"而非谁来做。" } ],
+      "options": [
+        { "text": "Sure. First, the oranges are washed and peeled by machines in this room.", "textCn": "当然。首先,橙子会在这间房里被机器清洗和去皮。", "feedback": "用被动语态讲第一步,主动语态呢?没关系,讲解清晰。", "next": "n2" },
+        { "text": "It is very complex.", "textCn": "它非常复杂。", "feedback": "只给一句总结,参观者完全不知道流程。", "next": "n3" },
+        { "text": "I like juice.", "textCn": "我喜欢果汁。", "feedback": "答非所问,并没有回答制作流程。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "参观者 Visitor", "line": "I see! So the oranges are cleaned by machines first. What happens after the peeling?", "lineCn": "原来如此!橙子先被机器清洗。去皮之后又发生什么呢?", "grammar": [ { "name": "be + 过去分词被动式", "note": "are cleaned by machines,by 引出动作执行者,是典型的被动结构。" } ],
+      "options": [
+        { "text": "Then the juice is squeezed out and the juice is filtered twice to remove the pulp.", "textCn": "然后果汁被压榨出来,并且被过滤两次以去除果肉。", "feedback": "连续使用被动语态描述压榨和过滤,流程清晰。", "next": "n4" },
+        { "text": "Something happens after that.", "textCn": "之后会发生点事。", "feedback": "说了等于没说,信息量几乎为零。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "参观者 Visitor", "line": "Well, could you please break it down step by step? We are really curious about how everything is processed here.",
+      "lineCn": "嗯,能请您一步一步讲吗?我们非常好奇这里的一切是怎么加工的。", "grammar": [ { "name": "be processed", "note": "everything is processed... 用被动语态表示东西\"被加工\"。" } ],
+      "options": [
+        { "text": "Of course. The fruit is first checked by hand, and then it is loaded into the washing machines.", "textCn": "当然。水果先被人工检查,然后被装进清洗机。", "feedback": "补充了检查环节,讲解细致起来。", "next": "n2" },
+        { "text": "It is too hard to explain.", "textCn": "太难讲了。", "feedback": "作为讲解员却拒绝讲解,参观者只能失望而归。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "参观者 Visitor", "line": "Wow, the juice is filtered twice? What is done to make it stay fresh for a long time?",
+      "lineCn": "哇,果汁被过滤两次?为了让果汁长期保鲜,还要做什么呢?", "grammar": [ { "name": "被动语态 What is done", "note": "What is done to...? 询问\"被做了些什么\",突出动作而非执行者。" } ],
+      "options": [
+        { "text": "After filtering, the juice is heated to 120 degrees and then it is put into clean bottles. The bottles are sealed immediately.", "textCn": "过滤后,果汁被加热到 120 度,然后装进干净的瓶子。瓶子会被立刻密封。", "feedback": "加热、装瓶、密封一气呵成,被动语态贯穿始终,流程完整。", "next": "n6" },
+        { "text": "Magic.", "textCn": "魔法。", "feedback": "用魔法糊弄参观者,讲解完全不合格。", "next": "n5" }
+      ] },
+    "n5": { "id": "n5", "speaker": "参观者 Visitor", "line": "Ha, we would really love to know the real process. Can you show us what is done in the next step?",
+      "lineCn": "哈,我们真的很想知道真实的流程。能给我们看看下一步做了什么吗?", "grammar": [ { "name": "what is done", "note": "what is done in the next step 用被动语态,讲解加工步骤。" } ],
+      "options": [
+        { "text": "Sorry, I was not clear. The juice is poured into bottles, and then each bottle is checked by a camera.", "textCn": "抱歉,我刚才没说清楚。果汁被倒入瓶子,然后每个瓶子都被摄像头检查。", "feedback": "及时补救,把装瓶和质检环节讲清楚了。", "next": "n6" },
+        { "text": "It is not allowed to tell you.", "textCn": "不允许告诉你。", "feedback": "工厂核心环节当然可以讲,这个借口很伤参观者的心。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "参观者 Visitor", "line": "Now I understand the whole process! So finally, how is the finished juice prepared for delivery?",
+      "lineCn": "现在我明白整个流程了!那最后,做好的果汁是怎么被准备发货的?", "grammar": [ { "name": "被动语态 is prepared", "note": "be + 过去分词 prepared,表示果汁\"被准备\"发货,重点在动作结果。" } ],
+      "options": [
+        { "text": "Finally, the boxes are labeled with dates and loaded onto trucks. Then the juice is delivered to shops across the country.", "textCn": "最后,箱子被贴上日期标签并装上卡车,然后果汁被运往全国各地的商店。", "feedback": "从清洗到发货全程被动语态,讲解完美收官。", "next": "success" },
+        { "text": "You do not need to know that.", "textCn": "你们不需要知道这个。", "feedback": "最后一环拒绝讲解,给参观留下遗憾。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "参观者 Visitor", "line": "Perfect! Now we understand how every bottle of juice is produced. Thank you for the wonderful tour!", "lineCn": "太棒了!现在我们明白每一瓶果汁是怎么被生产出来的了。感谢这次精彩的参观!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "参观者 Visitor", "line": "What a pity. We came all the way here but learned nothing about the process.", "lineCn": "真遗憾。我们大老远赶来,却什么流程都没学到。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "参观者 Visitor", "line": "Oh, I see. Well, thanks anyway. We will read about it online instead.", "lineCn": "哦,好吧。不管怎样,谢谢您。我们回去上网查吧。", "end": true, "success": false }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "d-s2u3",
+  "stage": 2,
+  "unitId": "s2u3",
+  "scene": "讲述错过火车",
+  "goal": "向工作人员说清情况并改签成功",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "车站工作人员 Officer", "line": "Hello, sir. How can I help you? You look a little upset.", "lineCn": "您好,先生。有什么能帮您的?您看起来有点着急。", "grammar": [ { "name": "过去完成时的触发点", "note": "本课重点:过去的过去。讲述先发生的事要用 had + 过去分词。" } ],
+      "options": [
+        { "text": "I missed my train. It had already left before I arrived at the station.", "textCn": "我错过了火车。我到车站时它已经开走了。", "feedback": "用 had already left 交代了\"先走、后到\"的顺序,情况清楚。", "next": "n2" },
+        { "text": "Train! Train!", "textCn": "火车!火车!", "feedback": "光喊单词,工作人员完全不明白发生了什么。", "next": "n3" },
+        { "text": "I am fine.", "textCn": "我没事。", "feedback": "明明来求助却说没事,工作人员没法帮你。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "车站工作人员 Officer", "line": "Oh no! Which train was it? Had you arrived early enough to catch it?",
+      "lineCn": "哦天哪!是哪趟车?你有没有提早到车站赶上它呢?", "grammar": [ { "name": "Had you done...? 过去完成时疑问", "note": "问过去某个时间点之前是否做过某事,用 Had + 主语 + 过去分词。" } ],
+      "options": [
+        { "text": "It was the 8:15 express to Shanghai. I had left home at 7:00, but the bus had broken down on the way.", "textCn": "是 8 点 15 分开往上海的快车。我 7 点就出门了,但公交车半路抛锚了。", "feedback": "具体车次加原因,还用了两个过去完成时,条理清晰。", "next": "n4" },
+        { "text": "I forgot which train it was.", "textCn": "我忘了是哪趟车。", "feedback": "说不清车次,工作人员无法帮你查询改签。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "车站工作人员 Officer", "line": "Take a deep breath. What had happened before you got here? Tell me from the beginning, please.",
+      "lineCn": "深呼吸。你来这儿之前发生了什么?请从头讲起。", "grammar": [ { "name": "过去完成时描述背景", "note": "What had happened before...? 用 had 强调事情发生在到站之前。" } ],
+      "options": [
+        { "text": "I had planned to catch the 8:15 train, but the taxi was stuck in a traffic jam. So I missed it.", "textCn": "我本来打算坐 8 点 15 的车,但出租车堵在了路上,所以错过了。", "feedback": "从\"原计划\"讲到\"堵车\",再到\"错过\",顺序清楚。", "next": "n4" },
+        { "text": "I do not want to talk about it. Just help me!", "textCn": "我不想说。直接帮我就行!", "feedback": "不说情况就改签,工作人员无从下手。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "车站工作人员 Officer", "line": "I see. Your ticket was for the 8:15 train, and the train had already departed when you arrived. Let me check the next train for you.",
+      "lineCn": "明白了。你的票是 8 点 15 的车,你到的时候车已经开走了。我帮你查下一班车。", "grammar": [ { "name": "过去完成时表\"已发生\"", "note": "had already departed 强调\"到站时车已经开走\",先发生动作用过去完成时。" } ],
+      "options": [
+        { "text": "Thank you so much! Had the next train already left when you looked?", "textCn": "太感谢了!你查的时候下一班车已经开走了吗?", "feedback": "道谢并追问时刻,把改签落实到时间上。", "next": "n6" },
+        { "text": "Give me a refund instead.", "textCn": "那给我退票吧。", "feedback": "急着退票,但其实改签就能解决问题。", "next": "n5" }
+      ] },
+    "n5": { "id": "n5", "speaker": "车站工作人员 Officer", "line": "We can offer a refund, but it may cost extra. Are you sure you do not want to change your ticket instead?",
+      "lineCn": "可以退票,但可能要扣手续费。你确定不改签吗?", "grammar": [ { "name": "instead 的用法", "note": "instead 表示\"代替,反而\",用于提出另一选择。" } ],
+      "options": [
+        { "text": "You are right. I should change the ticket. I have already missed enough today.", "textCn": "你说得对,我应该改签。我今天已经错过太多车了。", "feedback": "接受建议改签,用现在完成时调侃自己,沟通顺畅。", "next": "n6" },
+        { "text": "No, I only want my money back.", "textCn": "不,我只想要回我的钱。", "feedback": "固执己见,既误行程又损失手续费。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "车站工作人员 Officer", "line": "Good decision. The next train leaves at 10:00. Would you like to change to that one?",
+      "lineCn": "明智的选择。下一班车 10 点出发。您要改到这一班吗?", "grammar": [ { "name": "Would you like to...?", "note": "would like to do 表礼貌请求或建议,比 want to 更委婉。" } ],
+      "options": [
+        { "text": "Yes, please. I had worried about being stuck here all day, but now everything is solved!", "textCn": "好的,谢谢。我之前还担心要被困在这儿一整天,现在都解决了!", "feedback": "同意改签,还用过去完成时回顾了之前的担心,完美收尾。", "next": "success" },
+        { "text": "Whatever you say.", "textCn": "随你便。", "feedback": "态度敷衍,但好在改签已办好。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "车站工作人员 Officer", "line": "All done! Here is your new ticket. Have a safe trip!", "lineCn": "办好了!这是您的新车票。祝您旅途顺利!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "车站工作人员 Officer", "line": "I am sorry, but without the details I cannot help you. Please come back with your ticket.", "lineCn": "抱歉,没有详细信息我没法帮您。请带着车票再来一趟。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "车站工作人员 Officer", "line": "As you wish. Please fill in this form for the refund at the window on the left.", "lineCn": "随您吧。请在左边窗口填一下退票表格。", "end": true, "success": false }
+  }
+}

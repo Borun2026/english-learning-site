@@ -1,0 +1,49 @@
+{
+  "id": "d-s2u7",
+  "stage": 2,
+  "unitId": "s2u7",
+  "scene": "描述理想公寓",
+  "goal": "向中介说清需求并约好看房",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "中介 Agent", "line": "Welcome to Sunshine Realty! What kind of apartment are you looking for?", "lineCn": "欢迎来到阳光房产!您想找什么样的公寓?", "grammar": [ { "name": "定语从句的引出", "note": "回答时用定语从句修饰 apartment,如 an apartment that has...。" } ],
+      "options": [
+        { "text": "I am looking for an apartment that has two bedrooms and a small balcony.", "textCn": "我在找一套有两间卧室和一个小阳台的公寓。", "feedback": "用 that 引导定语从句具体描述需求,非常清楚。", "next": "n2" },
+        { "text": "A nice one.", "textCn": "一套好的。", "feedback": "\"好\"太模糊,中介完全无从下手。", "next": "n3" },
+        { "text": "I like pizza.", "textCn": "我喜欢披萨。", "feedback": "答非所问,和租房毫无关系。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "中介 Agent", "line": "Great! We have several apartments that match your needs. Do you prefer a place near the subway or one that is close to your work?",
+      "lineCn": "太好了!我们有好几套符合您需求的房子。您更倾向靠近地铁的,还是离公司近的?", "grammar": [ { "name": "one that is close to...", "note": "one 代替 apartment,后面接 that 引导的定语从句进行限定。" } ],
+      "options": [
+        { "text": "I prefer the one that is near the subway, because I often travel around the city.", "textCn": "我更喜欢靠近地铁的那套,因为我经常在城里跑。", "feedback": "用定语从句精确表达偏好,还说明了原因。", "next": "n4" },
+        { "text": "Any one is fine.", "textCn": "哪套都行。", "feedback": "没有明确偏好,中介难以推荐。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "中介 Agent", "line": "Let me make it easier. Is there anything special that you really care about, like the view, the floor, or the furniture?",
+      "lineCn": "让我换个问法。有没有什么您特别在意的,比如景观、楼层或家具?", "grammar": [ { "name": "anything that you care about", "note": "anything 后用 that 引导定语从句,说明\"你在乎的\"。" } ],
+      "options": [
+        { "text": "Yes. I want an apartment whose floor is above the 10th, and one that faces south for the sunlight.", "textCn": "有。我想要楼层在十楼以上、朝南能晒到太阳的公寓。", "feedback": "用 whose 和 that 两个定语从句补充细节,需求具体。", "next": "n2" },
+        { "text": "I do not know what I want. You decide for me.", "textCn": "我不知道我要什么,你替我做主吧。", "feedback": "把需求全推给中介,很难找到合适房源。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "中介 Agent", "line": "Here is one that might be perfect for you: a 70-square-meter apartment on the 15th floor, whose balcony faces the river.",
+      "lineCn": "这儿有一套可能非常适合您:15 层 70 平米,阳台朝河。", "grammar": [ { "name": "whose 引导定语从句", "note": "whose balcony faces... 用 whose 表示\"它的阳台\",修饰公寓。" } ],
+      "options": [
+        { "text": "It sounds nice! How much is the rent for the apartment that has the river view?", "textCn": "听起来不错!那套有河景的公寓租金是多少?", "feedback": "用定语从句准确指代房源,还问了关键价格。", "next": "n6" },
+        { "text": "Show me everything at once, I cannot decide.", "textCn": "一次全给我看吧,我做不了决定。", "feedback": "信息过载,谈判效率很低。", "next": "n5" }
+      ] },
+    "n5": { "id": "n5", "speaker": "中介 Agent", "line": "Sure. We have three apartments that you can see today. Which one interests you the most?",
+      "lineCn": "好的。我们今天有三套房可以看。您对哪一套最感兴趣?", "grammar": [ { "name": "apartments that you can see", "note": "that you can see 作定语从句,修饰 apartments,说明\"可看的\"。" } ],
+      "options": [
+        { "text": "The one that is near the subway and has a balcony is the best for me. Let me see it first.", "textCn": "靠近地铁又有阳台的那套最适合我,先看它吧。", "feedback": "明确选中目标房源,推动看房安排。", "next": "n6" },
+        { "text": "All of them. I will visit every one of them next month.", "textCn": "全都感兴趣,我下个月再全看。", "feedback": "拖延到下个月,中介难以安排。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "中介 Agent", "line": "The rent is 2,800 yuan a month for the one that faces the river. When would you like to visit it?",
+      "lineCn": "朝河那套月租 2800 元。您想什么时候去看房呢?", "grammar": [ { "name": "the one that faces the river", "note": "that faces the river 限定修饰 one,避免与其它房源混淆。" } ],
+      "options": [
+        { "text": "I am free this Saturday morning. Can we meet at 10 o'clock in front of the building?", "textCn": "我周六上午有空。我们可以 10 点在大楼前碰面吗?", "feedback": "明确时间地点,看房约定顺利达成。", "next": "success" },
+        { "text": "I will call you when I am free. Maybe someday.", "textCn": "我有空再打给你,也许某天吧。", "feedback": "含糊其辞,看房遥遥无期。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "中介 Agent", "line": "Perfect! I will book it for 10 a.m. this Saturday. See you then!", "lineCn": "完美!我就订周六上午十点。到时候见!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "中介 Agent", "line": "I am sorry, but without a clear requirement I cannot find the right apartment for you. Come back when you know what you want.", "lineCn": "抱歉,没有明确需求我很难帮您找到合适的房子。想清楚了再来吧。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "中介 Agent", "line": "No problem. Take your time. Feel free to contact me whenever you are ready.", "lineCn": "没问题。您慢慢考虑,随时联系我。", "end": true, "success": false }
+  }
+}

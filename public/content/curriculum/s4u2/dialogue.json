@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u2",
+  "stage": 4,
+  "unitId": "s4u2",
+  "scene": "导师学术交流",
+  "goal": "与导师就研究方向达成共识",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "导师 Professor Liu",
+      "line": "I have read your research proposal, and I would like to hear your own understanding of the direction before we reach any agreement.",
+      "lineCn": "我读了你的研究计划书,在达成任何共识之前,我想先听听你自己对研究方向的看法。",
+      "grammar": [
+        { "name": "并列复合句 + before 时间状语从句", "note": "and 连接两个并列分句,before we reach any agreement 是时间状语从句;整句含多层从句,是典型的长难句。" }
+      ],
+      "options": [
+        { "text": "Based on my reading, I believe the core issue lies in how input frequency affects incidental vocabulary acquisition among intermediate learners, which I hope to examine through a longitudinal design.", "textCn": "基于我的阅读,我认为核心问题在于输入频率如何影响中级学习者的伴随性词汇习得,我希望通过纵向研究设计来考察这一点。", "feedback": "清晰地表达了研究问题、对象和方法,让导师看到你对方向的独立思考。", "next": "n2" },
+        { "text": "I am not sure. My previous supervisor just told me to choose something about vocabulary, so I followed his advice.", "textCn": "我不确定。之前的导师让我选词汇相关的方向,我就照做了。", "feedback": "缺乏独立思考会让导师担心你的科研潜力,研究方向必须由你自己认同。", "next": "n3" },
+        { "text": "I think any topic about vocabulary is fine, as long as it is easy to finish.", "textCn": "我觉得词汇相关的题目都行,只要好毕业就行。", "feedback": "把研究当任务应付的态度会严重降低导师对你的评价。", "next": "fail1" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "导师 Professor Liu",
+      "line": "That is a promising angle, although I should point out that longitudinal studies are costly in time, and I wonder whether you have considered the practical difficulties involved.",
+      "lineCn": "这个角度很有前景,尽管我必须指出纵向研究很耗时,我想知道你是否考虑过其中的实际困难。",
+      "grammar": [
+        { "name": "although 让步从句 + wonder whether 宾语从句", "note": "although 引导让步状语从句,whether you have considered... 作 wonder 的宾语从句,让步与疑问嵌套,表达委婉的质疑。" }
+      ],
+      "options": [
+        { "text": "I have considered that, and my plan is to collaborate with two local high schools, where I can collect data over one semester while keeping the sample stable.", "textCn": "我考虑过了,我的计划是与两所本地高中合作,在那里我可以用一个学期收集数据,同时保持样本稳定。", "feedback": "对困难有预案,用 where 定语从句和 while 分词结构展示了你对可行性的思考。", "next": "n4" },
+        { "text": "I have not thought about the difficulties yet, because I assumed the school would arrange everything for me.", "textCn": "我还没想过困难,我以为学校会帮我安排好一切。", "feedback": "把责任推给学校会让导师失望,科研需要主动解决困难。", "next": "n3" },
+        { "text": "If it is too difficult, we can just switch to a questionnaire study, which is much simpler.", "textCn": "如果太难,我们就换成问卷调查,简单得多。", "feedback": "轻易放弃自己的方向显得缺乏坚持,导师更看重解决问题的能力。", "next": "fail2" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "导师 Professor Liu",
+      "line": "Let me be direct with you: without a topic you genuinely care about, the next three years will be painful, because motivation is what sustains research work in the long run.",
+      "lineCn": "我直说吧:没有你真正关心的题目,接下来三年会很难熬,因为动力才是长期支撑科研工作的东西。",
+      "grammar": [
+        { "name": "without 介词短语 + 强调句 it is...that", "note": "without a topic 是条件介词短语,动机是 what 引导的表语从句;全句通过分词和从句叠加表达因果与条件关系。" }
+      ],
+      "options": [
+        { "text": "You are right, Professor Liu. May I spend two weeks exploring recent publications in your lab's field and then bring you a revised proposal that reflects my genuine interest?", "textCn": "您说得对,刘老师。我能否用两周时间研读您实验室方向的最新文献,然后带来一份体现我真兴趣的修改方案?", "feedback": "虚心接受批评并提出具体行动方案,导师最欣赏这种可执行的改进意愿。", "next": "n4" },
+        { "text": "But I really do not know what to do, so it would be better if you just assigned me a ready-made topic.", "textCn": "但我真不知道做什么,所以最好您直接给我一个现成题目。", "feedback": "把选题责任完全推给导师,这不符合研究生培养的要求。", "next": "fail2" },
+        { "text": "I think my proposal is already good enough, so we do not need to change anything.", "textCn": "我觉得我的方案已经够好了,不需要改动。", "feedback": "听不进导师的反馈,这种固执会破坏师生关系。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "导师 Professor Liu",
+      "line": "Good. Given your plan, I suggest narrowing the scope to one proficiency group, which will make the data more comparable, and I can arrange for you to join our monthly seminar starting next week.",
+      "lineCn": "好。鉴于你的计划,我建议把范围缩小到一个水平组,这样数据更有可比性,我也可以安排你下周开始参加我们每月一次的组会。",
+      "grammar": [
+        { "name": "Given 介词短语 + which 非限定性定语从句", "note": "Given your plan 作条件状语,which 引导非限定性定语从句指代整个前句,是学术交流中常见的长句组装方式。" }
+      ],
+      "options": [
+        { "text": "Thank you, Professor Liu. I fully agree with narrowing the scope, and I look forward to joining the seminar, where I can learn how my peers handle similar methodological challenges.", "textCn": "谢谢刘老师。我完全同意缩小范围,也期待参加组会,在那里我可以学习同门如何处理类似的方法论难题。", "feedback": "接受建议并表达期待,用 where 从句把参与组会和自身成长联系起来,共识就此达成。", "next": "success" },
+        { "text": "I would rather keep the current scope, because a wider range of participants will make my thesis look more impressive.", "textCn": "我宁愿保留当前范围,因为研究对象更广,论文看起来更厉害。", "feedback": "为了论文观感而拒绝导师的专业建议,显得不成熟,共识难以达成。", "next": "fail1" },
+        { "text": "Fine, whatever you say. I will just follow the plan.", "textCn": "行,您说怎样就怎样,我照做就行。", "feedback": "消极服从而非真正认同,导师无法确认你是否理解了这个方向的合理性。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "导师 Professor Liu",
+      "line": "Excellent. Then we are in agreement: you will refine the proposal around one proficiency group under a longitudinal design, and we will review it together at our seminar next month.",
+      "lineCn": "很好。那我们达成一致了:你将围绕纵向设计、聚焦一个水平组完善方案,下个月组会上我们一起审阅。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "导师 Professor Liu",
+      "line": "I respect your opinion, but I am concerned that we cannot reach a consensus today. Please reconsider and we can discuss this again next week.",
+      "lineCn": "我尊重你的看法,但我担心今天无法达成共识。请你再考虑一下,我们下周再讨论。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "导师 Professor Liu",
+      "line": "I am afraid we have not found common ground today. A research direction should come from within you, so please think it over seriously before our next meeting.",
+      "lineCn": "恐怕我们今天没有找到共识。研究方向应该来自你内心,请在下一次见面之前认真想一想。",
+      "end": true,
+      "success": false
+    }
+  }
+}

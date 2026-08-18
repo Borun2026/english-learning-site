@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u9",
+  "stage": 4,
+  "unitId": "s4u9",
+  "scene": "文献翻译协作",
+  "goal": "完成文献翻译的分工与标准确认",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "协作组长 He Qiang",
+      "line": "This thirty-page literature review has to be translated by the end of the month, and since it contains dense academic language, we should agree on translation standards before assigning the sections.",
+      "lineCn": "这三十页文献综述必须月底前翻译完,由于语言密度高,我们应该在分配章节前先商定翻译标准。",
+      "grammar": [
+        { "name": "since 原因从句 + before 时间状语从句", "note": "since it contains... 是原因状语从句,before assigning 后接动名词作时间状语,句首 now 主句用 should 表建议,结构严谨。" }
+      ],
+      "options": [
+        { "text": "I suggest we standardize on three points: keep all technical terms in a shared glossary, translate long sentences by preserving their logical structure, and mark every uncertain passage for team review.", "textCn": "我建议统一三点:所有术语进入共享词表、翻译长句时保留其逻辑结构、拿不准的段落全部标注出来供全组审阅。", "feedback": "术语、长难句、疑难处理三方面都给出可执行标准,方案全面。", "next": "n2" },
+        { "text": "Let us just each translate our own way, since we are all graduate students and everyone's English is good enough.", "textCn": "各翻各的就行,大家都是研究生,英语都够用。", "feedback": "没有统一标准,术语和文风必然冲突,后续整合会非常痛苦。", "next": "n3" },
+        { "text": "Standards are a waste of time, so let us just finish it with machine translation and polish it a little.", "textCn": "定标准浪费时间,直接机翻然后稍微润色就行。", "feedback": "用机翻应付学术文献翻译,质量根本无法保证,也违背课程要求。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "协作组长 He Qiang",
+      "line": "Those standards are sensible. Now, regarding the division of labor, I propose that each member take one thematic section, with the exception of the methodology part, which involves the most complex nested clauses and should go to the strongest translator.",
+      "lineCn": "这些标准很合理。关于分工,我建议每人负责一个主题章节,但方法论部分除外,它包含最复杂的嵌套从句,应该交给最强的译者。",
+      "grammar": [
+        { "name": "with the exception of 独立结构 + which 定语从句", "note": "with the exception of the methodology part 是介词短语作补充说明,which 引导非限定性定语从句并含 should 情态,体现组长严谨的安排。" }
+      ],
+      "options": [
+        { "text": "I volunteer for the methodology part, since I have translated similar experimental papers for my own thesis, and I can also draft the glossary before we start.", "textCn": "我主动认领方法论部分,因为我为自己的论文翻译过类似的实验文章,我还可以在开工前先起草术语表。", "feedback": "主动承担难点并额外贡献术语表,示范了协作精神。", "next": "n4" },
+        { "text": "I will take the easiest section, and I will not join the glossary work, because it is boring and takes too much time.", "textCn": "我选最简单的部分,不参加术语表工作,太无聊也太费时间。", "feedback": "只挑容易的做且拒绝公共任务,标准再完善也无法落实。", "next": "n3" },
+        { "text": "Since I am busy next week, could someone else take my share and I will return the favor after graduation?", "textCn": "我下周很忙,谁能替我把活干了,我毕业后一定还这个人情。", "feedback": "试图零成本转嫁任务,不切实际且伤害团队信任。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "协作组长 He Qiang",
+      "line": "I have to point out that this project is graded as one piece of work, and inconsistent terminology across sections will be penalized as a whole, so a loose approach benefits no one in the end.",
+      "lineCn": "我必须指出,本任务按整体评分,章节间术语不一致会整体扣分,所以松散的做法最终对谁都没有好处。",
+      "grammar": [
+        { "name": "宾语从句 + 过去分词作表语", "note": "point out that... 后接宾语从句,inconsistent terminology 中过去分词 inconsistent 作定语,so 引出结论句,层层推进。" }
+      ],
+      "options": [
+        { "text": "You are right, and I apologize. Let us finalize the shared glossary today and have each member sign their section, so that quality and responsibility are both traceable.", "textCn": "你说得对,我道歉。我们今天就把共享术语表定稿,每个成员对自己的章节签字负责,这样质量与责任都可追溯。", "feedback": "从分歧回到行动,并提出可追溯的问责机制,协作重新走上正轨。", "next": "n4" },
+        { "text": "If you insist on these rules, then I will work alone on my own section and skip all team meetings.", "textCn": "如果你坚持这些规则,那我就单独做自己的部分,不参加任何组会。", "feedback": "以退出协作对抗规则,个人主义会让整个项目解体。", "next": "fail1" },
+        { "text": "Then maybe we should just tell the professor that the requirements are unrealistic and ask for more time, with no translation at all this week.", "textCn": "那我们不如直接告诉老师要求不现实、多要些时间,这周干脆不翻译。", "feedback": "用逃避代替协商,连基本产出都没有,沟通无法推进。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "协作组长 He Qiang",
+      "line": "Perfect, the plan is taking shape. Now, for the final quality standard, I propose a two-round proofreading system: the first round checks fidelity to the original, and the second round checks readability in Chinese, with both rounds completed before next Monday's deadline.",
+      "lineCn": "很好,方案成型了。最后一项质量标准,我提议两轮校对制:第一轮核查忠实度,第二轮核查中文可读性,两轮都在下周一截止前完成。",
+      "grammar": [
+        { "name": "冒号分隔的多分句 + with 独立主格", "note": "冒号后两个并列分句定义两轮校对,with both rounds completed 是独立主格结构交代截止条件,信息完整而紧凑。" }
+      ],
+      "options": [
+        { "text": "Agreed. To make the two rounds efficient, I suggest pairing translators from different sections as mutual reviewers, so that each pair checks the other's long-sentence handling and terminology use against the shared glossary.", "textCn": "同意。为提高两轮效率,我建议跨章节结对互审,每对按共享词表检查对方的长句处理和术语使用。", "feedback": "把校对标准落地为具体机制,并直接挂钩已定的术语标准,分工与标准全部确认。", "next": "success" },
+        { "text": "Two rounds is too much for me, so I will only do the first round, and I will consider my part done after that.", "textCn": "两轮太多了,我只做第一轮,做完就算完工。", "feedback": "擅自削减团队约定的流程,可读性环节直接缺失。", "next": "fail2" },
+        { "text": "Since we have the glossary, maybe we do not need proofreading at all, and we can submit directly after the first pass.", "textCn": "既然有术语表,可能根本不需要校对,一遍翻完直接交就行。", "feedback": "迷信术语表而否定校对,质量防线被轻易拆除。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "协作组长 He Qiang",
+      "line": "Then everything is confirmed: shared glossary drafted this week, sections assigned by theme, and a two-round cross-review completed before Monday's deadline. Let us start working immediately.",
+      "lineCn": "那一切都确认了:本周起草共享术语表、按主题分配章节、周一截止前完成两轮交叉校对。我们立即开工。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "协作组长 He Qiang",
+      "line": "I cannot accept a plan without quality control, and I hope the rest of the team can convince you otherwise before the professor sees the result.",
+      "lineCn": "我不能接受没有质量控制的方案,希望团队其他成员能在老师看到成果之前说服你改变主意。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "协作组长 He Qiang",
+      "line": "Then the remaining members will carry out the two rounds as agreed, and we will record exactly who covered which part, so that the final report reflects the real contribution of each person.",
+      "lineCn": "那么其余成员将按约定完成两轮校对,并如实记录每个人承担的部分,让最终报告反映每个人的真实贡献。",
+      "end": true,
+      "success": false
+    }
+  }
+}

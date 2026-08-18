@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u5",
+  "stage": 2,
+  "unitId": "s2u5",
+  "title": "听力挑战 · 谈论爱好",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "What do you enjoy doing in your free time?",
+      "lineCn": "空闲时间你喜欢做什么?",
+      "grammar": [
+        { "name": "动名词作宾语", "note": "enjoy doing 中 doing 是动名词,表示喜欢做的动作。" }
+      ],
+      "options": [
+        { "text": "I enjoy playing basketball with friends.", "correct": true, "feedback": "enjoy doing 动名词作宾语,回答爱好贴切。" },
+        { "text": "I enjoy my dinner every night.", "correct": false, "feedback": "enjoy 接名词表示享受晚饭,没有回答爱好。" },
+        { "text": "I played tennis yesterday.", "correct": false, "feedback": "过去时说的是昨天一次动作,不是爱好。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "How long have you been into photography lately?",
+      "lineCn": "你最近迷上摄影多久了?",
+      "grammar": [
+        { "name": "动名词作介词宾语", "note": "be into 后接动名词或名词,表示对某事物的兴趣。" }
+      ],
+      "options": [
+        { "text": "I love taking photos of birds.", "correct": true, "feedback": "love doing 用动名词说明摄影爱好,回应自然。" },
+        { "text": "I took photos last Sunday.", "correct": false, "feedback": "说的是上周的偶尔活动,不是持续爱好。" },
+        { "text": "I am good at math and science.", "correct": false, "feedback": "谈的是学科,没有回应摄影话题。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "What do you think about going hiking this weekend?",
+      "lineCn": "这周末去徒步怎么样?",
+      "grammar": [
+        { "name": "动名词作介词宾语", "note": "about 后接动名词 going,介词后动词必须用 -ing 形式。" }
+      ],
+      "options": [
+        { "text": "That sounds great. I like hiking a lot.", "correct": true, "feedback": "like doing 表达对徒步的喜爱,接受提议自然。" },
+        { "text": "I went hiking last month.", "correct": false, "feedback": "过去时谈上个月的事,没有回应这周末的提议。" },
+        { "text": "I like to eat pizza on weekends.", "correct": false, "feedback": "谈的是吃披萨,与徒步提议无关。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u9",
+  "stage": 4,
+  "unitId": "s4u9",
+  "title": "听力挑战 · 文献翻译协作",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "学生",
+      "line": "We have divided the literature into sections, and each member is responsible for one chapter.",
+      "lineCn": "我们已把文献分成若干部分,每位成员负责一章。",
+      "grammar": [
+        { "name": "现在完成时 + 分工表达", "note": "have divided 强调分工已完成;be responsible for 是表达任务分配的标准搭配。" }
+      ],
+      "options": [
+        { "text": "Each member handles one chapter of the literature.", "correct": true, "feedback": "成员分工明确:每人负责一章。" },
+        { "text": "One member translates the whole literature alone.", "correct": false, "feedback": "文献已按章节分工,并非一人承担全部。" },
+        { "text": "The literature was never divided among the members.", "correct": false, "feedback": "原文说明分工已经完成。" }
+      ]
+    },
+    {
+      "speaker": "组长",
+      "line": "Please keep the terminology consistent throughout the project so that the final version reads smoothly.",
+      "lineCn": "请在整个项目中保持术语一致,这样最终版本读起来才流畅。",
+      "grammar": [
+        { "name": "目的状语从句 so that", "note": "so that 引导目的状语从句(让终稿流畅);keep...consistent 是术语统一的标准表达。" }
+      ],
+      "options": [
+        { "text": "Terminology should remain consistent in the whole project.", "correct": true, "feedback": "组长要求全程统一术语。" },
+        { "text": "Each translator may choose different terms freely.", "correct": false, "feedback": "组长强调的正是术语一致,不能各行其是。" },
+        { "text": "The final version will be polished by another team.", "correct": false, "feedback": "组长希望靠统一术语保证终稿流畅,并非外包润色。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I found some technical terms that are hard to translate, so I will mark them for group discussion.",
+      "lineCn": "我遇到一些很难翻译的术语,所以会把它们标出来供小组讨论。",
+      "grammar": [
+        { "name": "定语从句 + 结果状语", "note": "that are hard to translate 修饰 terms;so 连接结果,标记是为了集体讨论解决。" }
+      ],
+      "options": [
+        { "text": "He will mark the difficult terms for group discussion.", "correct": true, "feedback": "难译术语会被标注出来供小组讨论。" },
+        { "text": "He will translate the difficult terms without telling anyone.", "correct": false, "feedback": "他是标注出来集体讨论,不是私下处理。" },
+        { "text": "He will delete the difficult terms from the translation.", "correct": false, "feedback": "原文没有删词的意思,而是标记讨论。" }
+      ]
+    },
+    {
+      "speaker": "组长",
+      "line": "After we finish the translation, we will compare it with the original text to check accuracy.",
+      "lineCn": "翻译完成后,我们会把它与原文对照,检查准确性。",
+      "grammar": [
+        { "name": "时间状语从句 + 不定式表目的", "note": "After we finish 是时间状语从句;to check accuracy 是不定式表目的,体现翻译质检流程。" }
+      ],
+      "options": [
+        { "text": "The translation will be checked against the original text.", "correct": true, "feedback": "译完后要与原文对照检查准确性。" },
+        { "text": "The original text will be discarded after translation.", "correct": false, "feedback": "原文是拿来对照检查的,不会丢弃。" },
+        { "text": "Accuracy is not important in this project.", "correct": false, "feedback": "检查准确性正是组长强调的环节。" }
+      ]
+    }
+  ]
+}

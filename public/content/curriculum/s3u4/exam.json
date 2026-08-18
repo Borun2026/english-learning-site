@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u4",
+  "stage": 3,
+  "unitId": "s3u4",
+  "title": "真题演练 · 非谓语作状语",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 非谓语作状语。",
+  "questions": [
+    {
+      "q": "___ the exam, she felt relaxed.",
+      "options": [
+        "Passing",
+        "Passed",
+        "Having passed",
+        "Pass"
+      ],
+      "answer": 2,
+      "analysis": "先考完试再放松,用 Having passed 表动作先后。",
+      "point": "g-s3u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ in the rain, the clothes got wet.",
+      "options": [
+        "Leaving",
+        "Left",
+        "Leave",
+        "To leave"
+      ],
+      "answer": 1,
+      "analysis": "clothes 被留在雨中,用过去分词 Left。",
+      "point": "g-s3u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He studied hard ___ the test.",
+      "options": [
+        "pass",
+        "passed",
+        "to pass",
+        "passing"
+      ],
+      "answer": 2,
+      "analysis": "不定式表目的,\"为了通过考试\"。",
+      "point": "g-s3u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ from the top, the lake is like a mirror.",
+      "options": [
+        "Seeing",
+        "Seen",
+        "To see",
+        "See"
+      ],
+      "answer": 1,
+      "analysis": "湖是被看的,用过去分词 Seen。",
+      "point": "g-s3u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Weather ___, we will go hiking tomorrow.",
+      "options": [
+        "permits",
+        "permitting",
+        "permitted",
+        "permit"
+      ],
+      "answer": 1,
+      "analysis": "独立主格结构:名词 + 分词。",
+      "point": "g-s3u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Walking in the park, the flowers were beautiful.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Walking in the park, I saw beautiful flowers.。悬垂分词:分词的逻辑主语必须是句子主语。",
+      "point": "g-s3u4",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

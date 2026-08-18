@@ -1,0 +1,87 @@
+{
+  "id": "e-s4u5",
+  "stage": 4,
+  "unitId": "s4u5",
+  "title": "真题演练 · 英译汉技巧",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 英译汉技巧。",
+  "questions": [
+    {
+      "q": "What is the essential element in the dynamics of social influence? Text 4 Bankers have been blaming themselves for their troubles in public. Behind the scenes, they have been taking aim at someone else: the accounting standard-setters. Their rules, moan the banks, have forced them to report enormous losses, and it's just not fair. These rules say they must value some assets at the price a third party would pay, not the price managers and regulators would like them to fetch. Unfortunately, banks' lobbying now seems to be working. The details may be unknowable, but the independence of standard-setters, essential to the proper functioning of capital markets, is being compromised. And, unless banks carry toxic assets at prices that attract buyers, reviving the banking system will be difficult. After a bruising encounter with Congress, America's Financial Accounting Standards Board (FASB) rushed through rule changes. These gave banks more freedom to use models to value illiquid assets and more flexibility in recognizing losses on long-term assets in their income statement. Bob Herz, the FASB's chairman, cried out against those who \"question our motives.\" Yet bank shares rose and the changes enhance what one lobby group politely calls \"the use of judgment by management.\" European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise. The IASB says it does not want to act without overall planning, but the pressure to fold when it completes it reconstruction of rules later this year is strong. Charlie McCreevy, a European commissioner, warned the IASB that it did \"not live in a political vacuum\" but \"in the real word\" and that Europe could yet develop different rules. It was banks that were on the wrong planet, with accounts that vastly overvalued assets. Today they argue that market prices overstate losses, because they largely reflect the temporary illiquidity of markets, not the likely extent of bad debts. The truth will not be known for years. But bank's shares trade below their book value, suggesting that investors are skeptical. And dead markets partly reflect the paralysis of banks which will not sell assets for fear of booking losses, yet are reluctant to buy all those supposed bargains. To get the system working again, losses must be recognized and dealt with. America's new plan to buy up toxic assets will not work unless banks mark assets to levels which buyers find attractive. Successful markets require independent and even combative standard-setters. The FASB and IASB have been exactly that, cleaning up rules on stock options and pensions, for example, against hostility from special interests. But by giving in to critics now they are inviting pressure to make more concessions.",
+      "options": [
+        "The eagerness to be accepted.",
+        "The impulse to influence others.",
+        "The readiness to be influenced.",
+        "The inclination to rely on others."
+      ],
+      "answer": 2,
+      "analysis": "根据题干,线索定位到最后一段,“那些被称为风靡全球的影响的现象的主要条件不是一小部分‘潮\n人’,而是一大部分容易受影响的人”,thepresencenotofafewinfluentialsbut,rather,ofacriticalmassofeasily\ninfluencedpeople。这是作者批驳了TheTippingPoint中的老观点后提出的新观点。A选项未谈及渴望被人接受\n的问题;B选项impulse,属于对第四段第一句的曲解;D选项在文章中找不到反应relyon的依据",
+      "point": "zhenti:z2010-reading-3:q5",
+      "source": "2010 考研英语一真题"
+    },
+    {
+      "q": "Which of the following proverbs is closest to the message the text tries to convey? Text 2 For the past several years, the Sunday newspaper supplement Parade has featured a column called “Ask Marilyn.” People are invited to query Marilyn vos Savant, who at age 10 had tested at a mental level of someone about 23 years old; that gave her an IQ of 228—the highest score ever recorded. IQ tests ask you to complete verbal and visual analogies, to envision paper after it has been folded and cut, and to deduce numerical sequences, among other similar tasks. So it is a bit confusing when vos Savant fields such queries from the average Joe (whose IQ is 100) as, What’s the difference between love and fondness? Or what is the nature of luck and coincidence? It’s not obvious how the capacity to visualize objects and to figure out numerical patterns suits one to answer questions that have eluded some of the best poets and philosophers. Clearly, intelligence encompasses more than a score on a test. Just what does it mean to be smart? How much of intelligence can be specified, and how much can we learn about it from neurology, genetics, computer science and other fields? The defining term of intelligence in humans still seems to be the IQ score, even though IQ tests are not given as often as they used to be. The test comes primarily in two forms: the Stanford-Binet Intelligence Scale and the Wechsler Intelligence Scales (both come in adult and children’s version). Generally costing several hundred dollars, they are usually given only by psychologists, although variations of them populate bookstores and the World Wide Web. Superhigh scores like vos Savant’s are no longer possible, because scoring is now based on a statistical population distribution among age peers, rather than simply dividing the mental age by the chronological age and multiplying by 100. Other standardized tests, such as the Scholastic Assessment Test (SAT) and the Graduate Record Exam (GRE), capture the main aspects of IQ tests. Such standardized tests may not assess all the important elements necessary to succeed in school and in life, argues Robert J. Sternberg. In his article “How Intelligent Is Intelligence Testing?”, Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge, components also critical to problem solving and life success. Moreover, IQ tests do not necessarily predict so well once populations or situations change. Research has found that IQ predicted leadership skills when the tests were given under low-stress conditions, but under high-stress conditions, IQ was negatively correlated with leadership—that is, it predicted the opposite. Anyone who has toiled through SAT will testify that test-taking skill also matters, whether it’s knowing when to guess or what questions to skip.",
+      "options": [
+        "“Faith will move mountains.”",
+        "“One reaps what one sows.”",
+        "“Practice makes perfect.”",
+        "“Like father, like son.”"
+      ],
+      "answer": 2,
+      "analysis": "文章第一段从一个现象引出杰出表现是如何形成的这一话题,第二段作出种种猜测。第三、四段通过研究\n得出结论——记忆行为是一个认知过程,好的记忆力在于有效的处理信息,而不是与生俱来的。第五段进一步把这\n一结论进行了推广,天资几乎总是后天形成的。四个谚语中,只有C能概括这一主题,故答案为C。\n三、文章难句精析",
+      "point": "zhenti:z2007-reading-1:q5",
+      "source": "2007 考研英语一真题"
+    },
+    {
+      "q": "It is reported that the project has been finished. 最佳译文?",
+      "options": [
+        "它被报道项目完成了",
+        "据报道,项目已经完成",
+        "项目完成被报告",
+        "这是报道说项目完成"
+      ],
+      "answer": 1,
+      "analysis": "It is reported that 固定译为\"据报道\"。",
+      "point": "g-s4u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The boy standing under the tree is my brother. 译文顺序?",
+      "options": [
+        "站着的男孩在树下是我兄弟",
+        "树下站着的男孩是我弟弟",
+        "男孩站着在树下是我兄弟",
+        "我兄弟是树下男孩"
+      ],
+      "answer": 1,
+      "analysis": "分词定语前置译,符合中文习惯。",
+      "point": "g-s4u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "英文被动句在中文中的常见处理?",
+      "options": [
+        "保留被动",
+        "尽量转主动",
+        "必须加被字",
+        "删除主语"
+      ],
+      "answer": 1,
+      "analysis": "中文多用主动,被动句常转为主动表达。",
+      "point": "g-s4u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "His courage to face the difficulty surprised us. 最佳译法?",
+      "options": [
+        "他的勇气面对困难让我们惊讶",
+        "他面对困难的勇气让我们惊讶",
+        "勇气他的面对困难让惊讶",
+        "我们惊讶他的困难勇气"
+      ],
+      "answer": 1,
+      "analysis": "不定式定语前置译,\"面对困难的勇气\"。",
+      "point": "g-s4u5",
+      "source": "本单元语法课练习"
+    }
+  ]
+}

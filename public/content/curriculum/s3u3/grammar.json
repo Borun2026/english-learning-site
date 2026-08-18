@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u3",
+  "stage": 3,
+  "title": "非谓语作定语",
+  "explanation": "## 三种非谓语作定语\n\ndoing、done、to do 都能放在名词后作定语,选择哪种取决于**主动/被动**与**时间**两个维度。\n\n## 现在分词 doing(主动、进行)\n\n表示\"正在进行的主动动作\",如 the boy playing basketball(正在打篮球的男孩)。单个分词也可放名词前:a developing country(发展中国家)。\n\n## 过去分词 done(被动、完成)\n\n表示\"被动的或已完成的动作\",如 the letter written in English(用英语写的信)、a developed country(发达国家)。注意区分:the falling leaves(正在飘落的叶子)vs the fallen leaves(已经落下的叶子)。\n\n## 不定式 to do(将来、目的)\n\n表示\"将要发生的动作\"或\"该做的事\",常与 the first/last/only、序数词、被修饰词的搭配词连用:the first person to arrive(第一个到的人)、something to drink(可以喝的东西)。\n\n## 与定语从句的转换\n\ndoing 定语 = that/which + 主动进行;done 定语 = that/which + 被动;to do 定语 = that/which will。写作中学会三者互换,可有效避免句式重复。",
+  "examples": [
+    { "en": "The girl singing on the stage is my sister.", "cn": "在台上唱歌的女孩是我妹妹。", "note": "singing 表主动、正在进行,相当于 who is singing。" },
+    { "en": "The bridge built last year is very modern.", "cn": "去年建的那座桥非常现代化。", "note": "built 表被动、完成,相当于 which was built。" },
+    { "en": "He is the last student to leave the classroom.", "cn": "他是最后一个离开教室的学生。", "note": "the last + to do,表示\"最后一个做某事的人\"。" },
+    { "en": "There are many problems to solve.", "cn": "有很多问题需要解决。", "note": "to do 作定语表将来,隐含\"将要/需要\"之意。" }
+  ],
+  "errors": [
+    { "wrong": "The window breaking last night has been repaired.", "right": "The window broken last night has been repaired.", "note": "窗户是\"被打破\"的,要用过去分词 broken,不是主动的 breaking。" },
+    { "wrong": "The man spoke to the teacher is our principal.", "right": "The man speaking to the teacher is our principal.", "note": "主动进行用 speaking,不能用动词原形 spoke。" },
+    { "wrong": "A developed country is one that is still growing.", "right": "A developing country is one that is still growing.", "note": "还在发展用 developing(进行),developed 表示已发达。" }
+  ],
+  "quiz": [
+    { "q": "The book ___ on the desk belongs to Tom.", "options": ["lay", "laying", "lying", "lied"], "answer": 2, "note": "lying 表主动进行,\"躺/平放\"的不及物用法。" },
+    { "q": "The problems ___ at the meeting will be solved next week.", "options": ["discussed", "discussing", "discuss", "to discuss"], "answer": 0, "note": "problems 被讨论,用过去分词 discussed。" },
+    { "q": "She was the first woman ___ the mountain.", "options": ["climbed", "climbing", "to climb", "climbs"], "answer": 2, "note": "the first 后接 to do 作定语。" },
+    { "q": "The students ___ from Class 3 won the game.", "options": ["come", "coming", "came", "to come"], "answer": 1, "note": "主动进行,coming 相当于 who came。" },
+    { "q": "I have nothing ___ about the plan.", "options": ["worried", "to worry", "worrying", "worry"], "answer": 1, "note": "nothing + to do,不定式作定语表将来。" }
+  ]
+}

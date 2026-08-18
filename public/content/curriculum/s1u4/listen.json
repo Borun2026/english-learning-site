@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u4",
+  "stage": 1,
+  "unitId": "s1u4",
+  "title": "听力挑战 · 计划一次旅行",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "Where are you going on your trip?",
+      "lineCn": "你这次旅行要去哪里?",
+      "grammar": [
+        { "name": "be going to 表计划", "note": "be going to + 动词原形,表示已经计划好的打算。" }
+      ],
+      "options": [
+        { "text": "I am going to visit Beijing.", "correct": true, "feedback": "用 be going to 说明已计划好的旅行目的地。" },
+        { "text": "I visited Shanghai last year.", "correct": false, "feedback": "过去时说的是去年的事,不是这次旅行计划。" },
+        { "text": "I go to school by bus.", "correct": false, "feedback": "说的是平时上学的方式,与旅行无关。" }
+      ]
+    },
+    {
+      "speaker": "家人",
+      "line": "When will you leave for the airport?",
+      "lineCn": "你什么时候出发去机场?",
+      "grammar": [
+        { "name": "will 表将来", "note": "will + 动词原形表示将来发生的动作,常用于询问安排。" }
+      ],
+      "options": [
+        { "text": "We will leave on Friday morning.", "correct": true, "feedback": "用 will 明确回答出发时间,符合问句时态。" },
+        { "text": "We left the airport yesterday.", "correct": false, "feedback": "过去时说的是昨天的事,与将来计划不符。" },
+        { "text": "We take the bus to work.", "correct": false, "feedback": "一般现在时谈日常习惯,没有回答出发时间。" }
+      ]
+    }
+  ]
+}

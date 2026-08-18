@@ -1,0 +1,60 @@
+{
+ "id": "cet6-024",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第3套) Passage 2",
+ "title": "Beginning in the late sixteenth century, it became fashionable for young aris...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 443,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Beginning in the late sixteenth century, it became fashionable for young aristocrats to visit Paris, Venice,",
+  "Florence, and above all, Rome, as the culmination of their classical education. Thus was born the idea of the",
+  "Grand Tour, a practice which introduced Englishmen, Germans, Scandinavians, and also Americans to the art and culture of France and Italy for the next 300 years. Travel was arduous and costly throughout the period, possible only for a privileged class--the same that produced gentlemen scientists, authors, antique experts, and patrons of the arts.",
+  "The Grand Tourist was typically a young man with a thorough grounding in Greek and Latin literature as well as some leisure time, some means, and some interest in art. The German traveler Johann Winckelmann pioneered the field of art history with his comprehensive study of Greek and Roman sculpture; he was portrayed by his friend Anton Raphael Mengs at the beginning of his long residence in Rome. Most Grand Tourists, however, stayed for briefer periods and set out with less scholarly intentions, accompanied by a teacher or guardian, and expected to return home with souvenirs of their travels as well as an understanding of art and architecture formed by exposure to great masterpieces.",
+  "London was a frequent starting point for Grand Tourists, and Paris a compulsory destination; many traveled to the Netherlands, some to Switzerland and Germany, and a very few adventurers to Spain, Greece, or Turkey. The essential place to visit, however, was Italy. The British traveler Charles Thompson spoke for many Grand Tourists when in 1744 he described himself as \"being impatiently desirous of viewing a country so famous in history, a country which once gave laws to the world, and which is at present the greatest school of music and painting, contains the noblest productions of sculpture and architecture, and is filled with cabinets of rarities, and collections of all kinds of historical relics\". Within Italy, the great focus was Rome, whose ancient ruins and more recent achievements were shown to every Grand Tourist. Panini's Ancient Rome and Modem Rome represent the sights most prized, including celebrated Greco-Roman statues and views of famous ruins, fountains, and churches. Since there were few museums anywhere in Europe before the close of the eighteenth century, Grand Tourists often saw paintings and sculptures by gaining admission to private collections, and many were eager to acquire examples of Greco-Roman and Italian art for their own collections. In England, where architecture was increasingly seen as an aristocratic pursuit, noblemen often applied what they learned from the villas of Palladio in the Veneto and the",
+  "evocative ruins of Rome to their own country houses and gardens."
+ ],
+ "questions": [
+  {
+   "q": "文中 “costly” 最接近的意思是?",
+   "options": [
+    "文学，文学作品，文献，著作",
+    "博学的",
+    "昂贵的",
+    "周期，期间"
+   ],
+   "answer": 2,
+   "analysis": "“costly” 意为「昂贵的」。原文语境:Travel was arduous and costly throughout the period, possible only for a privileged class--the same that produced gentlemen scientists, authors, antique experts, and patrons of the",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Travel was ___ and costly throughout the period, possible only for a privileged class--the same that produced gentlemen scientists, authors, antique experts, and patrons of the arts.",
+   "options": [
+    "arduous",
+    "British",
+    "great",
+    "private"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Travel was arduous and costly throughout the period, possible only for a privileged class--the same that produced gentlemen scientists, authors, antique experts, and patrons of the arts.”。空格处应填入 “arduous”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Simulators are most often utilized within industries such as nuclear power, a",
+    "Beginning in the late sixteenth century, it became fashionable for young aris",
+    "It is not controversial to say that an unhealthy diet causes bad health",
+    "The \"American Dream\" promises that in the Land of Opportunity, any individual"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Beginning in the late sixteenth century, it became fashionable for young aristocrats to visit Paris, Venice,”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

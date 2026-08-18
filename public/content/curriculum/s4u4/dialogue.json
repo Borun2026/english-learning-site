@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u4",
+  "stage": 4,
+  "unitId": "s4u4",
+  "scene": "学术讲座问答",
+  "goal": "在讲座提问环节提出好问题",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "主持人 Moderator",
+      "line": "We now open the floor to questions. Given the limited time, please make sure that each question is concise and directly relevant to Professor Brown's presentation.",
+      "lineCn": "现在进入提问环节。由于时间有限,请确保每个问题都简洁且与布朗教授的讲座直接相关。",
+      "grammar": [
+        { "name": "Given 引导条件介词短语 + 宾语从句", "note": "Given the limited time 是介词短语作条件状语,make sure that... 后接宾语从句,是主持人常用的正式套话。" }
+      ],
+      "options": [
+        { "text": "Thank you. Professor Brown, you mentioned that task complexity affects learners' speaking fluency, but I wonder whether this effect would persist when learners are tested one week after the practice session, rather than immediately.", "textCn": "谢谢。布朗教授,您提到任务复杂度会影响口语流利度,但我想知道如果学习者在练习结束一周后再测试,这种效应是否仍然存在,而不是立刻测试。", "feedback": "基于讲座内容提出有延展性的问题,关注效应的时间稳定性,是高质量的学术提问。", "next": "n2" },
+        { "text": "Professor Brown, what do you think about life and the future of humanity?", "textCn": "布朗教授,您怎么看待人生和人类的未来?", "feedback": "问题过于宏大且与讲座主题无关,浪费了宝贵的提问时间。", "next": "n3" },
+        { "text": "Can you repeat everything you just said? I was not listening.", "textCn": "您能把刚才说的都重复一遍吗?我刚才没听。", "feedback": "在讲座中坦承走神并要全场内容重讲,非常不得体。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "主讲人 Professor Brown",
+      "line": "That is a very sharp question. In our study, the delayed test did show a smaller but still significant effect, which suggests that the benefits may partially fade without continued practice.",
+      "lineCn": "这是个很尖锐的问题。在我们的研究中,延迟测试确实显示效应变小但仍然显著,这说明如果没有持续练习,收益可能会部分消退。",
+      "grammar": [
+        { "name": "which 指代整个主句的非限定性从句", "note": "which suggests that... 中 which 指代前面整句内容,后接 that 宾语从句,是学术讨论中典型的回指式长句。" }
+      ],
+      "options": [
+        { "text": "Thank you. Following up on that, have you examined whether the fading effect could be counteracted by adding spaced review tasks between sessions, as some memory research would predict?", "textCn": "谢谢。顺着这个追问,您是否考察过像一些记忆研究所预测的那样,在两次训练之间加入间隔复习任务能否抵消消退效应?", "feedback": "把讲座结论与更广泛的记忆研究文献联系起来提出新假设,展现深厚的文献功底。", "next": "n4" },
+        { "text": "So does that mean my English will also get worse if I stop practicing? I am worried about my speaking test next month.", "textCn": "那是不是意味着我停止练习英语也会变差?我担心下个月的考试。", "feedback": "把科研结论生搬硬套到自己的具体焦虑上,问题格局过小。", "next": "n3" },
+        { "text": "I disagree with your entire study, because my own experience is totally different.", "textCn": "我不同意您整个研究,因为我的个人经历完全不同。", "feedback": "以个人感受否定实证研究且不给出理由,缺乏学术讨论的素养。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "主持人 Moderator",
+      "line": "I am sorry, but we have limited time, so I must ask you to focus your question on today's topic, which is about task complexity and speaking performance.",
+      "lineCn": "抱歉,我们时间有限,请您把问题聚焦在今天的主题上,即任务复杂度与口语表现。",
+      "grammar": [
+        { "name": "so 结果状语从句 + which 非限定性定语从句", "note": "so 引导结果状语从句,which is about... 补充说明今天的话题,体现正式场合的礼貌提醒。" }
+      ],
+      "options": [
+        { "text": "I apologize. Then my question is: could the observed fluency gains be partly explained by task repetition effects rather than complexity itself?", "textCn": "抱歉。那我的问题是:观察到的流利度提升能否部分归因于任务重复效应,而非复杂度本身?", "feedback": "及时修正并提出一个聚焦、可检验的学术问题,成功挽回局面。", "next": "n4" },
+        { "text": "Actually my question is more important than your topic, so please just let me finish it.", "textCn": "其实我的问题比今天的主题更重要,请让我问完。", "feedback": "无视主持人的提醒,固执己见,在公开场合极为失礼。", "next": "fail1" },
+        { "text": "Sorry, I have nothing else to ask.", "textCn": "抱歉,我没有别的问题了。", "feedback": "虽然礼貌,但浪费了一次提升学术形象的机会,两手空空坐回去。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "主讲人 Professor Brown",
+      "line": "That is exactly the direction we are planning for our next study, and I would be happy to discuss your idea further after the session, if you are interested in collaborating.",
+      "lineCn": "这正是我们下一项研究计划的方向。如果您有兴趣合作,我很乐意在讲座后与您进一步讨论您的想法。",
+      "grammar": [
+        { "name": "That is 强调用法 + 条件从句 + 不定式目的", "note": "That is exactly the direction 用 exactly 强调承接,to discuss your idea 是不定式表目的,if 条件从句收尾,礼貌且开放。" }
+      ],
+      "options": [
+        { "text": "I would love to. May I leave my email address and a one-page summary of my related coursework with you, so that we can schedule a short meeting at your convenience?", "textCn": "我非常乐意。我能留下邮箱和一份相关课程作业的一页摘要,方便您在方便时安排一次简短会面吗?", "feedback": "主动提供具体合作材料并尊重对方时间,为后续合作创造了真实机会。", "next": "success" },
+        { "text": "Great, then I will tell my classmates that you want to collaborate with me personally.", "textCn": "太好了,那我要告诉同学们您想跟我个人合作。", "feedback": "过度自我宣扬,把礼节性回应当成板上钉钉的承诺,显得不成熟。", "next": "fail1" },
+        { "text": "Fine, but please reply to me immediately, because I am leaving for Beijing next week.", "textCn": "行,但请立刻回复我,因为我下周就去北京了。", "feedback": "用命令语气对待讲座嘉宾,失礼且急迫,给对方留下负面印象。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "主讲人 Professor Brown",
+      "line": "Certainly. I look forward to reading your summary, and thank you for such an insightful question. Good questions like yours are what keep this field moving forward.",
+      "lineCn": "当然可以。期待读到你的摘要,也谢谢你提出如此有洞见的问题。正是像你这样好问题推动着这个领域前进。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "主持人 Moderator",
+      "line": "Thank you, and due to the time constraint, I am afraid we must move on to the next question. Please save further discussion for after the session.",
+      "lineCn": "谢谢。由于时间限制,恐怕我们必须进行下一个问题了。进一步的讨论请留到讲座结束之后。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "主持人 Moderator",
+      "line": "Alright then, thank you for your participation. If you have further questions, the speaker will remain available at the reception area.",
+      "lineCn": "好的,感谢你的参与。如果还有问题,主讲人会在接待区继续停留。",
+      "end": true,
+      "success": false
+    }
+  }
+}

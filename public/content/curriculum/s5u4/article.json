@@ -1,0 +1,1204 @@
+{
+  "id": "a-s5u4",
+  "stage": 5,
+  "unitId": "s5u4",
+  "title": "Building a Persuasive Argument",
+  "newWords": [
+    "cosmopolitan",
+    "mastery",
+    "dispel",
+    "clinical",
+    "predator",
+    "entrepreneurial",
+    "grudge",
+    "inalienable",
+    "inundate",
+    "impoverished",
+    "laudable",
+    "lavish",
+    "lax",
+    "mandate",
+    "antiquity",
+    "negotiable",
+    "emulate",
+    "neutralize",
+    "pinpoint",
+    "precarious"
+  ],
+  "sentences": [
+    {
+      "text": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+      "translation": "每篇有说服力的议论文都建立在清晰的框架之上:引言陈述立场,主体展开理由,结论强化论点。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "Every persuasive essay can rest on a clear framework",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Every persuasive essay"
+            },
+            {
+              "role": "谓语",
+              "text": "can rest on"
+            },
+            {
+              "role": "宾语",
+              "text": "a clear framework"
+            }
+          ]
+        },
+        {
+          "label": "同位语(列举)",
+          "color": "#9fd8e8",
+          "text": "an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "观点论述框架",
+          "note": "文章先总述框架,再用冒号列举三部分(引言、主体、结论),是观点论述文的经典结构。"
+        },
+        {
+          "name": "冒号引出并列成分",
+          "note": "冒号后的三个并列名词短语均带 that 定语从句,句式对称整齐。"
+        },
+        {
+          "name": "rest on 搭配",
+          "note": "rest on 表示\"依赖于、建立在……之上\",是学术英语的高频搭配。",
+          "example": "The argument rests on solid evidence.",
+          "exampleCn": "该论证建立在坚实的证据之上。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis",
+          "name": "观点论述框架"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis",
+          "name": "冒号引出并列成分"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis",
+          "name": "rest on 搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+          "answer": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+          "note": "文章先总述框架,再用冒号列举三部分(引言、主体、结论),是观点论述文的经典结构。",
+          "point": "观点论述框架"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+          "answer": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+          "note": "冒号后的三个并列名词短语均带 that 定语从句,句式对称整齐。",
+          "point": "冒号引出并列成分"
+        }
+      ]
+    },
+    {
+      "text": "In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+      "translation": "然而,在辩论中,对框架的掌握不如\"预见反对意见并用扎实的证据加以化解\"的能力重要。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In a debate"
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "however"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the mastery of this framework"
+            },
+            {
+              "role": "谓语",
+              "text": "can matter"
+            },
+            {
+              "role": "比较状语",
+              "text": "less than the ability to anticipate an objection and neutralize it with solid evidence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "比较级 less... than...",
+          "note": "less than 表示\"不如……\",用于比较两项能力的重要程度,是观点论述常用的比较句式。"
+        },
+        {
+          "name": "不定式短语作定语",
+          "note": "the ability to anticipate... and neutralize... 中,两个不定式并列修饰 ability,说明能力的具体内容。"
+        },
+        {
+          "name": "插入语 however",
+          "note": "however 位于句中作插入语,表示转折,使行文更连贯。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence",
+          "name": "比较级 less... than..."
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence",
+          "name": "不定式短语作定语"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence",
+          "name": "插入语 however"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+          "answer": "In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+          "note": "less than 表示\"不如……\",用于比较两项能力的重要程度,是观点论述常用的比较句式。",
+          "point": "比较级 less... than..."
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+          "answer": "In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+          "note": "the ability to anticipate... and neutralize... 中,两个不定式并列修饰 ability,说明能力的具体内容。",
+          "point": "不定式短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "Consider the claim that a public university should offer free education, a proposal that can inspire both enthusiasm and suspicion in equal measure.",
+      "translation": "想一想\"公立大学应提供免费教育\"这一主张,这是一个既能激发热情又能引发同等程度怀疑的提议。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Consider the claim that a public university should offer free education",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "Consider"
+            },
+            {
+              "role": "宾语",
+              "text": "the claim"
+            },
+            {
+              "role": "同位语从句",
+              "text": "that a public university should offer free education"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a proposal that can inspire both enthusiasm and suspicion in equal measure"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句引出论点",
+          "note": "Consider the claim that... 用祈使句引导读者思考,是引入论题的有效手法。"
+        },
+        {
+          "name": "同位语从句",
+          "note": "that a public university should offer free education 是 claim 的同位语从句,说明主张的具体内容。",
+          "example": "The idea that education should be free is popular.",
+          "exampleCn": "教育应免费的观点很受欢迎。"
+        },
+        {
+          "name": "both... and... 结构",
+          "note": "both enthusiasm and suspicion 表示\"既……又……\",体现论题的争议性。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a proposal that can inspire both enthusiasm and suspicion in equal measure",
+          "name": "祈使句引出论点"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a proposal that can inspire both enthusiasm and suspicion in equal measure",
+          "name": "同位语从句"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a proposal that can inspire both enthusiasm and suspicion in equal measure",
+          "name": "both... and... 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Consider the claim that a public university should offer free education, a proposal that can inspire both enthusiasm and suspicion in equal measure.",
+          "answer": "Consider the claim that a public university should offer free education, a proposal that can inspire both enthusiasm and suspicion in equal measure.",
+          "note": "Consider the claim that... 用祈使句引导读者思考,是引入论题的有效手法。",
+          "point": "祈使句引出论点"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:教育应免费的观点很受欢迎。",
+          "answer": "The idea that education should be free is popular.",
+          "note": "that a public university should offer free education 是 claim 的同位语从句,说明主张的具体内容。",
+          "point": "同位语从句"
+        }
+      ]
+    },
+    {
+      "text": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason, while an opponent may insist that lavish subsidy would drain public fund.",
+      "translation": "一些人可能辩称,教育是不可剥夺的权利,任何有才华的学生都不应因经济原因失去机会;而反对者则坚持认为,慷慨的补贴会耗尽公共资金。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some people"
+            },
+            {
+              "role": "谓语",
+              "text": "may argue"
+            },
+            {
+              "role": "宾语从句一",
+              "text": "that education is an inalienable right"
+            },
+            {
+              "role": "宾语从句二",
+              "text": "and that no talented student should lose the chance for financial reason"
+            }
+          ]
+        },
+        {
+          "label": "对比连词",
+          "color": "#f6c177",
+          "text": "while"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "an opponent may insist that lavish subsidy would drain public fund",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an opponent"
+            },
+            {
+              "role": "谓语",
+              "text": "may insist"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that lavish subsidy would drain public fund"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列宾语从句",
+          "note": "argue 后接两个 that 宾语从句,分别陈述两个并列论点,使论证层次分明。"
+        },
+        {
+          "name": "while 呈现对立观点",
+          "note": "while 连接正反两方观点,是观点论述中呈现\"有人赞同、有人反对\"的标准结构。"
+        },
+        {
+          "name": "情态动词 would 表虚拟假设",
+          "note": "would drain 表示\"将会耗尽\",用于推测补贴可能造成的后果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason",
+          "name": "并列宾语从句"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason",
+          "name": "while 呈现对立观点"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason",
+          "name": "情态动词 would 表虚拟假设"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason, while an opponent may insist that lavish subsidy would drain public fund.",
+          "answer": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason, while an opponent may insist that lavish subsidy would drain public fund.",
+          "note": "argue 后接两个 that 宾语从句,分别陈述两个并列论点,使论证层次分明。",
+          "point": "并列宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason, while an opponent may insist that lavish subsidy would drain public fund.",
+          "answer": "Some people may argue that education is an inalienable right and that no talented student should lose the chance for financial reason, while an opponent may insist that lavish subsidy would drain public fund.",
+          "note": "while 连接正反两方观点,是观点论述中呈现\"有人赞同、有人反对\"的标准结构。",
+          "point": "while 呈现对立观点"
+        }
+      ]
+    },
+    {
+      "text": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community.",
+      "translation": "细心的辩手可以首先承认这一合理的担忧,然后用证据打消它:有针对性的支持能够提高贫困社区的入学率。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A careful speaker"
+            },
+            {
+              "role": "谓语一",
+              "text": "can first concede"
+            },
+            {
+              "role": "宾语一",
+              "text": "this legitimate concern"
+            },
+            {
+              "role": "谓语二",
+              "text": "and then dispel"
+            },
+            {
+              "role": "宾语二",
+              "text": "it"
+            },
+            {
+              "role": "方式状语",
+              "text": "with evidence"
+            },
+            {
+              "role": "同位语从句",
+              "text": "that special support can lift enrolment among an impoverished community"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "先承认后反驳的论证技巧",
+          "note": "concede... then dispel... 表示\"先承认对方合理之处,再予以化解\",是辩论中的高级技巧。"
+        },
+        {
+          "name": "first... then... 时间顺序",
+          "note": "first... then... 标明动作的先后顺序,使反驳步骤清晰。"
+        },
+        {
+          "name": "同位语从句 that 说明证据内容",
+          "note": "that special support can lift enrolment 是 evidence 的同位语从句,说明证据的具体内容。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community",
+          "name": "先承认后反驳的论证技巧"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community",
+          "name": "first... then... 时间顺序"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community",
+          "name": "同位语从句 that 说明证据内容"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community.",
+          "answer": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community.",
+          "note": "concede... then dispel... 表示\"先承认对方合理之处,再予以化解\",是辩论中的高级技巧。",
+          "point": "先承认后反驳的论证技巧"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community.",
+          "answer": "A careful speaker can first concede this legitimate concern and then dispel it with evidence that special support can lift enrolment among an impoverished community.",
+          "note": "first... then... 标明动作的先后顺序,使反驳步骤清晰。",
+          "point": "first... then... 时间顺序"
+        }
+      ]
+    },
+    {
+      "text": "It is just as important to remember that no position is permanent, since a policy that may seem laudable today can prove precarious when tax revenue may fall.",
+      "translation": "同样重要的是要记住,没有哪一种立场是永恒的,因为今天看似值得称赞的政策,在税收可能下降时就会变得岌岌可危。",
+      "chunks": [
+        {
+          "label": "主干(形式主语)",
+          "color": "#a8dab5",
+          "text": "It is just as important to remember that no position is permanent",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "just as important"
+            },
+            {
+              "role": "不定式(真正主语)",
+              "text": "to remember"
+            },
+            {
+              "role": "宾语从句",
+              "text": "that no position is permanent"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "since"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "a policy that may seem laudable today can prove precarious when tax revenue may fall"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形式主语 It",
+          "note": "It is just as important to remember that... 中,It 为形式主语,不定式及其宾语从句为真正主语,语气客观。"
+        },
+        {
+          "name": "prove + 形容词",
+          "note": "prove precarious 中 prove 是系动词,表示\"证明是、结果是\",常用于评价政策的命运。"
+        },
+        {
+          "name": "when 引导时间状语从句",
+          "note": "when tax revenue may fall 说明政策变危的具体时机,使论证有现实依据。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a policy that may seem laudable today can prove precarious when tax revenue may fall",
+          "name": "形式主语 It"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a policy that may seem laudable today can prove precarious when tax revenue may fall",
+          "name": "prove + 形容词"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a policy that may seem laudable today can prove precarious when tax revenue may fall",
+          "name": "when 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is just as important to remember that no position is permanent, since a policy that may seem laudable today can prove precarious when tax revenue may fall.",
+          "answer": "It is just as important to remember that no position is permanent, since a policy that may seem laudable today can prove precarious when tax revenue may fall.",
+          "note": "It is just as important to remember that... 中,It 为形式主语,不定式及其宾语从句为真正主语,语气客观。",
+          "point": "形式主语 It"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is just as important to remember that no position is permanent, since a policy that may seem laudable today can prove precarious when tax revenue may fall.",
+          "answer": "It is just as important to remember that no position is permanent, since a policy that may seem laudable today can prove precarious when tax revenue may fall.",
+          "note": "prove precarious 中 prove 是系动词,表示\"证明是、结果是\",常用于评价政策的命运。",
+          "point": "prove + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "A student who may delay until the last moment can let a flood of rough note inundate his desk, a situation that careful preparation can easily prevent.",
+      "translation": "拖到最后一刻的学生会让成堆的潦草笔记淹没书桌,而这种情况,精心准备本可以轻易避免。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A student who may delay until the last moment can let a flood of rough note inundate his desk",
+          "parts": [
+            {
+              "role": "主语(含定语从句)",
+              "text": "A student who may delay until the last moment"
+            },
+            {
+              "role": "谓语",
+              "text": "can let"
+            },
+            {
+              "role": "宾语",
+              "text": "a flood of rough note"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "inundate his desk"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a situation that careful preparation can easily prevent"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "who 引导定语从句",
+          "note": "who may delay until the last moment 修饰 student,说明拖延者的特征。"
+        },
+        {
+          "name": "使役结构 let + 宾语 + 不定式",
+          "note": "let a flood of rough note inundate 中,let 后接不带 to 的不定式作宾补,表示\"任由……发生\"。"
+        },
+        {
+          "name": "同位语总结前文",
+          "note": "a situation that careful preparation can easily prevent 对前文情形作评价性总结,引出建议。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A student who may delay until the last moment can let a flood of rough note inundate his desk",
+          "name": "who 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A student who may delay until the last moment can let a flood of rough note inundate his desk",
+          "name": "使役结构 let + 宾语 + 不定式"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A student who may delay until the last moment can let a flood of rough note inundate his desk",
+          "name": "同位语总结前文"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A student who may delay until the last moment can let a flood of rough note inundate his desk, a situation that careful preparation can easily prevent.",
+          "answer": "A student who may delay until the last moment can let a flood of rough note inundate his desk, a situation that careful preparation can easily prevent.",
+          "note": "who may delay until the last moment 修饰 student,说明拖延者的特征。",
+          "point": "who 引导定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A student who may delay until the last moment can let a flood of rough note inundate his desk, a situation that careful preparation can easily prevent.",
+          "answer": "A student who may delay until the last moment can let a flood of rough note inundate his desk, a situation that careful preparation can easily prevent.",
+          "note": "let a flood of rough note inundate 中,let 后接不带 to 的不定式作宾补,表示\"任由……发生\"。",
+          "point": "使役结构 let + 宾语 + 不定式"
+        }
+      ]
+    },
+    {
+      "text": "For example, a scholarship scheme can succeed during an economic boom and fail in a hard time, so a wise writer may qualify every claim with a cautious word such as may or might.",
+      "translation": "例如,奖学金计划能在经济繁荣时成功,也会在经济困难时失败,因此明智的作者会用 may 或 might 这样谨慎的词来限定每一项主张。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "For example"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "a scholarship scheme can succeed during an economic boom and fail in a hard time",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a scholarship scheme"
+            },
+            {
+              "role": "谓语一",
+              "text": "can succeed"
+            },
+            {
+              "role": "时间状语",
+              "text": "during an economic boom"
+            },
+            {
+              "role": "谓语二",
+              "text": "and fail"
+            },
+            {
+              "role": "时间状语二",
+              "text": "in a hard time"
+            }
+          ]
+        },
+        {
+          "label": "结果连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a wise writer may qualify every claim with a cautious word such as may or might",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a wise writer"
+            },
+            {
+              "role": "谓语",
+              "text": "may qualify"
+            },
+            {
+              "role": "宾语",
+              "text": "every claim"
+            },
+            {
+              "role": "方式状语",
+              "text": "with a cautious word such as may or might"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "举例论证 For example",
+          "note": "For example 用奖学金政策的例子说明观点\"立场并非永恒\"。"
+        },
+        {
+          "name": "succeed and fail 对比",
+          "note": "succeed... and fail... 用一组反义词对比不同经济环境下的结果。"
+        },
+        {
+          "name": "qualify with 表示限定",
+          "note": "qualify every claim with a cautious word 表示\"用谨慎的词限定主张\",体现学术表达的严谨态度。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a scholarship scheme can succeed during an economic boom and fail in a hard time",
+          "name": "举例论证 For example"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a scholarship scheme can succeed during an economic boom and fail in a hard time",
+          "name": "succeed and fail 对比"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "a scholarship scheme can succeed during an economic boom and fail in a hard time",
+          "name": "qualify with 表示限定"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, a scholarship scheme can succeed during an economic boom and fail in a hard time, so a wise writer may qualify every claim with a cautious word such as may or might.",
+          "answer": "For example, a scholarship scheme can succeed during an economic boom and fail in a hard time, so a wise writer may qualify every claim with a cautious word such as may or might.",
+          "note": "For example 用奖学金政策的例子说明观点\"立场并非永恒\"。",
+          "point": "举例论证 For example"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, a scholarship scheme can succeed during an economic boom and fail in a hard time, so a wise writer may qualify every claim with a cautious word such as may or might.",
+          "answer": "For example, a scholarship scheme can succeed during an economic boom and fail in a hard time, so a wise writer may qualify every claim with a cautious word such as may or might.",
+          "note": "succeed... and fail... 用一组反义词对比不同经济环境下的结果。",
+          "point": "succeed and fail 对比"
+        }
+      ]
+    },
+    {
+      "text": "This cautious language, far from weak, can pinpoint the degree of certainty and show respect for the complexity of a social question.",
+      "translation": "这种谨慎的语言,非但不软弱,反而能精确指明确定性的程度,并体现出对社会问题复杂性的尊重。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "This cautious language",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "This cautious language"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "far from weak"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can pinpoint the degree of certainty and show respect for the complexity of a social question",
+          "parts": [
+            {
+              "role": "谓语一",
+              "text": "can pinpoint"
+            },
+            {
+              "role": "宾语一",
+              "text": "the degree of certainty"
+            },
+            {
+              "role": "谓语二",
+              "text": "and show respect for"
+            },
+            {
+              "role": "宾语二",
+              "text": "the complexity of a social question"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 far from weak",
+          "note": "far from weak 表示\"远非软弱\",用否定的方式强调相反含义,是书面语中的强调手法。"
+        },
+        {
+          "name": "并列谓语结构",
+          "note": "pinpoint... and show respect for... 两个并列谓语说明谨慎语言的两种作用。"
+        },
+        {
+          "name": "名词化表达",
+          "note": "the degree of certainty 和 the complexity of a social question 均为名词短语,使表达正式凝练。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "can pinpoint the degree of certainty and show respect for the complexity of a social question",
+          "name": "插入语 far from weak"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "can pinpoint the degree of certainty and show respect for the complexity of a social question",
+          "name": "并列谓语结构"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "can pinpoint the degree of certainty and show respect for the complexity of a social question",
+          "name": "名词化表达"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This cautious language, far from weak, can pinpoint the degree of certainty and show respect for the complexity of a social question.",
+          "answer": "This cautious language, far from weak, can pinpoint the degree of certainty and show respect for the complexity of a social question.",
+          "note": "far from weak 表示\"远非软弱\",用否定的方式强调相反含义,是书面语中的强调手法。",
+          "point": "插入语 far from weak"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):This cautious language, far from weak, can pinpoint the degree of certainty and show respect for the complexity of a social question.",
+          "answer": "This cautious language, far from weak, can pinpoint the degree of certainty and show respect for the complexity of a social question.",
+          "note": "pinpoint... and show respect for... 两个并列谓语说明谨慎语言的两种作用。",
+          "point": "并列谓语结构"
+        }
+      ]
+    },
+    {
+      "text": "In the same spirit, the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable.",
+      "translation": "本着同样的精神,最优秀的作者会效仿冷静观察者的逻辑,而非党派人士的激情,并把每一项主张都视为可商榷的。",
+      "chunks": [
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "In the same spirit"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the best writer"
+            },
+            {
+              "role": "谓语一",
+              "text": "can emulate"
+            },
+            {
+              "role": "宾语一",
+              "text": "the logic of a clinical observer rather than the passion of a partisan"
+            },
+            {
+              "role": "谓语二",
+              "text": "and treat"
+            },
+            {
+              "role": "宾语二",
+              "text": "every claim"
+            },
+            {
+              "role": "宾补",
+              "text": "as negotiable"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "rather than 表示取舍",
+          "note": "rather than 表示\"而不是\",用于突出选择的一方,是观点论述中表明倾向的常用结构。"
+        },
+        {
+          "name": "treat... as... 结构",
+          "note": "treat every claim as negotiable 中,as negotiable 是宾语补足语,表示\"把……视为……\"。",
+          "example": "We treat feedback as a gift.",
+          "exampleCn": "我们视反馈为礼物。"
+        },
+        {
+          "name": "名词化与对照",
+          "note": "the logic of a clinical observer 与 the passion of a partisan 形成冷静与激情的对照。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable",
+          "name": "rather than 表示取舍"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable",
+          "name": "treat... as... 结构"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable",
+          "name": "名词化与对照"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the same spirit, the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable.",
+          "answer": "In the same spirit, the best writer can emulate the logic of a clinical observer rather than the passion of a partisan, and treat every claim as negotiable.",
+          "note": "rather than 表示\"而不是\",用于突出选择的一方,是观点论述中表明倾向的常用结构。",
+          "point": "rather than 表示取舍"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我们视反馈为礼物。",
+          "answer": "We treat feedback as a gift.",
+          "note": "treat every claim as negotiable 中,as negotiable 是宾语补足语,表示\"把……视为……\"。",
+          "point": "treat... as... 结构"
+        }
+      ]
+    },
+    {
+      "text": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely, and false information, a predator of honest debate, can drown a careful voice before a scholar may respond.",
+      "translation": "不幸的是,宽松的证据标准会让站不住脚的论证自由流传,而虚假信息——诚实辩论的掠夺者——能在学者回应之前淹没理性的声音。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A lax standard of evidence"
+            },
+            {
+              "role": "插入语",
+              "text": "unfortunately"
+            },
+            {
+              "role": "谓语",
+              "text": "can allow"
+            },
+            {
+              "role": "宾语",
+              "text": "a weak argument"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "to circulate freely"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "false information, a predator of honest debate, can drown a careful voice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "false information"
+            },
+            {
+              "role": "同位语",
+              "text": "a predator of honest debate"
+            },
+            {
+              "role": "谓语",
+              "text": "can drown"
+            },
+            {
+              "role": "宾语",
+              "text": "a careful voice"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before a scholar may respond"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "allow + 宾语 + 不定式",
+          "note": "allow a weak argument to circulate 表示\"允许……流传\",不定式作宾补。",
+          "example": "The rules allow students to leave early.",
+          "exampleCn": "规定允许学生提前离开。"
+        },
+        {
+          "name": "同位语作比喻",
+          "note": "a predator of honest debate 是 false information 的同位语,用比喻强化其危害。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before a scholar may respond 说明危害发生的速度之快,增强论证力度。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely",
+          "name": "allow + 宾语 + 不定式"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely",
+          "name": "同位语作比喻"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely",
+          "name": "before 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:规定允许学生提前离开。",
+          "answer": "The rules allow students to leave early.",
+          "note": "allow a weak argument to circulate 表示\"允许……流传\",不定式作宾补。",
+          "point": "allow + 宾语 + 不定式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely, and false information, a predator of honest debate, can drown a careful voice before a scholar may respond.",
+          "answer": "A lax standard of evidence, unfortunately, can allow a weak argument to circulate freely, and false information, a predator of honest debate, can drown a careful voice before a scholar may respond.",
+          "note": "a predator of honest debate 是 false information 的同位语,用比喻强化其危害。",
+          "point": "同位语作比喻"
+        }
+      ]
+    },
+    {
+      "text": "In the modern cosmopolitan world, the mandate of a university is to cultivate independent judgement, a skill that can trace its root to the old tradition of antiquity, and entrepreneurial energy can combine with rigorous scholarship, provided that honest inquiry remains the priority and no one may grudge a colleague his success.",
+      "translation": "在当今世界主义的现代社会,大学的使命是培养独立判断力——这种能力可以追溯到古代的辩论传统;而创业精神也可以与严谨的学术相结合,前提是诚实探究始终是首要之事,且没有人会嫉妒同事的成功。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In the modern cosmopolitan world"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "the mandate of a university is to cultivate independent judgement",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the mandate of a university"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to cultivate independent judgement"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a skill that can trace its root to the old tradition of antiquity"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "entrepreneurial energy can combine with rigorous scholarship",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "entrepreneurial energy"
+            },
+            {
+              "role": "谓语",
+              "text": "can combine with"
+            },
+            {
+              "role": "宾语",
+              "text": "rigorous scholarship"
+            }
+          ]
+        },
+        {
+          "label": "条件连词",
+          "color": "#f6c177",
+          "text": "provided that"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#c8a5e0",
+          "text": "honest inquiry remains the priority and no one may grudge a colleague his success"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "the mandate of a university is to cultivate... 中,不定式 to cultivate 作表语,说明使命的内容。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that can trace its root to the old tradition of antiquity 修饰 skill,说明能力的渊源。"
+        },
+        {
+          "name": "provided that 引导条件状语从句",
+          "note": "provided that 表示\"前提是、只要\",提出合作成立的条件,语气正式。",
+          "example": "You may join us, provided that you keep quiet.",
+          "exampleCn": "只要保持安静,你就可以加入我们。"
+        },
+        {
+          "name": "grudge + 双宾语",
+          "note": "grudge a colleague his success 中,grudge 后接双宾语,表示\"嫉妒某人拥有某物\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "honest inquiry remains the priority and no one may grudge a colleague his success",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "honest inquiry remains the priority and no one may grudge a colleague his success",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "honest inquiry remains the priority and no one may grudge a colleague his success",
+          "name": "provided that 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s5u4",
+          "phrase": "honest inquiry remains the priority and no one may grudge a colleague his success",
+          "name": "grudge + 双宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the modern cosmopolitan world, the mandate of a university is to cultivate independent judgement, a skill that can trace its root to the old tradition of antiquity, and entrepreneurial energy can combine with rigorous scholarship, provided that honest inquiry remains the priority and no one may grudge a colleague his success.",
+          "answer": "In the modern cosmopolitan world, the mandate of a university is to cultivate independent judgement, a skill that can trace its root to the old tradition of antiquity, and entrepreneurial energy can combine with rigorous scholarship, provided that honest inquiry remains the priority and no one may grudge a colleague his success.",
+          "note": "the mandate of a university is to cultivate... 中,不定式 to cultivate 作表语,说明使命的内容。",
+          "point": "不定式作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the modern cosmopolitan world, the mandate of a university is to cultivate independent judgement, a skill that can trace its root to the old tradition of antiquity, and entrepreneurial energy can combine with rigorous scholarship, provided that honest inquiry remains the priority and no one may grudge a colleague his success.",
+          "answer": "In the modern cosmopolitan world, the mandate of a university is to cultivate independent judgement, a skill that can trace its root to the old tradition of antiquity, and entrepreneurial energy can combine with rigorous scholarship, provided that honest inquiry remains the priority and no one may grudge a colleague his success.",
+          "note": "that can trace its root to the old tradition of antiquity 修饰 skill,说明能力的渊源。",
+          "point": "that 引导定语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u4",
+      "name": "观点论述框架",
+      "note": "文章先总述框架,再用冒号列举三部分(引言、主体、结论),是观点论述文的经典结构。",
+      "sourceExample": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+      "sourceExampleCn": "每篇有说服力的议论文都建立在清晰的框架之上:引言陈述立场,主体展开理由,结论强化论点。"
+    },
+    {
+      "grammarId": "g-s5u4",
+      "name": "冒号引出并列成分",
+      "note": "冒号后的三个并列名词短语均带 that 定语从句,句式对称整齐。",
+      "sourceExample": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+      "sourceExampleCn": "每篇有说服力的议论文都建立在清晰的框架之上:引言陈述立场,主体展开理由,结论强化论点。"
+    },
+    {
+      "grammarId": "g-s5u4",
+      "name": "rest on 搭配",
+      "note": "rest on 表示\"依赖于、建立在……之上\",是学术英语的高频搭配。",
+      "sourceExample": "Every persuasive essay can rest on a clear framework: an introduction that may state the position, a body that may develop a reason, and a conclusion that may reinforce the thesis.",
+      "sourceExampleCn": "每篇有说服力的议论文都建立在清晰的框架之上:引言陈述立场,主体展开理由,结论强化论点。"
+    },
+    {
+      "grammarId": "g-s5u4",
+      "name": "比较级 less... than...",
+      "note": "less than 表示\"不如……\",用于比较两项能力的重要程度,是观点论述常用的比较句式。",
+      "sourceExample": "In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+      "sourceExampleCn": "然而,在辩论中,对框架的掌握不如\"预见反对意见并用扎实的证据加以化解\"的能力重要。"
+    },
+    {
+      "grammarId": "g-s5u4",
+      "name": "不定式短语作定语",
+      "note": "the ability to anticipate... and neutralize... 中,两个不定式并列修饰 ability,说明能力的具体内容。",
+      "sourceExample": "In a debate, however, the mastery of this framework can matter less than the ability to anticipate an objection and neutralize it with solid evidence.",
+      "sourceExampleCn": "然而,在辩论中,对框架的掌握不如\"预见反对意见并用扎实的证据加以化解\"的能力重要。"
+    }
+  ]
+}

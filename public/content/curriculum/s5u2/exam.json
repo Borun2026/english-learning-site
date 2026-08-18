@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u2",
+  "stage": 5,
+  "unitId": "s5u2",
+  "title": "真题演练 · 同义替换策略",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 同义替换策略。",
+  "questions": [
+    {
+      "q": "原文 beneficial 在题目中最可能被替换成?",
+      "options": [
+        "expensive",
+        "advantageous",
+        "dangerous",
+        "important"
+      ],
+      "answer": 1,
+      "analysis": "beneficial 与 advantageous 是同义替换。",
+      "point": "g-s5u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "原文说 car,题目说 vehicle,属于哪种替换?",
+      "options": [
+        "近义词",
+        "上下义词",
+        "反义词",
+        "数字替换"
+      ],
+      "answer": 1,
+      "analysis": "vehicle 是 car 的上义词。",
+      "point": "g-s5u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "原文 The report shows... 的替换表达是?",
+      "options": [
+        "The report was written by...",
+        "The report indicates...",
+        "The report is long...",
+        "The report costs..."
+      ],
+      "answer": 1,
+      "analysis": "show 与 indicate 是同义动词。",
+      "point": "g-s5u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断题中原文 rarely,题目 often 是什么问题?",
+      "options": [
+        "正确替换",
+        "程度陷阱",
+        "数字陷阱",
+        "无问题"
+      ],
+      "answer": 1,
+      "analysis": "频率词 rarely 与 often 语义相反,是陷阱。",
+      "point": "g-s5u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "下列哪组是常见的同义替换词对?",
+      "options": [
+        "increase/decline",
+        "important/crucial",
+        "rise/fall",
+        "start/end"
+      ],
+      "answer": 1,
+      "analysis": "important 与 crucial 是同义替换词对。",
+      "point": "g-s5u2",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:题目关键词必须和原文单词完全一致才能定位。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:定位靠同义替换,不找原词照搬。。雅思阅读的核心就是识别替换表达。",
+      "point": "g-s5u2",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

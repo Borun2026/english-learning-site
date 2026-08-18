@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u9",
+  "stage": 3,
+  "unitId": "s3u9",
+  "title": "真题演练 · 时态综合",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 时态综合。",
+  "questions": [
+    {
+      "q": "He ___ English since he was ten.",
+      "options": [
+        "learns",
+        "has been learning",
+        "learned",
+        "will learn"
+      ],
+      "answer": 1,
+      "analysis": "since + 过去时间点,用现在完成进行时。",
+      "point": "g-s3u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "By next Friday, I ___ this book.",
+      "options": [
+        "will have finished",
+        "finish",
+        "have finished",
+        "finished"
+      ],
+      "answer": 0,
+      "analysis": "by + 将来时间,用将来完成时。",
+      "point": "g-s3u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She ___ the piano for two hours before dinner.",
+      "options": [
+        "plays",
+        "played",
+        "had been playing",
+        "has played"
+      ],
+      "answer": 2,
+      "analysis": "晚餐前持续弹了两小时,用过去完成进行时。",
+      "point": "g-s3u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I ___ my keys; I can't find them anywhere.",
+      "options": [
+        "lost",
+        "have lost",
+        "was losing",
+        "had lost"
+      ],
+      "answer": 1,
+      "analysis": "强调结果与现在联系(找不到钥匙),用现在完成时。",
+      "point": "g-s3u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "This is the best film I ___ ever ___.",
+      "options": [
+        "have; seen",
+        "did; see",
+        "had; seen",
+        "will; see"
+      ],
+      "answer": 0,
+      "analysis": "最高级/序数词后接现在完成时。",
+      "point": "g-s3u9",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I am living here since 2015.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I have been living here since 2015.。since 引导的时间段用完成时态,不用现在进行时。",
+      "point": "g-s3u9",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

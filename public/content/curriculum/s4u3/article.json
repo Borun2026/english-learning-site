@@ -1,0 +1,1366 @@
+{
+  "id": "a-s4u3",
+  "stage": 4,
+  "unitId": "s4u3",
+  "title": "Thesis Consultation",
+  "newWords": [
+    "sane",
+    "abound",
+    "characterise",
+    "speciality",
+    "aspire",
+    "acclaim",
+    "advent",
+    "evade",
+    "tactic",
+    "inverse",
+    "overhaul",
+    "toil",
+    "vanity",
+    "obsolete",
+    "allegiance"
+  ],
+  "sentences": [
+    {
+      "text": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+      "translation": "论文咨询,我的教授也许每周五进行,可能持续一个小时,而每一次拜访都可能让我花上一整天的准备时间。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The thesis consultation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The thesis consultation"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "which my professor may hold every Friday"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "may last an hour",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "may last"
+            },
+            {
+              "role": "时间状语",
+              "text": "an hour"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句(主谓双宾)",
+          "color": "#a8dab5",
+          "text": "each visit may cost me a whole day of preparation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each visit"
+            },
+            {
+              "role": "谓语",
+              "text": "may cost"
+            },
+            {
+              "role": "间接宾语",
+              "text": "me"
+            },
+            {
+              "role": "直接宾语",
+              "text": "a whole day of preparation"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "非限制性定语从句 which",
+          "note": "which 引导非限制性定语从句,补充说明 consultation,与主干用逗号隔开。"
+        },
+        {
+          "name": "双宾语 cost me a day",
+          "note": "cost 后接「间接宾语(人)+直接宾语(时间)」,表示「花费某人…」。"
+        },
+        {
+          "name": "长难句拆解",
+          "note": "本句是典型的插入式长句:先读主干 The thesis consultation may last an hour,再读被逗号隔开的从句。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "each visit may cost me a whole day of preparation",
+          "name": "非限制性定语从句 which"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "each visit may cost me a whole day of preparation",
+          "name": "双宾语 cost me a day"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "each visit may cost me a whole day of preparation",
+          "name": "长难句拆解"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+          "answer": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+          "note": "which 引导非限制性定语从句,补充说明 consultation,与主干用逗号隔开。",
+          "point": "非限制性定语从句 which"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+          "answer": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+          "note": "cost 后接「间接宾语(人)+直接宾语(时间)」,表示「花费某人…」。",
+          "point": "双宾语 cost me a day"
+        }
+      ]
+    },
+    {
+      "text": "She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+      "translation": "她是一位坚定的引路人,她的第一课是:明智的选题等于成功了一半,而宽泛的兴趣必须找到一个狭窄的焦点。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "She is a firm guide",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "She"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a firm guide"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "her first lesson is that a sane topic is half the battle",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "her first lesson"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语从句",
+              "text": "that a sane topic is half the battle"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "while"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a broad interest must find one narrow focus",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a broad interest"
+            },
+            {
+              "role": "谓语",
+              "text": "must find"
+            },
+            {
+              "role": "宾语",
+              "text": "one narrow focus"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "表语从句 that",
+          "note": "that 引导表语从句,说明 lesson 的内容。"
+        },
+        {
+          "name": "while 对比连接词",
+          "note": "while 连接两个分句,表示对照:「而…」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "her first lesson is that a sane topic is half the battle",
+          "name": "表语从句 that"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "her first lesson is that a sane topic is half the battle",
+          "name": "while 对比连接词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+          "answer": "She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+          "note": "that 引导表语从句,说明 lesson 的内容。",
+          "point": "表语从句 that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+          "answer": "She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+          "note": "while 连接两个分句,表示对照:「而…」。",
+          "point": "while 对比连接词"
+        }
+      ]
+    },
+    {
+      "text": "The field may abound with fashionable idea, yet fashion may soon become obsolete, and a classic problem may characterise the career of a scholar.",
+      "translation": "这个领域可能充斥着时髦的观点,然而时尚很快会过时,而一个经典问题可能成就一位学者的学术生涯。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The field may abound with fashionable idea",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The field"
+            },
+            {
+              "role": "谓语",
+              "text": "may abound with"
+            },
+            {
+              "role": "宾语",
+              "text": "fashionable idea"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "fashion may soon become obsolete",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "fashion"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may soon become"
+            },
+            {
+              "role": "表语",
+              "text": "obsolete"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a classic problem may characterise the career of a scholar",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a classic problem"
+            },
+            {
+              "role": "谓语",
+              "text": "may characterise"
+            },
+            {
+              "role": "宾语",
+              "text": "the career of a scholar"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "abound with",
+          "note": "abound with/in 表示「富于、充满」。"
+        },
+        {
+          "name": "become 系动词",
+          "note": "become 后接形容词作表语,表示「变得」。"
+        },
+        {
+          "name": "多层并列",
+          "note": "yet 与 and 连接三个分句,构成递进式转折的议论结构。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a classic problem may characterise the career of a scholar",
+          "name": "abound with"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a classic problem may characterise the career of a scholar",
+          "name": "become 系动词"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a classic problem may characterise the career of a scholar",
+          "name": "多层并列"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The field may abound with fashionable idea, yet fashion may soon become obsolete, and a classic problem may characterise the career of a scholar.",
+          "answer": "The field may abound with fashionable idea, yet fashion may soon become obsolete, and a classic problem may characterise the career of a scholar.",
+          "note": "abound with/in 表示「富于、充满」。",
+          "point": "abound with"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The field may abound with fashionable idea, yet fashion may soon become obsolete, and a classic problem may characterise the career of a scholar.",
+          "answer": "The field may abound with fashionable idea, yet fashion may soon become obsolete, and a classic problem may characterise the career of a scholar.",
+          "note": "become 后接形容词作表语,表示「变得」。",
+          "point": "become 系动词"
+        }
+      ]
+    },
+    {
+      "text": "My speciality is the study of language, in which a research question may evolve from a simple observation, and each step of the process may demand patience.",
+      "translation": "我的专业是语言研究,在语言研究中,一个研究问题可能从简单的观察演化而来,而过程的每一步都需要耐心。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "My speciality is the study of language",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My speciality"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "the study of language"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "in which a research question may evolve from a simple observation"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each step of the process may demand patience",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each step of the process"
+            },
+            {
+              "role": "谓语",
+              "text": "may demand"
+            },
+            {
+              "role": "宾语",
+              "text": "patience"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词+关系代词 in which",
+          "note": "in which 引导非限制性定语从句,in 与先行词 study 搭配:in the study of language。",
+          "example": "This is the school in which I study.",
+          "exampleCn": "这就是我读书的学校。"
+        },
+        {
+          "name": "evolve from",
+          "note": "evolve from A 表示「由 A 演化而来」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "in which a research question may evolve from a simple observation",
+          "name": "介词+关系代词 in which"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "in which a research question may evolve from a simple observation",
+          "name": "evolve from"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这就是我读书的学校。",
+          "answer": "This is the school in which I study.",
+          "note": "in which 引导非限制性定语从句,in 与先行词 study 搭配:in the study of language。",
+          "point": "介词+关系代词 in which"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My speciality is the study of language, in which a research question may evolve from a simple observation, and each step of the process may demand patience.",
+          "answer": "My speciality is the study of language, in which a research question may evolve from a simple observation, and each step of the process may demand patience.",
+          "note": "evolve from A 表示「由 A 演化而来」。",
+          "point": "evolve from"
+        }
+      ]
+    },
+    {
+      "text": "I aspire to publish one paper before graduation, but my professor may warn me that acclaim may never come without rigorous work.",
+      "translation": "我渴望在毕业前发表一篇论文,但我的教授也许会提醒我:没有严谨的工作,赞誉永远不会到来。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I aspire to publish one paper before graduation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "aspire"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to publish one paper"
+            },
+            {
+              "role": "时间状语",
+              "text": "before graduation"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "my professor may warn me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "my professor"
+            },
+            {
+              "role": "谓语",
+              "text": "may warn"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that acclaim may never come without rigorous work"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "aspire to do",
+          "note": "aspire to do sth 表示「渴望、立志做某事」。"
+        },
+        {
+          "name": "warn sb that",
+          "note": "warn sb that... 引导宾语从句,表示警告的内容。"
+        },
+        {
+          "name": "双重否定",
+          "note": "never...without... 表示「没有…就绝不…」,起强调作用。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "that acclaim may never come without rigorous work",
+          "name": "aspire to do"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "that acclaim may never come without rigorous work",
+          "name": "warn sb that"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "that acclaim may never come without rigorous work",
+          "name": "双重否定"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I aspire to publish one paper before graduation, but my professor may warn me that acclaim may never come without rigorous work.",
+          "answer": "I aspire to publish one paper before graduation, but my professor may warn me that acclaim may never come without rigorous work.",
+          "note": "aspire to do sth 表示「渴望、立志做某事」。",
+          "point": "aspire to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I aspire to publish one paper before graduation, but my professor may warn me that acclaim may never come without rigorous work.",
+          "answer": "I aspire to publish one paper before graduation, but my professor may warn me that acclaim may never come without rigorous work.",
+          "note": "warn sb that... 引导宾语从句,表示警告的内容。",
+          "point": "warn sb that"
+        }
+      ]
+    },
+    {
+      "text": "The advent of digital tool may change the way we record our reading, but a computer can not do the thinking for us.",
+      "translation": "数字工具的到来可能会改变我们记录阅读的方式,但计算机不能替我们思考。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The advent of digital tool may change the way we record our reading",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The advent of digital tool"
+            },
+            {
+              "role": "谓语",
+              "text": "may change"
+            },
+            {
+              "role": "宾语",
+              "text": "the way"
+            },
+            {
+              "role": "定语从句",
+              "text": "we record our reading"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a computer can not do the thinking for us",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a computer"
+            },
+            {
+              "role": "谓语",
+              "text": "can not do"
+            },
+            {
+              "role": "宾语",
+              "text": "the thinking"
+            },
+            {
+              "role": "状语",
+              "text": "for us"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "省略关系副词的定语从句",
+          "note": "the way we record our reading 中 the way 后省略了 in which。"
+        },
+        {
+          "name": "转折连词 but",
+          "note": "but 连接两个分句,构成「A 可能改变…但 B 不能…」的对比论证。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "The advent of digital tool may change the way we record our reading",
+          "name": "省略关系副词的定语从句"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "The advent of digital tool may change the way we record our reading",
+          "name": "转折连词 but"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The advent of digital tool may change the way we record our reading, but a computer can not do the thinking for us.",
+          "answer": "The advent of digital tool may change the way we record our reading, but a computer can not do the thinking for us.",
+          "note": "the way we record our reading 中 the way 后省略了 in which。",
+          "point": "省略关系副词的定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The advent of digital tool may change the way we record our reading, but a computer can not do the thinking for us.",
+          "answer": "The advent of digital tool may change the way we record our reading, but a computer can not do the thinking for us.",
+          "note": "but 连接两个分句,构成「A 可能改变…但 B 不能…」的对比论证。",
+          "point": "转折连词 but"
+        }
+      ]
+    },
+    {
+      "text": "To evade a simple error, read the draft backward, an old tactic that may sound strange but may often reveal a small mistake.",
+      "translation": "为了避开简单的错误,倒着读你的草稿,这个老办法听起来奇怪,却常常能发现小错误。",
+      "chunks": [
+        {
+          "label": "目的状语",
+          "color": "#8ab4f8",
+          "text": "To evade a simple error"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "read the draft backward",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "read"
+            },
+            {
+              "role": "宾语",
+              "text": "the draft"
+            },
+            {
+              "role": "状语",
+              "text": "backward"
+            }
+          ]
+        },
+        {
+          "label": "同位语(含定语从句)",
+          "color": "#9fd8e8",
+          "text": "an old tactic that may sound strange but may often reveal a small mistake"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句",
+          "note": "read the draft backward 是祈使句,表示建议,主语 you 省略。"
+        },
+        {
+          "name": "不定式作目的状语",
+          "note": "To evade a simple error 说明建议的目的。"
+        },
+        {
+          "name": "同位语+定语从句",
+          "note": "an old tactic 是前面整句的同位语,that 引导的定语从句修饰 tactic。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "an old tactic that may sound strange but may often reveal a small mistake",
+          "name": "祈使句"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "an old tactic that may sound strange but may often reveal a small mistake",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "an old tactic that may sound strange but may often reveal a small mistake",
+          "name": "同位语+定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To evade a simple error, read the draft backward, an old tactic that may sound strange but may often reveal a small mistake.",
+          "answer": "To evade a simple error, read the draft backward, an old tactic that may sound strange but may often reveal a small mistake.",
+          "note": "read the draft backward 是祈使句,表示建议,主语 you 省略。",
+          "point": "祈使句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To evade a simple error, read the draft backward, an old tactic that may sound strange but may often reveal a small mistake.",
+          "answer": "To evade a simple error, read the draft backward, an old tactic that may sound strange but may often reveal a small mistake.",
+          "note": "To evade a simple error 说明建议的目的。",
+          "point": "不定式作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "Inverse logic may also help, for a conclusion that is too neat may hide a flaw in its premise.",
+      "translation": "逆向逻辑也有帮助,因为一个过于完美的结论可能在它的前提里藏有缺陷。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "Inverse logic may also help",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Inverse logic"
+            },
+            {
+              "role": "状语",
+              "text": "may also"
+            },
+            {
+              "role": "谓语",
+              "text": "help"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a conclusion that is too neat may hide a flaw in its premise",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a conclusion"
+            },
+            {
+              "role": "定语从句",
+              "text": "that is too neat"
+            },
+            {
+              "role": "谓语",
+              "text": "may hide"
+            },
+            {
+              "role": "宾语",
+              "text": "a flaw in its premise"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "for 表示原因",
+          "note": "for 是并列连词,补充说明原因,语气比 because 弱。"
+        },
+        {
+          "name": "定语从句 that is too neat",
+          "note": "that 引导定语从句修饰 conclusion,在从句中作主语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a conclusion that is too neat may hide a flaw in its premise",
+          "name": "for 表示原因"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a conclusion that is too neat may hide a flaw in its premise",
+          "name": "定语从句 that is too neat"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Inverse logic may also help, for a conclusion that is too neat may hide a flaw in its premise.",
+          "answer": "Inverse logic may also help, for a conclusion that is too neat may hide a flaw in its premise.",
+          "note": "for 是并列连词,补充说明原因,语气比 because 弱。",
+          "point": "for 表示原因"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Inverse logic may also help, for a conclusion that is too neat may hide a flaw in its premise.",
+          "answer": "Inverse logic may also help, for a conclusion that is too neat may hide a flaw in its premise.",
+          "note": "that 引导定语从句修饰 conclusion,在从句中作主语。",
+          "point": "定语从句 that is too neat"
+        }
+      ]
+    },
+    {
+      "text": "After the meeting, I write a list of the advice that she may give, and I begin the overhaul the same evening.",
+      "translation": "会议结束后,我把她可能提出的建议列成清单,当天晚上就开始全面修改。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "After the meeting"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I write a list of the advice that she may give",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "write"
+            },
+            {
+              "role": "宾语",
+              "text": "a list of the advice"
+            },
+            {
+              "role": "定语从句",
+              "text": "that she may give"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I begin the overhaul the same evening",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "begin"
+            },
+            {
+              "role": "宾语",
+              "text": "the overhaul"
+            },
+            {
+              "role": "时间状语",
+              "text": "the same evening"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句 that she may give",
+          "note": "that 引导定语从句修饰 advice,在从句中作 give 的宾语。"
+        },
+        {
+          "name": "时间状语短语",
+          "note": "After the meeting 与 the same evening 都是时间状语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "I write a list of the advice that she may give",
+          "name": "定语从句 that she may give"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "I write a list of the advice that she may give",
+          "name": "时间状语短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After the meeting, I write a list of the advice that she may give, and I begin the overhaul the same evening.",
+          "answer": "After the meeting, I write a list of the advice that she may give, and I begin the overhaul the same evening.",
+          "note": "that 引导定语从句修饰 advice,在从句中作 give 的宾语。",
+          "point": "定语从句 that she may give"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After the meeting, I write a list of the advice that she may give, and I begin the overhaul the same evening.",
+          "answer": "After the meeting, I write a list of the advice that she may give, and I begin the overhaul the same evening.",
+          "note": "After the meeting 与 the same evening 都是时间状语。",
+          "point": "时间状语短语"
+        }
+      ]
+    },
+    {
+      "text": "The toil of revision is real, but every new paragraph may bring me close to the standard of a good journal.",
+      "translation": "修改的辛劳是真实的,但每一个新段落都可能让我接近优秀期刊的标准。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The toil of revision is real",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The toil of revision"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "real"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "every new paragraph may bring me close to the standard of a good journal",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "every new paragraph"
+            },
+            {
+              "role": "谓语",
+              "text": "may bring"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "close to the standard of a good journal"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "bring + 宾语 + 宾补",
+          "note": "bring sb close to... 表示「使某人接近…」,close to 短语作宾补。"
+        },
+        {
+          "name": "转折连词 but",
+          "note": "先承认修改辛苦,再转折说明其价值,是议论文常用写法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "every new paragraph may bring me close to the standard of a good journal",
+          "name": "bring + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "every new paragraph may bring me close to the standard of a good journal",
+          "name": "转折连词 but"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The toil of revision is real, but every new paragraph may bring me close to the standard of a good journal.",
+          "answer": "The toil of revision is real, but every new paragraph may bring me close to the standard of a good journal.",
+          "note": "bring sb close to... 表示「使某人接近…」,close to 短语作宾补。",
+          "point": "bring + 宾语 + 宾补"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The toil of revision is real, but every new paragraph may bring me close to the standard of a good journal.",
+          "answer": "The toil of revision is real, but every new paragraph may bring me close to the standard of a good journal.",
+          "note": "先承认修改辛苦,再转折说明其价值,是议论文常用写法。",
+          "point": "转折连词 but"
+        }
+      ]
+    },
+    {
+      "text": "Her final advice is simple: a thesis is not a monument to vanity, but a careful answer to a real question, and the answer may grow only through honest labour.",
+      "translation": "她最后的建议很简单:论文不是虚荣的纪念碑,而是对一个真实问题的认真回答,而这个回答只能通过诚实的劳动成长。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "Her final advice is simple",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Her final advice"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "simple"
+            }
+          ]
+        },
+        {
+          "label": "解释说明一",
+          "color": "#9fd8e8",
+          "text": "a thesis is not a monument to vanity",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a thesis"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a monument to vanity"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "解释说明二",
+          "color": "#9fd8e8",
+          "text": "a careful answer to a real question",
+          "parts": [
+            {
+              "role": "表语",
+              "text": "a careful answer to a real question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "解释说明三",
+          "color": "#9fd8e8",
+          "text": "the answer may grow only through honest labour",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the answer"
+            },
+            {
+              "role": "谓语",
+              "text": "may grow"
+            },
+            {
+              "role": "状语",
+              "text": "only through honest labour"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not...but... 结构",
+          "note": "not A but B 表示「不是 A,而是 B」。"
+        },
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后对 simple 的内容作具体解释,是书面语常用的展开方式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "the answer may grow only through honest labour",
+          "name": "not...but... 结构"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "the answer may grow only through honest labour",
+          "name": "冒号解释说明"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her final advice is simple: a thesis is not a monument to vanity, but a careful answer to a real question, and the answer may grow only through honest labour.",
+          "answer": "Her final advice is simple: a thesis is not a monument to vanity, but a careful answer to a real question, and the answer may grow only through honest labour.",
+          "note": "not A but B 表示「不是 A,而是 B」。",
+          "point": "not...but... 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her final advice is simple: a thesis is not a monument to vanity, but a careful answer to a real question, and the answer may grow only through honest labour.",
+          "answer": "Her final advice is simple: a thesis is not a monument to vanity, but a careful answer to a real question, and the answer may grow only through honest labour.",
+          "note": "冒号后对 simple 的内容作具体解释,是书面语常用的展开方式。",
+          "point": "冒号解释说明"
+        }
+      ]
+    },
+    {
+      "text": "I leave her office with a clear plan, and I know that the road from draft to degree is long, yet each step may make the next one less hard; above all, a scholar must show allegiance to the evidence, not to a favourite theory, and this principle may guide every page of my thesis.",
+      "translation": "我带着清晰的计划离开她的办公室,我知道从初稿到学位的路很漫长,但每一步都可能让下一步不再那么艰难。; 最重要的是,学者必须忠于证据,而不是忠于自己偏爱的理论,这一原则可能会指引我论文的每一页。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I leave her office with a clear plan",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "leave"
+            },
+            {
+              "role": "宾语",
+              "text": "her office"
+            },
+            {
+              "role": "状语",
+              "text": "with a clear plan"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "I know",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "know"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the road from draft to degree is long"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "并列句(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "each step may make the next one less hard",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each step"
+            },
+            {
+              "role": "谓语",
+              "text": "may make"
+            },
+            {
+              "role": "宾语",
+              "text": "the next one"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "less hard"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Above all"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a scholar must show allegiance to the evidence, not to a favourite theory",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a scholar"
+            },
+            {
+              "role": "谓语",
+              "text": "must show"
+            },
+            {
+              "role": "宾语",
+              "text": "allegiance"
+            },
+            {
+              "role": "状语",
+              "text": "to the evidence, not to a favourite theory"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "this principle may guide every page of my thesis",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this principle"
+            },
+            {
+              "role": "谓语",
+              "text": "may guide"
+            },
+            {
+              "role": "宾语",
+              "text": "every page of my thesis"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "make + 宾语 + 宾补",
+          "note": "make the next one less hard:形容词短语 less hard 作宾补。"
+        },
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 know 的宾语。"
+        },
+        {
+          "name": "插入语 Above all",
+          "note": "Above all 表示「最重要的是」,置于句首起强调作用。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a scholar must show allegiance to the evidence, not to a favourite theory",
+          "name": "make + 宾语 + 宾补"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a scholar must show allegiance to the evidence, not to a favourite theory",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u3",
+          "phrase": "a scholar must show allegiance to the evidence, not to a favourite theory",
+          "name": "插入语 Above all"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I leave her office with a clear plan, and I know that the road from draft to degree is long, yet each step may make the next one less hard; above all, a scholar must show allegiance to the evidence, not to a favourite theory, and this principle may guide every page of my thesis.",
+          "answer": "I leave her office with a clear plan, and I know that the road from draft to degree is long, yet each step may make the next one less hard; above all, a scholar must show allegiance to the evidence, not to a favourite theory, and this principle may guide every page of my thesis.",
+          "note": "make the next one less hard:形容词短语 less hard 作宾补。",
+          "point": "make + 宾语 + 宾补"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I leave her office with a clear plan, and I know that the road from draft to degree is long, yet each step may make the next one less hard; above all, a scholar must show allegiance to the evidence, not to a favourite theory, and this principle may guide every page of my thesis.",
+          "answer": "I leave her office with a clear plan, and I know that the road from draft to degree is long, yet each step may make the next one less hard; above all, a scholar must show allegiance to the evidence, not to a favourite theory, and this principle may guide every page of my thesis.",
+          "note": "that 引导宾语从句,作 know 的宾语。",
+          "point": "宾语从句 that"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u3",
+      "name": "非限制性定语从句 which",
+      "note": "which 引导非限制性定语从句,补充说明 consultation,与主干用逗号隔开。",
+      "sourceExample": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+      "sourceExampleCn": "论文咨询,我的教授也许每周五进行,可能持续一个小时,而每一次拜访都可能让我花上一整天的准备时间。"
+    },
+    {
+      "grammarId": "g-s4u3",
+      "name": "双宾语 cost me a day",
+      "note": "cost 后接「间接宾语(人)+直接宾语(时间)」,表示「花费某人…」。",
+      "sourceExample": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+      "sourceExampleCn": "论文咨询,我的教授也许每周五进行,可能持续一个小时,而每一次拜访都可能让我花上一整天的准备时间。"
+    },
+    {
+      "grammarId": "g-s4u3",
+      "name": "长难句拆解",
+      "note": "本句是典型的插入式长句:先读主干 The thesis consultation may last an hour,再读被逗号隔开的从句。",
+      "sourceExample": "The thesis consultation, which my professor may hold every Friday, may last an hour, and each visit may cost me a whole day of preparation.",
+      "sourceExampleCn": "论文咨询,我的教授也许每周五进行,可能持续一个小时,而每一次拜访都可能让我花上一整天的准备时间。"
+    },
+    {
+      "grammarId": "g-s4u3",
+      "name": "表语从句 that",
+      "note": "that 引导表语从句,说明 lesson 的内容。",
+      "sourceExample": "She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+      "sourceExampleCn": "她是一位坚定的引路人,她的第一课是:明智的选题等于成功了一半,而宽泛的兴趣必须找到一个狭窄的焦点。"
+    },
+    {
+      "grammarId": "g-s4u3",
+      "name": "while 对比连接词",
+      "note": "while 连接两个分句,表示对照:「而…」。",
+      "sourceExample": "She is a firm guide, and her first lesson is that a sane topic is half the battle, while a broad interest must find one narrow focus.",
+      "sourceExampleCn": "她是一位坚定的引路人,她的第一课是:明智的选题等于成功了一半,而宽泛的兴趣必须找到一个狭窄的焦点。"
+    }
+  ]
+}

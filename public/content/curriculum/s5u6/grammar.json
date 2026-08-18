@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u6",
+  "stage": 5,
+  "title": "口语流利表达",
+  "explanation": "## 口语流利表达:Fluency 与 Coherence 双提升\n\n雅思口语评分看流利度与连贯性。**流利不等于语速快**,而是自然、不间断、有逻辑。\n\n## 口语工具箱\n\n1. **话题开场**:Well, to be honest, ...;Actually, ...;That's an interesting question。\n2. **争取时间**:Let me think about that for a second;That's a good question。\n3. **展开论述**:First of all, ...;In addition, ...;Most importantly, ...\n4. **举例**:For example, I remember...;A good case in point is...\n5. **对比**:On the one hand..., on the other hand...\n6. **总结**:So overall, ...;In a word, ...\n\n## 流利技巧\n\n1. 观点 + 原因 + 例子(PPP 法:Point, Reason, Example)。\n2. 使用填充语保持语流,但要适度。\n3. 用衔接词连接观点,避免\"断片式\"回答。\n4. 宁可放慢语速说清楚,也不要赶速度出错误。\n\n## 常见失误\n\n- 背整段答案,忘词就卡死 → 改背结构框架。\n- 只答 Yes/No 不展开 → 至少讲 2-3 句话。\n- 过渡词单一,一直 and → 交替使用衔接表达。",
+  "examples": [
+    { "en": "Well, to be honest, I've never thought about that question before.", "cn": "嗯,说实话,我之前从没想过这个问题。", "note": "开场填充语争取思考时间,保持语流。" },
+    { "en": "That's a good question. Let me think about it for a second.", "cn": "这是个好问题。让我想一下。", "note": "遇到难题时的自然拖延策略。" },
+    { "en": "On the one hand, it saves time; on the other hand, it costs more.", "cn": "一方面它节省时间,另一方面它花费更多。", "note": "On the one hand...on the other hand 对比结构。" },
+    { "en": "For example, I remember spending a whole weekend learning to cook.", "cn": "例如,我记得花了一整个周末学做饭。", "note": "For example + 个人经历,让回答更生动。" }
+  ],
+  "errors": [
+    { "wrong": "直接回答 Yes 或 No 就结束。", "right": "Yes/No 后继续展开观点、原因与例子。", "note": "口语题要求展开,2-3 句话起步。" },
+    { "wrong": "全程只用 and 连接观点。", "right": "交替使用 first of all, besides, most importantly 等衔接词。", "note": "衔接词多样体现 Coherence。" },
+    { "wrong": "背整段模板答案,一忘就卡壳。", "right": "背结构框架,用自己的内容填充。", "note": "背框架比背答案更灵活、更抗打断。" }
+  ],
+  "quiz": [
+    { "q": "PPP 法指的是?", "options": ["Point, Reason, Example", "Pause, Plan, Play", "Practice, Print, Pause", "Point, Plan, Pray"], "answer": 0, "note": "观点 + 原因 + 例子是口语展开的标准方法。" },
+    { "q": "遇到没想过的问题,自然的应对是?", "options": ["沉默", "That's a good question. Let me think...", "直接说不会", "岔开话题"], "answer": 1, "note": "用填充语争取时间,保持语流不断。" },
+    { "q": "下列哪个是话题开场表达?", "options": ["Well, to be honest", "Goodbye", "See you", "No way"], "answer": 0, "note": "Well, to be honest 是自然的口语开场。" },
+    { "q": "口语回答中\"最重要的是\"怎么说?", "options": ["Most importantly", "The least", "Nothing", "Probably"], "answer": 0, "note": "Most importantly 强调重点信息。" },
+    { "q": "提升流利度的最佳练习方式是?", "options": ["背整段答案", "PPP 框架 + 自我录音回听", "只读不练", "追求语速"], "answer": 1, "note": "框架练习加回听纠错,比死背更有效。" }
+  ]
+}

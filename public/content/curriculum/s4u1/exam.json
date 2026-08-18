@@ -1,0 +1,87 @@
+{
+ "id": "e-s4u1",
+ "stage": 4,
+ "unitId": "s4u1",
+ "title": "真题演练 · 长难句拆解法",
+ "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 长难句拆解法。",
+ "questions": [
+  {
+   "q": "It can be inferred from Paragraphs 5 and 6 that a “legacy product”",
+   "options": [
+    "helps restore the glory of former times",
+    "is meant for the most loyal customers",
+    "will have the cost of printing reduced",
+    "expands the popularity of the paper"
+   ],
+   "answer": 1,
+   "analysis": "此题虽然考查两段的内容,但仍然可将其视为一道词汇题。做此类题目时,重点要找该词的上下文。第五\n段句⑥表明了佩雷蒂的观点:Iwouldn’tpickayeartoendprint(我不会挑一年来终止印刷业务。)紧接着\n句⑦提到他会“将该报打造成文化遗产类产品(alegacyproduct)”。而第六段开头对此进行了解释:Themostloyal\ncustomerswouldstillgettheproducttheyfavor(最忠实的客户还会继续购买他们喜爱的产品)。后面的句\n④又明确说明:如果你想打造一种纸质印刷品,销售的对象应该是那些已经非常喜欢印刷品的人。由上述分析可知,\na“legacyproduct”是专门面向最忠实客户的产品,选项B与此意相符,故为正确答案。",
+   "point": "zhenti:z2016-reading-4:q3",
+   "source": "2016 考研英语一真题"
+  },
+  {
+   "q": "According to Paragraph 4, the message conveyed by celebrity magazines is",
+   "options": [
+    "soothing.",
+    "ambiguous.",
+    "compensatory.",
+    "misleading."
+   ],
+   "answer": 3,
+   "analysis": "该题考查考生对文章第四段细节的理解。从第四段第一句可知,像《美国周刊》、《人物》这样的名\n人杂志所呈现的父母的形象是非常不现实的、不切实际的。选项D是对原文unrealistic的同义替换,故为正确\n答案。A、B、C均为无中生有。",
+   "point": "zhenti:z2011-reading-4:q4",
+   "source": "2011 考研英语一真题"
+  },
+  {
+   "q": "Which of the following is true of CSR according to the last paragraph? Text 4 There will eventually come a day when The New York Times ceases to publish stories on newsprint Exactly when that day will be is a matter of debate ”Sometime in the future,” the paper’s publisher said back in 2010 Nostalgia for ink on paper and the rustle of pages aside, there’s plenty of incentive to ditch print The infrastructure required to make a physical newspaper – printing presses, delivery trucks – isn’t just expensive; it’s excessive at a time when online – only competitors don’t have the same set of financial constraints Readers are migrating away from print anyway And though print ad sales still dwarf their online and mobile counterparts, revenue from print is still declining Overhead may be high and circulation lower, but rushing to eliminate its print edition would be a mistake, says BuzzFeed CEO Jonah Peretti Peretti says the Times shouldn’t waste time getting out of the print business, but only if they go about doing it the right way “Figuring out a way to accelerate that transition would make sense for them,” he said, “but if you discontinue it, you’re going to have your most loyal customers really upset with you ” Sometimes that’s worth making a change anyway Peretti gives the example of Netflix discontinuing its DVD-mailing service to focus on streaming “It was seen as blunder,” he said The move turned out to be foresighted And if Peretti were in charge at the Times? ”I wouldn’t pick a year to end print,” he said “I would raise prices and make it into more of a legacy product ” The most loyal customers would still get the product they favor, the idea goes, and they’d feel like they were helping sustain the quality of something they believe in “So if you’re overpaying for print, you could feel like you were helping,” Peretti said “Then increase it at a higher rate each year and essentially try to generate additional revenue ” In other words, if you’re going to make a print product, make it for the people who are already obsessed with it Which may be what the Times is doing already Getting the print edition seven days a week costs nearly $500 a year – more than twice as much as a digital – only subscription “It’s a really hard thing to do and it’s a tremendous luxury that BuzzFeed doesn’t have a legacy business,” Peretti remarked “But we’re going to have questions like that where we have things we’re doing that don’t make sense when the market changes and the world changes In those situations, it’s better to be more aggressive that less aggressive ”",
+   "options": [
+    "The necessary amount of companies spending on it is unknown",
+    "Companies’ financial capacity for it has been overestimated",
+    "Its negative effects on businesses are often overlooked",
+    "It has brought much benefit to the banking industry"
+   ],
+   "answer": 0,
+   "analysis": "根据题干关键词可将此题直接对应文章最后一段。该段句①指明:Researchersadmitthattheirstudydoesnot\nanswerthequestionofhowmuchbusinessesoughttospendonCSR.(研究人员们承认,他们的研究并不能回答企业究\n竟应在CSR上花费多少才合适的问题。)可知这项研究在企业所需在CSR上花费多少这方面并不确定。因此选项A\n恰好可以体现此意,故为正确答案。\nText4\n一、文章总体分析及架构\n文章出自2015年3月TheAtlantic《大西洋月刊》标题OneWaytoPhaseOutNewspapers:MakeThemaLuxuryGood\n《逐步淘汰报纸的一种方式:让它们成为奢饰品》主题为将报纸打造成奢饰品,题材是社会科学。\n本文针对报纸印刷的去留进行讨论。文章刚一开始用《纽约时报》的例子来说明未来报纸印刷业很有可能会减\n少,并用事实说明应该放弃纸质印刷品的理由。接下来的段落,作者引用佩雷蒂的观点来阐明应如何正确对待纸质\n印刷业务:不是着急淘汰,而是应该进行适当的改革和转型。\n二、快速审题",
+   "point": "zhenti:z2016-reading-3:q5",
+   "source": "2016 考研英语一真题"
+  },
+  {
+   "q": "Which of the following is the best title of the text? Text4 Two years ago, Rupert Murdoch’s daughter, Elisabeth, spoke of the “unsettling dearth of integrity across so many of our institutions.” Integrity had collapsed, she argued, because of a collective acceptance that the only “sorting mechanism” in society should be profit and the market. But “it’s us, human beings, we the people who create the society we want, not profit.” Driving her point home, she continued: “It’s increasingly apparent that the absence of purpose, of a moral language within government, media or business could become one of the most dangerous goals for capitalism and freedom.” This same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way as it had with widespread illegal telephone hacking . As the hacking trial concludes——finding guilty one ex-editor of the News of the World, Andy Coulson, for conspiring to hack phones, and finding his predecessor, Rebekah Brooks, innocent of the same charge —the wider issue of dearth of integrity still stands.Journalists are known to have hacked the phones of up to 5,500 people. This is hacking on an industrial scale, as was acknowledged by Glenn Mulcaire, the man hired by the News of the World in 2001 to be the point person for phone hacking. Others await trial. This long story still unfolds. In many respects, the dearth of moral purpose frames not only the fact of such widespread phone hacking but the terms on which the trial took place. One of the astonishing revelations was how little Rebekah Brooks knew of what went on in her newsroom, how little she thought to ask and the fact that she never inquired how the stories arrived. The core of her successful defence was that she knew nothing. In today’s world, it has become normal that well-paid executives should not be accountable for what happens in the organizations that they run. Perhaps we should not be so surprised. For a generation, the collective doctrine has been that the sorting mechanism of society should be profit. The words that have mattered are efficiency, flexibility, shareholder value, business–friendly, wealth generation, sales, impact and, in newspapers, circulation. Words degraded to the margin have been justice, fairness, tolerance, proportionality and accountability. The purpose of editing the News of the World was not to promote reader understanding, to be fair in what was written or to betray any common humanity. It was to ruin lives in the quest for circulation and impact. Ms Brooks may or may not have had suspicions about how her journalists got their stories, but she asked no questions, gave no instructions—nor received traceable, recorded answers.",
+   "options": [
+    "Science Joins Push to Screen Statistics in Papers",
+    "Professional Statisticians Deserve More Respect",
+    "Data Analysis Finds Its Way onto Editors’ Desks",
+    "Statisticians Are Coming Back with Science"
+   ],
+   "answer": 0,
+   "analysis": "文章第一段由Science将增加statisticalchecks引出话题,接下来各段就此问题McNutt,Giovanni\nParmigianni,JohnIoannidis,DavidVaux提出各自的看法。文中statistical,papers反复提及,可知该词是文中核\n心词。选项B和选项D首先排除,偏离主题,statisticians仅在文中提及,非重点讨论内容;选项C与文中主\n题相差较大,因此排除。\n三、长难句分析",
+   "point": "zhenti:z2015-reading-3:q5",
+   "source": "2015 考研英语一真题"
+  },
+  {
+   "q": "The author examines the practice of grade forgiveness by Text 3 This year marks exactly two centuries since the publication of “Frankenstein; or, The Modern Prometheus,” by Mary Shelley. Even before the invention of the electric light bulb, the author produced a remarkable work of speculative fiction that would foreshadow many ethical questions to be raised by technologies yet to come. Today the rapid growth of artificial intelligence (AI) raises fundamental questions: “What is intelligence, identity, or consciousness? What makes humans humans?” What is being called artificial general intelligence, machines that would imitate the way humans think, continues to evade scientists. Yet humans remain fascinated by the idea of robots that would look, move, and respond like humans, similar to those recently depicted on popular sci-fi TV series such as “West world” and “Humans”. Just how people think is still far too complex to be understood, let alone reproduced, says David Eagleman, a Stanford University neuroscientist. “We are just in a situation where there are no good theories explaining what consciousness actually is and how you could ever build a machine to get there.” But that doesn’t mean crucial ethical issues involving AI aren’t at hand. The coming use of autonomous vehicles, for example, poses thorny ethical questions. Human drivers sometimes must make split-second decisions. Their reactions may be a complex combination of instant reflexes, input from past driving experiences, and what their eyes and ears tell them in that moment. AI “vision” today is not nearly as sophisticated as that of humans. And to anticipate every imaginable driving situation is a difficult programming problem. Whenever decisions are based on masses of data, “you quickly get into a lot of ethical questions,” notes Tan Kiat How, chief executive of a Singapore-based agency that is helping the government develop a voluntary code for the ethical use of AI. Along with Singapore, other governments and mega-corporations are beginning to establish their own guidelines. Britain is setting up a data ethics center. India released its AI ethics strategy this spring. On June 7 Google pledged not to “design or deploy AI” that would cause “overall harm,” or to develop AI-directed weapons or use AI for surveillance that would violate international norms. It also pledged not to deploy AI whose use would violate international laws or human rights. While the statement is vague, it represents one starting point. So does the idea that decisions made by AI systems should be explainable, transparent, and fair. To put it another way: How can we make sure that the thinking of intelligent machines reflects humanity’s highest values? Only then will they be useful servants and not Frankenstein’s out-of-control monster.",
+   "options": [
+    "assessing its feasibility.",
+    "analyzing the causes behind it.",
+    "comparing different views on it.",
+    "listing its long-run effects."
+   ],
+   "answer": 1,
+   "analysis": "根据题干,表面上问作者通过什么论述方式来探讨gradeforgiveness的实践操作,其实是考\n全文的主旨写作手法,属于主旨大意题。方法即是串读每段段落大意句,把握作者的论述角度。尤其,\n在第一段第一句Gradeinflation-....-isoftenconsideredaproductofaconsumerera...以及第二句But\nanother,relatedforce-......谈及的都是背后的原因。第五段,第一句Thatsaid,thereisawayinwhichgrade\nforgivenesssatisfiescolleges’ownneedsaswell.也是突出了gradeforgiveness能够满足大学自身的需求,\n这也是分析了gradeforgiveness的原因。所以,该题答案是B项,analyzingthecausesbehindit.\n四、词汇注释\ninflation膨胀,通货膨胀 please使满意,使愉快\ngrade-pointaverage平均学分绩点 catalog(ue)目录,目录薄\nforgiveness宽恕,宽仁之心\nretake重(考),重学(课程等) overall全面的,综合的,总体的\npractice通常的做法,惯例,常规 selective严格筛选的\naccelerate(使)加速,加快 undergraduate大",
+   "point": "zhenti:z2019-reading-2:q5",
+   "source": "2019 考研英语一真题"
+  },
+  {
+   "q": "Which of the following is the text mainly about? Text 4 It’s no surprise that Jennifer Senior’s insightful, provocative magazine cover story, “I Love My Children, I Hate My Life,” is arousing much chatter – nothing gets people talking like the suggestion that child rearing is anything less than a completely fulfilling, life-enriching experience. Rather than concluding that children make parents either happy or miserable, Senior suggests we need to redefine happiness: instead of thinking of it as something that can be measured by moment-to-moment joy, we should consider being happy as a past-tense condition. Even though the day-to-day experience of raising kids can be soul-crushingly hard, Senior writes that “the very things that in the moment dampen our moods can later be sources of intense gratification and delight.” The magazine cover showing an attractive mother holding a cute baby is hardly the only Madonna-and-child image on newsstands this week. There are also stories about newly adoptive – and newly single – mom Sandra Bullock, as well as the usual “Jennifer Aniston is pregnant” news. Practically every week features at least one celebrity mom, or mom-to-be, smiling on the newsstands. In a society that so persistently celebrates procreation, is it any wonder that admitting you regret having children is equivalent to admitting you support kitten-killing? It doesn’t seem quite fair, then, to compare the regrets of parents to the regrets of the childless. Unhappy parents rarely are provoked to wonder if they shouldn’t have had kids, but unhappy childless folks are bothered with the message that children are the single most important thing in the world:obviously their misery must be a direct result of the gaping baby-size holes in their lives. Of course, the image of parenthood that celebrity magazines like Us Weekly and People present is hugely unrealistic, especially when the parents are single mothers like Bullock. According to several studies concluding that parents are less happy than childless couples, single parents are the least happy of all. No shock there, considering how much work it is to raise a kid without a partner to lean on; yet to hear Sandra and Britney tell it, raising a kid on their “own” (read: with round-the-clock help) is a piece of cake. It’s hard to imagine that many people are dumb enough to want children just because Reese and Angelina make it look so glamorous: most adults understand that a baby is not a haircut. But it’s interesting to wonder if the images we see every week of stress-free, happiness-enhancing parenthood aren’t in some small, subconscious way contributing to our own dissatisfactions with the actual experience, in the same way that a small part of us hoped getting “the Rachel” might make us look just a little bit like Jennifer Aniston.",
+   "options": [
+    "Alternatives to conventional paid media.",
+    "Conflict between hijacked and earned media.",
+    "Dominance of hijacked media.",
+    "Popularity of owned media."
+   ],
+   "answer": 0,
+   "analysis": "本文主要介绍了除传统“付费”媒体之外的四种新媒体形式:“免费”媒体,“自有”媒体,“售出”媒体以\n及“劫持”媒体。文章首段第三句指出,虽然传统的“付费”媒体,仍然起着重要作用,但如今企业还可利用许多\n其他形式的媒体。后文主要介绍了其他媒体形式。A选项能够概括全文的主要内容,故为正确答案。\nB、C、D三个选项,均为文中的具体信息,以偏概全。\n三、长难句分析",
+   "point": "zhenti:z2011-reading-3:q5",
+   "source": "2011 考研英语一真题"
+  }
+ ]
+}

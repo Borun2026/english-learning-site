@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u5",
+  "stage": 1,
+  "title": "冠词与名词复数",
+  "explanation": "## 冠词\n\n1. **不定冠词 a / an**:表示\"一个\"、泛指。**a 用于辅音音素开头**(a book);**an 用于元音音素开头**(an apple)。注意看发音而不是字母:an hour(h 不发音)、a university(读作 ju:n 开头)。\n2. **定冠词 the**:表示特指。用于上文提到过的人或物、双方都知道的事物、世界上独一无二的事物(the sun、the moon)。\n\n## 名词复数\n\n| 情况 | 变化 | 例词 |\n|---|---|---|\n| 一般情况 | 加 -s | book→books |\n| -s / -x / -ch / -sh 结尾 | 加 -es | box→boxes |\n| 辅音字母 + y 结尾 | 变 y 为 i 加 -es | city→cities |\n| -f / -fe 结尾 | 变 f 为 v 加 -es | knife→knives |\n| 少数不规则 | 特殊变化 | man→men, child→children |",
+  "examples": [
+    { "en": "I have an apple and a banana.", "cn": "我有一个苹果和一根香蕉。", "note": "apple 以元音音素开头用 an,banana 用 a。" },
+    { "en": "The sun rises in the east.", "cn": "太阳从东方升起。", "note": "世界上独一无二的事物前用 the。" },
+    { "en": "There are many books on the shelf.", "cn": "书架上有许多书。", "note": "books 是 book 的复数,直接加 -s。" },
+    { "en": "The children are playing in the park.", "cn": "孩子们正在公园里玩。", "note": "child 的复数是不规则的 children。" }
+  ],
+  "errors": [
+    { "wrong": "She is a engineer.", "right": "She is an engineer.", "note": "engineer 以元音音素开头,用 an。" },
+    { "wrong": "There are three bus in the street.", "right": "There are three buses in the street.", "note": "bus 以 -s 结尾,复数加 -es。" },
+    { "wrong": "I have two knife.", "right": "I have two knives.", "note": "knife 以 -fe 结尾,复数变 f 为 v 加 -es。" }
+  ],
+  "quiz": [
+    { "q": "He is ___ honest boy.", "options": ["a", "an", "the", "不填"], "answer": 1, "note": "honest 中 h 不发音,以元音音素开头用 an。" },
+    { "q": "I have ___ apple every day.", "options": ["a", "an", "the", "不填"], "answer": 1, "note": "apple 以元音音素开头,用 an。" },
+    { "q": "There are two ___ in the garden.", "options": ["child", "childs", "children", "childrens"], "answer": 2, "note": "child 的复数是不规则形式 children。" },
+    { "q": "___ moon is very bright tonight.", "options": ["A", "An", "The", "不填"], "answer": 2, "note": "月亮独一无二,用定冠词 the。" },
+    { "q": "My sister has many ___.", "options": ["photo", "photos", "photoes", "photoies"], "answer": 1, "note": "photo 以元音字母 o 结尾,直接加 -s。" }
+  ]
+}

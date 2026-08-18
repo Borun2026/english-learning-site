@@ -1,0 +1,59 @@
+{
+ "id": "cet6-041",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第3套) Passage 1",
+ "title": "Schools are not just a microcosm (  JJ ) of society; they mediate it too",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 459,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Schools are not just a microcosm ( JJ ) of society; they mediate it too. The best seek to alleviate the external pressures on their pupils while equipping them better to understand and handle the world outside-at once sheltering them and broadening their horizons. This is ambitious in any circumstances, and in a divided and unequal society the two ideals can clash outright ( ..tAiJ-tk. ) .",
+  "Trips that many adults would consider the adventure of a lifetime-treks in Borneo, a sports tour to Barbados-appear to have become almost routine at some state schools. Parents are being asked for thousands of pounds. Though schools cannot profit from these trips, the companies that arrange them do. Meanwhile, pupils arrive at school hungry because their families can't afford breakfast. The Child Poverty Action Group says nine out of 30 in every classroom fall below the poverty line. The discrepancy is startlingly apparent. Introducing a fundraising requirement for students does not help, as better-off children can tap up richer aunts and neighbours.",
+  "Probing the rock pools of a local beach or practising French on a language exchange can fire children's passions, boost their skills and open their eyes to life's possibilities. Educational outings help bright but disadvantaged students to get better scores in A-level tests. In this globalised age, there is a good case for international travel, and some parents say they can manage the cost of a school trip abroad more easily than a family holiday. Even in the face of immense and mounting financial pressures, some schools have shown remarkable determination and ingenuity in ensuring that all their pupils are able to take up opportunities that may be truly life-changing. They should be applauded. Methods such as whole-school fundraising, with the proceeds ( A ) pooled, can help to extend opportunities and fuel community spirit.",
+  "But � 3 ,000 trips cannot be justified when the average income for families with children is just over � 30,000 . Such initiatives close doors for many pupils. Some parents pull their children out of school because of expensive field trips. Even parents who can see that a trip is little more than a party or celebration may well feel guilt that their child is left behind.",
+  "The Department for Education's guidance says schools can charge only for board and lodging if the trip is part of the syllabus, and that students receiving government aid are exempt from these costs . However, many schools seem to ignore the advice; and it does not cover the kind of glamorous, exotic trips, which are becoming increasingly common. Schools cannot be expected to bring together communities single-handed. But the least we should expect is that they do not foster divisions and exclude those who are already disadvantaged."
+ ],
+ "questions": [
+  {
+   "q": "文中 “Action” 最接近的意思是?",
+   "options": [
+    "决心",
+    "政府",
+    "财政的,金融的",
+    "行动，动作"
+   ],
+   "answer": 3,
+   "analysis": "“Action” 意为「行动，动作」。原文语境:The Child Poverty Action Group says nine out of 30 in every classroom fall below the poverty line.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:However, many schools seem to ignore the advice; and it does not cover the kind of glamorous, ___ trips, which are becoming increasingly common.",
+   "options": [
+    "hungry",
+    "immense",
+    "exotic",
+    "abroad"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“However, many schools seem to ignore the advice; and it does not cover the kind of glamorous, exotic trips, which are becoming increasingly common.”。空格处应填入 “exotic”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Economically speaking are we better off than we were ten years ago Twenty yea",
+    "Professor Stephen Hawking has warned that the creation of powerful artifcial",
+    "Simulators are most often utilized within industries such as nuclear power, a",
+    "Schools are not just a microcosm ( JJ ) of society; they mediate it too"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Schools are not just a microcosm ( JJ ) of society; they mediate it too.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

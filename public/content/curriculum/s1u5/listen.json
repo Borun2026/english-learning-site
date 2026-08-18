@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u5",
+  "stage": 1,
+  "unitId": "s1u5",
+  "title": "听力挑战 · 购物买水果",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "店员",
+      "line": "How much do these apples cost today?",
+      "lineCn": "今天这些苹果多少钱?",
+      "grammar": [
+        { "name": "名词复数与数量", "note": "apples 用复数表示多个苹果,询问价格时常用复数名词。" }
+      ],
+      "options": [
+        { "text": "They are five yuan per kilo.", "correct": true, "feedback": "直接回答价格,指代复数 apples 用 they。" },
+        { "text": "I bought three bananas.", "correct": false, "feedback": "说的是买香蕉,没有回答苹果的价格。" },
+        { "text": "There is an apple on the table.", "correct": false, "feedback": "单数 an apple 与问题里的复数 apples 不符,也没有报价。" }
+      ]
+    },
+    {
+      "speaker": "店员",
+      "line": "Would you like some bananas today?",
+      "lineCn": "今天要买点香蕉吗?",
+      "grammar": [
+        { "name": "some + 可数名词复数", "note": "some 用于肯定句中,后接名词复数,表示'一些'。" }
+      ],
+      "options": [
+        { "text": "Yes, I would like two kilos.", "correct": true, "feedback": "明确说出购买数量和意愿,回应推销恰到好处。" },
+        { "text": "No, I usually drink milk.", "correct": false, "feedback": "说的是喝牛奶的习惯,没有回应买香蕉的询问。" },
+        { "text": "Yes, they grow in the south.", "correct": false, "feedback": "说的是香蕉的产地,不是购买意愿。" }
+      ]
+    }
+  ]
+}

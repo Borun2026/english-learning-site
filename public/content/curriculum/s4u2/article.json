@@ -1,0 +1,1300 @@
+{
+  "id": "a-s4u2",
+  "stage": 4,
+  "unitId": "s4u2",
+  "title": "A Research Plan with My Supervisor",
+  "newWords": [
+    "metropolis",
+    "scattered",
+    "biased",
+    "paradigm",
+    "defer",
+    "portfolio",
+    "utilise",
+    "superfluous",
+    "monotonous",
+    "meditation",
+    "stagnant",
+    "panorama",
+    "habitat",
+    "linguistic",
+    "metaphor"
+  ],
+  "sentences": [
+    {
+      "text": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+      "translation": "当我与导师讨论研究计划时,我认识到,一项扎实的研究依靠的是确凿的证据,而非花哨的言辞。",
+      "chunks": [
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "When I discuss my research plan with my supervisor"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I learn",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "learn"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a sound study may rest on solid evidence rather than on clever rhetoric"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语从句 when",
+          "note": "when 引导时间状语从句,置于句首时主句前常用逗号。"
+        },
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 learn 的宾语,that 可省略。"
+        },
+        {
+          "name": "rather than 结构",
+          "note": "rather than 表示\"而不是\",连接并列成分,本句连接两个 on 短语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that a sound study may rest on solid evidence rather than on clever rhetoric",
+          "name": "时间状语从句 when"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that a sound study may rest on solid evidence rather than on clever rhetoric",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that a sound study may rest on solid evidence rather than on clever rhetoric",
+          "name": "rather than 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+          "answer": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+          "note": "when 引导时间状语从句,置于句首时主句前常用逗号。",
+          "point": "时间状语从句 when"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+          "answer": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+          "note": "that 引导宾语从句,作 learn 的宾语,that 可省略。",
+          "point": "宾语从句 that"
+        }
+      ]
+    },
+    {
+      "text": "My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+      "translation": "我的课题,她也许会耐心审阅,是关于一座大都市的语言的,在那里来自各地的人们每天交融相处。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "My project",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My project"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "which she may examine with patience"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is about the language of a metropolis",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "about the language of a metropolis"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "where people of every region mix every day"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "非限制性定语从句 which/where",
+          "note": "which 修饰 project,where 修饰 metropolis,两个非限制性定语从句层层嵌套,是本单元从句嵌套的典型结构。"
+        },
+        {
+          "name": "从句嵌套",
+          "note": "主干 is about the language of a metropolis 之后又跟一个 where 从句,拆解时先剥离主干,再处理修饰成分。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "where people of every region mix every day",
+          "name": "非限制性定语从句 which/where"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "where people of every region mix every day",
+          "name": "从句嵌套"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+          "answer": "My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+          "note": "which 修饰 project,where 修饰 metropolis,两个非限制性定语从句层层嵌套,是本单元从句嵌套的典型结构。",
+          "point": "非限制性定语从句 which/where"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+          "answer": "My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+          "note": "主干 is about the language of a metropolis 之后又跟一个 where 从句,拆解时先剥离主干,再处理修饰成分。",
+          "point": "从句嵌套"
+        }
+      ]
+    },
+    {
+      "text": "The linguistic data that I gather are scattered, so I use a simple method to organise them into a clear picture.",
+      "translation": "我收集的语言数据是零散的,所以我用一种简单的方法把它们整理成一幅清晰的图景。",
+      "chunks": [
+        {
+          "label": "主干一(主语)",
+          "color": "#a8dab5",
+          "text": "The linguistic data that I gather",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The linguistic data"
+            },
+            {
+              "role": "定语从句",
+              "text": "that I gather"
+            }
+          ]
+        },
+        {
+          "label": "主干一(系表)",
+          "color": "#a8dab5",
+          "text": "are scattered",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "scattered"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I use a simple method to organise them into a clear picture",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "use"
+            },
+            {
+              "role": "宾语",
+              "text": "a simple method"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to organise them into a clear picture"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句 that I gather",
+          "note": "that 引导定语从句修饰 data,that 在从句中作 gather 的宾语。"
+        },
+        {
+          "name": "so 表示结果",
+          "note": "so 连接两个并列分句,表示\"因此\"。"
+        },
+        {
+          "name": "不定式作目的状语",
+          "note": "to organise them... 表示使用简单方法的目的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I use a simple method to organise them into a clear picture",
+          "name": "定语从句 that I gather"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I use a simple method to organise them into a clear picture",
+          "name": "so 表示结果"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I use a simple method to organise them into a clear picture",
+          "name": "不定式作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The linguistic data that I gather are scattered, so I use a simple method to organise them into a clear picture.",
+          "answer": "The linguistic data that I gather are scattered, so I use a simple method to organise them into a clear picture.",
+          "note": "that 引导定语从句修饰 data,that 在从句中作 gather 的宾语。",
+          "point": "定语从句 that I gather"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The linguistic data that I gather are scattered, so I use a simple method to organise them into a clear picture.",
+          "answer": "The linguistic data that I gather are scattered, so I use a simple method to organise them into a clear picture.",
+          "note": "so 连接两个并列分句,表示\"因此\"。",
+          "point": "so 表示结果"
+        }
+      ]
+    },
+    {
+      "text": "A biased sample may distort the whole result, and that is a danger that every student must avoid.",
+      "translation": "有偏见的样本可能会扭曲整个结果,而这是每个学生都必须避免的危险。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A biased sample may distort the whole result",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A biased sample"
+            },
+            {
+              "role": "谓语",
+              "text": "may distort"
+            },
+            {
+              "role": "宾语",
+              "text": "the whole result"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "that is a danger that every student must avoid",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "that"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a danger"
+            },
+            {
+              "role": "定语从句",
+              "text": "that every student must avoid"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "指示代词 that 指代前文",
+          "note": "that 指代上一分句所说的整件事(偏样本会扭曲结果),是重要的指代手法。"
+        },
+        {
+          "name": "定语从句 that every student must avoid",
+          "note": "that 引导定语从句修饰 danger,在从句中作 avoid 的宾语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that is a danger that every student must avoid",
+          "name": "指示代词 that 指代前文"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that is a danger that every student must avoid",
+          "name": "定语从句 that every student must avoid"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A biased sample may distort the whole result, and that is a danger that every student must avoid.",
+          "answer": "A biased sample may distort the whole result, and that is a danger that every student must avoid.",
+          "note": "that 指代上一分句所说的整件事(偏样本会扭曲结果),是重要的指代手法。",
+          "point": "指示代词 that 指代前文"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A biased sample may distort the whole result, and that is a danger that every student must avoid.",
+          "answer": "A biased sample may distort the whole result, and that is a danger that every student must avoid.",
+          "note": "that 引导定语从句修饰 danger,在从句中作 avoid 的宾语。",
+          "point": "定语从句 that every student must avoid"
+        }
+      ]
+    },
+    {
+      "text": "My supervisor may also remind me that a paradigm shift can change the whole field, and people who ignore the latest theory may soon fall behind.",
+      "translation": "导师也许还会提醒我,范式的转变可以改变整个领域,而忽视最新理论的人很快就会被落下。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My supervisor may also remind me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My supervisor"
+            },
+            {
+              "role": "状语",
+              "text": "may also"
+            },
+            {
+              "role": "谓语",
+              "text": "remind"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句一",
+          "color": "#c8a5e0",
+          "text": "that a paradigm shift can change the whole field"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "宾语从句二(主谓宾)",
+          "color": "#c8a5e0",
+          "text": "people who ignore the latest theory may soon fall behind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "people"
+            },
+            {
+              "role": "定语从句",
+              "text": "who ignore the latest theory"
+            },
+            {
+              "role": "谓语",
+              "text": "may soon fall behind"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "remind sb that",
+          "note": "remind sb that... 表示\"提醒某人...\"。"
+        },
+        {
+          "name": "从句嵌套",
+          "note": "宾语从句内部又包含定语从句 who ignore the latest theory,嵌套两层。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "people who ignore the latest theory may soon fall behind",
+          "name": "remind sb that"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "people who ignore the latest theory may soon fall behind",
+          "name": "从句嵌套"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My supervisor may also remind me that a paradigm shift can change the whole field, and people who ignore the latest theory may soon fall behind.",
+          "answer": "My supervisor may also remind me that a paradigm shift can change the whole field, and people who ignore the latest theory may soon fall behind.",
+          "note": "remind sb that... 表示\"提醒某人...\"。",
+          "point": "remind sb that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My supervisor may also remind me that a paradigm shift can change the whole field, and people who ignore the latest theory may soon fall behind.",
+          "answer": "My supervisor may also remind me that a paradigm shift can change the whole field, and people who ignore the latest theory may soon fall behind.",
+          "note": "宾语从句内部又包含定语从句 who ignore the latest theory,嵌套两层。",
+          "point": "从句嵌套"
+        }
+      ]
+    },
+    {
+      "text": "For example, the rise of a new framework may not wipe out the old way, but it may change the way we look at the evidence.",
+      "translation": "例如,新框架的兴起未必会消灭旧方法,但它可能会改变我们看待证据的方式。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "For example"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the rise of a new framework may not wipe out the old way",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the rise of a new framework"
+            },
+            {
+              "role": "谓语",
+              "text": "may not wipe out"
+            },
+            {
+              "role": "宾语",
+              "text": "the old way"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "it may change the way we look at the evidence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语",
+              "text": "may change"
+            },
+            {
+              "role": "宾语",
+              "text": "the way"
+            },
+            {
+              "role": "定语从句",
+              "text": "we look at the evidence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not...but... 对比",
+          "note": "not A but B 表示\"不是 A 而是 B\",本句为\"未必消灭...但会改变...\"。"
+        },
+        {
+          "name": "省略关系副词的定语从句",
+          "note": "the way we look at the evidence 中,the way 后省略了 in which,即\"我们看待证据的方式\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "the rise of a new framework may not wipe out the old way",
+          "name": "not...but... 对比"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "the rise of a new framework may not wipe out the old way",
+          "name": "省略关系副词的定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, the rise of a new framework may not wipe out the old way, but it may change the way we look at the evidence.",
+          "answer": "For example, the rise of a new framework may not wipe out the old way, but it may change the way we look at the evidence.",
+          "note": "not A but B 表示\"不是 A 而是 B\",本句为\"未必消灭...但会改变...\"。",
+          "point": "not...but... 对比"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For example, the rise of a new framework may not wipe out the old way, but it may change the way we look at the evidence.",
+          "answer": "For example, the rise of a new framework may not wipe out the old way, but it may change the way we look at the evidence.",
+          "note": "the way we look at the evidence 中,the way 后省略了 in which,即\"我们看待证据的方式\"。",
+          "point": "省略关系副词的定语从句"
+        }
+      ]
+    },
+    {
+      "text": "I plan to defer the first draft until next month, because my portfolio is still incomplete, and a hasty chapter may do more harm than good.",
+      "translation": "我打算把初稿推迟到下个月,因为我的资料夹还不完整,而仓促写出的章节可能弊大于利。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I plan to defer the first draft until next month",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "plan"
+            },
+            {
+              "role": "宾语",
+              "text": "to defer the first draft"
+            },
+            {
+              "role": "时间状语",
+              "text": "until next month"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句一",
+          "color": "#c8a5e0",
+          "text": "my portfolio is still incomplete"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "原因状语从句二",
+          "color": "#c8a5e0",
+          "text": "a hasty chapter may do more harm than good",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a hasty chapter"
+            },
+            {
+              "role": "谓语",
+              "text": "may do"
+            },
+            {
+              "role": "宾语",
+              "text": "more harm than good"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "plan to do",
+          "note": "plan to do sth 表示\"计划做某事\"。"
+        },
+        {
+          "name": "because 原因状语从句",
+          "note": "because 引导原因状语从句,说明推迟的理由。"
+        },
+        {
+          "name": "more...than... 比较",
+          "note": "do more harm than good 意为\"弊大于利\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I plan to defer the first draft until next month",
+          "name": "plan to do"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I plan to defer the first draft until next month",
+          "name": "because 原因状语从句"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I plan to defer the first draft until next month",
+          "name": "more...than... 比较"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I plan to defer the first draft until next month, because my portfolio is still incomplete, and a hasty chapter may do more harm than good.",
+          "answer": "I plan to defer the first draft until next month, because my portfolio is still incomplete, and a hasty chapter may do more harm than good.",
+          "note": "plan to do sth 表示\"计划做某事\"。",
+          "point": "plan to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I plan to defer the first draft until next month, because my portfolio is still incomplete, and a hasty chapter may do more harm than good.",
+          "answer": "I plan to defer the first draft until next month, because my portfolio is still incomplete, and a hasty chapter may do more harm than good.",
+          "note": "because 引导原因状语从句,说明推迟的理由。",
+          "point": "because 原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "To utilise the time well, I read one classic paper each week and write a short summary, a habit that we share.",
+      "translation": "为了充分利用时间,我每周读一篇经典论文并写一篇简短摘要,这是我们共同的习惯。",
+      "chunks": [
+        {
+          "label": "目的状语",
+          "color": "#8ab4f8",
+          "text": "To utilise the time well"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I read one classic paper each week",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "read"
+            },
+            {
+              "role": "宾语",
+              "text": "one classic paper"
+            },
+            {
+              "role": "时间状语",
+              "text": "each week"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "write a short summary",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "write"
+            },
+            {
+              "role": "宾语",
+              "text": "a short summary"
+            }
+          ]
+        },
+        {
+          "label": "同位语(含定语从句)",
+          "color": "#9fd8e8",
+          "text": "a habit that we share"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "To utilise the time well 位于句首,说明做这件事的目的。"
+        },
+        {
+          "name": "同位语结构",
+          "note": "a habit that we share 是对前面整件事的同位语补充说明,which 类成分的常见写法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I read one classic paper each week",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I read one classic paper each week",
+          "name": "同位语结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To utilise the time well, I read one classic paper each week and write a short summary, a habit that we share.",
+          "answer": "To utilise the time well, I read one classic paper each week and write a short summary, a habit that we share.",
+          "note": "To utilise the time well 位于句首,说明做这件事的目的。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):To utilise the time well, I read one classic paper each week and write a short summary, a habit that we share.",
+          "answer": "To utilise the time well, I read one classic paper each week and write a short summary, a habit that we share.",
+          "note": "a habit that we share 是对前面整件事的同位语补充说明,which 类成分的常见写法。",
+          "point": "同位语结构"
+        }
+      ]
+    },
+    {
+      "text": "Superfluous detail can weaken a thesis, and a tired metaphor can do the same, so I cut every sentence with no new information.",
+      "translation": "多余的细节会削弱论文,陈旧的隐喻也同样如此,所以我会删掉每一个没有新信息的句子。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Superfluous detail can weaken a thesis",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Superfluous detail"
+            },
+            {
+              "role": "谓语",
+              "text": "can weaken"
+            },
+            {
+              "role": "宾语",
+              "text": "a thesis"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a tired metaphor can do the same",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a tired metaphor"
+            },
+            {
+              "role": "谓语",
+              "text": "can do"
+            },
+            {
+              "role": "宾语",
+              "text": "the same"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I cut every sentence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "cut"
+            },
+            {
+              "role": "宾语",
+              "text": "every sentence"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "with no new information"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "do the same 替代",
+          "note": "do the same 用来替代上文提到的动作,避免重复,是重要的指代手法。"
+        },
+        {
+          "name": "介词短语作定语",
+          "note": "with no new information 修饰 every sentence,相当于一个定语从句:every sentence that has no new information。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "Superfluous detail can weaken a thesis",
+          "name": "do the same 替代"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "Superfluous detail can weaken a thesis",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Superfluous detail can weaken a thesis, and a tired metaphor can do the same, so I cut every sentence with no new information.",
+          "answer": "Superfluous detail can weaken a thesis, and a tired metaphor can do the same, so I cut every sentence with no new information.",
+          "note": "do the same 用来替代上文提到的动作,避免重复,是重要的指代手法。",
+          "point": "do the same 替代"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Superfluous detail can weaken a thesis, and a tired metaphor can do the same, so I cut every sentence with no new information.",
+          "answer": "Superfluous detail can weaken a thesis, and a tired metaphor can do the same, so I cut every sentence with no new information.",
+          "note": "with no new information 修饰 every sentence,相当于一个定语从句:every sentence that has no new information。",
+          "point": "介词短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "After a week of monotonous data work, I need some meditation to clear my mind, and a quiet walk may restore my energy.",
+      "translation": "经过一周单调的数据工作,我需要静思来理清思绪,而一次安静的散步可以恢复我的精力。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "After a week of monotonous data work"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I need some meditation to clear my mind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "need"
+            },
+            {
+              "role": "宾语",
+              "text": "some meditation"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to clear my mind"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a quiet walk may restore my energy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a quiet walk"
+            },
+            {
+              "role": "谓语",
+              "text": "may restore"
+            },
+            {
+              "role": "宾语",
+              "text": "my energy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语短语",
+          "note": "After a week of monotonous data work 是介词短语作时间状语。"
+        },
+        {
+          "name": "不定式作目的状语",
+          "note": "to clear my mind 说明需要静思的目的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I need some meditation to clear my mind",
+          "name": "时间状语短语"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "I need some meditation to clear my mind",
+          "name": "不定式作目的状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After a week of monotonous data work, I need some meditation to clear my mind, and a quiet walk may restore my energy.",
+          "answer": "After a week of monotonous data work, I need some meditation to clear my mind, and a quiet walk may restore my energy.",
+          "note": "After a week of monotonous data work 是介词短语作时间状语。",
+          "point": "时间状语短语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):After a week of monotonous data work, I need some meditation to clear my mind, and a quiet walk may restore my energy.",
+          "answer": "After a week of monotonous data work, I need some meditation to clear my mind, and a quiet walk may restore my energy.",
+          "note": "to clear my mind 说明需要静思的目的。",
+          "point": "不定式作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "My supervisor may warn me that progress may look stagnant for some time, yet a seed may grow under the soil even if nobody can see it.",
+      "translation": "导师也许会提醒我,进展在一段时间内可能看似停滞,然而种子可能正在土壤下生长,即使没有人能看到它。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My supervisor may warn me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My supervisor"
+            },
+            {
+              "role": "谓语",
+              "text": "may warn"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that progress may look stagnant for some time"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "a seed may grow under the soil",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a seed"
+            },
+            {
+              "role": "谓语",
+              "text": "may grow"
+            },
+            {
+              "role": "状语",
+              "text": "under the soil"
+            }
+          ]
+        },
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "even if nobody can see it"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "warn sb that",
+          "note": "warn sb that... 表示\"提醒/警告某人...\"。"
+        },
+        {
+          "name": "让步状语从句 even if",
+          "note": "even if 表示\"即使\",比 although 多一层条件意味。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that progress may look stagnant for some time",
+          "name": "warn sb that"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "that progress may look stagnant for some time",
+          "name": "让步状语从句 even if"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My supervisor may warn me that progress may look stagnant for some time, yet a seed may grow under the soil even if nobody can see it.",
+          "answer": "My supervisor may warn me that progress may look stagnant for some time, yet a seed may grow under the soil even if nobody can see it.",
+          "note": "warn sb that... 表示\"提醒/警告某人...\"。",
+          "point": "warn sb that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My supervisor may warn me that progress may look stagnant for some time, yet a seed may grow under the soil even if nobody can see it.",
+          "answer": "My supervisor may warn me that progress may look stagnant for some time, yet a seed may grow under the soil even if nobody can see it.",
+          "note": "even if 表示\"即使\",比 although 多一层条件意味。",
+          "point": "让步状语从句 even if"
+        }
+      ]
+    },
+    {
+      "text": "The panorama of a discipline may include every useful method, and the habitat of a scholar is the whole library, not one shelf; such guidance may give me a clear sense of direction, and I accept that progress may be slow, yet the goal is worth the effort.",
+      "translation": "一个学科的全景可以包含每一种有用的方法,而学者的栖身之所是整个图书馆,而不是一个书架。; 这样的指导让我对方向有了清晰的认识,我承认进展可能缓慢,但目标值得为之付出努力。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The panorama of a discipline may include every useful method",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The panorama of a discipline"
+            },
+            {
+              "role": "谓语",
+              "text": "may include"
+            },
+            {
+              "role": "宾语",
+              "text": "every useful method"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the habitat of a scholar is the whole library, not one shelf",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the habitat of a scholar"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "the whole library, not one shelf"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓双宾)",
+          "color": "#a8dab5",
+          "text": "Such guidance may give me a clear sense of direction",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Such guidance"
+            },
+            {
+              "role": "谓语",
+              "text": "may give"
+            },
+            {
+              "role": "间接宾语",
+              "text": "me"
+            },
+            {
+              "role": "直接宾语",
+              "text": "a clear sense of direction"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "I accept",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "accept"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that progress may be slow"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干三(主系表)",
+          "color": "#a8dab5",
+          "text": "the goal is worth the effort",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the goal"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "worth the effort"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "is A, not B 结构",
+          "note": "用\"是 A,而不是 B\"的形式强化对比,是正式的书面表达。"
+        },
+        {
+          "name": "双宾语 give me a sense",
+          "note": "give 后接\"间接宾语(人)+直接宾语(物)\"。"
+        },
+        {
+          "name": "be worth + 名词",
+          "note": "worth 后接名词或动名词,表示\"值得...\"。",
+          "example": "The book is worth reading.",
+          "exampleCn": "这本书值得一读。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "The panorama of a discipline may include every useful method",
+          "name": "is A, not B 结构"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "The panorama of a discipline may include every useful method",
+          "name": "双宾语 give me a sense"
+        },
+        {
+          "grammarId": "g-s4u2",
+          "phrase": "The panorama of a discipline may include every useful method",
+          "name": "be worth + 名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The panorama of a discipline may include every useful method, and the habitat of a scholar is the whole library, not one shelf; such guidance may give me a clear sense of direction, and I accept that progress may be slow, yet the goal is worth the effort.",
+          "answer": "The panorama of a discipline may include every useful method, and the habitat of a scholar is the whole library, not one shelf; such guidance may give me a clear sense of direction, and I accept that progress may be slow, yet the goal is worth the effort.",
+          "note": "用\"是 A,而不是 B\"的形式强化对比,是正式的书面表达。",
+          "point": "is A, not B 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The panorama of a discipline may include every useful method, and the habitat of a scholar is the whole library, not one shelf; such guidance may give me a clear sense of direction, and I accept that progress may be slow, yet the goal is worth the effort.",
+          "answer": "The panorama of a discipline may include every useful method, and the habitat of a scholar is the whole library, not one shelf; such guidance may give me a clear sense of direction, and I accept that progress may be slow, yet the goal is worth the effort.",
+          "note": "give 后接\"间接宾语(人)+直接宾语(物)\"。",
+          "point": "双宾语 give me a sense"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u2",
+      "name": "时间状语从句 when",
+      "note": "when 引导时间状语从句,置于句首时主句前常用逗号。",
+      "sourceExample": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+      "sourceExampleCn": "当我与导师讨论研究计划时,我认识到,一项扎实的研究依靠的是确凿的证据,而非花哨的言辞。"
+    },
+    {
+      "grammarId": "g-s4u2",
+      "name": "宾语从句 that",
+      "note": "that 引导宾语从句,作 learn 的宾语,that 可省略。",
+      "sourceExample": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+      "sourceExampleCn": "当我与导师讨论研究计划时,我认识到,一项扎实的研究依靠的是确凿的证据,而非花哨的言辞。"
+    },
+    {
+      "grammarId": "g-s4u2",
+      "name": "rather than 结构",
+      "note": "rather than 表示\"而不是\",连接并列成分,本句连接两个 on 短语。",
+      "sourceExample": "When I discuss my research plan with my supervisor, I learn that a sound study may rest on solid evidence rather than on clever rhetoric.",
+      "sourceExampleCn": "当我与导师讨论研究计划时,我认识到,一项扎实的研究依靠的是确凿的证据,而非花哨的言辞。"
+    },
+    {
+      "grammarId": "g-s4u2",
+      "name": "非限制性定语从句 which/where",
+      "note": "which 修饰 project,where 修饰 metropolis,两个非限制性定语从句层层嵌套,是本单元从句嵌套的典型结构。",
+      "sourceExample": "My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+      "sourceExampleCn": "我的课题,她也许会耐心审阅,是关于一座大都市的语言的,在那里来自各地的人们每天交融相处。"
+    },
+    {
+      "grammarId": "g-s4u2",
+      "name": "从句嵌套",
+      "note": "主干 is about the language of a metropolis 之后又跟一个 where 从句,拆解时先剥离主干,再处理修饰成分。",
+      "sourceExample": "My project, which she may examine with patience, is about the language of a metropolis, where people of every region mix every day.",
+      "sourceExampleCn": "我的课题,她也许会耐心审阅,是关于一座大都市的语言的,在那里来自各地的人们每天交融相处。"
+    }
+  ]
+}

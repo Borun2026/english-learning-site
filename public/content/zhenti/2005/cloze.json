@@ -1,0 +1,311 @@
+{
+ "id": "z2005-cloze-0",
+ "year": 2005,
+ "section": "cloze",
+ "index": 0,
+ "source": "2005年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "The human nose is an underrated tool.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Humans are often thought to be insensitive smellers compared with animals, ___1___ this is largely because, ___2___animals, we stand upright.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This means that our noses are ___3___ to perceiving those smells which float through the air, ___4___ the majority of smells which stick to surfaces.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In fact, ___5___ , we are extremely sensitive to smells, ___6___ we do not generally realize it.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Our noses are capable of ___7___ human smells even when these are ___8___ to far below one part in one million.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Strangely, some people find that they can smell one type of flower but not another, ___9___ others are sensitive to the smells of both flowers.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This may be because some people do not have the genes necessary to generate ___10___ smell receptors in the nose.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "These receptors are the cells which sense smells and send ___11___to the brain.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "However, it has been found that even people insensitive to a certain smell___12___ can suddenly become sensitive to it when ___13___to it often enough.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The explanation for insensitivity to smell seems to be that brain finds it ___14___ to keep all smell receptors working all the time but can ___15___ new receptors if necessary.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This may ___16___ explain why we are not usually sensitive to our own smells—we simply do not need to be.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "We are not ___17___ of the usual smell of our own house, but we ___18___ new smells when we visit someone else’s.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The brain finds it best to keep smell receptors ___19___ for unfamiliar and emergency signals ___20___ the smell of smoke, which might indicate the danger of fire.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "although",
+    "as",
+    "but",
+    "while"
+   ],
+   "answer": 2,
+   "analysis": "从选项内容和文章中句子结构可以判断空要求填入一个表示前后两个句子逻辑关系的连词,空前的句子谈\n到“和动物相比,人类经常被认为是不敏感的”,空后谈到这主要是由于我们是直立行走的(动物)。显然后句是\n说明人类不敏感的原因,既然人类不敏感是有原因的,那么反过来表达的就是人类应该是敏感的,前句谈到不敏感,\n后句反馈的是敏感,含义对立,只能填入转折连词,故答案为C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "above",
+    "unlike",
+    "excluding",
+    "besides"
+   ],
+   "answer": 1,
+   "analysis": "这里在谈到人是直立的动物之前,出现了一个动物,显然是和人类进行对比,能表示这一含义的只有B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "limited",
+    "committed",
+    "dedicated",
+    "confined"
+   ],
+   "answer": 0,
+   "analysis": "空所在的句子开头用“thismeans…”,显然这是对上面一句的继续解释,句子说“我们的鼻子感受到那\n些浮在空气中的气味,大部分气味依附于地面。”前文已经谈到由于人类的直立而使得人类不如动物敏感,那么直\n立自然应该能感受到浮在空气中的气味,而感受不到依附于地面的气味,这样人类的嗅觉就是有局限的,因此前面\n的一个空填入的词应该表示局限于空气中的气味,后面一空填的应该表示没有能感觉到依附于地面的气味,符合这\n一语义的第一空为limited,后一空为missing,故本题答案为A,下一空答案为C。第一空可能有人选了D,confine\n表示在大范围的限定,而且数量或这范围是明确的,这里空气中显然是没有明确界限的,故不能选D。而下一空可\n能有考生错选ignoring,这一词通常表示主观忽略,不能感觉到依附于地面的气味不能说是人的主观愿望,故不能选。"
+  },
+  {
+   "q": "",
+   "options": [
+    "catching",
+    "ignoring",
+    "missing",
+    "tracking"
+   ],
+   "answer": 2,
+   "analysis": "分析参看3题解析。"
+  },
+  {
+   "q": "",
+   "options": [
+    "anyway",
+    "though",
+    "instead",
+    "therefore"
+   ],
+   "answer": 1,
+   "analysis": "infact前面内容解释了人类嗅觉不如动物的原因,从infact后面的内容可以看出,这里是引出实际人类比\n动物更敏感的结论。\n这一结论和前文谈到的原因构成让步关系,也就是说,尽管有这么多原因,实际上人类还是比动物更敏感。能表示\n让步的连词只有B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "even if",
+    "if only",
+    "only if",
+    "as if"
+   ],
+   "answer": 0,
+   "analysis": "infact后面的结论显然是作者陈述的一个事实,后面谈到我们并不普遍地意识到这一点,这两者之间应该\n构成让步关系,表示虽然我们不能意识到这一点,但这一结论是作为事实存在的。故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "distinguishing",
+    "discovering",
+    "determining",
+    "detecting"
+   ],
+   "answer": 3,
+   "analysis": "空前面的句子已经明确了人类嗅觉强于动物的结论,空所在的句子谈到的是我们的鼻子能怎么样人的气味,\n显然这是一个案例来说明前面的结论的,故填入的词应该表示人的鼻子能感觉到这一气味,能表示感觉、察觉的词\n只有D,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "diluted",
+    "dissolved",
+    "dispersed",
+    "diffused"
+   ],
+   "answer": 0,
+   "analysis": "空所在的句子内容是:我们的鼻子能觉察到人的味道,甚至当这些味道百万分之一。从句意我们可以判断\n这里应该表示这些味道稀释到百万分之一,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "when",
+    "since",
+    "for",
+    "whereas"
+   ],
+   "answer": 3,
+   "analysis": "空所连接的是两个并列句,somepeople…,,other…。既然是谈一部分人怎么样,另外一部分人怎么样,\n这两中人之间应该是不同的情况或者是相对的,前后句意相对的,只能用转折表示,D正合此义,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "unusual",
+    "particular",
+    "unique",
+    "typical"
+   ],
+   "answer": 1,
+   "analysis": "前文谈到一些人可以闻到一种味道而闻不到另一种味道,而另一些人对两种味道都敏感。接着作者给出了\n解释:这可能是一些人不具备某些基因,这些基因对在鼻子中生成的气味接受器非常必要。既然已经说明了有些人\n对一些味道可以闻到,而对另外一些味道无感觉,那说明人对气味的感觉是有选择性的,而这种选择性又是由于基\n因能产生特定气味的接受器,故答案为B。"
+  },
+  {
+   "q": "",
+   "options": [
+    "signs",
+    "stimuli",
+    "messages",
+    "impulses"
+   ],
+   "answer": 2,
+   "analysis": "空所在的句子说:气味接收器是那些能感受到气味并把发送到大脑的细胞。显然这里填入的词是表示信息\n方面的,而且应该是一种无形的,这里能准确表达这一含义的只有C。"
+  },
+  {
+   "q": "",
+   "options": [
+    "at first",
+    "at all",
+    "at large",
+    "at times"
+   ],
+   "answer": 0,
+   "analysis": "空前面的内容指出,人的鼻子对气味的敏感度与鼻子中气味接受器有关,紧接着说“但人们发现,就算是\n那些对某种气味不敏感的人,当经常被置于这种气味中,也会突然对这种气味敏感起来”。显然这里,前面谈到的\n不敏感和后面谈到的突然敏感表示的是一种时间前后转承关系,表示这种前后顺序关系的只有A,故答案为A。"
+  },
+  {
+   "q": "",
+   "options": [
+    "subjected",
+    "left",
+    "drawn",
+    "exposed"
+   ],
+   "answer": 3,
+   "analysis": "从句子内容可以看出,这里应该表示人与气味之间的关系,而人与气味之间只能说是置身于之中,能表示\n这一行为的动词为D,故答案为D。\n314.[A]ineffective无效果的[B]incompetent不胜任的[C]inefficient效率低的 [D]insufficient不充分的"
+  },
+  {
+   "q": "",
+   "options": [
+    "ineffective",
+    "incompetent",
+    "inefficient",
+    "insufficient"
+   ],
+   "answer": 2,
+   "analysis": "大脑让所有接收器一直工作是一种低效率(inefficient)的方式,故嗅觉不敏感。"
+  },
+  {
+   "q": "",
+   "options": [
+    "introduce",
+    "summon",
+    "trigger",
+    "create"
+   ],
+   "answer": 3,
+   "analysis": "空的语境为:但是大脑在必要的情况下可以新接收器。结合上文内容可以判断出这句话应该是谈到如果有\n必要的话,大脑可以让新的接收器工作,这里谈到是新的接收器,说明这些接受器是大脑创造出来的,能准确表达\n这一创造的词只能又能够D,故答案为D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "still",
+    "also",
+    "otherwise",
+    "nevertheless"
+   ],
+   "answer": 2,
+   "analysis": "空所在的位置是介于两段之间,那么解题的关键是看前后给出的关键信息。文章第一段由加拿大省级官员\n的会议引出文章谈论的主题——加拿大的保健费用上升。第二段,也就是空的上一段,进一步指出保健费用上升的\n原因是由于医疗费用上升。空的下一段谈到解决这个问题的措施——建立一个全国性的机构。空前提到问题,空后\n谈到解决办法,空居于中间,必然要起到承上启下的作用,而从第四段的开头“Whattodo?”问句,显然这里才开\n始涉及到方法,故就只能含有承上的内容,也就是继续谈到医疗费用高涨的情况,查看选项,只有E满足这一条件,\n故答案为E。"
+  },
+  {
+   "q": "",
+   "options": [
+    "sure",
+    "sick",
+    "aware",
+    "tired"
+   ],
+   "answer": 2,
+   "analysis": "本句继续以房子的气味为例,显然自己房子的气味是我们熟悉的,而其他房子是则是新的气味,结合上面\n的结论,我们应该是对自己的气味无意识,而对一个新房子的味道是能感觉到的,故本空选C,下空选D。"
+  },
+  {
+   "q": "",
+   "options": [
+    "tolerate",
+    "repel",
+    "neglect",
+    "notice"
+   ],
+   "answer": 3,
+   "analysis": "见上题分析。"
+  },
+  {
+   "q": "",
+   "options": [
+    "available",
+    "reliable",
+    "identifiable",
+    "suitable"
+   ],
+   "answer": 0,
+   "analysis": "容易得到本句表达的内容是:大脑发现,最好的方法就是利用气味接收器来接受不熟悉或紧急的信号,比\n如烟的味道……。表达的意思也就是大脑最好的方式是使气味接收器能接受所有不熟悉或者紧急的信号,\nkeep…available表示使……可用,正合此语境,故答案为A。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "similar to",
+    "such as",
+    "along with",
+    "aside from"
+   ],
+   "answer": 1,
+   "analysis": "从句中“unfamiliarandemergencysignals)”我们可以判断烟的味道是紧急信号的举例,故答案为B。\n三、全文翻译\n人的鼻子是一种被低估的工具。和动物相比,人类常常被认为嗅觉不够灵敏。而这主要是因为和动物不同,我\n们是直立的。这就意味着我们的鼻子只限于感知在空气中飘过的气味,而遗漏了大多数附着在物体表面的气味。然\n而,实际上,我们对气味非常敏感,即便我们通常意识不到这一点。即使把人类气味的浓度稀释到不及原来的百万\n4分之一,我们的鼻子仍然能够察觉到它的存在。\n奇怪地是,一些人发现他们可以闻到某一种花香,却闻不到另一种,而另一些人则对两种花香都很敏感。这可\n能是因为前者缺乏一种基因,这种基因能够在鼻子里产生某种特定气味感受器。这些感受器是一些可以感知气味并\n向大脑发送信息的细胞。然而,研究发现,即使是开始对某种特定气味不敏感的人,如果经常接触这种气味,也会\n突然变得对它敏感起来。\n对气味不敏感的解释似乎是大脑发现让所有的气味感受器一直工作效率太低,但是在需要时大脑仍可以产生新\n的感受器。这也可以解释为什么我们总是对自己的气味不敏感——不过是不需要而已。我们察觉不到自己家中惯有\n的气味,但是当我们拜访其他人的家时就会注意到不熟悉的气味。大脑发现最好让气味感受器可随时"
+  }
+ ]
+}

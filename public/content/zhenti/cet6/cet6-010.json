@@ -1,0 +1,69 @@
+{
+ "id": "cet6-010",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第2套) Passage 2",
+ "title": "These days, nobody needs to cook",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 448,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "These days, nobody needs to cook. Families graze on high-cholesterol take-aways and microwaved ready-meals.",
+  "Cooking is an occasional hobby and a vehicle for celebrity chefs. Which makes it odd that the kitchen has become the heart of the modern house: what the great hall was to the medieval castle, the kitchen is to the 21st-century home.",
+  "The money spent on kitchens has risen with their status. In America the kitchen market is now worth $170 billion, 5 times the country's film industry. In the year to August 2007, IKEA, a Swedish furniture chain, sold over one million kitchens worldwide. The average budget for a \"major\" kitchen overhaul in 2006, calculates Remodeling magazine, was a staggering $54,000; even a \"minor\" improvement cost on average $18,000.",
+  "Exclusivity, more familiar in the world of high fashion, has reached the kitchen: Robinson & Cornish, a British manufacturer of custom-made kitchens, offers a Georgian-style one which would cost �145,000�155,000-- excluding building, plumbing and electrical work. Its big selling point is that nobody else will have it: \"You won't see",
+  "this kitchen anywhere else in the world.\" The elevation of the room that once belonged only to the servants to that of design showcase for the modern",
+  "family tells the story of a century of social change. Right into the early 20th century, kitchens were smoky, noisy places, generally located underground, or to the back of the house, and as far from living space as possible. That was",
+  "as it should be: kitchens were for servants, and the aspiring middle classes wanted nothing to do with them. But as the working classes prospered and the servant shortage set in, housekeeping became a matter of interest to",
+  "the educated classes. One of the pioneers of a radical new way of thinking about the kitchen was Catharine Esther",
+  "Beecher, sister of Harriet Beecher Stowe. In American Woman's Home, published in 1869, the Beecher sisters recommended a scientific approach to household management, designed to enhance the efficiency of a woman's work and promote order. Many contemporary ideas about kitchen design can be traced back to another American, Christine Frederick,",
+  "who set about enhancing the efficiency of the housewife. Her 1919 work, Household Engineering: Scientific",
+  "Management in the Home, was based on detailed observation of a housewife's daily routine. She borrowed the",
+  "principle of efficiency on the factory floor and applied it to domestic tasks on the kitchen floor.",
+  "Frederick's central idea, that \"stove, sink and kitchen table must be placed in such a relation that useless steps",
+  "are avoided entirely,\" inspired the first fully fitted kitchen, designed in the 1920s by Margarete Sch�tter-Lihotsky. It",
+  "was a modernist triumph, and many elements remain central features of today's kitchen."
+ ],
+ "questions": [
+  {
+   "q": "文中 “shortage” 最接近的意思是?",
+   "options": [
+    "工业，产业",
+    "不足， 缺少",
+    "名声",
+    "心脏"
+   ],
+   "answer": 1,
+   "analysis": "“shortage” 意为「不足， 缺少」。原文语境:But as the working classes prospered and the servant shortage set in, housekeeping became a matter of interest to the educated classes.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:She borrowed the principle of efficiency on the ___ floor and applied it to domestic tasks on the kitchen floor.",
+   "options": [
+    "matter",
+    "factory",
+    "status",
+    "table"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“She borrowed the principle of efficiency on the factory floor and applied it to domestic tasks on the kitchen floor.”。空格处应填入 “factory”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "These days, nobody needs to cook",
+    "As interdependent beings we cannot thrive independent of others",
+    "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable s",
+    "Emulating your conversation partner's actions is a common human behavior clas"
+   ],
+   "answer": 0,
+   "analysis": "本文以“These days, nobody needs to cook.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

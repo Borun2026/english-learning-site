@@ -1,0 +1,87 @@
+{
+  "id": "e-s4u10",
+  "stage": 4,
+  "unitId": "s4u10",
+  "title": "真题演练 · 真题长难句精讲",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 真题长难句精讲。",
+  "questions": [
+    {
+      "q": "What prompted the chancellor to develop his scheme?",
+      "options": [
+        "A desire to secure a better life for all.",
+        "An eagerness to protect the unemployed.",
+        "An urge to be generous to the claimants.",
+        "A passion to ensure fairness for taxpayers."
+      ],
+      "answer": 3,
+      "analysis": "根据题干关键词thechancellor,prompted,develophisscheme,我们返回原文迅速定位到文章第二段末句\n“Whatmotivatedhim,weweretounderstand,washiszealfor“fundamentalfairness”–protectingthetaxpayer,\ncontrollingspendingandensuringthatonlythemostdeservingclaimantsreceivedtheirbenefits.”即我们要明白,他\n的动机在于对“根本公平”的热情,他要保护纳税者,控制开支,而且确保只有最值得的申请者才能获得救助\n金。题干中prompted正是对原文中motivated的同义替换,从整句话来看,我们可以很容易得出选项D“确保\n纳税人的公平的热情”为正确答案。\n选项A、B、C分别讲述的是“所有人”、“失业者”和“申请人”,而文章原文是“ensuringthatonlythemost\ndeservingclaimants”,所以该三项典型地扩大了范围,故排除。",
+      "point": "zhenti:z2014-reading-1:q3",
+      "source": "2014 考研英语一真题"
+    },
+    {
+      "q": "The more you practice, ___ you will become.",
+      "options": [
+        "the better",
+        "better",
+        "the best",
+        "best"
+      ],
+      "answer": 0,
+      "analysis": "the more...the more... 结构前后呼应。",
+      "point": "g-s4u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Not only ___ he sing well, but he also plays the piano.",
+      "options": [
+        "did",
+        "does",
+        "do",
+        "is"
+      ],
+      "answer": 1,
+      "analysis": "主句一般现在时,not only 倒装用 does。",
+      "point": "g-s4u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The novel, ___ was written by Mo Yan, won great fame.",
+      "options": [
+        "which",
+        "that",
+        "what",
+        "who"
+      ],
+      "answer": 0,
+      "analysis": "非限制性定语从句用 which,不用 that。",
+      "point": "g-s4u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "It was his courage ___ moved everyone present.",
+      "options": [
+        "that",
+        "who",
+        "what",
+        "which"
+      ],
+      "answer": 0,
+      "analysis": "强调句固定用 that。",
+      "point": "g-s4u10",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "拆解长难句时,插入语的处理方式是?",
+      "options": [
+        "先分析",
+        "先跳过看主干",
+        "重复翻译",
+        "替换主句"
+      ],
+      "answer": 1,
+      "analysis": "插入语不影响主干,先跳过再处理。",
+      "point": "g-s4u10",
+      "source": "本单元语法课练习"
+    }
+  ]
+}

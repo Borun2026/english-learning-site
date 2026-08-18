@@ -1,0 +1,85 @@
+{
+  "id": "e-s2u11",
+  "stage": 2,
+  "unitId": "s2u11",
+  "title": "真题演练 · will 与 be going to",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 will 与 be going to。",
+  "questions": [
+    {
+      "q": "\"I've decided to study abroad next year.\" I ___ study abroad next year.",
+      "options": [
+        "will",
+        "am going to",
+        "will to",
+        "won't"
+      ],
+      "answer": 1,
+      "analysis": "已经决定好的计划,用 be going to。",
+      "point": "g-s2u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"The phone is ringing.\" \"I ___ answer it.\"",
+      "options": [
+        "will",
+        "am going to",
+        "going to",
+        "would"
+      ],
+      "answer": 0,
+      "analysis": "说话时临时决定,用 will。",
+      "point": "g-s2u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Look at the clouds! It ___ rain.",
+      "options": [
+        "will",
+        "is going to",
+        "will to",
+        "going"
+      ],
+      "answer": 1,
+      "analysis": "有迹象的预测用 be going to。",
+      "point": "g-s2u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She ___ probably arrive at six.",
+      "options": [
+        "is going to",
+        "will",
+        "is",
+        "are"
+      ],
+      "answer": 1,
+      "analysis": "probably 表示主观推测,与 will 连用。",
+      "point": "g-s2u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Are you ___ watch the match tonight?",
+      "options": [
+        "will",
+        "going to",
+        "go to",
+        "will to"
+      ],
+      "answer": 1,
+      "analysis": "疑问句 Are you going to...? 询问已定的安排。",
+      "point": "g-s2u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:He will going to Beijing tomorrow.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:He will go to Beijing tomorrow.。will 后接动词原形 go,不能写 going。",
+      "point": "g-s2u11",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

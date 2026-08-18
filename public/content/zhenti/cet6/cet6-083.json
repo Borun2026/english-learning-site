@@ -1,0 +1,62 @@
+{
+ "id": "cet6-083",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第2套) Passage 1",
+ "title": "Could you get by without using the internet for four and a half years",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 458,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Could you get by without using the internet for four and a half years? That's exactly what singer and actress Selena Gomez has done in a bid to improve her mental health.",
+  "She has spoken extensively about the relationship between her social media usage and her mental wellbeing, recalling feeling like \"an addict\" when she became Instagram's most followed user in 2016. \"Taking a break from social media was the best decision that I've ever made for my mental health,\" says she. \"The unnecessary hate and comparisons went away once I put my phone down.\"",
+  "Ditching the web at large, however, is a far more subtle and complicated prospect. The increasing digitisation of our society means that everything from paying a gas bill to plotting a route to a friend's house and even making a phone call is at the mercy of your internet connection. Actively opting out of using the internet becomes a matter of privilege.",
+  "Ms Gomez's multi-millionaire status has allowed her to take the \"social\" out of social media, so she can continue to leverage her enormous fame while keeping the trolls at bay . The fact that she's still the second most-followed woman on Instagram suggests it's entirely possible to maintain a significant web profile to promote various projects -- by way of a dedicated team -- without being exposed to the cruel comments, hate mail and rape or death threats.",
+  "It goes without saying that this is fundamentally different from how the rest of us without beauty deals and films to publicise use the likes of Instagram, TikTok and Twitter, but even the concept of a digital detox requires having a device and connectivity to choose to disconnect from.",
+  "The UK's digital divide has worsened over the past two years, leaving poorer families without broadband connections in their homes. Digital exclusion is a major threat to wider societal equality in the UK, so witnessing companies like Facebook championing the metaverse as the next great frontier when school children are struggling to complete their homework feels particularly irritating.",
+  "Consequently, it's worth bearing in mind that while deleting all social media accounts will undoubtedly make some feel infinitely better, many other people benefit from the strong sense of community that sharing platforms can breed.",
+  "Internet access will continue to grow in importance as we edge further towards web 3.0, and greater resources and initiatives are needed to provide the underprivileged with the connectivity they desperately need to learn, work and live. It's crucial that people who feel that social media is having a detrimental effect on their mental health are allowed to switch off -- and for those living in digital exclusion to be able to switch on in the first place."
+ ],
+ "questions": [
+  {
+   "q": "文中 “millionaire” 最接近的意思是?",
+   "options": [
+    "使用",
+    "景色",
+    "分开，分隔",
+    "百万富翁"
+   ],
+   "answer": 3,
+   "analysis": "“millionaire” 意为「百万富翁」。原文语境:Ms Gomez's multi-millionaire status has allowed her to take the \"social\" out of social media, so she can continue to leverage her enormous fame while keeping the trolls at bay .",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\"The unnecessary hate and comparisons went away once I put my phone down.\" Ditching the web at large, however, is a far more ___ and complicated prospect.",
+   "options": [
+    "subtle",
+    "worth",
+    "possible",
+    "better"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“\"The unnecessary hate and comparisons went away once I put my phone down.\" Ditching the web at large, however, is a far more subtle and complicated prospect.”。空格处应填入 “subtle”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Could you get by without using the internet for four and a half years",
+    "Vegetarians would prefer not to be compelled to eat meat",
+    "America's education system has become less a ladder of opportunity than a str",
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Could you get by without using the internet for four and a half years?”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

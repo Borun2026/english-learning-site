@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u10",
+  "stage": 2,
+  "title": "连词与状语从句(and/but/so/because/although)",
+  "explanation": "## 并列连词\n\n| 连词 | 含义 | 例句 |\n|---|---|---|\n| and | 并列、递进(\"和\") | I like tea and she likes coffee. |\n| but | 转折(\"但是\") | He is poor, but he is happy. |\n| so | 结果(\"所以\") | It rained, so we stayed home. |\n| or | 选择、否则 | Hurry up, or you will be late. |\n\n## 从属连词与状语从句\n\n- **because**(因为):引导原因状语从句,回答 why。\n- **although / though**(虽然):引导让步状语从句,表示\"尽管\"。\n\n## 两条铁律\n\n1. **because 和 so 不能同时使用**:Because he was ill, he didn't come.(或 He was ill, so he didn't come.)\n2. **although 和 but 不能同时使用**:Although it was late, he kept working.(不能说 although...but...)\n\n原则:一山不容二虎,引导词和连接词只能留一个。",
+  "examples": [
+    { "en": "I like tea and my sister likes coffee.", "cn": "我喜欢茶,我妹妹喜欢咖啡。", "note": "and 连接两个并列分句。" },
+    { "en": "He is poor, but he is happy.", "cn": "他穷,但他很快乐。", "note": "but 表转折,前后意思相反。" },
+    { "en": "It was raining, so we stayed at home.", "cn": "下雨了,所以我们待在家。", "note": "so 引出结果。" },
+    { "en": "Although it was cold, he went swimming.", "cn": "尽管天冷,他还是去游泳了。", "note": "although 引导让步从句,主句不用 but。" }
+  ],
+  "errors": [
+    { "wrong": "Because he was ill, so he didn't come.", "right": "Because he was ill, he didn't come.", "note": "because 和 so 不能同时出现在一个句子里。" },
+    { "wrong": "Although it was late, but he kept working.", "right": "Although it was late, he kept working.", "note": "although 与 but 不能同时使用。" },
+    { "wrong": "He studies hard, but he will pass the exam.", "right": "He studies hard, so he will pass the exam.", "note": "努力是考试通过的原因,应用 so 表结果。" }
+  ],
+  "quiz": [
+    { "q": "He was ill, ___ he didn't go to school.", "options": ["and", "but", "so", "or"], "answer": 2, "note": "生病导致没上学,表结果用 so。" },
+    { "q": "___ it rained heavily, they went on working.", "options": ["Because", "Although", "So", "And"], "answer": 1, "note": "尽管下大雨仍继续工作,表让步用 although。" },
+    { "q": "I like apples, ___ my sister likes bananas.", "options": ["but", "so", "because", "or"], "answer": 0, "note": "喜好相反,表转折用 but。" },
+    { "q": "He didn't come to class ___ he was ill.", "options": ["so", "because", "but", "although"], "answer": 1, "note": "说明原因用 because。" },
+    { "q": "Work hard, ___ you will fail the exam.", "options": ["and", "but", "or", "so"], "answer": 2, "note": "\"否则\"用 or,祈使句 + or 表警告。" }
+  ]
+}

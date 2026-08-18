@@ -1,0 +1,25 @@
+{
+ "id": "econ-001",
+ "type": "magazine",
+ "journal": "The Economist",
+ "journalEn": "The Economist",
+ "title": "AI and the Future of Work: What History Teaches Us",
+ "date": "2026-04-15",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "technology",
+  "economics",
+  "AI"
+ ],
+ "paragraphs": [
+  "Every major technological shift in history has sparked fears of mass unemployment. From the Luddites smashing weaving machines in the 19th century to anxieties about automation in the 1960s, people have always worried that machines would make human workers obsolete. Yet each time, the economy adapted and new kinds of jobs emerged.",
+  "Today, artificial intelligence is raising the same questions. Will AI eliminate more jobs than it creates? The answer depends on how we respond to the challenge. History suggests that the transition will be painful for some workers, but ultimately beneficial for society as a whole.",
+  "Consider the Industrial Revolution. When factories replaced artisan workshops, many skilled craftsmen lost their livelihoods. But over time, factory work created a new middle class, and living standards rose dramatically. The key was investment in education and worker retraining.",
+  "The current wave of AI is different in one important respect: it affects white-collar workers more than blue-collar ones. Lawyers, accountants, and software developers are all seeing their work transformed by AI tools. This means the adjustment may be more politically charged than previous technological shifts.",
+  "According to a recent study by the McKinsey Global Institute, up to 30% of hours worked globally could be automated by 2030. However, the same study predicts that AI will also create new categories of jobs that we cannot yet imagine. The net effect on employment remains uncertain.",
+  "What is clear is that governments and businesses need to invest heavily in education and training. Workers will need to learn new skills throughout their careers, not just at the beginning. Lifelong learning must become the norm, not the exception.",
+  "The countries that manage this transition best will be those with strong social safety nets and flexible labor markets. Denmark's \"flexicurity\" model, which combines easy hiring and firing with generous unemployment benefits and retraining programs, offers one possible template."
+ ]
+}

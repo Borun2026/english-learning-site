@@ -1,0 +1,188 @@
+{
+  "id": "d-s3u3",
+  "stage": 3,
+  "unitId": "s3u3",
+  "scene": "描述新闻事件",
+  "goal": "把新闻事件讲清楚并与朋友交流看法",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "同学 Ben",
+      "line": "Did you read the news about the severe floods hitting the southern provinces last week?",
+      "lineCn": "你看到上周袭击南方各省的严重洪灾的新闻了吗?",
+      "grammar": [
+        { "name": "现在分词短语作后置定语", "note": "the floods hitting the southern provinces 中 hitting 短语修饰 floods,相当于定语从句 which hit。" }
+      ],
+      "options": [
+        { "text": "I saw a report published yesterday. It says thousands of families have been evacuated.", "textCn": "我看了昨天发布的一篇报道,说数千户家庭已被疏散。", "feedback": "回应具体,讨论正式开始。", "next": "n2" },
+        { "text": "I rarely follow the news. I have no idea what is happening.", "textCn": "我很少看新闻,完全不知道发生了什么。", "feedback": "不关注时事,Ben 会引导你。", "next": "n3" },
+        { "text": "I read something about it, but the details I remember are quite vague.", "textCn": "我读过一点,但记得的细节很模糊。", "feedback": "记忆不清,Ben 帮你补全信息。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "同学 Ben",
+      "line": "Exactly. The authorities have set up shelters accommodating nearly twenty thousand people.",
+      "lineCn": "没错。当局已设立容纳近两万人的避难所。",
+      "grammar": [
+        { "name": "现在分词短语作定语", "note": "shelters accommodating nearly twenty thousand people 中 accommodating 修饰 shelters,信息更紧凑。" }
+      ],
+      "options": [
+        { "text": "I also heard about the relief supplies sent by neighbouring cities. That is heart-warming.", "textCn": "我也听说邻市送来的救援物资,真让人暖心。", "feedback": "关注正面动态,讨论继续。", "next": "n4" },
+        { "text": "Relief supplies are not the point. The real issue is the warning system failing to alert villagers in time.", "textCn": "物资不是重点,真正的问题是没能及时预警村民的报警系统。", "feedback": "提出批评性观点,讨论深入。", "next": "n5" },
+        { "text": "I wish they had not closed the roads. Many people were trapped during the evacuation.", "textCn": "真希望他们没封路。疏散时很多人被困住了。", "feedback": "表达遗憾,讨论继续。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "同学 Ben",
+      "line": "You should follow the news more closely. The lessons learned from past floods should never be forgotten.",
+      "lineCn": "你应该更关注新闻。从过去洪灾中吸取的教训绝不能被遗忘。",
+      "grammar": [
+        { "name": "过去分词短语作后置定语", "note": "the lessons learned from past floods 中 learned 短语修饰 lessons,表被动与完成,相当于 which were learned。" }
+      ],
+      "options": [
+        { "text": "You are right. I will read the full report issued by the government tonight.", "textCn": "你说得对,我今晚就读政府发布的完整报告。", "feedback": "愿意补课,讨论回到正题。", "next": "n2" },
+        { "text": "Even if I read it, what difference would it make to my life?", "textCn": "就算我读了,对我的生活又有什么影响?", "feedback": "态度冷漠,Ben 会继续劝导。", "next": "n6" },
+        { "text": "I will read it tonight, then we can discuss it together tomorrow.", "textCn": "我今晚就读,明天我们再一起讨论。", "feedback": "认真回应,气氛良好。", "next": "n2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "同学 Ben",
+      "line": "Indeed. The volunteers working around the clock deserve our respect and gratitude.",
+      "lineCn": "的确。日夜奋战在洪灾一线的志愿者值得我们的尊敬与感激。",
+      "grammar": [
+        { "name": "现在分词短语作定语(进行)", "note": "working around the clock 作 volunteers 的后置定语,强调动作正在进行。" }
+      ],
+      "options": [
+        { "text": "I agree. I am considering donating the money collected from our class fundraising.", "textCn": "我同意。我正在考虑捐出班里募捐筹到的钱。", "feedback": "行动积极,讨论推进。", "next": "n4b" },
+        { "text": "Words are cheap. The question is whether the donations will actually reach those in need.", "textCn": "说空话容易。问题是捐款能否真正到达需要的人手中。", "feedback": "质疑落地效果,讨论更深入。", "next": "n5" },
+        { "text": "I would rather not talk about money. It makes me uncomfortable.", "textCn": "我不想谈钱,这让我不自在。", "feedback": "回避话题,Ben 会换个角度。", "next": "n7" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "同学 Ben",
+      "line": "Great initiative. My class has launched a fundraising campaign running until the weekend.",
+      "lineCn": "好主意。我们班已经发起一场持续到周末的募捐活动。",
+      "grammar": [
+        { "name": "现在分词短语作定语(持续)", "note": "a fundraising campaign running until the weekend 中 running 修饰 campaign,说明活动期限。" }
+      ],
+      "options": [
+        { "text": "I will contribute what I can, and I will persuade my roommates to join as well.", "textCn": "我会尽力捐款,还会说服室友一起参加。", "feedback": "带动他人参与,值得赞赏。", "next": "n6" },
+        { "text": "I am skeptical. The campaigns launched online are often full of fraud.", "textCn": "我持怀疑态度。网上发起的活动常常骗局重重。", "feedback": "提出疑虑,Ben 会给出回应。", "next": "n7" },
+        { "text": "I will donate, but only if my name is announced publicly.", "textCn": "我可以捐,但前提是公开宣布我的名字。", "feedback": "动机不纯,Ben 表示失望。", "next": "fail2" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "同学 Ben",
+      "line": "That is a fair criticism. The report published this morning admits that the early warning system has flaws.",
+      "lineCn": "这个批评有道理。今早发布的报告承认预警系统存在缺陷。",
+      "grammar": [
+        { "name": "过去分词短语作定语", "note": "the report published this morning 中 published 修饰 report,表被动与完成。" }
+      ],
+      "options": [
+        { "text": "Then the government should invest in better equipment before the next disaster arrives.", "textCn": "那政府应该在下一场灾害来临前投资更好的设备。", "feedback": "提出建设性意见,讨论深入。", "next": "n6" },
+        { "text": "I doubt anything will change. The promises made after each disaster are always the same.", "textCn": "我怀疑什么都不会改变。每次灾后许下的承诺都一样。", "feedback": "态度悲观,Ben 将疏导。", "next": "n7" },
+        { "text": "Perhaps we should focus on the victims rather than the system. The families affected need sympathy.", "textCn": "也许我们该关注灾民而不是系统。受影响的家庭需要同情。", "feedback": "视角温暖,讨论继续。", "next": "n6" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "同学 Ben",
+      "line": "Well said. Let me share the key figures from the article I read: at least sixty schools damaged by the flood have been closed.",
+      "lineCn": "说得好。让我分享我读的文章中的关键数字:至少六十所被洪水损毁的学校已经停课。",
+      "grammar": [
+        { "name": "过去分词短语作定语(受损)", "note": "sixty schools damaged by the flood 中 damaged 短语修饰 schools,被动且完成。" }
+      ],
+      "options": [
+        { "text": "That is awful. The children forced to study at home will fall behind.", "textCn": "太糟糕了。被迫在家学习的孩子们会落下功课。", "feedback": "共情受害者,讨论继续。", "next": "n6b" },
+        { "text": "Sixty schools is a large number, but the number of people rescued is also impressive.", "textCn": "六十所学校很多,但获救的人数同样令人瞩目。", "feedback": "从另一角度看待事件。", "next": "n6b" },
+        { "text": "I feel too sad to keep discussing it. Let us change the subject.", "textCn": "我太难过了,不想再讨论。换个话题吧。", "feedback": "情绪回避,Ben 会引导。", "next": "n7" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "同学 Ben",
+      "line": "And the government has promised to rebuild all the schools destroyed by the flood within a year.",
+      "lineCn": "而且政府承诺一年内重建所有被洪水摧毁的学校。",
+      "grammar": [
+        { "name": "过去分词短语作定语(重建)", "note": "all the schools destroyed by the flood 中 destroyed 修饰 schools,补充完整信息。" }
+      ],
+      "options": [
+        { "text": "That is encouraging. A promise followed by action is worth believing.", "textCn": "令人鼓舞。用行动兑现的承诺才值得相信。", "feedback": "态度积极,讨论升温。", "next": "n8" },
+        { "text": "A year is too long. The children waiting in temporary classrooms need faster help.", "textCn": "一年太久了。在临时教室等待的孩子们需要更快的帮助。", "feedback": "提出不同意见,观点碰撞。", "next": "n8" },
+        { "text": "Rebuilding is easy; the trust lost during the disaster is harder to restore.", "textCn": "重建容易,灾难中失去的信任更难修复。", "feedback": "观点深刻,Ben 表示赞同。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "同学 Ben",
+      "line": "Avoiding bad news will not make it disappear. There is a lesson to be learned behind every headline.",
+      "lineCn": "回避坏消息不会让它消失。每条头条背后都有值得学习的教训。",
+      "grammar": [
+        { "name": "不定式作定语(被动)", "note": "a lesson to be learned 中不定式被动式作 lesson 的定语,表有待发生的事情。" }
+      ],
+      "options": [
+        { "text": "I suppose you are right. What is the lesson you take from this event?", "textCn": "我想你是对的。你从这个事件中学到的教训是什么?", "feedback": "回归讨论,请教观点。", "next": "n8" },
+        { "text": "My lesson is simple: never trust the numbers reported by the media.", "textCn": "我的教训很简单:永远不要相信媒体报道的数字。", "feedback": "观点偏激,Ben 会回应。", "next": "n6" },
+        { "text": "I still prefer happy news. Pass me the sports section instead.", "textCn": "我还是喜欢看开心的新闻。把体育版给我吧。", "feedback": "彻底回避,Ben 无奈。", "next": "fail1" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "同学 Ben",
+      "line": "For me, the most valuable message to remember is that we are never truly prepared for nature.",
+      "lineCn": "对我来说,最值得记住的启示是:我们对大自然永远谈不上真正准备充分。",
+      "grammar": [
+        { "name": "不定式作定语(记忆)", "note": "the most valuable message to remember 中不定式 to remember 修饰 message。" }
+      ],
+      "options": [
+        { "text": "Beautifully said. I will share the report with my family so that they stay alert as well.", "textCn": "说得太美了。我会把报道分享给家人,让他们也保持警惕。", "feedback": "主动传播信息,交流愉快。", "next": "n9" },
+        { "text": "I agree with you, yet I wonder whether the media exaggerates the tragedy to attract viewers.", "textCn": "我同意你,但我也怀疑媒体是否夸大悲剧来吸引观众。", "feedback": "保留批判性思考,交流继续。", "next": "n9" },
+        { "text": "This is all too depressing. I wish I had never read the news.", "textCn": "这一切太压抑了。我真希望从没看过新闻。", "feedback": "消极退缩,Ben 失望。", "next": "fail1" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "同学 Ben",
+      "line": "I am glad we had this conversation. A citizen informed about world affairs is a citizen who can act wisely.",
+      "lineCn": "很高兴我们聊了这些。一个了解天下事的公民,才能明智地行动。",
+      "grammar": [
+        { "name": "过去分词作定语(了解)", "note": "a citizen informed about world affairs 中 informed about 短语修饰 citizen,含义接近 well-informed。" }
+      ],
+      "options": [
+        { "text": "I could not agree more. Let us follow the follow-up reports together next week.", "textCn": "我再同意不过了。下周我们一起跟踪后续报道吧。", "feedback": "达成共识,讨论圆满结束。", "next": "success" },
+        { "text": "Acting wisely is your concern, not mine. I will stick to my own little world.", "textCn": "明智行动是你的事,不是我的。我守着自己的小世界就好。", "feedback": "拒绝担当公民责任,Ben 遗憾。", "next": "fail2" },
+        { "text": "I will follow the reports, though I refuse to be saddened by every tragedy.", "textCn": "我会跟进报道,只是拒绝为每场悲剧悲伤。", "feedback": "保持理性参与,讨论收尾。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "同学 Ben",
+      "line": "Deal! Knowledge is our shared responsibility. See you next week with the latest reports.",
+      "lineCn": "一言为定!了解真相是我们共同的责任。下周带着最新报道见。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "同学 Ben",
+      "line": "I am sorry you feel that way. Ignoring reality will not make the world safer for any of us.",
+      "lineCn": "你这样想我很遗憾。无视现实不会让世界对我们任何人更安全。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "同学 Ben",
+      "line": "If you shut your eyes to the world, the world will one day knock at your door unannounced.",
+      "lineCn": "如果你对世界闭上眼睛,世界总有一天会不请自来地敲你的门。",
+      "end": true,
+      "success": false
+    }
+  }
+}

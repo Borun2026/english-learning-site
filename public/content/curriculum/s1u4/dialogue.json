@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u4",
+  "stage": 1,
+  "unitId": "s1u4",
+  "scene": "计划一次旅行",
+  "goal": "和朋友敲定旅行计划(时间/地点/安排)",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "朋友 Ben",
+      "line": "We have a long holiday next month. Will you go traveling with me?",
+      "lineCn": "下个月我们有个长假。你愿意和我一起去旅行吗?",
+      "grammar": [
+        { "name": "will 构成将来时疑问句", "note": "Will you...? 是一般将来时的疑问句,回答用 Yes, I will. 或 No, I will not.,will 后接动词原形。" }
+      ],
+      "options": [
+        { "text": "Yes, I will! I want to go to the beach. Is that okay with you?", "textCn": "我愿意!我想去海边。你觉得可以吗?", "feedback": "同意邀请并主动提出地点,计划开始成形。", "next": "n2" },
+        { "text": "No, I do not want to travel.", "textCn": "不,我不想旅行。", "feedback": "直接拒绝,旅行计划无法展开。", "next": "n3" },
+        { "text": "I traveled last year.", "textCn": "我去年旅行过。", "feedback": "答非所问,对方在计划未来,你却谈过去。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "朋友 Ben",
+      "line": "Sure! The beach is a good idea. When will we go?",
+      "lineCn": "当然可以!海边是个好主意。我们什么时候去?",
+      "grammar": [
+        { "name": "特殊疑问词 When + will", "note": "用疑问词 when 与 will 搭配询问将来的时间,如 When will we go?,will 后接动词原形。" }
+      ],
+      "options": [
+        { "text": "We will go next Saturday. Is that good for you?", "textCn": "我们下周六去。你觉得合适吗?", "feedback": "明确提出了时间并征求对方意见,计划有了时间!", "next": "n4" },
+        { "text": "We went last month.", "textCn": "我们上个月去了。", "feedback": "时态错误,讨论将来的安排应该用 will go 而不是过去式。", "next": "n3" },
+        { "text": "Any time is fine. You decide.", "textCn": "什么时候都行。你决定吧。", "feedback": "太被动,把问题又推回给对方,没有敲定时间。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "朋友 Ben",
+      "line": "Oh, okay. Maybe we can go another time. Do you like traveling?",
+      "lineCn": "哦,好吧。也许我们可以换个时间去。你喜欢旅行吗?",
+      "grammar": [
+        { "name": "be going to 表示打算", "note": "be going to + 动词原形也表示将来的打算,如 I am going to travel next month,比 will 更强调事先的计划。" }
+      ],
+      "options": [
+        { "text": "Yes, I like traveling very much. I am going to the beach this holiday. Let us plan it well!", "textCn": "是的,我非常喜欢旅行。这个假期我打算去海边。我们好好计划一下吧!", "feedback": "及时挽回,用 be going to 表达打算,重新启动了旅行计划。", "next": "n4" },
+        { "text": "No. Not really.", "textCn": "不。不太喜欢。", "feedback": "再次拒绝,旅行计划彻底泡汤。", "next": "fail1" },
+        { "text": "Traveling is boring for me.", "textCn": "旅行对我来说很无聊。", "feedback": "给计划泼冷水,朋友无法继续邀请你。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "朋友 Ben",
+      "line": "Good! What will we do there?",
+      "lineCn": "太好了!我们在那儿做些什么?",
+      "grammar": [
+        { "name": "will 后接动词原形", "note": "will 后面的动词一律用原形,不随主语变化,如 We will swim、She will eat。" }
+      ],
+      "options": [
+        { "text": "We will swim in the sea and eat seafood. We will take the train next Saturday morning!", "textCn": "我们会去海里游泳、吃海鲜。我们下周六早上坐火车去!", "feedback": "地点、时间、活动全部敲定,计划完整清晰,目标达成!", "next": "success" },
+        { "text": "We do nothing.", "textCn": "我们什么都不做。", "feedback": "没有安排任何活动,计划无法确定。", "next": "fail2" },
+        { "text": "I will tell you tomorrow.", "textCn": "我明天再告诉你。", "feedback": "一再拖延,没有给出具体安排。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "朋友 Ben",
+      "line": "That sounds perfect! I cannot wait for next Saturday!",
+      "lineCn": "听起来太棒了!我等不及下周六了!",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "朋友 Ben",
+      "line": "Alright, maybe we will go next time.",
+      "lineCn": "好吧,也许我们下次再去。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "朋友 Ben",
+      "line": "Hmm, we still have no plan. Let us talk again later.",
+      "lineCn": "嗯,我们还是没有计划。我们回头再聊。",
+      "end": true,
+      "success": false
+    }
+  }
+}

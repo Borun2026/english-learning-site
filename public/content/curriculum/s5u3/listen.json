@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u3",
+  "stage": 5,
+  "unitId": "s5u3",
+  "title": "听力挑战 · 数据讨论会",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "主持人",
+      "line": "As the chart illustrates, the sales figures rose steadily from January to June before leveling off in July.",
+      "lineCn": "如图表所示,销售额从一月到六月稳步上升,七月开始趋于平稳。",
+      "grammar": [
+        { "name": "趋势描述:上升后持平", "note": "rise steadily 表稳步上升,level off 表趋于平稳;As the chart illustrates 是图表引入标准句式。" }
+      ],
+      "options": [
+        { "text": "Sales climbed steadily and then stabilized in July.", "correct": true, "feedback": "销售额稳步上升,七月趋于平稳。" },
+        { "text": "Sales fell sharply throughout the whole year.", "correct": false, "feedback": "图中是上升走势,并非全年大跌。" },
+        { "text": "Sales remained completely flat from January onward.", "correct": false, "feedback": "一月到六月在稳步上升,并非一直持平。" }
+      ]
+    },
+    {
+      "speaker": "分析员",
+      "line": "The percentage of renewable energy reached its peak in 2024, accounting for nearly forty percent of the total.",
+      "lineCn": "可再生能源占比在 2024 年达到峰值,约占总量百分之四十。",
+      "grammar": [
+        { "name": "峰值描述 + 补充说明", "note": "reach its peak 表达到峰值;accounting for 表占比,是图表数据描述的核心动词搭配。" }
+      ],
+      "options": [
+        { "text": "Renewable energy peaked at about forty percent in 2024.", "correct": true, "feedback": "可再生能源占比 2024 年峰值约四成。" },
+        { "text": "Renewable energy was at its lowest point in 2024.", "correct": false, "feedback": "2024 年恰好是峰值,而非低谷。" },
+        { "text": "Renewable energy never approached forty percent.", "correct": false, "feedback": "数据显示占比已接近百分之四十。" }
+      ]
+    },
+    {
+      "speaker": "分析员",
+      "line": "By contrast, the number of participants fell dramatically during the third quarter and then recovered slightly.",
+      "lineCn": "相比之下,参与者数量在第三季度急剧下降,随后略有回升。",
+      "grammar": [
+        { "name": "对比与波动描述", "note": "By contrast 引出对比;fall dramatically 急剧下降,recover slightly 略有回升,动词+副词是图表语言精髓。" }
+      ],
+      "options": [
+        { "text": "Participant numbers dropped sharply and then recovered a little.", "correct": true, "feedback": "三季度骤降后小幅回升,正是原句含义。" },
+        { "text": "Participant numbers rose sharply for the whole year.", "correct": false, "feedback": "原文是下降后再回升,并非全年上升。" },
+        { "text": "Participant numbers stayed completely stable all year.", "correct": false, "feedback": "数据出现了明显下降与回升,并非稳定。" }
+      ]
+    },
+    {
+      "speaker": "主持人",
+      "line": "It is evident from the table that production costs declined steadily while consumer demand continued to grow.",
+      "lineCn": "从表格可以明显看出,生产成本稳步下降,而消费需求持续增长。",
+      "grammar": [
+        { "name": "对比关系描述", "note": "It is evident from... that... 是数据引入句式;while 表示对比:成本降、需求增。" }
+      ],
+      "options": [
+        { "text": "Costs declined while consumer demand kept rising.", "correct": true, "feedback": "成本下降与需求上升形成对比。" },
+        { "text": "Costs and consumer demand both declined together.", "correct": false, "feedback": "成本在降,需求却持续增长。" },
+        { "text": "Costs rose at the same rate as consumer demand.", "correct": false, "feedback": "成本是下降而非上升。" }
+      ]
+    },
+    {
+      "speaker": "主持人",
+      "line": "Overall, the data suggest a positive trend, although fluctuations remain possible in the coming months.",
+      "lineCn": "总体而言,数据表明趋势向好,尽管未来几个月仍可能出现波动。",
+      "grammar": [
+        { "name": "总结趋势 + 保留余地", "note": "Overall 总起,suggest a positive trend 归纳趋势,although 让步保留波动风险,体现结论的严谨性。" }
+      ],
+      "options": [
+        { "text": "The overall trend is positive, though fluctuations are possible.", "correct": true, "feedback": "总体向好,但未来仍有波动可能。" },
+        { "text": "The overall trend is clearly negative and worsening.", "correct": false, "feedback": "数据显示的是积极趋势。" },
+        { "text": "The data show no meaningful trend at all.", "correct": false, "feedback": "数据明确显示出积极趋势。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u12",
+  "stage": 2,
+  "unitId": "s2u12",
+  "title": "听力挑战 · 问路指路",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "路人",
+      "line": "Excuse me, where is the nearest bank around here?",
+      "lineCn": "请问,这附近最近的银行在哪里?",
+      "grammar": [
+        { "name": "介词 around 表方位", "note": "around here 表示'这附近',用于询问周边地点。" }
+      ],
+      "options": [
+        { "text": "It is across from the post office.", "correct": true, "feedback": "across from 用介词描述银行位置,方向准确。" },
+        { "text": "It was behind the school.", "correct": false, "feedback": "过去时描述的位置对现在没有意义。" },
+        { "text": "It is boring and crowded.", "correct": false, "feedback": "用形容词谈感受,没有指路。" }
+      ]
+    },
+    {
+      "speaker": "路人",
+      "line": "How can I get to the train station from here?",
+      "lineCn": "从这里怎么去火车站?",
+      "grammar": [
+        { "name": "介词 from/to 表方向", "note": "from here 表示起点,to the station 表示目的地。" }
+      ],
+      "options": [
+        { "text": "Go straight and turn left at the corner.", "correct": true, "feedback": "用 at the corner 等介词短语指路,清晰明确。" },
+        { "text": "I went straight to the park.", "correct": false, "feedback": "过去时谈自己走过的路,没有给出路线。" },
+        { "text": "The station is very far from home.", "correct": false, "feedback": "谈的是离家远,不是从这里去的路线。" }
+      ]
+    },
+    {
+      "speaker": "游客",
+      "line": "Is the museum far from the hotel we are in?",
+      "lineCn": "博物馆离我们住的酒店远吗?",
+      "grammar": [
+        { "name": "介词 in/around 表位置", "note": "in the hotel 表示'在酒店里',around the corner 表示'在拐角附近'。" }
+      ],
+      "options": [
+        { "text": "No, it is just around the corner.", "correct": true, "feedback": "around the corner 用介词短语说明距离很近。" },
+        { "text": "No, it was at the corner.", "correct": false, "feedback": "过去时描述的位置不适用于现在问路。" },
+        { "text": "Yes, the hotel is expensive.", "correct": false, "feedback": "谈酒店价格,没有回答距离问题。" }
+      ]
+    }
+  ]
+}

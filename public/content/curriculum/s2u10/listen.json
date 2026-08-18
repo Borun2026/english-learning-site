@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u10",
+  "stage": 2,
+  "unitId": "s2u10",
+  "title": "听力挑战 · 解释迟到原因",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "经理",
+      "line": "Why were you late for the meeting today?",
+      "lineCn": "你今天为什么开会迟到?",
+      "grammar": [
+        { "name": "because 引导原因状语从句", "note": "because 回答 why 提问,说明事情发生的原因。" }
+      ],
+      "options": [
+        { "text": "Because the traffic was really heavy.", "correct": true, "feedback": "because 直接回答迟到原因,逻辑清晰。" },
+        { "text": "So I finished my report.", "correct": false, "feedback": "so 表结果,不能用来回答 why 的原因问题。" },
+        { "text": "Although I got up early.", "correct": false, "feedback": "although 表让步,句子不完整,也不是原因。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Did you come to work by bus today?",
+      "lineCn": "你今天坐公交车上班的吗?",
+      "grammar": [
+        { "name": "because 解释答语", "note": "在回答中常用 because 补充说明原因,使对话更自然。" }
+      ],
+      "options": [
+        { "text": "No, I ran because I missed the bus.", "correct": true, "feedback": "because 说明没坐公交的原因,回答完整自然。" },
+        { "text": "Yes, I like running in the park.", "correct": false, "feedback": "与坐公交的询问不符,答非所问。" },
+        { "text": "No, I am taking the subway.", "correct": false, "feedback": "现在进行时与已发生的上班场景矛盾。" }
+      ]
+    },
+    {
+      "speaker": "经理",
+      "line": "What made you so late this time, Mike?",
+      "lineCn": "迈克,这次什么让你迟到这么久?",
+      "grammar": [
+        { "name": "so 表结果", "note": "so 连接'原因 + 结果',说明事情导致的后果。" }
+      ],
+      "options": [
+        { "text": "I missed the bus, so I had to walk.", "correct": true, "feedback": "so 表达错过公交导致走路的结果,解释清楚。" },
+        { "text": "I will miss the bus, so I will walk.", "correct": false, "feedback": "将来时与已发生的迟到矛盾,时态错误。" },
+        { "text": "I missed lunch, so I was hungry.", "correct": false, "feedback": "说的是午饭和饥饿,没有解释迟到。" }
+      ]
+    }
+  ]
+}

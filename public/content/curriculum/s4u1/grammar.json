@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u1",
+  "stage": 4,
+  "title": "长难句拆解法",
+  "explanation": "## 长难句拆解法:五步断句法\n\n考研阅读和翻译的核心能力是拆解长难句。方法论:先找主干,再理修饰,层层剥离。\n\n## 五步拆解流程\n\n1. **找谓语动词**:一个简单句只有一个谓语,句子中谓语动词的数量 = 从句数量 + 1。先圈出所有谓语,再找出主句的那个。\n2. **划主干**:主谓宾/主系表。先把从句和介词短语剔掉,剩下的就是骨架。\n3. **找连词**:that, which, who, when, where, because, although 等引导从句,从句有自己的主谓。\n4. **定位修饰成分**:定语修饰名词,状语修饰动作,插入语可整体忽略。\n5. **重组翻译**:先译主干,再按中文习惯把修饰语安插回去。\n\n## 实战要点\n\n- 从句套从句时,由内向外拆,先译最内层。\n- 非谓语(to do/doing/done)是隐形从句,补出逻辑主语再理解。\n- 破折号和逗号之间的部分多为插入语,先跳过。\n- 每拆完一层就问:谁?做了什么?对谁?在哪?何时?为什么?\n\n## 训练建议\n\n每天拆 3 个长难句,先英译中再回译,坚持一个月,阅读速度可提升一倍。",
+  "examples": [
+    { "en": "The book that I bought yesterday, which cost me fifty yuan, is very useful.", "cn": "我昨天买的那本书,花了我五十元,非常有用。", "note": "主干 The book is useful;两个从句分别修饰 book。" },
+    { "en": "Despite the heavy rain, he managed to arrive on time, which surprised everyone.", "cn": "尽管下着大雨,他还是设法准时到达,这让所有人惊讶。", "note": "介词短语 Despite the heavy rain 是状语,which 从句修饰整件事。" },
+    { "en": "The reason why he failed the exam is that he didn't study hard enough.", "cn": "他考试失败的原因是他学习不够努力。", "note": "why 定语从句 + that 表语从句,双从句嵌套。" },
+    { "en": "Having finished his work, he left the office, feeling satisfied with what he had done.", "cn": "完成工作后,他离开办公室,对自己做的事很满意。", "note": "Having finished 和 feeling 都是非谓语,补出主语 he。" }
+  ],
+  "errors": [
+    { "wrong": "拆解时先翻译整个长句再找主干。", "right": "拆解时先找谓语和主干,再处理从句。", "note": "方法错误:正确顺序是先骨架后修饰,不要整体硬译。" },
+    { "wrong": "The man who I met yesterday who is a doctor is my neighbor.", "right": "The man who I met yesterday is my neighbor, and he is a doctor.", "note": "原句两个 who 叠用造成结构混乱,应拆成两个清晰成分。" },
+    { "wrong": "对长难句可以直接逐词直译。", "right": "对长难句应先调整语序再按中文逻辑翻译。", "note": "直译会导致欧化句式,须按中文习惯重组。" }
+  ],
+  "quiz": [
+    { "q": "一个句子中谓语动词的数量决定了什么?", "options": ["单词数量", "从句数量 + 1", "修饰语数量", "介词数量"], "answer": 1, "note": "谓语动词数 = 从句数 + 1,这是拆解第一步的依据。" },
+    { "q": "拆解长难句的第一步是?", "options": ["翻译全句", "找谓语动词", "找介词", "数单词"], "answer": 1, "note": "先圈出所有谓语,才能区分主句与从句。" },
+    { "q": "The girl ___ is standing there is my cousin.", "options": ["who", "which", "what", "whom"], "answer": 0, "note": "who 引导定语从句修饰 girl,作从句主语。" },
+    { "q": "在长难句中,破折号和逗号间的部分通常是?", "options": ["主干", "插入语", "宾语", "表语"], "answer": 1, "note": "插入语不影响主干,可先跳过。" },
+    { "q": "He succeeded in the end, ___ made his parents proud.", "options": ["that", "which", "what", "who"], "answer": 1, "note": "which 指代前面整个句子的内容。" }
+  ]
+}

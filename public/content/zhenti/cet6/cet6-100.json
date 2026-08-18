@@ -1,0 +1,64 @@
+{
+ "id": "cet6-100",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第2套) Passage 2",
+ "title": "The term \"environmentalist\" can mean different things",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The term \"environmentalist\" can mean different things. It used to refer to people trying to protect wildlife and natural ecosystems. In the 21st century, the term has evolved to capture the need to combat human-made climate change.",
+  "The distinction between these two strands of environmentalism is the cause of a split within the scientific community about nuclear energy.",
+  "On one side are purists who believe nuclear power isn't worth the risk and the exclusive solution to the climate crisis is renewable energy. The opposing side agrees that renewables are crucial, but says society needs an amount of power available to meet consumers' basic demands when the sun isn't shining and the wind isn't blowing. Nuclear energy, being far cleaner than oil, gas and coal, is a natural option, especially where hydroelectric capacity is limited.",
+  "Leon Clarke, who helped author reports for the UN's Intergovernmental Panel on Climate Change, isn't an uncritical supporter of nuclear energy, but says it's a valuable option to have if we're serious about reaching carbon neutrality.",
+  "\"Core to all of this is the degree to which you think we can actually meet climate goals with 100% renewables,\" he said. \"If you don't believe we can do it, and you care about the climate, you are forced to think about something like nuclear.\"",
+  "The achievability of universal 100% renewability is similarly contentious. Cities such as Burlington, Vermont, have been \"100% renewable\" for years. But these cities often have small populations, occasionally still rely on fossil fuel energy and have significant renewable resources at their immediate disposal. Meanwhile, countries that manage to run off renewables typically do so thanks to extraordinary hydroelectric capabilities.",
+  "Germany stands as the best case study for a large, industrialized country pushing into green energy. Chancellor Angela Merkel in 2011 announced Energiewende, an energy transition that would phase out nuclear and coal while phasing in renewables. Wind and solar power generation has increased over 400% since 2010, and renewables",
+  "provided 46% of the country's electricity in 2019. But progress has halted in recent years. The instability of renewables doesn't just mean energy is often not",
+  "produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay customers to use their electricity. Lagging grid infrastructure struggles to transport this overabundance of green energy from Germany's north to its industrial south, meaning many factories still run on coal and gas. The political limit has also been reached in some places, with citizens meeting the construction of new wind turbines with loud protests.",
+  "The result is that Germany's greenhouse gas emissions have fallen by around 11.5% since 2010 -- slower than the EU average of 13.5%."
+ ],
+ "questions": [
+  {
+   "q": "文中 “instability” 最接近的意思是?",
+   "options": [
+    "捕获，俘虏，夺得",
+    "不稳定",
+    "基本的,基础的",
+    "当中，中间"
+   ],
+   "answer": 1,
+   "analysis": "“instability” 意为「不稳定」。原文语境:The instability of renewables doesn't just mean energy is often not produced at night, but also that solar and wind can overwhelm the grid during the day, forcing utilities to pay ",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\"If you don't believe we can do it, and you care about the climate, you are forced to think about something like nuclear.\" The achievability of ___ 100% renewability is similarly contentious.",
+   "options": [
+    "human",
+    "average",
+    "large",
+    "universal"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“\"If you don't believe we can do it, and you care about the climate, you are forced to think about something like nuclear.\" The achievability of universal 100% renewability is similarly contentious.”。空格处应填入 “universal”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Women have historically been paid less",
+    "The Paris climate agreement finalised in December last year heralded a new er",
+    "Technology is never a neutral tool for achieving human ends",
+    "The term \"environmentalist\" can mean different things"
+   ],
+   "answer": 3,
+   "analysis": "本文以“The term \"environmentalist\" can mean different things.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

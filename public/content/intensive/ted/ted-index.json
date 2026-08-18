@@ -1,0 +1,517 @@
+{
+ "version": 1,
+ "type": "ted-lessons",
+ "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+ "groups": [
+  {
+   "id": "bb",
+   "title": "Basketball",
+   "items": [
+    {
+     "id": "ted-bb-01",
+     "group": "Basketball",
+     "title": "01 篮球的诞生：从一个桃筐说起",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 256
+    },
+    {
+     "id": "ted-bb-02",
+     "group": "Basketball",
+     "title": "02 你必须先记住的15个核心词",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 285
+    },
+    {
+     "id": "ted-bb-03",
+     "group": "Basketball",
+     "title": "03 球场全景图：从底线到三分线",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 333
+    },
+    {
+     "id": "ted-bb-04",
+     "group": "Basketball",
+     "title": "04 装备与穿着：从球鞋到护臂",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 311
+    },
+    {
+     "id": "ted-bb-05",
+     "group": "Basketball",
+     "title": "05 五个位置：从控卫到中锋",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 393
+    },
+    {
+     "id": "ted-bb-06",
+     "group": "Basketball",
+     "title": "06 球员类型：从超级巨星到角色球员",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 416
+    },
+    {
+     "id": "ted-bb-07",
+     "group": "Basketball",
+     "title": "07 身体素质：从爆发力到协调性",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 511
+    },
+    {
+     "id": "ted-bb-08",
+     "group": "Basketball",
+     "title": "08 进攻技术：从运球到投篮",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 656
+    },
+    {
+     "id": "ted-bb-09",
+     "group": "Basketball",
+     "title": "09 防守技术：从盯人到协防",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 759
+    },
+    {
+     "id": "ted-bb-10",
+     "group": "Basketball",
+     "title": "10 传球与组织：从助攻到失误",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 899
+    },
+    {
+     "id": "ted-bb-11",
+     "group": "Basketball",
+     "title": "11 篮板与卡位：从冲抢到二次进攻",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 706
+    },
+    {
+     "id": "ted-bb-12",
+     "group": "Basketball",
+     "title": "12 战术配合：从挡拆到电梯门",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 911
+    },
+    {
+     "id": "ted-bb-13",
+     "group": "Basketball",
+     "title": "13 比赛节奏与时间管理：从快攻到压哨",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1008
+    },
+    {
+     "id": "ted-bb-14",
+     "group": "Basketball",
+     "title": "14 裁判与规则：从犯规到挑战",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1171
+    },
+    {
+     "id": "ted-bb-15",
+     "group": "Basketball",
+     "title": "15 数据与统计：从得分王到效率值",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1112
+    },
+    {
+     "id": "ted-bb-16",
+     "group": "Basketball",
+     "title": "16 球员评价：从巨星到角色球员",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1652
+    },
+    {
+     "id": "ted-bb-17",
+     "group": "Basketball",
+     "title": "17 比赛战术：从挡拆到区域联防",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1449
+    },
+    {
+     "id": "ted-bb-18",
+     "group": "Basketball",
+     "title": "18 教练与训练：从战术板到训练场",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1676
+    },
+    {
+     "id": "ted-bb-19",
+     "group": "Basketball",
+     "title": "19 转会与合同：从顶薪到中产",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1668
+    },
+    {
+     "id": "ted-bb-20",
+     "group": "Basketball",
+     "title": "20 季后赛与总决赛：通向冠军之路",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1594
+    },
+    {
+     "id": "ted-bb-21",
+     "group": "Basketball",
+     "title": "21 解说与媒体英语：听懂 ESPN、TNT 解说，看懂战术分析文章",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1855
+    },
+    {
+     "id": "ted-bb-22",
+     "group": "Basketball",
+     "title": "22 球员采访与发布会：从 Mic'd Up 到 Postgame Presser",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1818
+    }
+   ]
+  },
+  {
+   "id": "tws",
+   "title": "The Worlds I See",
+   "items": [
+    {
+     "id": "ted-tws-01",
+     "group": "The Worlds I See",
+     "title": "The Worlds I See Chapter 01",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 4037
+    },
+    {
+     "id": "ted-tws-02",
+     "group": "The Worlds I See",
+     "title": "Chapter 02: Something to Chase",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1822
+    },
+    {
+     "id": "ted-tws-03",
+     "group": "The Worlds I See",
+     "title": "Chapter 02: Something to Chase, Part 02",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1059
+    },
+    {
+     "id": "ted-tws-04",
+     "group": "The Worlds I See",
+     "title": "Chapter 05: First Light",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1112
+    },
+    {
+     "id": "ted-tws-05",
+     "group": "The Worlds I See",
+     "title": "Chapter 06：The North Star",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1786
+    },
+    {
+     "id": "ted-tws-06",
+     "group": "The Worlds I See",
+     "title": "Chapter 06：The North Star: Part 02",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 1303
+    },
+    {
+     "id": "ted-tws-07",
+     "group": "The Worlds I See",
+     "title": "Chapter 06：The North Star: Part 03",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 785
+    }
+   ]
+  },
+  {
+   "id": "tit",
+   "title": "American Titans",
+   "items": [
+    {
+     "id": "ted-tit-01",
+     "group": "American Titans",
+     "title": "Chapter 01 John D. Rockefeller",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 14408
+    },
+    {
+     "id": "ted-tit-02",
+     "group": "American Titans",
+     "title": "**Chapter 2: Andrew Carnegie – From Steel to Libraries: The Dual Legacy of Industry and Philanthropy**",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 10311
+    },
+    {
+     "id": "ted-tit-03",
+     "group": "American Titans",
+     "title": "**Chapter 3: J.P. Morgan – The Architect of American Finance**",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 14909
+    },
+    {
+     "id": "ted-tit-04",
+     "group": "American Titans",
+     "title": "**Chapter 4: Warren Buffett – The Oracle of Omaha and the Art of Value Investing**",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 13492
+    },
+    {
+     "id": "ted-tit-05",
+     "group": "American Titans",
+     "title": "**Chapter 5: George Soros – The Financial Philosopher and Master of Market Reflexivity**",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 15056
+    },
+    {
+     "id": "ted-tit-06",
+     "group": "American Titans",
+     "title": "**Chapter 6: Steve Jobs – The Visionary Who Redefined Technology and Culture**",
+     "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+     "wordCount": 150
+    }
+   ]
+  }
+ ],
+ "items": [
+  {
+   "id": "ted-bb-01",
+   "group": "Basketball",
+   "title": "01 篮球的诞生：从一个桃筐说起",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 256
+  },
+  {
+   "id": "ted-bb-02",
+   "group": "Basketball",
+   "title": "02 你必须先记住的15个核心词",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 285
+  },
+  {
+   "id": "ted-bb-03",
+   "group": "Basketball",
+   "title": "03 球场全景图：从底线到三分线",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 333
+  },
+  {
+   "id": "ted-bb-04",
+   "group": "Basketball",
+   "title": "04 装备与穿着：从球鞋到护臂",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 311
+  },
+  {
+   "id": "ted-bb-05",
+   "group": "Basketball",
+   "title": "05 五个位置：从控卫到中锋",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 393
+  },
+  {
+   "id": "ted-bb-06",
+   "group": "Basketball",
+   "title": "06 球员类型：从超级巨星到角色球员",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 416
+  },
+  {
+   "id": "ted-bb-07",
+   "group": "Basketball",
+   "title": "07 身体素质：从爆发力到协调性",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 511
+  },
+  {
+   "id": "ted-bb-08",
+   "group": "Basketball",
+   "title": "08 进攻技术：从运球到投篮",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 656
+  },
+  {
+   "id": "ted-bb-09",
+   "group": "Basketball",
+   "title": "09 防守技术：从盯人到协防",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 759
+  },
+  {
+   "id": "ted-bb-10",
+   "group": "Basketball",
+   "title": "10 传球与组织：从助攻到失误",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 899
+  },
+  {
+   "id": "ted-bb-11",
+   "group": "Basketball",
+   "title": "11 篮板与卡位：从冲抢到二次进攻",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 706
+  },
+  {
+   "id": "ted-bb-12",
+   "group": "Basketball",
+   "title": "12 战术配合：从挡拆到电梯门",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 911
+  },
+  {
+   "id": "ted-bb-13",
+   "group": "Basketball",
+   "title": "13 比赛节奏与时间管理：从快攻到压哨",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1008
+  },
+  {
+   "id": "ted-bb-14",
+   "group": "Basketball",
+   "title": "14 裁判与规则：从犯规到挑战",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1171
+  },
+  {
+   "id": "ted-bb-15",
+   "group": "Basketball",
+   "title": "15 数据与统计：从得分王到效率值",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1112
+  },
+  {
+   "id": "ted-bb-16",
+   "group": "Basketball",
+   "title": "16 球员评价：从巨星到角色球员",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1652
+  },
+  {
+   "id": "ted-bb-17",
+   "group": "Basketball",
+   "title": "17 比赛战术：从挡拆到区域联防",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1449
+  },
+  {
+   "id": "ted-bb-18",
+   "group": "Basketball",
+   "title": "18 教练与训练：从战术板到训练场",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1676
+  },
+  {
+   "id": "ted-bb-19",
+   "group": "Basketball",
+   "title": "19 转会与合同：从顶薪到中产",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1668
+  },
+  {
+   "id": "ted-bb-20",
+   "group": "Basketball",
+   "title": "20 季后赛与总决赛：通向冠军之路",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1594
+  },
+  {
+   "id": "ted-bb-21",
+   "group": "Basketball",
+   "title": "21 解说与媒体英语：听懂 ESPN、TNT 解说，看懂战术分析文章",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1855
+  },
+  {
+   "id": "ted-bb-22",
+   "group": "Basketball",
+   "title": "22 球员采访与发布会：从 Mic'd Up 到 Postgame Presser",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1818
+  },
+  {
+   "id": "ted-tws-01",
+   "group": "The Worlds I See",
+   "title": "The Worlds I See Chapter 01",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 4037
+  },
+  {
+   "id": "ted-tws-02",
+   "group": "The Worlds I See",
+   "title": "Chapter 02: Something to Chase",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1822
+  },
+  {
+   "id": "ted-tws-03",
+   "group": "The Worlds I See",
+   "title": "Chapter 02: Something to Chase, Part 02",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1059
+  },
+  {
+   "id": "ted-tws-04",
+   "group": "The Worlds I See",
+   "title": "Chapter 05: First Light",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1112
+  },
+  {
+   "id": "ted-tws-05",
+   "group": "The Worlds I See",
+   "title": "Chapter 06：The North Star",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1786
+  },
+  {
+   "id": "ted-tws-06",
+   "group": "The Worlds I See",
+   "title": "Chapter 06：The North Star: Part 02",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 1303
+  },
+  {
+   "id": "ted-tws-07",
+   "group": "The Worlds I See",
+   "title": "Chapter 06：The North Star: Part 03",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 785
+  },
+  {
+   "id": "ted-tit-01",
+   "group": "American Titans",
+   "title": "Chapter 01 John D. Rockefeller",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 14408
+  },
+  {
+   "id": "ted-tit-02",
+   "group": "American Titans",
+   "title": "**Chapter 2: Andrew Carnegie – From Steel to Libraries: The Dual Legacy of Industry and Philanthropy**",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 10311
+  },
+  {
+   "id": "ted-tit-03",
+   "group": "American Titans",
+   "title": "**Chapter 3: J.P. Morgan – The Architect of American Finance**",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 14909
+  },
+  {
+   "id": "ted-tit-04",
+   "group": "American Titans",
+   "title": "**Chapter 4: Warren Buffett – The Oracle of Omaha and the Art of Value Investing**",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 13492
+  },
+  {
+   "id": "ted-tit-05",
+   "group": "American Titans",
+   "title": "**Chapter 5: George Soros – The Financial Philosopher and Master of Market Reflexivity**",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 15056
+  },
+  {
+   "id": "ted-tit-06",
+   "group": "American Titans",
+   "title": "**Chapter 6: Steve Jobs – The Visionary Who Redefined Technology and Culture**",
+   "source": "shizhengLi/Learning-English-With-TED 中文标注笔记(仅供本地个人学习)",
+   "wordCount": 150
+  }
+ ]
+}

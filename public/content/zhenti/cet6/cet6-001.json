@@ -1,0 +1,55 @@
+{
+ "id": "cet6-001",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第1套) Passage 1",
+ "title": "The Paris climate agreement finalised in December last year heralded a new er...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 442,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The Paris climate agreement finalised in December last year heralded a new era for climate action.For the first time, the world's nations agreed to keep global warming well below 2. This is vital for climate-vulnerable nations. Fewer than 4% of countries are responsible for more than half of the world's greenhouse gas emissions. In a study published in Nature Scientific Reports, we reveal just how deep this injustice runs. Developed nations such as Australia, the United States, Canada, and European countries are essentially climate \"free-riders\": causing the majority of the problems through high greenhouse gas emissions, while incurring few of the costs such as climate change's impact on food and water. In other words, a few countries are benefiting enormously from the consumption of fossil fuels, while at the same time contributing disproportionately to the global burden of climate change. On the flip side, there are many \"forced riders\", who are suffering from the climate change impacts despite having scarcely contributed to the problem. Many of the world's most climate-vulnerable countries, the majority of which are African or small island states, produce a very small quantity of emissions. This is much like a non-smoker getting cancer from second-hand smoke, while the heavy smoker is fortunate enough to smoke in good health. The Paris agreement has been widely hailed as a positive step forward in addressing climate change for all, although the details on addressing \"climate justice\" can be best described as sketchy. The goal of keeping global temperature rise \"well below\" 2~C is commendable but the emissions-reduction pledges submitted by countries leading up to the Paris talks are very unlikely to deliver on this. More than $100 billion in funding has been put on the table for supporting developing nations to reduce emissions. However, the agreement specifies that there is no formal distinction between developed and developing nations in their responsibility to cut emissions, effectively ignoring historical emissions. There is also very little detail on who will provide the funds or, importantly, who is responsible for their provision. Securing these funds, and establishing who is responsible for raising them will also be vital for the future of climate-vulnerable countries. The most climate-vulnerable countries in the world have contributed very little to creating the global disease from which they now suffer the most. There must urgently be a meaningful mobilisation of the policies outlined in the agreement if we are to achieve national emissions reductions while helping the most vulnerable countries adapt to climate change. And it is clearly up to the current generation of leaders from high-emitting nations to decide whether they want to be remembered as climate change tyrants or pioneers."
+ ],
+ "questions": [
+  {
+   "q": "文中 “cancer” 最接近的意思是?",
+   "options": [
+    "当前的",
+    "差别，区分",
+    "确定的",
+    "癌症"
+   ],
+   "answer": 3,
+   "analysis": "“cancer” 意为「癌症」。原文语境:This is much like a non-smoker getting cancer from second-hand smoke, while the heavy smoker is fortunate enough to smoke in good health.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Securing these funds, and establishing who is responsible for raising them will also be vital for the ___ of climate-vulnerable countries.",
+   "options": [
+    "future",
+    "quantity",
+    "disease",
+    "consumption"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Securing these funds, and establishing who is responsible for raising them will also be vital for the future of climate-vulnerable countries.”。空格处应填入 “future”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Look at the people around you",
+    "Effective Friday, Screen Actors Guild-American Federation of Television and R",
+    "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W",
+    "The Paris climate agreement finalised in December last year heralded a new er"
+   ],
+   "answer": 3,
+   "analysis": "本文以“The Paris climate agreement finalised in December last year heralded a new era for climate action.For the first time, the world's nations agreed to keep global ”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

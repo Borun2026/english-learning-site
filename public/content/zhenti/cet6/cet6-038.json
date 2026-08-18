@@ -1,0 +1,61 @@
+{
+ "id": "cet6-038",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第1套) Passage 2",
+ "title": "Here's how the Pacific Northwest is preparing for \" The Big One\"",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 465,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Here's how the Pacific Northwest is preparing for \" The Big One\" . It's the mother of all disaster drills for what could be the worst disaster in American history. California has spent years preparing for \" The Big One\" -the inevitable earthquake that will undoubtedly unleash all kinds of havoc along the famous San Andreas fault ( ;;,, ). But what if the fault that runs along the Pacific Northwest delivers a gigantic earthquake of its own? If the people of the Cascadia region have anything to do with it, they won't be caught unawares. The region is engaged in a multi-day earthquake-and-tsunami U t 1* ) drill involving around 20,000 people. The Cascadia Rising drill gives area residents and emergency responders a chance to practice what to do in case of a 9. 0-magnitude earthquake and tsunami along one of the nation's dangerous-and underestimated-faults.",
+  "The Cascadia Earthquake Zone is big enough to compete with San Andreas (it's been called the most dangerous fault in America), but it's much lesser known than its California cousin. Nearly 700 miles long, the earthquake zone is located by the North American Plate off the coast of Pacific British Columbia, Washington, Oregon and Northern California.",
+  "Cascadia is what's known as a \" megathrust \" fault. Megathrusts are created in earthquake zones-land plate boundaries where two plates converge. In the areas where one plate is beneath another, stress builds up over time. During a megathrust event, all of that stress releases and some of the world's most powerful earthquakes occur. Remember the 9 . 1 earthquake and tsunami in the Indian Ocean off Sumatra in 2004? It was caused by a megathrust event as the India plate moved beneath the Burma micro-plate.",
+  "The last time a major earthquake occurred along the Cascadia fault was in 1 700, so officials worry that another event could occur any time. To prevent that event from becoming a catastrophe, first responders will join members of the public in rehearsals that involve communication, evacuation, search and rescue, and other scenarios.",
+  "Thousands of casualties are expected if a 9. 0 earthquake were to occur. First, the earthquake would shake metropolitan areas including Seattle and Portland. This could trigger a tsunami that would create havoc along the coast. Not all casualties can necessarily be prevented-but by coordinating across local, state, and even national borders, officials hope that the worst-case scenario can be averted. On the exercise's website, officials explain that the report they prepare during this rehearsal will inform disaster management for years to come.",
+  "For hundreds of thousands of Cascadia residents, \" The Big One \" isn't a question of if, only when. And it's never too early to get ready for the inevitable.",
+  "5 1 . What does \" The Big One\" refer to?"
+ ],
+ "questions": [
+  {
+   "q": "文中 “North” 最接近的意思是?",
+   "options": [
+    "北，北方",
+    "竞争",
+    "通知",
+    "不可避免的，照例必有的"
+   ],
+   "answer": 0,
+   "analysis": "“North” 意为「北，北方」。原文语境:Nearly 700 miles long, the earthquake zone is located by the North American Plate off the coast of Pacific British Columbia, Washington, Oregon and Northern California.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:During a megathrust event, all of that stress releases and some of the world's most ___ earthquakes occur.",
+   "options": [
+    "necessarily",
+    "ready",
+    "British",
+    "powerful"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“During a megathrust event, all of that stress releases and some of the world's most powerful earthquakes occur.”。空格处应填入 “powerful”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr",
+    "Simulators are most often utilized within industries such as nuclear power, a",
+    "Here's how the Pacific Northwest is preparing for \" The Big One\"",
+    "When I re-entered the full-time workforce a few years ago after a decade of s"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Here's how the Pacific Northwest is preparing for \" The Big One\" .”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

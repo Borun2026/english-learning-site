@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u3",
+  "stage": 2,
+  "title": "过去完成时(入门)",
+  "explanation": "## 过去完成时的构成\n\n**had + 过去分词**(所有人称都用 had)\n\n## 核心概念:过去的过去\n\n过去完成时表示**在过去的某个时间之前**已经完成的动作。先发生的动作用过去完成时,后发生的用一般过去时。\n\n- When I arrived, the train had left. 我到达时,火车已经开走了。(leave 先于 arrive)\n\n## 常见搭配\n\n| 句型 | 含义 |\n|---|---|\n| By the time + 一般过去时,主句 + had done | 到…时候已经 |\n| Before / After + 一般过去时 | 在…之前/之后 |\n| 主句(一般过去时)+ 宾语从句(过去完成时) | 过去的过去 |\n\n## 与现在完成时的区别\n\n现在完成时以\"现在\"为参照点;过去完成时以\"过去\"为参照点。因此主句是过去时(如 said、told、got)时,从句用过去完成时。",
+  "examples": [
+    { "en": "By the time I got there, the train had left.", "cn": "我到那里时,火车已经开走了。", "note": "got there 是过去,left 发生在它之前,用过去完成时。" },
+    { "en": "She had finished her homework before dinner.", "cn": "她在晚饭前已完成了作业。", "note": "以 dinner 为过去参照点,finish 发生得更早。" },
+    { "en": "He told me he had seen the movie.", "cn": "他告诉我他已看过这部电影。", "note": "told 是过去,see 发生在 told 之前,用 had seen。" },
+    { "en": "When I woke up, my mother had already gone to work.", "cn": "我醒来时,妈妈已经上班去了。", "note": "woke up 是过去参照点,go 发生得更早。" }
+  ],
+  "errors": [
+    { "wrong": "I had saw the movie before.", "right": "I had seen the movie before.", "note": "过去完成时用过去分词 seen,不是过去式 saw。" },
+    { "wrong": "When I arrived, the bus left.", "right": "When I arrived, the bus had left.", "note": "车离开发生在 arrived 之前,先发生的动作用过去完成时。" },
+    { "wrong": "She told me she has lived there for years.", "right": "She told me she had lived there for years.", "note": "主句 told 是过去时,从句要用过去完成时 had lived。" }
+  ],
+  "quiz": [
+    { "q": "By the time we got home, our mother ___ dinner.", "options": ["cooked", "has cooked", "had cooked", "was cooking"], "answer": 2, "note": "做饭先于到家,过去的过去用 had cooked。" },
+    { "q": "He said he ___ his key.", "options": ["lost", "has lost", "had lost", "loses"], "answer": 2, "note": "说的时候已经丢了,said 是过去参照点,用 had lost。" },
+    { "q": "After I ___ my homework, I watched TV.", "options": ["finish", "finished", "had finished", "have finished"], "answer": 2, "note": "先完成作业再看电视,过去的过去用 had finished。" },
+    { "q": "She had never ___ to China before she came here.", "options": ["be", "been", "being", "was"], "answer": 1, "note": "had + 过去分词,be 的过去分词是 been。" },
+    { "q": "We ___ English for two years before we went abroad.", "options": ["learn", "learned", "had learned", "have learned"], "answer": 2, "note": "以 went 为过去参照点,之前持续两年用 had learned。" }
+  ]
+}

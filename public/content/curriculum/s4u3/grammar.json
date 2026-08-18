@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u3",
+  "stage": 4,
+  "title": "非谓语综合与独立主格",
+  "explanation": "## 非谓语综合与独立主格\n\n考研英语中非谓语出现的频率极高,且常与独立主格结合出现。**核心原则:句中不能同时出现两个无连词的谓语动词,多余的动词必须变为非谓语形式**。\n\n## 非谓语三大形式回顾\n\n1. **to do**:表目的、将来、某次具体动作。\n2. **doing**:表主动、进行、伴随、原因。\n3. **done**:表被动、完成。\n\n## 独立主格结构\n\n当非谓语的逻辑主语与主句主语不一致时,需要带出自己的逻辑主语,形成\"名词/代词 + 分词/不定式/介词短语/形容词/副词\"结构:\n\n- Weather permitting, we will go out。(天气允许的话……)\n- The meeting over, we left。(会议结束后……)\n- He entered the room, book in hand。(他手里拿着书走进房间)\n\n## 考研实战要点\n\n1. 独立主格与 with 结构互换:with the work done / the work done。\n2. 判断逻辑主语:分词前的名词是谁,逻辑主语就是谁。\n3. 非谓语否定式:not 放在分词前面,如 Not having heard from him, she worried。\n4. 独立主格作状语表时间/原因/条件/伴随,这是翻译得分点。",
+  "examples": [
+    { "en": "The task finished, he went to bed.", "cn": "任务完成后,他去睡觉了。", "note": "独立主格:task 是 finished 的逻辑主语,表时间。" },
+    { "en": "With the guide leading, we explored the cave.", "cn": "在向导带领下,我们探索了洞穴。", "note": "with + 名词 + 现在分词,表伴随。" },
+    { "en": "He was seen entering the building.", "cn": "有人看见他进入了大楼。", "note": "感官动词后的非谓语:主动进行用 doing。" },
+    { "en": "The project being discussed is of great importance.", "cn": "正在讨论的这个项目非常重要。", "note": "非谓语作定语:being done 表被动进行。" }
+  ],
+  "errors": [
+    { "wrong": "He came in, his hands were shaking.", "right": "He came in, his hands shaking.", "note": "两个谓语无连词连接,把后句改成独立主格。" },
+    { "wrong": "The report writing last night, she submitted it this morning.", "right": "The report written last night, she submitted it this morning.", "note": "独立主格中 report 是被写的,要用过去分词 written。" },
+    { "wrong": "Known not where to go, he stopped at the corner.", "right": "Not knowing where to go, he stopped at the corner.", "note": "he 是主动\"不知道\",用 not knowing,且 not 位于分词之前。" }
+  ],
+  "quiz": [
+    { "q": "All things ___, the plan is better than expected.", "options": ["considered", "considering", "consider", "to consider"], "answer": 0, "note": "独立主格:things 被考虑,用过去分词。" },
+    { "q": "___ enough time, we could finish the work.", "options": ["Given", "Giving", "Give", "Having given"], "answer": 0, "note": "given 表条件,\"如果给足够时间\"。" },
+    { "q": "The children were watching TV, their eyes ___ on the screen.", "options": ["fixed", "fixing", "fix", "to fix"], "answer": 0, "note": "eyes 被盯着屏幕,用过去分词 fixed。" },
+    { "q": "___ by his boss, he felt encouraged.", "options": ["Praising", "Praised", "Praise", "Having praised"], "answer": 1, "note": "he 是被表扬的对象,用过去分词。" },
+    { "q": "With all the windows ___, the room is dark.", "options": ["closed", "closing", "close", "to close"], "answer": 0, "note": "windows 被关上,with 结构用过去分词。" }
+  ]
+}

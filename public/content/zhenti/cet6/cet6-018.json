@@ -1,0 +1,69 @@
+{
+ "id": "cet6-018",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第3套) Passage 2",
+ "title": "It is the season for some frantic last-minute math across the country, employ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 432,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "It is the season for some frantic last-minute math across the country, employees of all stripe are counting backward in an attempt to figure out just how much paid time-off they have left it their reserves. More of them, though, will skip those calculations altogether and just power through the holidays into 2017: More than half of American workers don't use up all of their allotted vacation days each year.",
+  "Not so long ago, people would have turned up their noses at that kind of dedication to the job. As marketing professors Silvia Bellezza, Neeru Paharia, and Anat Keinan recently explained in Harvard Business Review (HBR), leisure time was once seen as an indicator of high social status, something attainable only for those at the top. Since the middle of the 20th century, though, things have turned the opposite way � these days, punishing hours at your desk, rather than days off, are seen as the mark of someone important.",
+  "In a series of several experiments, the researchers illustrated just how much we've come to admire busyness, or at least the appearance of it. Volunteers read two passages, on about a man who led a life of leisure and another about a man who was over-worked and over �scheduled; when asked to determine which of the two had a higher social status, the majority of the participants said the latter. The same held true for people who used products that implied they were short on time: In one",
+  "experiment, for example, customers of the grocery-delivery service Peapod were seen as of higher status than people who",
+  "shopped at grocery stores that were equally expensive; in another, people wearing wireless headphones were considered",
+  "further up on the social ladder than those wearing regular headphones, even when both were just used to listen to music.",
+  "In part, the authors wrote in HBR, this pattern may have to do with the way work itself has changed over the past",
+  "several decades.",
+  "We think that the shift from leisure-as-status to busyness-as-status may be linked to the development of",
+  "knowledge-intensive economics. In such economies, individuals who possess the human capital characteristics that",
+  "employers or clients value(e.g., competence and ambition) are expected to be in high demand and short supply on the job",
+  "market. Thus, by telling others that we are busy and working all the time, we are implicitly suggesting that we are sought",
+  "after, which enhances our perceived status.",
+  "Even if you feel tempted to sacrifice your own vacation days for fake busyness, though, at least consider leaving your",
+  "weekends unscheduled. It's for your own good."
+ ],
+ "questions": [
+  {
+   "q": "文中 “demand” 最接近的意思是?",
+   "options": [
+    "美洲的",
+    "要求",
+    "n&adj中间(的),当中(的",
+    "横过"
+   ],
+   "answer": 1,
+   "analysis": "“demand” 意为「要求」。原文语境:In such economies, individuals who possess the human capital characteristics that employers or clients value(e.g., competence and ambition) are expected to be in high demand and sh",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Thus, by ___ others that we are busy and working all the time, we are implicitly suggesting that we are sought after, which enhances our perceived status.",
+   "options": [
+    "altogether",
+    "backward",
+    "telling",
+    "least"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Thus, by telling others that we are busy and working all the time, we are implicitly suggesting that we are sought after, which enhances our perceived status.”。空格处应填入 “telling”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Rising temperatures and overfishing in the pristine ( 3f",
+    "It is the season for some frantic last-minute math across the country, employ",
+    "More than 100 years ago, American sociologist W",
+    "Economically speaking are we better off than we were ten years ago Twenty yea"
+   ],
+   "answer": 1,
+   "analysis": "本文以“It is the season for some frantic last-minute math across the country, employees of all stripe are counting backward in an attempt to figure out just how much p”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

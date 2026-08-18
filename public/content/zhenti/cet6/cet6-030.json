@@ -1,0 +1,62 @@
+{
+ "id": "cet6-030",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第3套) Passage 2",
+ "title": "On Jan",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 438,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "On Jan.9,2007, Steve Jobs formally announced Apple's \"revolutionary mobile phone\" -- a device that combined the functionality of an iPod, phone and Internet communication into a single unit, navigated by touch.",
+  "It was a huge milestone in the development of smartphones, which are now owned by a majority of American adults and are increasingly common across the globe.",
+  "As smartphones have multiplied, so have questions about their impact on how we live and how we work. Often the advantages of convenient, mobile technology are both obvious and taken for granted, leaving more subtle topics for concerned discussion: Are smartphones disturbing children's sleep? Is an inability to get away from work having a negative impact on health? And what are the implications for privacy?",
+  "But today, on the 10th anniversary of the iPhone, let's take a moment to consider a less obvious advantage: the potential for smartphone technology to revolutionize behavioral science. That's because, for the first time in human history, a large proportion of the species is in continuous contact with technology that can record key features of an individual's behavior and environment.",
+  "Researchers have already begun to use smartphones in social scientific research, either to query people regularly as they engage in their normal lives or to record activity using the device's built-in sensors. These studies are confirming, challenging and extending what's been found using more traditional approaches, in which people report how they behaved in real life or participate in relatively short and artificial laboratory-based tasks.",
+  "Such studies are just first steps. As more data are collected and methods for analysis improve, researchers will be in a better position to identify how different experiences, behaviors and environments relate to each other and evolve over time, with the potential to improve people's productivity and wellbeing in a variety of domains. Beyond revealing population-wide patterns, the right combination of data and analysis can also help individuals identify unique characteristics of their own behavior, including conditions that could indicate the need for some form of intervention--such as an unusual increase in behaviors that signal a period of depression.",
+  "Smartphone-based data collection comes at an appropriate time in the evolution of psychological science. Today, the field is in transition, moving away from a focus on laboratory studies with undergraduate participants towards more complex, real-world situations studied with more diverse groups of people. Smartphones offer new tools for achieving these ambitions, providing rich data about everyday behaviors in a variety of contexts.",
+  "So here's another way in which smartphones might transform the way we live and work: by offering insights into human psychology and behavior and, thus, supporting smarter social science."
+ ],
+ "questions": [
+  {
+   "q": "文中 “engage” 最接近的意思是?",
+   "options": [
+    "明显的，清楚的",
+    "雇用",
+    "正常的， 平常的",
+    "心理学"
+   ],
+   "answer": 1,
+   "analysis": "“engage” 意为「雇用」。原文语境:Researchers have already begun to use smartphones in social scientific research, either to query people regularly as they engage in their normal lives or to record activity using t",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Smartphone-based data collection comes at an ___ time in the evolution of psychological science.",
+   "options": [
+    "revolutionary",
+    "appropriate",
+    "individual",
+    "increasingly"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Smartphone-based data collection comes at an appropriate time in the evolution of psychological science.”。空格处应填入 “appropriate”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "After earning a bachelor's degree, I was determined to do what I love",
+    "On Jan",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is",
+    "Organic agriculture is a relatively untapped resource for feeding the Earth's"
+   ],
+   "answer": 1,
+   "analysis": "本文以“On Jan.9,2007, Steve Jobs formally announced Apple's \"revolutionary mobile phone\" -- a device that combined the functionality of an iPod, phone and Internet com”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

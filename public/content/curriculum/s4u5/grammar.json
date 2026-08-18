@@ -1,0 +1,24 @@
+{
+  "id": "g-s4u5",
+  "stage": 4,
+  "title": "英译汉技巧",
+  "explanation": "## 英译汉技巧:从\"欧化\"到\"地道\"\n\n考研翻译(英译汉)的得分要点是**忠实 + 通顺**。方法得当,可以快速提分。\n\n## 五大核心技巧\n\n1. **拆分法**:长句按从句和短语拆成短句,再组合。英文一句可含多个从句,中文要断成小句。\n2. **语序调整**:英文状语后置、定语后置,中文习惯前置。The book written by him → 他写的书。\n3. **词性转换**:名词转动词、介词转动词,如 His failure to come → 他没来。\n4. **增词与减词**:英文抽象名词多,翻译时按中文习惯补充\"问题、情况、方面\"等范畴词。\n5. **被动转主动**:英文多被动,中文多主动,如 It is said that → 据说。\n\n## 四步翻译流程\n\n1. 通读全句,找主干。2. 划分意群,逐块翻译。3. 按中文语序重组。4. 检查增删与通顺度。\n\n## 高频采分点\n\n定语从句的拆分、被动语态的处理、非谓语的补充翻译、it 形式主语的固定译法(It is important to... → 重要的是……)。",
+  "examples": [
+    { "en": "It is important that we should protect the environment.", "cn": "保护环境很重要。", "note": "it 形式主语译为\"……很重要\",去掉 it is。" },
+    { "en": "The problem discussed at the meeting yesterday was solved today.", "cn": "昨天会上讨论的问题今天解决了。", "note": "过去分词定语前置译,\"昨天会上讨论的\"。" },
+    { "en": "He was praised by the teacher for his honesty.", "cn": "他因为诚实受到了老师的表扬。", "note": "被动转主动或保留被动,按中文习惯处理。" },
+    { "en": "Only when we understand the past can we plan for the future.", "cn": "只有了解过去,我们才能规划未来。", "note": "倒装结构还原为正常语序再译,注意\"只有……才……\"。" }
+  ],
+  "errors": [
+    { "wrong": "直译:He is a good student who works hard. → 他是一个好的学生谁努力工作。", "right": "意译:他是个好学生,学习很努力。", "note": "who 引导的定语从句拆分译成独立小句。" },
+    { "wrong": "直译:It is known to all that... → 它被所有人知道。", "right": "意译:众所周知……", "note": "it 固定结构用中文惯用表达。" },
+    { "wrong": "逐词堆砌,不调整语序。", "right": "按中文语序重组意群。", "note": "逐词直译会产出不通顺的译文,必须先重组。" }
+  ],
+  "quiz": [
+    { "q": "It is reported that the project has been finished. 最佳译文?", "options": ["它被报道项目完成了", "据报道,项目已经完成", "项目完成被报告", "这是报道说项目完成"], "answer": 1, "note": "It is reported that 固定译为\"据报道\"。" },
+    { "q": "The boy standing under the tree is my brother. 译文顺序?", "options": ["站着的男孩在树下是我兄弟", "树下站着的男孩是我弟弟", "男孩站着在树下是我兄弟", "我兄弟是树下男孩"], "answer": 1, "note": "分词定语前置译,符合中文习惯。" },
+    { "q": "英文被动句在中文中的常见处理?", "options": ["保留被动", "尽量转主动", "必须加被字", "删除主语"], "answer": 1, "note": "中文多用主动,被动句常转为主动表达。" },
+    { "q": "His courage to face the difficulty surprised us. 最佳译法?", "options": ["他的勇气面对困难让我们惊讶", "他面对困难的勇气让我们惊讶", "勇气他的面对困难让惊讶", "我们惊讶他的困难勇气"], "answer": 1, "note": "不定式定语前置译,\"面对困难的勇气\"。" },
+    { "q": "翻译长难句的正确步骤是?", "options": ["先译后拆", "先拆分意群再重组", "逐词直译", "只看主干"], "answer": 1, "note": "先划分意群逐块翻译,再按中文语序重组。" }
+  ]
+}

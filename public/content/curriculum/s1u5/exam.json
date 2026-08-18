@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u5",
+  "stage": 1,
+  "unitId": "s1u5",
+  "title": "真题演练 · 冠词与名词复数",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 冠词与名词复数。",
+  "questions": [
+    {
+      "q": "He is ___ honest boy.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "不填"
+      ],
+      "answer": 1,
+      "analysis": "honest 中 h 不发音,以元音音素开头用 an。",
+      "point": "g-s1u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I have ___ apple every day.",
+      "options": [
+        "a",
+        "an",
+        "the",
+        "不填"
+      ],
+      "answer": 1,
+      "analysis": "apple 以元音音素开头,用 an。",
+      "point": "g-s1u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "There are two ___ in the garden.",
+      "options": [
+        "child",
+        "childs",
+        "children",
+        "childrens"
+      ],
+      "answer": 2,
+      "analysis": "child 的复数是不规则形式 children。",
+      "point": "g-s1u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ moon is very bright tonight.",
+      "options": [
+        "A",
+        "An",
+        "The",
+        "不填"
+      ],
+      "answer": 2,
+      "analysis": "月亮独一无二,用定冠词 the。",
+      "point": "g-s1u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "My sister has many ___.",
+      "options": [
+        "photo",
+        "photos",
+        "photoes",
+        "photoies"
+      ],
+      "answer": 1,
+      "analysis": "photo 以元音字母 o 结尾,直接加 -s。",
+      "point": "g-s1u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She is a engineer.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She is an engineer.。engineer 以元音音素开头,用 an。",
+      "point": "g-s1u5",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

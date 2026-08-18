@@ -1,0 +1,49 @@
+{
+  "id": "d-s2u4",
+  "stage": 2,
+  "unitId": "s2u4",
+  "scene": "谈论计划与目标",
+  "goal": "和同学确定新学期目标",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "同学 Mark", "line": "Hi! The new semester has started. Do you have any plans to make this term different?", "lineCn": "嗨!新学期开始了。你有没有计划让这个学期有所不同?", "grammar": [ { "name": "不定式表目的", "note": "plans to make... 动词不定式 to do 作定语,说明计划的内容。" } ],
+      "options": [
+        { "text": "Yes! I plan to study two hours every day and to read ten books this term.", "textCn": "有!我打算每天学习两小时,这学期读十本书。", "feedback": "用 plan to do 和 and to do 列出具体目标,非常明确。", "next": "n2" },
+        { "text": "No plans at all.", "textCn": "一点计划都没有。", "feedback": "没有目标,谈话很难深入。", "next": "n3" },
+        { "text": "I ate noodles yesterday.", "textCn": "我昨天吃了面条。", "feedback": "答非所问,跑题太远。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "同学 Mark", "line": "Reading ten books is a great goal! To make it happen, you need a clear plan. How will you choose the books?",
+      "lineCn": "读十本书是个很好的目标!要实现它,你需要清晰的计划。你打算怎么选书呢?", "grammar": [ { "name": "不定式作目的状语", "note": "To make it happen 表目的,相当于 in order to,放在句首。" } ],
+      "options": [
+        { "text": "I decide to ask our teacher for advice, and I want to start with short novels.", "textCn": "我决定向老师请教,想先从短篇小说读起。", "feedback": "用 decide to do / want to do 说明具体做法,方案可行。", "next": "n4" },
+        { "text": "I do not know. It is too hard to choose.", "textCn": "我不知道,选书太难了。", "feedback": "犹豫不决,目标还是停留在空话上。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "同学 Mark", "line": "Come on! Even a small goal is better than nothing. What is something you have always wanted to try?",
+      "lineCn": "别这样!哪怕一个小目标也比没有强。你一直想尝试的是什么?", "grammar": [ { "name": "want to try", "note": "have always wanted to try... 用 want + to do 表达一直以来的心愿。" } ],
+      "options": [
+        { "text": "I want to learn to play the guitar. It has been my dream since I was a child.", "textCn": "我想学弹吉他,这是我从小到大的梦想。", "feedback": "说出了具体想做的事,目标有了方向。", "next": "n2" },
+        { "text": "I want to do nothing but sleep.", "textCn": "我只想睡觉,什么都不想做。", "feedback": "消极态度,让同学没法帮你。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "同学 Mark", "line": "Starting with short novels is a smart way to build a reading habit. It is important to keep going even when you are busy.",
+      "lineCn": "从短篇小说入手是养成阅读习惯的聪明办法。再忙也要坚持下去,这很重要。", "grammar": [ { "name": "It is important to do...", "note": "It is + 形容词 + to do 结构,it 作形式主语,真正主语是不定式。" } ],
+      "options": [
+        { "text": "Exactly. I will try my best to finish one chapter every day, no matter how busy I am.", "textCn": "没错。不管多忙,我都会尽力每天读一章。", "feedback": "把目标拆成每天一章,还用了 try to do,计划落地。", "next": "n6" },
+        { "text": "Maybe I will give up if it gets too hard.", "textCn": "要是太难,我可能会放弃。", "feedback": "还没开始就想放弃,这样的目标很难实现。", "next": "n5" }
+      ] },
+    "n5": { "id": "n5", "speaker": "同学 Mark", "line": "Let us find an easy way. To be realistic, what is the smallest goal you can keep every day?",
+      "lineCn": "我们找个简单点的办法。说实话,你每天能做到的最小目标是什么?", "grammar": [ { "name": "To be realistic", "note": "不定式短语作独立成分,表示\"说实在的\",引出评价。" } ],
+      "options": [
+        { "text": "I can try to read ten pages a day. That is small enough to keep.", "textCn": "我可以试着每天读十页。这个目标小到能坚持。", "feedback": "把目标调整到可执行的范围,务实且可行。", "next": "n6" },
+        { "text": "I cannot decide. You choose for me.", "textCn": "我决定不了,你替我想吧。", "feedback": "自己的目标却让别人定,毫无主动性。", "next": "fail1" }
+      ] },
+    "n6": { "id": "n6", "speaker": "同学 Mark", "line": "Great! Now we both have clear goals. I decide to run three times a week to stay healthy. Shall we check on each other every Friday?",
+      "lineCn": "太好了!现在我们都有清晰的目标了。我决定每周跑三次步来保持健康。每周五我们互相监督怎么样?", "grammar": [ { "name": "不定式表目的", "note": "to stay healthy 作目的状语,说明跑步的目的。" } ],
+      "options": [
+        { "text": "Good idea! I promise to share my reading progress with you every Friday.", "textCn": "好主意!我答应每周五跟你分享我的阅读进度。", "feedback": "爽快接受互相监督,还承诺定期汇报,目标确定!", "next": "success" },
+        { "text": "I do not need anyone to check on me.", "textCn": "我不需要任何人监督我。", "feedback": "拒绝了同学的善意,目标可能很快就坚持不下去。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "同学 Mark", "line": "Deal! New semester, new goals. Let us work hard together!", "lineCn": "说定了!新学期,新目标。我们一起努力吧!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "同学 Mark", "line": "Alright... I hope you find your goal soon. See you in class.", "lineCn": "好吧……希望你早点找到目标。课堂见。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "同学 Mark", "line": "Suit yourself. But remember, goals are easier to keep when friends help.", "lineCn": "随你吧。不过记住,有朋友帮忙,目标更容易坚持。", "end": true, "success": false }
+  }
+}

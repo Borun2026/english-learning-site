@@ -1,0 +1,644 @@
+{
+  "id": "a-s1u7",
+  "stage": 1,
+  "unitId": "s1u7",
+  "title": "My City and the Weather",
+  "newWords": [
+    "city",
+    "streets",
+    "houses",
+    "tall",
+    "spring",
+    "summer",
+    "autumn",
+    "winter",
+    "weather",
+    "flowers",
+    "rains",
+    "night",
+    "leaves",
+    "wind",
+    "strong",
+    "changes",
+    "dry",
+    "cool"
+  ],
+  "sentences": [
+    {
+      "text": "My city is big and beautiful, and I love it very much.",
+      "translation": "我的城市又大又美,我非常喜欢它。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "My city is big and beautiful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My city"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "big and beautiful"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I love it very much",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "love"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "程度状语",
+              "text": "very much"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形容词作表语",
+          "note": "big、beautiful 是形容词,放在系动词 is 后面,描述城市的特点。"
+        },
+        {
+          "name": "副词短语 very much",
+          "note": "very much 修饰 love,表示程度\"非常\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "My city is big and beautiful",
+          "name": "形容词作表语"
+        },
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "My city is big and beautiful",
+          "name": "副词短语 very much"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My city is big and beautiful, and I love it very much.",
+          "answer": "My city is big and beautiful, and I love it very much.",
+          "note": "big、beautiful 是形容词,放在系动词 is 后面,描述城市的特点。",
+          "point": "形容词作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My city is big and beautiful, and I love it very much.",
+          "answer": "My city is big and beautiful, and I love it very much.",
+          "note": "very much 修饰 love,表示程度\"非常\"。",
+          "point": "副词短语 very much"
+        }
+      ]
+    },
+    {
+      "text": "The streets are clean and wide, and the houses are tall.",
+      "translation": "街道又干净又宽阔,房子也很高。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The streets are clean and wide",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The streets"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "clean and wide"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the houses are tall",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the houses"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "tall"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列形容词",
+          "note": "clean and wide 两个形容词用 and 连接,并列作表语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "The streets are clean and wide",
+          "name": "并列形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The streets are clean and wide, and the houses are tall.",
+          "answer": "The streets are clean and wide, and the houses are tall.",
+          "note": "clean and wide 两个形容词用 and 连接,并列作表语。",
+          "point": "并列形容词"
+        }
+      ]
+    },
+    {
+      "text": "In spring the weather is warm and sunny, and the flowers are beautiful.",
+      "translation": "春天天气温暖晴朗,花儿也很美。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In spring"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "the weather is warm and sunny",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the weather"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "warm and sunny"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the flowers are beautiful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the flowers"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "beautiful"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语 in spring",
+          "note": "in + 季节表示\"在…季\",放在句首作时间状语。"
+        },
+        {
+          "name": "不可数名词 weather",
+          "note": "weather 是不可数名词,不加 -s,前面不能用 a。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "the weather is warm and sunny",
+          "name": "时间状语 in spring"
+        },
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "the weather is warm and sunny",
+          "name": "不可数名词 weather"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In spring the weather is warm and sunny, and the flowers are beautiful.",
+          "answer": "In spring the weather is warm and sunny, and the flowers are beautiful.",
+          "note": "in + 季节表示\"在…季\",放在句首作时间状语。",
+          "point": "时间状语 in spring"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In spring the weather is warm and sunny, and the flowers are beautiful.",
+          "answer": "In spring the weather is warm and sunny, and the flowers are beautiful.",
+          "note": "weather 是不可数名词,不加 -s,前面不能用 a。",
+          "point": "不可数名词 weather"
+        }
+      ]
+    },
+    {
+      "text": "In summer it is very hot, and it rains a lot at night.",
+      "translation": "夏天非常热,而且夜里常下雨。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In summer"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "it is very hot",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "very hot"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "it rains a lot at night",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语",
+              "text": "rains"
+            },
+            {
+              "role": "程度状语",
+              "text": "a lot"
+            },
+            {
+              "role": "时间状语",
+              "text": "at night"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 very",
+          "note": "very 是副词,修饰形容词 hot,加强程度。"
+        },
+        {
+          "name": "副词短语 a lot",
+          "note": "rains a lot 中 a lot 作程度状语,表示\"下很多雨\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "it rains a lot at night",
+          "name": "副词 very"
+        },
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "it rains a lot at night",
+          "name": "副词短语 a lot"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In summer it is very hot, and it rains a lot at night.",
+          "answer": "In summer it is very hot, and it rains a lot at night.",
+          "note": "very 是副词,修饰形容词 hot,加强程度。",
+          "point": "副词 very"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In summer it is very hot, and it rains a lot at night.",
+          "answer": "In summer it is very hot, and it rains a lot at night.",
+          "note": "rains a lot 中 a lot 作程度状语,表示\"下很多雨\"。",
+          "point": "副词短语 a lot"
+        }
+      ]
+    },
+    {
+      "text": "In autumn the weather is cool and dry, and the leaves are yellow.",
+      "translation": "秋天天气凉爽干燥,树叶都变黄了。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In autumn"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "the weather is cool and dry",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the weather"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "cool and dry"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the leaves are yellow",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the leaves"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "yellow"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "系表结构",
+          "note": "系动词 is + 形容词 cool and dry,用来描述天气的特征。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "the weather is cool and dry",
+          "name": "系表结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In autumn the weather is cool and dry, and the leaves are yellow.",
+          "answer": "In autumn the weather is cool and dry, and the leaves are yellow.",
+          "note": "系动词 is + 形容词 cool and dry,用来描述天气的特征。",
+          "point": "系表结构"
+        }
+      ]
+    },
+    {
+      "text": "In winter it is cold and snowy, and the wind is strong.",
+      "translation": "冬天又冷又下雪,风也很大。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In winter"
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "it is cold and snowy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "cold and snowy"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the wind is strong",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the wind"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "strong"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形容词并列作表语",
+          "note": "cold and snowy 两个形容词并列,描述冬天的天气。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "it is cold and snowy",
+          "name": "形容词并列作表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In winter it is cold and snowy, and the wind is strong.",
+          "answer": "In winter it is cold and snowy, and the wind is strong.",
+          "note": "cold and snowy 两个形容词并列,描述冬天的天气。",
+          "point": "形容词并列作表语"
+        }
+      ]
+    },
+    {
+      "text": "The weather here changes often, but I love my city very much.",
+      "translation": "这里的天气变化很多,但我依然非常爱我的城市。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "The weather here changes often",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The weather here"
+            },
+            {
+              "role": "谓语",
+              "text": "changes"
+            },
+            {
+              "role": "频率状语",
+              "text": "often"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I love my city very much",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "love"
+            },
+            {
+              "role": "宾语",
+              "text": "my city"
+            },
+            {
+              "role": "程度状语",
+              "text": "very much"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "频率副词 often",
+          "note": "often 是频率副词,放在实义动词 changes 前面,表示\"经常\"。",
+          "example": "It often rains here.",
+          "exampleCn": "这里经常下雨。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u7",
+          "phrase": "The weather here changes often",
+          "name": "频率副词 often"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这里经常下雨。",
+          "answer": "It often rains here.",
+          "note": "often 是频率副词,放在实义动词 changes 前面,表示\"经常\"。",
+          "point": "频率副词 often"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u7",
+      "name": "形容词作表语",
+      "note": "big、beautiful 是形容词,放在系动词 is 后面,描述城市的特点。",
+      "sourceExample": "My city is big and beautiful, and I love it very much.",
+      "sourceExampleCn": "我的城市又大又美,我非常喜欢它。"
+    },
+    {
+      "grammarId": "g-s1u7",
+      "name": "副词短语 very much",
+      "note": "very much 修饰 love,表示程度\"非常\"。",
+      "sourceExample": "My city is big and beautiful, and I love it very much.",
+      "sourceExampleCn": "我的城市又大又美,我非常喜欢它。"
+    },
+    {
+      "grammarId": "g-s1u7",
+      "name": "并列形容词",
+      "note": "clean and wide 两个形容词用 and 连接,并列作表语。",
+      "sourceExample": "The streets are clean and wide, and the houses are tall.",
+      "sourceExampleCn": "街道又干净又宽阔,房子也很高。"
+    },
+    {
+      "grammarId": "g-s1u7",
+      "name": "时间状语 in spring",
+      "note": "in + 季节表示\"在…季\",放在句首作时间状语。",
+      "sourceExample": "In spring the weather is warm and sunny, and the flowers are beautiful.",
+      "sourceExampleCn": "春天天气温暖晴朗,花儿也很美。"
+    },
+    {
+      "grammarId": "g-s1u7",
+      "name": "不可数名词 weather",
+      "note": "weather 是不可数名词,不加 -s,前面不能用 a。",
+      "sourceExample": "In spring the weather is warm and sunny, and the flowers are beautiful.",
+      "sourceExampleCn": "春天天气温暖晴朗,花儿也很美。"
+    }
+  ]
+}

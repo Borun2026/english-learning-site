@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u11",
+  "stage": 2,
+  "unitId": "s2u11",
+  "title": "听力挑战 · 天气预报讨论",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "Have you seen the weather forecast for today?",
+      "lineCn": "你看过今天的天气预报了吗?",
+      "grammar": [
+        { "name": "will 表将来预测", "note": "will + 动词原形表示对将来天气的预测。" }
+      ],
+      "options": [
+        { "text": "Yes, it will rain in the afternoon.", "correct": true, "feedback": "will rain 表达对下午天气的预测,回应问句。" },
+        { "text": "Yes, it rained heavily yesterday.", "correct": false, "feedback": "过去时谈的是昨天,不是今天的预报。" },
+        { "text": "Yes, it is raining right now.", "correct": false, "feedback": "现在进行时是当下实况,不是预报内容。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "Do you think we should bring umbrellas outside?",
+      "lineCn": "你觉得我们出门该带伞吗?",
+      "grammar": [
+        { "name": "be going to 表预测", "note": "be going to 根据现有迹象做出对将来的预测。" }
+      ],
+      "options": [
+        { "text": "Yes, it is going to get windy later.", "correct": true, "feedback": "is going to 根据迹象预测天气变化,回应贴切。" },
+        { "text": "Yes, it got windy last night.", "correct": false, "feedback": "过去时谈昨晚,不能支持带伞的建议。" },
+        { "text": "No, I brought my lunch.", "correct": false, "feedback": "谈的是午饭,与天气无关。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "What will the weather be like this weekend?",
+      "lineCn": "这周末天气会怎么样?",
+      "grammar": [
+        { "name": "will 与 be going to 互换", "note": "预测天气时 will 和 be going to 均可表示将来的情况。" }
+      ],
+      "options": [
+        { "text": "It is going to be sunny and warm.", "correct": true, "feedback": "be going to 预测周末天气,回答自然。" },
+        { "text": "It was cold and dry last week.", "correct": false, "feedback": "过去时说的是上周,不是周末预报。" },
+        { "text": "It becomes rainy in the south.", "correct": false, "feedback": "一般现在时谈南方常态,与周末无关。" }
+      ]
+    }
+  ]
+}

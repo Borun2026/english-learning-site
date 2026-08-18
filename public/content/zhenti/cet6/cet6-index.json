@@ -1,0 +1,919 @@
+{
+ "version": 1,
+ "type": "cet6-passages",
+ "source": "wangqiyue26-lab/english-reading(仅供本地个人学习)",
+ "items": [
+  {
+   "id": "cet6-001",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第1套) Passage 1",
+   "title": "The Paris climate agreement finalised in December last year heralded a new er...",
+   "difficulty": "advanced",
+   "wordCount": 442
+  },
+  {
+   "id": "cet6-002",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第1套) Passage 2",
+   "title": "Teenagers at risk of depression, anxiety and suicide often wear their trouble...",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-003",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第2套) Passage 1",
+   "title": "Any veteran nicotine addict will testify that fancy packaging plays no role i...",
+   "difficulty": "advanced",
+   "wordCount": 447
+  },
+  {
+   "id": "cet6-004",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第2套) Passage 2",
+   "title": "What a waste of money",
+   "difficulty": "advanced",
+   "wordCount": 409
+  },
+  {
+   "id": "cet6-005",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第3套) Passage 1",
+   "title": "Dr",
+   "difficulty": "advanced",
+   "wordCount": 440
+  },
+  {
+   "id": "cet6-006",
+   "year": 2016,
+   "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第3套) Passage 2",
+   "title": "More than 100 years ago, American sociologist W",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-007",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第1套) Passage 1",
+   "title": "Interactive television advertising, which allows viewers to use their remote ...",
+   "difficulty": "advanced",
+   "wordCount": 431
+  },
+  {
+   "id": "cet6-008",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第1套) Passage 2",
+   "title": "What can be done about mass unemployment",
+   "difficulty": "advanced",
+   "wordCount": 445
+  },
+  {
+   "id": "cet6-009",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第2套) Passage 1",
+   "title": "Facing water shortages and escalating fertilizer costs, farmers in developing...",
+   "difficulty": "advanced",
+   "wordCount": 438
+  },
+  {
+   "id": "cet6-010",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第2套) Passage 2",
+   "title": "These days, nobody needs to cook",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-011",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第3套) Passage 1",
+   "title": "Manufactures of products that claim to be environmentally friendly will face ...",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-012",
+   "year": 2016,
+   "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第3套) Passage 2",
+   "title": "America's education system has become less a ladder of opportunity than a str...",
+   "difficulty": "advanced",
+   "wordCount": 447
+  },
+  {
+   "id": "cet6-013",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第1套) Passage 1",
+   "title": "You may have heard that Coca-Cola once contained an ingredient capable of spa...",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-014",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第1套) Passage 2",
+   "title": "Twenty years ago, the Urban Land Institute defined the two types of cities th...",
+   "difficulty": "advanced",
+   "wordCount": 429
+  },
+  {
+   "id": "cet6-015",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第2套) Passage 1",
+   "title": "In the beginning of the movie l, Robot, a robot has to decide whom to save af...",
+   "difficulty": "advanced",
+   "wordCount": 431
+  },
+  {
+   "id": "cet6-016",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第2套) Passage 2",
+   "title": "Questions 5i to 55 are based on the following passage",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-017",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第3套) Passage 1",
+   "title": "At the base of a mountain in Tanzania's Gregory Rift, Lake Natron burns brigh...",
+   "difficulty": "advanced",
+   "wordCount": 437
+  },
+  {
+   "id": "cet6-018",
+   "year": 2017,
+   "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第3套) Passage 2",
+   "title": "It is the season for some frantic last-minute math across the country, employ...",
+   "difficulty": "advanced",
+   "wordCount": 432
+  },
+  {
+   "id": "cet6-019",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第1套) Passage 1",
+   "title": "Open data sharers are still in the minority in many fields",
+   "difficulty": "advanced",
+   "wordCount": 471
+  },
+  {
+   "id": "cet6-020",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第1套) Passage 2",
+   "title": "Macy's reported its sales plunged 5",
+   "difficulty": "advanced",
+   "wordCount": 458
+  },
+  {
+   "id": "cet6-021",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第2套) Passage 1",
+   "title": "We live today indebted to McCardell, Cashin, Hawes, Wilkins, and Maxwell, and...",
+   "difficulty": "advanced",
+   "wordCount": 455
+  },
+  {
+   "id": "cet6-022",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第2套) Passage 2",
+   "title": "Massive rubbish dumps and sprawling landfills constitute one of the more unco...",
+   "difficulty": "advanced",
+   "wordCount": 451
+  },
+  {
+   "id": "cet6-023",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第3套) Passage 1",
+   "title": "Tennessee's technical and community colleges will not outsource (   ) managem...",
+   "difficulty": "advanced",
+   "wordCount": 437
+  },
+  {
+   "id": "cet6-024",
+   "year": 2017,
+   "source": "六级真题 2017年6月 · 2017年6月英语六级真题(第3套) Passage 2",
+   "title": "Beginning in the late sixteenth century, it became fashionable for young aris...",
+   "difficulty": "advanced",
+   "wordCount": 443
+  },
+  {
+   "id": "cet6-025",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第1套) Passage 1",
+   "title": "Perhaps it is time for farmers to put their feet up now that robots are used ...",
+   "difficulty": "advanced",
+   "wordCount": 444
+  },
+  {
+   "id": "cet6-026",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第1套) Passage 2",
+   "title": "The public must be able to understand the basics of science to make informed ...",
+   "difficulty": "advanced",
+   "wordCount": 423
+  },
+  {
+   "id": "cet6-027",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第2套) Passage 1",
+   "title": "While human achievements in mathematics continue to reach new levels of compl...",
+   "difficulty": "advanced",
+   "wordCount": 435
+  },
+  {
+   "id": "cet6-028",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第2套) Passage 2",
+   "title": "For years, the U",
+   "difficulty": "advanced",
+   "wordCount": 426
+  },
+  {
+   "id": "cet6-029",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第3套) Passage 1",
+   "title": "Children with attention problems in early childhood were 40% less likely to g...",
+   "difficulty": "advanced",
+   "wordCount": 426
+  },
+  {
+   "id": "cet6-030",
+   "year": 2018,
+   "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第3套) Passage 2",
+   "title": "On Jan",
+   "difficulty": "advanced",
+   "wordCount": 438
+  },
+  {
+   "id": "cet6-031",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第1套) Passage 1",
+   "title": "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W...",
+   "difficulty": "advanced",
+   "wordCount": 435
+  },
+  {
+   "id": "cet6-032",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第1套) Passage 2",
+   "title": "Photography was once an expensive, laborious ordeal reserved for life's great...",
+   "difficulty": "advanced",
+   "wordCount": 431
+  },
+  {
+   "id": "cet6-033",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第2套) Passage 1",
+   "title": "Human memory is notoriously unreliable",
+   "difficulty": "advanced",
+   "wordCount": 441
+  },
+  {
+   "id": "cet6-034",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第2套) Passage 2",
+   "title": "There're currently 21",
+   "difficulty": "advanced",
+   "wordCount": 451
+  },
+  {
+   "id": "cet6-035",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第3套) Passage 1",
+   "title": "Economically speaking are we better off than we were ten years ago Twenty yea...",
+   "difficulty": "advanced",
+   "wordCount": 471
+  },
+  {
+   "id": "cet6-036",
+   "year": 2018,
+   "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第3套) Passage 2",
+   "title": "If you've ever started a sentence with,\"If I were you",
+   "difficulty": "advanced",
+   "wordCount": 418
+  },
+  {
+   "id": "cet6-037",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第1套) Passage 1",
+   "title": "\" The dangerous thing about lying is people don't understand how the act chan...",
+   "difficulty": "advanced",
+   "wordCount": 451
+  },
+  {
+   "id": "cet6-038",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第1套) Passage 2",
+   "title": "Here's how the Pacific Northwest is preparing for \" The Big One\"",
+   "difficulty": "advanced",
+   "wordCount": 465
+  },
+  {
+   "id": "cet6-039",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第2套) Passage 1",
+   "title": "Last year, a child was born at a hospital in the UK with her heart outside he...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-040",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第2套) Passage 2",
+   "title": "* Industrial fishing for krill ( *F ) in the unspoilt waters around Antarctic...",
+   "difficulty": "advanced",
+   "wordCount": 476
+  },
+  {
+   "id": "cet6-041",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第3套) Passage 1",
+   "title": "Schools are not just a microcosm (  JJ ) of society; they mediate it too",
+   "difficulty": "advanced",
+   "wordCount": 459
+  },
+  {
+   "id": "cet6-042",
+   "year": 2019,
+   "source": "六级真题 2019年12月 · 2019年12月英语六级真题(第3套) Passage 2",
+   "title": "Rising temperatures and overfishing in the pristine ( 3f",
+   "difficulty": "advanced",
+   "wordCount": 472
+  },
+  {
+   "id": "cet6-043",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第1套) Passage 1",
+   "title": "Professor Stephen Hawking has warned that the creation of powerful artifcial ...",
+   "difficulty": "advanced",
+   "wordCount": 424
+  },
+  {
+   "id": "cet6-044",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第1套) Passage 2",
+   "title": "The market for products designed specifically for older adults could reach $3...",
+   "difficulty": "advanced",
+   "wordCount": 447
+  },
+  {
+   "id": "cet6-045",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第2套) Passage 1",
+   "title": "Effective Friday, Screen Actors Guild-American Federation of Television and R...",
+   "difficulty": "advanced",
+   "wordCount": 428
+  },
+  {
+   "id": "cet6-046",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第2套) Passage 2",
+   "title": "Officials at the White House announced a new space policy focused on managing...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-047",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第3套) Passage 1",
+   "title": "When I re-entered the full-time workforce a few years ago after a decade of s...",
+   "difficulty": "advanced",
+   "wordCount": 440
+  },
+  {
+   "id": "cet6-048",
+   "year": 2019,
+   "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第3套) Passage 2",
+   "title": "In a few decades, artificial intelligence (AI) will surpass many of the abili...",
+   "difficulty": "advanced",
+   "wordCount": 451
+  },
+  {
+   "id": "cet6-049",
+   "year": 2020,
+   "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第1套) Passage 1",
+   "title": "Questions 46 to SO are based on the following pge",
+   "difficulty": "advanced",
+   "wordCount": 462
+  },
+  {
+   "id": "cet6-050",
+   "year": 2020,
+   "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第1套) Passage 2",
+   "title": "Questions 51 to SS are based on the following passage",
+   "difficulty": "advanced",
+   "wordCount": 468
+  },
+  {
+   "id": "cet6-051",
+   "year": 2020,
+   "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第2套) Passage 1",
+   "title": "Vegetarians would prefer not to �be compelled to eat meat",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-052",
+   "year": 2020,
+   "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第3套) Passage 1",
+   "title": "Questions 46 to SO are based on the rollowing passage",
+   "difficulty": "advanced",
+   "wordCount": 461
+  },
+  {
+   "id": "cet6-053",
+   "year": 2020,
+   "source": "六级真题 2020年7月 · 2020年7月英语六级真题(组合卷) Passage 1",
+   "title": "People often discuss the dangers of too much stress, but lately a very differ...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-054",
+   "year": 2020,
+   "source": "六级真题 2020年7月 · 2020年7月英语六级真题(组合卷) Passage 2",
+   "title": "Is hunting good or bad for the environment",
+   "difficulty": "advanced",
+   "wordCount": 437
+  },
+  {
+   "id": "cet6-055",
+   "year": 2020,
+   "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第1套) Passage 1",
+   "title": "It is not controversial to say that an unhealthy diet causes bad health",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-056",
+   "year": 2020,
+   "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第1套) Passage 2",
+   "title": "Home to virgin reefs, rare sharks and vast numbers of exotic fish, the Coral ...",
+   "difficulty": "advanced",
+   "wordCount": 478
+  },
+  {
+   "id": "cet6-057",
+   "year": 2020,
+   "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第2套) Passage 1",
+   "title": "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,...",
+   "difficulty": "advanced",
+   "wordCount": 472
+  },
+  {
+   "id": "cet6-058",
+   "year": 2020,
+   "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第2套) Passage 2",
+   "title": "Organic agriculture is a relatively untapped resource for feeding the Earth's...",
+   "difficulty": "advanced",
+   "wordCount": 459
+  },
+  {
+   "id": "cet6-059",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第1套) Passage 1",
+   "title": "Social media is absolutely everywhere",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-060",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第1套) Passage 2",
+   "title": "In recent years, the food industry has increased its use of labels",
+   "difficulty": "advanced",
+   "wordCount": 451
+  },
+  {
+   "id": "cet6-061",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第2套) Passage 1",
+   "title": "The trend toward rationality and enlightenment was endangered long before the...",
+   "difficulty": "advanced",
+   "wordCount": 466
+  },
+  {
+   "id": "cet6-062",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第2套) Passage 2",
+   "title": "According to a recent study, a small but growing proportion of the workforce ...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-063",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第3套) Passage 1",
+   "title": "The subject of automation and its role in our economy has taken hold in Ameri...",
+   "difficulty": "advanced",
+   "wordCount": 453
+  },
+  {
+   "id": "cet6-064",
+   "year": 2021,
+   "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第3套) Passage 2",
+   "title": "Look at the people around you",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-065",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第1套) Passage 1",
+   "title": "Humans are fascinated by the source of their failings and virtues",
+   "difficulty": "advanced",
+   "wordCount": 453
+  },
+  {
+   "id": "cet6-066",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第1套) Passage 2",
+   "title": "Questions 51 to SS are based on the following passage",
+   "difficulty": "advanced",
+   "wordCount": 456
+  },
+  {
+   "id": "cet6-067",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第2套) Passage 1",
+   "title": "We often think of drawing as something that takes inborn talent, but this kin...",
+   "difficulty": "advanced",
+   "wordCount": 449
+  },
+  {
+   "id": "cet6-068",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第2套) Passage 2",
+   "title": "Questions 51 to SS are based on the following passage",
+   "difficulty": "advanced",
+   "wordCount": 465
+  },
+  {
+   "id": "cet6-069",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第3套) Passage 1",
+   "title": "You can't see it, smell it, or hear it, and people disagree on how precisely ...",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-070",
+   "year": 2021,
+   "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第3套) Passage 2",
+   "title": "Emulating your conversation partner's actions is a common human behavior clas...",
+   "difficulty": "advanced",
+   "wordCount": 436
+  },
+  {
+   "id": "cet6-071",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第1套) Passage 1",
+   "title": "Many people associate their self-worth with their work",
+   "difficulty": "advanced",
+   "wordCount": 445
+  },
+  {
+   "id": "cet6-072",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第1套) Passage 2",
+   "title": "Degradation of the world's natural resources by humans is rapidly outpacing t...",
+   "difficulty": "advanced",
+   "wordCount": 444
+  },
+  {
+   "id": "cet6-073",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第2套) Passage 1",
+   "title": "Some people in the US have asserted that forgiving student loan debt is one w...",
+   "difficulty": "advanced",
+   "wordCount": 426
+  },
+  {
+   "id": "cet6-074",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第2套) Passage 2",
+   "title": "If there's one rule that most parents cling to in the confusing, fast-changin...",
+   "difficulty": "advanced",
+   "wordCount": 455
+  },
+  {
+   "id": "cet6-075",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第3套) Passage 1",
+   "title": "How can one person enjoy good health, while another person looks old before h...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-076",
+   "year": 2022,
+   "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第3套) Passage 2",
+   "title": "Scientists have created by accident an enzyme () that breaks down plastic dri...",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-077",
+   "year": 2022,
+   "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第1套) Passage 1",
+   "title": "Selective colleges and universities in the U",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-078",
+   "year": 2022,
+   "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第1套) Passage 2",
+   "title": "When a group of Australians was asked why they believed climate change was no...",
+   "difficulty": "advanced",
+   "wordCount": 449
+  },
+  {
+   "id": "cet6-079",
+   "year": 2022,
+   "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第2套) Passage 1",
+   "title": "Since American idol star Taryn Southern started composing music with AI in 20...",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-080",
+   "year": 2022,
+   "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第2套) Passage 2",
+   "title": "A few weeks ago, a well-meaning professor tried to explain the physiological ...",
+   "difficulty": "advanced",
+   "wordCount": 445
+  },
+  {
+   "id": "cet6-081",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第1套) Passage 1",
+   "title": "One of the great successes of the Republican Party in recent decades is the r...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-082",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第1套) Passage 2",
+   "title": "Journal editors decide what gets published and what doesn't, affecting the ca...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-083",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第2套) Passage 1",
+   "title": "Could you get by without using the internet for four and a half years",
+   "difficulty": "advanced",
+   "wordCount": 458
+  },
+  {
+   "id": "cet6-084",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第2套) Passage 2",
+   "title": "Psychologists have long been in disagreement as to whether competition is a l...",
+   "difficulty": "advanced",
+   "wordCount": 453
+  },
+  {
+   "id": "cet6-085",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第3套) Passage 1",
+   "title": "Research is meant to benefit society by raising public awareness and creating...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-086",
+   "year": 2023,
+   "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第3套) Passage 2",
+   "title": "Spiders make their presence felt in late August and through early autumn",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-087",
+   "year": 2023,
+   "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第1套) Passage 1",
+   "title": "Technology is never a neutral tool for achieving human ends",
+   "difficulty": "advanced",
+   "wordCount": 456
+  },
+  {
+   "id": "cet6-088",
+   "year": 2023,
+   "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第1套) Passage 2",
+   "title": "Phonics, which involves sounding out words syllable () by syllable, is the be...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-089",
+   "year": 2023,
+   "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第3套) Passage 1",
+   "title": "How on earth did we come to this",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-090",
+   "year": 2023,
+   "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第3套) Passage 2",
+   "title": "Many oppose workplace surveillance, because of the inherent dehumanizing effe...",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-091",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第1套) Passage 1",
+   "title": "Imagine you're an alien sent to Earth to document the behaviour of the mammal...",
+   "difficulty": "advanced",
+   "wordCount": 453
+  },
+  {
+   "id": "cet6-092",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第1套) Passage 2",
+   "title": "An awakening has been taking place in the physical world against the beauty m...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-093",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第2套) Passage 1",
+   "title": "With population increases and global urbanisation ever accelerating, much att...",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-094",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第2套) Passage 2",
+   "title": "Statements, like \"beauty is in the eye of the beholder ()\", are rarely questi...",
+   "difficulty": "advanced",
+   "wordCount": 453
+  },
+  {
+   "id": "cet6-095",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第3套) Passage 1",
+   "title": "There are hundreds of personality quizzes online that assert they can ascerta...",
+   "difficulty": "advanced",
+   "wordCount": 447
+  },
+  {
+   "id": "cet6-096",
+   "year": 2024,
+   "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第3套) Passage 2",
+   "title": "One hundred thirty-five students, four teachers, one giant classroom: This is...",
+   "difficulty": "advanced",
+   "wordCount": 454
+  },
+  {
+   "id": "cet6-097",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第1套) Passage 1",
+   "title": "Sarcasm and jazz have something surprisingly in common: You know them when yo...",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-098",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第1套) Passage 2",
+   "title": "Variability is crucially important for learning new skills",
+   "difficulty": "advanced",
+   "wordCount": 448
+  },
+  {
+   "id": "cet6-099",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第2套) Passage 1",
+   "title": "It is irrefutable that employees know the difference between right and wrong",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-100",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第2套) Passage 2",
+   "title": "The term \"environmentalist\" can mean different things",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-101",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第3套) Passage 1",
+   "title": "The \"American Dream\" promises that in the Land of Opportunity, any individual...",
+   "difficulty": "advanced",
+   "wordCount": 456
+  },
+  {
+   "id": "cet6-102",
+   "year": 2024,
+   "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第3套) Passage 2",
+   "title": "When someone asks us \"what do you do",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-103",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第1套) Passage 1",
+   "title": "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable s...",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "cet6-104",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第1套) Passage 2",
+   "title": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr",
+   "difficulty": "advanced",
+   "wordCount": 457
+  },
+  {
+   "id": "cet6-105",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第2套) Passage 1",
+   "title": "As interdependent beings we cannot thrive independent of others",
+   "difficulty": "advanced",
+   "wordCount": 447
+  },
+  {
+   "id": "cet6-106",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第2套) Passage 2",
+   "title": "People who repeatedly give unwanted advice can be well-meaning and genuinely ...",
+   "difficulty": "advanced",
+   "wordCount": 446
+  },
+  {
+   "id": "cet6-107",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第3套) Passage 1",
+   "title": "Mindfulness has been shown to have a number of meaningful health benefits -- ...",
+   "difficulty": "advanced",
+   "wordCount": 455
+  },
+  {
+   "id": "cet6-108",
+   "year": 2025,
+   "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第3套) Passage 2",
+   "title": "The other day I had to log into a service I hadn't used before",
+   "difficulty": "advanced",
+   "wordCount": 455
+  },
+  {
+   "id": "cet6-109",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第1套) Passage 1",
+   "title": "Nationally, one in six children miss 15 or more days of school in a year",
+   "difficulty": "advanced",
+   "wordCount": 455
+  },
+  {
+   "id": "cet6-110",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第1套) Passage 2",
+   "title": "After earning a bachelor's degree, I was determined to do what I love",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-111",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第2套) Passage 1",
+   "title": "Simulators are most often utilized within industries such as nuclear power, a...",
+   "difficulty": "advanced",
+   "wordCount": 452
+  },
+  {
+   "id": "cet6-112",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第2套) Passage 2",
+   "title": "GDP growth is not a good indicator of how well a country is performing, and s...",
+   "difficulty": "advanced",
+   "wordCount": 445
+  },
+  {
+   "id": "cet6-113",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第3套) Passage 1",
+   "title": "Why are we so worried about our careers",
+   "difficulty": "advanced",
+   "wordCount": 456
+  },
+  {
+   "id": "cet6-114",
+   "year": 2025,
+   "source": "六级真题 2025年6月 · 2025年6月英语六级真题(第3套) Passage 2",
+   "title": "Women have historically been paid less",
+   "difficulty": "advanced",
+   "wordCount": 458
+  }
+ ]
+}

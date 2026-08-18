@@ -1,0 +1,61 @@
+{
+ "id": "cet6-006",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第3套) Passage 2",
+ "title": "More than 100 years ago, American sociologist W",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 446,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "More than 100 years ago, American sociologist W. E. B. Du Bois was concerned that race was being used as a biological explanation for what he understood to be social and cultural differences between different populations of people. He spoke out against the idea of \"white\" and \"black\" as distinct groups, claiming that these distinctions ignored the scope of human diversity.",
+  "Science would favor Du Bois. Today, the mainstream belief among scientists is that race is a social construct without biological meaning. In an article published in the journal Science, four scholars say racial categories need to be phased out.",
+  "\"EssentiallyI could not agree more with the authors,\" said Svante Paabo, a biologist and director of the Max Planck Institute for Evolutionary Anthropology in Germany. In one example that demonstrated genetic differences were not fixed along racial lines, the full genomes of James Watson and Craig Venter, two famous American scientists of European ancestry, were compared to that of a Korean scientist, Seong-Jin Kim. It turned out that Watson and Venter shared fewer variations in their genetic sequences than they each shared with Kim.",
+  "Michael Yudell, a professor of public health at Drexel University in Philadelphia, said that modem genetics research is operating in a paradox: on the one hand, race is understood to be a useful tool to illuminate human genetic diversity, but on the other hand, race is also understood to be a poorly defined marker of that diversity.",
+  "Assumptions about genetic differences between people of different races could be particularly dangerous in a medical setting. \"If you make clinical predictions based on somebody's race, you're going to be wrong a good chunk of the time, Yudell told Live Science. In the paper, he and his colleagues used the example of cystic fibrosis, which is underdiagnosed in people of African ancestry because it is thought of as a \"white\" disease.",
+  "So what other variables could be used if the racial concept is thrown out? Yudell said scientists need to get more specific with their language, perhaps using terms like \"ancestry\" or \"population\" that might more precisely reflect the relationship between humans and their genes, on both the individual and population level. The researchers also acknowledged that there are a few areas where race as a construct might still be useful in scientific research: as a political and social, but not biological, variable.",
+  "\"While we argue phasing out racial terminology in the biological sciences, we also acknowledge that using race as a political or social category to study racism, although filled with lots of challenges, remains necessary given our need to understand how structural inequities and discrimination produce health disparities between groups.\". Yudell said"
+ ],
+ "questions": [
+  {
+   "q": "文中 “black” 最接近的意思是?",
+   "options": [
+    "物品",
+    "残余",
+    "黑色的",
+    "例子，实例"
+   ],
+   "answer": 2,
+   "analysis": "“black” 意为「黑色的」。原文语境:He spoke out against the idea of \"white\" and \"black\" as distinct groups, claiming that these distinctions ignored the scope of human diversity.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:So what other variables could be used if the racial ___ is thrown out?",
+   "options": [
+    "example",
+    "professor",
+    "Science",
+    "concept"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“So what other variables could be used if the racial concept is thrown out?”。空格处应填入 “concept”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "If you've ever started a sentence with,\"If I were you",
+    "Psychologists have long been in disagreement as to whether competition is a l",
+    "Manufactures of products that claim to be environmentally friendly will face",
+    "More than 100 years ago, American sociologist W"
+   ],
+   "answer": 3,
+   "analysis": "本文以“More than 100 years ago, American sociologist W.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

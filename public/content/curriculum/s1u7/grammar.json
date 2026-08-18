@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u7",
+  "stage": 1,
+  "title": "形容词与副词基础",
+  "explanation": "## 形容词与副词的职责\n\n- **形容词**修饰名词,说明人或物的特征:beautiful girl、big house。位置在名词前,或放在 be 动词后作表语(She is happy.)。\n- **副词**修饰动词、形容词或另一个副词:run quickly、very beautiful。说明动作的方式、程度或时间。\n\n## 副词的形成\n\n- 大多数副词由形容词加 -ly 构成:quick→quickly、careful→carefully。\n- 注意特殊形式:good 的副词是 **well**(She sings well.),fast 既是形容词也是副词。\n\n## 常见位置\n\n| 修饰对象 | 位置 | 例句 |\n|---|---|---|\n| 动词 | 动词后 | He works hard. |\n| 形容词 | 形容词前 | It is very cold. |\n| be 动词后 | 表语 | The room is clean. |\n\n判断口诀:形容词修饰\"名词\",副词修饰\"动作\"。",
+  "examples": [
+    { "en": "She is a beautiful girl.", "cn": "她是一个漂亮的女孩。", "note": "beautiful 是形容词,修饰名词 girl。" },
+    { "en": "He runs very fast.", "cn": "他跑得很快。", "note": "fast 作副词修饰动词 runs,very 修饰 fast。" },
+    { "en": "They speak English well.", "cn": "他们英语说得好。", "note": "修饰动词 speak 用副词 well,不能说 good。" },
+    { "en": "The room is clean and tidy.", "cn": "房间干净整洁。", "note": "clean 是形容词,在 be 动词后作表语。" }
+  ],
+  "errors": [
+    { "wrong": "She sings good.", "right": "She sings well.", "note": "修饰动词 sing 用副词 well,不用形容词 good。" },
+    { "wrong": "He drives careful.", "right": "He drives carefully.", "note": "修饰动词 drive 要用副词 carefully。" },
+    { "wrong": "She is very happily.", "right": "She is very happy.", "note": "be 动词后用形容词 happy 作表语,不用副词。" }
+  ],
+  "quiz": [
+    { "q": "She is a ___ girl.", "options": ["beauty", "beautiful", "beautifully", "beautify"], "answer": 1, "note": "名词 girl 前用形容词 beautiful。" },
+    { "q": "He speaks English ___.", "options": ["good", "well", "best", "goodly"], "answer": 1, "note": "修饰动词 speak 用副词 well。" },
+    { "q": "The little dog runs ___.", "options": ["slow", "slowly", "slower", "slowest"], "answer": 1, "note": "修饰动词 run 用副词 slowly。" },
+    { "q": "She feels ___ today.", "options": ["happy", "happily", "happiness", "very"], "answer": 0, "note": "feel 是系动词,后面用形容词 happy 作表语。" },
+    { "q": "This is a ___ day.", "options": ["sun", "sunny", "sunnily", "cloud"], "answer": 1, "note": "名词 day 前用形容词 sunny。" }
+  ]
+}

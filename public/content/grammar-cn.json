@@ -1,0 +1,886 @@
+{
+ "version": 1,
+ "source": "本平台整理:Murphy 章节对照原著主题,CEFR 规则按原文条目注释;由 scripts/build_grammar_cn.py 生成",
+ "rules": {
+  "am / is / are": [
+   "be 动词",
+   "am 用于 I,is 用于第三人称单数,are 用于 you/we/they;构成主系表句型。"
+  ],
+  "Present Simple": [
+   "一般现在时",
+   "表示习惯、事实与普遍真理;第三人称单数动词加 -s/-es。"
+  ],
+  "Stative verbs": [
+   "状态动词",
+   "表示状态而非动作(如 know/like/want),通常不用进行时。"
+  ],
+  "This / that / these / those": [
+   "指示代词",
+   "this/these 指近处,that/those 指远处;单数 this/that,复数 these/those。"
+  ],
+  "There is / there are": [
+   "There be 句型",
+   "表示某处存在某物;is 接单数/不可数,are 接复数。"
+  ],
+  "can / can't": [
+   "情态动词 can",
+   "表示能力、允许与可能性;否定 can't,could 是其过去式。"
+  ],
+  "Past Simple": [
+   "一般过去时",
+   "表示过去已结束的动作;规则动词加 -ed,不规则动词需单独记忆。"
+  ],
+  "was / were": [
+   "be 的过去式",
+   "was 用于 I/he/she/it,were 用于 you/we/they。"
+  ],
+  "will": [
+   "一般将来 will",
+   "表示预测、承诺或临时决定;后接动词原形。"
+  ],
+  "going to": [
+   "be going to 将来",
+   "表示计划打算或有迹象将要发生的事。"
+  ],
+  "Present Continuous: am/is/are + V-ing": [
+   "现在进行时",
+   "表示此刻正在进行的动作或临时安排。"
+  ],
+  "Present Simple vs Present Continuous": [
+   "一般现在时 vs 现在进行时",
+   "习惯/事实用一般现在时;此刻正在发生用进行时。"
+  ],
+  "should / shouldn't": [
+   "should 建议",
+   "表示建议与义务;否定 shouldn't。"
+  ],
+  "must / mustn't": [
+   "must 必须/禁止",
+   "must 表强烈义务,mustn't 表禁止。"
+  ],
+  "have to": [
+   "have to 不得不",
+   "表示客观必须;第三人称用 has to。"
+  ],
+  "could": [
+   "could 能力/可能",
+   "can 的过去式,也用于委婉请求与推测。"
+  ],
+  "some / any": [
+   "some / any",
+   "some 用于肯定句,any 用于否定与疑问。"
+  ],
+  "much / many / a lot of / a few / a littl": [
+   "数量词",
+   "much+不可数,many+可数复数;a lot of 通用;a few/a little 表少量肯定。"
+  ],
+  "for / since / ago": [
+   "时间介词",
+   "for+时间段,since+起点,ago 用于一般过去时。"
+  ],
+  "have got": [
+   "have got 拥有",
+   "英式口语表拥有;疑问与否定用 Have you got…?"
+  ],
+  "Present Perfect": [
+   "现在完成时",
+   "have/has+过去分词;表示经历或对现在的影响。"
+  ],
+  "ever / never / already / yet / just": [
+   "完成时标志词",
+   "ever 曾经,never 从未,already 已经(肯定),yet 还(否定/疑问),just 刚刚。"
+  ],
+  "Present Perfect vs Past Simple": [
+   "现在完成 vs 一般过去",
+   "时间明确用过去时;侧重现在结果用完成时。"
+  ],
+  "Present Perfect Continuous: have been + ": [
+   "现在完成进行时",
+   "强调动作持续到现在;have/has been doing。"
+  ],
+  "Past Continuous: was/were + V-ing": [
+   "过去进行时",
+   "表示过去某时刻正在进行的动作,常作背景。"
+  ],
+  "Past Simple vs Past Continuous": [
+   "一般过去 vs 过去进行",
+   "长动作背景用进行时,短动作打断用一般过去。"
+  ],
+  "Passive Voice": [
+   "被动语态",
+   "be+过去分词;强调承受者或不知施动者。"
+  ],
+  "Reported Speech": [
+   "间接引语",
+   "转述他人话语;时态一般后退一格,人称时间地点相应调整。"
+  ],
+  "Reported questions": [
+   "间接疑问句",
+   "转述疑问用陈述语序;if/whether 引导一般疑问。"
+  ],
+  "used to": [
+   "used to 过去习惯",
+   "表示过去经常但现在不再;后接动词原形。"
+  ],
+  "Future Continuous: will be + V-ing": [
+   "将来进行时",
+   "表示将来某时刻正在进行的动作。"
+  ],
+  "Future Perfect: will have + V3": [
+   "将来完成时",
+   "到将来某时已完成的动作;常与 by+时间连用。"
+  ],
+  "Past Perfect Simple: had + V3": [
+   "过去完成时",
+   "表示「过去的过去」;had+过去分词。"
+  ],
+  "Past Perfect Continuous: had been + V-in": [
+   "过去完成进行时",
+   "过去某时前一直持续的动作;had been doing。"
+  ],
+  "must have + V3": [
+   "对过去推测(肯定)",
+   "几乎肯定过去发生:must have done。"
+  ],
+  "can't have + V3": [
+   "对过去推测(否定)",
+   "几乎肯定过去没发生:can't have done。"
+  ],
+  "should have + V3": [
+   "本该做而未做",
+   "should have done 表遗憾或责备。"
+  ],
+  "might / could have + V3": [
+   "过去可能性",
+   "过去可能发生但不确定。"
+  ],
+  "Causative have/get: have something done": [
+   "使役结构",
+   "让别人做某事:have/get sth done。"
+  ],
+  "Passive reporting verbs: It is said that": [
+   "被动转述结构",
+   "It is said/believed/reported that… 据说/据报道。"
+  ],
+  "remember / forget + V-ing vs to-inf": [
+   "remember/forget 双宾语",
+   "+doing 指已做,+to do 指将做。"
+  ],
+  "stop / regret / mean + V-ing vs to-inf": [
+   "stop/regret/mean 辨析",
+   "stop doing 停止做;stop to do 停下来去做;regret/mean 类似区分。"
+  ],
+  "wish + Past Simple": [
+   "wish 对现在虚拟",
+   "希望现在不同:wish+过去式。"
+  ],
+  "wish + Past Perfect": [
+   "wish 对过去虚拟",
+   "后悔过去:wish+had done。"
+  ],
+  "wish + would": [
+   "wish 对他人抱怨",
+   "希望他人改变习惯:wish+would。"
+  ],
+  "be used to / get used to + V-ing": [
+   "习惯于",
+   "be/get used to+doing 表习惯;区别于 used to do 过去习惯。"
+  ],
+  "Future in the Past: would / was going to": [
+   "过去将来时",
+   "从过去角度看将来:would/was going to do。"
+  ],
+  "be to": [
+   "be to 正式安排",
+   "表官方计划/命令:be to do。"
+  ],
+  "ought to": [
+   "ought to 义务",
+   "与 should 相近,语气更正式。"
+  ],
+  "need": [
+   "need 需要",
+   "可作实义动词或情态动词;needn't 表不必。"
+  ],
+  "dare": [
+   "dare 敢于",
+   "可作情态动词或实义动词,多用于否定/疑问。"
+  ],
+  "It-cleft: It was John who called.": [
+   "强调句(It 分裂句)",
+   "It is/was+被强调部分+that/who…,强调主语宾语状语。"
+  ],
+  "Wh-cleft: What surprised me was the pric": [
+   "强调句(Wh 分裂句)",
+   "What+从句+be+表语,强调信息。"
+  ],
+  "It's high time + Past Simple": [
+   "早该做某事",
+   "It's (high) time+过去式,表虚拟:早该……了。"
+  ],
+  "I think so / I hope so / I'm afraid so": [
+   "替代从句的 so",
+   "so 代替上文从句;否定用 I don't think so / I hope not。"
+  ],
+  "Suppose / supposing / what if": [
+   "假设表达",
+   "提出假设:Suppose/Supposing/What if+从句。"
+  ],
+  "Future Perfect Continuous: will have bee": [
+   "将来完成进行时",
+   "到将来某时已持续多久:will have been doing。"
+  ]
+ },
+ "cefr": {
+  "A1": [
+   {
+    "category": "to be",
+    "cn": "be 动词",
+    "guide": "本小节讲 be 动词的肯定、否定与疑问(am/is/are)及主系表句型,是本平台 s1u1「基本句型与 be 动词」的核心语法。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:3 条规则。本小节覆盖:Rule a1_05、Rule a1_06、Rule a1_07。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 3
+   },
+   {
+    "category": "Present Simple",
+    "cn": "一般现在时",
+    "guide": "讲一般现在时的构成、第三人称单数变化,以及表示状态的状态动词(stative verbs),对应 s1u2。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:Rule a1_12、Rule a1_13、Rule a1_14、指示代词。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:5 条规则。本小节覆盖:There be 句型、Rule a1_17、Rule a1_18、情态动词 can、Rule a1_20。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 5
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule a1_21、Rule a1_22。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:1 条规则。本小节覆盖:Rule a1_23。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 1
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:1 条规则。本小节覆盖:Rule a1_24。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 1
+   }
+  ],
+  "A2": [
+   {
+    "category": "Past Simple",
+    "cn": "一般过去时",
+    "guide": "讲过去式构成(规则与不规则动词)、was/were 用法,对应 s1u3「一般过去时」。",
+    "rules": 5
+   },
+   {
+    "category": "Future",
+    "cn": "将来时",
+    "guide": "will 与 be going to 的用法与区别,对应 s1u4 与 s2u11。",
+    "rules": 2
+   },
+   {
+    "category": "Present Continuous",
+    "cn": "现在进行时",
+    "guide": "进行时构成、与一般现在时的区别,对应 s2u1「进行时」。",
+    "rules": 3
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:should 建议、must 必须/禁止、have to 不得不、could 能力/可能。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:5 条规则。本小节覆盖:Rule a2_15、Rule a2_16、some / any、much / many / a lot of / a few / a little、Rule a2_19。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 5
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule a2_20、时间介词。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "A2",
+    "cn": "A2 综合",
+    "guide": "A2 级别的综合语法条目,建议用于查缺补漏。",
+    "rules": 1
+   },
+   {
+    "category": "have / have got",
+    "cn": "have / have got",
+    "guide": "表示拥有的两种说法及其疑问、否定形式。",
+    "rules": 1
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule a2_24、Rule a2_25。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:1 条规则。本小节覆盖:Rule a2_26。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 1
+   }
+  ],
+  "B1": [
+   {
+    "category": "Present Perfect",
+    "cn": "现在完成时",
+    "guide": "完成时构成、标志词、与一般过去时的对比及完成进行时,对应 s2u2「现在完成时」。",
+    "rules": 5
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:过去进行时、一般过去 vs 过去进行。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s2u1「进行时」、s1u3「一般过去时」。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:Rule b1_08、Rule b1_09、Rule b1_10、Rule b1_11。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "(Passive)",
+    "cn": "被动语态",
+    "guide": "被动语态的构成与常用时态被动,对应 s2u6「被动语态」。",
+    "rules": 3
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:3 条规则。本小节覆盖:间接引语、间接疑问句、Rule b1_17。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s3u5「名词性从句」、s3u5「名词性从句」。",
+    "rules": 3
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:Rule b1_18、Rule b1_19、Rule b1_20、used to 过去习惯。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule b1_22、Rule b1_23。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:将来进行时、将来完成时。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s1u4「一般将来时」、s1u4「一般将来时」。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule b1_26、Rule b1_27。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   }
+  ],
+  "B2": [
+   {
+    "category": "Past Perfect",
+    "cn": "过去完成时",
+    "guide": "过去完成与过去完成进行时的用法,对应 s2u3「过去完成时」。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:对过去推测(肯定)、对过去推测(否定)、本该做而未做、过去可能性。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule b2_07、Rule b2_08。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:3 条规则。本小节覆盖:Rule b2_09、使役结构、Passive reporting verbs: It is said that... / He is believed to...。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s2u6「被动语态」。",
+    "rules": 3
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:remember/forget 双宾语、stop/regret/mean 辨析。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Wish",
+    "cn": "wish 虚拟",
+    "guide": "wish 对现在/过去/将来的三种虚拟表达,对应 s3u2「wish 虚拟语气」。",
+    "rules": 3
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule b2_17、Rule b2_18。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule b2_19、习惯于。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Future in the Past",
+    "cn": "过去将来时",
+    "guide": "从过去视角看将来(would/was going to),以及 be to/ought to/need/dare 等半情态动词。",
+    "rules": 5
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:Rule b2_26、Rule b2_27、Rule b2_28、Rule b2_29。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   }
+  ],
+  "C1": [
+   {
+    "category": "(Inversion)",
+    "cn": "倒装句",
+    "guide": "否定词、only 等前置引起的高级倒装结构,对应 s3u6「倒装句」。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:强调句(It 分裂句)、Wh-cleft: What surprised me was the price.。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s3u7「强调句」、s3u7「强调句」。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:3 条规则。本小节覆盖:Rule c1_07、早该做某事、Rule c1_09。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。 命中本平台单元:s1u3「一般过去时」。",
+    "rules": 3
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c1_10、替代从句的 so。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c1_12、Rule c1_13。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c1_14、Rule c1_15。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c1_16、Rule c1_17。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   }
+  ],
+  "C2": [
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c2_01、假设表达。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "—",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c2_03、Rule c2_04。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c2_05、Rule c2_06。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:4 条规则。本小节覆盖:Rule c2_07、Rule c2_08、Rule c2_09、Rule c2_10。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:1 条规则。本小节覆盖:Rule c2_11。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 1
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c2_12、Rule c2_13。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Future Perfect Continuous",
+    "cn": "将来完成进行时",
+    "guide": "will have been doing 的构成与「到将来某时已持续」的语义。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:2 条规则。本小节覆盖:Rule c2_16、Rule c2_17。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "综合语法模块",
+    "guide": "综合语法模块:3 条规则。本小节覆盖:Rule c2_18、Rule c2_19、Rule c2_20。学习建议:逐条点开查看英文规则、例句与易错对照,已映射的规则可直接打开中文语法课。",
+    "rules": 3
+   }
+  ]
+ },
+ "murphy": {
+  "EL": [
+   {
+    "category": "Present —",
+    "cn": "现在时总览(Unit 1-9)",
+    "guide": "am/is/are、一般现在时与现在进行时的构成、疑问与否定,红书入门核心;对照本平台 s1u1-s1u2 与 s2u1 学习。",
+    "rules": 9
+   },
+   {
+    "category": "Past —",
+    "cn": "过去时(Unit 10-14)",
+    "guide": "was/were、规则与不规则过去式、过去进行时;对照 s1u3。",
+    "rules": 5
+   },
+   {
+    "category": "Present Perfect Present Perfect Continuous",
+    "cn": "现在完成时(Unit 15-20)",
+    "guide": "完成时构成、标志词与完成进行时;对照 s2u2。",
+    "rules": 6
+   },
+   {
+    "category": "(Passive)",
+    "cn": "(Passive",
+    "guide": "本章收录 Unit 合集,共 2 条;逐条点开对照原著学习。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "be/have/do 综合(Unit 23-24)",
+    "guide": "be/have/do 三种基本动词在时态、疑问与否定中的综合运用;建议对照 s1u1-s1u3 复习。",
+    "rules": 2
+   },
+   {
+    "category": "Future —",
+    "cn": "将来时(Unit 25-27)",
+    "guide": "will/be going to 与现在时表将来;对照 s1u4 与 s2u11。",
+    "rules": 3
+   },
+   {
+    "category": "(Modal Verbs)",
+    "cn": "(Modal Verbs",
+    "guide": "本章收录 Unit 合集,共 9 条;逐条点开对照原著学习。",
+    "rules": 9
+   },
+   {
+    "category": "(Word Order)",
+    "cn": "(Word Order",
+    "guide": "本章收录 Unit 合集,共 7 条;逐条点开对照原著学习。",
+    "rules": 7
+   },
+   {
+    "category": "(Questions)",
+    "cn": "(Questions",
+    "guide": "本章收录 Unit 合集,共 6 条;逐条点开对照原著学习。",
+    "rules": 6
+   },
+   {
+    "category": "(Reported Speech)",
+    "cn": "(Reported Speech",
+    "guide": "本章收录 Unit 合集,共 1 条;逐条点开对照原著学习。",
+    "rules": 1
+   },
+   {
+    "category": "(Infinitive & Gerund)",
+    "cn": "(Infinitive & Gerund",
+    "guide": "本章收录 Unit 合集,共 4 条;逐条点开对照原著学习。",
+    "rules": 4
+   },
+   {
+    "category": "Grammar",
+    "cn": "be/have/do 综合(Unit 23-24)",
+    "guide": "be/have/do 三种基本动词在时态、疑问与否定中的综合运用;建议对照 s1u1-s1u3 复习。",
+    "rules": 4
+   },
+   {
+    "category": "(Pronouns) — 1",
+    "cn": "(Pronouns) — 1",
+    "guide": "本章收录 Unit 合集,共 6 条;逐条点开对照原著学习。",
+    "rules": 6
+   },
+   {
+    "category": "A THE",
+    "cn": "冠词(Unit 65-73)",
+    "guide": "a/an/the 的基本用法与不用冠词的情形;对照 s1u5。",
+    "rules": 9
+   },
+   {
+    "category": "(Pronouns) — 2",
+    "cn": "(Pronouns) — 2",
+    "guide": "本章收录 Unit 合集,共 11 条;逐条点开对照原著学习。",
+    "rules": 11
+   },
+   {
+    "category": "(Adjectives & Adverbs)",
+    "cn": "(Adjectives & Adverbs",
+    "guide": "本章收录 Unit 合集,共 8 条;逐条点开对照原著学习。",
+    "rules": 8
+   },
+   {
+    "category": "(Word Order) —",
+    "cn": "(Word Order",
+    "guide": "本章收录 Unit 合集,共 4 条;逐条点开对照原著学习。",
+    "rules": 4
+   },
+   {
+    "category": "(Conjunctions)",
+    "cn": "(Conjunctions",
+    "guide": "本章收录 Unit 合集,共 6 条;逐条点开对照原著学习。",
+    "rules": 6
+   },
+   {
+    "category": "(Prepositions)",
+    "cn": "(Prepositions",
+    "guide": "本章收录 Unit 合集,共 11 条;逐条点开对照原著学习。",
+    "rules": 11
+   },
+   {
+    "category": "(Phrasal Verbs)",
+    "cn": "(Phrasal Verbs",
+    "guide": "本章收录 Unit 合集,共 2 条;逐条点开对照原著学习。",
+    "rules": 2
+   }
+  ],
+  "INT": [
+   {
+    "category": "Present Simple Present Continuous",
+    "cn": "现在时(Unit 1-4)",
+    "guide": "一般现在时与现在进行时的对比、状态动词与临时状态。",
+    "rules": 4
+   },
+   {
+    "category": "Past Simple Past Continuous",
+    "cn": "过去时(Unit 5-6)",
+    "guide": "两种过去时在叙述中的配合。",
+    "rules": 2
+   },
+   {
+    "category": "Present Perfect Present Perfect Continuous",
+    "cn": "现在完成(Unit 7-14)",
+    "guide": "完成时与完成进行时、与过去时的边界;对照 s2u2。",
+    "rules": 8
+   },
+   {
+    "category": "Past Perfect Past Perfect Continuous",
+    "cn": "过去完成(Unit 15-16)",
+    "guide": "「过去的过去」;对照 s2u3。",
+    "rules": 2
+   },
+   {
+    "category": "have got used to",
+    "cn": "have got / used to(Unit 17-18)",
+    "guide": "have got 表拥有与 used to 表过去习惯。",
+    "rules": 2
+   },
+   {
+    "category": "Grammar",
+    "cn": "将来与情态(Unit 19-25)",
+    "guide": "现在时表将来、will/shall 与 be going to,以及 can/may/might 基础。",
+    "rules": 7
+   },
+   {
+    "category": "(Modal Verbs)",
+    "cn": "(Modal Verbs",
+    "guide": "本章收录 Unit 合集,共 12 条;逐条点开对照原著学习。",
+    "rules": 12
+   },
+   {
+    "category": "I wish",
+    "cn": "wish 与条件(Unit 38-41)",
+    "guide": "I wish 虚拟、if I do / if I did 条件句;对照 s3u1-s3u2。",
+    "rules": 4
+   },
+   {
+    "category": "(Passive Voice)",
+    "cn": "(Passive Voice",
+    "guide": "本章收录 Unit 合集,共 5 条;逐条点开对照原著学习。",
+    "rules": 5
+   },
+   {
+    "category": "(Reported Speech)",
+    "cn": "(Reported Speech",
+    "guide": "本章收录 Unit 合集,共 2 条;逐条点开对照原著学习。",
+    "rules": 2
+   },
+   {
+    "category": "(Questions)",
+    "cn": "(Questions",
+    "guide": "本章收录 Unit 合集,共 4 条;逐条点开对照原著学习。",
+    "rules": 4
+   },
+   {
+    "category": "(Infinitive & Gerund)",
+    "cn": "(Infinitive & Gerund",
+    "guide": "本章收录 Unit 合集,共 16 条;逐条点开对照原著学习。",
+    "rules": 16
+   },
+   {
+    "category": "A / THE",
+    "cn": "冠词与名词(Unit 69-79)",
+    "guide": "可数与不可数名词、a/an/the 的进阶用法;对照 s1u5。",
+    "rules": 11
+   },
+   {
+    "category": "Grammar",
+    "cn": "将来与情态(Unit 19-25)",
+    "guide": "现在时表将来、will/shall 与 be going to,以及 can/may/might 基础。",
+    "rules": 2
+   },
+   {
+    "category": "(Pronouns)",
+    "cn": "(Pronouns",
+    "guide": "本章收录 Unit 合集,共 10 条;逐条点开对照原著学习。",
+    "rules": 10
+   },
+   {
+    "category": "(Relative Clauses)",
+    "cn": "(Relative Clauses",
+    "guide": "本章收录 Unit 合集,共 6 条;逐条点开对照原著学习。",
+    "rules": 6
+   },
+   {
+    "category": "(Adjectives & Adverbs)",
+    "cn": "(Adjectives & Adverbs",
+    "guide": "本章收录 Unit 合集,共 15 条;逐条点开对照原著学习。",
+    "rules": 15
+   },
+   {
+    "category": "(Conjunctions & Prepositions)",
+    "cn": "(Conjunctions & Prepositions",
+    "guide": "本章收录 Unit 合集,共 24 条;逐条点开对照原著学习。",
+    "rules": 24
+   },
+   {
+    "category": "(Phrasal Verbs)",
+    "cn": "(Phrasal Verbs",
+    "guide": "本章收录 Unit 合集,共 9 条;逐条点开对照原著学习。",
+    "rules": 9
+   }
+  ],
+  "ADV": [
+   {
+    "category": "Present and Past Tenses —",
+    "cn": "现在与过去时高级(Unit 1-8)",
+    "guide": "时态的精细化选择、进行时与状态动词的例外;对照 s3u9。",
+    "rules": 8
+   },
+   {
+    "category": "The Future —",
+    "cn": "将来时高级(Unit 9-14)",
+    "guide": "will/be to/be about to、将来进行与将来完成。",
+    "rules": 6
+   },
+   {
+    "category": "Modals and Semi-modals —",
+    "cn": "情态与半情态(Unit 15-20)",
+    "guide": "can/could/may/might/must 的推测层级与 dare/need/ought to。",
+    "rules": 6
+   },
+   {
+    "category": "Linking Verbs, Passives, Questions",
+    "cn": "系动词/被动/疑问(Unit 21-27)",
+    "guide": "系动词选择、复杂被动与疑问结构;对照 s2u6、s3u6。",
+    "rules": 7
+   },
+   {
+    "category": "Verb Complementation —",
+    "cn": "动词补足成分(Unit 28-31)",
+    "guide": "接 doing/to do 的动词分类与使役结构;对照 s2u4-s2u5、s3u3。",
+    "rules": 4
+   },
+   {
+    "category": "Reporting — C1",
+    "cn": "Reporting — C1",
+    "guide": "本章收录 Unit 合集,共 8 条;逐条点开对照原著学习。",
+    "rules": 8
+   },
+   {
+    "category": "Nouns and Agreement —",
+    "cn": "名词与一致(Unit 40-43)",
+    "guide": "集合名词与主谓一致的疑难情形。",
+    "rules": 4
+   },
+   {
+    "category": "Articles, Determiners and Quantifiers",
+    "cn": "冠词/限定词/数量词(Unit 44-52)",
+    "guide": "冠词省略、限定词与数量词的精确用法;对照 s3u12。",
+    "rules": 9
+   },
+   {
+    "category": "Relative Clauses",
+    "cn": "关系从句(Unit 53-65)",
+    "guide": "限定/非限定从句、介词+关系代词与省略;对照 s2u7、s4u2。",
+    "rules": 13
+   },
+   {
+    "category": "Adjectives and Adverbs —",
+    "cn": "形容词与副词(Unit 66-78)",
+    "guide": "比较结构、程度副词与语序;对照 s3u8。",
+    "rules": 13
+   },
+   {
+    "category": "Adverbial Clauses —",
+    "cn": "状语从句(Unit 79-87)",
+    "guide": "时间/条件/让步/原因状语从句;对照 s2u10、s3u1。",
+    "rules": 9
+   },
+   {
+    "category": "Prepositions — C1",
+    "cn": "Prepositions — C1",
+    "guide": "本章收录 Unit 合集,共 7 条;逐条点开对照原著学习。",
+    "rules": 7
+   },
+   {
+    "category": "Organizing Information —",
+    "cn": "信息组织(Unit 95-100)",
+    "guide": "there is/it is、省略与替代、强调与语篇衔接;对照 s4u4、s3u7。",
+    "rules": 6
+   }
+  ]
+ }
+}

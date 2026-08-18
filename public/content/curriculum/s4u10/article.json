@@ -1,0 +1,1510 @@
+{
+  "id": "a-s4u10",
+  "stage": 4,
+  "unitId": "s4u10",
+  "title": "Long Sentences in the Real Exam",
+  "newWords": [
+    "feudal",
+    "chancellor",
+    "satire",
+    "jargon",
+    "harassment",
+    "browse",
+    "opt",
+    "tumour",
+    "psychiatry",
+    "traitor",
+    "humor",
+    "excerpt",
+    "ebb",
+    "mosaic",
+    "plumber"
+  ],
+  "sentences": [
+    {
+      "text": "In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+      "translation": "在考前的最后一个月,我们可能每天研究一篇真题文章,并挑出一个长句进行细致分析。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "In the last month before the exam"
+        },
+        {
+          "label": "主干(谓语一)",
+          "color": "#a8dab5",
+          "text": "we may study one real passage each day",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may study"
+            },
+            {
+              "role": "宾语",
+              "text": "one real passage"
+            },
+            {
+              "role": "时间状语",
+              "text": "each day"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(谓语二)",
+          "color": "#a8dab5",
+          "text": "pick a long sentence for a close analysis",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "pick"
+            },
+            {
+              "role": "宾语",
+              "text": "a long sentence"
+            },
+            {
+              "role": "状语",
+              "text": "for a close analysis"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "may study...and pick... 两个谓语并列,共用一个主语。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "真题中的长难句是阅读理解的拦路虎,需逐句精讲。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "pick a long sentence for a close analysis",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "pick a long sentence for a close analysis",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+          "answer": "In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+          "note": "may study...and pick... 两个谓语并列,共用一个主语。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+          "answer": "In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+          "note": "真题中的长难句是阅读理解的拦路虎,需逐句精讲。",
+          "point": "真题长难句"
+        }
+      ]
+    },
+    {
+      "text": "We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+      "translation": "我们可以先从主句入手,切掉一个定语从句,再把剩余部分当作新的句子处理,这样一句难句就能简化成核心。",
+      "chunks": [
+        {
+          "label": "主干(谓语一)",
+          "color": "#a8dab5",
+          "text": "We may start with the main clause",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may start with"
+            },
+            {
+              "role": "宾语",
+              "text": "the main clause"
+            }
+          ]
+        },
+        {
+          "label": "主干(谓语二)",
+          "color": "#a8dab5",
+          "text": "cut away a relative clause",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "cut away"
+            },
+            {
+              "role": "宾语",
+              "text": "a relative clause"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(谓语三)",
+          "color": "#a8dab5",
+          "text": "treat the rest as a new sentence",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "treat"
+            },
+            {
+              "role": "宾语",
+              "text": "the rest"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "as a new sentence"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "结果状语从句",
+          "color": "#c8a5e0",
+          "text": "a hard line may reduce to a core"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "长难句拆解法",
+          "note": "拆解长难句三步:找主句、删从句、逐层简化,最终还原句子核心。"
+        },
+        {
+          "name": "treat A as B",
+          "note": "treat the rest as a new sentence:as 短语作宾补。"
+        },
+        {
+          "name": "并列谓语",
+          "note": "may start, cut, and treat 三个谓语并列,构成方法序列。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may start with the main clause",
+          "name": "长难句拆解法"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may start with the main clause",
+          "name": "treat A as B"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may start with the main clause",
+          "name": "并列谓语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+          "answer": "We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+          "note": "拆解长难句三步:找主句、删从句、逐层简化,最终还原句子核心。",
+          "point": "长难句拆解法"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+          "answer": "We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+          "note": "treat the rest as a new sentence:as 短语作宾补。",
+          "point": "treat A as B"
+        }
+      ]
+    },
+    {
+      "text": "A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+      "translation": "一个句子可能讲述一个封建社会的故事,在那里一位宰相曾经大权在握,而词语可能古老,但逻辑依然存在。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A sentence may speak of a feudal society",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A sentence"
+            },
+            {
+              "role": "谓语",
+              "text": "may speak of"
+            },
+            {
+              "role": "宾语",
+              "text": "a feudal society"
+            }
+          ]
+        },
+        {
+          "label": "定语从句",
+          "color": "#c8a5e0",
+          "text": "where a chancellor may once hold great power"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the word may be old",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the word"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "old"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干三(主谓)",
+          "color": "#a8dab5",
+          "text": "the logic may remain",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the logic"
+            },
+            {
+              "role": "谓语",
+              "text": "may remain"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "where 定语从句",
+          "note": "where 引导定语从句修饰 society,表示「在…的社会里」。"
+        },
+        {
+          "name": "转折连词 but",
+          "note": "「词旧而逻辑常在」,强调透过表层看逻辑。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "真题句子常有文化背景词(如 feudal, chancellor),理解逻辑即可解题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "where a chancellor may once hold great power",
+          "name": "where 定语从句"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "where a chancellor may once hold great power",
+          "name": "转折连词 but"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "where a chancellor may once hold great power",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+          "answer": "A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+          "note": "where 引导定语从句修饰 society,表示「在…的社会里」。",
+          "point": "where 定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+          "answer": "A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+          "note": "「词旧而逻辑常在」,强调透过表层看逻辑。",
+          "point": "转折连词 but"
+        }
+      ]
+    },
+    {
+      "text": "Another passage may use satire to mock the rich, and the question may ask us to tell the tone from a single adverb.",
+      "translation": "另一篇文章可能用讽刺来嘲弄富人,而题目可能让我们从单个副词判断语气。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Another passage may use satire to mock the rich",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Another passage"
+            },
+            {
+              "role": "谓语",
+              "text": "may use"
+            },
+            {
+              "role": "宾语",
+              "text": "satire"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to mock the rich"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "the question may ask us to tell the tone from a single adverb",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the question"
+            },
+            {
+              "role": "谓语",
+              "text": "may ask"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "to tell the tone from a single adverb"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to mock the rich 说明使用讽刺的目的。"
+        },
+        {
+          "name": "ask sb to do",
+          "note": "ask us to tell...:不定式作宾补。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "讽刺(satire)与语气判断是真题阅读常见考点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may ask us to tell the tone from a single adverb",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may ask us to tell the tone from a single adverb",
+          "name": "ask sb to do"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may ask us to tell the tone from a single adverb",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Another passage may use satire to mock the rich, and the question may ask us to tell the tone from a single adverb.",
+          "answer": "Another passage may use satire to mock the rich, and the question may ask us to tell the tone from a single adverb.",
+          "note": "to mock the rich 说明使用讽刺的目的。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Another passage may use satire to mock the rich, and the question may ask us to tell the tone from a single adverb.",
+          "answer": "Another passage may use satire to mock the rich, and the question may ask us to tell the tone from a single adverb.",
+          "note": "ask us to tell...:不定式作宾补。",
+          "point": "ask sb to do"
+        }
+      ]
+    },
+    {
+      "text": "The jargon of the law may appear in a text on harassment, and we may need to know each key term before we answer.",
+      "translation": "法律术语可能出现在关于骚扰的文本中,而在作答之前我们可能需要了解每个关键术语。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "The jargon of the law may appear in a text on harassment",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The jargon of the law"
+            },
+            {
+              "role": "谓语",
+              "text": "may appear"
+            },
+            {
+              "role": "状语",
+              "text": "in a text on harassment"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may need to know each key term",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may need"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to know each key term"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before we answer"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "before 时间状语从句",
+          "note": "before 引导时间状语从句,说明了解术语的时机。"
+        },
+        {
+          "name": "need to do",
+          "note": "need to do sth 表示「需要做某事」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "The jargon of the law may appear in a text on harassment",
+          "name": "before 时间状语从句"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "The jargon of the law may appear in a text on harassment",
+          "name": "need to do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The jargon of the law may appear in a text on harassment, and we may need to know each key term before we answer.",
+          "answer": "The jargon of the law may appear in a text on harassment, and we may need to know each key term before we answer.",
+          "note": "before 引导时间状语从句,说明了解术语的时机。",
+          "point": "before 时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The jargon of the law may appear in a text on harassment, and we may need to know each key term before we answer.",
+          "answer": "The jargon of the law may appear in a text on harassment, and we may need to know each key term before we answer.",
+          "note": "need to do sth 表示「需要做某事」。",
+          "point": "need to do"
+        }
+      ]
+    },
+    {
+      "text": "We may browse the whole passage twice and opt for a calm pace, for the second look may change our mind, and a short pause may bring the answer.",
+      "translation": "我们可能把整篇文章浏览两遍并选择从容的节奏,因为再看一眼可能改变我们的想法,而短暂的停顿可能带来答案。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may browse the whole passage twice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may browse"
+            },
+            {
+              "role": "宾语",
+              "text": "the whole passage"
+            },
+            {
+              "role": "状语",
+              "text": "twice"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "opt for a calm pace",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "opt for"
+            },
+            {
+              "role": "宾语",
+              "text": "a calm pace"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the second look may change our mind",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the second look"
+            },
+            {
+              "role": "谓语",
+              "text": "may change"
+            },
+            {
+              "role": "宾语",
+              "text": "our mind"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a short pause may bring the answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a short pause"
+            },
+            {
+              "role": "谓语",
+              "text": "may bring"
+            },
+            {
+              "role": "宾语",
+              "text": "the answer"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "opt for",
+          "note": "opt for 表示「选择」。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明选择慢节奏的原因。"
+        },
+        {
+          "name": "真题技巧",
+          "note": "二次阅读与短暂停顿,是考场应对长难句的实战策略。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may browse the whole passage twice",
+          "name": "opt for"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may browse the whole passage twice",
+          "name": "for 表示原因"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may browse the whole passage twice",
+          "name": "真题技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may browse the whole passage twice and opt for a calm pace, for the second look may change our mind, and a short pause may bring the answer.",
+          "answer": "We may browse the whole passage twice and opt for a calm pace, for the second look may change our mind, and a short pause may bring the answer.",
+          "note": "opt for 表示「选择」。",
+          "point": "opt for"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may browse the whole passage twice and opt for a calm pace, for the second look may change our mind, and a short pause may bring the answer.",
+          "answer": "We may browse the whole passage twice and opt for a calm pace, for the second look may change our mind, and a short pause may bring the answer.",
+          "note": "for 补充说明选择慢节奏的原因。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "A passage on medicine may discuss a tumour or a problem of psychiatry, and the scientific word may frighten us at first, yet the structure may be simple.",
+      "translation": "关于医学的文章可能讨论肿瘤或精神病学问题,而科学词汇起初可能吓到我们,然而句子结构可能很简单。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A passage on medicine may discuss a tumour or a problem of psychiatry",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A passage on medicine"
+            },
+            {
+              "role": "谓语",
+              "text": "may discuss"
+            },
+            {
+              "role": "宾语",
+              "text": "a tumour or a problem of psychiatry"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the scientific word may frighten us at first",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the scientific word"
+            },
+            {
+              "role": "谓语",
+              "text": "may frighten"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "时间状语",
+              "text": "at first"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干三(主系表)",
+          "color": "#a8dab5",
+          "text": "the structure may be simple",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the structure"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "simple"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 yet",
+          "note": "「生词吓人,但结构简单」,先抑后扬。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "科技类真题生词多但句式简单,切忌被术语吓退。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "A passage on medicine may discuss a tumour or a problem of psychiatry",
+          "name": "转折连词 yet"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "A passage on medicine may discuss a tumour or a problem of psychiatry",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on medicine may discuss a tumour or a problem of psychiatry, and the scientific word may frighten us at first, yet the structure may be simple.",
+          "answer": "A passage on medicine may discuss a tumour or a problem of psychiatry, and the scientific word may frighten us at first, yet the structure may be simple.",
+          "note": "「生词吓人,但结构简单」,先抑后扬。",
+          "point": "转折连词 yet"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on medicine may discuss a tumour or a problem of psychiatry, and the scientific word may frighten us at first, yet the structure may be simple.",
+          "answer": "A passage on medicine may discuss a tumour or a problem of psychiatry, and the scientific word may frighten us at first, yet the structure may be simple.",
+          "note": "科技类真题生词多但句式简单,切忌被术语吓退。",
+          "point": "真题长难句"
+        }
+      ]
+    },
+    {
+      "text": "A historical text may mention a traitor and a king, yet the question may care less about the fact than about the relation between one sentence and the next.",
+      "translation": "历史类文章可能提到叛徒和国王,然而题目可能更关心句子与句子之间的关系,而不是事实本身。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A historical text may mention a traitor and a king",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A historical text"
+            },
+            {
+              "role": "谓语",
+              "text": "may mention"
+            },
+            {
+              "role": "宾语",
+              "text": "a traitor and a king"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "the question may care less about the fact than about the relation between one sentence and the next",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the question"
+            },
+            {
+              "role": "谓语",
+              "text": "may care"
+            },
+            {
+              "role": "状语",
+              "text": "less about the fact than about the relation between one sentence and the next"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "care about",
+          "note": "care about 表示「在意、关心」。"
+        },
+        {
+          "name": "比较级 less...than",
+          "note": "less about A than about B 表示「更少关注 A,更多关注 B」。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "真题阅读重在句子间逻辑关系,而非孤立的事实。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may care less about the fact than about the relation between one sentence and the next",
+          "name": "care about"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may care less about the fact than about the relation between one sentence and the next",
+          "name": "比较级 less...than"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "the question may care less about the fact than about the relation between one sentence and the next",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A historical text may mention a traitor and a king, yet the question may care less about the fact than about the relation between one sentence and the next.",
+          "answer": "A historical text may mention a traitor and a king, yet the question may care less about the fact than about the relation between one sentence and the next.",
+          "note": "care about 表示「在意、关心」。",
+          "point": "care about"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A historical text may mention a traitor and a king, yet the question may care less about the fact than about the relation between one sentence and the next.",
+          "answer": "A historical text may mention a traitor and a king, yet the question may care less about the fact than about the relation between one sentence and the next.",
+          "note": "less about A than about B 表示「更少关注 A,更多关注 B」。",
+          "point": "比较级 less...than"
+        }
+      ]
+    },
+    {
+      "text": "We may study the tone of a text with humor, for a writer may smile and attack at once, and the answer may depend on the smile.",
+      "translation": "我们可以研究一篇带幽默感的文本的语气,因为作者可能一边微笑一边攻击,而答案就取决于那抹微笑。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may study the tone of a text with humor",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may study"
+            },
+            {
+              "role": "宾语",
+              "text": "the tone of a text with humor"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句一(主谓)",
+          "color": "#a8dab5",
+          "text": "a writer may smile",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a writer"
+            },
+            {
+              "role": "谓语",
+              "text": "may smile"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "attack at once",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "attack"
+            },
+            {
+              "role": "状语",
+              "text": "at once"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the answer may depend on the smile",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the answer"
+            },
+            {
+              "role": "谓语",
+              "text": "may depend on"
+            },
+            {
+              "role": "宾语",
+              "text": "the smile"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "smile and attack 并列谓语",
+          "note": "两个谓语并列,描写「微笑着攻击」的反讽笔法。"
+        },
+        {
+          "name": "depend on",
+          "note": "depend on 表示「取决于」。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "幽默(humor)是语气判断题的高频信号词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may study the tone of a text with humor",
+          "name": "smile and attack 并列谓语"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may study the tone of a text with humor",
+          "name": "depend on"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "We may study the tone of a text with humor",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may study the tone of a text with humor, for a writer may smile and attack at once, and the answer may depend on the smile.",
+          "answer": "We may study the tone of a text with humor, for a writer may smile and attack at once, and the answer may depend on the smile.",
+          "note": "两个谓语并列,描写「微笑着攻击」的反讽笔法。",
+          "point": "smile and attack 并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may study the tone of a text with humor, for a writer may smile and attack at once, and the answer may depend on the smile.",
+          "answer": "We may study the tone of a text with humor, for a writer may smile and attack at once, and the answer may depend on the smile.",
+          "note": "depend on 表示「取决于」。",
+          "point": "depend on"
+        }
+      ]
+    },
+    {
+      "text": "An excerpt from a past paper may serve as a model, and we may read it at the ebb of a hard day; the mosaic in a long sentence may look complex, yet each piece may carry a clear function and the whole may fit together with ease.",
+      "translation": "真题的一个选段可以作为范本,而我们可以在疲惫一天的低谷时刻去读它。; 长句中的马赛克式结构可能看似复杂,然而每一块都承载着明确的功能,整体便能轻松拼合。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An excerpt from a past paper may serve as a model",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An excerpt from a past paper"
+            },
+            {
+              "role": "谓语",
+              "text": "may serve as"
+            },
+            {
+              "role": "宾语",
+              "text": "a model"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may read it at the ebb of a hard day",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may read"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "时间状语",
+              "text": "at the ebb of a hard day"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The mosaic in a long sentence may look complex",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The mosaic in a long sentence"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may look"
+            },
+            {
+              "role": "表语",
+              "text": "complex"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each piece may carry a clear function",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each piece"
+            },
+            {
+              "role": "谓语",
+              "text": "may carry"
+            },
+            {
+              "role": "宾语",
+              "text": "a clear function"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓)",
+          "color": "#a8dab5",
+          "text": "the whole may fit together with ease",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the whole"
+            },
+            {
+              "role": "谓语",
+              "text": "may fit"
+            },
+            {
+              "role": "状语",
+              "text": "together with ease"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "serve as",
+          "note": "serve as 表示「充当、作为」。"
+        },
+        {
+          "name": "at the ebb of",
+          "note": "ebb 原指退潮,at the ebb of a hard day 喻指一天精力衰竭之时。"
+        },
+        {
+          "name": "look 系动词",
+          "note": "look complex:look 后接形容词作表语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "An excerpt from a past paper may serve as a model",
+          "name": "serve as"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "An excerpt from a past paper may serve as a model",
+          "name": "at the ebb of"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "An excerpt from a past paper may serve as a model",
+          "name": "look 系动词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An excerpt from a past paper may serve as a model, and we may read it at the ebb of a hard day; the mosaic in a long sentence may look complex, yet each piece may carry a clear function and the whole may fit together with ease.",
+          "answer": "An excerpt from a past paper may serve as a model, and we may read it at the ebb of a hard day; the mosaic in a long sentence may look complex, yet each piece may carry a clear function and the whole may fit together with ease.",
+          "note": "serve as 表示「充当、作为」。",
+          "point": "serve as"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An excerpt from a past paper may serve as a model, and we may read it at the ebb of a hard day; the mosaic in a long sentence may look complex, yet each piece may carry a clear function and the whole may fit together with ease.",
+          "answer": "An excerpt from a past paper may serve as a model, and we may read it at the ebb of a hard day; the mosaic in a long sentence may look complex, yet each piece may carry a clear function and the whole may fit together with ease.",
+          "note": "ebb 原指退潮,at the ebb of a hard day 喻指一天精力衰竭之时。",
+          "point": "at the ebb of"
+        }
+      ]
+    },
+    {
+      "text": "A passage on a plumber and his pipe may test our patience, yet a simple word may hide a complex idea, and patience may win the point; before the defence, we may practise a hard question, and the teacher may judge our answer with care.",
+      "translation": "一篇关于水管工和他的管道的文章可能考验我们的耐心,然而简单的词可能隐藏复杂的思想,而耐心能赢得分数。; 答辩之前,我们可能练习一个难题,而老师会认真评判我们的回答。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A passage on a plumber and his pipe may test our patience",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A passage on a plumber and his pipe"
+            },
+            {
+              "role": "谓语",
+              "text": "may test"
+            },
+            {
+              "role": "宾语",
+              "text": "our patience"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a simple word may hide a complex idea",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a simple word"
+            },
+            {
+              "role": "谓语",
+              "text": "may hide"
+            },
+            {
+              "role": "宾语",
+              "text": "a complex idea"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "patience may win the point",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "patience"
+            },
+            {
+              "role": "谓语",
+              "text": "may win"
+            },
+            {
+              "role": "宾语",
+              "text": "the point"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Before the defence"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may practise a hard question",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may practise"
+            },
+            {
+              "role": "宾语",
+              "text": "a hard question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the teacher may judge our answer with care",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the teacher"
+            },
+            {
+              "role": "谓语",
+              "text": "may judge"
+            },
+            {
+              "role": "宾语",
+              "text": "our answer"
+            },
+            {
+              "role": "状语",
+              "text": "with care"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "test one's patience",
+          "note": "test our patience 表示「考验我们的耐心」。"
+        },
+        {
+          "name": "多层并列转折",
+          "note": "yet 与 and 连接三个分句,层层推进。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "真题题材可能贴近生活(如 plumber),难度在思想深度而非词汇。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "A passage on a plumber and his pipe may test our patience",
+          "name": "test one's patience"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "A passage on a plumber and his pipe may test our patience",
+          "name": "多层并列转折"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "A passage on a plumber and his pipe may test our patience",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on a plumber and his pipe may test our patience, yet a simple word may hide a complex idea, and patience may win the point; before the defence, we may practise a hard question, and the teacher may judge our answer with care.",
+          "answer": "A passage on a plumber and his pipe may test our patience, yet a simple word may hide a complex idea, and patience may win the point; before the defence, we may practise a hard question, and the teacher may judge our answer with care.",
+          "note": "test our patience 表示「考验我们的耐心」。",
+          "point": "test one's patience"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on a plumber and his pipe may test our patience, yet a simple word may hide a complex idea, and patience may win the point; before the defence, we may practise a hard question, and the teacher may judge our answer with care.",
+          "answer": "A passage on a plumber and his pipe may test our patience, yet a simple word may hide a complex idea, and patience may win the point; before the defence, we may practise a hard question, and the teacher may judge our answer with care.",
+          "note": "yet 与 and 连接三个分句,层层推进。",
+          "point": "多层并列转折"
+        }
+      ]
+    },
+    {
+      "text": "A real long sentence, once we master the method, is not a wall but a door.",
+      "translation": "真正的长难句,一旦我们掌握了方法,就不是一堵墙,而是一扇门。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A real long sentence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A real long sentence"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "once we master the method"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is not a wall but a door",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a wall but a door"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "once 时间状语从句",
+          "note": "once 引导时间状语从句,表示「一旦」。"
+        },
+        {
+          "name": "not...but... 结构",
+          "note": "not a wall but a door:不是障碍,而是入口,比喻拆解方法的价值。"
+        },
+        {
+          "name": "真题长难句",
+          "note": "总结:掌握拆解法后,长难句由拦路虎变成通向理解的入口。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "once we master the method",
+          "name": "once 时间状语从句"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "once we master the method",
+          "name": "not...but... 结构"
+        },
+        {
+          "grammarId": "g-s4u10",
+          "phrase": "once we master the method",
+          "name": "真题长难句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A real long sentence, once we master the method, is not a wall but a door.",
+          "answer": "A real long sentence, once we master the method, is not a wall but a door.",
+          "note": "once 引导时间状语从句,表示「一旦」。",
+          "point": "once 时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A real long sentence, once we master the method, is not a wall but a door.",
+          "answer": "A real long sentence, once we master the method, is not a wall but a door.",
+          "note": "not a wall but a door:不是障碍,而是入口,比喻拆解方法的价值。",
+          "point": "not...but... 结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u10",
+      "name": "并列谓语",
+      "note": "may study...and pick... 两个谓语并列,共用一个主语。",
+      "sourceExample": "In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+      "sourceExampleCn": "在考前的最后一个月,我们可能每天研究一篇真题文章,并挑出一个长句进行细致分析。"
+    },
+    {
+      "grammarId": "g-s4u10",
+      "name": "真题长难句",
+      "note": "真题中的长难句是阅读理解的拦路虎,需逐句精讲。",
+      "sourceExample": "In the last month before the exam, we may study one real passage each day and pick a long sentence for a close analysis.",
+      "sourceExampleCn": "在考前的最后一个月,我们可能每天研究一篇真题文章,并挑出一个长句进行细致分析。"
+    },
+    {
+      "grammarId": "g-s4u10",
+      "name": "长难句拆解法",
+      "note": "拆解长难句三步:找主句、删从句、逐层简化,最终还原句子核心。",
+      "sourceExample": "We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+      "sourceExampleCn": "我们可以先从主句入手,切掉一个定语从句,再把剩余部分当作新的句子处理,这样一句难句就能简化成核心。"
+    },
+    {
+      "grammarId": "g-s4u10",
+      "name": "treat A as B",
+      "note": "treat the rest as a new sentence:as 短语作宾补。",
+      "sourceExample": "We may start with the main clause, cut away a relative clause, and treat the rest as a new sentence, so a hard line may reduce to a core.",
+      "sourceExampleCn": "我们可以先从主句入手,切掉一个定语从句,再把剩余部分当作新的句子处理,这样一句难句就能简化成核心。"
+    },
+    {
+      "grammarId": "g-s4u10",
+      "name": "where 定语从句",
+      "note": "where 引导定语从句修饰 society,表示「在…的社会里」。",
+      "sourceExample": "A sentence may speak of a feudal society where a chancellor may once hold great power, and the word may be old but the logic may remain.",
+      "sourceExampleCn": "一个句子可能讲述一个封建社会的故事,在那里一位宰相曾经大权在握,而词语可能古老,但逻辑依然存在。"
+    }
+  ]
+}

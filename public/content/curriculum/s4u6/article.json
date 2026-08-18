@@ -1,0 +1,1428 @@
+{
+  "id": "a-s4u6",
+  "stage": 4,
+  "unitId": "s4u6",
+  "title": "Methods for Reading Questions",
+  "newWords": [
+    "generalise",
+    "culprit",
+    "gallop",
+    "sympathise",
+    "strenuous",
+    "audit",
+    "lateral",
+    "nostalgic",
+    "torrent",
+    "plight",
+    "whatsoever",
+    "specialise",
+    "honorable",
+    "sprout",
+    "futile"
+  ],
+  "sentences": [
+    {
+      "text": "In our preparation group, we may analyse one reading passage every day, and each member may share the method behind his answer.",
+      "translation": "在我们的备考小组里,我们可能每天分析一篇阅读文章,而每个成员都可以分享他答案背后的方法。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In our preparation group"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may analyse one reading passage every day",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may analyse"
+            },
+            {
+              "role": "宾语",
+              "text": "one reading passage"
+            },
+            {
+              "role": "时间状语",
+              "text": "every day"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each member may share the method behind his answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each member"
+            },
+            {
+              "role": "谓语",
+              "text": "may share"
+            },
+            {
+              "role": "宾语",
+              "text": "the method behind his answer"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作定语",
+          "note": "behind his answer 修饰 method。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "each member may share the method behind his answer",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our preparation group, we may analyse one reading passage every day, and each member may share the method behind his answer.",
+          "answer": "In our preparation group, we may analyse one reading passage every day, and each member may share the method behind his answer.",
+          "note": "behind his answer 修饰 method。",
+          "point": "介词短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+      "translation": "主旨题可能要求宏观的视野,而我们要学会不从一两个细节或单个段落就做出概括。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A question on the main idea may require a general view",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A question on the main idea"
+            },
+            {
+              "role": "谓语",
+              "text": "may require"
+            },
+            {
+              "role": "宾语",
+              "text": "a general view"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we learn not to generalise from one detail or a single paragraph",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "learn"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "not to generalise"
+            },
+            {
+              "role": "状语",
+              "text": "from one detail or a single paragraph"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "learn not to do",
+          "note": "learn not to do sth 表示「学会不做某事」。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "主旨题忌以偏概全,应看整体(general view),是本单元阅读题型方法的核心。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "we learn not to generalise from one detail or a single paragraph",
+          "name": "learn not to do"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "we learn not to generalise from one detail or a single paragraph",
+          "name": "阅读方法论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+          "answer": "A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+          "note": "learn not to do sth 表示「学会不做某事」。",
+          "point": "learn not to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+          "answer": "A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+          "note": "主旨题忌以偏概全,应看整体(general view),是本单元阅读题型方法的核心。",
+          "point": "阅读方法论"
+        }
+      ]
+    },
+    {
+      "text": "A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+      "translation": "细节题可能指向某一具体行,但错误选项可能对那一行的词作一点小改动后重复使用,这样的陷阱会浪费我们的时间。; 我们可能会在继续之前找出错误答案的元凶,而这一步能把错误变成教训。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A question on detail may point to a specific line",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A question on detail"
+            },
+            {
+              "role": "谓语",
+              "text": "may point to"
+            },
+            {
+              "role": "宾语",
+              "text": "a specific line"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the wrong option may repeat the word of that line with a small change",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the wrong option"
+            },
+            {
+              "role": "谓语",
+              "text": "may repeat"
+            },
+            {
+              "role": "宾语",
+              "text": "the word of that line"
+            },
+            {
+              "role": "状语",
+              "text": "with a small change"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "such a trap may waste our time",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "such a trap"
+            },
+            {
+              "role": "谓语",
+              "text": "may waste"
+            },
+            {
+              "role": "宾语",
+              "text": "our time"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may identify the culprit of a wrong answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may identify"
+            },
+            {
+              "role": "宾语",
+              "text": "the culprit of a wrong answer"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before we move on"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "this step may turn a mistake into a lesson",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this step"
+            },
+            {
+              "role": "谓语",
+              "text": "may turn"
+            },
+            {
+              "role": "宾语",
+              "text": "a mistake"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "into a lesson"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "point to",
+          "note": "point to 表示「指向」。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "细节题干扰项常偷换原文关键词(同词异意),必须回到原文逐词比对。"
+        },
+        {
+          "name": "before 时间状语从句",
+          "note": "before 引导时间状语从句,说明找出元凶的时机。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "the wrong option may repeat the word of that line with a small change",
+          "name": "point to"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "the wrong option may repeat the word of that line with a small change",
+          "name": "阅读方法论"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "the wrong option may repeat the word of that line with a small change",
+          "name": "before 时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+          "answer": "A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+          "note": "point to 表示「指向」。",
+          "point": "point to"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+          "answer": "A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+          "note": "细节题干扰项常偷换原文关键词(同词异意),必须回到原文逐词比对。",
+          "point": "阅读方法论"
+        }
+      ]
+    },
+    {
+      "text": "Some people may gallop through a long passage and then regret their haste, so we train ourselves to read at a steady pace.",
+      "translation": "有些人可能飞驰般扫过长篇阅读,然后为仓促而后悔,所以我们训练自己以稳定的速度阅读。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Some people may gallop through a long passage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some people"
+            },
+            {
+              "role": "谓语",
+              "text": "may gallop through"
+            },
+            {
+              "role": "宾语",
+              "text": "a long passage"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "then regret their haste",
+          "parts": [
+            {
+              "role": "状语",
+              "text": "then"
+            },
+            {
+              "role": "谓语",
+              "text": "regret"
+            },
+            {
+              "role": "宾语",
+              "text": "their haste"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "we train ourselves to read at a steady pace",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "train"
+            },
+            {
+              "role": "宾语",
+              "text": "ourselves"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "to read at a steady pace"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "may gallop through...and then regret... 两个谓语并列。"
+        },
+        {
+          "name": "train sb to do",
+          "note": "train ourselves to read 表示「训练自己阅读」,不定式作宾补。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "Some people may gallop through a long passage",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "Some people may gallop through a long passage",
+          "name": "train sb to do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may gallop through a long passage and then regret their haste, so we train ourselves to read at a steady pace.",
+          "answer": "Some people may gallop through a long passage and then regret their haste, so we train ourselves to read at a steady pace.",
+          "note": "may gallop through...and then regret... 两个谓语并列。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people may gallop through a long passage and then regret their haste, so we train ourselves to read at a steady pace.",
+          "answer": "Some people may gallop through a long passage and then regret their haste, so we train ourselves to read at a steady pace.",
+          "note": "train ourselves to read 表示「训练自己阅读」,不定式作宾补。",
+          "point": "train sb to do"
+        }
+      ]
+    },
+    {
+      "text": "A friend of mine may sympathise with me when I lose a point, yet sympathy may not raise the score, so we prefer honest analysis.",
+      "translation": "当我丢分时,我的一位朋友也许会同情我,然而同情不能提高分数,所以我们更喜欢诚实的分析。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A friend of mine may sympathise with me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A friend of mine"
+            },
+            {
+              "role": "谓语",
+              "text": "may sympathise with"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "when I lose a point"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "sympathy may not raise the score",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "sympathy"
+            },
+            {
+              "role": "谓语",
+              "text": "may not raise"
+            },
+            {
+              "role": "宾语",
+              "text": "the score"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we prefer honest analysis",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "prefer"
+            },
+            {
+              "role": "宾语",
+              "text": "honest analysis"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "sympathise with",
+          "note": "sympathise with sb 表示「同情某人」。"
+        },
+        {
+          "name": "when 时间状语从句",
+          "note": "when 引导时间状语从句。"
+        },
+        {
+          "name": "因果连词 so",
+          "note": "so 引出结论:「所以…」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A friend of mine may sympathise with me",
+          "name": "sympathise with"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A friend of mine may sympathise with me",
+          "name": "when 时间状语从句"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A friend of mine may sympathise with me",
+          "name": "因果连词 so"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A friend of mine may sympathise with me when I lose a point, yet sympathy may not raise the score, so we prefer honest analysis.",
+          "answer": "A friend of mine may sympathise with me when I lose a point, yet sympathy may not raise the score, so we prefer honest analysis.",
+          "note": "sympathise with sb 表示「同情某人」。",
+          "point": "sympathise with"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A friend of mine may sympathise with me when I lose a point, yet sympathy may not raise the score, so we prefer honest analysis.",
+          "answer": "A friend of mine may sympathise with me when I lose a point, yet sympathy may not raise the score, so we prefer honest analysis.",
+          "note": "when 引导时间状语从句。",
+          "point": "when 时间状语从句"
+        }
+      ]
+    },
+    {
+      "text": "The strenuous work of the exam season may leave us tired, and a short walk may restore our focus.",
+      "translation": "考试季紧张的工作可能让我们疲惫,而短暂的散步可以恢复我们的专注。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "The strenuous work of the exam season may leave us tired",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The strenuous work of the exam season"
+            },
+            {
+              "role": "谓语",
+              "text": "may leave"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "tired"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a short walk may restore our focus",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a short walk"
+            },
+            {
+              "role": "谓语",
+              "text": "may restore"
+            },
+            {
+              "role": "宾语",
+              "text": "our focus"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "leave + 宾语 + 宾补",
+          "note": "leave us tired:形容词 tired 作宾语补足语,表示「使我们疲惫」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "The strenuous work of the exam season may leave us tired",
+          "name": "leave + 宾语 + 宾补"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The strenuous work of the exam season may leave us tired, and a short walk may restore our focus.",
+          "answer": "The strenuous work of the exam season may leave us tired, and a short walk may restore our focus.",
+          "note": "leave us tired:形容词 tired 作宾语补足语,表示「使我们疲惫」。",
+          "point": "leave + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "We may audit our own record every week, list the type of each error, and find the pattern behind the mistake.",
+      "translation": "我们可能每周审计自己的答题记录,列出每类错误的类型,并找出错误背后的规律。",
+      "chunks": [
+        {
+          "label": "主干(谓语一)",
+          "color": "#a8dab5",
+          "text": "We may audit our own record every week",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may audit"
+            },
+            {
+              "role": "宾语",
+              "text": "our own record"
+            },
+            {
+              "role": "时间状语",
+              "text": "every week"
+            }
+          ]
+        },
+        {
+          "label": "主干(谓语二)",
+          "color": "#a8dab5",
+          "text": "list the type of each error",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "list"
+            },
+            {
+              "role": "宾语",
+              "text": "the type of each error"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(谓语三)",
+          "color": "#a8dab5",
+          "text": "find the pattern behind the mistake",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "find"
+            },
+            {
+              "role": "宾语",
+              "text": "the pattern behind the mistake"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "may audit, list, and find 三个谓语并列,list 与 find 前省略 may。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "audit(审计)错题记录,归纳错误类型,是阅读提分的系统方法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "We may audit our own record every week",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "We may audit our own record every week",
+          "name": "阅读方法论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may audit our own record every week, list the type of each error, and find the pattern behind the mistake.",
+          "answer": "We may audit our own record every week, list the type of each error, and find the pattern behind the mistake.",
+          "note": "may audit, list, and find 三个谓语并列,list 与 find 前省略 may。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may audit our own record every week, list the type of each error, and find the pattern behind the mistake.",
+          "answer": "We may audit our own record every week, list the type of each error, and find the pattern behind the mistake.",
+          "note": "audit(审计)错题记录,归纳错误类型,是阅读提分的系统方法。",
+          "point": "阅读方法论"
+        }
+      ]
+    },
+    {
+      "text": "A lateral question may ask about the attitude of the writer, and a nostalgic tone may be the key, not the mood of a single line.",
+      "translation": "侧向题可能考察作者的态度,而怀旧的语气可能是关键,而不是某一行的情绪。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A lateral question may ask about the attitude of the writer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A lateral question"
+            },
+            {
+              "role": "谓语",
+              "text": "may ask about"
+            },
+            {
+              "role": "宾语",
+              "text": "the attitude of the writer"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "a nostalgic tone may be the key, not the mood of a single line",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a nostalgic tone"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "the key, not the mood of a single line"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "ask about",
+          "note": "ask about 表示「询问关于…」。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "态度题要看全文语气(tone)而非单句情绪,干扰项常夸大细节。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "a nostalgic tone may be the key, not the mood of a single line",
+          "name": "ask about"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "a nostalgic tone may be the key, not the mood of a single line",
+          "name": "阅读方法论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A lateral question may ask about the attitude of the writer, and a nostalgic tone may be the key, not the mood of a single line.",
+          "answer": "A lateral question may ask about the attitude of the writer, and a nostalgic tone may be the key, not the mood of a single line.",
+          "note": "ask about 表示「询问关于…」。",
+          "point": "ask about"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A lateral question may ask about the attitude of the writer, and a nostalgic tone may be the key, not the mood of a single line.",
+          "answer": "A lateral question may ask about the attitude of the writer, and a nostalgic tone may be the key, not the mood of a single line.",
+          "note": "态度题要看全文语气(tone)而非单句情绪,干扰项常夸大细节。",
+          "point": "阅读方法论"
+        }
+      ]
+    },
+    {
+      "text": "Sometimes a passage may present a torrent of fact, yet the real question may concern the plight of a social group, and a reader without feeling for it may miss the point.",
+      "translation": "有时一篇文章会呈现大量事实,然而真正的问题可能关乎某个社会群体的困境,而对它缺乏感受的读者可能会抓不住要点。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Sometimes"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a passage may present a torrent of fact",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a passage"
+            },
+            {
+              "role": "谓语",
+              "text": "may present"
+            },
+            {
+              "role": "宾语",
+              "text": "a torrent of fact"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the real question may concern the plight of a social group",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the real question"
+            },
+            {
+              "role": "谓语",
+              "text": "may concern"
+            },
+            {
+              "role": "宾语",
+              "text": "the plight of a social group"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a reader without feeling for it may miss the point",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a reader"
+            },
+            {
+              "role": "定语(介词短语)",
+              "text": "without feeling for it"
+            },
+            {
+              "role": "谓语",
+              "text": "may miss"
+            },
+            {
+              "role": "宾语",
+              "text": "the point"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作定语",
+          "note": "without feeling for it 修饰 reader。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "事实(torrent of fact)是干扰项来源,真正考点常是作者的立场与情感。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "the real question may concern the plight of a social group",
+          "name": "介词短语作定语"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "the real question may concern the plight of a social group",
+          "name": "阅读方法论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes a passage may present a torrent of fact, yet the real question may concern the plight of a social group, and a reader without feeling for it may miss the point.",
+          "answer": "Sometimes a passage may present a torrent of fact, yet the real question may concern the plight of a social group, and a reader without feeling for it may miss the point.",
+          "note": "without feeling for it 修饰 reader。",
+          "point": "介词短语作定语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes a passage may present a torrent of fact, yet the real question may concern the plight of a social group, and a reader without feeling for it may miss the point.",
+          "answer": "Sometimes a passage may present a torrent of fact, yet the real question may concern the plight of a social group, and a reader without feeling for it may miss the point.",
+          "note": "事实(torrent of fact)是干扰项来源,真正考点常是作者的立场与情感。",
+          "point": "阅读方法论"
+        }
+      ]
+    },
+    {
+      "text": "No method, whatsoever, can replace daily reading, and a student may specialise in one question type and ignore the rest, yet a new topic may defeat him without wide reading.",
+      "translation": "任何方法,无论怎样,都无法取代每日阅读;学生可以专攻一种题型而忽略其余,然而没有广泛阅读,一个新话题就可能击败他。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "No method",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "No method"
+            }
+          ]
+        },
+        {
+          "label": "后置定语",
+          "color": "#f4a8b8",
+          "text": "whatsoever"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can replace daily reading",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can replace"
+            },
+            {
+              "role": "宾语",
+              "text": "daily reading"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a student may specialise in one question type",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a student"
+            },
+            {
+              "role": "谓语",
+              "text": "may specialise in"
+            },
+            {
+              "role": "宾语",
+              "text": "one question type"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(并列谓语)",
+          "color": "#a8dab5",
+          "text": "ignore the rest",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "ignore"
+            },
+            {
+              "role": "宾语",
+              "text": "the rest"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a new topic may defeat him without wide reading",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a new topic"
+            },
+            {
+              "role": "谓语",
+              "text": "may defeat"
+            },
+            {
+              "role": "宾语",
+              "text": "him"
+            },
+            {
+              "role": "状语",
+              "text": "without wide reading"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "后置定语 whatsoever",
+          "note": "whatsoever 放在名词之后加强否定语气,相当于 at all。"
+        },
+        {
+          "name": "specialise in",
+          "note": "specialise in 表示「专攻、专门从事」。"
+        },
+        {
+          "name": "多层并列转折",
+          "note": "and...and...yet 连接多个分句,形成递进与转折。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "a new topic may defeat him without wide reading",
+          "name": "后置定语 whatsoever"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "a new topic may defeat him without wide reading",
+          "name": "specialise in"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "a new topic may defeat him without wide reading",
+          "name": "多层并列转折"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):No method, whatsoever, can replace daily reading, and a student may specialise in one question type and ignore the rest, yet a new topic may defeat him without wide reading.",
+          "answer": "No method, whatsoever, can replace daily reading, and a student may specialise in one question type and ignore the rest, yet a new topic may defeat him without wide reading.",
+          "note": "whatsoever 放在名词之后加强否定语气,相当于 at all。",
+          "point": "后置定语 whatsoever"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):No method, whatsoever, can replace daily reading, and a student may specialise in one question type and ignore the rest, yet a new topic may defeat him without wide reading.",
+          "answer": "No method, whatsoever, can replace daily reading, and a student may specialise in one question type and ignore the rest, yet a new topic may defeat him without wide reading.",
+          "note": "specialise in 表示「专攻、专门从事」。",
+          "point": "specialise in"
+        }
+      ]
+    },
+    {
+      "text": "An honorable method of learning is to share our mistake with each other, and the best reader in our group may be a slow and steady one.",
+      "translation": "一种可敬的学习方法是彼此分享错误,而我们组里最好的读者可能是一个又慢又稳的人。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "An honorable method of learning is to share our mistake with each other",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An honorable method of learning"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to share our mistake with each other"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the best reader in our group may be a slow and steady one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the best reader in our group"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "a slow and steady one"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "to share our mistake with each other 作表语,说明方法的内容。"
+        },
+        {
+          "name": "最高级 the best",
+          "note": "the best reader 是最高级用法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "An honorable method of learning is to share our mistake with each other",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "An honorable method of learning is to share our mistake with each other",
+          "name": "最高级 the best"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An honorable method of learning is to share our mistake with each other, and the best reader in our group may be a slow and steady one.",
+          "answer": "An honorable method of learning is to share our mistake with each other, and the best reader in our group may be a slow and steady one.",
+          "note": "to share our mistake with each other 作表语,说明方法的内容。",
+          "point": "不定式作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An honorable method of learning is to share our mistake with each other, and the best reader in our group may be a slow and steady one.",
+          "answer": "An honorable method of learning is to share our mistake with each other, and the best reader in our group may be a slow and steady one.",
+          "note": "the best reader 是最高级用法。",
+          "point": "最高级 the best"
+        }
+      ]
+    },
+    {
+      "text": "Before the exam, we may review our old error together, and a small sprout of progress may grow into a real gain; a futile debate over a single answer may waste a whole evening, so we set a time limit for each question.",
+      "translation": "考试前,我们可能一起复习以前的错误,而一小点进步的嫩芽可能长成真正的收获。; 为一道题的答案作无谓的争论可能浪费整个晚上,所以我们为每个问题设定时间限制。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Before the exam"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may review our old error together",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may review"
+            },
+            {
+              "role": "宾语",
+              "text": "our old error"
+            },
+            {
+              "role": "状语",
+              "text": "together"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "a small sprout of progress may grow into a real gain",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a small sprout of progress"
+            },
+            {
+              "role": "谓语",
+              "text": "may grow"
+            },
+            {
+              "role": "状语",
+              "text": "into a real gain"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A futile debate over a single answer may waste a whole evening",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A futile debate over a single answer"
+            },
+            {
+              "role": "谓语",
+              "text": "may waste"
+            },
+            {
+              "role": "宾语",
+              "text": "a whole evening"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we set a time limit for each question",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "set"
+            },
+            {
+              "role": "宾语",
+              "text": "a time limit"
+            },
+            {
+              "role": "状语",
+              "text": "for each question"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "grow into",
+          "note": "grow into 表示「成长为」。"
+        },
+        {
+          "name": "因果连词 so",
+          "note": "so 引出解决方案:「所以…」。"
+        },
+        {
+          "name": "阅读方法论",
+          "note": "考场时间管理:每题设定时限,避免无谓争论。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A futile debate over a single answer may waste a whole evening",
+          "name": "grow into"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A futile debate over a single answer may waste a whole evening",
+          "name": "因果连词 so"
+        },
+        {
+          "grammarId": "g-s4u6",
+          "phrase": "A futile debate over a single answer may waste a whole evening",
+          "name": "阅读方法论"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before the exam, we may review our old error together, and a small sprout of progress may grow into a real gain; a futile debate over a single answer may waste a whole evening, so we set a time limit for each question.",
+          "answer": "Before the exam, we may review our old error together, and a small sprout of progress may grow into a real gain; a futile debate over a single answer may waste a whole evening, so we set a time limit for each question.",
+          "note": "grow into 表示「成长为」。",
+          "point": "grow into"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before the exam, we may review our old error together, and a small sprout of progress may grow into a real gain; a futile debate over a single answer may waste a whole evening, so we set a time limit for each question.",
+          "answer": "Before the exam, we may review our old error together, and a small sprout of progress may grow into a real gain; a futile debate over a single answer may waste a whole evening, so we set a time limit for each question.",
+          "note": "so 引出解决方案:「所以…」。",
+          "point": "因果连词 so"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u6",
+      "name": "介词短语作定语",
+      "note": "behind his answer 修饰 method。",
+      "sourceExample": "In our preparation group, we may analyse one reading passage every day, and each member may share the method behind his answer.",
+      "sourceExampleCn": "在我们的备考小组里,我们可能每天分析一篇阅读文章,而每个成员都可以分享他答案背后的方法。"
+    },
+    {
+      "grammarId": "g-s4u6",
+      "name": "learn not to do",
+      "note": "learn not to do sth 表示「学会不做某事」。",
+      "sourceExample": "A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+      "sourceExampleCn": "主旨题可能要求宏观的视野,而我们要学会不从一两个细节或单个段落就做出概括。"
+    },
+    {
+      "grammarId": "g-s4u6",
+      "name": "阅读方法论",
+      "note": "主旨题忌以偏概全,应看整体(general view),是本单元阅读题型方法的核心。",
+      "sourceExample": "A question on the main idea may require a general view, and we learn not to generalise from one detail or a single paragraph.",
+      "sourceExampleCn": "主旨题可能要求宏观的视野,而我们要学会不从一两个细节或单个段落就做出概括。"
+    },
+    {
+      "grammarId": "g-s4u6",
+      "name": "point to",
+      "note": "point to 表示「指向」。",
+      "sourceExample": "A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+      "sourceExampleCn": "细节题可能指向某一具体行,但错误选项可能对那一行的词作一点小改动后重复使用,这样的陷阱会浪费我们的时间。; 我们可能会在继续之前找出错误答案的元凶,而这一步能把错误变成教训。"
+    },
+    {
+      "grammarId": "g-s4u6",
+      "name": "before 时间状语从句",
+      "note": "before 引导时间状语从句,说明找出元凶的时机。",
+      "sourceExample": "A question on detail may point to a specific line, yet the wrong option may repeat the word of that line with a small change, and such a trap may waste our time; we may identify the culprit of a wrong answer before we move on, and this step may turn a mistake into a lesson.",
+      "sourceExampleCn": "细节题可能指向某一具体行,但错误选项可能对那一行的词作一点小改动后重复使用,这样的陷阱会浪费我们的时间。; 我们可能会在继续之前找出错误答案的元凶,而这一步能把错误变成教训。"
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+ "id": "cet6-053",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年7月 · 2020年7月英语六级真题(组合卷) Passage 1",
+ "title": "People often discuss the dangers of too much stress, but lately a very differ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "People often discuss the dangers of too much stress, but lately a very different view of stress is gaining popularity: this view of stress, held by members of the positive stress movement, argues that stress might actually be beneficial. The positive stress movement is made up of people such as Zachary Rapp who are looking for an edge in a competitive world, and Rapps routine is a good example of followers of the movement. He wakes up most mornings at dawn, goes for a run, sips black coffee while ripping through emails, and then steps into a freezing cold shower. This is a routine designed to reduce the stress of running simultaneously three different health and biotechnology companies for 18 hours a day.",
+  "Although Rapps practices may sound extreme, he is part of a growing movement, consisting largely of tech industry workers who claim that such radical tactics will help them live better and longer. Inspired by influential figures in different fields, including entertainers, athletes, entrepreneurs and scientists, positive stress practitioners seek out some combination of extreme temperatures, restrictive diets, punishing exercise routines and general discomfort.",
+  "Rapp argues that positive stress keeps him balanced. In addition to running and freezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy, sugar, alcohol and various other foods high in carbohydrates. He believes that these practices, which put stress on his body, actually make him feel less stress from work. However, Rapp does not credit anyone in particular for his choices: he said he started using these methods in college, where he got into the habit of taking ice baths to recover from sports. He got back into it while trying to get his three companies off the ground.",
+  "Rapp works long hours and sleeps only five to seven hours a night but he said he only gets sick once a year. For him, the difference between day-to-day stress, like the kind we feel when moving apartments, and positive stress is that the latter involves pushing the body to extremes and forcing it to build up a tolerance.",
+  "One thought leader in the positive stress world is Dutch extreme athlete Wim Hof, who earned the name \" ice man\" for his ability to withstand severe cold using deep breathing exercises. Hofs ideas have become popular among tech industry elites and, thanks to Hof, cold showers are now a trend; indeed, some even call it a form of therapy.",
+  "But it is important to note that not everyone agrees with these practitioners; indeed, some medical professionals argue that positive stress is not for everyone, and that it might even be dangerous for people who are unhealthy or older."
+ ],
+ "questions": [
+  {
+   "q": "文中 “difference” 最接近的意思是?",
+   "options": [
+    "差异",
+    "讨论，谈论",
+    "建筑",
+    "领袖，领导人"
+   ],
+   "answer": 0,
+   "analysis": "“difference” 意为「差异」。原文语境:For him, the difference between day-to-day stress, like the kind we feel when moving apartments, and positive stress is that the latter involves pushing the body to extremes and fo",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:In ___ to running and freezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy, sugar, alcohol and various other foods high in carbohydrates.",
+   "options": [
+    "biotechnology",
+    "leader",
+    "credit",
+    "addition"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“In addition to running and freezing showers, Rapp uses ice baths, hot yoga, and unconventional eating practices such as eliminating dairy, sugar, alcohol and various other foods high in carbohydrates.”。空格处应填入 “addition”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "As interdependent beings we cannot thrive independent of others",
+    "It is not controversial to say that an unhealthy diet causes bad health",
+    "Tennessee's technical and community colleges will not outsource ( ) managem",
+    "People often discuss the dangers of too much stress, but lately a very differ"
+   ],
+   "answer": 3,
+   "analysis": "本文以“People often discuss the dangers of too much stress, but lately a very different view of stress is gaining popularity: this view of stress, held by members of t”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

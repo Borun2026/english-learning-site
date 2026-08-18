@@ -1,0 +1,64 @@
+{
+ "id": "cet6-104",
+ "type": "cet6-passage",
+ "year": 2025,
+ "source": "六级真题 2025年12月 · 2025年12月英语六级真题(第1套) Passage 2",
+ "title": "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 457,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr. said, \"I believe that unarmed truth and unconditional love will have the final word in reality.\"",
+  "More than five decades later, our society is still struggling to separate truth from fantasy, fact from fiction. From disputes over the climate change to debates about how slavery is taught, America is at a crossroads. And the battle for equity is at the heart of these vital conversations.",
+  "Study after study shows that inequity has had appalling consequences. A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 � $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.",
+  "This statistic represents a flood of issues we've failed to confront as a nation. It also highlights one truth: We're missing out on valuable opportunities to bridge the differences that divide us. However, by honoring King's legacy, we can get our country back on the path toward true equity.",
+  "Students -- and adults for that matter -- simply cannot understand the conflicts we have today without understanding what caused them in the first place. That means we have a responsibility to help them make connections between US history and current events. It also means giving them the tools they need to address inequity and bias in their own lives. Adherence to these principles, along with a commitment to truthful dialogue, can help every student better appreciate how far we've come and more clearly see the roads we have yet to travel.",
+  "With more truthful analysis of the need for more qualified, diverse educators, we can improve our recruiting, training, and retention strategies for schools across the country.",
+  "Unfortunately, our deeply rooted divisions are delaying these advancements. A recent survey found that 77 percent of Americans believe the nation is \"more divided than ever before\". But reports of increased polarization shouldn't persuade us to look away from one another. Instead, they should compel us to address our shared issues",
+  "head-on. We are not, as some would suggest, living in a \"post-racial society\". We simply cannot afford to keep our",
+  "heads buried in the sand when it comes to racial inequity. Unless we get honest about intolerance, bias, and how these social diseases impact the ways we treat one another, injustice will continue to haunt us. But our children and our grandchildren deserve better.",
+  "On this Martin Luther King Day and beyond, let's commit to working together to disrupt the status quo. Let's continue to build a better, more inclusive nation; and in the words of Martin Luther King Jr., \"A society at peace with itself, a society that can live with its conscience.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “Prize” 最接近的意思是?",
+   "options": [
+    "建筑",
+    "不公正",
+    "奴隶制度",
+    "奖赏,奖金,奖品"
+   ],
+   "answer": 3,
+   "analysis": "“Prize” 意为「奖赏,奖金,奖品」。原文语境:During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 � $113 billion\" if equity issues related to higher ___ had been adequately addressed over the past two decades.",
+   "options": [
+    "address",
+    "acceptance",
+    "education",
+    "analysis"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“A 2020 report by Citi indicated that \"Black students could have increased their lifetime incomes $90 � $113 billion\" if equity issues related to higher education had been adequately addressed over the past two decades.”。空格处应填入 “education”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "One hundred thirty-five students, four teachers, one giant classroom: This is",
+    "Danielle Steel, the 7 1 -year-old romance novelist is notoriously productive,",
+    "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr",
+    "According to a recent study, a small but growing proportion of the workforce"
+   ],
+   "answer": 2,
+   "analysis": "本文以“During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

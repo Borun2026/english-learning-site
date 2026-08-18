@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u3",
+  "stage": 2,
+  "unitId": "s2u3",
+  "title": "听力挑战 · 讲述错过火车",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "同事",
+      "line": "Why did you miss the morning train today?",
+      "lineCn": "你今天为什么错过了早班火车?",
+      "grammar": [
+        { "name": "过去完成时 had done", "note": "had + 过去分词表示'过去的过去',在描述错过火车这类先后动作时常用。" }
+      ],
+      "options": [
+        { "text": "Because my alarm had not gone off.", "correct": true, "feedback": "闹钟没响发生在错过火车之前,用过去完成时很准确。" },
+        { "text": "Because I will wake up late.", "correct": false, "feedback": "will 表将来,与过去的错过事件矛盾。" },
+        { "text": "Because I am running slowly now.", "correct": false, "feedback": "现在进行时描述此刻,不能解释过去的迟到原因。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "What happened when you arrived at the station?",
+      "lineCn": "你到车站时发生了什么?",
+      "grammar": [
+        { "name": "过去完成时表先发生", "note": "火车先已离开、后到达车站,先用过去完成时表达更早的动作。" }
+      ],
+      "options": [
+        { "text": "The train had already left the platform.", "correct": true, "feedback": "火车离开先于到达,had left 表达先后顺序准确。" },
+        { "text": "The train is leaving right now.", "correct": false, "feedback": "现在进行时与过去的场景矛盾。" },
+        { "text": "The train will arrive soon.", "correct": false, "feedback": "将来时与已发生的错过事件不符。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "How did you get to work in the end?",
+      "lineCn": "最后你是怎么去上班的?",
+      "grammar": [
+        { "name": "过去完成时与一般过去时连用", "note": "描述过去场景时,先发生的动作用过去完成时,后发生的用一般过去时。" }
+      ],
+      "options": [
+        { "text": "I took a taxi after the train had left.", "correct": true, "feedback": "先发生 had left,后发生 took,主从时态使用得当。" },
+        { "text": "I have taken a bus before.", "correct": false, "feedback": "现在完成时谈泛泛经历,没有回答当天怎么去的。" },
+        { "text": "I am taking a train now.", "correct": false, "feedback": "现在进行时与问题时态不符。" }
+      ]
+    }
+  ]
+}

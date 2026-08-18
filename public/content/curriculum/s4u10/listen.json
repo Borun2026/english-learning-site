@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u10",
+  "stage": 4,
+  "unitId": "s4u10",
+  "title": "听力挑战 · 答辩演练",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "学生",
+      "line": "In my thesis, I argue that the policy that was implemented last year has failed to achieve its goals.",
+      "lineCn": "在论文中,我论证去年实施的那项政策未能实现其目标。",
+      "grammar": [
+        { "name": "宾语从句嵌套定语从句", "note": "argue that 引导宾语从句,其中 the policy that was implemented 又嵌套定语从句,是典型真题长难句结构。" }
+      ],
+      "options": [
+        { "text": "The thesis argues that the policy failed to reach its goals.", "correct": true, "feedback": "论文的核心观点是政策没有实现目标。" },
+        { "text": "The thesis fully supports the policy's achievements.", "correct": false, "feedback": "论文论证的是政策失败,而非支持它。" },
+        { "text": "The thesis never mentions the policy at all.", "correct": false, "feedback": "政策正是论文论证的主要对象。" }
+      ]
+    },
+    {
+      "speaker": "答辩委员",
+      "line": "Could you explain the method that you used to collect the data and why it was appropriate?",
+      "lineCn": "你能解释一下你收集数据所用的方法,以及它为什么合适吗?",
+      "grammar": [
+        { "name": "并列疑问 + 定语从句", "note": "the method that you used 是定语从句;why it was appropriate 与前面并列,要求既说方法又讲理由。" }
+      ],
+      "options": [
+        { "text": "The committee asks about the data collection method and its suitability.", "correct": true, "feedback": "委员会要求说明方法并解释其合理性。" },
+        { "text": "The committee asks about the thesis title only.", "correct": false, "feedback": "问题针对数据收集方法,与题目无关。" },
+        { "text": "The committee asks about the conclusion only.", "correct": false, "feedback": "问题涉及方法及其适用性,不是结论。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "Although the sample size was small, the results were consistent, which strengthens our confidence in the findings.",
+      "lineCn": "虽然样本量较小,但结果一致,这增强了我们对发现的信心。",
+      "grammar": [
+        { "name": "让步从句 + 非限制性定语从句", "note": "Although 让步(样本小)与主句(结果一致)对比;which 指代整个主句内容,是长难句高频结构。" }
+      ],
+      "options": [
+        { "text": "Consistent results despite a small sample increase confidence.", "correct": true, "feedback": "样本虽小但结果一致,增强了研究信心。" },
+        { "text": "The small sample makes all the findings unreliable.", "correct": false, "feedback": "结果一致反而增强了信心,原文并非否定。" },
+        { "text": "The results were inconsistent across the samples.", "correct": false, "feedback": "原文明确说结果是一致的。" }
+      ]
+    },
+    {
+      "speaker": "答辩委员",
+      "line": "What further research do you recommend, and how would it address the limitations of this study?",
+      "lineCn": "你建议开展哪些后续研究?它又将如何弥补本研究的不足?",
+      "grammar": [
+        { "name": "并列特殊疑问句", "note": "两个疑问句并列:what 问研究建议,how 问弥补方式;it 指代后续研究,注意指代关系。" }
+      ],
+      "options": [
+        { "text": "The committee asks about future research and the study's limitations.", "correct": true, "feedback": "委员会问的是后续研究建议及其如何弥补局限。" },
+        { "text": "The committee asks about the publication date of the paper.", "correct": false, "feedback": "问题与发表时间无关。" },
+        { "text": "The committee thinks the study has no limitations.", "correct": false, "feedback": "问题本身默认研究存在局限,需要弥补。" }
+      ]
+    }
+  ]
+}

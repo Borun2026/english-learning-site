@@ -1,0 +1,57 @@
+{
+  "id": "e-s1u1",
+  "stage": 1,
+  "unitId": "s1u1",
+  "title": "真题演练 · 基本句型与 be 动词",
+  "hint": "本组题目按本单元语法点(主系表结构、be 动词、一般疑问句)从新概念英语第一册 Lesson 1-2 课后练习改编。答错后点击「回溯语法课」可跳回对应讲解。",
+  "questions": [
+    {
+      "q": "She ___ my best friend.",
+      "options": ["am", "is", "are", "be"],
+      "answer": 1,
+      "analysis": "主语 she 是第三人称单数,be 动词用 is。",
+      "point": "g-s1u1",
+      "source": "NCE1 L1 课后练习改编"
+    },
+    {
+      "q": "I ___ happy today.",
+      "options": ["am", "is", "are", "be"],
+      "answer": 0,
+      "analysis": "主语是 I 时,be 动词永远用 am。",
+      "point": "g-s1u1",
+      "source": "NCE1 L1 课后练习改编"
+    },
+    {
+      "q": "___ you a student?",
+      "options": ["Is", "Am", "Are", "Be"],
+      "answer": 2,
+      "analysis": "一般疑问句把 be 动词提到句首;主语 you 搭配 are。",
+      "point": "g-s1u1",
+      "source": "NCE1 L2 一般疑问句改编"
+    },
+    {
+      "q": "This ___ my brother.",
+      "options": ["am", "is", "are", "be"],
+      "answer": 1,
+      "analysis": "this 作主语视为单数,be 动词用 is。",
+      "point": "g-s1u1",
+      "source": "自编基础语法题"
+    },
+    {
+      "q": "They ___ my parents.",
+      "options": ["am", "is", "are", "be"],
+      "answer": 2,
+      "analysis": "主语 they 是复数,be 动词用 are。",
+      "point": "g-s1u1",
+      "source": "自编基础语法题"
+    },
+    {
+      "q": "___ this your book? — Yes, it is.",
+      "options": ["Is", "Am", "Are", "Be"],
+      "answer": 0,
+      "analysis": "一般疑问句把 be 提到句首;this 搭配 is。",
+      "point": "g-s1u1",
+      "source": "NCE1 L2 一般疑问句改编"
+    }
+  ]
+}

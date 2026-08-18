@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u1",
+  "stage": 4,
+  "unitId": "s4u1",
+  "title": "听力挑战 · 考研复试自我介绍",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "主考官",
+      "line": "Could you briefly introduce your academic background and explain your major research interests to the committee?",
+      "lineCn": "你能向评审委员会简要介绍一下你的学业背景,并说明你的主要研究兴趣吗?",
+      "grammar": [
+        { "name": "长难句拆解:先找主干", "note": "去掉 could you briefly 等修饰,主干是 introduce your background and explain your interests,两个并列谓语由一个 and 连接。" }
+      ],
+      "options": [
+        { "text": "I studied applied linguistics and am interested in second language acquisition research.", "correct": true, "feedback": "既回答了学业背景,又说明了研究兴趣,完全对应考官的问题。" },
+        { "text": "I enjoy reading novels during my spare time.", "correct": false, "feedback": "这是业余爱好,不是学术背景或研究兴趣。" },
+        { "text": "My hometown is a small city in the north of China.", "correct": false, "feedback": "回答的是家乡信息,与学术背景和研究兴趣无关。" }
+      ]
+    },
+    {
+      "speaker": "考生",
+      "line": "I believe my greatest strength lies in my ability to analyze complex problems patiently and systematically.",
+      "lineCn": "我认为我最大的优势在于耐心而系统地分析复杂问题的能力。",
+      "grammar": [
+        { "name": "定语修饰剥离", "note": "ability 后接不定式 to analyze 作定语;patiently and systematically 是并列状语,先剥离修饰再看主干 I believe my strength lies in my ability。" }
+      ],
+      "options": [
+        { "text": "His main strength is analyzing complex problems with patience.", "correct": true, "feedback": "准确概括了他的优势:耐心系统地分析复杂问题。" },
+        { "text": "His main strength is working abroad for many years.", "correct": false, "feedback": "原文没有提到出国工作经历。" },
+        { "text": "His main strength is public speaking skills.", "correct": false, "feedback": "演讲能力在原文中并未出现。" }
+      ]
+    },
+    {
+      "speaker": "考生",
+      "line": "Although my undergraduate grades were not outstanding, I gained valuable research experience through several projects.",
+      "lineCn": "虽然我的本科成绩并不突出,但我通过几个项目积累了宝贵的研究经验。",
+      "grammar": [
+        { "name": "让步状语从句 + 主句对比", "note": "Although 引导让步从句(成绩不突出),主句笔锋一转强调研究经验,构成转折对比。" }
+      ],
+      "options": [
+        { "text": "He gained research experience despite average grades.", "correct": true, "feedback": "虽然成绩一般,但他获得了研究经验,正是原句含义。" },
+        { "text": "He ranked first in his undergraduate class.", "correct": false, "feedback": "原文说他成绩并不突出,并非第一名。" },
+        { "text": "He never participated in any research project.", "correct": false, "feedback": "与原文相反,他参加了多个项目。" }
+      ]
+    },
+    {
+      "speaker": "考生",
+      "line": "The reason why I choose this university is that its faculty members specialize in my field of interest.",
+      "lineCn": "我选择这所大学的原因是这里的教师专门研究我感兴趣的领域。",
+      "grammar": [
+        { "name": "表语从句拆解", "note": "主句主干是 The reason is that...;why I choose this university 是定语从句修饰 reason,表语从句 that its faculty members specialize in... 说明原因。" }
+      ],
+      "options": [
+        { "text": "He chose the university because of the expertise of its faculty.", "correct": true, "feedback": "原因正是师资在其兴趣领域有专长。" },
+        { "text": "He chose the university because the tuition is very low.", "correct": false, "feedback": "学费高低在原文中没有提及。" },
+        { "text": "He chose the university because it is near his home.", "correct": false, "feedback": "地理位置不是他选择的原因。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,308 @@
+{
+ "id": "z2013-reading-2",
+ "year": 2013,
+ "section": "reading",
+ "index": 2,
+ "source": "2013年全国硕士研究生招生考试英语(一)",
+ "title": "Reading Text 2",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "An old saying has it that half of all advertising budgets are wasted—the trouble is, no one knows which half.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In the internet age, at least in theory, this fraction can be much reduced.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "By watching what people search for, click on and say online, companies can aim “behavioral” ads at those most likely to buy.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In the past couple of weeks a quarrel has illustrated the value to advertisers of such fine-grained information: Should advertisers assume that people are happy to be tracked and sent behavioral ads?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Or should they have explicit permission?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In December 2010 America’s Federal Trade Commission (FTC) proposed adding a “do not track” (DNT) option to internet browsers, so that users could tell advertisers that they did not want to be followed.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Microsoft’s Internet Explorer and Apple’s Safari both offer DNT; Google’s Chrome is due to do so this year.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "In February the FTC and Digital Advertising Alliance (DAA) agreed that the industry would get cracking on responding to DNT requests.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "On May 31st Microsoft set off the row: It said that InternetExplorer 10, the version due to appear Windows 8, would have DNT as a default.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Advertisers are horrified.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Human nature being what it is, most people stick with default settings.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Few switch DNT on now, but if tracking is off it will stay off.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Bob Liodice, the chief executive of the Association of National Advertisers, says consumers will be worse off if the industry cannot collect information about their preferences.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "People will not get fewer ads, he says, “they’ll get less meaningful, less targeted ads.”",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It is not yet clear how advertisers will respond.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Getting a DNT signal does not oblige anyone to stop tracking, although some companies have promised to do so.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Unable to tell whether someone really objects to behavioral ads or whether they are sticking with Microsoft’s default, some may ignore a DNT signal and press on anyway.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Also unclear is why Microsoft has gone it alone.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "After all, it has an ad business too, which it says will comply with DNT requests, though it is still working out how.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "If it is trying to upset Google, which relies almost wholly on advertising, it has chosen an indirect method: There is no guarantee that DNT by default will become the norm.DNT does not seem an obviously huge selling point for Windows 8—though the firm has compared some of its other products favorably with Google’s on that count before.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Brendon Lynch, Microsoft’s chief privacy officer, blogged: “we believe consumers should have more control.” Could it really be that simple?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "26.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "It is suggested in paragraph 1 that “behavioral” ads help advertisers to _______.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] lower their operational costs [B] ease competition among themselves",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] avoid complaints from consumers [D] provide better online services",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "27.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "“The industry” (Line 5, Para.3) refers to_______.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] online advertisers [B] e-commerce conductors",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] digital information analysis [D] internet browser developers",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "28.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Bob Liodice holds that setting DNT as a default _______.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] goes against human nature [B] fails to affect the ad industry",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] will not benefit consumers [D] many cut the number of junk ads",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "29.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Which of the following is true according to Paragraph 6?",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] Advertisers are obliged to offer behavioral ads [B] DNT may not serve its intended purpose",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[C] DNT is losing its popularity among consumers [D] Advertisers are willing to implement DNT",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "30.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The author’s attitude towards what Brendon Lynch said in his blog is one of_______.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "[A] appreciation [B] understanding [C] indulgence [D] skepticism",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "It is suggested in paragraph 1 that “behavioral” ads help advertisers to _______.",
+   "options": [
+    "lower their operational costs",
+    "ease competition among themselves",
+    "avoid complaints from consumers",
+    "provide better online services"
+   ],
+   "answer": 1,
+   "analysis": "根据题干,首先定位到首段中的句子companiescanaim“behavioral”adsatthosemostlikelytobuy.这段\n的大意是:在互联网时代,通过观察用户在线的搜索、点击和评论行为,公司能够向那些最可能买账的用户投\n放“behavioral”广告,使得广告更有针对性,从而降低预算成本,也就是“thisfractioncanbemuchreduced”,与答\n案B“lowertheiroperationalcosts”是同意替换,故选答案B。A、C和D选项文中并未提及,属于无中生有,\n故不选。"
+  },
+  {
+   "q": "“The industry” (Line 5, Para.3) refers to_______.",
+   "options": [
+    "online advertisers",
+    "e-commerce conductors",
+    "digital information analysis",
+    "internet browser developers"
+   ],
+   "answer": 3,
+   "analysis": "根据题干,首先回文定位到第三段第六行的“theFTCandDigitalAdvertisingAlliance(DAA)agreedthat\ntheindustrywouldgetcrackingonrespondingtoDNTrequests”,industry这个词前面有定冠词the,说明它在语篇\n中指代前面句子中提到的内容,而前面出现的MicrosoftInternetExplorer,Apple’sSafair和Google’sChrome都\n是互联网浏览器的开发商,D选项中的“Internetbrowserdevelopers”正好符合此意。B和C选项文中并未提及,\n属于无中生有。A选项尽管在文中提到过,但是其并非本段中谈论的核心。"
+  },
+  {
+   "q": "Bob Liodice holds that setting DNT as a default _______.",
+   "options": [
+    "goes against human nature",
+    "fails to affect the ad industry",
+    "will not benefit consumers",
+    "many cut the number of junk ads"
+   ],
+   "answer": 0,
+   "analysis": "根据题干信息中的专有名词“BobLiodice”,我们可以直接定位到文章第五段第四句话“…consumerswill\nbeworseoffiftheindustrycannotcollectinformationabouttheirpreferences”,这句话的意思是“当浏览器开发者不\n能收集消费者网上购物倾向时,消费者并不能从中受益”。由此可以判断A项正确。B、C和D选项在文中并\n未提及,属于无中生有,故不选。"
+  },
+  {
+   "q": "Which of the following is true according to Paragraph 6?",
+   "options": [
+    "Advertisers are obliged to offer behavioral ads",
+    "DNT may not serve its intended purpose",
+    "DNT is losing its popularity among consumers",
+    "Advertisers are willing to implement DNT"
+   ],
+   "answer": 0,
+   "analysis": "根据题干,可以定位到第六段。解题关键在于理解本段的行文逻辑,即“unabletotellwhether…orwhether,\nsomemayignore…”。也就是说“由于不能辨别有些主体是真正反对行为广告,也不能辨别它们支持微软的做法,\n有些人甚至忽视DNT,继续先前的做法。”由此可以判断,如果设置了默认项,那DNT就失去了效果,即无法\n完成其应用的功能。所以A项符合题意。B、C和D选项内容在本段中均没有提及,属于无中生有,故不选。"
+  },
+  {
+   "q": "The author’s attitude towards what Brendon Lynch said in his blog is one of_______. Text 3 Up until a few decades ago, our visions of the future were largely—though by no means uniformly—glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all. Now utopia has grown unfashionable, as we have gained a deeper appreciation of the range of threats facing us, from asteroid strike to epidemic flu to climate change. You might even be tempted to assume that humanity has little future to look forward to. But such gloominess is misplaced. The fossil record shows that many species have endured for millions of years—so why shouldn’t we? Take a broader look at our species’ place in the universe, and it becomes clear that we have an excellent chance of surviving for tens, if not hundreds, of thousands of years. Look up Homo sapiens in the “Red List” of threatened species of the international Union for the Concentration of Nature (IUCN), and you will read: “Listed as Least Concern as the species is very widely distributed, adaptable, currently increasing, and there are no major threats resulting in an overall population decline.” So what does our deep future hold? A growing number of researchers and organizations are now thinking seriously about that question. For example, the Long Now Foundation has as its flagship project a mechanical clock that is designed to still be marking time thousands of years hence. Perhaps willfully, it may be easier to think about such lengthy timescales than about the more immediate future. The potential evolution of today’s technology, and its social consequences, is dazzlingly complicated, and it’s perhaps best left to science-fiction writers and futurologists to explore the many possibilities we can envisage. That’s one reason why we have launched Arc, a new publication dedicated to the near future. But take a longer view and there is a surprising amount that we can say with considerable assurance. As so often, the past holds the key to the future: we have now identified enough of the long-term patterns shaping the history of the planet, and our species, to make evidence-based forecasts about the situations in which our descendants will find themselves. This long perspective makes the pessimistic view of our prospects seem more likely to be a passing fad. To be sure, the future is not all rosy. But we are now knowledgeable enough to reduce many of the risks that threatened the existence of earlier humans, and to improve the lot of those to come.",
+   "options": [
+    "appreciation",
+    "understanding",
+    "indulgence",
+    "skepticism"
+   ],
+   "answer": 3,
+   "analysis": "根据题干,可以定位到文章最后一段倒数第二句,BrendonLynch,Microsoft'schiefprivacyofficer,blogged:\n“webelieveconsumersshouldhavemorecontrol.”这句话的意思是BrendonLynch在博客中评论道:“我们认为消\n费者应该有更大的自主权(或掌控权)”。而对于此题,解题关键在于紧跟的最后一句“Coulditbereallythat\nsimple?”,这是个反问句,从中我们可以明显看出作者所持有的怀疑态度,故D选项正确。\n三、长难句解析"
+  }
+ ]
+}

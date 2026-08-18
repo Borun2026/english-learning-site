@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u4",
+  "stage": 5,
+  "unitId": "s5u4",
+  "title": "听力挑战 · 观点辩论",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "辩手",
+      "line": "In my opinion, remote work improves productivity, provided that employees maintain clear daily schedules and goals.",
+      "lineCn": "在我看来,只要员工保持清晰的日常安排和目标,远程工作就能提高生产力。",
+      "grammar": [
+        { "name": "观点陈述 + 条件限定", "note": "In my opinion 引出观点;provided that 引导条件从句,是观点论述中给出前提条件的标准结构。" }
+      ],
+      "options": [
+        { "text": "Remote work boosts productivity if schedules are kept clear.", "correct": true, "feedback": "在有清晰安排的前提下,远程工作提升效率。" },
+        { "text": "Remote work always reduces productivity in every case.", "correct": false, "feedback": "辩手认为在条件满足时它提升生产力。" },
+        { "text": "Remote work has no measurable effect on productivity.", "correct": false, "feedback": "辩手明确认为它能提高生产力。" }
+      ]
+    },
+    {
+      "speaker": "辩手",
+      "line": "Opponents may argue that teamwork suffers in virtual settings, but modern tools largely bridge that gap.",
+      "lineCn": "对方辩友可能会说团队合作在虚拟环境中受影响,但现代工具在很大程度上弥补了这一差距。",
+      "grammar": [
+        { "name": "反驳对方论点句式", "note": "Opponents may argue that... but... 是先立靶再反驳的辩论句式;bridge the gap 表示弥补差距。" }
+      ],
+      "options": [
+        { "text": "Modern tools mostly close the teamwork gap online.", "correct": true, "feedback": "现代工具能弥补远程协作的差距。" },
+        { "text": "Modern tools make online teamwork even worse.", "correct": false, "feedback": "工具起的是弥补而非加剧的作用。" },
+        { "text": "The opponents completely agree with the speaker.", "correct": false, "feedback": "对方观点被引用后即被反驳。" }
+      ]
+    },
+    {
+      "speaker": "辩手",
+      "line": "From my perspective, the benefits of flexible hours outweigh the drawbacks when measured against long-term outcomes.",
+      "lineCn": "从我的角度看,就长期结果而言,弹性工作时间的利大于弊。",
+      "grammar": [
+        { "name": "利弊权衡句式", "note": "From my perspective 引出立场;outweigh 表利大于弊,when measured 是被动分词短语作状语。" }
+      ],
+      "options": [
+        { "text": "Flexible hours bring more advantages than disadvantages in the long run.", "correct": true, "feedback": "从长期看,弹性工时的好处超过坏处。" },
+        { "text": "The drawbacks clearly outweigh the benefits of flexible hours.", "correct": false, "feedback": "辩手认为利大于弊,而非弊大于利。" },
+        { "text": "Flexible hours have no measurable long-term outcomes.", "correct": false, "feedback": "辩手正是从长期结果来衡量利弊的。" }
+      ]
+    },
+    {
+      "speaker": "反方辩手",
+      "line": "It cannot be denied that face-to-face communication remains valuable, yet it is not always necessary for every task.",
+      "lineCn": "不可否认面对面的交流仍然宝贵,但它并非每项任务都必需。",
+      "grammar": [
+        { "name": "让步转折框架", "note": "It cannot be denied that... 承认对方合理之处;yet 转折强调并非总是必需,是辩论的平衡手法。" }
+      ],
+      "options": [
+        { "text": "Face-to-face contact is valuable but not essential for every task.", "correct": true, "feedback": "面对面交流宝贵,但并非所有任务必需。" },
+        { "text": "Face-to-face contact is essential for every single task.", "correct": false, "feedback": "辩手认为它并非所有任务都必需。" },
+        { "text": "Face-to-face contact is completely worthless today.", "correct": false, "feedback": "辩手承认它仍然宝贵。" }
+      ]
+    },
+    {
+      "speaker": "辩手",
+      "line": "To sum up, a balanced approach that combines remote flexibility with regular in-person meetings seems most reasonable.",
+      "lineCn": "总之,把远程灵活性与定期线下会议结合起来的平衡做法似乎最合理。",
+      "grammar": [
+        { "name": "辩论总结句式", "note": "To sum up 总起;that combines... with... 定语从句修饰 approach;seems most reasonable 给出最终立场。" }
+      ],
+      "options": [
+        { "text": "A mix of remote work and in-person meetings is the most sensible option.", "correct": true, "feedback": "远程与线下结合的做法最合理。" },
+        { "text": "Only remote work is a sensible option.", "correct": false, "feedback": "辩手主张的是结合两者,而非只选其一。" },
+        { "text": "Only in-person meetings should be considered.", "correct": false, "feedback": "平衡方案包含远程与线下,并非单方面。" }
+      ]
+    }
+  ]
+}

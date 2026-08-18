@@ -1,0 +1,868 @@
+{
+  "id": "a-s2u1",
+  "stage": 2,
+  "unitId": "s2u1",
+  "title": "A Busy Morning at the Cafe",
+  "newWords": [
+    "currently",
+    "cooperative",
+    "client",
+    "constantly",
+    "additional",
+    "curiosity",
+    "despite",
+    "detail",
+    "attentive",
+    "anticipate",
+    "diligent",
+    "asking",
+    "students",
+    "warmly",
+    "watching"
+  ],
+  "sentences": [
+    {
+      "text": "Currently, it is a busy morning at the Sunny Cafe, and the cooperative staff are making coffee constantly.",
+      "translation": "目前,阳光咖啡馆的早晨很忙碌,合作的员工们正在不停地煮咖啡。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Currently"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "it is a busy morning at the Sunny Cafe",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a busy morning at the Sunny Cafe"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the cooperative staff are making coffee",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the cooperative staff"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "are making"
+            },
+            {
+              "role": "宾语",
+              "text": "coffee"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "constantly"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在进行时 be + doing",
+          "note": "are making 由 be(are)+现在分词(making)构成,表示此刻正在进行的动作。",
+          "example": "The staff are making coffee.",
+          "exampleCn": "员工们正在煮咖啡。"
+        },
+        {
+          "name": "进行时标志词",
+          "note": "currently、constantly 等副词常与现在进行时连用,表示现阶段持续发生的事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "the cooperative staff are making coffee",
+          "name": "现在进行时 be + doing"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "the cooperative staff are making coffee",
+          "name": "进行时标志词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:员工们正在煮咖啡。",
+          "answer": "The staff are making coffee.",
+          "note": "are making 由 be(are)+现在分词(making)构成,表示此刻正在进行的动作。",
+          "point": "现在进行时 be + doing"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Currently, it is a busy morning at the Sunny Cafe, and the cooperative staff are making coffee constantly.",
+          "answer": "Currently, it is a busy morning at the Sunny Cafe, and the cooperative staff are making coffee constantly.",
+          "note": "currently、constantly 等副词常与现在进行时连用,表示现阶段持续发生的事。",
+          "point": "进行时标志词"
+        }
+      ]
+    },
+    {
+      "text": "A client is reading the menu while his friend is standing in line.",
+      "translation": "一位顾客正在看菜单,而他的朋友正在排队。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A client is reading the menu",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A client"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is reading"
+            },
+            {
+              "role": "宾语",
+              "text": "the menu"
+            }
+          ]
+        },
+        {
+          "label": "连词(while 引导时间状语从句)",
+          "color": "#f6c177",
+          "text": "while"
+        },
+        {
+          "label": "从句(时间状语从句)",
+          "color": "#c8a5e0",
+          "text": "his friend is standing in line"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "while 引导时间状语从句",
+          "note": "while 表示\"当……的时候\",主句与从句都用进行时,表示两个动作同时进行。",
+          "example": "She is singing while I am dancing.",
+          "exampleCn": "我在跳舞时她在唱歌。"
+        },
+        {
+          "name": "stand in line 排队",
+          "note": "standing in line 是现在进行时,表示\"正在排队\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "his friend is standing in line",
+          "name": "while 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "his friend is standing in line",
+          "name": "stand in line 排队"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我在跳舞时她在唱歌。",
+          "answer": "She is singing while I am dancing.",
+          "note": "while 表示\"当……的时候\",主句与从句都用进行时,表示两个动作同时进行。",
+          "point": "while 引导时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A client is reading the menu while his friend is standing in line.",
+          "answer": "A client is reading the menu while his friend is standing in line.",
+          "note": "standing in line 是现在进行时,表示\"正在排队\"。",
+          "point": "stand in line 排队"
+        }
+      ]
+    },
+    {
+      "text": "The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+      "translation": "细心的服务员正在热情地和他们打招呼,并告诉他们今天的特色咖啡。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The attentive waiter is greeting them",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The attentive waiter"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is greeting"
+            },
+            {
+              "role": "宾语",
+              "text": "them"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "warmly"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "is telling them about the special coffee of the day",
+          "parts": [
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is telling"
+            },
+            {
+              "role": "宾语",
+              "text": "them"
+            },
+            {
+              "role": "状语",
+              "text": "about the special coffee of the day"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语用进行时",
+          "note": "and 连接两个 be+doing(is greeting/is telling),相同主语可省略,表示同时进行。"
+        },
+        {
+          "name": "tell sb. about sth.",
+          "note": "tell 后接人再接 about,表示\"告诉某人关于某事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "is telling them about the special coffee of the day",
+          "name": "并列谓语用进行时"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "is telling them about the special coffee of the day",
+          "name": "tell sb. about sth."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+          "answer": "The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+          "note": "and 连接两个 be+doing(is greeting/is telling),相同主语可省略,表示同时进行。",
+          "point": "并列谓语用进行时"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+          "answer": "The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+          "note": "tell 后接人再接 about,表示\"告诉某人关于某事\"。",
+          "point": "tell sb. about sth."
+        }
+      ]
+    },
+    {
+      "text": "The young man is thinking about his order, and he is asking for an additional cup of tea.",
+      "translation": "那个年轻男子正在考虑他的订单,他正在要求再加一杯茶。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The young man is thinking",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The young man"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is thinking"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "about his order"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he is asking for an additional cup of tea",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is asking for"
+            },
+            {
+              "role": "宾语",
+              "text": "an additional cup of tea"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "think about / ask for",
+          "note": "think about 表示\"考虑\",ask for 表示\"要求、索要\",两者都常用于进行时态。",
+          "example": "He is asking for more milk.",
+          "exampleCn": "他正在要求多加牛奶。"
+        },
+        {
+          "name": "a cup of 一杯",
+          "note": "a cup of tea 是\"一杯茶\",cup 是量词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "he is asking for an additional cup of tea",
+          "name": "think about / ask for"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "he is asking for an additional cup of tea",
+          "name": "a cup of 一杯"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他正在要求多加牛奶。",
+          "answer": "He is asking for more milk.",
+          "note": "think about 表示\"考虑\",ask for 表示\"要求、索要\",两者都常用于进行时态。",
+          "point": "think about / ask for"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The young man is thinking about his order, and he is asking for an additional cup of tea.",
+          "answer": "The young man is thinking about his order, and he is asking for an additional cup of tea.",
+          "note": "a cup of tea 是\"一杯茶\",cup 是量词。",
+          "point": "a cup of 一杯"
+        }
+      ]
+    },
+    {
+      "text": "His wife is finding a quiet table near the window and is watching the street with curiosity.",
+      "translation": "他的妻子正在找一张靠窗的安静桌子,并好奇地看着街道。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "His wife is finding a quiet table",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "His wife"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is finding"
+            },
+            {
+              "role": "宾语",
+              "text": "a quiet table"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "near the window"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "is watching the street",
+          "parts": [
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is watching"
+            },
+            {
+              "role": "宾语",
+              "text": "the street"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with curiosity"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作定语",
+          "note": "near the window 修饰 table,说明\"在哪里的\"桌子,放在名词后面。"
+        },
+        {
+          "name": "with curiosity 好奇地",
+          "note": "with+抽象名词 表示伴随状态,作方式状语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "His wife is finding a quiet table",
+          "name": "介词短语作定语"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "His wife is finding a quiet table",
+          "name": "with curiosity 好奇地"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):His wife is finding a quiet table near the window and is watching the street with curiosity.",
+          "answer": "His wife is finding a quiet table near the window and is watching the street with curiosity.",
+          "note": "near the window 修饰 table,说明\"在哪里的\"桌子,放在名词后面。",
+          "point": "介词短语作定语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):His wife is finding a quiet table near the window and is watching the street with curiosity.",
+          "answer": "His wife is finding a quiet table near the window and is watching the street with curiosity.",
+          "note": "with+抽象名词 表示伴随状态,作方式状语。",
+          "point": "with curiosity 好奇地"
+        }
+      ]
+    },
+    {
+      "text": "Two students are learning how to make coffee, and their teacher is training them with patience.",
+      "translation": "两个学生正在学习如何煮咖啡,他们的老师正耐心地训练他们。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Two students are learning how to make coffee",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Two students"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "are learning"
+            },
+            {
+              "role": "宾语",
+              "text": "how to make coffee"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "their teacher is training them",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "their teacher"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is training"
+            },
+            {
+              "role": "宾语",
+              "text": "them"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with patience"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "learn how to do",
+          "note": "learn how to make coffee 表示\"学习如何煮咖啡\",how+不定式作宾语。"
+        },
+        {
+          "name": "with patience 耐心地",
+          "note": "with patience 作方式状语,修饰正在进行的动作 is training。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "Two students are learning how to make coffee",
+          "name": "learn how to do"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "Two students are learning how to make coffee",
+          "name": "with patience 耐心地"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Two students are learning how to make coffee, and their teacher is training them with patience.",
+          "answer": "Two students are learning how to make coffee, and their teacher is training them with patience.",
+          "note": "learn how to make coffee 表示\"学习如何煮咖啡\",how+不定式作宾语。",
+          "point": "learn how to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Two students are learning how to make coffee, and their teacher is training them with patience.",
+          "answer": "Two students are learning how to make coffee, and their teacher is training them with patience.",
+          "note": "with patience 作方式状语,修饰正在进行的动作 is training。",
+          "point": "with patience 耐心地"
+        }
+      ]
+    },
+    {
+      "text": "Despite the crowd, everyone is feeling happy, and the cafe is full of laughter.",
+      "translation": "尽管人很多,每个人都很开心,咖啡馆里充满了笑声。",
+      "chunks": [
+        {
+          "label": "让步状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "Despite the crowd"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "everyone is feeling happy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "everyone"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is feeling"
+            },
+            {
+              "role": "表语",
+              "text": "happy"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the cafe is full of laughter",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the cafe"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "full of laughter"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "despite 尽管",
+          "note": "despite 后接名词短语,相当于 although+句子,表示让步。",
+          "example": "Despite the rain, we went out.",
+          "exampleCn": "尽管下雨,我们还是出门了。"
+        },
+        {
+          "name": "be full of 充满",
+          "note": "be full of 表示\"充满\",后接名词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "the cafe is full of laughter",
+          "name": "despite 尽管"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "the cafe is full of laughter",
+          "name": "be full of 充满"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:尽管下雨,我们还是出门了。",
+          "answer": "Despite the rain, we went out.",
+          "note": "despite 后接名词短语,相当于 although+句子,表示让步。",
+          "point": "despite 尽管"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Despite the crowd, everyone is feeling happy, and the cafe is full of laughter.",
+          "answer": "Despite the crowd, everyone is feeling happy, and the cafe is full of laughter.",
+          "note": "be full of 表示\"充满\",后接名词。",
+          "point": "be full of 充满"
+        }
+      ]
+    },
+    {
+      "text": "The diligent manager is reading the report in detail and is greeting every client with care.",
+      "translation": "勤勉的经理正在仔细阅读报告,并认真地和每一位顾客打招呼。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The diligent manager is reading the report",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The diligent manager"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is reading"
+            },
+            {
+              "role": "宾语",
+              "text": "the report"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "in detail"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "is greeting every client",
+          "parts": [
+            {
+              "role": "谓语(现在进行时)",
+              "text": "is greeting"
+            },
+            {
+              "role": "宾语",
+              "text": "every client"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "with care"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in detail 详细地",
+          "note": "in detail 作方式状语,表示\"详细地\"。"
+        },
+        {
+          "name": "with care 认真地",
+          "note": "with care 修饰 is greeting,表示\"认真地、小心地\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "The diligent manager is reading the report",
+          "name": "in detail 详细地"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "The diligent manager is reading the report",
+          "name": "with care 认真地"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The diligent manager is reading the report in detail and is greeting every client with care.",
+          "answer": "The diligent manager is reading the report in detail and is greeting every client with care.",
+          "note": "in detail 作方式状语,表示\"详细地\"。",
+          "point": "in detail 详细地"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The diligent manager is reading the report in detail and is greeting every client with care.",
+          "answer": "The diligent manager is reading the report in detail and is greeting every client with care.",
+          "note": "with care 修饰 is greeting,表示\"认真地、小心地\"。",
+          "point": "with care 认真地"
+        }
+      ]
+    },
+    {
+      "text": "The staff are still making fresh coffee in the afternoon, because they anticipate a busy evening.",
+      "translation": "下午员工们仍在煮新鲜的咖啡,因为他们预见到晚上会很忙。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The staff are still making fresh coffee",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The staff"
+            },
+            {
+              "role": "谓语(现在进行时)",
+              "text": "are still making"
+            },
+            {
+              "role": "宾语",
+              "text": "fresh coffee"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in the afternoon"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "they anticipate a busy evening"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "still + 现在进行时",
+          "note": "still 表示\"仍然\",常与进行时连用,强调动作仍在持续。"
+        },
+        {
+          "name": "because 引导原因状语从句",
+          "note": "because 说明原因,从句表示\"因为……\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "The staff are still making fresh coffee",
+          "name": "still + 现在进行时"
+        },
+        {
+          "grammarId": "g-s2u1",
+          "phrase": "The staff are still making fresh coffee",
+          "name": "because 引导原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The staff are still making fresh coffee in the afternoon, because they anticipate a busy evening.",
+          "answer": "The staff are still making fresh coffee in the afternoon, because they anticipate a busy evening.",
+          "note": "still 表示\"仍然\",常与进行时连用,强调动作仍在持续。",
+          "point": "still + 现在进行时"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The staff are still making fresh coffee in the afternoon, because they anticipate a busy evening.",
+          "answer": "The staff are still making fresh coffee in the afternoon, because they anticipate a busy evening.",
+          "note": "because 说明原因,从句表示\"因为……\"。",
+          "point": "because 引导原因状语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u1",
+      "name": "现在进行时 be + doing",
+      "note": "are making 由 be(are)+现在分词(making)构成,表示此刻正在进行的动作。",
+      "sourceExample": "Currently, it is a busy morning at the Sunny Cafe, and the cooperative staff are making coffee constantly.",
+      "sourceExampleCn": "目前,阳光咖啡馆的早晨很忙碌,合作的员工们正在不停地煮咖啡。"
+    },
+    {
+      "grammarId": "g-s2u1",
+      "name": "进行时标志词",
+      "note": "currently、constantly 等副词常与现在进行时连用,表示现阶段持续发生的事。",
+      "sourceExample": "Currently, it is a busy morning at the Sunny Cafe, and the cooperative staff are making coffee constantly.",
+      "sourceExampleCn": "目前,阳光咖啡馆的早晨很忙碌,合作的员工们正在不停地煮咖啡。"
+    },
+    {
+      "grammarId": "g-s2u1",
+      "name": "while 引导时间状语从句",
+      "note": "while 表示\"当……的时候\",主句与从句都用进行时,表示两个动作同时进行。",
+      "sourceExample": "A client is reading the menu while his friend is standing in line.",
+      "sourceExampleCn": "一位顾客正在看菜单,而他的朋友正在排队。"
+    },
+    {
+      "grammarId": "g-s2u1",
+      "name": "stand in line 排队",
+      "note": "standing in line 是现在进行时,表示\"正在排队\"。",
+      "sourceExample": "A client is reading the menu while his friend is standing in line.",
+      "sourceExampleCn": "一位顾客正在看菜单,而他的朋友正在排队。"
+    },
+    {
+      "grammarId": "g-s2u1",
+      "name": "并列谓语用进行时",
+      "note": "and 连接两个 be+doing(is greeting/is telling),相同主语可省略,表示同时进行。",
+      "sourceExample": "The attentive waiter is greeting them warmly and is telling them about the special coffee of the day.",
+      "sourceExampleCn": "细心的服务员正在热情地和他们打招呼,并告诉他们今天的特色咖啡。"
+    }
+  ]
+}

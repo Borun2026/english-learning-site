@@ -1,0 +1,60 @@
+{
+ "id": "cet6-071",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年12月 · 2022年12月英语六级真题(第1套) Passage 1",
+ "title": "Many people associate their self-worth with their work",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 445,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Many people associate their self-worth with their work. The more successful their career, the better they feel about themselves. Work-related self-esteem is therefore a worthy ideal to pursue with vigor, right? Well, not always. According to recent research, in which psychologists interviewed 370 full-time workers over a period of three weeks, the reality is a little more complicated. And it involves negative as well as positive consequences.",
+  "It's natural to be drawn towards pleasure and to step away from pain. In the workplace, if that pleasure comes from a triumph which swells our self-respect, people will try to repeat the accomplishment. But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur. This form of motivation is widely regarded as a negative type of motivation. It can hinder other more positive motivation types, such as completing a task purely because it's fulfilling or enjoyable.",
+  "What consumes the employee instead is a pressing need to feel mighty and sure of themselves. They then take on only tasks and objectives which serve that ego-driven need. As a result, to avoid feelings of shame and worthlessness associated with failure, they extend themselves to such a degree that there's a subsequent adverse effect on their well-being. This internal pressure to succeed at all costs demands a lot of effort. It depletes their energy, culminating in disproportionate levels of damaging sentiment.",
+  "Those negative emotions mount into heightened anxiety, impacting their ability to make the most of their personal life. Their desire to avoid feeling inferior ends up making them feel inferior when it comes to their diminished capacity for friendship and leisure. They end up dissatisfied both at work and outside of it.",
+  "But thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all. The study also discovered several positive outcomes that can actually outweigh the harmful ones. Though these types of employees are motivated by the desire to avoid negative consequences, they are also motivated by the excitement of pursuing emotional rewards. This excitement makes pursuing goals enjoyable and stimulates pleasure and pride that would result from success. An effect of the positive motivation is that it neutralizes the existence of negative motivation.",
+  "Sure, it affects people's personal lives to what could be deemed an unhealthy extent, because leisure activities are often seen as a part of life that must be sacrificed to manage work and family demands. However, the way people feel about their work has less to do with whether they're motivated by the preservation of selfesteem but more with the fact that they're simply motivated."
+ ],
+ "questions": [
+  {
+   "q": "文中 “severe” 最接近的意思是?",
+   "options": [
+    "广度，长度，程度",
+    "严重的",
+    "友谊",
+    "自豪"
+   ],
+   "answer": 1,
+   "analysis": "“severe” 意为「严重的」。原文语境:But repeating that accomplishment is often not realistic, which can lead to severe negative emotional consequences when it doesn't reoccur.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:But thankfully, for those people compelled ___ entirely by this specific form of motivation, the news isn't all bad, or bad at all.",
+   "options": [
+    "instead",
+    "outside",
+    "almost",
+    "positive"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“But thankfully, for those people compelled almost entirely by this specific form of motivation, the news isn't all bad, or bad at all.”。空格处应填入 “almost”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "On Jan",
+    "Look at the people around you",
+    "Many people associate their self-worth with their work"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Many people associate their self-worth with their work.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

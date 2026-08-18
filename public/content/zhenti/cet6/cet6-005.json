@@ -1,0 +1,62 @@
+{
+ "id": "cet6-005",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第3套) Passage 1",
+ "title": "Dr",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 440,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Dr. Donald Sadoway at MIT started his own battery company with the hope of changing the world's energy future. It's a dramatic endorsement for a technology most people think about only when their smartphone goes dark. But Sadoway isn't alone in trumpeting energy storage as a missing link to a cleaner, more efficient, and more equitable energy future.",
+  "Scientists and engineers have long believed in the promise of batteries to change the world. Advanced batteries are moving out of specialized markets and creeping into the mainstream, signaling a tipping point for forwardlooking technologies such as electric cars and rooftop solar panels.",
+  "The ubiquitous battery has already come a long way, of course. For better or worse, batteries make possible our mobile-first lifestyles, our screen culture, our increasingly globalized world. Still, as impressive as all this is, it may be trivial compared with what comes next. Having already enabled a communications revolution, the battery is now poised to transform just about everything else.",
+  "The wireless age is expanding to include not just our phones, tablets, and laptops, but also our cars, homes, and even whole communities. In emerging economies, rural communities are bypassing the wires and wooden poles that spread power. Instead, some in Africa and Asia are seeing their first lightbulbs illuminated by the power of sunlight stored in batteries.",
+  "Today, energy storage is a $33 billion global industry that generates nearly 100 gigawatt-hours of electricity per year. By the end of the decade, it's expected to be worth over $50 billion and generate 160 gigawatt-hours, enough to attract the attention of major companies that might not otherwise be interested in a decidedly pedestrian technology. Even utility companies, which have long viewed batteries and alternative forms of energy as a threat, are learning to embrace the technologies as enabling rather than disrupting.",
+  "Today's battery breakthroughs come as the world looks to expand modem energy access to the billion or so people without it, while also cutting back on fuels that warm the planet. Those simultaneous challenges appear less overwhelming with increasingly better answers to a centuries-old question: how to make power portable.",
+  "To be sure, the battery still has a long way to go before the nightly recharge completely replaces the weekly trip to the gas station. A battery-powered world comes with its own risks, too. What happens to the centralized electric grid, which took decades and billions of dollars to build, as more and more people become \"prosumers,\" who produce and consume their own energy onsite?",
+  "No one knows which---if any---battery technology will ultimately dominate, but one thing remains clear. The future of energy is in how we store it."
+ ],
+ "questions": [
+  {
+   "q": "文中 “screen” 最接近的意思是?",
+   "options": [
+    "先进的",
+    "屏幕， 银幕",
+    "十分，完全地",
+    "木制的"
+   ],
+   "answer": 1,
+   "analysis": "“screen” 意为「屏幕， 银幕」。原文语境:For better or worse, batteries make possible our mobile-first lifestyles, our screen culture, our increasingly globalized world.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Those ___ challenges appear less overwhelming with increasingly better answers to a centuries-old question: how to make power portable.",
+   "options": [
+    "wooden",
+    "decidedly",
+    "simultaneous",
+    "weekly"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“Those simultaneous challenges appear less overwhelming with increasingly better answers to a centuries-old question: how to make power portable.”。空格处应填入 “simultaneous”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "With population increases and global urbanisation ever accelerating, much att",
+    "Statements, like \"beauty is in the eye of the beholder ()\", are rarely questi",
+    "Dr",
+    "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Dr.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

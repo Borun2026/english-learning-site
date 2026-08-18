@@ -1,0 +1,67 @@
+{
+ "id": "cet6-031",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年6月 · 2018年6月英语六级真题(第1套) Passage 1",
+ "title": "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 435,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers against two enemies: the rice-eating giant apple snail, and rising sea levels. What happens here will have a bearing on the future of European rice production and the overall health of southern European wetlands.",
+  "Located on the Mediterranean just two hours south of Barcelona, the Ebro Delta produces 120 million kilograms of rice a year, making it one of the continent's most important rice-growing areas. As the sea creeps into these freshwater marshes, however, rising salinity is hampering rice production. At the same time, this sea-water also kills off the greedy giant apple snail, an introduced pest that feeds on young rice plants. The most promising strategy has become to harness one foe against the other.",
+  "The battle is currently being waged on land, in greenhouses at the University of Barcelona. Scientists working under the banner \"Project Neurice\" are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes.",
+  "\"The project has two sides,\" says Xavier Serrat, Neurice project manager and researcher at the University of Barcelona. \"The short-term fight against the snail, and a mid- to long-term fight against climate change. But the snail has given the project greater urgency.\"",
+  "Originally from South America, the snails were accidentally introduced into the Ebro Delta by Global Aquatic Technologies, a company that raised the snails for fresh-water aquariums , but failed to prevent their escape. For now, the giant apple snail's foothold in Europe is limited to the Ebro Delta. But the snail continues its march to new territory, says Serrat. \"The question is not if it will reach other rice-growing areas of Europe, but when.\"",
+  "Over the next year and a half investigators will test the various strains of saline-tolerant rice they've concocted. In",
+  "2018, farmers will plant the varieties with the most promise in the Ebro Delta and Europe's other two main rice-growing",
+  "regions--along the Po in Italy, and France's Rh�ne. A season in the field will help determine which, if any, of the varieties",
+  "are ready for commercialization.",
+  "As an EU-funded effort, the search for salt-tolerant varieties of rice is taking place in all three countries. Each team is",
+  "crossbreeding a local European short-grain rice with a long-grain Asian variety that carries the salt-resistant gene. The",
+  "scientists are breeding successive generations to arrive at varieties that incorporate salt tolerance but retain about 97 percent",
+  "of the European rice genome ."
+ ],
+ "questions": [
+  {
+   "q": "文中 “different” 最接近的意思是?",
+   "options": [
+    "法国，法兰西",
+    "亚洲的",
+    "差异的",
+    "田野"
+   ],
+   "answer": 2,
+   "analysis": "“different” 意为「差异的」。原文语境:The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers against two enemies: t",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Scientists working under the ___ \"Project Neurice\" are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes.",
+   "options": [
+    "territory",
+    "foothold",
+    "Delta",
+    "banner"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Scientists working under the banner \"Project Neurice\" are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes.”。空格处应填入 “banner”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "During his acceptance speech for the Nobel Peace Prize, Martin Luther King Jr",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "The Paris climate agreement finalised in December last year heralded a new er",
+    "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W"
+   ],
+   "answer": 3,
+   "analysis": "本文以“The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil War, is now the setting for a different contest, one that is pitting rice farmers ag”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

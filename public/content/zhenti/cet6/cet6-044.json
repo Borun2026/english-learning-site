@@ -1,0 +1,65 @@
+{
+ "id": "cet6-044",
+ "type": "cet6-passage",
+ "year": 2019,
+ "source": "六级真题 2019年6月 · 2019年6月英语六级真题(第1套) Passage 2",
+ "title": "The market for products designed specifically for older adults could reach $3...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 447,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "The market for products designed specifically for older adults could reach $30 billion by next year, and startups want in on the action. What they sometimes lack is feedback from the people who they hope will use their products. So Brookdale, the country's largest owner of retirement communities, has been inviting a few select entrepreneurs just to move in for a few days, show off their products and hear what the residents have to say.",
+  "That's what brought Dayle Rodriguez, 28, all the way from England to the dining room of Brookdale South Bay in Torrance, California. Rodriguez is the community and marketing manager for a company called Sentab. The startup's product, SentabTV, enables older adults who may not be comfortable with computers to access email, video chat and social media using just their televisions and a remote control.",
+  "\"It's nothing new, it's nothing too complicated and it's natural because lots of people have TV remotes,\"says Rodriguez.",
+  "But none of that is the topic of conversation in the Brookdale dining room. Instead, Rodriguez solicits residents' advice on what he should get on his cheeseburger and how he should spend the afternoon. Playing cards was on the agenda, as well as learning to play mahjong .",
+  "Rodriguez says it's important that residents here don't feel like he's selling them something. \"I've had more feedback in a passive approach,\"he says. \"Playing pool, playing cards, having dinner, having lunch,\"all work better \"than going through a survey of questions. When they get to know me and to trust me, knowing for sure I'm not selling them something--there'll be more honest feedback from them.\"",
+  "Rodriguez is just the seventh entrepreneur to move into one of Brookdale's 1,100 senior living communities. Other new products in the program have included a kind of full-body blow dryer and specially designed clothing that allows people with disabilities to dress and undress themselves.",
+  "Mary Lou Busch, 93, agreed to try the Sentab system. She tells Rodriguez that it might be good for someone, but not for her.",
+  "\"I have the computer and FaceTime, which I talk with my family on,\"she explains. She also has an iPad and a smartphone. \"So I do pretty much everything I need to do.\"",
+  "To be fair, if Rodriguez had wanted feedback from some more technophobic seniors, he might have ended up in the wrong Brookdale community. This one is located in the heart of Southern California's aerospace corridor. Many residents have backgrounds in engineering, business and academic circles.",
+  "But Rodriguez says he's still learning something important by moving into this Brookdale community: \"People are more tech-proficient than we thought.\"",
+  "And besides, where else would he learn to play mahjong?"
+ ],
+ "questions": [
+  {
+   "q": "文中 “product” 最接近的意思是?",
+   "options": [
+    "家，家庭",
+    "通路",
+    "产品,产物",
+    "会话， 谈话"
+   ],
+   "answer": 2,
+   "analysis": "“product” 意为「产品,产物」。原文语境:The startup's product, SentabTV, enables older adults who may not be comfortable with computers to access email, video chat and social media using just their televisions and a remo",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Many residents have backgrounds in engineering, business and ___ circles.",
+   "options": [
+    "academic",
+    "honest",
+    "complicated",
+    "living"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Many residents have backgrounds in engineering, business and academic circles.”。空格处应填入 “academic”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Photography was once an expensive, laborious ordeal reserved for life's great",
+    "The market for products designed specifically for older adults could reach $3",
+    "Since American idol star Taryn Southern started composing music with AI in 20",
+    "Vegetarians would prefer not to be compelled to eat meat"
+   ],
+   "answer": 1,
+   "analysis": "本文以“The market for products designed specifically for older adults could reach $30 billion by next year, and startups want in on the action.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

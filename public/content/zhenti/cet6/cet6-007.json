@@ -1,0 +1,81 @@
+{
+ "id": "cet6-007",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年6月 · 2016年6月英语六级真题(第1套) Passage 1",
+ "title": "Interactive television advertising, which allows viewers to use their remote ...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 431,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Interactive television advertising, which allows viewers to use their remote controls to click on advertisements,",
+  "has been pushed for years. Nearly a decade ago it was predicted that viewers of \"Friends,\" a popular situation comedy,",
+  "would soon be able to purchase a sweater like Jennifer Aniston's with a few taps on their remote control. \"It's been",
+  "the year of interactive television advertising for the last ten or twelve years,\" says Colin Dixon of a digital-media",
+  "consultancy.",
+  "So the news that Cablevision, an American cable company, was rolling out interactive advertisements to all its",
+  "customers on October 6th was greeted with some skepticism. During commercials, an overlay will appear at the",
+  "bottom of the screen, prompting viewers to press a button to request a free sample or order a catalogue. Cablevision 8",
+  "hopes to allow customers to buy things with their remote controls early next year.",
+  "Television advertising could do with a boost. Spending fell by 10% in the first half of the year. The",
+  "popularization of digital video recorders has caused advertisers to worry that their commercials will be skipped. Some",
+  "are turning to the Internet, which is cheaper and offers concrete measurements like click-through rates--especially",
+  "important at a time when marketing budgets are tight. With the launch of interactive advertising, \"many of the dollars",
+  "that went to the Internet will come back to the TV,\" says David Kline of Cablevision. Or so the industry hopes.",
+  "In theory, interactive advertising can engage viewers in a way that 30-second spots do not. Unilever recently ran",
+  "an interactive campaign for its Axe deodorant , which kept viewers engaged for more than three minutes",
+  "on average.",
+  "The amount spent on interactive advertising on television is still small. Magna, an advertising agency, reckons it",
+  "will be worth about $138 million this year. That falls far short of the billions of dollars people once expected it to",
+  "generate. But DirecTV, Comcast and Time Warner Cable have all invested in it. A new effort led by Canoe Ventures, a",
+  "coalition of leading cable providers, aims to make interactive advertising available across America later this year.",
+  "BrightLine iTV, which designs and sells interactive ads, says interest has surged: it expects its revenues almost to",
+  "triple this year. BSkyB, Britain's biggest satellite-television service, already provides 9 million customers with",
+  "interactive ads.",
+  "Yet there are doubts whether people watching television, a \"lean back\" medium, crave interaction. Click-through",
+  "rates have been high so far (around 3�4%, compared with less than 0.3% online), but that may be a result of the",
+  "novelty. Interactive ads and viewers might not go well together."
+ ],
+ "questions": [
+  {
+   "q": "文中 “novelty” 最接近的意思是?",
+   "options": [
+    "要求",
+    "样品，样本",
+    "新颖",
+    "屏幕， 银幕"
+   ],
+   "answer": 2,
+   "analysis": "“novelty” 意为「新颖」。原文语境:Click-through rates have been high so far (around 3�4%, compared with less than 0.3% online), but that may be a result of the novelty.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:The popularization of digital ___ recorders has caused advertisers to worry that their commercials will be skipped.",
+   "options": [
+    "company",
+    "interaction",
+    "video",
+    "Internet"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“The popularization of digital video recorders has caused advertisers to worry that their commercials will be skipped.”。空格处应填入 “video”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "These days, nobody needs to cook",
+    "Interactive television advertising, which allows viewers to use their remote",
+    "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W",
+    "At the base of a mountain in Tanzania's Gregory Rift, Lake Natron burns brigh"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Interactive television advertising, which allows viewers to use their remote controls to click on advertisements,”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

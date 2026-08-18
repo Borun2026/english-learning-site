@@ -1,0 +1,202 @@
+{
+  "id": "d-s3u12",
+  "stage": 3,
+  "unitId": "s3u12",
+  "scene": "数据分析讨论",
+  "goal": "用数据分析说服团队采纳你的结论",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "组长 Sarah",
+      "line": "Before we decide on the marketing budget, let us review your analysis. Have you examined all the data we collected?",
+      "lineCn": "在我们决定营销预算之前,先看看你的分析。我们收集的全部数据你都看过了吗?",
+      "grammar": [
+        { "name": "限定词 all", "note": "all the data 中 all 限定可数不可数名词均可,强调\"全部\"范围,核查完整度。" }
+      ],
+      "options": [
+        { "text": "I have examined all the data we collected, and the conclusion is clear: digital ads outperform print.", "textCn": "我们收集的全部数据我都看过了,结论很清晰:数字广告优于印刷广告。", "feedback": "分析完整,结论鲜明。", "next": "n2" },
+        { "text": "I have examined some of the data, but not all of it yet.", "textCn": "我看了部分数据,但还没看完全部。", "feedback": "分析未完成,组长追问。", "next": "n3" },
+        { "text": "Every chart I have seen contradicts the others. I trust none of them.", "textCn": "我看到的每张图表都相互矛盾,我谁也不信。", "feedback": "数据存疑,组长引导排查。", "next": "n4" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "组长 Sarah",
+      "line": "That is a bold conclusion. Can you point out the key evidence? In each of the five regions we tested, the results were identical.",
+      "lineCn": "这是个大胆的结论。你能指出关键证据吗?在我们测试的五个地区中,每个地区的结果都一致。",
+      "grammar": [
+        { "name": "限定词 each", "note": "each of the five regions 中 each 强调\"每一个\"个体,用于逐项列举与论证。" }
+      ],
+      "options": [
+        { "text": "In each of the five regions we tested, the conversion rate rose after the digital campaign.", "textCn": "在我们测试的五个地区中,每个地区的转化率在数字活动后都上升了。", "feedback": "逐地区举证,论据扎实。", "next": "n5" },
+        { "text": "Both the click rates and the sales figures support my conclusion.", "textCn": "点击率和销售额两个指标都支持我的结论。", "feedback": "多指标印证,说服力强。", "next": "n5" },
+        { "text": "The numbers are hard to read, but I have a strong feeling I am right.", "textCn": "数字很难读,但我强烈感觉我是对的。", "feedback": "凭感觉断言,组长追问证据。", "next": "n6" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "组长 Sarah",
+      "line": "Half-hearted analysis cannot guide decisions. Either you finish the job, or we move on without your input.",
+      "lineCn": "敷衍的分析无法指导决策。要么你完成分析,要么我们绕开你继续推进。",
+      "grammar": [
+        { "name": "限定词 either...or", "note": "either...or 提供二选一的限定,表\"两者任一\",语气明确、不留余地。" }
+      ],
+      "options": [
+        { "text": "I will finish the analysis tonight. Neither budget will be approved without complete data.", "textCn": "我今晚就完成分析。没有完整数据,哪个预算方案都不该批准。", "feedback": "立下时限,态度端正。", "next": "n5" },
+        { "text": "Few of my colleagues trust your timelines anyway. I will finish when I can.", "textCn": "反正没几个同事相信你的期限。我什么时候能完就什么时候。", "feedback": "消极拖延,组长不满。", "next": "n6" },
+        { "text": "Either way, the conclusion will not change, so why bother with the rest?", "textCn": "无论怎样结论都不会变,何必看完剩下的?", "feedback": "敷衍塞责,组长批评。", "next": "n6" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "组长 Sarah",
+      "line": "Conflicting charts usually mean something went wrong. Have you checked whether every source is reliable?",
+      "lineCn": "图表互相矛盾通常意味着哪里出了问题。你检查过每个数据源是否可靠吗?",
+      "grammar": [
+        { "name": "限定词 every", "note": "every source 强调\"每一个数据源\"都要核查,与 whether 从句连用表逐一排查。" }
+      ],
+      "options": [
+        { "text": "You are right. After checking every source, I found that two of them were outdated.", "textCn": "您说得对。逐一核查每个数据源后,我发现其中两个已过时。", "feedback": "排查到位,问题定位。", "next": "n5" },
+        { "text": "I have checked neither the sources nor the methods, to be honest.", "textCn": "老实说,数据源和方法我都没核查。", "feedback": "工作疏漏,组长严肃批评。", "next": "n6" },
+        { "text": "None of the sources are entirely reliable. That is just how data works.", "textCn": "没有一个数据源完全可靠,数据本来就是这样的。", "feedback": "消极论调,组长反驳。", "next": "n7" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "组长 Sarah",
+      "line": "Concrete evidence at last. Give us a few specific figures that convinced you to favour digital channels.",
+      "lineCn": "终于有实证了。给我们几个说服你倾向数字渠道的具体数字。",
+      "grammar": [
+        { "name": "限定词 a few", "note": "a few 修饰可数名词复数,意为\"几个\",语气肯定,与 few(几乎没)区分。" }
+      ],
+      "options": [
+        { "text": "A few figures stand out: the digital campaign reached twice as many people at half the cost.", "textCn": "有几个数字很突出:数字活动以一半成本触达了两倍的人群。", "feedback": "数字具体,论证有力。", "next": "n5b" },
+        { "text": "Both figures improved, but neither of them improved dramatically.", "textCn": "两个指标都有提升,但都不算大幅提升。", "feedback": "如实说明,组长追问。", "next": "n5b" },
+        { "text": "I remember the general trend. The exact numbers are somewhere in the report.", "textCn": "我记得大致趋势,确切数字在报告某处。", "feedback": "证据模糊,组长要求精确。", "next": "n6" }
+      ]
+    },
+    "n5b": {
+      "id": "n5b",
+      "speaker": "组长 Sarah",
+      "line": "Interesting. Compare the cost per customer between the two channels: how does each one measure up?",
+      "lineCn": "有意思。比较两个渠道的单个客户成本:每个渠道表现如何?",
+      "grammar": [
+        { "name": "限定词 each(逐个比较)", "note": "each one 在两者之间逐一衡量,强调个体对比,是数据讨论的常用限定。" }
+      ],
+      "options": [
+        { "text": "Each digital customer costs us two thirds of what each print customer costs.", "textCn": "每个数字渠道客户的花费,是每个印刷渠道客户的三分之二。", "feedback": "成本对比精确,结论有力。", "next": "n8" },
+        { "text": "Every customer counts equally, regardless of which channel attracted them.", "textCn": "每个客户都同样重要,不管来自哪个渠道。", "feedback": "视角人文,但需数据支撑。", "next": "n8" },
+        { "text": "I have not calculated that yet. Both figures are still unknown to me.", "textCn": "我还没算过。这两个数字我都还不知道。", "feedback": "分析缺环,组长要求补齐。", "next": "n6" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "组长 Sarah",
+      "line": "Vague recollections weaken your argument. Either retrieve the exact numbers, or admit the gap in your analysis.",
+      "lineCn": "模糊的记忆会削弱你的论点。要么找出确切数字,要么承认分析中的缺口。",
+      "grammar": [
+        { "name": "限定词 either...or(二选一)", "note": "either...or 给出两条路径,限定选择范围,语气正式且有压力。" }
+      ],
+      "options": [
+        { "text": "I will pull up the exact numbers now. All the details are in the appendix.", "textCn": "我现在就调出确切数字。全部细节都在附录里。", "feedback": "补齐证据,论证恢复。", "next": "n8" },
+        { "text": "I admit the gap, but it will not change the overall picture.", "textCn": "我承认有缺口,但这不会改变整体结论。", "feedback": "坦诚但欠严谨,组长审视。", "next": "n8" },
+        { "text": "I do not need exact numbers. My instincts have never failed me.", "textCn": "我不需要确切数字,我的直觉从没骗过我。", "feedback": "靠直觉决策,团队不认可。", "next": "fail1" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "组长 Sarah",
+      "line": "Scepticism is healthy, but it must be backed by method. Neither of us can persuade the board with guesses.",
+      "lineCn": "怀疑精神是健康的,但必须有方法支撑。我们谁都无法用猜测说服董事会。",
+      "grammar": [
+        { "name": "限定词 neither", "note": "neither of us 表\"两者都不\",强调无人例外,与否定句配合使用。" }
+      ],
+      "options": [
+        { "text": "Agreed. Let me re-run the analysis with fresh data, and I will show you all the evidence.", "textCn": "同意。让我用新数据重跑分析,并把全部证据展示给您。", "feedback": "主动修正,回到正轨。", "next": "n8" },
+        { "text": "Few people can resist my intuition. I will convince the board with passion alone.", "textCn": "很少人能抵挡我的直觉。我单靠热情就能说服董事会。", "feedback": "意气用事,组长失望。", "next": "fail1" },
+        { "text": "Let us ask another team to review the data. Both sides can learn from that.", "textCn": "让另一个团队复核数据吧,双方都能从中受益。", "feedback": "引入复核,方法严谨。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "组长 Sarah",
+      "line": "Now we are getting somewhere. If both channels performed well, why cut print advertising completely?",
+      "lineCn": "现在有点进展了。如果两个渠道都表现不错,为什么要完全砍掉印刷广告?",
+      "grammar": [
+        { "name": "限定词 both", "note": "both channels 表\"两者都\",用于概括双方表现,引出针对性疑问。" }
+      ],
+      "options": [
+        { "text": "Because neither the reach nor the cost of print justifies keeping it.", "textCn": "因为印刷广告的触达和成本,两者都不足以支持保留它。", "feedback": "否定式论证,理由充分。", "next": "n8b" },
+        { "text": "We are not cutting it completely. Each channel will receive some share of the budget.", "textCn": "我们不是完全砍掉。每个渠道都会分到部分预算。", "feedback": "方案更稳妥,团队认可。", "next": "n8b" },
+        { "text": "Honestly, I dislike print ads, and personal preference colours my reading of the data.", "textCn": "说实话,我不喜欢印刷广告,个人偏好影响了我的数据解读。", "feedback": "承认主观偏差,组长批评。", "next": "fail2" }
+      ]
+    },
+    "n8b": {
+      "id": "n8b",
+      "speaker": "组长 Sarah",
+      "line": "Then what about the long term? Either you show me two quarters of data, or I will reserve judgement.",
+      "lineCn": "那长期效果呢?要么你拿出两个季度的数据,要么我先保留判断。",
+      "grammar": [
+        { "name": "限定词 either...or(期限)", "note": "either...or 给出验收条件,限定时间范围与证据要求,谈判感强。" }
+      ],
+      "options": [
+        { "text": "Either we wait for two more quarters, or we proceed with the evidence we have.", "textCn": "要么再等两个季度,要么按现有证据推进。", "feedback": "给出选择,推动决策。", "next": "n9" },
+        { "text": "Neither quarter is fully reliable, but the trend is too strong to ignore.", "textCn": "两个季度都不完全可靠,但趋势强到不容忽视。", "feedback": "承认局限,强调趋势。", "next": "n9" },
+        { "text": "Long-term data is a luxury we cannot afford. Any delay costs us market share.", "textCn": "长期数据是我们负担不起的奢侈品。任何拖延都在消耗市场份额。", "feedback": "强调时机,催促行动。", "next": "n9" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "组长 Sarah",
+      "line": "One last challenge: the more money we spend on digital ads, the harder it is to prove returns. How do you answer that?",
+      "lineCn": "最后一个挑战:我们在数字广告上花的钱越多,越难证明回报。你怎么回应?",
+      "grammar": [
+        { "name": "限定词比较结构 the more...the more", "note": "the more A, the more B 构成比例句式,用于阐述投入与回报的动态关系。" }
+      ],
+      "options": [
+        { "text": "The more data we collect, the more accurate our measurement will become.", "textCn": "我们收集的数据越多,测量就会越精确。", "feedback": "以数据规模回应,逻辑闭环。", "next": "n10" },
+        { "text": "That is precisely why I propose spending less overall and measuring more carefully.", "textCn": "这正是我建议总体少花钱、测量更精细的原因。", "feedback": "对策巧妙,说服力强。", "next": "n10" },
+        { "text": "If the board worries about returns, then spend nothing at all. Every risk disappears.", "textCn": "董事会若担心回报,那就一分钱别花。所有风险都消失了。", "feedback": "极端消极,团队不悦。", "next": "fail2" }
+      ]
+    },
+    "n10": {
+      "id": "n10",
+      "speaker": "组长 Sarah",
+      "line": "Your reasoning holds together. In that case, I will present your proposal at the board meeting. I believe all of us can now agree on this direction.",
+      "lineCn": "你的推理自洽。这样的话,我会在董事会上提交你的方案。我相信我们所有人现在都能认同这个方向。",
+      "grammar": [
+        { "name": "限定词 all(全体)", "note": "all of us 表\"我们全体\",用于达成共识时的群体指称,语气郑重。" }
+      ],
+      "options": [
+        { "text": "Thank you. All of us can now agree on this direction.", "textCn": "谢谢。我们所有人现在都能认同这个方向。", "feedback": "达成共识,提案通过。", "next": "success" },
+        { "text": "Present my proposal, but remember: neither you nor I should overstate the certainty.", "textCn": "请提交我的方案,但要记住:您和我都不应夸大确定性。", "feedback": "严谨收尾,团队赞赏。", "next": "success" },
+        { "text": "Forget presenting. I am not convinced by my own analysis either.", "textCn": "别提交了。连我自己都不信自己的分析。", "feedback": "自我否定,前功尽弃。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "组长 Sarah",
+      "line": "The meeting is concluded. Both your analysis and your persistence have won the day.",
+      "lineCn": "会议结束。你的分析和你的坚持都赢得了这一天。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "组长 Sarah",
+      "line": "Without solid data, your argument remains a castle in the air. I cannot support it.",
+      "lineCn": "没有扎实的数据,你的论证就是空中楼阁。我无法支持它。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "组长 Sarah",
+      "line": "I appreciate your effort, but passion without evidence convinces no one on this team.",
+      "lineCn": "我感谢你的付出,但没有证据的热情说服不了团队里的任何人。",
+      "end": true,
+      "success": false
+    }
+  }
+}

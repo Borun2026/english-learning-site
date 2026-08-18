@@ -1,0 +1,65 @@
+{
+ "id": "cet6-060",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年12月 · 2021年12月英语六级真题(第1套) Passage 2",
+ "title": "In recent years, the food industry has increased its use of labels",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 451,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "In recent years, the food industry has increased its use of labels. Whether the labels say",
+  "'non-GMO ( .:II:- # .� ffil a{i ) ' or ' no sugar,' or ' zero carbohydrates', consumers are",
+  "increasingly demanding more information about what's in their food. One report found that",
+  "provide clearer, more accurate product information. Food manufacturers are responding to the report with new labels to meet that demand, and they 're doing so with an eye towards giving their products an advantage over the competition, and bolstering profits.",
+  "This strategy makes intuitive sense. If consumers say they want transparency, tell them exactly what is in your product. That is simply supplying a certain demand. But the marketing strategy in response to this consumer demand has gone beyond articulating what is in a product, to labeling what is NOT in the food. These labels are known as \"absence",
+  "claims\" labels, and they represent an emerging labeling trend that is detrimental both to the consumers who purchase the products and the industry that supplies them.",
+  "For example, Runt's put a \"non-GMO\" label on its canned crushed tomatoes a few years ago-despite the fact that at the time there was no such thing as a GMO tomato on the market. Some dairy companies are using the \"non-GMO\" label on their milk, despite the fact that all milk is naturally GMO-free, another label that creates unnecessary fear around food.",
+  "While creating labels that play on consumer fears and misconceptions about their food may give a company a temporary marketing advantage over competing products on the grocery aisle, in the long term this strategy will have just the opposite effect: by injecting fear into the discourse about our food, we run the risk of eroding consumer trust in not just a single product, but the entire food business.",
+  "Eventually, it becomes a question in consumers, minds: Were these foods ever safe? By purchasing and consuming these types of products, have I already done some kind of harm to my family or the planet?",
+  "For food manufacturers, it will mean damaged consumer trust and lower sales for everyone. And this isn't just supposition. A recent study found that absence claims labels can create a stigma around foods even when there is no scientific evidence that they cause harm.",
+  "It's clear that food manufacturers must tread carefully when it comes to using absence claims. In addition to the likely negative long-term impact on sales, this verbal trick sends a message that innovations in farming and food processing are unwelcome, eventually leading to less efficiency, fewer choices for consumers, and ultimately, more costly food products. If we allow this kind of labeling to continue, we will all lose."
+ ],
+ "questions": [
+  {
+   "q": "文中 “exactly” 最接近的意思是?",
+   "options": [
+    "踩，踏，践踏",
+    "比赛，比赛会",
+    "确切地",
+    "科学的，系统的"
+   ],
+   "answer": 2,
+   "analysis": "“exactly” 意为「确切地」。原文语境:If consumers say they want transparency, tell them exactly what is in your product.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:One report found that ___ clearer, more accurate product information.",
+   "options": [
+    "provide",
+    "demand",
+    "question",
+    "represent"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“One report found that provide clearer, more accurate product information.”。空格处应填入 “provide”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "In recent years, the food industry has increased its use of labels",
+    "It is the season for some frantic last-minute math across the country, employ",
+    "If you've ever started a sentence with,\"If I were you",
+    "What can be done about mass unemployment"
+   ],
+   "answer": 0,
+   "analysis": "本文以“In recent years, the food industry has increased its use of labels.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

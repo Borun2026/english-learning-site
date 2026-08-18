@@ -1,0 +1,2443 @@
+{
+  "version": 1,
+  "type": "order-sentence",
+  "source": "48 单元 dialogue/listen 台词自动拆块(确定性,无 AI)",
+  "count": 114,
+  "items": [
+    {
+      "id": "os-s1u1-1",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Hello! I am Jack. Are you a new student here?",
+      "cn": "你好!我是杰克。你是这里的新同学吗?",
+      "chunks": [
+        "Hello!",
+        "I",
+        "am",
+        "Jack.",
+        "Are",
+        "you",
+        "a",
+        "new",
+        "student",
+        "here?"
+      ],
+      "distractors": [
+        "total,",
+        "worried."
+      ]
+    },
+    {
+      "id": "os-s1u1-2",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Nice to meet you too! What do you study?",
+      "cn": "我也很高兴认识你!你学什么专业?",
+      "chunks": [
+        "Nice",
+        "to",
+        "meet",
+        "you",
+        "too!",
+        "What",
+        "do",
+        "you",
+        "study?"
+      ],
+      "distractors": [
+        "tell",
+        "Hello!"
+      ]
+    },
+    {
+      "id": "os-s1u1-3",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Oh... okay. Anyway, what is your name?",
+      "cn": "哦……好吧。那,你叫什么名字?",
+      "chunks": [
+        "Oh...",
+        "okay.",
+        "Anyway,",
+        "what",
+        "is",
+        "your",
+        "name?"
+      ],
+      "distractors": [
+        "from,",
+        "Then"
+      ]
+    },
+    {
+      "id": "os-s1u1-4",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "I study computer science. It is really interesting!",
+      "cn": "我学计算机科学。它真的很有趣!",
+      "chunks": [
+        "I",
+        "study",
+        "computer",
+        "science.",
+        "It",
+        "is",
+        "really",
+        "interesting!"
+      ],
+      "distractors": [
+        "over",
+        "in"
+      ]
+    },
+    {
+      "id": "os-s1u1-5",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Hmm, could you tell me what subject you like?",
+      "cn": "嗯,能告诉我你喜欢什么科目吗?",
+      "chunks": [
+        "Hmm,",
+        "could",
+        "you",
+        "tell",
+        "me",
+        "what",
+        "subject",
+        "you",
+        "like?"
+      ],
+      "distractors": [
+        "sounds",
+        "standing"
+      ]
+    },
+    {
+      "id": "os-s1u1-6",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Me too! See you in class, Li Hua!",
+      "cn": "我也是!课堂上见,李华!",
+      "chunks": [
+        "Me",
+        "too!",
+        "See",
+        "you",
+        "in",
+        "class,",
+        "Li",
+        "Hua!"
+      ],
+      "distractors": [
+        "Wow!",
+        "will"
+      ]
+    },
+    {
+      "id": "os-s1u1-7",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Well... nice to meet you. Maybe next time.",
+      "cn": "好吧……很高兴认识你。也许下次再聊。",
+      "chunks": [
+        "Well...",
+        "nice",
+        "to",
+        "meet",
+        "you.",
+        "Maybe",
+        "next",
+        "time."
+      ],
+      "distractors": [
+        "is",
+        "your"
+      ]
+    },
+    {
+      "id": "os-s1u1-8",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Oh, okay. See you around.",
+      "cn": "哦,好吧。回头见。",
+      "chunks": [
+        "Oh,",
+        "okay.",
+        "See",
+        "you",
+        "around."
+      ],
+      "distractors": [
+        "brother,",
+        "up?"
+      ]
+    },
+    {
+      "id": "os-s1u1-9",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Hello! What is your name?",
+      "cn": "你好!你叫什么名字?",
+      "chunks": [
+        "Hello!",
+        "What",
+        "is",
+        "your",
+        "name?"
+      ],
+      "distractors": [
+        "Alright.",
+        "well,"
+      ]
+    },
+    {
+      "id": "os-s1u1-10",
+      "unitId": "s1u1",
+      "stage": 1,
+      "text": "Are you from China?",
+      "cn": "你来自中国吗?",
+      "chunks": [
+        "Are",
+        "you",
+        "from",
+        "China?"
+      ],
+      "distractors": [
+        "What",
+        "like"
+      ]
+    },
+    {
+      "id": "os-s1u2-11",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "Hi, Li Hua! What do you usually do every day?",
+      "cn": "嗨,李华!你每天通常做些什么?",
+      "chunks": [
+        "Hi,",
+        "Li",
+        "Hua!",
+        "What",
+        "do",
+        "you",
+        "usually",
+        "do",
+        "every",
+        "day?"
+      ],
+      "distractors": [
+        "Is",
+        "it"
+      ]
+    },
+    {
+      "id": "os-s1u2-12",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "Oh, I see. Do you like your daily life?",
+      "cn": "哦,我明白了。你喜欢你的日常生活吗?",
+      "chunks": [
+        "Oh,",
+        "I",
+        "see.",
+        "Do",
+        "you",
+        "like",
+        "your",
+        "daily",
+        "life?"
+      ],
+      "distractors": [
+        "another",
+        "anyway."
+      ]
+    },
+    {
+      "id": "os-s1u2-13",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "That is a good plan! See you tomorrow morning!",
+      "cn": "这是个好主意!明天早上见!",
+      "chunks": [
+        "That",
+        "is",
+        "a",
+        "good",
+        "plan!",
+        "See",
+        "you",
+        "tomorrow",
+        "morning!"
+      ],
+      "distractors": [
+        "your",
+        "should"
+      ]
+    },
+    {
+      "id": "os-s1u2-14",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "Okay... Maybe we can talk later.",
+      "cn": "好吧……也许我们以后再聊。",
+      "chunks": [
+        "Okay...",
+        "Maybe",
+        "we",
+        "can",
+        "talk",
+        "later."
+      ],
+      "distractors": [
+        "Hua!",
+        "Do"
+      ]
+    },
+    {
+      "id": "os-s1u2-15",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "Alright. Talk to you later.",
+      "cn": "好吧。回头再聊。",
+      "chunks": [
+        "Alright.",
+        "Talk",
+        "to",
+        "you",
+        "later."
+      ],
+      "distractors": [
+        "here?",
+        "When"
+      ]
+    },
+    {
+      "id": "os-s1u2-16",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "What time do you usually get up?",
+      "cn": "你通常几点起床?",
+      "chunks": [
+        "What",
+        "time",
+        "do",
+        "you",
+        "usually",
+        "get",
+        "up?"
+      ],
+      "distractors": [
+        "fun.",
+        "city?"
+      ]
+    },
+    {
+      "id": "os-s1u2-17",
+      "unitId": "s1u2",
+      "stage": 1,
+      "text": "Do you often cook at home?",
+      "cn": "你经常在家做饭吗?",
+      "chunks": [
+        "Do",
+        "you",
+        "often",
+        "cook",
+        "at",
+        "home?"
+      ],
+      "distractors": [
+        "worried.",
+        "Oh..."
+      ]
+    },
+    {
+      "id": "os-s1u3-18",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "Hi! Did you have a good weekend?",
+      "cn": "嗨!你周末过得愉快吗?",
+      "chunks": [
+        "Hi!",
+        "Did",
+        "you",
+        "have",
+        "a",
+        "good",
+        "weekend?"
+      ],
+      "distractors": [
+        "Me",
+        "How"
+      ]
+    },
+    {
+      "id": "os-s1u3-19",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "Great! What did you do on Saturday?",
+      "cn": "太好了!你星期六做了什么?",
+      "chunks": [
+        "Great!",
+        "What",
+        "did",
+        "you",
+        "do",
+        "on",
+        "Saturday?"
+      ],
+      "distractors": [
+        "ten",
+        "your"
+      ]
+    },
+    {
+      "id": "os-s1u3-20",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "Oh? Then what was your weekend like?",
+      "cn": "哦?那你周末过得怎么样?",
+      "chunks": [
+        "Oh?",
+        "Then",
+        "what",
+        "was",
+        "your",
+        "weekend",
+        "like?"
+      ],
+      "distractors": [
+        "in",
+        "Do"
+      ]
+    },
+    {
+      "id": "os-s1u3-21",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "Wow! That sounds fun. What about Sunday?",
+      "cn": "哇!听起来真有趣。星期天呢?",
+      "chunks": [
+        "Wow!",
+        "That",
+        "sounds",
+        "fun.",
+        "What",
+        "about",
+        "Sunday?"
+      ],
+      "distractors": [
+        "get",
+        "do"
+      ]
+    },
+    {
+      "id": "os-s1u3-22",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "Oh, okay. Maybe we can talk another time.",
+      "cn": "哦,好吧。也许我们下次再聊。",
+      "chunks": [
+        "Oh,",
+        "okay.",
+        "Maybe",
+        "we",
+        "can",
+        "talk",
+        "another",
+        "time."
+      ],
+      "distractors": [
+        "family?",
+        "not"
+      ]
+    },
+    {
+      "id": "os-s1u3-23",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "How was your weekend with your family?",
+      "cn": "你和家人度过的周末怎么样?",
+      "chunks": [
+        "How",
+        "was",
+        "your",
+        "weekend",
+        "with",
+        "your",
+        "family?"
+      ],
+      "distractors": [
+        "Saturday!",
+        "okay."
+      ]
+    },
+    {
+      "id": "os-s1u3-24",
+      "unitId": "s1u3",
+      "stage": 1,
+      "text": "What did you do yesterday evening?",
+      "cn": "你昨天晚上做了什么?",
+      "chunks": [
+        "What",
+        "did",
+        "you",
+        "do",
+        "yesterday",
+        "evening?"
+      ],
+      "distractors": [
+        "Harbin!",
+        "life?"
+      ]
+    },
+    {
+      "id": "os-s1u4-25",
+      "unitId": "s1u4",
+      "stage": 1,
+      "text": "Good! What will we do there?",
+      "cn": "太好了!我们在那儿做些什么?",
+      "chunks": [
+        "Good!",
+        "What",
+        "will",
+        "we",
+        "do",
+        "there?"
+      ],
+      "distractors": [
+        "like?",
+        "You"
+      ]
+    },
+    {
+      "id": "os-s1u4-26",
+      "unitId": "s1u4",
+      "stage": 1,
+      "text": "That sounds perfect! I cannot wait for next Saturday!",
+      "cn": "听起来太棒了!我等不及下周六了!",
+      "chunks": [
+        "That",
+        "sounds",
+        "perfect!",
+        "I",
+        "cannot",
+        "wait",
+        "for",
+        "next",
+        "Saturday!"
+      ],
+      "distractors": [
+        "you",
+        "weekend"
+      ]
+    },
+    {
+      "id": "os-s1u4-27",
+      "unitId": "s1u4",
+      "stage": 1,
+      "text": "Alright, maybe we will go next time.",
+      "cn": "好吧,也许我们下次再去。",
+      "chunks": [
+        "Alright,",
+        "maybe",
+        "we",
+        "will",
+        "go",
+        "next",
+        "time."
+      ],
+      "distractors": [
+        "do",
+        "Oh,"
+      ]
+    },
+    {
+      "id": "os-s1u4-28",
+      "unitId": "s1u4",
+      "stage": 1,
+      "text": "Where are you going on your trip?",
+      "cn": "你这次旅行要去哪里?",
+      "chunks": [
+        "Where",
+        "are",
+        "you",
+        "going",
+        "on",
+        "your",
+        "trip?"
+      ],
+      "distractors": [
+        "me",
+        "can"
+      ]
+    },
+    {
+      "id": "os-s1u4-29",
+      "unitId": "s1u4",
+      "stage": 1,
+      "text": "When will you leave for the airport?",
+      "cn": "你什么时候出发去机场?",
+      "chunks": [
+        "When",
+        "will",
+        "you",
+        "leave",
+        "for",
+        "the",
+        "airport?"
+      ],
+      "distractors": [
+        "is",
+        "Do"
+      ]
+    },
+    {
+      "id": "os-s1u5-30",
+      "unitId": "s1u5",
+      "stage": 1,
+      "text": "Hello! Can I help you?",
+      "cn": "你好!需要帮忙吗?",
+      "chunks": [
+        "Hello!",
+        "Can",
+        "I",
+        "help",
+        "you?"
+      ],
+      "distractors": [
+        "is",
+        "this"
+      ]
+    },
+    {
+      "id": "os-s1u5-31",
+      "unitId": "s1u5",
+      "stage": 1,
+      "text": "That is ten yuan in total, please.",
+      "cn": "一共十元,请付款。",
+      "chunks": [
+        "That",
+        "is",
+        "ten",
+        "yuan",
+        "in",
+        "total,",
+        "please."
+      ],
+      "distractors": [
+        "usually",
+        "Take"
+      ]
+    },
+    {
+      "id": "os-s1u5-32",
+      "unitId": "s1u5",
+      "stage": 1,
+      "text": "Oh, I see. Maybe another fruit next time.",
+      "cn": "哦,我明白了。也许下次再买别的水果。",
+      "chunks": [
+        "Oh,",
+        "I",
+        "see.",
+        "Maybe",
+        "another",
+        "fruit",
+        "next",
+        "time."
+      ],
+      "distractors": [
+        "about",
+        "Shanghai."
+      ]
+    },
+    {
+      "id": "os-s1u5-33",
+      "unitId": "s1u5",
+      "stage": 1,
+      "text": "How much do these apples cost today?",
+      "cn": "今天这些苹果多少钱?",
+      "chunks": [
+        "How",
+        "much",
+        "do",
+        "these",
+        "apples",
+        "cost",
+        "today?"
+      ],
+      "distractors": [
+        "What",
+        "Li"
+      ]
+    },
+    {
+      "id": "os-s1u5-34",
+      "unitId": "s1u5",
+      "stage": 1,
+      "text": "Would you like some bananas today?",
+      "cn": "今天要买点香蕉吗?",
+      "chunks": [
+        "Would",
+        "you",
+        "like",
+        "some",
+        "bananas",
+        "today?"
+      ],
+      "distractors": [
+        "time.",
+        "tell"
+      ]
+    },
+    {
+      "id": "os-s1u6-35",
+      "unitId": "s1u6",
+      "stage": 1,
+      "text": "Oh, I see. Can you tell me about your family?",
+      "cn": "哦,我明白了。能给我讲讲你的家人吗?",
+      "chunks": [
+        "Oh,",
+        "I",
+        "see.",
+        "Can",
+        "you",
+        "tell",
+        "me",
+        "about",
+        "your",
+        "family?"
+      ],
+      "distractors": [
+        "Li",
+        "do"
+      ]
+    },
+    {
+      "id": "os-s1u6-36",
+      "unitId": "s1u6",
+      "stage": 1,
+      "text": "Alright, maybe I will meet your family another day.",
+      "cn": "好吧,也许改天再认识你的家人。",
+      "chunks": [
+        "Alright,",
+        "maybe",
+        "I",
+        "will",
+        "meet",
+        "your",
+        "family",
+        "another",
+        "day."
+      ],
+      "distractors": [
+        "sounds",
+        "the"
+      ]
+    },
+    {
+      "id": "os-s1u6-37",
+      "unitId": "s1u6",
+      "stage": 1,
+      "text": "Oh... well, nice to meet you anyway.",
+      "cn": "哦……好吧,认识你还是很高兴。",
+      "chunks": [
+        "Oh...",
+        "well,",
+        "nice",
+        "to",
+        "meet",
+        "you",
+        "anyway."
+      ],
+      "distractors": [
+        "carry",
+        "wait"
+      ]
+    },
+    {
+      "id": "os-s1u6-38",
+      "unitId": "s1u6",
+      "stage": 1,
+      "text": "Who is the woman standing over there?",
+      "cn": "站在那边的女士是谁?",
+      "chunks": [
+        "Who",
+        "is",
+        "the",
+        "woman",
+        "standing",
+        "over",
+        "there?"
+      ],
+      "distractors": [
+        "get",
+        "know"
+      ]
+    },
+    {
+      "id": "os-s1u6-39",
+      "unitId": "s1u6",
+      "stage": 1,
+      "text": "Is this your little brother, Tom?",
+      "cn": "汤姆,这是你的小弟弟吗?",
+      "chunks": [
+        "Is",
+        "this",
+        "your",
+        "little",
+        "brother,",
+        "Tom?"
+      ],
+      "distractors": [
+        "too!",
+        "Oh,"
+      ]
+    },
+    {
+      "id": "os-s1u7-40",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "Where are you from, Li Hua? I am from Shanghai.",
+      "cn": "李华,你来自哪里?我来自上海。",
+      "chunks": [
+        "Where",
+        "are",
+        "you",
+        "from,",
+        "Li",
+        "Hua?",
+        "I",
+        "am",
+        "from",
+        "Shanghai."
+      ],
+      "distractors": [
+        "okay.",
+        "Oh..."
+      ]
+    },
+    {
+      "id": "os-s1u7-41",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "Wow, Harbin! Is it really cold there?",
+      "cn": "哇,哈尔滨!那里真的很冷吗?",
+      "chunks": [
+        "Wow,",
+        "Harbin!",
+        "Is",
+        "it",
+        "really",
+        "cold",
+        "there?"
+      ],
+      "distractors": [
+        "on",
+        "Hi!"
+      ]
+    },
+    {
+      "id": "os-s1u7-42",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "Harbin sounds amazing! I want to visit it in winter.",
+      "cn": "哈尔滨听起来太棒了!我想冬天去那里玩。",
+      "chunks": [
+        "Harbin",
+        "sounds",
+        "amazing!",
+        "I",
+        "want",
+        "to",
+        "visit",
+        "it",
+        "in",
+        "winter."
+      ],
+      "distractors": [
+        "another",
+        "total,"
+      ]
+    },
+    {
+      "id": "os-s1u7-43",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "Hmm, maybe you can tell me more next time.",
+      "cn": "嗯,也许你下次再给我多讲讲。",
+      "chunks": [
+        "Hmm,",
+        "maybe",
+        "you",
+        "can",
+        "tell",
+        "me",
+        "more",
+        "next",
+        "time."
+      ],
+      "distractors": [
+        "help",
+        "See"
+      ]
+    },
+    {
+      "id": "os-s1u7-44",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "Okay... I still do not know much about your city.",
+      "cn": "好吧……我还是不太了解你的城市。",
+      "chunks": [
+        "Okay...",
+        "I",
+        "still",
+        "do",
+        "not",
+        "know",
+        "much",
+        "about",
+        "your",
+        "city."
+      ],
+      "distractors": [
+        "today?",
+        "the"
+      ]
+    },
+    {
+      "id": "os-s1u7-45",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "What is the weather like today?",
+      "cn": "今天天气怎么样?",
+      "chunks": [
+        "What",
+        "is",
+        "the",
+        "weather",
+        "like",
+        "today?"
+      ],
+      "distractors": [
+        "wait",
+        "me"
+      ]
+    },
+    {
+      "id": "os-s1u7-46",
+      "unitId": "s1u7",
+      "stage": 1,
+      "text": "How do you like your new city?",
+      "cn": "你觉得你的新城市怎么样?",
+      "chunks": [
+        "How",
+        "do",
+        "you",
+        "like",
+        "your",
+        "new",
+        "city?"
+      ],
+      "distractors": [
+        "That",
+        "okay."
+      ]
+    },
+    {
+      "id": "os-s1u8-47",
+      "unitId": "s1u8",
+      "stage": 1,
+      "text": "Hi, Li Hua! You look worried. What is wrong?",
+      "cn": "嗨,李华!你看起来很发愁。怎么了?",
+      "chunks": [
+        "Hi,",
+        "Li",
+        "Hua!",
+        "You",
+        "look",
+        "worried.",
+        "What",
+        "is",
+        "wrong?"
+      ],
+      "distractors": [
+        "bananas",
+        "later."
+      ]
+    },
+    {
+      "id": "os-s1u8-48",
+      "unitId": "s1u8",
+      "stage": 1,
+      "text": "You are welcome! Take care, and see you tomorrow!",
+      "cn": "不客气!路上小心,明天见!",
+      "chunks": [
+        "You",
+        "are",
+        "welcome!",
+        "Take",
+        "care,",
+        "and",
+        "see",
+        "you",
+        "tomorrow!"
+      ],
+      "distractors": [
+        "amazing!",
+        "help"
+      ]
+    },
+    {
+      "id": "os-s1u8-49",
+      "unitId": "s1u8",
+      "stage": 1,
+      "text": "Could you help me carry this box?",
+      "cn": "你能帮我搬这个箱子吗?",
+      "chunks": [
+        "Could",
+        "you",
+        "help",
+        "me",
+        "carry",
+        "this",
+        "box?"
+      ],
+      "distractors": [
+        "next",
+        "your"
+      ]
+    },
+    {
+      "id": "os-s1u8-50",
+      "unitId": "s1u8",
+      "stage": 1,
+      "text": "What should I do about my toothache?",
+      "cn": "我的牙疼,该怎么办?",
+      "chunks": [
+        "What",
+        "should",
+        "I",
+        "do",
+        "about",
+        "my",
+        "toothache?"
+      ],
+      "distractors": [
+        "computer",
+        "more"
+      ]
+    },
+    {
+      "id": "os-s2u1-51",
+      "unitId": "s2u1",
+      "stage": 2,
+      "text": "Good morning! Are you ready to order now?",
+      "cn": "早上好!您现在准备点餐了吗?",
+      "chunks": [
+        "Good",
+        "morning!",
+        "Are",
+        "you",
+        "ready",
+        "to",
+        "order",
+        "now?"
+      ],
+      "distractors": [
+        "this",
+        "been"
+      ]
+    },
+    {
+      "id": "os-s2u1-52",
+      "unitId": "s2u1",
+      "stage": 2,
+      "text": "What are you having for your drink today?",
+      "cn": "您今天想喝点什么?",
+      "chunks": [
+        "What",
+        "are",
+        "you",
+        "having",
+        "for",
+        "your",
+        "drink",
+        "today?"
+      ],
+      "distractors": [
+        "these",
+        "did"
+      ]
+    },
+    {
+      "id": "os-s2u1-53",
+      "unitId": "s2u1",
+      "stage": 2,
+      "text": "Would you like anything to eat as well?",
+      "cn": "还需要来点什么吃的吗?",
+      "chunks": [
+        "Would",
+        "you",
+        "like",
+        "anything",
+        "to",
+        "eat",
+        "as",
+        "well?"
+      ],
+      "distractors": [
+        "What",
+        "think"
+      ]
+    },
+    {
+      "id": "os-s2u2-54",
+      "unitId": "s2u2",
+      "stage": 2,
+      "text": "Have you ever been to London for work?",
+      "cn": "你去伦敦出过差吗?",
+      "chunks": [
+        "Have",
+        "you",
+        "ever",
+        "been",
+        "to",
+        "London",
+        "for",
+        "work?"
+      ],
+      "distractors": [
+        "the",
+        "this"
+      ]
+    },
+    {
+      "id": "os-s2u2-55",
+      "unitId": "s2u2",
+      "stage": 2,
+      "text": "How long have you been studying English here?",
+      "cn": "你在这里学英语多久了?",
+      "chunks": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "studying",
+        "English",
+        "here?"
+      ],
+      "distractors": [
+        "we",
+        "Thanks"
+      ]
+    },
+    {
+      "id": "os-s2u2-56",
+      "unitId": "s2u2",
+      "stage": 2,
+      "text": "Have you tried the new coffee shop near us?",
+      "cn": "你尝过我们附近那家新咖啡馆吗?",
+      "chunks": [
+        "Have",
+        "you",
+        "tried",
+        "the",
+        "new",
+        "coffee",
+        "shop",
+        "near",
+        "us?"
+      ],
+      "distractors": [
+        "my",
+        "Is"
+      ]
+    },
+    {
+      "id": "os-s2u3-57",
+      "unitId": "s2u3",
+      "stage": 2,
+      "text": "Why did you miss the morning train today?",
+      "cn": "你今天为什么错过了早班火车?",
+      "chunks": [
+        "Why",
+        "did",
+        "you",
+        "miss",
+        "the",
+        "morning",
+        "train",
+        "today?"
+      ],
+      "distractors": [
+        "What",
+        "Mike?"
+      ]
+    },
+    {
+      "id": "os-s2u3-58",
+      "unitId": "s2u3",
+      "stage": 2,
+      "text": "What happened when you arrived at the station?",
+      "cn": "你到车站时发生了什么?",
+      "chunks": [
+        "What",
+        "happened",
+        "when",
+        "you",
+        "arrived",
+        "at",
+        "the",
+        "station?"
+      ],
+      "distractors": [
+        "new",
+        "here?"
+      ]
+    },
+    {
+      "id": "os-s2u3-59",
+      "unitId": "s2u3",
+      "stage": 2,
+      "text": "How did you get to work in the end?",
+      "cn": "最后你是怎么去上班的?",
+      "chunks": [
+        "How",
+        "did",
+        "you",
+        "get",
+        "to",
+        "work",
+        "in",
+        "the",
+        "end?"
+      ],
+      "distractors": [
+        "your",
+        "kind"
+      ]
+    },
+    {
+      "id": "os-s2u4-60",
+      "unitId": "s2u4",
+      "stage": 2,
+      "text": "Deal! New semester, new goals. Let us work hard together!",
+      "cn": "说定了!新学期,新目标。我们一起努力吧!",
+      "chunks": [
+        "Deal!",
+        "New",
+        "semester,",
+        "new",
+        "goals.",
+        "Let",
+        "us",
+        "work",
+        "hard",
+        "together!"
+      ],
+      "distractors": [
+        "the",
+        "Good"
+      ]
+    },
+    {
+      "id": "os-s2u4-61",
+      "unitId": "s2u4",
+      "stage": 2,
+      "text": "What do you plan to do this summer?",
+      "cn": "这个夏天你计划做什么?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "plan",
+        "to",
+        "do",
+        "this",
+        "summer?"
+      ],
+      "distractors": [
+        "Have",
+        "order"
+      ]
+    },
+    {
+      "id": "os-s2u4-62",
+      "unitId": "s2u4",
+      "stage": 2,
+      "text": "Why do you want to learn cooking this year?",
+      "cn": "你为什么今年想学烹饪?",
+      "chunks": [
+        "Why",
+        "do",
+        "you",
+        "want",
+        "to",
+        "learn",
+        "cooking",
+        "this",
+        "year?"
+      ],
+      "distractors": [
+        "luck",
+        "drink"
+      ]
+    },
+    {
+      "id": "os-s2u4-63",
+      "unitId": "s2u4",
+      "stage": 2,
+      "text": "What is your goal for the new term?",
+      "cn": "你这学期的目标是什么?",
+      "chunks": [
+        "What",
+        "is",
+        "your",
+        "goal",
+        "for",
+        "the",
+        "new",
+        "term?"
+      ],
+      "distractors": [
+        "think",
+        "be?"
+      ]
+    },
+    {
+      "id": "os-s2u5-64",
+      "unitId": "s2u5",
+      "stage": 2,
+      "text": "Alright, maybe another time. Enjoy your weekend!",
+      "cn": "好吧,也许下次吧。周末愉快!",
+      "chunks": [
+        "Alright,",
+        "maybe",
+        "another",
+        "time.",
+        "Enjoy",
+        "your",
+        "weekend!"
+      ],
+      "distractors": [
+        "the",
+        "bottles"
+      ]
+    },
+    {
+      "id": "os-s2u5-65",
+      "unitId": "s2u5",
+      "stage": 2,
+      "text": "What do you enjoy doing in your free time?",
+      "cn": "空闲时间你喜欢做什么?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "enjoy",
+        "doing",
+        "in",
+        "your",
+        "free",
+        "time?"
+      ],
+      "distractors": [
+        "How",
+        "train"
+      ]
+    },
+    {
+      "id": "os-s2u5-66",
+      "unitId": "s2u5",
+      "stage": 2,
+      "text": "How long have you been into photography lately?",
+      "cn": "你最近迷上摄影多久了?",
+      "chunks": [
+        "How",
+        "long",
+        "have",
+        "you",
+        "been",
+        "into",
+        "photography",
+        "lately?"
+      ],
+      "distractors": [
+        "semester,",
+        "this"
+      ]
+    },
+    {
+      "id": "os-s2u5-67",
+      "unitId": "s2u5",
+      "stage": 2,
+      "text": "What do you think about going hiking this weekend?",
+      "cn": "这周末去徒步怎么样?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "about",
+        "going",
+        "hiking",
+        "this",
+        "weekend?"
+      ],
+      "distractors": [
+        "Are",
+        "Good"
+      ]
+    },
+    {
+      "id": "os-s2u6-68",
+      "unitId": "s2u6",
+      "stage": 2,
+      "text": "How are these glass bottles made in this factory?",
+      "cn": "这家工厂的玻璃瓶是怎么生产的?",
+      "chunks": [
+        "How",
+        "are",
+        "these",
+        "glass",
+        "bottles",
+        "made",
+        "in",
+        "this",
+        "factory?"
+      ],
+      "distractors": [
+        "enjoy",
+        "from"
+      ]
+    },
+    {
+      "id": "os-s2u6-69",
+      "unitId": "s2u6",
+      "stage": 2,
+      "text": "Where is the new machine installed in the workshop?",
+      "cn": "车间里这台新机器安装在哪里?",
+      "chunks": [
+        "Where",
+        "is",
+        "the",
+        "new",
+        "machine",
+        "installed",
+        "in",
+        "the",
+        "workshop?"
+      ],
+      "distractors": [
+        "delivery",
+        "on"
+      ]
+    },
+    {
+      "id": "os-s2u6-70",
+      "unitId": "s2u6",
+      "stage": 2,
+      "text": "What happens to the finished products after that?",
+      "cn": "之后这些成品会怎样处理?",
+      "chunks": [
+        "What",
+        "happens",
+        "to",
+        "the",
+        "finished",
+        "products",
+        "after",
+        "that?"
+      ],
+      "distractors": [
+        "lately?",
+        "bring"
+      ]
+    },
+    {
+      "id": "os-s2u7-71",
+      "unitId": "s2u7",
+      "stage": 2,
+      "text": "What kind of apartment are you looking for?",
+      "cn": "你在找什么样的公寓?",
+      "chunks": [
+        "What",
+        "kind",
+        "of",
+        "apartment",
+        "are",
+        "you",
+        "looking",
+        "for?"
+      ],
+      "distractors": [
+        "so",
+        "maybe"
+      ]
+    },
+    {
+      "id": "os-s2u7-72",
+      "unitId": "s2u7",
+      "stage": 2,
+      "text": "Which floor do you prefer to live on?",
+      "cn": "你比较想住哪一层?",
+      "chunks": [
+        "Which",
+        "floor",
+        "do",
+        "you",
+        "prefer",
+        "to",
+        "live",
+        "on?"
+      ],
+      "distractors": [
+        "going",
+        "where"
+      ]
+    },
+    {
+      "id": "os-s2u7-73",
+      "unitId": "s2u7",
+      "stage": 2,
+      "text": "What do you think about the neighborhood you want?",
+      "cn": "你觉得你想要的社区环境怎么样?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "about",
+        "the",
+        "neighborhood",
+        "you",
+        "want?"
+      ],
+      "distractors": [
+        "work",
+        "good"
+      ]
+    },
+    {
+      "id": "os-s2u8-74",
+      "unitId": "s2u8",
+      "stage": 2,
+      "text": "Alright, maybe I will just buy Phone X. Thanks anyway!",
+      "cn": "好吧,也许我还是买 Phone X 吧。不管怎样,谢谢你!",
+      "chunks": [
+        "Alright,",
+        "maybe",
+        "I",
+        "will",
+        "just",
+        "buy",
+        "Phone",
+        "X.",
+        "Thanks",
+        "anyway!"
+      ],
+      "distractors": [
+        "today?",
+        "about"
+      ]
+    },
+    {
+      "id": "os-s2u8-75",
+      "unitId": "s2u8",
+      "stage": 2,
+      "text": "Which phone do you think is better for me?",
+      "cn": "你觉得哪款手机更适合我?",
+      "chunks": [
+        "Which",
+        "phone",
+        "do",
+        "you",
+        "think",
+        "is",
+        "better",
+        "for",
+        "me?"
+      ],
+      "distractors": [
+        "Why",
+        "apartment"
+      ]
+    },
+    {
+      "id": "os-s2u8-76",
+      "unitId": "s2u8",
+      "stage": 2,
+      "text": "What is the difference between these two models?",
+      "cn": "这两款型号有什么区别?",
+      "chunks": [
+        "What",
+        "is",
+        "the",
+        "difference",
+        "between",
+        "these",
+        "two",
+        "models?"
+      ],
+      "distractors": [
+        "forecast",
+        "long"
+      ]
+    },
+    {
+      "id": "os-s2u8-77",
+      "unitId": "s2u8",
+      "stage": 2,
+      "text": "Is the battery life good on this one?",
+      "cn": "这款的电池续航好吗?",
+      "chunks": [
+        "Is",
+        "the",
+        "battery",
+        "life",
+        "good",
+        "on",
+        "this",
+        "one?"
+      ],
+      "distractors": [
+        "case.",
+        "today?"
+      ]
+    },
+    {
+      "id": "os-s2u9-78",
+      "unitId": "s2u9",
+      "stage": 2,
+      "text": "Great! Enjoy your new phone case. Sorry for the trouble!",
+      "cn": "太好了!好好用新手机壳。给您添麻烦了,抱歉!",
+      "chunks": [
+        "Great!",
+        "Enjoy",
+        "your",
+        "new",
+        "phone",
+        "case.",
+        "Sorry",
+        "for",
+        "the",
+        "trouble!"
+      ],
+      "distractors": [
+        "think",
+        "made"
+      ]
+    },
+    {
+      "id": "os-s2u9-79",
+      "unitId": "s2u9",
+      "stage": 2,
+      "text": "I cannot find my package. Where could it be?",
+      "cn": "我找不到我的包裹了,它可能在哪儿?",
+      "chunks": [
+        "I",
+        "cannot",
+        "find",
+        "my",
+        "package.",
+        "Where",
+        "could",
+        "it",
+        "be?"
+      ],
+      "distractors": [
+        "ever",
+        "case."
+      ]
+    },
+    {
+      "id": "os-s2u9-80",
+      "unitId": "s2u9",
+      "stage": 2,
+      "text": "Do you think the delivery has come today?",
+      "cn": "你觉得今天的快递到了吗?",
+      "chunks": [
+        "Do",
+        "you",
+        "think",
+        "the",
+        "delivery",
+        "has",
+        "come",
+        "today?"
+      ],
+      "distractors": [
+        "this",
+        "your"
+      ]
+    },
+    {
+      "id": "os-s2u9-81",
+      "unitId": "s2u9",
+      "stage": 2,
+      "text": "Why is the box still missing from the shelf?",
+      "cn": "箱子为什么还不在架子上?",
+      "chunks": [
+        "Why",
+        "is",
+        "the",
+        "box",
+        "still",
+        "missing",
+        "from",
+        "the",
+        "shelf?"
+      ],
+      "distractors": [
+        "weekend?",
+        "you"
+      ]
+    },
+    {
+      "id": "os-s2u10-82",
+      "unitId": "s2u10",
+      "stage": 2,
+      "text": "Why were you late for the meeting today?",
+      "cn": "你今天为什么开会迟到?",
+      "chunks": [
+        "Why",
+        "were",
+        "you",
+        "late",
+        "for",
+        "the",
+        "meeting",
+        "today?"
+      ],
+      "distractors": [
+        "shelf?",
+        "long"
+      ]
+    },
+    {
+      "id": "os-s2u10-83",
+      "unitId": "s2u10",
+      "stage": 2,
+      "text": "Did you come to work by bus today?",
+      "cn": "你今天坐公交车上班的吗?",
+      "chunks": [
+        "Did",
+        "you",
+        "come",
+        "to",
+        "work",
+        "by",
+        "bus",
+        "today?"
+      ],
+      "distractors": [
+        "phone",
+        "your"
+      ]
+    },
+    {
+      "id": "os-s2u10-84",
+      "unitId": "s2u10",
+      "stage": 2,
+      "text": "What made you so late this time, Mike?",
+      "cn": "迈克,这次什么让你迟到这么久?",
+      "chunks": [
+        "What",
+        "made",
+        "you",
+        "so",
+        "late",
+        "this",
+        "time,",
+        "Mike?"
+      ],
+      "distractors": [
+        "happens",
+        "my"
+      ]
+    },
+    {
+      "id": "os-s2u11-85",
+      "unitId": "s2u11",
+      "stage": 2,
+      "text": "Have you seen the weather forecast for today?",
+      "cn": "你看过今天的天气预报了吗?",
+      "chunks": [
+        "Have",
+        "you",
+        "seen",
+        "the",
+        "weather",
+        "forecast",
+        "for",
+        "today?"
+      ],
+      "distractors": [
+        "meeting",
+        "learn"
+      ]
+    },
+    {
+      "id": "os-s2u11-86",
+      "unitId": "s2u11",
+      "stage": 2,
+      "text": "Do you think we should bring umbrellas outside?",
+      "cn": "你觉得我们出门该带伞吗?",
+      "chunks": [
+        "Do",
+        "you",
+        "think",
+        "we",
+        "should",
+        "bring",
+        "umbrellas",
+        "outside?"
+      ],
+      "distractors": [
+        "weekend?",
+        "late"
+      ]
+    },
+    {
+      "id": "os-s2u11-87",
+      "unitId": "s2u11",
+      "stage": 2,
+      "text": "What will the weather be like this weekend?",
+      "cn": "这周末天气会怎么样?",
+      "chunks": [
+        "What",
+        "will",
+        "the",
+        "weather",
+        "be",
+        "like",
+        "this",
+        "weekend?"
+      ],
+      "distractors": [
+        "get",
+        "package."
+      ]
+    },
+    {
+      "id": "os-s2u12-88",
+      "unitId": "s2u12",
+      "stage": 2,
+      "text": "Alright, take care and good luck finding the library!",
+      "cn": "好吧,路上小心,祝您顺利找到图书馆!",
+      "chunks": [
+        "Alright,",
+        "take",
+        "care",
+        "and",
+        "good",
+        "luck",
+        "finding",
+        "the",
+        "library!"
+      ],
+      "distractors": [
+        "life",
+        "hotel"
+      ]
+    },
+    {
+      "id": "os-s2u12-89",
+      "unitId": "s2u12",
+      "stage": 2,
+      "text": "Excuse me, where is the nearest bank around here?",
+      "cn": "请问,这附近最近的银行在哪里?",
+      "chunks": [
+        "Excuse",
+        "me,",
+        "where",
+        "is",
+        "the",
+        "nearest",
+        "bank",
+        "around",
+        "here?"
+      ],
+      "distractors": [
+        "after",
+        "work?"
+      ]
+    },
+    {
+      "id": "os-s2u12-90",
+      "unitId": "s2u12",
+      "stage": 2,
+      "text": "How can I get to the train station from here?",
+      "cn": "从这里怎么去火车站?",
+      "chunks": [
+        "How",
+        "can",
+        "I",
+        "get",
+        "to",
+        "the",
+        "train",
+        "station",
+        "from",
+        "here?"
+      ],
+      "distractors": [
+        "factory?",
+        "finished"
+      ]
+    },
+    {
+      "id": "os-s2u12-91",
+      "unitId": "s2u12",
+      "stage": 2,
+      "text": "Is the museum far from the hotel we are in?",
+      "cn": "博物馆离我们住的酒店远吗?",
+      "chunks": [
+        "Is",
+        "the",
+        "museum",
+        "far",
+        "from",
+        "the",
+        "hotel",
+        "we",
+        "are",
+        "in?"
+      ],
+      "distractors": [
+        "together!",
+        "you"
+      ]
+    },
+    {
+      "id": "os-s3u1-92",
+      "unitId": "s3u1",
+      "stage": 3,
+      "text": "What if I fail the final exam this time around?",
+      "cn": "如果我这次期末考试没考过怎么办?",
+      "chunks": [
+        "What",
+        "if",
+        "I",
+        "fail",
+        "the",
+        "final",
+        "exam",
+        "this",
+        "time",
+        "around?"
+      ],
+      "distractors": [
+        "delayed",
+        "new"
+      ]
+    },
+    {
+      "id": "os-s3u1-93",
+      "unitId": "s3u1",
+      "stage": 3,
+      "text": "Will you join the study group tomorrow morning at nine?",
+      "cn": "明早九点你会参加学习小组吗?",
+      "chunks": [
+        "Will",
+        "you",
+        "join",
+        "the",
+        "study",
+        "group",
+        "tomorrow",
+        "morning",
+        "at",
+        "nine?"
+      ],
+      "distractors": [
+        "support",
+        "goal."
+      ]
+    },
+    {
+      "id": "os-s3u2-94",
+      "unitId": "s3u2",
+      "stage": 3,
+      "text": "I really wish I had started learning English much earlier.",
+      "cn": "我真希望我早一点开始学英语。",
+      "chunks": [
+        "I",
+        "really",
+        "wish",
+        "I",
+        "had",
+        "started",
+        "learning",
+        "English",
+        "much",
+        "earlier."
+      ],
+      "distractors": [
+        "What",
+        "Good"
+      ]
+    },
+    {
+      "id": "os-s3u2-95",
+      "unitId": "s3u2",
+      "stage": 3,
+      "text": "I wish I could speak French as well as you.",
+      "cn": "我希望能像你一样把法语说得那么好。",
+      "chunks": [
+        "I",
+        "wish",
+        "I",
+        "could",
+        "speak",
+        "French",
+        "as",
+        "well",
+        "as",
+        "you."
+      ],
+      "distractors": [
+        "about",
+        "off"
+      ]
+    },
+    {
+      "id": "os-s3u3-96",
+      "unitId": "s3u3",
+      "stage": 3,
+      "text": "What do you think of the story in the paper?",
+      "cn": "你觉得报纸上那篇报道怎么样?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "of",
+        "the",
+        "story",
+        "in",
+        "the",
+        "paper?"
+      ],
+      "distractors": [
+        "to",
+        "crossing?"
+      ]
+    },
+    {
+      "id": "os-s3u4-97",
+      "unitId": "s3u4",
+      "stage": 3,
+      "text": "How did you manage to finish the long race yesterday?",
+      "cn": "昨天你是怎么坚持跑完全程的?",
+      "chunks": [
+        "How",
+        "did",
+        "you",
+        "manage",
+        "to",
+        "finish",
+        "the",
+        "long",
+        "race",
+        "yesterday?"
+      ],
+      "distractors": [
+        "Monday",
+        "do"
+      ]
+    },
+    {
+      "id": "os-s3u4-98",
+      "unitId": "s3u4",
+      "stage": 3,
+      "text": "What made you start your own small business back then?",
+      "cn": "当年是什么促使你创办自己的小生意?",
+      "chunks": [
+        "What",
+        "made",
+        "you",
+        "start",
+        "your",
+        "own",
+        "small",
+        "business",
+        "back",
+        "then?"
+      ],
+      "distractors": [
+        "finish",
+        "we"
+      ]
+    },
+    {
+      "id": "os-s3u5-99",
+      "unitId": "s3u5",
+      "stage": 3,
+      "text": "What do you think about the new policy at school?",
+      "cn": "你觉得学校的新政策怎么样?",
+      "chunks": [
+        "What",
+        "do",
+        "you",
+        "think",
+        "about",
+        "the",
+        "new",
+        "policy",
+        "at",
+        "school?"
+      ],
+      "distractors": [
+        "afternoon?",
+        "race"
+      ]
+    },
+    {
+      "id": "os-s3u5-100",
+      "unitId": "s3u5",
+      "stage": 3,
+      "text": "Why do you support this new idea so strongly, Sam?",
+      "cn": "山姆,你为什么这么强烈地支持这个新想法?",
+      "chunks": [
+        "Why",
+        "do",
+        "you",
+        "support",
+        "this",
+        "new",
+        "idea",
+        "so",
+        "strongly,",
+        "Sam?"
+      ],
+      "distractors": [
+        "crossing?",
+        "Seldom"
+      ]
+    },
+    {
+      "id": "os-s3u6-101",
+      "unitId": "s3u6",
+      "stage": 3,
+      "text": "Good morning, everyone. I welcome you to our annual meeting.",
+      "cn": "各位早上好,欢迎参加我们的年会。",
+      "chunks": [
+        "Good",
+        "morning,",
+        "everyone.",
+        "I",
+        "welcome",
+        "you",
+        "to",
+        "our",
+        "annual",
+        "meeting."
+      ],
+      "distractors": [
+        "How",
+        "the"
+      ]
+    },
+    {
+      "id": "os-s3u6-102",
+      "unitId": "s3u6",
+      "stage": 3,
+      "text": "Never before have I seen such a supportive audience today.",
+      "cn": "今天我从没见过如此支持我的观众。",
+      "chunks": [
+        "Never",
+        "before",
+        "have",
+        "I",
+        "seen",
+        "such",
+        "a",
+        "supportive",
+        "audience",
+        "today."
+      ],
+      "distractors": [
+        "think",
+        "Seldom"
+      ]
+    },
+    {
+      "id": "os-s3u6-103",
+      "unitId": "s3u6",
+      "stage": 3,
+      "text": "Only by working together can we achieve our common goal.",
+      "cn": "只有团结合作,我们才能实现共同目标。",
+      "chunks": [
+        "Only",
+        "by",
+        "working",
+        "together",
+        "can",
+        "we",
+        "achieve",
+        "our",
+        "common",
+        "goal."
+      ],
+      "distractors": [
+        "to",
+        "finish"
+      ]
+    },
+    {
+      "id": "os-s3u6-104",
+      "unitId": "s3u6",
+      "stage": 3,
+      "text": "Seldom do we get such a perfect opportunity in life.",
+      "cn": "人生中我们很少遇到这样完美的机会。",
+      "chunks": [
+        "Seldom",
+        "do",
+        "we",
+        "get",
+        "such",
+        "a",
+        "perfect",
+        "opportunity",
+        "in",
+        "life."
+      ],
+      "distractors": [
+        "Tom?",
+        "hurt"
+      ]
+    },
+    {
+      "id": "os-s3u7-105",
+      "unitId": "s3u7",
+      "stage": 3,
+      "text": "So you refused to help them with the move, right?",
+      "cn": "所以你拒绝帮他们搬家,对吧?",
+      "chunks": [
+        "So",
+        "you",
+        "refused",
+        "to",
+        "help",
+        "them",
+        "with",
+        "the",
+        "move,",
+        "right?"
+      ],
+      "distractors": [
+        "changed",
+        "at"
+      ]
+    },
+    {
+      "id": "os-s3u8-106",
+      "unitId": "s3u8",
+      "stage": 3,
+      "text": "Can you tell me what exactly happened at the crossing?",
+      "cn": "你能告诉我十字路口到底发生了什么吗?",
+      "chunks": [
+        "Can",
+        "you",
+        "tell",
+        "me",
+        "what",
+        "exactly",
+        "happened",
+        "at",
+        "the",
+        "crossing?"
+      ],
+      "distractors": [
+        "study",
+        "afternoon,"
+      ]
+    },
+    {
+      "id": "os-s3u8-107",
+      "unitId": "s3u8",
+      "stage": 3,
+      "text": "Was anyone badly hurt in the accident yesterday afternoon, Tom?",
+      "cn": "汤姆,昨天下午的事故里有人伤得很重吗?",
+      "chunks": [
+        "Was",
+        "anyone",
+        "badly",
+        "hurt",
+        "in",
+        "the",
+        "accident",
+        "yesterday",
+        "afternoon,",
+        "Tom?"
+      ],
+      "distractors": [
+        "by",
+        "with"
+      ]
+    },
+    {
+      "id": "os-s3u9-108",
+      "unitId": "s3u9",
+      "stage": 3,
+      "text": "Where are we with the project right at this moment?",
+      "cn": "项目此刻进展到什么阶段了?",
+      "chunks": [
+        "Where",
+        "are",
+        "we",
+        "with",
+        "the",
+        "project",
+        "right",
+        "at",
+        "this",
+        "moment?"
+      ],
+      "distractors": [
+        "you",
+        "Never"
+      ]
+    },
+    {
+      "id": "os-s3u9-109",
+      "unitId": "s3u9",
+      "stage": 3,
+      "text": "Why was the product launch delayed again this week, Jane?",
+      "cn": "简,这周产品发布为什么又延期了?",
+      "chunks": [
+        "Why",
+        "was",
+        "the",
+        "product",
+        "launch",
+        "delayed",
+        "again",
+        "this",
+        "week,",
+        "Jane?"
+      ],
+      "distractors": [
+        "back",
+        "you"
+      ]
+    },
+    {
+      "id": "os-s3u9-110",
+      "unitId": "s3u9",
+      "stage": 3,
+      "text": "What has changed since the last project meeting we had?",
+      "cn": "自上项目会议以来有什么变化?",
+      "chunks": [
+        "What",
+        "has",
+        "changed",
+        "since",
+        "the",
+        "last",
+        "project",
+        "meeting",
+        "we",
+        "had?"
+      ],
+      "distractors": [
+        "exam",
+        "nine?"
+      ]
+    },
+    {
+      "id": "os-s3u10-111",
+      "unitId": "s3u10",
+      "stage": 3,
+      "text": "Can you put off the meeting to next Monday afternoon?",
+      "cn": "你能把会议推迟到下周一下午吗?",
+      "chunks": [
+        "Can",
+        "you",
+        "put",
+        "off",
+        "the",
+        "meeting",
+        "to",
+        "next",
+        "Monday",
+        "afternoon?"
+      ],
+      "distractors": [
+        "Sam?",
+        "support"
+      ]
+    },
+    {
+      "id": "os-s3u11-112",
+      "unitId": "s3u11",
+      "stage": 3,
+      "text": "Did you attach the file to the email this morning?",
+      "cn": "你今天早上把文件附到邮件里了吗?",
+      "chunks": [
+        "Did",
+        "you",
+        "attach",
+        "the",
+        "file",
+        "to",
+        "the",
+        "email",
+        "this",
+        "morning?"
+      ],
+      "distractors": [
+        "week,",
+        "by"
+      ]
+    },
+    {
+      "id": "os-s3u11-113",
+      "unitId": "s3u11",
+      "stage": 3,
+      "text": "To whom should we address this invoice in the end?",
+      "cn": "这张发票最后应该寄给谁?",
+      "chunks": [
+        "To",
+        "whom",
+        "should",
+        "we",
+        "address",
+        "this",
+        "invoice",
+        "in",
+        "the",
+        "end?"
+      ],
+      "distractors": [
+        "made",
+        "you"
+      ]
+    },
+    {
+      "id": "os-s3u11-114",
+      "unitId": "s3u11",
+      "stage": 3,
+      "text": "Have you replied to the client about the new deadline?",
+      "cn": "你就新的截止日期回复客户了吗?",
+      "chunks": [
+        "Have",
+        "you",
+        "replied",
+        "to",
+        "the",
+        "client",
+        "about",
+        "the",
+        "new",
+        "deadline?"
+      ],
+      "distractors": [
+        "exam",
+        "we"
+      ]
+    }
+  ]
+}

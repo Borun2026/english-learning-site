@@ -1,0 +1,1304 @@
+{
+  "id": "a-s5u6",
+  "stage": 5,
+  "unitId": "s5u6",
+  "title": "The Language of Negotiation",
+  "newWords": [
+    "lucid",
+    "lucrative",
+    "hassle",
+    "momentous",
+    "speculation",
+    "oncoming",
+    "pacify",
+    "mentor",
+    "miscellaneous",
+    "pliable",
+    "presumption",
+    "demerit",
+    "elusive",
+    "aggressiveness",
+    "flexitime",
+    "stance",
+    "terse",
+    "transgress",
+    "undue",
+    "anecdotal"
+  ],
+  "sentences": [
+    {
+      "text": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+      "translation": "职场中的成功谈判,更多取决于清晰表达立场和真诚耐心倾听的能力,而非嗓门大小。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Successful negotiation in the workplace"
+            },
+            {
+              "role": "谓语",
+              "text": "can depend"
+            },
+            {
+              "role": "比较状语",
+              "text": "less on a loud voice than on the ability to express a position clearly and to listen with genuine patience"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "less... than... 比较结构",
+          "note": "depend less on A than on B 表示\"更多取决于 B 而非 A\",是论证中权衡因素的标准句式。"
+        },
+        {
+          "name": "不定式并列",
+          "note": "to express a position clearly and to listen with genuine patience 两个不定式并列,说明能力的具体内容。"
+        },
+        {
+          "name": "can 表可能性",
+          "note": "can 表示\"可能、能够\",使观点留有分寸,语气客观。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience",
+          "name": "less... than... 比较结构"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience",
+          "name": "不定式并列"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience",
+          "name": "can 表可能性"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+          "answer": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+          "note": "depend less on A than on B 表示\"更多取决于 B 而非 A\",是论证中权衡因素的标准句式。",
+          "point": "less... than... 比较结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+          "answer": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+          "note": "to express a position clearly and to listen with genuine patience 两个不定式并列,说明能力的具体内容。",
+          "point": "不定式并列"
+        }
+      ]
+    },
+    {
+      "text": "Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+      "translation": "在会议开始之前,你应该准备一份关于目标的清晰摘要,并大声演练,直到句子能不假思索地流畅说出。",
+      "chunks": [
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "Before the meeting can begin"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "you should prepare a lucid summary of your goal and rehearse it aloud",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语一",
+              "text": "should prepare"
+            },
+            {
+              "role": "宾语一",
+              "text": "a lucid summary of your goal"
+            },
+            {
+              "role": "谓语二",
+              "text": "and rehearse"
+            },
+            {
+              "role": "宾语二",
+              "text": "it"
+            },
+            {
+              "role": "方式状语",
+              "text": "aloud"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "until the sentence can flow without hesitation"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "Before 引导时间状语从句",
+          "note": "Before the meeting can begin 交代准备动作的时机,是口语表达中交代先后顺序的常用结构。"
+        },
+        {
+          "name": "并列谓语 should prepare... and rehearse...",
+          "note": "两个 should 后的并列动词短语提出两项准备任务。"
+        },
+        {
+          "name": "until 引导时间状语从句",
+          "note": "until 表示\"直到……为止\",说明练习要达到的标准。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should prepare a lucid summary of your goal and rehearse it aloud",
+          "name": "Before 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should prepare a lucid summary of your goal and rehearse it aloud",
+          "name": "并列谓语 should prepare... and rehearse..."
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should prepare a lucid summary of your goal and rehearse it aloud",
+          "name": "until 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+          "answer": "Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+          "note": "Before the meeting can begin 交代准备动作的时机,是口语表达中交代先后顺序的常用结构。",
+          "point": "Before 引导时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+          "answer": "Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+          "note": "两个 should 后的并列动词短语提出两项准备任务。",
+          "point": "并列谓语 should prepare... and rehearse..."
+        }
+      ]
+    },
+    {
+      "text": "It is often wise to open with a statement such as I understand your concern, which can help to pacify an anxious counterpart before any hard bargain can start.",
+      "translation": "以\"我理解你的顾虑\"这样一句话开场往往是明智的,它能在任何艰难谈判开始之前安抚焦虑的对方。",
+      "chunks": [
+        {
+          "label": "主干(形式主语)",
+          "color": "#a8dab5",
+          "text": "It is often wise to open with a statement such as I understand your concern",
+          "parts": [
+            {
+              "role": "形式主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "often wise"
+            },
+            {
+              "role": "不定式(真正主语)",
+              "text": "to open with a statement such as I understand your concern"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "which can help to pacify an anxious counterpart"
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before any hard bargain can start"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形式主语 It is wise to do",
+          "note": "It is wise to open with... 中,It 是形式主语,不定式是真正主语,表达建议时语气客观。",
+          "example": "It is wise to confirm the price first.",
+          "exampleCn": "先确认价格是明智的。"
+        },
+        {
+          "name": "which 引导非限定性定语从句",
+          "note": "which 指代整个开场白的做法,说明其作用。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before any hard bargain can start 强调开场白的时机价值。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "It is often wise to open with a statement such as I understand your concern",
+          "name": "形式主语 It is wise to do"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "It is often wise to open with a statement such as I understand your concern",
+          "name": "which 引导非限定性定语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "It is often wise to open with a statement such as I understand your concern",
+          "name": "before 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:先确认价格是明智的。",
+          "answer": "It is wise to confirm the price first.",
+          "note": "It is wise to open with... 中,It 是形式主语,不定式是真正主语,表达建议时语气客观。",
+          "point": "形式主语 It is wise to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):It is often wise to open with a statement such as I understand your concern, which can help to pacify an anxious counterpart before any hard bargain can start.",
+          "answer": "It is often wise to open with a statement such as I understand your concern, which can help to pacify an anxious counterpart before any hard bargain can start.",
+          "note": "which 指代整个开场白的做法,说明其作用。",
+          "point": "which 引导非限定性定语从句"
+        }
+      ]
+    },
+    {
+      "text": "A lucrative offer, for instance, can hide an additional obligation, so you should examine every clause with care before you agree with a nod.",
+      "translation": "例如,一个诱人的报价可能隐藏着额外义务,因此在点头同意之前,你应当仔细审视每一个条款。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A lucrative offer, for instance, can hide an additional obligation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A lucrative offer"
+            },
+            {
+              "role": "插入语",
+              "text": "for instance"
+            },
+            {
+              "role": "谓语",
+              "text": "can hide"
+            },
+            {
+              "role": "宾语",
+              "text": "an additional obligation"
+            }
+          ]
+        },
+        {
+          "label": "结果连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "you should examine every clause with care",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语",
+              "text": "should examine"
+            },
+            {
+              "role": "宾语",
+              "text": "every clause"
+            },
+            {
+              "role": "方式状语",
+              "text": "with care"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before you agree with a nod"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "for instance 举例",
+          "note": "for instance 引出具体例子,使抽象告诫形象化。"
+        },
+        {
+          "name": "so 表示因果结果",
+          "note": "so 引出由前文原因导致的行动建议,是口语中自然的衔接。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before you agree with a nod 强调签约前的审视时机。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A lucrative offer, for instance, can hide an additional obligation",
+          "name": "for instance 举例"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A lucrative offer, for instance, can hide an additional obligation",
+          "name": "so 表示因果结果"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A lucrative offer, for instance, can hide an additional obligation",
+          "name": "before 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A lucrative offer, for instance, can hide an additional obligation, so you should examine every clause with care before you agree with a nod.",
+          "answer": "A lucrative offer, for instance, can hide an additional obligation, so you should examine every clause with care before you agree with a nod.",
+          "note": "for instance 引出具体例子,使抽象告诫形象化。",
+          "point": "for instance 举例"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A lucrative offer, for instance, can hide an additional obligation, so you should examine every clause with care before you agree with a nod.",
+          "answer": "A lucrative offer, for instance, can hide an additional obligation, so you should examine every clause with care before you agree with a nod.",
+          "note": "so 引出由前文原因导致的行动建议,是口语中自然的衔接。",
+          "point": "so 表示因果结果"
+        }
+      ]
+    },
+    {
+      "text": "A wise speaker can never argue from presumption or speculation; instead, he may test every assumption with a question such as what if we try another way.",
+      "translation": "明智的谈判者绝不会凭臆断或猜测去争辩;相反,他会用\"如果我们换个方式会怎样\"这样的问题来检验每一个假设。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "A wise speaker can never argue from presumption or speculation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A wise speaker"
+            },
+            {
+              "role": "谓语",
+              "text": "can never argue"
+            },
+            {
+              "role": "方式状语",
+              "text": "from presumption or speculation"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "instead"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "he may test every assumption with a question such as what if we try another way",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "谓语",
+              "text": "may test"
+            },
+            {
+              "role": "宾语",
+              "text": "every assumption"
+            },
+            {
+              "role": "方式状语",
+              "text": "with a question such as what if we try another way"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "否定词 never 加强语气",
+          "note": "never 表示\"绝不\",以绝对否定突出谈判者的原则。"
+        },
+        {
+          "name": "instead 表示相反",
+          "note": "instead 承接分号,提出与上文相反的正确做法。"
+        },
+        {
+          "name": "such as 举例提问句式",
+          "note": "such as what if we try another way 示例说明检验假设的具体问法,是口语流利表达的核心技巧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "he may test every assumption with a question such as what if we try another way",
+          "name": "否定词 never 加强语气"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "he may test every assumption with a question such as what if we try another way",
+          "name": "instead 表示相反"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "he may test every assumption with a question such as what if we try another way",
+          "name": "such as 举例提问句式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A wise speaker can never argue from presumption or speculation; instead, he may test every assumption with a question such as what if we try another way.",
+          "answer": "A wise speaker can never argue from presumption or speculation; instead, he may test every assumption with a question such as what if we try another way.",
+          "note": "never 表示\"绝不\",以绝对否定突出谈判者的原则。",
+          "point": "否定词 never 加强语气"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A wise speaker can never argue from presumption or speculation; instead, he may test every assumption with a question such as what if we try another way.",
+          "answer": "A wise speaker can never argue from presumption or speculation; instead, he may test every assumption with a question such as what if we try another way.",
+          "note": "instead 承接分号,提出与上文相反的正确做法。",
+          "point": "instead 表示相反"
+        }
+      ]
+    },
+    {
+      "text": "If the other side can show aggressiveness, the best response is to state the fact again in a terse, neutral manner rather than to raise the voice.",
+      "translation": "如果对方表现出攻击性,最好的回应是以简洁、中立的方式再次陈述事实,而不是提高嗓门。",
+      "chunks": [
+        {
+          "label": "条件连词",
+          "color": "#f6c177",
+          "text": "If"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#c8a5e0",
+          "text": "the other side can show aggressiveness"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the best response is to state the fact again in a terse, neutral manner",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the best response"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to state the fact again in a terse, neutral manner"
+            }
+          ]
+        },
+        {
+          "label": "对比结构",
+          "color": "#f6c177",
+          "text": "rather than"
+        },
+        {
+          "label": "不定式短语",
+          "color": "#9fd8e8",
+          "text": "to raise the voice"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "if 提出对方攻击的情形,主句给出应对策略。"
+        },
+        {
+          "name": "不定式作表语",
+          "note": "the best response is to state... 用不定式说明最佳回应的内容。"
+        },
+        {
+          "name": "rather than 对比取舍",
+          "note": "rather than to raise the voice 用对比结构明确\"应该做什么、不该做什么\"。",
+          "example": "Smile rather than complain.",
+          "exampleCn": "微笑,而不是抱怨。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "the best response is to state the fact again in a terse, neutral manner",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "the best response is to state the fact again in a terse, neutral manner",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "the best response is to state the fact again in a terse, neutral manner",
+          "name": "rather than 对比取舍"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the other side can show aggressiveness, the best response is to state the fact again in a terse, neutral manner rather than to raise the voice.",
+          "answer": "If the other side can show aggressiveness, the best response is to state the fact again in a terse, neutral manner rather than to raise the voice.",
+          "note": "if 提出对方攻击的情形,主句给出应对策略。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the other side can show aggressiveness, the best response is to state the fact again in a terse, neutral manner rather than to raise the voice.",
+          "answer": "If the other side can show aggressiveness, the best response is to state the fact again in a terse, neutral manner rather than to raise the voice.",
+          "note": "the best response is to state... 用不定式说明最佳回应的内容。",
+          "point": "不定式作表语"
+        }
+      ]
+    },
+    {
+      "text": "A clear stance on the key issue, with evidence behind it, can keep the discussion from a miscellaneous list of complaint, yet you may remain pliable enough to accept a better idea when it can appear.",
+      "translation": "对关键问题立场明确,又有证据支撑,就能使讨论不至于沦为杂乱无章的抱怨清单;然而,你也应保持足够的灵活性,以便在更好的想法出现时接受它。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A clear stance on the key issue",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A clear stance on the key issue"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "with evidence behind it"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "can keep the discussion from a miscellaneous list of complaint",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can keep"
+            },
+            {
+              "role": "宾语",
+              "text": "the discussion"
+            },
+            {
+              "role": "宾补",
+              "text": "from a miscellaneous list of complaint"
+            }
+          ]
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "you may remain pliable enough to accept a better idea",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may remain"
+            },
+            {
+              "role": "表语",
+              "text": "pliable enough"
+            },
+            {
+              "role": "结果状语(不定式)",
+              "text": "to accept a better idea"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "when it can appear"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "keep... from... 结构",
+          "note": "keep the discussion from a miscellaneous list of complaint 表示\"使讨论避免沦为……\"。",
+          "example": "Keep the talk from the past.",
+          "exampleCn": "不要让谈话纠缠于过去。"
+        },
+        {
+          "name": "remain + 形容词",
+          "note": "remain pliable 中 remain 是系动词,表示\"保持……\",强调状态的持续。"
+        },
+        {
+          "name": "enough to do 表程度结果",
+          "note": "pliable enough to accept 表示\"灵活到足以接受\",enough 后接不定式表结果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "can keep the discussion from a miscellaneous list of complaint",
+          "name": "keep... from... 结构"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "can keep the discussion from a miscellaneous list of complaint",
+          "name": "remain + 形容词"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "can keep the discussion from a miscellaneous list of complaint",
+          "name": "enough to do 表程度结果"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要让谈话纠缠于过去。",
+          "answer": "Keep the talk from the past.",
+          "note": "keep the discussion from a miscellaneous list of complaint 表示\"使讨论避免沦为……\"。",
+          "point": "keep... from... 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A clear stance on the key issue, with evidence behind it, can keep the discussion from a miscellaneous list of complaint, yet you may remain pliable enough to accept a better idea when it can appear.",
+          "answer": "A clear stance on the key issue, with evidence behind it, can keep the discussion from a miscellaneous list of complaint, yet you may remain pliable enough to accept a better idea when it can appear.",
+          "note": "remain pliable 中 remain 是系动词,表示\"保持……\",强调状态的持续。",
+          "point": "remain + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "Some speaker can bury the main point under a heap of demand in hope that a daily hassle can wear you down, but you should isolate the demerit of every point and answer them one by one.",
+      "translation": "有些谈判者会用一大堆要求把要点埋没,指望日常的纠缠把你拖垮;但你应当把每一个要点的缺陷单独挑出来,逐一回应。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "Some speaker can bury the main point under a heap of demand",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some speaker"
+            },
+            {
+              "role": "谓语",
+              "text": "can bury"
+            },
+            {
+              "role": "宾语",
+              "text": "the main point"
+            },
+            {
+              "role": "地点状语",
+              "text": "under a heap of demand"
+            }
+          ]
+        },
+        {
+          "label": "目的状语",
+          "color": "#8ab4f8",
+          "text": "in hope that a daily hassle can wear you down"
+        },
+        {
+          "label": "转折连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "you should isolate the demerit of every point and answer them one by one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语一",
+              "text": "should isolate"
+            },
+            {
+              "role": "宾语一",
+              "text": "the demerit of every point"
+            },
+            {
+              "role": "谓语二",
+              "text": "and answer"
+            },
+            {
+              "role": "宾语二",
+              "text": "them"
+            },
+            {
+              "role": "方式状语",
+              "text": "one by one"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in hope that 引导目的状语",
+          "note": "in hope that 表示\"希望……\",说明谈判者的动机和意图。"
+        },
+        {
+          "name": "wear down 搭配",
+          "note": "wear you down 表示\"使筋疲力尽\",是口语中描述消耗战术的常用搭配。"
+        },
+        {
+          "name": "one by one 方式状语",
+          "note": "one by one 表示\"逐一地\",说明应对杂乱的策略。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should isolate the demerit of every point and answer them one by one",
+          "name": "in hope that 引导目的状语"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should isolate the demerit of every point and answer them one by one",
+          "name": "wear down 搭配"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you should isolate the demerit of every point and answer them one by one",
+          "name": "one by one 方式状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some speaker can bury the main point under a heap of demand in hope that a daily hassle can wear you down, but you should isolate the demerit of every point and answer them one by one.",
+          "answer": "Some speaker can bury the main point under a heap of demand in hope that a daily hassle can wear you down, but you should isolate the demerit of every point and answer them one by one.",
+          "note": "in hope that 表示\"希望……\",说明谈判者的动机和意图。",
+          "point": "in hope that 引导目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some speaker can bury the main point under a heap of demand in hope that a daily hassle can wear you down, but you should isolate the demerit of every point and answer them one by one.",
+          "answer": "Some speaker can bury the main point under a heap of demand in hope that a daily hassle can wear you down, but you should isolate the demerit of every point and answer them one by one.",
+          "note": "wear you down 表示\"使筋疲力尽\",是口语中描述消耗战术的常用搭配。",
+          "point": "wear down 搭配"
+        }
+      ]
+    },
+    {
+      "text": "Flexitime and other flexible arrangement can be on the table, and a proposal that can suit both side may turn a momentous decision into a simple signature.",
+      "translation": "弹性工作制等灵活安排可以摆上桌面,而一个能同时满足双方的提议,能把重大的决定变成一次简单的签字。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "Flexitime and other flexible arrangement can be on the table",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Flexitime and other flexible arrangement"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "can be"
+            },
+            {
+              "role": "表语",
+              "text": "on the table"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a proposal that can suit both side may turn a momentous decision into a simple signature",
+          "parts": [
+            {
+              "role": "主语(含定语从句)",
+              "text": "a proposal that can suit both side"
+            },
+            {
+              "role": "谓语",
+              "text": "may turn"
+            },
+            {
+              "role": "宾语",
+              "text": "a momentous decision"
+            },
+            {
+              "role": "宾补",
+              "text": "into a simple signature"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "on the table 习语",
+          "note": "be on the table 表示\"摆上台面、可供讨论\",是商务谈判中的常用习语。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that can suit both side 修饰 proposal,说明提议的双赢属性。"
+        },
+        {
+          "name": "turn... into... 结构",
+          "note": "turn a momentous decision into a simple signature 表示\"把重大决定化为简单签字\",turn... into... 表示转化。",
+          "example": "She turned the problem into a chance.",
+          "exampleCn": "她把问题变成了机会。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "a proposal that can suit both side may turn a momentous decision into a simple signature",
+          "name": "on the table 习语"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "a proposal that can suit both side may turn a momentous decision into a simple signature",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "a proposal that can suit both side may turn a momentous decision into a simple signature",
+          "name": "turn... into... 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Flexitime and other flexible arrangement can be on the table, and a proposal that can suit both side may turn a momentous decision into a simple signature.",
+          "answer": "Flexitime and other flexible arrangement can be on the table, and a proposal that can suit both side may turn a momentous decision into a simple signature.",
+          "note": "be on the table 表示\"摆上台面、可供讨论\",是商务谈判中的常用习语。",
+          "point": "on the table 习语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Flexitime and other flexible arrangement can be on the table, and a proposal that can suit both side may turn a momentous decision into a simple signature.",
+          "answer": "Flexitime and other flexible arrangement can be on the table, and a proposal that can suit both side may turn a momentous decision into a simple signature.",
+          "note": "that can suit both side 修饰 proposal,说明提议的双赢属性。",
+          "point": "that 引导定语从句"
+        }
+      ]
+    },
+    {
+      "text": "Should your opponent rely on anecdotal evidence, you may acknowledge it in a polite way but ask for the original data before you accept any claim.",
+      "translation": "如果你的对手依赖轶事性证据,你可以礼貌地承认它,但在接受任何主张之前,要先索要原始数据。",
+      "chunks": [
+        {
+          "label": "条件状语从句(倒装)",
+          "color": "#c8a5e0",
+          "text": "Should your opponent rely on anecdotal evidence"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "you may acknowledge it in a polite way but ask for the original data",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语一",
+              "text": "may acknowledge"
+            },
+            {
+              "role": "宾语一",
+              "text": "it"
+            },
+            {
+              "role": "方式状语",
+              "text": "in a polite way"
+            },
+            {
+              "role": "谓语二",
+              "text": "but ask for"
+            },
+            {
+              "role": "宾语二",
+              "text": "the original data"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before you accept any claim"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "倒装条件句 Should...",
+          "note": "Should your opponent rely on... 是 if your opponent should rely on... 的倒装形式,用于正式或礼貌的假设。",
+          "example": "Should you have any question, please call me.",
+          "exampleCn": "如有任何问题,请给我打电话。"
+        },
+        {
+          "name": "礼貌让步策略",
+          "note": "acknowledge it in a polite way but ask for the original data 体现\"先礼后兵\"的谈判策略。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before you accept any claim 限定接受主张的前提条件。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you may acknowledge it in a polite way but ask for the original data",
+          "name": "倒装条件句 Should..."
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you may acknowledge it in a polite way but ask for the original data",
+          "name": "礼貌让步策略"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "you may acknowledge it in a polite way but ask for the original data",
+          "name": "before 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:如有任何问题,请给我打电话。",
+          "answer": "Should you have any question, please call me.",
+          "note": "Should your opponent rely on... 是 if your opponent should rely on... 的倒装形式,用于正式或礼貌的假设。",
+          "point": "倒装条件句 Should..."
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Should your opponent rely on anecdotal evidence, you may acknowledge it in a polite way but ask for the original data before you accept any claim.",
+          "answer": "Should your opponent rely on anecdotal evidence, you may acknowledge it in a polite way but ask for the original data before you accept any claim.",
+          "note": "acknowledge it in a polite way but ask for the original data 体现\"先礼后兵\"的谈判策略。",
+          "point": "礼貌让步策略"
+        }
+      ]
+    },
+    {
+      "text": "You should never transgress the boundary of a deal once the ink is dry, for trust, once broken, can be slow to recover, and never sign under undue pressure or while you may chase an elusive guarantee.",
+      "translation": "一旦墨迹已干,你绝不应逾越协议的边界,因为信任一旦破裂,恢复起来会很慢;也绝不要在过度的压力下签字,也不要追逐一个难以捉摸的保证。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "You should never transgress the boundary of a deal",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "You"
+            },
+            {
+              "role": "谓语",
+              "text": "should never transgress"
+            },
+            {
+              "role": "宾语",
+              "text": "the boundary of a deal"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "once the ink is dry"
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "trust, once broken, can be slow to recover"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(否定祈使)",
+          "color": "#a8dab5",
+          "text": "never sign under undue pressure",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "never sign"
+            },
+            {
+              "role": "条件状语",
+              "text": "under undue pressure"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "or"
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "while you may chase an elusive guarantee"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "once 引导时间状语从句",
+          "note": "once the ink is dry 表示\"一旦落笔签字\",说明协议生效的时点。"
+        },
+        {
+          "name": "for 引导原因从句",
+          "note": "for 表示\"因为\",提供补充性的理由,语气书面正式。"
+        },
+        {
+          "name": "插入式分词 once broken",
+          "note": "trust, once broken, can be slow to recover 中,once broken 是插入的过去分词短语,相当于 once it is broken。"
+        },
+        {
+          "name": "否定祈使 never sign",
+          "note": "never sign under undue pressure 用否定祈使句发出郑重告诫。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "You should never transgress the boundary of a deal",
+          "name": "once 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "You should never transgress the boundary of a deal",
+          "name": "for 引导原因从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "You should never transgress the boundary of a deal",
+          "name": "插入式分词 once broken"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "You should never transgress the boundary of a deal",
+          "name": "否定祈使 never sign"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You should never transgress the boundary of a deal once the ink is dry, for trust, once broken, can be slow to recover, and never sign under undue pressure or while you may chase an elusive guarantee.",
+          "answer": "You should never transgress the boundary of a deal once the ink is dry, for trust, once broken, can be slow to recover, and never sign under undue pressure or while you may chase an elusive guarantee.",
+          "note": "once the ink is dry 表示\"一旦落笔签字\",说明协议生效的时点。",
+          "point": "once 引导时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):You should never transgress the boundary of a deal once the ink is dry, for trust, once broken, can be slow to recover, and never sign under undue pressure or while you may chase an elusive guarantee.",
+          "answer": "You should never transgress the boundary of a deal once the ink is dry, for trust, once broken, can be slow to recover, and never sign under undue pressure or while you may chase an elusive guarantee.",
+          "note": "for 表示\"因为\",提供补充性的理由,语气书面正式。",
+          "point": "for 引导原因从句"
+        }
+      ]
+    },
+    {
+      "text": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer, for preparation, after all, can remain the real secret of fluency.",
+      "translation": "一位明智的导师可以提前审阅你的要点,并提醒你即将到来的最难回答的问题;毕竟,准备才是流利的真正秘诀。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A wise mentor"
+            },
+            {
+              "role": "谓语一",
+              "text": "can review"
+            },
+            {
+              "role": "宾语一",
+              "text": "your point"
+            },
+            {
+              "role": "时间状语",
+              "text": "in advance"
+            },
+            {
+              "role": "谓语二",
+              "text": "and warn"
+            },
+            {
+              "role": "宾语二",
+              "text": "you"
+            },
+            {
+              "role": "宾语三(含定语从句)",
+              "text": "about the oncoming question that is most difficult to answer"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "preparation, after all, can remain the real secret of fluency",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "preparation"
+            },
+            {
+              "role": "插入语",
+              "text": "after all"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "can remain"
+            },
+            {
+              "role": "表语",
+              "text": "the real secret of fluency"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in advance 时间状语",
+          "note": "in advance 表示\"提前\",说明准备工作的时机。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that is most difficult to answer 修饰 question,限定最难应对的问题类型。"
+        },
+        {
+          "name": "for... after all 补充理由",
+          "note": "for 提供理由,after all 插入强调\"毕竟\",使结论自然有力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer",
+          "name": "in advance 时间状语"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u6",
+          "phrase": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer",
+          "name": "for... after all 补充理由"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer, for preparation, after all, can remain the real secret of fluency.",
+          "answer": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer, for preparation, after all, can remain the real secret of fluency.",
+          "note": "in advance 表示\"提前\",说明准备工作的时机。",
+          "point": "in advance 时间状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer, for preparation, after all, can remain the real secret of fluency.",
+          "answer": "A wise mentor can review your point in advance and warn you about the oncoming question that is most difficult to answer, for preparation, after all, can remain the real secret of fluency.",
+          "note": "that is most difficult to answer 修饰 question,限定最难应对的问题类型。",
+          "point": "that 引导定语从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u6",
+      "name": "less... than... 比较结构",
+      "note": "depend less on A than on B 表示\"更多取决于 B 而非 A\",是论证中权衡因素的标准句式。",
+      "sourceExample": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+      "sourceExampleCn": "职场中的成功谈判,更多取决于清晰表达立场和真诚耐心倾听的能力,而非嗓门大小。"
+    },
+    {
+      "grammarId": "g-s5u6",
+      "name": "不定式并列",
+      "note": "to express a position clearly and to listen with genuine patience 两个不定式并列,说明能力的具体内容。",
+      "sourceExample": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+      "sourceExampleCn": "职场中的成功谈判,更多取决于清晰表达立场和真诚耐心倾听的能力,而非嗓门大小。"
+    },
+    {
+      "grammarId": "g-s5u6",
+      "name": "can 表可能性",
+      "note": "can 表示\"可能、能够\",使观点留有分寸,语气客观。",
+      "sourceExample": "Successful negotiation in the workplace can depend less on a loud voice than on the ability to express a position clearly and to listen with genuine patience.",
+      "sourceExampleCn": "职场中的成功谈判,更多取决于清晰表达立场和真诚耐心倾听的能力,而非嗓门大小。"
+    },
+    {
+      "grammarId": "g-s5u6",
+      "name": "Before 引导时间状语从句",
+      "note": "Before the meeting can begin 交代准备动作的时机,是口语表达中交代先后顺序的常用结构。",
+      "sourceExample": "Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+      "sourceExampleCn": "在会议开始之前,你应该准备一份关于目标的清晰摘要,并大声演练,直到句子能不假思索地流畅说出。"
+    },
+    {
+      "grammarId": "g-s5u6",
+      "name": "并列谓语 should prepare... and rehearse...",
+      "note": "两个 should 后的并列动词短语提出两项准备任务。",
+      "sourceExample": "Before the meeting can begin, you should prepare a lucid summary of your goal and rehearse it aloud until the sentence can flow without hesitation.",
+      "sourceExampleCn": "在会议开始之前,你应该准备一份关于目标的清晰摘要,并大声演练,直到句子能不假思索地流畅说出。"
+    }
+  ]
+}

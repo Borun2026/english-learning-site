@@ -1,0 +1,1599 @@
+{
+ "version": 1,
+ "type": "magazine-articles",
+ "source": "wangqiyue26-lab/english-reading(仅供本地个人学习)",
+ "items": [
+  {
+   "id": "econ-001",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "AI and the Future of Work: What History Teaches Us",
+   "difficulty": "advanced",
+   "wordCount": 450
+  },
+  {
+   "id": "econ-002",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Why Inflation Remains Stubbornly High",
+   "difficulty": "advanced",
+   "wordCount": 520
+  },
+  {
+   "id": "econ-003",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Surprising Comeback of Nuclear Energy",
+   "difficulty": "advanced",
+   "wordCount": 580
+  },
+  {
+   "id": "econ-004",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Rise of Lab-Grown Meat",
+   "difficulty": "beginner",
+   "wordCount": 350
+  },
+  {
+   "id": "ny-001",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Quiet Revolution in American Libraries",
+   "difficulty": "advanced",
+   "wordCount": 480
+  },
+  {
+   "id": "ny-002",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Man Who Remembered Everything",
+   "difficulty": "intermediate",
+   "wordCount": 510
+  },
+  {
+   "id": "atl-001",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Slow Death of the Third Place",
+   "difficulty": "intermediate",
+   "wordCount": 460
+  },
+  {
+   "id": "atl-002",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Case Against Homework",
+   "difficulty": "intermediate",
+   "wordCount": 370
+  },
+  {
+   "id": "wr-001",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "How Quantum Computing Will Change Everything",
+   "difficulty": "advanced",
+   "wordCount": 500
+  },
+  {
+   "id": "wr-002",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Your Phone Is Listening. Should You Care?",
+   "difficulty": "beginner",
+   "wordCount": 380
+  },
+  {
+   "id": "economist-0011",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Trump-Xi summit will expose a dysfunctional duo",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0012",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The world must stop AI from empowering bioterrorists",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0013",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "To fight antisemitism, first grasp where it comes from",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0014",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Europe is unshackling business. But not enough",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0015",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Why does Britain consistently fail to capture economic returns from innovation?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0016",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Vladimir Putin is losing his grip on Russia",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0017",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The pact that could help America and China repair relations",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0018",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Trump and Xi will struggle to strike a major economic deal",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0019",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "China is pushing Donald Trump for concessions on Taiwan",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0020",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "City parenting has become a financial flex",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0021",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Democratic approach to AI is not all about bans",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0022",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Supreme Court has unleashed the gerrymanderers",
+   "difficulty": "expert",
+   "wordCount": 671
+  },
+  {
+   "id": "economist-0023",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Foreign firms: have you considered America?",
+   "difficulty": "advanced",
+   "wordCount": 456
+  },
+  {
+   "id": "economist-0024",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Young men are souring on Donald Trump",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0025",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Supreme Court has become a great place to build your brand",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0026",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Javier Milei is in serious trouble",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0027",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Venezuela’s 100-year territorial dispute is back in court",
+   "difficulty": "expert",
+   "wordCount": 569
+  },
+  {
+   "id": "economist-0028",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Claudia Sheinbaum is in a bind, with her party accused of corruption",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0029",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Narendra Modi has extended his grip on India",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0030",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Asia’s stranded seafarers suffer as the Iran war drags on",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0031",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The energy shock triggers an Asian dash for biofuels",
+   "difficulty": "intermediate",
+   "wordCount": 392
+  },
+  {
+   "id": "economist-0032",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The gutting of USAID has left a void China will not fill",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0033",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "America is massing troops near Taiwan to deter troublemaking by China",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0034",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Artificial intelligence revives a cold-war-style dilemma",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0035",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "A Chinese high-seas misadventure in luxury yachts",
+   "difficulty": "advanced",
+   "wordCount": 449
+  },
+  {
+   "id": "economist-0036",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Politics",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0037",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Business",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0038",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Oil markets are still in La La land",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0039",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "How to capitalise on London’s thriving financial industry",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0040",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "How Kevin Warsh could save the Federal Reserve",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0041",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Is Samia Suluhu Hassan Africa’s most disappointing president?",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0042",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The AI supply crunch is here",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0043",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The UAE doubles down on Israel and America",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0044",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Time to edit some biological metaphors",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0045",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "AI and the associated risks are challenging policymakers to develop regulations quickly",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0046",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Stop big tech from making users behave in ways they don’t want to",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0047",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The crisis in oil markets will get bigger before it goes away",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0048",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Donald Trump is crushing America’s farmers—yet they back him",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0049",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "A radical idea for governing California",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0050",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Voters say they want young candidates. In practice, they do not",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0051",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "A mogul alleges he has been swindled by a Trump-affiliated crypto project",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0052",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The government’s lawsuit against the Southern Poverty Law Center is bonkers",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0053",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "A tour of Brazil’s wildly polarised politics",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0054",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "The Caribbean island that calls Colombia a coloniser",
+   "difficulty": "intermediate",
+   "wordCount": 410
+  },
+  {
+   "id": "economist-0055",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Ageing workers in East Asia are essential. More are needed",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0056",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Indonesia suggests charging a toll to transit the Malacca Strait",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0057",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Is Vietnam’s latest railway ambition worthwhile?",
+   "difficulty": "expert",
+   "wordCount": 561
+  },
+  {
+   "id": "economist-0058",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Climate change is forcing Vanuatu to confront an unthinkable future",
+   "difficulty": "intermediate",
+   "wordCount": 675
+  },
+  {
+   "id": "economist-0059",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Making India’s numbers count again",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0060",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Cai Qi may be China’s second-most powerful man",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0063",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "America is vulnerable to electoral vandalism",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0064",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Tim Cook wrote a winning recipe for Apple",
+   "difficulty": "intermediate",
+   "wordCount": 665
+  },
+  {
+   "id": "economist-0065",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "How to bolster the arsenal of democracy",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0066",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Pomp and pageantry won’t save Britain’s alliance with America",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0067",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Is the impending food shock caused by the Iran war preventable?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0068",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Iran’s insistence on controlling Hormuz is penny smart, dollar foolish",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0069",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "AI is the new Oracle of Delphi. That’s bad news",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0070",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Might Donald Trump try to rig the midterms?",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0071",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Virginia’s redistricting may be the nail in Republicans’ coffin",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0072",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Wealthy New Yorkers grumble as a new tax looms",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0073",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Artificial intelligence is creeping into American lawmaking",
+   "difficulty": "advanced",
+   "wordCount": 667
+  },
+  {
+   "id": "economist-0074",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Donald Trump’s bold new deportation machine",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0075",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Why Congress keeps getting dumber",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0076",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "As the World Cup approaches, North American relations are at a nadir",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0077",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Albertans find it harder than expected to break from Canada. Good",
+   "difficulty": "advanced",
+   "wordCount": 677
+  },
+  {
+   "id": "economist-0078",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "A botched election adds to Peru’s democratic dysfunction",
+   "difficulty": "intermediate",
+   "wordCount": 641
+  },
+  {
+   "id": "economist-0079",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "What do the geopolitical successes of Asim Munir mean for Pakistan?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0080",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Honking is harming India’s health—and its economy",
+   "difficulty": "beginner",
+   "wordCount": 372
+  },
+  {
+   "id": "economist-0081",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "An anti-China protest lands Kazakhs in prison",
+   "difficulty": "advanced",
+   "wordCount": 482
+  },
+  {
+   "id": "economist-0082",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Why Japan is loosening restrictions on exports of lethal arms",
+   "difficulty": "expert",
+   "wordCount": 602
+  },
+  {
+   "id": "economist-0083",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "What have the Mughals ever done for us?",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0084",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "How Chinese satellites have boosted Iran’s war effort",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "economist-0085",
+   "journal": "The Economist",
+   "journalEn": "The Economist",
+   "title": "Why China’s exports will keep on rising",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0086",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Oneohtrix Point Never’s Sense of the Uncanny",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0087",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Cory Doctorow on the High Cost of Living with the Ultra-Rich",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0088",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Reverend Billy Takes On Norman Foster’s New Monolith",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0089",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Medallions, Movement, and Mamdani at MOMA PS1",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0090",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Patrick Ball’s Path to Broadway and “Becky Shaw”",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0091",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Ellen Burstyn’s Inner Library",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0092",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Can the E.P.A. Survive Lee Zeldin?",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0093",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Signed, Sealed, Delivered",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0094",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Donald Trump’s Pardon Economy",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0095",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Ava’s Life List",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0096",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Process of Elimination",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0097",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "A German Master’s Modernist Epic of Postwar Amnesia and Hypocrisy",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0098",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Briefly Noted",
+   "difficulty": "expert",
+   "wordCount": 514
+  },
+  {
+   "id": "new_yorker-0099",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Sqirl Redemption Arc",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0100",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "How Long Can Martha Graham’s Dance Revolution Last?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0101",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "“Half Man” Tests the Limits of Brotherly Love",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0102",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Tompkins Square",
+   "difficulty": "advanced",
+   "wordCount": 473
+  },
+  {
+   "id": "new_yorker-0103",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "A Theory on the Origin of Language",
+   "difficulty": "beginner",
+   "wordCount": 290
+  },
+  {
+   "id": "new_yorker-0104",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "A Reading List from the Director of the Noguchi Museum",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0105",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "J. D. Vance’s Bumpy Ride",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0106",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Popes That Trump Might’ve Liked",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0107",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "When Soul Food Met Daniel Boulud",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0108",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Daphne Rubin-Vega Comes Home",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0109",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Anatomy of a Failure",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0110",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "When Your Digital Life Vanishes",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0111",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Tabula Rasa",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0112",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "How Professional Wrestling Prepared Linda McMahon for Trump’s Cabinet",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0113",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Action-Film Director Who’s Taking On Michael Jackson",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0114",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Escape Rooms for Middle-Aged People",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0115",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Ordinary Wear and Tear",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0117",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "In Defense of the Moderate",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0118",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Novelist Reimagining the Japanese American Internment",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0119",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Sharp Claws at “Becky Shaw” and “Cats: The Jellicle Ball”",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0120",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Calculated Uplift of “I Swear”",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0121",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Isa Genzken Finds Chaos in Order",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0122",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "A Malaysian Menu Laced with the Flavors of Brooklyn",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0123",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Trump’s Strategic and Moral Failure in Iran",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0124",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Sam Wang, Politician-in-Training",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0125",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "What Wallace Shawn Did Before His “Moth Days”",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0126",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Sandy Liang Puts a Bow on It",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0127",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Ed Solomon’s Family Portrait",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0128",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Why I Wanted to Keep My Marriage a Secret",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0129",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Radu Jude, the Bard of Bucharest",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0130",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Car-Crash Conspiracy",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0131",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Return of Family Detention",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0132",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "When It Gets Warm . . .",
+   "difficulty": "beginner",
+   "wordCount": 419
+  },
+  {
+   "id": "new_yorker-0133",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "A Lesson of Vietnam: Getting in Is Easier than Getting Out",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0134",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "The Violence in Vermeer",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0136",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "St. Paul Remade Human History. How Did He Do It?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0137",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Zara Larsson Gets Her Flowers",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "new_yorker-0138",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Clarion",
+   "difficulty": "beginner",
+   "wordCount": 153
+  },
+  {
+   "id": "new_yorker-0139",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Apocalypso",
+   "difficulty": "intermediate",
+   "wordCount": 149
+  },
+  {
+   "id": "new_yorker-0140",
+   "journal": "The New Yorker",
+   "journalEn": "The New Yorker",
+   "title": "Letters from Our Readers",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0141",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "An Oligarchy of Old People",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0142",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Robert Rauschenberg’s Penchant for Invention and Spectacle",
+   "difficulty": "expert",
+   "wordCount": 457
+  },
+  {
+   "id": "atlantic-0143",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Is Hurry the Great Enemy of Spiritual Life?",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0144",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Have Accommodations Become an Unfair Advantage in Higher Education?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0145",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Byzantine Room",
+   "difficulty": "beginner",
+   "wordCount": 336
+  },
+  {
+   "id": "atlantic-0146",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Masterpieces of the New Deal",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0147",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Eighth Deadly Sin",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0148",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Feeling of Becoming Less and Less of a Person",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0149",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Who Is Black Comedy For?",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0150",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "History Is Running Backwards",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0151",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Someday in Tehran",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0152",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "What I Learned About Billionaires at Jeff Bezos’s Private Retreat",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0153",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "On Losing a Daughter",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0154",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "A Novel About a Secret No One Wants to Know",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0155",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The College-Educated Working Class",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0156",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Last Days of Franco",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0157",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Midlife Crisis Comes for Millennial Pop",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0158",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Misrule Music",
+   "difficulty": "beginner",
+   "wordCount": 356
+  },
+  {
+   "id": "atlantic-0159",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "I Remember a World Without Vaccines",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0160",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "‘America Doesn’t Want My Children or Grandchildren’",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0161",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Pete Hegseth Exception",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0162",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "Inside the Dirty, Dystopian World of AI Data Centers",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0163",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The City Where Coetzee Is God",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0164",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Forgotten Female Pilots of World War II",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0165",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Impossible Predicament of the Uninsured",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0166",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "The Republican Party Has a Nazi Problem",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "atlantic-0167",
+   "journal": "The Atlantic",
+   "journalEn": "The Atlantic",
+   "title": "My Tesla Was Driving Itself Perfectly—Until It Crashed",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0168",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Why Are Some Women Training for Pregnancy Like It’s a Marathon?",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0169",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Chinese EV Batteries Are Eating the World",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0170",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "For $4,550, Would You Buy a Single Premium Watch or a Swarm of Affordable Ones?",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0171",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "He Went to Prison for Gene-Editing Babies. Now He’s Planning to Do It Again",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0172",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Why AI Breaks Bad",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0173",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "You’ve Never Heard of China’s Greatest Sci-Fi Novel",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0174",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Lisa Su Runs AMD—and Is Out for Nvidia’s Blood",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0175",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Cindy Bi is not supposed to be telling me this story.",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0176",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "What It’s Like Watching Dozens of Bodies Decompose (for Science)",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0177",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Animals Are the Original Wellness Influencers",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0178",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "China’s AI Boyfriend Business Is Taking On a Life of Its Own",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0179",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Trump Declared a Space Race With China. The US Is Losing",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0180",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Want This Hearing Aid? Well, Who Do You Know?",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0181",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Thousands of Companies Are Driving China’s AI Boom. A Government Registry Tracks Them All",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0182",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Bryan Johnson Is Going to Die",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0183",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "How China’s ‘Crystal Capital’ Cornered the Market on a Western Obsession",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0184",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Elon Musk Is Out to Rule Space. Can Anyone Stop Him?",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0185",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "I Thought I Knew Silicon Valley. I Was Wrong",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0186",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Does Anyone Know What ‘Wellness’ Means Anymore?",
+   "difficulty": "advanced",
+   "wordCount": 480
+  },
+  {
+   "id": "wired-0187",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "How Is Kalshi Not Gambling?",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0188",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Why Minnesota Can’t Do More to Stop ICE",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0189",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "One Vigilante, 22 Cell Tower Fires, and a World of Conspiracies",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0190",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "The Superyacht, the Billionaire, and a Wildly Improbable Disaster at Sea",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0191",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Ruby Is Not a Serious Programming Language",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0192",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "AI Isn’t Coming for Hollywood. It's Already Arrived",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0196",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "The Enshittification of American Power",
+   "difficulty": "expert",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0200",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Ed Zitron Gets Paid to Love AI. He Also Gets Paid to Hate AI",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0201",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Programming in Assembly Is Brutal, Beautiful, and Maybe Even a Path to Better AI",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0202",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "index u10",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0203",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Taylor Lorenz’s Screen Time Is Almost 17 Hours a Day. 17!!!",
+   "difficulty": "beginner",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0205",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "A New Anonymous Phone Carrier Lets You Sign Up With Nothing but a Zip Code",
+   "difficulty": "advanced",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0211",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Magazine Articles",
+   "difficulty": "beginner",
+   "wordCount": 580
+  },
+  {
+   "id": "wired-0212",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Scientists Thought Parkinson’s Was in Our Genes. It Might Be in the Water",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0214",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0215",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "The Future of AI Isn’t Just Slop",
+   "difficulty": "intermediate",
+   "wordCount": 700
+  },
+  {
+   "id": "wired-0217",
+   "journal": "Wired",
+   "journalEn": "Wired",
+   "title": "China’s Renewable Energy Revolution Is a Huge Mess That Might Save the World",
+   "difficulty": "advanced",
+   "wordCount": 700
+  }
+ ]
+}

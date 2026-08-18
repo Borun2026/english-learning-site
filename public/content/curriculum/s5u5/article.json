@@ -1,0 +1,1201 @@
+{
+  "id": "a-s5u5",
+  "stage": 5,
+  "unitId": "s5u5",
+  "title": "Networking at Academic Conferences",
+  "newWords": [
+    "prospectus",
+    "provisional",
+    "relocate",
+    "simulation",
+    "disapprove",
+    "supersede",
+    "surmount",
+    "discredit",
+    "teem",
+    "tenacious",
+    "refinement",
+    "deter",
+    "detriment",
+    "judicious",
+    "ephemeral",
+    "utterance",
+    "equity",
+    "demographic",
+    "commuter",
+    "apologetic"
+  ],
+  "sentences": [
+    {
+      "text": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+      "translation": "学术会议能提供的远不止一场讲座,因为它能提供一个平台,让学者通过共同的词汇和自然的搭配交流想法。",
+      "chunks": [
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "An academic conference can offer far more than a lecture",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An academic conference"
+            },
+            {
+              "role": "谓语",
+              "text": "can offer"
+            },
+            {
+              "role": "宾语",
+              "text": "far more than a lecture"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "far more than 强调超出",
+          "note": "far more than 表示\"远不止\",强调会议价值超出预期,是书面语中的强调结构。"
+        },
+        {
+          "name": "where 引导定语从句",
+          "note": "where a scholar may exchange an idea 修饰 stage,说明平台的用途。"
+        },
+        {
+          "name": "through 表方式",
+          "note": "through common vocabulary and natural phrase 说明交流所借助的方式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase",
+          "name": "far more than 强调超出"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase",
+          "name": "where 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase",
+          "name": "through 表方式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+          "answer": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+          "note": "far more than 表示\"远不止\",强调会议价值超出预期,是书面语中的强调结构。",
+          "point": "far more than 强调超出"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+          "answer": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+          "note": "where a scholar may exchange an idea 修饰 stage,说明平台的用途。",
+          "point": "where 引导定语从句"
+        }
+      ]
+    },
+    {
+      "text": "Before you travel, you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final.",
+      "translation": "出行之前,你可以仔细研究会议手册,以便了解哪个分会场符合你的兴趣,并确认日程是临时的还是最终的。",
+      "chunks": [
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "Before you travel"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "you"
+            },
+            {
+              "role": "谓语一",
+              "text": "can study"
+            },
+            {
+              "role": "宾语一",
+              "text": "the prospectus"
+            },
+            {
+              "role": "方式状语",
+              "text": "with care"
+            },
+            {
+              "role": "目的状语从句",
+              "text": "so that you know which session can match your interest"
+            },
+            {
+              "role": "谓语二",
+              "text": "and check"
+            },
+            {
+              "role": "宾语从句二",
+              "text": "whether the programme is provisional or final"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "Before 引导时间状语从句",
+          "note": "Before you travel 交代动作发生的先后顺序,是口语化中规整的书面表达。"
+        },
+        {
+          "name": "so that 引导目的状语从句",
+          "note": "so that 表示\"以便\",说明研究手册的目的。",
+          "example": "Read the notes so that you understand the topic.",
+          "exampleCn": "阅读笔记,以便理解主题。"
+        },
+        {
+          "name": "whether... or... 选择疑问",
+          "note": "whether the programme is provisional or final 是宾语从句,用 whether... or... 表达二选一。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final",
+          "name": "Before 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final",
+          "name": "so that 引导目的状语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final",
+          "name": "whether... or... 选择疑问"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before you travel, you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final.",
+          "answer": "Before you travel, you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final.",
+          "note": "Before you travel 交代动作发生的先后顺序,是口语化中规整的书面表达。",
+          "point": "Before 引导时间状语从句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:阅读笔记,以便理解主题。",
+          "answer": "Read the notes so that you understand the topic.",
+          "note": "so that 表示\"以便\",说明研究手册的目的。",
+          "point": "so that 引导目的状语从句"
+        }
+      ]
+    },
+    {
+      "text": "At the reception, a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction.",
+      "translation": "在招待会上,一句\"我很喜欢你的报告\"这样得体的问候,比正式介绍更容易开启对话。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "At the reception"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a judicious greeting such as I like your presentation"
+            },
+            {
+              "role": "谓语",
+              "text": "can open"
+            },
+            {
+              "role": "宾语",
+              "text": "a conversation"
+            },
+            {
+              "role": "比较状语",
+              "text": "far more easily than a formal introduction"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "such as 举例说明",
+          "note": "such as I like your presentation 引出具体问候语,使建议可操作。"
+        },
+        {
+          "name": "比较级 far more easily than",
+          "note": "far 加强比较级,强调问候语比正式介绍效果更好。"
+        },
+        {
+          "name": "地点状语 At the reception",
+          "note": "介词短语作地点状语,交代社交场合,是口语流利表达中交代场景的常用方式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction",
+          "name": "such as 举例说明"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction",
+          "name": "比较级 far more easily than"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction",
+          "name": "地点状语 At the reception"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the reception, a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction.",
+          "answer": "At the reception, a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction.",
+          "note": "such as I like your presentation 引出具体问候语,使建议可操作。",
+          "point": "such as 举例说明"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the reception, a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction.",
+          "answer": "At the reception, a judicious greeting such as I like your presentation can open a conversation far more easily than a formal introduction.",
+          "note": "far 加强比较级,强调问候语比正式介绍效果更好。",
+          "point": "比较级 far more easily than"
+        }
+      ]
+    },
+    {
+      "text": "A senior scholar, however, can soon detect false praise, and a new student who may rely on it can discredit himself before a single word of substance can appear.",
+      "translation": "然而,资深学者能很快识破虚假的恭维,而依赖恭维的新人可能在说出任何实质内容之前就先毁掉自己的信誉。",
+      "chunks": [
+        {
+          "label": "主干一(主语)",
+          "color": "#a8dab5",
+          "text": "A senior scholar",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A senior scholar"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "however"
+        },
+        {
+          "label": "主干一(谓语)",
+          "color": "#a8dab5",
+          "text": "can soon detect false praise",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "can soon detect"
+            },
+            {
+              "role": "宾语",
+              "text": "false praise"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "a new student who may rely on it can discredit himself",
+          "parts": [
+            {
+              "role": "主语(含定语从句)",
+              "text": "a new student who may rely on it"
+            },
+            {
+              "role": "谓语",
+              "text": "can discredit"
+            },
+            {
+              "role": "宾语",
+              "text": "himself"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before a single word of substance can appear"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "however 插入语表转折",
+          "note": "however 在句中作插入语,使前后观点形成对照。"
+        },
+        {
+          "name": "who 引导定语从句",
+          "note": "who may rely on it 修饰 a new student,指出依赖恭维的对象。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before a single word of substance can appear 强调信誉受损之快。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a new student who may rely on it can discredit himself",
+          "name": "however 插入语表转折"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a new student who may rely on it can discredit himself",
+          "name": "who 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a new student who may rely on it can discredit himself",
+          "name": "before 引导时间状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A senior scholar, however, can soon detect false praise, and a new student who may rely on it can discredit himself before a single word of substance can appear.",
+          "answer": "A senior scholar, however, can soon detect false praise, and a new student who may rely on it can discredit himself before a single word of substance can appear.",
+          "note": "however 在句中作插入语,使前后观点形成对照。",
+          "point": "however 插入语表转折"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A senior scholar, however, can soon detect false praise, and a new student who may rely on it can discredit himself before a single word of substance can appear.",
+          "answer": "A senior scholar, however, can soon detect false praise, and a new student who may rely on it can discredit himself before a single word of substance can appear.",
+          "note": "who may rely on it 修饰 a new student,指出依赖恭维的对象。",
+          "point": "who 引导定语从句"
+        }
+      ]
+    },
+    {
+      "text": "Do not let the crowd deter you; prepare a question or two about the field of another person, and listen with tenacious attention to the answer.",
+      "translation": "不要让拥挤的人群吓退你;准备一两个关于对方领域的问题,并以专注的注意力倾听回答。",
+      "chunks": [
+        {
+          "label": "主干一(否定祈使)",
+          "color": "#a8dab5",
+          "text": "Do not let the crowd deter you",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "Do not let"
+            },
+            {
+              "role": "宾语",
+              "text": "the crowd"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "deter you"
+            }
+          ]
+        },
+        {
+          "label": "主干二(祈使)",
+          "color": "#a8dab5",
+          "text": "prepare a question or two about the field of another person",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "prepare"
+            },
+            {
+              "role": "宾语",
+              "text": "a question or two about the field of another person"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(祈使)",
+          "color": "#a8dab5",
+          "text": "listen with tenacious attention to the answer",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "listen"
+            },
+            {
+              "role": "方式状语",
+              "text": "with tenacious attention"
+            },
+            {
+              "role": "状语",
+              "text": "to the answer"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句表达建议",
+          "note": "三个祈使句连续提出建议,语气直接有力,是口语流利表达中常用的劝告句式。"
+        },
+        {
+          "name": "否定祈使 Do not let",
+          "note": "Do not let the crowd deter you 用否定祈使句先打消顾虑。"
+        },
+        {
+          "name": "listen to 搭配",
+          "note": "listen to the answer 中 listen 与介词 to 搭配,with tenacious attention 说明听的方式。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "prepare a question or two about the field of another person",
+          "name": "祈使句表达建议"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "prepare a question or two about the field of another person",
+          "name": "否定祈使 Do not let"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "prepare a question or two about the field of another person",
+          "name": "listen to 搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Do not let the crowd deter you; prepare a question or two about the field of another person, and listen with tenacious attention to the answer.",
+          "answer": "Do not let the crowd deter you; prepare a question or two about the field of another person, and listen with tenacious attention to the answer.",
+          "note": "三个祈使句连续提出建议,语气直接有力,是口语流利表达中常用的劝告句式。",
+          "point": "祈使句表达建议"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Do not let the crowd deter you; prepare a question or two about the field of another person, and listen with tenacious attention to the answer.",
+          "answer": "Do not let the crowd deter you; prepare a question or two about the field of another person, and listen with tenacious attention to the answer.",
+          "note": "Do not let the crowd deter you 用否定祈使句先打消顾虑。",
+          "point": "否定祈使 Do not let"
+        }
+      ]
+    },
+    {
+      "text": "If you must relocate to a new institution, a conference can be the best place to build a fresh network, because the hall can teem with potential partner.",
+      "translation": "如果你必须搬到新的机构,会议是建立新人际网络的最佳场所,因为大厅里可能挤满了潜在的合作伙伴。",
+      "chunks": [
+        {
+          "label": "条件连词",
+          "color": "#f6c177",
+          "text": "If"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#c8a5e0",
+          "text": "you must relocate to a new institution"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "a conference can be the best place to build a fresh network",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a conference"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "can be"
+            },
+            {
+              "role": "表语",
+              "text": "the best place to build a fresh network"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "the hall can teem with potential partner"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "if 提出假设情形,是口语表达中常见的条件句式。"
+        },
+        {
+          "name": "teem with 搭配",
+          "note": "teem with 表示\"充满、挤满\",描述人多拥挤的场面,是学术词汇搭配的典型例子。",
+          "example": "The market teems with shoppers.",
+          "exampleCn": "市场里挤满了购物者。"
+        },
+        {
+          "name": "不定式作定语",
+          "note": "the best place to build a fresh network 中,不定式 to build 修饰 place。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a conference can be the best place to build a fresh network",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a conference can be the best place to build a fresh network",
+          "name": "teem with 搭配"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a conference can be the best place to build a fresh network",
+          "name": "不定式作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If you must relocate to a new institution, a conference can be the best place to build a fresh network, because the hall can teem with potential partner.",
+          "answer": "If you must relocate to a new institution, a conference can be the best place to build a fresh network, because the hall can teem with potential partner.",
+          "note": "if 提出假设情形,是口语表达中常见的条件句式。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:市场里挤满了购物者。",
+          "answer": "The market teems with shoppers.",
+          "note": "teem with 表示\"充满、挤满\",描述人多拥挤的场面,是学术词汇搭配的典型例子。",
+          "point": "teem with 搭配"
+        }
+      ]
+    },
+    {
+      "text": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment, a method that many senior colleague now recommend.",
+      "translation": "研讨会上的模拟练习可以让初级学者在安全的环境中练习困难的对话,这是许多资深同事现在推荐的方法。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A simulation exercise at a workshop"
+            },
+            {
+              "role": "谓语",
+              "text": "can allow"
+            },
+            {
+              "role": "宾语",
+              "text": "a junior scholar"
+            },
+            {
+              "role": "宾补(不定式)",
+              "text": "to practise a difficult conversation"
+            },
+            {
+              "role": "地点状语",
+              "text": "in a safe environment"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a method that many senior colleague now recommend"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "allow + 宾语 + 不定式",
+          "note": "allow a junior scholar to practise 表示\"允许……练习\",不定式作宾补。",
+          "example": "The host allowed me to ask one more question.",
+          "exampleCn": "主持人允许我再问一个问题。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that many senior colleague now recommend 修饰 method,补充说明该方法的认可度。"
+        },
+        {
+          "name": "名词短语作同位语",
+          "note": "a method 对前面整个做法作概括性说明,是总结前文的常用手段。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment",
+          "name": "allow + 宾语 + 不定式"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment",
+          "name": "that 引导定语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment",
+          "name": "名词短语作同位语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:主持人允许我再问一个问题。",
+          "answer": "The host allowed me to ask one more question.",
+          "note": "allow a junior scholar to practise 表示\"允许……练习\",不定式作宾补。",
+          "point": "allow + 宾语 + 不定式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment, a method that many senior colleague now recommend.",
+          "answer": "A simulation exercise at a workshop can allow a junior scholar to practise a difficult conversation in a safe environment, a method that many senior colleague now recommend.",
+          "note": "that many senior colleague now recommend 修饰 method,补充说明该方法的认可度。",
+          "point": "that 引导定语从句"
+        }
+      ]
+    },
+    {
+      "text": "A brief utterance such as I can share my data can create goodwill, because a generous offer can rarely fail to please.",
+      "translation": "一句简单的\"我可以分享我的数据\"就能建立好感,因为慷慨的提议很少会不让人高兴。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "A brief utterance such as I can share my data can create goodwill",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A brief utterance such as I can share my data"
+            },
+            {
+              "role": "谓语",
+              "text": "can create"
+            },
+            {
+              "role": "宾语",
+              "text": "goodwill"
+            }
+          ]
+        },
+        {
+          "label": "原因连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "a generous offer can rarely fail to please"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "such as 举例",
+          "note": "such as I can share my data 用具体话语示例说明\"简短表达\"的威力。"
+        },
+        {
+          "name": "双重否定加强语气",
+          "note": "can rarely fail to please 双重否定表示\"几乎总是让人高兴\",比直接肯定更有力度。"
+        },
+        {
+          "name": "share data 学术搭配",
+          "note": "share my data 是学术交流中表达开放的常用搭配。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A brief utterance such as I can share my data can create goodwill",
+          "name": "such as 举例"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A brief utterance such as I can share my data can create goodwill",
+          "name": "双重否定加强语气"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "A brief utterance such as I can share my data can create goodwill",
+          "name": "share data 学术搭配"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A brief utterance such as I can share my data can create goodwill, because a generous offer can rarely fail to please.",
+          "answer": "A brief utterance such as I can share my data can create goodwill, because a generous offer can rarely fail to please.",
+          "note": "such as I can share my data 用具体话语示例说明\"简短表达\"的威力。",
+          "point": "such as 举例"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A brief utterance such as I can share my data can create goodwill, because a generous offer can rarely fail to please.",
+          "answer": "A brief utterance such as I can share my data can create goodwill, because a generous offer can rarely fail to please.",
+          "note": "can rarely fail to please 双重否定表示\"几乎总是让人高兴\",比直接肯定更有力度。",
+          "point": "双重否定加强语气"
+        }
+      ]
+    },
+    {
+      "text": "Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee, a remark that may later harden into a formal paper and supersede a cautious draft of a previous year.",
+      "translation": "事实上,许多持久项目都始于咖啡桌旁一句转瞬即逝的话,这句话后来可能凝结成正式论文,取代前一年谨慎写就的草稿。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Many a lasting project"
+            },
+            {
+              "role": "插入语",
+              "text": "in fact"
+            },
+            {
+              "role": "谓语",
+              "text": "can begin"
+            },
+            {
+              "role": "补语",
+              "text": "as an ephemeral remark spoken over coffee"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a remark that may later harden into a formal paper and supersede a cautious draft of a previous year"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "Many a + 单数名词",
+          "note": "Many a lasting project 意为\"许多持久的项目\",语法上按单数处理,是书面语的正式表达。"
+        },
+        {
+          "name": "过去分词作后置定语",
+          "note": "spoken over coffee 是过去分词短语,修饰 remark,相当于 which was spoken over coffee。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that may later harden into a formal paper and supersede... 用并列谓语说明一句话的演变历程。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a remark that may later harden into a formal paper and supersede a cautious draft of a previous year",
+          "name": "Many a + 单数名词"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a remark that may later harden into a formal paper and supersede a cautious draft of a previous year",
+          "name": "过去分词作后置定语"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a remark that may later harden into a formal paper and supersede a cautious draft of a previous year",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee, a remark that may later harden into a formal paper and supersede a cautious draft of a previous year.",
+          "answer": "Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee, a remark that may later harden into a formal paper and supersede a cautious draft of a previous year.",
+          "note": "Many a lasting project 意为\"许多持久的项目\",语法上按单数处理,是书面语的正式表达。",
+          "point": "Many a + 单数名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee, a remark that may later harden into a formal paper and supersede a cautious draft of a previous year.",
+          "answer": "Many a permanent project, in fact, can begin as an ephemeral remark spoken over coffee, a remark that may later harden into a formal paper and supersede a cautious draft of a previous year.",
+          "note": "spoken over coffee 是过去分词短语,修饰 remark,相当于 which was spoken over coffee。",
+          "point": "过去分词作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The demographic profile of a participant can usually appear in the programme, which can help a long-distance commuter choose the session where collaboration is most likely.",
+      "translation": "参会者的人口统计资料通常会在会议手册中出现,这能帮助远道而来的通勤者选择最可能产生合作的分会场。",
+      "chunks": [
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "The demographic profile of a participant can usually appear in the programme",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The demographic profile of a participant"
+            },
+            {
+              "role": "谓语",
+              "text": "can usually appear"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the programme"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(非限定)",
+          "color": "#c8a5e0",
+          "text": "which can help a long-distance commuter choose the session where collaboration is most likely"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "which 引导非限定性定语从句",
+          "note": "which 指代整个主句内容,表示\"这有助于……\",是书面语中常见的衔接方式。"
+        },
+        {
+          "name": "help + 宾语 + 不定式",
+          "note": "help a long-distance commuter choose 中,choose 前省略了 to,是 help 的常见用法。"
+        },
+        {
+          "name": "where 引导定语从句",
+          "note": "where collaboration is most likely 修饰 session,限定最具合作潜力的分会场。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "which can help a long-distance commuter choose the session where collaboration is most likely",
+          "name": "which 引导非限定性定语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "which can help a long-distance commuter choose the session where collaboration is most likely",
+          "name": "help + 宾语 + 不定式"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "which can help a long-distance commuter choose the session where collaboration is most likely",
+          "name": "where 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The demographic profile of a participant can usually appear in the programme, which can help a long-distance commuter choose the session where collaboration is most likely.",
+          "answer": "The demographic profile of a participant can usually appear in the programme, which can help a long-distance commuter choose the session where collaboration is most likely.",
+          "note": "which 指代整个主句内容,表示\"这有助于……\",是书面语中常见的衔接方式。",
+          "point": "which 引导非限定性定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The demographic profile of a participant can usually appear in the programme, which can help a long-distance commuter choose the session where collaboration is most likely.",
+          "answer": "The demographic profile of a participant can usually appear in the programme, which can help a long-distance commuter choose the session where collaboration is most likely.",
+          "note": "help a long-distance commuter choose 中,choose 前省略了 to,是 help 的常见用法。",
+          "point": "help + 宾语 + 不定式"
+        }
+      ]
+    },
+    {
+      "text": "If a conflict can occur, an apologetic message can repair the damage before it can cause permanent detriment, a small obstacle that any strong scholar can surmount.",
+      "translation": "如果冲突可能发生,一封道歉的消息可以在其造成永久损害之前修复伤害——这个小小的障碍,任何坚强的学者都能克服。",
+      "chunks": [
+        {
+          "label": "条件连词",
+          "color": "#f6c177",
+          "text": "If"
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#c8a5e0",
+          "text": "a conflict can occur"
+        },
+        {
+          "label": "主干",
+          "color": "#a8dab5",
+          "text": "an apologetic message can repair the damage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an apologetic message"
+            },
+            {
+              "role": "谓语",
+              "text": "can repair"
+            },
+            {
+              "role": "宾语",
+              "text": "the damage"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before it can cause permanent detriment"
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "a small obstacle that any strong scholar can surmount"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "if 提出冲突可能发生的假设,主句给出应对办法。"
+        },
+        {
+          "name": "before 引导时间状语从句",
+          "note": "before it can cause permanent detriment 强调道歉要趁早,时机决定后果。"
+        },
+        {
+          "name": "that 引导定语从句",
+          "note": "that any strong scholar can surmount 修饰 obstacle,肯定克服困难的能力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a small obstacle that any strong scholar can surmount",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a small obstacle that any strong scholar can surmount",
+          "name": "before 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a small obstacle that any strong scholar can surmount",
+          "name": "that 引导定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If a conflict can occur, an apologetic message can repair the damage before it can cause permanent detriment, a small obstacle that any strong scholar can surmount.",
+          "answer": "If a conflict can occur, an apologetic message can repair the damage before it can cause permanent detriment, a small obstacle that any strong scholar can surmount.",
+          "note": "if 提出冲突可能发生的假设,主句给出应对办法。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If a conflict can occur, an apologetic message can repair the damage before it can cause permanent detriment, a small obstacle that any strong scholar can surmount.",
+          "answer": "If a conflict can occur, an apologetic message can repair the damage before it can cause permanent detriment, a small obstacle that any strong scholar can surmount.",
+          "note": "before it can cause permanent detriment 强调道歉要趁早,时机决定后果。",
+          "point": "before 引导时间状语从句"
+        }
+      ]
+    },
+    {
+      "text": "In all of this, equity can matter a great deal: credit should fall on every partner, a scholar who may disapprove when credit can go to another should question his own motive, and the refinement of such social habit can prove as valuable as technical mastery.",
+      "translation": "在这一切中,公平至关重要:功劳应落在每一位合作伙伴身上,对功劳归于他人感到不满的学者应当反思自己的动机,而社交习惯的打磨可以证明与技术专长一样有价值。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In all of this"
+        },
+        {
+          "label": "主干一",
+          "color": "#a8dab5",
+          "text": "equity can matter a great deal",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "equity"
+            },
+            {
+              "role": "谓语",
+              "text": "can matter"
+            },
+            {
+              "role": "程度状语",
+              "text": "a great deal"
+            }
+          ]
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "credit should fall on every partner",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "credit"
+            },
+            {
+              "role": "谓语",
+              "text": "should fall on"
+            },
+            {
+              "role": "宾语",
+              "text": "every partner"
+            }
+          ]
+        },
+        {
+          "label": "主干三",
+          "color": "#a8dab5",
+          "text": "a scholar who may disapprove when credit can go to another should question his own motive",
+          "parts": [
+            {
+              "role": "主语(含定语从句)",
+              "text": "a scholar who may disapprove when credit can go to another"
+            },
+            {
+              "role": "谓语",
+              "text": "should question"
+            },
+            {
+              "role": "宾语",
+              "text": "his own motive"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干四",
+          "color": "#a8dab5",
+          "text": "the refinement of such social habit can prove as valuable as technical mastery",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the refinement of such social habit"
+            },
+            {
+              "role": "谓语",
+              "text": "can prove"
+            },
+            {
+              "role": "表语",
+              "text": "as valuable as technical mastery"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "冒号引出并列论述",
+          "note": "冒号后三个分句并列,先提出总原则,再逐条展开,层次分明。"
+        },
+        {
+          "name": "who 引导定语从句套时间从句",
+          "note": "a scholar who may disapprove when credit can go to another 中,who 引导定语从句,从句内又含 when 时间状语从句,体现复合句嵌套。"
+        },
+        {
+          "name": "as... as... 同级比较",
+          "note": "as valuable as technical mastery 表示\"与技术专长一样有价值\",强调社交素养的重要性。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a scholar who may disapprove when credit can go to another should question his own motive",
+          "name": "冒号引出并列论述"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a scholar who may disapprove when credit can go to another should question his own motive",
+          "name": "who 引导定语从句套时间从句"
+        },
+        {
+          "grammarId": "g-s5u5",
+          "phrase": "a scholar who may disapprove when credit can go to another should question his own motive",
+          "name": "as... as... 同级比较"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In all of this, equity can matter a great deal: credit should fall on every partner, a scholar who may disapprove when credit can go to another should question his own motive, and the refinement of such social habit can prove as valuable as technical mastery.",
+          "answer": "In all of this, equity can matter a great deal: credit should fall on every partner, a scholar who may disapprove when credit can go to another should question his own motive, and the refinement of such social habit can prove as valuable as technical mastery.",
+          "note": "冒号后三个分句并列,先提出总原则,再逐条展开,层次分明。",
+          "point": "冒号引出并列论述"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In all of this, equity can matter a great deal: credit should fall on every partner, a scholar who may disapprove when credit can go to another should question his own motive, and the refinement of such social habit can prove as valuable as technical mastery.",
+          "answer": "In all of this, equity can matter a great deal: credit should fall on every partner, a scholar who may disapprove when credit can go to another should question his own motive, and the refinement of such social habit can prove as valuable as technical mastery.",
+          "note": "a scholar who may disapprove when credit can go to another 中,who 引导定语从句,从句内又含 when 时间状语从句,体现复合句嵌套。",
+          "point": "who 引导定语从句套时间从句"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s5u5",
+      "name": "far more than 强调超出",
+      "note": "far more than 表示\"远不止\",强调会议价值超出预期,是书面语中的强调结构。",
+      "sourceExample": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+      "sourceExampleCn": "学术会议能提供的远不止一场讲座,因为它能提供一个平台,让学者通过共同的词汇和自然的搭配交流想法。"
+    },
+    {
+      "grammarId": "g-s5u5",
+      "name": "where 引导定语从句",
+      "note": "where a scholar may exchange an idea 修饰 stage,说明平台的用途。",
+      "sourceExample": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+      "sourceExampleCn": "学术会议能提供的远不止一场讲座,因为它能提供一个平台,让学者通过共同的词汇和自然的搭配交流想法。"
+    },
+    {
+      "grammarId": "g-s5u5",
+      "name": "through 表方式",
+      "note": "through common vocabulary and natural phrase 说明交流所借助的方式。",
+      "sourceExample": "An academic conference can offer far more than a lecture, because it can provide a stage where a scholar may exchange an idea through common vocabulary and natural phrase.",
+      "sourceExampleCn": "学术会议能提供的远不止一场讲座,因为它能提供一个平台,让学者通过共同的词汇和自然的搭配交流想法。"
+    },
+    {
+      "grammarId": "g-s5u5",
+      "name": "Before 引导时间状语从句",
+      "note": "Before you travel 交代动作发生的先后顺序,是口语化中规整的书面表达。",
+      "sourceExample": "Before you travel, you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final.",
+      "sourceExampleCn": "出行之前,你可以仔细研究会议手册,以便了解哪个分会场符合你的兴趣,并确认日程是临时的还是最终的。"
+    },
+    {
+      "grammarId": "g-s5u5",
+      "name": "so that 引导目的状语从句",
+      "note": "so that 表示\"以便\",说明研究手册的目的。",
+      "sourceExample": "Before you travel, you can study the prospectus with care so that you know which session can match your interest, and check whether the programme is provisional or final.",
+      "sourceExampleCn": "出行之前,你可以仔细研究会议手册,以便了解哪个分会场符合你的兴趣,并确认日程是临时的还是最终的。"
+    }
+  ]
+}

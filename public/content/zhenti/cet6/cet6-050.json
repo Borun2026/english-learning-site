@@ -1,0 +1,62 @@
+{
+ "id": "cet6-050",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第1套) Passage 2",
+ "title": "Questions 51 to SS are based on the following passage",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 468,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Questions 51 to SS are based on the following passage.",
+  "Every five years, the government tries to tell Americans what to put in their bellies. Eat more vegetables. Dial back the fats. It's all based on the best available science for leading a healthy life. But the best available science also has a lot to say about what those food choices do to the environment, and some researchers are annoyed that new dietary recommendations of the USDA ( United States Department of Agriculture) released yesterday seem to utterly ignore that fact.",
+  "Broadly, the 2016- 2020 dietary recommendations aim for balance: More vegetables, leaner meats and far less sugar.",
+  "But Americans consume more calories per capita than almost any other country in the- world. So the things Americans eat have a huge impact on climate change. Soil tilling releases carbon dioxide, and delivery vehicles emit exhaust. The government's dietary guidelines could have done a lot to lower that climate cost. Not just because of their position of authority: The guidelines drive billions of dollars of food production through federal programs like school lunches and nutrition assistance for the needy.",
+  "On its own, plant and animal agriculture contributes 9 percent of all the country's greenhouse gas emissions. That's not counting the fuel burned in transportation, processing, refrigeration, and other waypoints between farm and belly. Red meats are among the biggest and most notorious emitters, but trucking a salad from California to Minnesota in January also carries a significant burden. And greenhouse gas emissions aren't the whole story. Food production is the largest user of fresh water, largest contributor to the loss of biodiversity, and a major contributor to using up natural resources.",
+  "All of these points and more showed up in the Dietary Guidelines Advisory Committee's scientific report, released last February. Miriam Nelson chaired the subcommittee in charge of sustainability for the report, and is disappointed that eating less meat and buying local food aren't in the final product. \"Especially if you consider that eating less meat, especially red and processed, has health benefits,\" she says. So what happened? The official response is that sustainability falls too far outside the guidelines' official scope, which is to provide \"nutritional and dietary information.\"",
+  "Possibly the agencies in charge of drafting the decisions are too close to the industries they are supposed to regulate. On one hand, the USDA is compiling dietary advice. On the other, their clients are US agriculture companies.",
+  "The line about keeping the guidelines' scope to nutrition and diet doesn't ring quite right with researchers. David Wallinga, for example, says, \"In previous guidelines, they've always been concerned with things like food security-which is presumably the mission of the USDA. You absolutely need to be worried about climate impacts and future sustainability if you want secure food in the future.\""
+ ],
+ "questions": [
+  {
+   "q": "文中 “carbon” 最接近的意思是?",
+   "options": [
+    "生物多样性",
+    "自名昭著的，声名狼藉的",
+    "[化学] 碳",
+    "在…之中"
+   ],
+   "answer": 2,
+   "analysis": "“carbon” 意为「[化学] 碳」。原文语境:Soil tilling releases carbon dioxide, and delivery vehicles emit exhaust.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:\"Especially if you consider that eating less meat, especially red and processed, has ___ benefits,\" she says.",
+   "options": [
+    "report",
+    "health",
+    "science",
+    "future"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“\"Especially if you consider that eating less meat, especially red and processed, has health benefits,\" she says.”。空格处应填入 “health”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Sarcasm and jazz have something surprisingly in common: You know them when yo",
+    "Any veteran nicotine addict will testify that fancy packaging plays no role i",
+    "Rising temperatures and overfishing in the pristine ( 3f",
+    "Questions 51 to SS are based on the following passage"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Questions 51 to SS are based on the following passage.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

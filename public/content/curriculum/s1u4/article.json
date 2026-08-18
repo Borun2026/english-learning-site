@@ -1,0 +1,522 @@
+{
+  "id": "a-s1u4",
+  "stage": 1,
+  "unitId": "s1u4",
+  "title": "My Travel Plan",
+  "newWords": [
+    "week",
+    "parents",
+    "plane",
+    "early",
+    "stay",
+    "hotel",
+    "visit",
+    "palace",
+    "museum",
+    "zoo",
+    "taste",
+    "local",
+    "food",
+    "buy",
+    "gifts",
+    "friends",
+    "teachers",
+    "photos",
+    "river",
+    "evening",
+    "trip",
+    "wonderful",
+    "sunday",
+    "beijing"
+  ],
+  "sentences": [
+    {
+      "text": "Next week I will go to Beijing with my parents.",
+      "translation": "下周我将和爸爸妈妈一起去北京。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Next week"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will go to Beijing with my parents",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will go"
+            },
+            {
+              "role": "地点状语",
+              "text": "to Beijing"
+            },
+            {
+              "role": "伴随状语",
+              "text": "with my parents"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will + 动词原形",
+          "note": "will go 表示\"将要/打算去\",will 后接动词原形,构成一般将来时。",
+          "example": "I will see you tomorrow.",
+          "exampleCn": "明天我会见到你。"
+        },
+        {
+          "name": "next week 时间状语",
+          "note": "next week 是将来时间状语,常与 will 连用。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "I will go to Beijing with my parents",
+          "name": "will + 动词原形"
+        },
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "I will go to Beijing with my parents",
+          "name": "next week 时间状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:明天我会见到你。",
+          "answer": "I will see you tomorrow.",
+          "note": "will go 表示\"将要/打算去\",will 后接动词原形,构成一般将来时。",
+          "point": "will + 动词原形"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Next week I will go to Beijing with my parents.",
+          "answer": "Next week I will go to Beijing with my parents.",
+          "note": "next week 是将来时间状语,常与 will 连用。",
+          "point": "next week 时间状语"
+        }
+      ]
+    },
+    {
+      "text": "We will take a plane early in the morning and stay in a hotel.",
+      "translation": "我们将一大早坐飞机去,然后住在一家旅馆里。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will take a plane early in the morning and stay in a hotel",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will take"
+            },
+            {
+              "role": "宾语",
+              "text": "a plane"
+            },
+            {
+              "role": "时间状语",
+              "text": "early in the morning"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "stay"
+            },
+            {
+              "role": "地点状语",
+              "text": "in a hotel"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "将来时并列",
+          "note": "will take 和 stay 都表示将来的动作,will 后的动词都用原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "We will take a plane early in the morning and stay in a hotel",
+          "name": "将来时并列"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We will take a plane early in the morning and stay in a hotel.",
+          "answer": "We will take a plane early in the morning and stay in a hotel.",
+          "note": "will take 和 stay 都表示将来的动作,will 后的动词都用原形。",
+          "point": "将来时并列"
+        }
+      ]
+    },
+    {
+      "text": "We will visit the Great Wall, the Palace Museum and the zoo.",
+      "translation": "我们将参观长城、故宫博物院和动物园。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will visit the Great Wall, the Palace Museum and the zoo",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will visit"
+            },
+            {
+              "role": "宾语",
+              "text": "the Great Wall, the Palace Museum and the zoo"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will visit",
+          "note": "will visit 表示\"将要参观\"。专有名词 the Great Wall 前要用定冠词 the。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "We will visit the Great Wall, the Palace Museum and the zoo",
+          "name": "will visit"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We will visit the Great Wall, the Palace Museum and the zoo.",
+          "answer": "We will visit the Great Wall, the Palace Museum and the zoo.",
+          "note": "will visit 表示\"将要参观\"。专有名词 the Great Wall 前要用定冠词 the。",
+          "point": "will visit"
+        }
+      ]
+    },
+    {
+      "text": "We will eat Beijing duck and taste some local food.",
+      "translation": "我们将吃北京烤鸭,尝尝当地的美食。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will eat Beijing duck and taste some local food",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will eat"
+            },
+            {
+              "role": "宾语",
+              "text": "Beijing duck"
+            },
+            {
+              "role": "连词",
+              "text": "and"
+            },
+            {
+              "role": "谓语",
+              "text": "taste"
+            },
+            {
+              "role": "宾语",
+              "text": "some local food"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will eat / taste",
+          "note": "两个将来的动作并列,都用 will + 动词原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "We will eat Beijing duck and taste some local food",
+          "name": "will eat / taste"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We will eat Beijing duck and taste some local food.",
+          "answer": "We will eat Beijing duck and taste some local food.",
+          "note": "两个将来的动作并列,都用 will + 动词原形。",
+          "point": "will eat / taste"
+        }
+      ]
+    },
+    {
+      "text": "I will buy some gifts for my friends and my teachers.",
+      "translation": "我会给朋友和老师们买一些礼物。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will buy some gifts for my friends and my teachers",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will buy"
+            },
+            {
+              "role": "宾语",
+              "text": "some gifts"
+            },
+            {
+              "role": "对象状语",
+              "text": "for my friends and my teachers"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "will buy",
+          "note": "will buy 表示\"将要购买\",for 引出动作的对象。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "I will buy some gifts for my friends and my teachers",
+          "name": "will buy"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I will buy some gifts for my friends and my teachers.",
+          "answer": "I will buy some gifts for my friends and my teachers.",
+          "note": "will buy 表示\"将要购买\",for 引出动作的对象。",
+          "point": "will buy"
+        }
+      ]
+    },
+    {
+      "text": "We will take many photos by the river in the evening.",
+      "translation": "傍晚我们将在河边拍很多照片。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will take many photos by the river in the evening",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will take"
+            },
+            {
+              "role": "宾语",
+              "text": "many photos"
+            },
+            {
+              "role": "地点状语",
+              "text": "by the river"
+            },
+            {
+              "role": "时间状语",
+              "text": "in the evening"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "by the river 地点状语",
+          "note": "by the river 表示\"在河边\",by 在这里是\"在…旁边\"的意思。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "We will take many photos by the river in the evening",
+          "name": "by the river 地点状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We will take many photos by the river in the evening.",
+          "answer": "We will take many photos by the river in the evening.",
+          "note": "by the river 表示\"在河边\",by 在这里是\"在…旁边\"的意思。",
+          "point": "by the river 地点状语"
+        }
+      ]
+    },
+    {
+      "text": "I think the trip will be wonderful, and we will come back on Sunday.",
+      "translation": "我觉得这次旅行一定会很棒,我们周日回来。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I think",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "think"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "the trip will be wonderful",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the trip"
+            },
+            {
+              "role": "谓语",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "wonderful"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二",
+          "color": "#a8dab5",
+          "text": "we will come back on Sunday",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "will come back"
+            },
+            {
+              "role": "时间状语",
+              "text": "on Sunday"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "think + 宾语从句",
+          "note": "I think 后面接一个完整的句子 the trip will be wonderful,这个从句作宾语。"
+        },
+        {
+          "name": "will come back",
+          "note": "come back 表示\"回来\",will 后动词用原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "we will come back on Sunday",
+          "name": "think + 宾语从句"
+        },
+        {
+          "grammarId": "g-s1u4",
+          "phrase": "we will come back on Sunday",
+          "name": "will come back"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I think the trip will be wonderful, and we will come back on Sunday.",
+          "answer": "I think the trip will be wonderful, and we will come back on Sunday.",
+          "note": "I think 后面接一个完整的句子 the trip will be wonderful,这个从句作宾语。",
+          "point": "think + 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I think the trip will be wonderful, and we will come back on Sunday.",
+          "answer": "I think the trip will be wonderful, and we will come back on Sunday.",
+          "note": "come back 表示\"回来\",will 后动词用原形。",
+          "point": "will come back"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u4",
+      "name": "will + 动词原形",
+      "note": "will go 表示\"将要/打算去\",will 后接动词原形,构成一般将来时。",
+      "sourceExample": "Next week I will go to Beijing with my parents.",
+      "sourceExampleCn": "下周我将和爸爸妈妈一起去北京。"
+    },
+    {
+      "grammarId": "g-s1u4",
+      "name": "next week 时间状语",
+      "note": "next week 是将来时间状语,常与 will 连用。",
+      "sourceExample": "Next week I will go to Beijing with my parents.",
+      "sourceExampleCn": "下周我将和爸爸妈妈一起去北京。"
+    },
+    {
+      "grammarId": "g-s1u4",
+      "name": "将来时并列",
+      "note": "will take 和 stay 都表示将来的动作,will 后的动词都用原形。",
+      "sourceExample": "We will take a plane early in the morning and stay in a hotel.",
+      "sourceExampleCn": "我们将一大早坐飞机去,然后住在一家旅馆里。"
+    },
+    {
+      "grammarId": "g-s1u4",
+      "name": "will visit",
+      "note": "will visit 表示\"将要参观\"。专有名词 the Great Wall 前要用定冠词 the。",
+      "sourceExample": "We will visit the Great Wall, the Palace Museum and the zoo.",
+      "sourceExampleCn": "我们将参观长城、故宫博物院和动物园。"
+    },
+    {
+      "grammarId": "g-s1u4",
+      "name": "will eat / taste",
+      "note": "两个将来的动作并列,都用 will + 动词原形。",
+      "sourceExample": "We will eat Beijing duck and taste some local food.",
+      "sourceExampleCn": "我们将吃北京烤鸭,尝尝当地的美食。"
+    }
+  ]
+}

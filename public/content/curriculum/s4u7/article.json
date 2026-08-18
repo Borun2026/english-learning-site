@@ -1,0 +1,1390 @@
+{
+  "id": "a-s4u7",
+  "stage": 4,
+  "unitId": "s4u7",
+  "title": "Review Skills Shared in the Group",
+  "newWords": [
+    "auditorium",
+    "sly",
+    "invariable",
+    "doorway",
+    "feat",
+    "instalment",
+    "harbor",
+    "deplore",
+    "archeology",
+    "affluent",
+    "cyberspace",
+    "encyclopedia",
+    "credential",
+    "endeavour",
+    "intrude"
+  ],
+  "sentences": [
+    {
+      "text": "During the review season, our class may meet in the big auditorium, and each person may share one useful trick.",
+      "translation": "在复习季期间,我们班可能在大礼堂聚会,每个人都可以分享一个有用的窍门。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "During the review season"
+        },
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "our class may meet in the big auditorium",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "our class"
+            },
+            {
+              "role": "谓语",
+              "text": "may meet"
+            },
+            {
+              "role": "地点状语",
+              "text": "in the big auditorium"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each person may share one useful trick",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each person"
+            },
+            {
+              "role": "谓语",
+              "text": "may share"
+            },
+            {
+              "role": "宾语",
+              "text": "one useful trick"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语短语",
+          "note": "During the review season 是介词短语作时间状语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "our class may meet in the big auditorium",
+          "name": "时间状语短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):During the review season, our class may meet in the big auditorium, and each person may share one useful trick.",
+          "answer": "During the review season, our class may meet in the big auditorium, and each person may share one useful trick.",
+          "note": "During the review season 是介词短语作时间状语。",
+          "point": "时间状语短语"
+        }
+      ]
+    },
+    {
+      "text": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+      "translation": "完形填空可能不只是词汇测试,因为正确的选项可能取决于句子的语法和文章的逻辑。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "A fill-in test may be more than a test of vocabulary",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A fill-in test"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "more than a test of vocabulary"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a correct option may depend on the grammar of a sentence and the logic of the passage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a correct option"
+            },
+            {
+              "role": "谓语",
+              "text": "may depend on"
+            },
+            {
+              "role": "宾语",
+              "text": "the grammar of a sentence and the logic of the passage"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "more than 结构",
+          "note": "more than a test 表示「不只是测试」。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明完形为何不只是词汇测试。"
+        },
+        {
+          "name": "完形技巧",
+          "note": "完形填空的正确答案常由语法搭配与篇章逻辑共同决定,是本单元复习技巧的核心。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a correct option may depend on the grammar of a sentence and the logic of the passage",
+          "name": "more than 结构"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a correct option may depend on the grammar of a sentence and the logic of the passage",
+          "name": "for 表示原因"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a correct option may depend on the grammar of a sentence and the logic of the passage",
+          "name": "完形技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+          "answer": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+          "note": "more than a test 表示「不只是测试」。",
+          "point": "more than 结构"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+          "answer": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+          "note": "for 补充说明完形为何不只是词汇测试。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+      "translation": "我们可以把每道完形当作谜题,而狡猾的选项乍看之下可能完美无缺,但文本中的一个小迹象就会暴露它。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "We may treat every fill-in as a puzzle",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may treat"
+            },
+            {
+              "role": "宾语",
+              "text": "every fill-in"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "as a puzzle"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "a sly option may look perfect at first sight",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a sly option"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "may look"
+            },
+            {
+              "role": "表语",
+              "text": "perfect"
+            },
+            {
+              "role": "状语",
+              "text": "at first sight"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a small sign in the text may give it away",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a small sign in the text"
+            },
+            {
+              "role": "谓语",
+              "text": "may give away"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "treat A as B",
+          "note": "treat A as B 表示「把 A 当作 B」。"
+        },
+        {
+          "name": "give away",
+          "note": "give away 表示「暴露、泄露」。"
+        },
+        {
+          "name": "完形技巧",
+          "note": "干扰项常看似完美(sly option),需借助上下文线索识破。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a sly option may look perfect at first sight",
+          "name": "treat A as B"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a sly option may look perfect at first sight",
+          "name": "give away"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "a sly option may look perfect at first sight",
+          "name": "完形技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+          "answer": "We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+          "note": "treat A as B 表示「把 A 当作 B」。",
+          "point": "treat A as B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+          "answer": "We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+          "note": "give away 表示「暴露、泄露」。",
+          "point": "give away"
+        }
+      ]
+    },
+    {
+      "text": "An invariable rule in our group is to read the whole passage before we choose, and this habit may save us from many a trap.",
+      "translation": "我们小组一条不变的规则是:在选择之前通读全文,而这个习惯可以让我们避开许多陷阱。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "An invariable rule in our group is to read the whole passage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An invariable rule in our group"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to read the whole passage"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before we choose"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "this habit may save us from many a trap",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this habit"
+            },
+            {
+              "role": "谓语",
+              "text": "may save"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "状语",
+              "text": "from many a trap"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "to read the whole passage 作表语,说明规则的内容。"
+        },
+        {
+          "name": "many a + 单数名词",
+          "note": "many a trap 表示「许多陷阱」,是书面语中的固定用法。"
+        },
+        {
+          "name": "完形技巧",
+          "note": "先通读全文把握逻辑,再逐空选择,可避免断章取义。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "An invariable rule in our group is to read the whole passage",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "An invariable rule in our group is to read the whole passage",
+          "name": "many a + 单数名词"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "An invariable rule in our group is to read the whole passage",
+          "name": "完形技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An invariable rule in our group is to read the whole passage before we choose, and this habit may save us from many a trap.",
+          "answer": "An invariable rule in our group is to read the whole passage before we choose, and this habit may save us from many a trap.",
+          "note": "to read the whole passage 作表语,说明规则的内容。",
+          "point": "不定式作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An invariable rule in our group is to read the whole passage before we choose, and this habit may save us from many a trap.",
+          "answer": "An invariable rule in our group is to read the whole passage before we choose, and this habit may save us from many a trap.",
+          "note": "many a trap 表示「许多陷阱」,是书面语中的固定用法。",
+          "point": "many a + 单数名词"
+        }
+      ]
+    },
+    {
+      "text": "For the new question type, we may match a heading with a paragraph, and the key may be the topic sentence of each part.",
+      "translation": "对于新题型,我们可能把标题与段落配对,而关键可能是每部分的主题句。",
+      "chunks": [
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "For the new question type"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may match a heading with a paragraph",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may match"
+            },
+            {
+              "role": "宾语",
+              "text": "a heading"
+            },
+            {
+              "role": "状语",
+              "text": "with a paragraph"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the key may be the topic sentence of each part",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the key"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "the topic sentence of each part"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "match A with B",
+          "note": "match A with B 表示「把 A 与 B 配对」。"
+        },
+        {
+          "name": "新题型技巧",
+          "note": "标题配对题(新题型)以主题句为线索,是解题的关键。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the key may be the topic sentence of each part",
+          "name": "match A with B"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the key may be the topic sentence of each part",
+          "name": "新题型技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For the new question type, we may match a heading with a paragraph, and the key may be the topic sentence of each part.",
+          "answer": "For the new question type, we may match a heading with a paragraph, and the key may be the topic sentence of each part.",
+          "note": "match A with B 表示「把 A 与 B 配对」。",
+          "point": "match A with B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):For the new question type, we may match a heading with a paragraph, and the key may be the topic sentence of each part.",
+          "answer": "For the new question type, we may match a heading with a paragraph, and the key may be the topic sentence of each part.",
+          "note": "标题配对题(新题型)以主题句为线索,是解题的关键。",
+          "point": "新题型技巧"
+        }
+      ]
+    },
+    {
+      "text": "I may learn a new trick from a smart friend, and the doorway to progress is often a small tip we can apply at once; we may also try a fill-in test, and the answer may come from the context around the blank, not from memory alone.",
+      "translation": "我可能从聪明的朋友那里学到新窍门,而通往进步之门往往是一个可以立即应用的小建议。; 我们还可以做一套完形填空,而答案可能来自空格周围的语境,而不仅仅来自记忆。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I may learn a new trick from a smart friend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "may learn"
+            },
+            {
+              "role": "宾语",
+              "text": "a new trick"
+            },
+            {
+              "role": "状语",
+              "text": "from a smart friend"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the doorway to progress is often a small tip we can apply at once",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the doorway to progress"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "often a small tip"
+            },
+            {
+              "role": "定语从句",
+              "text": "we can apply at once"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may also try a fill-in test",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "状语",
+              "text": "may also"
+            },
+            {
+              "role": "谓语",
+              "text": "try"
+            },
+            {
+              "role": "宾语",
+              "text": "a fill-in test"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "the answer may come from the context around the blank, not from memory alone",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the answer"
+            },
+            {
+              "role": "谓语",
+              "text": "may come"
+            },
+            {
+              "role": "状语",
+              "text": "from the context around the blank, not from memory alone"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "省略关系词的定语从句",
+          "note": "a small tip we can apply 中省略了关系代词 that。"
+        },
+        {
+          "name": "come from A, not from B",
+          "note": "「来自 A,而非来自 B」,用否定项强调语境的作用。"
+        },
+        {
+          "name": "完形技巧",
+          "note": "完形答案由上下文语境决定,而非死记硬背。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the answer may come from the context around the blank, not from memory alone",
+          "name": "省略关系词的定语从句"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the answer may come from the context around the blank, not from memory alone",
+          "name": "come from A, not from B"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the answer may come from the context around the blank, not from memory alone",
+          "name": "完形技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I may learn a new trick from a smart friend, and the doorway to progress is often a small tip we can apply at once; we may also try a fill-in test, and the answer may come from the context around the blank, not from memory alone.",
+          "answer": "I may learn a new trick from a smart friend, and the doorway to progress is often a small tip we can apply at once; we may also try a fill-in test, and the answer may come from the context around the blank, not from memory alone.",
+          "note": "a small tip we can apply 中省略了关系代词 that。",
+          "point": "省略关系词的定语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I may learn a new trick from a smart friend, and the doorway to progress is often a small tip we can apply at once; we may also try a fill-in test, and the answer may come from the context around the blank, not from memory alone.",
+          "answer": "I may learn a new trick from a smart friend, and the doorway to progress is often a small tip we can apply at once; we may also try a fill-in test, and the answer may come from the context around the blank, not from memory alone.",
+          "note": "「来自 A,而非来自 B」,用否定项强调语境的作用。",
+          "point": "come from A, not from B"
+        }
+      ]
+    },
+    {
+      "text": "A feat of memory is no match for a clear method, and we may review a small instalment each day instead of one long session; we may harbor a doubt about our progress, yet it may vanish once we see the score of the last test.",
+      "translation": "记忆的壮举比不上清晰的方法,我们宁愿每天复习一小部分,而不是长时间地学习一次。; 我们可能对自己的进步心存疑虑,然而一旦看到上次测试的分数,疑虑就会消失。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "A feat of memory is no match for a clear method",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A feat of memory"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "no match for a clear method"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may review a small instalment each day instead of one long session",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may review"
+            },
+            {
+              "role": "宾语",
+              "text": "a small instalment"
+            },
+            {
+              "role": "时间状语",
+              "text": "each day"
+            },
+            {
+              "role": "状语",
+              "text": "instead of one long session"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may harbor a doubt about our progress",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may harbor"
+            },
+            {
+              "role": "宾语",
+              "text": "a doubt about our progress"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "it may vanish",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "it"
+            },
+            {
+              "role": "谓语",
+              "text": "may vanish"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "once we see the score of the last test"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be no match for",
+          "note": "be no match for 表示「比不上、敌不过」。"
+        },
+        {
+          "name": "instead of",
+          "note": "instead of 表示「而不是」。"
+        },
+        {
+          "name": "复习经验",
+          "note": "分次小量(instalment)复习优于一次长时学习,符合记忆规律。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may review a small instalment each day instead of one long session",
+          "name": "be no match for"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may review a small instalment each day instead of one long session",
+          "name": "instead of"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may review a small instalment each day instead of one long session",
+          "name": "复习经验"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A feat of memory is no match for a clear method, and we may review a small instalment each day instead of one long session; we may harbor a doubt about our progress, yet it may vanish once we see the score of the last test.",
+          "answer": "A feat of memory is no match for a clear method, and we may review a small instalment each day instead of one long session; we may harbor a doubt about our progress, yet it may vanish once we see the score of the last test.",
+          "note": "be no match for 表示「比不上、敌不过」。",
+          "point": "be no match for"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A feat of memory is no match for a clear method, and we may review a small instalment each day instead of one long session; we may harbor a doubt about our progress, yet it may vanish once we see the score of the last test.",
+          "answer": "A feat of memory is no match for a clear method, and we may review a small instalment each day instead of one long session; we may harbor a doubt about our progress, yet it may vanish once we see the score of the last test.",
+          "note": "instead of 表示「而不是」。",
+          "point": "instead of"
+        }
+      ]
+    },
+    {
+      "text": "Some of us may deplore the low score and want to give up, yet the solution is a patient review.",
+      "translation": "我们中有些人可能会哀叹低分并想放弃,然而解决之道是耐心的复习。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Some of us may deplore the low score",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some of us"
+            },
+            {
+              "role": "谓语",
+              "text": "may deplore"
+            },
+            {
+              "role": "宾语",
+              "text": "the low score"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "want to give up",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "want"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to give up"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the solution is a patient review",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the solution"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a patient review"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "may deplore...and want... 两个谓语并列。"
+        },
+        {
+          "name": "转折连词 yet",
+          "note": "「虽沮丧,但…」,先抑后扬。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "Some of us may deplore the low score",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "Some of us may deplore the low score",
+          "name": "转折连词 yet"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some of us may deplore the low score and want to give up, yet the solution is a patient review.",
+          "answer": "Some of us may deplore the low score and want to give up, yet the solution is a patient review.",
+          "note": "may deplore...and want... 两个谓语并列。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some of us may deplore the low score and want to give up, yet the solution is a patient review.",
+          "answer": "Some of us may deplore the low score and want to give up, yet the solution is a patient review.",
+          "note": "「虽沮丧,但…」,先抑后扬。",
+          "point": "转折连词 yet"
+        }
+      ]
+    },
+    {
+      "text": "The study of archeology may appear in the reading text, and we may need no deep knowledge of the field, only the habit to read with care.",
+      "translation": "考古学的内容可能出现在阅读文本中,而我们并不需要该领域的深奥知识,只需认真阅读的习惯。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "The study of archeology may appear in the reading text",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The study of archeology"
+            },
+            {
+              "role": "谓语",
+              "text": "may appear"
+            },
+            {
+              "role": "状语",
+              "text": "in the reading text"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may need no deep knowledge of the field, only the habit to read with care",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may need"
+            },
+            {
+              "role": "宾语",
+              "text": "no deep knowledge of the field, only the habit to read with care"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "need no A, only B",
+          "note": "「不需要 A,只需要 B」,形成强调对比。"
+        },
+        {
+          "name": "不定式作定语",
+          "note": "the habit to read with care 中,不定式修饰 habit。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may need no deep knowledge of the field, only the habit to read with care",
+          "name": "need no A, only B"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may need no deep knowledge of the field, only the habit to read with care",
+          "name": "不定式作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The study of archeology may appear in the reading text, and we may need no deep knowledge of the field, only the habit to read with care.",
+          "answer": "The study of archeology may appear in the reading text, and we may need no deep knowledge of the field, only the habit to read with care.",
+          "note": "「不需要 A,只需要 B」,形成强调对比。",
+          "point": "need no A, only B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The study of archeology may appear in the reading text, and we may need no deep knowledge of the field, only the habit to read with care.",
+          "answer": "The study of archeology may appear in the reading text, and we may need no deep knowledge of the field, only the habit to read with care.",
+          "note": "the habit to read with care 中,不定式修饰 habit。",
+          "point": "不定式作定语"
+        }
+      ]
+    },
+    {
+      "text": "An affluent vocabulary may help, but a rich mind may matter more, and we may build it through daily practice.",
+      "translation": "丰富的词汇量可能有帮助,但丰富的思想更为重要,而我们可以通过每日练习来构建它。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "An affluent vocabulary may help",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An affluent vocabulary"
+            },
+            {
+              "role": "谓语",
+              "text": "may help"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "a rich mind may matter more",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a rich mind"
+            },
+            {
+              "role": "谓语",
+              "text": "may matter"
+            },
+            {
+              "role": "状语",
+              "text": "more"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干三(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may build it through daily practice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may build"
+            },
+            {
+              "role": "宾语",
+              "text": "it"
+            },
+            {
+              "role": "状语",
+              "text": "through daily practice"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "matter 作动词",
+          "note": "matter 表示「重要」:a rich mind matters more 意为「思想更关键」。"
+        },
+        {
+          "name": "多层并列转折",
+          "note": "but 与 and 连接三个分句,先让步再递进。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may build it through daily practice",
+          "name": "matter 作动词"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "we may build it through daily practice",
+          "name": "多层并列转折"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An affluent vocabulary may help, but a rich mind may matter more, and we may build it through daily practice.",
+          "answer": "An affluent vocabulary may help, but a rich mind may matter more, and we may build it through daily practice.",
+          "note": "matter 表示「重要」:a rich mind matters more 意为「思想更关键」。",
+          "point": "matter 作动词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An affluent vocabulary may help, but a rich mind may matter more, and we may build it through daily practice.",
+          "answer": "An affluent vocabulary may help, but a rich mind may matter more, and we may build it through daily practice.",
+          "note": "but 与 and 连接三个分句,先让步再递进。",
+          "point": "多层并列转折"
+        }
+      ]
+    },
+    {
+      "text": "The cyberspace may offer free material, yet an encyclopedia on paper may still serve us well.",
+      "translation": "网络空间可能提供免费材料,然而纸质百科全书仍能很好地服务我们。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The cyberspace may offer free material",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The cyberspace"
+            },
+            {
+              "role": "谓语",
+              "text": "may offer"
+            },
+            {
+              "role": "宾语",
+              "text": "free material"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "an encyclopedia on paper may still serve us well",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an encyclopedia on paper"
+            },
+            {
+              "role": "谓语",
+              "text": "may still serve"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "状语",
+              "text": "well"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 yet",
+          "note": "网络资源与纸质工具对比,体现辩证思维。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "an encyclopedia on paper may still serve us well",
+          "name": "转折连词 yet"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The cyberspace may offer free material, yet an encyclopedia on paper may still serve us well.",
+          "answer": "The cyberspace may offer free material, yet an encyclopedia on paper may still serve us well.",
+          "note": "网络资源与纸质工具对比,体现辩证思维。",
+          "point": "转折连词 yet"
+        }
+      ]
+    },
+    {
+      "text": "A good score is a useful credential, yet the real reward may be the power to read any text with ease, the fruit of honest endeavour; we may not let one hard question intrude on the whole test, for the next may be easy.",
+      "translation": "好成绩是有用的凭证,然而真正的回报可能是轻松阅读任何文本的能力,这是诚实努力的果实。; 我们不能让一道难题侵扰整场考试,因为下一道可能很容易。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "A good score is a useful credential",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A good score"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a useful credential"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the real reward may be the power to read any text with ease",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the real reward"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "the power to read any text with ease"
+            }
+          ]
+        },
+        {
+          "label": "同位语",
+          "color": "#9fd8e8",
+          "text": "the fruit of honest endeavour"
+        },
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "We may not let one hard question intrude on the whole test",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may not let"
+            },
+            {
+              "role": "宾语",
+              "text": "one hard question"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "intrude on the whole test"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主系表)",
+          "color": "#a8dab5",
+          "text": "the next may be easy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the next"
+            },
+            {
+              "role": "谓语",
+              "text": "may be"
+            },
+            {
+              "role": "表语",
+              "text": "easy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作定语",
+          "note": "the power to read any text with ease 中,不定式修饰 power。"
+        },
+        {
+          "name": "同位语",
+          "note": "the fruit of honest endeavour 是 the real reward 的同位语,补充说明。"
+        },
+        {
+          "name": "let sb do",
+          "note": "let 后接省略 to 的不定式作宾补:intrude on the whole test。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the real reward may be the power to read any text with ease",
+          "name": "不定式作定语"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the real reward may be the power to read any text with ease",
+          "name": "同位语"
+        },
+        {
+          "grammarId": "g-s4u7",
+          "phrase": "the real reward may be the power to read any text with ease",
+          "name": "let sb do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A good score is a useful credential, yet the real reward may be the power to read any text with ease, the fruit of honest endeavour; we may not let one hard question intrude on the whole test, for the next may be easy.",
+          "answer": "A good score is a useful credential, yet the real reward may be the power to read any text with ease, the fruit of honest endeavour; we may not let one hard question intrude on the whole test, for the next may be easy.",
+          "note": "the power to read any text with ease 中,不定式修饰 power。",
+          "point": "不定式作定语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A good score is a useful credential, yet the real reward may be the power to read any text with ease, the fruit of honest endeavour; we may not let one hard question intrude on the whole test, for the next may be easy.",
+          "answer": "A good score is a useful credential, yet the real reward may be the power to read any text with ease, the fruit of honest endeavour; we may not let one hard question intrude on the whole test, for the next may be easy.",
+          "note": "the fruit of honest endeavour 是 the real reward 的同位语,补充说明。",
+          "point": "同位语"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u7",
+      "name": "时间状语短语",
+      "note": "During the review season 是介词短语作时间状语。",
+      "sourceExample": "During the review season, our class may meet in the big auditorium, and each person may share one useful trick.",
+      "sourceExampleCn": "在复习季期间,我们班可能在大礼堂聚会,每个人都可以分享一个有用的窍门。"
+    },
+    {
+      "grammarId": "g-s4u7",
+      "name": "more than 结构",
+      "note": "more than a test 表示「不只是测试」。",
+      "sourceExample": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+      "sourceExampleCn": "完形填空可能不只是词汇测试,因为正确的选项可能取决于句子的语法和文章的逻辑。"
+    },
+    {
+      "grammarId": "g-s4u7",
+      "name": "for 表示原因",
+      "note": "for 补充说明完形为何不只是词汇测试。",
+      "sourceExample": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+      "sourceExampleCn": "完形填空可能不只是词汇测试,因为正确的选项可能取决于句子的语法和文章的逻辑。"
+    },
+    {
+      "grammarId": "g-s4u7",
+      "name": "完形技巧",
+      "note": "完形填空的正确答案常由语法搭配与篇章逻辑共同决定,是本单元复习技巧的核心。",
+      "sourceExample": "A fill-in test may be more than a test of vocabulary, for a correct option may depend on the grammar of a sentence and the logic of the passage.",
+      "sourceExampleCn": "完形填空可能不只是词汇测试,因为正确的选项可能取决于句子的语法和文章的逻辑。"
+    },
+    {
+      "grammarId": "g-s4u7",
+      "name": "treat A as B",
+      "note": "treat A as B 表示「把 A 当作 B」。",
+      "sourceExample": "We may treat every fill-in as a puzzle, and a sly option may look perfect at first sight, yet a small sign in the text may give it away.",
+      "sourceExampleCn": "我们可以把每道完形当作谜题,而狡猾的选项乍看之下可能完美无缺,但文本中的一个小迹象就会暴露它。"
+    }
+  ]
+}

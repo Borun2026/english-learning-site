@@ -1,0 +1,1053 @@
+{
+  "id": "a-s3u3",
+  "stage": 3,
+  "unitId": "s3u3",
+  "title": "The Disappearing Heritage",
+  "newWords": [
+    "imminent",
+    "disappearance",
+    "irony",
+    "judicial",
+    "legislator",
+    "heritage",
+    "milestone",
+    "municipal",
+    "negotiation",
+    "memorable",
+    "misfortune",
+    "vitality",
+    "imbalance",
+    "proximity"
+  ],
+  "sentences": [
+    {
+      "text": "The exciting news is that the municipal council will approve a plan to rebuild the old factory district.",
+      "translation": "令人振奋的消息是,市政委员会将批准一项重建老厂区的计划。",
+      "chunks": [
+        {
+          "label": "主干(主系表前半)",
+          "color": "#a8dab5",
+          "text": "The exciting news is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The exciting news"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语从句",
+          "color": "#c8a5e0",
+          "text": "that the municipal council will approve a plan to rebuild the old factory district"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词 exciting 作定语",
+          "note": "exciting 修饰 news,意为\"令人振奋的\"。",
+          "example": "exciting news",
+          "exampleCn": "令人振奋的消息"
+        },
+        {
+          "name": "不定式 to rebuild 作后置定语",
+          "note": "to rebuild the old factory district 修饰 plan。",
+          "example": "a plan to save the city",
+          "exampleCn": "拯救这座城市的计划"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "that the municipal council will approve a plan to rebuild the old factory district",
+          "name": "现在分词 exciting 作定语"
+        },
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "that the municipal council will approve a plan to rebuild the old factory district",
+          "name": "不定式 to rebuild 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:令人振奋的消息",
+          "answer": "exciting news",
+          "note": "exciting 修饰 news,意为\"令人振奋的\"。",
+          "point": "现在分词 exciting 作定语"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:拯救这座城市的计划",
+          "answer": "a plan to save the city",
+          "note": "to rebuild the old factory district 修饰 plan。",
+          "point": "不定式 to rebuild 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The proposal to protect every historic building will win wide support.",
+      "translation": "保护每座历史建筑的建议将获得广泛支持。",
+      "chunks": [
+        {
+          "label": "主干(主语,含后置定语)",
+          "color": "#a8dab5",
+          "text": "The proposal to protect every historic building"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will win wide support",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will win"
+            },
+            {
+              "role": "宾语",
+              "text": "wide support"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式 to protect 作后置定语",
+          "note": "不定式修饰 proposal,说明内容。",
+          "example": "a plan to expand the museum",
+          "exampleCn": "扩建博物馆的计划"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The proposal to protect every historic building",
+          "name": "不定式 to protect 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:扩建博物馆的计划",
+          "answer": "a plan to expand the museum",
+          "note": "不定式修饰 proposal,说明内容。",
+          "point": "不定式 to protect 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The money for the project will come from the public budget, so the cost is under careful review.",
+      "translation": "项目资金将来自公共预算,因此成本正受到仔细审查。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "The money for the project will come from the public budget",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The money for the project"
+            },
+            {
+              "role": "谓语",
+              "text": "will come"
+            },
+            {
+              "role": "状语",
+              "text": "from the public budget"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the cost is under careful review",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the cost"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "under careful review"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 for the project 作后置定语",
+          "note": "for the project 修饰 money,说明用途。",
+          "example": "money for education",
+          "exampleCn": "用于教育的资金"
+        },
+        {
+          "name": "so 表结果",
+          "note": "so 连接结果,意为\"因此\"。",
+          "example": "It rained, so we stayed home.",
+          "exampleCn": "下雨了,所以我们待在家里。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The money for the project will come from the public budget",
+          "name": "介词短语 for the project 作后置定语"
+        },
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The money for the project will come from the public budget",
+          "name": "so 表结果"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:用于教育的资金",
+          "answer": "money for education",
+          "note": "for the project 修饰 money,说明用途。",
+          "point": "介词短语 for the project 作后置定语"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:下雨了,所以我们待在家里。",
+          "answer": "It rained, so we stayed home.",
+          "note": "so 连接结果,意为\"因此\"。",
+          "point": "so 表结果"
+        }
+      ]
+    },
+    {
+      "text": "A family living nearby will move to a new home before the start of the work.",
+      "translation": "住在附近的一户人家将在工程开始前搬到新家。",
+      "chunks": [
+        {
+          "label": "定语(现在分词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "A family living nearby"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "will move to a new home",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will move"
+            },
+            {
+              "role": "状语",
+              "text": "to a new home"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "before the start of the work"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词短语 living nearby 作后置定语",
+          "note": "living nearby 修饰 family,相当于定语从句 who lives nearby。",
+          "example": "the people waiting outside",
+          "exampleCn": "在外面等候的人"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "before the start of the work",
+          "name": "现在分词短语 living nearby 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:在外面等候的人",
+          "answer": "the people waiting outside",
+          "note": "living nearby 修饰 family,相当于定语从句 who lives nearby。",
+          "point": "现在分词短语 living nearby 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The committee set up last spring will publish its report in time.",
+      "translation": "去年春天成立的委员会将按时发布报告。",
+      "chunks": [
+        {
+          "label": "定语(过去分词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "The committee set up last spring"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "will publish its report",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will publish"
+            },
+            {
+              "role": "宾语",
+              "text": "its report"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in time"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去分词短语 set up 作后置定语",
+          "note": "set up last spring 修饰 committee,表被动\"被成立的\"。",
+          "example": "a bridge built in 1990",
+          "exampleCn": "1990年建造的桥"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The committee set up last spring",
+          "name": "过去分词短语 set up 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:1990年建造的桥",
+          "answer": "a bridge built in 1990",
+          "note": "set up last spring 修饰 committee,表被动\"被成立的\"。",
+          "point": "过去分词短语 set up 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "An artist willing to work there will receive a small reward.",
+      "translation": "愿意在那里工作的艺术家将获得一小笔报酬。",
+      "chunks": [
+        {
+          "label": "定语(形容词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "An artist willing to work there"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "will receive a small reward",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will receive"
+            },
+            {
+              "role": "宾语",
+              "text": "a small reward"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "形容词短语 willing to work there 作后置定语",
+          "note": "willing to... 修饰 artist,相当于 who is willing to...。",
+          "example": "a student eager to learn",
+          "exampleCn": "一个渴望学习的学生"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "An artist willing to work there",
+          "name": "形容词短语 willing to work there 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一个渴望学习的学生",
+          "answer": "a student eager to learn",
+          "note": "willing to... 修饰 artist,相当于 who is willing to...。",
+          "point": "形容词短语 willing to work there 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "Some doubt the plan; they call the district a memorable part of the city heritage.",
+      "translation": "一些人质疑这个计划;他们称该区为这座城市遗产中难忘的一部分。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Some doubt the plan",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some"
+            },
+            {
+              "role": "谓语",
+              "text": "doubt"
+            },
+            {
+              "role": "宾语",
+              "text": "the plan"
+            }
+          ]
+        },
+        {
+          "label": "主干(主谓宾宾补)",
+          "color": "#a8dab5",
+          "text": "they call the district a memorable part of the city heritage",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "they"
+            },
+            {
+              "role": "谓语",
+              "text": "call"
+            },
+            {
+              "role": "宾语",
+              "text": "the district"
+            },
+            {
+              "role": "宾补",
+              "text": "a memorable part of the city heritage"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "call + 宾语 + 宾补",
+          "note": "call A B 意为\"把A称为B\"。",
+          "example": "They call him a hero.",
+          "exampleCn": "他们称他为英雄。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "they call the district a memorable part of the city heritage",
+          "name": "call + 宾语 + 宾补"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他们称他为英雄。",
+          "answer": "They call him a hero.",
+          "note": "call A B 意为\"把A称为B\"。",
+          "point": "call + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "The disappearance of such a district, they say, may signal the loss of urban vitality.",
+      "translation": "他们说,这样一个区的消失,可能预示着城市活力的丧失。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The disappearance of such a district"
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "they say"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "may signal the loss of urban vitality",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "may signal"
+            },
+            {
+              "role": "宾语",
+              "text": "the loss of urban vitality"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 they say",
+          "note": "they say 插在句中,意为\"他们说\"。",
+          "example": "The plan, they say, is too slow.",
+          "exampleCn": "他们说,这个计划太慢了。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "may signal the loss of urban vitality",
+          "name": "插入语 they say"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他们说,这个计划太慢了。",
+          "answer": "The plan, they say, is too slow.",
+          "note": "they say 插在句中,意为\"他们说\"。",
+          "point": "插入语 they say"
+        }
+      ]
+    },
+    {
+      "text": "In the negotiation, each side will weigh the commercial value against the historical value.",
+      "translation": "在谈判中,双方将权衡商业价值与历史价值。",
+      "chunks": [
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "In the negotiation"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each side will weigh the commercial value",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each side"
+            },
+            {
+              "role": "谓语",
+              "text": "will weigh"
+            },
+            {
+              "role": "宾语",
+              "text": "the commercial value"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "against the historical value"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "weigh A against B",
+          "note": "weigh...against... 意为\"权衡A与B\"。",
+          "example": "Weigh the risk against the gain.",
+          "exampleCn": "权衡风险与收益。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "each side will weigh the commercial value",
+          "name": "weigh A against B"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:权衡风险与收益。",
+          "answer": "Weigh the risk against the gain.",
+          "note": "weigh...against... 意为\"权衡A与B\"。",
+          "point": "weigh A against B"
+        }
+      ]
+    },
+    {
+      "text": "It is an irony that the old factory, once the heart of the town, will exist only in a photo.",
+      "translation": "颇具讽刺意味的是,这座曾是全镇心脏的老工厂,将只存在于照片之中。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It is an irony",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "an irony"
+            }
+          ]
+        },
+        {
+          "label": "主语从句(真正主语)",
+          "color": "#c8a5e0",
+          "text": "that the old factory"
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "once the heart of the town"
+        },
+        {
+          "label": "主语从句(谓语部分)",
+          "color": "#c8a5e0",
+          "text": "will exist only in a photo"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "it 形式主语 + that 从句",
+          "note": "it 作形式主语,that 从句是真正的主语。",
+          "example": "It is a pity that he left.",
+          "exampleCn": "他走了,真可惜。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "once the heart of the town",
+          "name": "it 形式主语 + that 从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他走了,真可惜。",
+          "answer": "It is a pity that he left.",
+          "note": "it 作形式主语,that 从句是真正的主语。",
+          "point": "it 形式主语 + that 从句"
+        }
+      ]
+    },
+    {
+      "text": "The proximity of the new park will bring fresh life to the whole area.",
+      "translation": "新公园的邻近将给整个地区带来新的生机。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The proximity of the new park"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will bring fresh life",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will bring"
+            },
+            {
+              "role": "宾语",
+              "text": "fresh life"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "to the whole area"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "bring...to...",
+          "note": "bring A to B 意为\"把A带给B\"。",
+          "example": "The plan will bring hope to the city.",
+          "exampleCn": "这个计划将给城市带来希望。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The proximity of the new park",
+          "name": "bring...to..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这个计划将给城市带来希望。",
+          "answer": "The plan will bring hope to the city.",
+          "note": "bring A to B 意为\"把A带给B\"。",
+          "point": "bring...to..."
+        }
+      ]
+    },
+    {
+      "text": "The imminent danger is not the loss of money but the loss of public memory.",
+      "translation": "迫在眉睫的危险不是金钱的损失,而是公共记忆的丧失。",
+      "chunks": [
+        {
+          "label": "主干(主系表前半)",
+          "color": "#a8dab5",
+          "text": "The imminent danger is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The imminent danger"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语(not...but...结构)",
+          "color": "#9fd8e8",
+          "text": "not the loss of money but the loss of public memory"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "not...but... 结构",
+          "note": "不是……而是……,强调后者。",
+          "example": "It is not a joke but a warning.",
+          "exampleCn": "这不是玩笑,而是警告。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "not the loss of money but the loss of public memory",
+          "name": "not...but... 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这不是玩笑,而是警告。",
+          "answer": "It is not a joke but a warning.",
+          "note": "不是……而是……,强调后者。",
+          "point": "not...but... 结构"
+        }
+      ]
+    },
+    {
+      "text": "A judicial decision will end the dispute between them.",
+      "translation": "一项司法裁决将结束他们之间的争端。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A judicial decision will end the dispute",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A judicial decision"
+            },
+            {
+              "role": "谓语",
+              "text": "will end"
+            },
+            {
+              "role": "宾语",
+              "text": "the dispute"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "between them"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语 between them 作后置定语",
+          "note": "between them 修饰 dispute。",
+          "example": "the gap between them",
+          "exampleCn": "他们之间的隔阂"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "A judicial decision will end the dispute",
+          "name": "介词短语 between them 作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他们之间的隔阂",
+          "answer": "the gap between them",
+          "note": "between them 修饰 dispute。",
+          "point": "介词短语 between them 作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The legislator will propose a new law to protect the old quarter.",
+      "translation": "立法者将提出一项新法律来保护老城区。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The legislator will propose a new law",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The legislator"
+            },
+            {
+              "role": "谓语",
+              "text": "will propose"
+            },
+            {
+              "role": "宾语",
+              "text": "a new law"
+            }
+          ]
+        },
+        {
+          "label": "定语(不定式作后置定语)",
+          "color": "#f4a8b8",
+          "text": "to protect the old quarter"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作后置定语",
+          "note": "to protect the old quarter 修饰 law,说明目的。",
+          "example": "a tool to cut paper",
+          "exampleCn": "裁纸的工具"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The legislator will propose a new law",
+          "name": "不定式作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:裁纸的工具",
+          "answer": "a tool to cut paper",
+          "note": "to protect the old quarter 修饰 law,说明目的。",
+          "point": "不定式作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "The imbalance of power will only weaken the old neighborhood.",
+      "translation": "权力的不平衡只会削弱这个老街区。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The imbalance of power"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will only weaken the old neighborhood",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will only weaken"
+            },
+            {
+              "role": "宾语",
+              "text": "the old neighborhood"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 only 强调",
+          "note": "only 修饰谓语,意为\"只会\"。",
+          "example": "This will only make it worse.",
+          "exampleCn": "这只会让情况更糟。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "will only weaken the old neighborhood",
+          "name": "副词 only 强调"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这只会让情况更糟。",
+          "answer": "This will only make it worse.",
+          "note": "only 修饰谓语,意为\"只会\"。",
+          "point": "副词 only 强调"
+        }
+      ]
+    },
+    {
+      "text": "Every misfortune of the past will become a lesson for the future.",
+      "translation": "过去的每一次不幸都将成为未来的教训。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "Every misfortune of the past"
+        },
+        {
+          "label": "主干(谓语+表语)",
+          "color": "#a8dab5",
+          "text": "will become a lesson",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will become"
+            },
+            {
+              "role": "表语",
+              "text": "a lesson"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "for the future"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "become + 表语",
+          "note": "become 是系动词,后接名词作表语。",
+          "example": "The pain became a strength.",
+          "exampleCn": "痛苦变成了力量。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "Every misfortune of the past",
+          "name": "become + 表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:痛苦变成了力量。",
+          "answer": "The pain became a strength.",
+          "note": "become 是系动词,后接名词作表语。",
+          "point": "become + 表语"
+        }
+      ]
+    },
+    {
+      "text": "The milestone of this city will be the day the new park will open.",
+      "translation": "这座城市的里程碑,将是新公园开放的那一天。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The milestone of this city"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "will be the day",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "the day"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(省略关系词)",
+          "color": "#c8a5e0",
+          "text": "the new park will open"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句省略关系词",
+          "note": "the day 后省略了 when/on which,定语从句修饰 the day。",
+          "example": "the year he was born",
+          "exampleCn": "他出生的那一年"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u3",
+          "phrase": "The milestone of this city",
+          "name": "定语从句省略关系词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他出生的那一年",
+          "answer": "the year he was born",
+          "note": "the day 后省略了 when/on which,定语从句修饰 the day。",
+          "point": "定语从句省略关系词"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u3",
+      "name": "现在分词 exciting 作定语",
+      "note": "exciting 修饰 news,意为\"令人振奋的\"。",
+      "sourceExample": "The exciting news is that the municipal council will approve a plan to rebuild the old factory district.",
+      "sourceExampleCn": "令人振奋的消息是,市政委员会将批准一项重建老厂区的计划。"
+    },
+    {
+      "grammarId": "g-s3u3",
+      "name": "不定式 to rebuild 作后置定语",
+      "note": "to rebuild the old factory district 修饰 plan。",
+      "sourceExample": "The exciting news is that the municipal council will approve a plan to rebuild the old factory district.",
+      "sourceExampleCn": "令人振奋的消息是,市政委员会将批准一项重建老厂区的计划。"
+    },
+    {
+      "grammarId": "g-s3u3",
+      "name": "不定式 to protect 作后置定语",
+      "note": "不定式修饰 proposal,说明内容。",
+      "sourceExample": "The proposal to protect every historic building will win wide support.",
+      "sourceExampleCn": "保护每座历史建筑的建议将获得广泛支持。"
+    },
+    {
+      "grammarId": "g-s3u3",
+      "name": "介词短语 for the project 作后置定语",
+      "note": "for the project 修饰 money,说明用途。",
+      "sourceExample": "The money for the project will come from the public budget, so the cost is under careful review.",
+      "sourceExampleCn": "项目资金将来自公共预算,因此成本正受到仔细审查。"
+    },
+    {
+      "grammarId": "g-s3u3",
+      "name": "so 表结果",
+      "note": "so 连接结果,意为\"因此\"。",
+      "sourceExample": "The money for the project will come from the public budget, so the cost is under careful review.",
+      "sourceExampleCn": "项目资金将来自公共预算,因此成本正受到仔细审查。"
+    }
+  ]
+}

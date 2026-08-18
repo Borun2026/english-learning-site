@@ -1,0 +1,188 @@
+{
+  "id": "d-s3u2",
+  "stage": 3,
+  "unitId": "s3u2",
+  "scene": "懊悔与愿望",
+  "goal": "向朋友倾诉后悔的事并获得安慰与建议",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "朋友 Mia",
+      "line": "You look upset these days, and I wish you would not hide your feelings from me. We have known each other for years.",
+      "lineCn": "你最近看起来很沮丧,我希望你不要把心事瞒着我。我们认识这么多年了。",
+      "grammar": [
+        { "name": "wish+would 表愿望", "note": "I wish you would not... 表示希望对方现在/将来不要做某事,语气委婉恳切。" }
+      ],
+      "options": [
+        { "text": "I wish I had studied harder in my first year. My grade in advanced mathematics is a real disappointment.", "textCn": "我真希望大一那年学习更努力。我的高等数学成绩实在令人失望。", "feedback": "敞开心扉,说出真实烦恼。", "next": "n2" },
+        { "text": "Nothing is wrong. I wish you would stop worrying about me.", "textCn": "没什么事。我希望你别再为我操心了。", "feedback": "否认有烦恼,但 Mia 看得出你在掩饰。", "next": "n3" },
+        { "text": "To be honest, I wish I had never taken that part-time job last semester.", "textCn": "说实话,我真希望上学期从没做那份兼职。", "feedback": "坦诚说出后悔之事,对话深入。", "next": "n2" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "朋友 Mia",
+      "line": "I see. It sounds as if you regret that decision deeply. If only you could change the past, what would you do differently?",
+      "lineCn": "我明白了。听起来你对那个决定非常后悔。要是你能改变过去,你会怎么做呢?",
+      "grammar": [
+        { "name": "If only+虚拟语气", "note": "If only you could change the past 用 could 表与现在事实相反的愿望,后句用 would 呼应。" }
+      ],
+      "options": [
+        { "text": "If I had spent those evenings reviewing instead of working, my average would be much higher now.", "textCn": "如果我把那些晚上用来复习而不是打工,我的平均分现在会高得多。", "feedback": "反思具体且深刻,倾诉继续。", "next": "n4" },
+        { "text": "I wish I could just forget the whole thing, but I simply cannot.", "textCn": "我希望自己能把这事忘掉,但就是忘不了。", "feedback": "情绪真实,朋友会继续安慰。", "next": "n4" },
+        { "text": "It does not matter now. I wish everyone would stop reminding me of it.", "textCn": "现在无所谓了。我希望大家别再提起它。", "feedback": "拒绝深入,情绪仍有心结。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "朋友 Mia",
+      "line": "I know you are not telling me the truth. If only you trusted me as much as you trust strangers online.",
+      "lineCn": "我知道你没说实话。要是你信任我能像信任网上的陌生人那样就好了。",
+      "grammar": [
+        { "name": "If only+过去式", "note": "If only you trusted me 用过去式表示与现在相反的强烈愿望,语带责备与心疼。" }
+      ],
+      "options": [
+        { "text": "You are right, I am sorry. I wish I had told you this earlier.", "textCn": "你说得对,对不起。我真希望早点告诉你。", "feedback": "真诚道歉,重新敞开心扉。", "next": "n2" },
+        { "text": "Fine, but I wish you would not lecture me like my parents do.", "textCn": "好吧,但我希望你别像父母那样说教我。", "feedback": "虽抱怨但愿意继续谈。", "next": "n4" },
+        { "text": "If I told you, you would only worry more. That is why I stayed silent.", "textCn": "如果我告诉你,你只会更担心。所以我一直没说。", "feedback": "善意的隐瞒,朋友会引导你放下顾虑。", "next": "n5" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "朋友 Mia",
+      "line": "Regretting the past is natural. What matters is what you do next. If you wish to recover your grades, we can work out a plan together.",
+      "lineCn": "后悔过去很正常。重要的是接下来怎么做。如果你希望挽回成绩,我们可以一起制定计划。",
+      "grammar": [
+        { "name": "wish to do+名词性从句", "note": "What matters is what you do next 中 what 引导主语从句和表语从句,表意清晰正式。" }
+      ],
+      "options": [
+        { "text": "I wish I could catch up with the top students, but I know it takes time.", "textCn": "我希望自己能赶上前面的同学,但我知道这需要时间。", "feedback": "目标现实,愿意接受帮助。", "next": "n4b" },
+        { "text": "I wish the semester would just restart so that I could do everything over.", "textCn": "我真希望这学期重新开始,那样我就能把一切重做一遍。", "feedback": "愿望不切实际,但说出了心声。", "next": "n4b" },
+        { "text": "I am too discouraged to try again. I wish you would understand that.", "textCn": "我太灰心了,不想再试。希望你能理解。", "feedback": "情绪低落,需要更多安慰。", "next": "n7" }
+      ]
+    },
+    "n4b": {
+      "id": "n4b",
+      "speaker": "朋友 Mia",
+      "line": "That is the right attitude. I wish every student realised that setbacks are only temporary, not permanent defeats.",
+      "lineCn": "这才是正确的态度。我希望每个学生都能明白,挫折只是暂时的,不是永远的失败。",
+      "grammar": [
+        { "name": "wish+过去式表现在愿望", "note": "I wish every student realised... 用过去式表示与现在事实相反的愿望,is only 比 it 更委婉。" }
+      ],
+      "options": [
+        { "text": "Mathematics, definitely. If I could understand integrals, everything else would fall into place.", "textCn": "数学,肯定是数学。如果我能理解积分,其他一切就都顺了。", "feedback": "问题具体,便于制定对策。", "next": "n6" },
+        { "text": "English writing. If I had practised composing essays weekly, my score would not have sunk so low.", "textCn": "英语写作。如果我每周都练习写作文,分数就不会跌得这么惨。", "feedback": "反思到位,朋友给予肯定。", "next": "n6" },
+        { "text": "I wish I could skip all of them and just graduate.", "textCn": "我真希望可以跳过所有科目直接毕业。", "feedback": "逃避心态,朋友会温和纠正。", "next": "n7" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "朋友 Mia",
+      "line": "Keeping it all inside will only make it worse. If I were you, I would open up and get the burden off my chest.",
+      "lineCn": "把心事都憋在心里只会更糟。如果我是你,就会说出来,把心里的负担卸掉。",
+      "grammar": [
+        { "name": "If I were you 虚拟条件句", "note": "对现在情况的虚拟假设,be 一律用 were,主句用 would+动词,是劝说的经典句式。" }
+      ],
+      "options": [
+        { "text": "I wish I had your courage. Okay, I will tell you everything.", "textCn": "我真希望有你这样的勇气。好吧,我把一切都告诉你。", "feedback": "鼓起勇气,彻底敞开心扉。", "next": "n4" },
+        { "text": "If I were you, I would keep my mouth shut too. Silence is safer.", "textCn": "如果我是你,我也不会开口。沉默更安全。", "feedback": "拒绝帮助,朋友会很失望。", "next": "fail1" },
+        { "text": "Fine, I will open up a little. I wish I had studied harder last year.", "textCn": "好吧,我透露一点。我真希望去年学习更努力。", "feedback": "愿意开口,对话继续。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "朋友 Mia",
+      "line": "That is a healthier way of thinking. Remember, if you had never failed, you would never have learned to value your time.",
+      "lineCn": "这是更健康的想法。记住,如果你从未失败过,就永远不会学会珍惜时间。",
+      "grammar": [
+        { "name": "虚拟条件句(过去)", "note": "if 从句用过去完成时 had never failed,主句用 would never have learned,表示与过去事实相反。" }
+      ],
+      "options": [
+        { "text": "I suppose you are right. I wish I had realised that earlier, but I will not repeat the mistake.", "textCn": "我想你是对的。我希望自己早一点明白,但我不会再犯同样的错。", "feedback": "从后悔转向行动,心态好转。", "next": "n6b" },
+        { "text": "Easy for you to say. I wish you had gone through what I have been through.", "textCn": "你说得轻巧。我希望你也经历过我所经历的一切。", "feedback": "语气带刺,朋友会以同理心回应。", "next": "n7" },
+        { "text": "I understand that now, though I wish the lesson had been less painful.", "textCn": "我现在懂了,尽管我希望这个教训没那么痛苦。", "feedback": "成熟地接受教训,继续前行。", "next": "n6b" }
+      ]
+    },
+    "n6b": {
+      "id": "n6b",
+      "speaker": "朋友 Mia",
+      "line": "Good. Now that the target is clear, let us break it into small steps. If you improved a little every day, would you feel more hopeful?",
+      "lineCn": "好。既然目标明确了,我们就把它拆成小步骤。如果你每天进步一点,会不会更有希望?",
+      "grammar": [
+        { "name": "虚拟语气表委婉建议", "note": "If you improved... would you feel... 用过去式+would 构成委婉假设,比直白建议更客气。" }
+      ],
+      "options": [
+        { "text": "Yes, I believe I would. If I fixed one weak point each week, the mountain would soon shrink to a hill.", "textCn": "是的,我想我会的。如果我每周攻克一个弱点,大山很快就会变成小山。", "feedback": "重拾信心,准备行动。", "next": "n8" },
+        { "text": "I wish improvement came as fast as I wish for it.", "textCn": "我真希望进步来得和我期盼的一样快。", "feedback": "情绪真实,朋友会继续鼓励。", "next": "n8" },
+        { "text": "No, I would still feel hopeless. I wish you would stop raising my hopes.", "textCn": "不,我依然觉得没希望。我希望你别再给我希望。", "feedback": "拒绝振作,朋友耐心疏导。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "朋友 Mia",
+      "line": "I have made my share of mistakes too, and I wish I had someone to comfort me back then. Let me be that person for you.",
+      "lineCn": "我也犯过不少错,那时真希望有人安慰我。让我来做那个安慰你的人吧。",
+      "grammar": [
+        { "name": "wish+过去完成表过去遗憾", "note": "I wish I had someone to comfort me back then 表示对过去情况的遗憾,back then 限定时间。" }
+      ],
+      "options": [
+        { "text": "Thank you, that means a lot. I wish I had met you years ago.", "textCn": "谢谢你,这对我意义重大。我真希望几年前就认识你。", "feedback": "感受友情,情绪回暖。", "next": "n8" },
+        { "text": "Pity talk is useless. I wish people would simply leave me alone.", "textCn": "说这些同情的话没用。我希望大家干脆别理我。", "feedback": "拒绝所有善意,朋友失望离开。", "next": "fail1" },
+        { "text": "I am grateful, though I wish I did not need comforting at all.", "textCn": "我很感激,虽然我希望自己根本不需要安慰。", "feedback": "坦诚中带着自责,对话继续。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "朋友 Mia",
+      "line": "Now that you feel lighter, let us look forward. If you could redesign your study plan, what would you change first?",
+      "lineCn": "既然你轻松些了,我们往前看。如果你能重新设计学习计划,你会先改变什么?",
+      "grammar": [
+        { "name": "虚拟条件句(将来)", "note": "If you could redesign... what would you change 用 could+would 表示对将来情况的假设性询问。" }
+      ],
+      "options": [
+        { "text": "I would set aside two hours for mathematics every day, and I wish I had done so from day one.", "textCn": "我会每天留两小时学数学,而且我真希望第一天就这么做。", "feedback": "决心明确,朋友为之高兴。", "next": "n9" },
+        { "text": "I would probably give up mathematics and take an easier course instead.", "textCn": "我可能会放弃数学,改选一门更容易的课。", "feedback": "选择务实路线,同样向前看。", "next": "n9" },
+        { "text": "I wish I could simply avoid making any decisions at all.", "textCn": "我真希望自己根本不用做任何决定。", "feedback": "仍在逃避,朋友会再次提醒。", "next": "fail2" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "朋友 Mia",
+      "line": "See? You already know the answer. The past is fixed, but the future is still yours to shape. I wish you the very best.",
+      "lineCn": "看吧?你其实早就知道答案。过去已经定格,未来仍由你塑造。我祝你一切顺利。",
+      "grammar": [
+        { "name": "wish 表祝愿", "note": "I wish you the very best 是 wish+双宾语的祝愿句式,正式而真诚。" }
+      ],
+      "options": [
+        { "text": "Thank you. I wish we had had this conversation months ago, but better late than never.", "textCn": "谢谢你。我真希望这场对话发生在几个月前,但亡羊补牢,为时未晚。", "feedback": "从后悔转向释然,走向新生。", "next": "success" },
+        { "text": "I still feel I will never catch up. I wish I had your confidence.", "textCn": "我还是觉得自己永远赶不上。真希望有你那样的自信。", "feedback": "信心仍不足,朋友会再次鼓励。", "next": "n8" },
+        { "text": "Enough comfort; I wish my grades would rise on their own. Goodbye.", "textCn": "安慰到此为止吧。我真希望成绩自己会涨上去。再见。", "feedback": "消极拒绝,朋友无奈离开。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "朋友 Mia",
+      "line": "Then stand up and start today. I wish you every success, and I will be right beside you.",
+      "lineCn": "那就站起来,从今天开始。我祝你一切顺利,而且我会一直陪在你身边。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "朋友 Mia",
+      "line": "I am sorry you feel that way. I wish you would come to me when you are ready to talk.",
+      "lineCn": "你那样想我很遗憾。希望你愿意谈的时候能来找我。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "朋友 Mia",
+      "line": "Avoiding decisions will only postpone the pain. I wish you would take your future more seriously.",
+      "lineCn": "逃避决定只会推迟痛苦。我希望你更认真地对待自己的未来。",
+      "end": true,
+      "success": false
+    }
+  }
+}

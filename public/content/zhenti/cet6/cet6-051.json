@@ -1,0 +1,64 @@
+{
+ "id": "cet6-051",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年12月 · 2020年12月英语六级真题(第2套) Passage 1",
+ "title": "Vegetarians would prefer not to �be compelled to eat meat",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 448,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Vegetarians would prefer not to �be compelled to eat meat. Yet the reverse compulsion (it) is hidden in the proposals for a new plant-based \"planetary diet.\" Nowhere is this more visible than in India.",
+  "Earlier this year, the EAT-Lancet Commission released its global report on nutrition and called for a global shift to a more plant-based diet and for \"substantially reducing consumption of animal source foods.\" In countries like India, that call could become a tool to aggravate an already tense political situation and stress already undernourished populations.",
+  "The EA:T report presumes that \"traditional diets\" in countries like India include little red meat, which might be consumed only on special occasions or as minor ingredients in mixed dishes.",
+  "In India, however, there is a vast difference between what people would wish to consume and what they have to consume because of innumerable barriers around class, relig_ion, culture, cost, geogrphy, etc. Policymakers in India have traditionally pushed for a cereal-heavy \"vegetarian diet\" on a meat-eating population as a way of providing the cheapest sources of food.",
+  "Currently, under an aggressive Hindu nationalist government, Muslims, Christians, disadvantaged classes and indigenous communitis are being compelled to give up their traditional foods.",
+  ". . None of these concerns seem to have been appreciated by the EAT-Lancet Commissicm's representative, Brent Loken, who said \"India has got such a great example\" in sourcing protein from plants.",
+  "But how much of a model for the world is India's vegetarianism? In the Global Hunger Index 2019, the country ranks 102nd out of 117. Data from the National Family Health Survey indicate that only 10 percent of infants of 6 to 23 months are adequately fed.",
+  "Which is why calls for a plant-based diet modeled on India risk offering another whip with which to beat already vulnerable communities in developing countries.",
+  "A diet directed at the affluent West fails to recognize that in low-income countries undernourished children are known to benefit from the consumption of milk and other animal source foods, improving cognitive functions, while reducing the prevalence of nutritional deficiencies as well as mortality. � EAT-Lancet claimed its intention was to \"spark conversations\" among all Indian stakeholders. Yet vocal critics of the food processing industry and food fortification strategies have been left out of the debate; But the most conspicuous omission may well be the absence of India's farmers.",
+  "The government, however, seems to have given the report a thumbs-up. Rather than addressing chronic hunger and malnutrition through an improved access to wholesome and nutrient-dense foods, the government is opening the door for company-dependent solutions, ignoring the environmental and economic cost, which will destroy local food systems. It's a model full of danger for future generations."
+ ],
+ "questions": [
+  {
+   "q": "文中 “future” 最接近的意思是?",
+   "options": [
+    "差异",
+    "未来",
+    "政治的",
+    "环境的，环境产生的"
+   ],
+   "answer": 1,
+   "analysis": "“future” 意为「未来」。原文语境:It's a model full of danger for future generations.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:In the Global Hunger ___ 2019, the country ranks 102nd out of 117.",
+   "options": [
+    "model",
+    "situation",
+    "Index",
+    "example"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“In the Global Hunger Index 2019, the country ranks 102nd out of 117.”。空格处应填入 “Index”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Many oppose workplace surveillance, because of the inherent dehumanizing effe",
+    "Vegetarians would prefer not to be compelled to eat meat",
+    "These days, nobody needs to cook",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is"
+   ],
+   "answer": 1,
+   "analysis": "本文以“Vegetarians would prefer not to �be compelled to eat meat.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

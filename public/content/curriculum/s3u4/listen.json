@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u4",
+  "stage": 3,
+  "unitId": "s3u4",
+  "title": "听力挑战 · 讲述奋斗故事",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "How did you manage to finish the long race yesterday?",
+      "lineCn": "昨天你是怎么坚持跑完全程的?",
+      "grammar": [
+        { "name": "动名词短语作主语", "note": "Working hard every day 是动名词短语作主语,谓语动词用单数。" }
+      ],
+      "options": [
+        { "text": "Working hard every day helped me keep going.", "correct": true, "feedback": "动名词短语作主语,说明坚持的原因。" },
+        { "text": "Work hard and you will win.", "correct": false, "feedback": "祈使句在给别人建议,没有回答自己的方法。" },
+        { "text": "I finished the race last year.", "correct": false, "feedback": "重复已知信息,没有解释坚持的原因。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "What made you start your own small business back then?",
+      "lineCn": "当年是什么促使你创办自己的小生意?",
+      "grammar": [
+        { "name": "分词作状语表原因", "note": "Seeing... 现在分词短语作状语,说明原因,相当于 Because I saw..." }
+      ],
+      "options": [
+        { "text": "Seeing my parents struggle, I decided to act.", "correct": true, "feedback": "分词短语作原因状语,逻辑清晰。" },
+        { "text": "My business is growing very fast.", "correct": false, "feedback": "谈发展结果,没有回答创业动机。" },
+        { "text": "I will start a new business next year.", "correct": false, "feedback": "将来时谈新计划,答非所问。" }
+      ]
+    },
+    {
+      "speaker": "朋友",
+      "line": "How did you feel when you finally succeeded in the end?",
+      "lineCn": "你最终成功的时候是什么感受?",
+      "grammar": [
+        { "name": "分词作状语表伴随", "note": "Being praised 分词短语表示伴随情况,补充说明成功时的情境。" }
+      ],
+      "options": [
+        { "text": "Being praised by the team, I felt truly proud.", "correct": true, "feedback": "分词短语作伴随状语,描述感受自然贴切。" },
+        { "text": "I feel tired every morning.", "correct": false, "feedback": "一般现在时谈日常状态,与成功时刻无关。" },
+        { "text": "Success is hard to define.", "correct": false, "feedback": "抽象议论,没有描述自己的感受。" }
+      ]
+    }
+  ]
+}

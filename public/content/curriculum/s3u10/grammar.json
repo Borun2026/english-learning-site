@@ -1,0 +1,24 @@
+{
+  "id": "g-s3u10",
+  "stage": 3,
+  "title": "短语动词",
+  "explanation": "## 短语动词:动词 + 介词/副词\n\n短语动词由动词加一个小品词(介词或副词)构成,整体意思往往不能从字面猜出。它是六级完形与翻译的高频考点。\n\n## 常见类型\n\n1. **动词 + 介词**(后必接宾语):look after(照顾), depend on(依靠), deal with(处理)。\n2. **动词 + 副词**(可分可合):turn on/off, put on, give up。宾语是代词时**必须放中间**:turn it on, give it up,不能说 turn on it。\n3. **动词 + 副词 + 介词**:look forward to(期待), come up with(想出), put up with(忍受)。注意 look forward to 后接 doing。\n4. **动词 + 介词 + 名词**:take care of(照顾), pay attention to(注意)。\n\n## 一词多义\n\nget 类短语:get up(起床), get over(克服), get along with(相处), get rid of(摆脱), get through(通过)。take 类:take off(起飞/脱下), take up(占据/从事), take over(接管), take after(像)。\n\n## 学习策略\n\n1. 按动词归类记忆,一组一组背。\n2. 关注及物性:介词短语后必接宾语,副词短语宾语可前可后。\n3. 完形中注意动词与介词搭配的固定性:prevent...from, spend...on, accuse...of。",
+  "examples": [
+    { "en": "Please turn off the lights when you leave.", "cn": "离开时请关灯。", "note": "turn off 是\"动词+副词\",宾语 the lights 可放中间。" },
+    { "en": "This problem is hard to deal with.", "cn": "这个问题很难处理。", "note": "deal with 是\"动词+介词\",必须连在一起后接宾语。" },
+    { "en": "I am looking forward to meeting you soon.", "cn": "我期待着早日见到你。", "note": "look forward to 中的 to 是介词,后接 doing。" },
+    { "en": "It took him years to get over the failure.", "cn": "他花了好几年才从失败中走出来。", "note": "get over 表示\"克服,从……恢复\"。" }
+  ],
+  "errors": [
+    { "wrong": "Please turn on it.", "right": "Please turn it on.", "note": "代词宾语必须放在\"动词+副词\"中间。" },
+    { "wrong": "I look forward to hear from you.", "right": "I look forward to hearing from you.", "note": "to 是介词,后接动名词 hearing。" },
+    { "wrong": "She takes after of her mother.", "right": "She takes after her mother.", "note": "take after(像)是\"动词+介词\"结构,不加 of。" }
+  ],
+  "quiz": [
+    { "q": "Can you ___ this new word in the dictionary?", "options": ["look up", "look after", "look forward to", "look down on"], "answer": 0, "note": "look up 表示\"查阅\"。" },
+    { "q": "We have to ___ the bad weather.", "options": ["put up with", "put on", "put off", "put out"], "answer": 0, "note": "put up with 表示\"忍受\"。" },
+    { "q": "The plane will ___ at 9 a.m.", "options": ["take off", "take up", "take over", "take after"], "answer": 0, "note": "take off 表示\"起飞\"。" },
+    { "q": "He ___ the meeting because he was ill.", "options": ["put off", "put up", "put down", "put out"], "answer": 0, "note": "put off 表示\"推迟\"。" },
+    { "q": "I can't ___ what he means.", "options": ["figure out", "figure in", "figure for", "figure on"], "answer": 0, "note": "figure out 表示\"弄明白\"。" }
+  ]
+}

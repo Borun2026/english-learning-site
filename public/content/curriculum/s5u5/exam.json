@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u5",
+  "stage": 5,
+  "unitId": "s5u5",
+  "title": "真题演练 · 学术词汇搭配",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 学术词汇搭配。",
+  "questions": [
+    {
+      "q": "\"开展研究\"的正确搭配是?",
+      "options": [
+        "do research",
+        "conduct research",
+        "make research",
+        "research do"
+      ],
+      "answer": 1,
+      "analysis": "conduct/carry out research 是标准搭配。",
+      "point": "g-s5u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"得出结论\"的正确表达是?",
+      "options": [
+        "make a conclusion",
+        "draw a conclusion",
+        "get a conclusion",
+        "conclusion draw"
+      ],
+      "answer": 1,
+      "analysis": "draw/reach a conclusion 是固定搭配。",
+      "point": "g-s5u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "play a vital ___ in modern society 中应填?",
+      "options": [
+        "role",
+        "part of",
+        "place",
+        "position"
+      ],
+      "answer": 0,
+      "analysis": "play a vital role in 表\"起重要作用\"。",
+      "point": "g-s5u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"对……担忧\"的正确搭配是?",
+      "options": [
+        "concerned at",
+        "concerned about",
+        "concerned for to",
+        "concerned of"
+      ],
+      "answer": 1,
+      "analysis": "be concerned about 是固定搭配。",
+      "point": "g-s5u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The proposal is ___ accepted by the public.",
+      "options": [
+        "wide",
+        "widely",
+        "wider",
+        "width"
+      ],
+      "answer": 1,
+      "analysis": "副词 widely 修饰过去分词 accepted。",
+      "point": "g-s5u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I need to do a research on this topic.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I need to conduct research on this topic.。research 与 conduct/carry out 搭配,不用 do。",
+      "point": "g-s5u5",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

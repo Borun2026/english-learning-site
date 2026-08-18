@@ -1,0 +1,1127 @@
+{
+  "id": "a-s3u5",
+  "stage": 3,
+  "unitId": "s3u5",
+  "title": "What Education Should Teach",
+  "newWords": [
+    "severity",
+    "shrewd",
+    "skeptical",
+    "subtle",
+    "subsidy",
+    "urbanization",
+    "unethical",
+    "unprecedented",
+    "legitimate",
+    "unrealistic",
+    "vulnerable",
+    "allege",
+    "workload",
+    "discreet",
+    "tolerant",
+    "underlying",
+    "signify"
+  ],
+  "sentences": [
+    {
+      "text": "What we need most is not a high score but a deep habit of thought.",
+      "translation": "我们最需要的不是高分,而是深沉的思维习惯。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "What we need most"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is not a high score but a deep habit of thought",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a high score but a deep habit of thought"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "what 引导主语从句",
+          "note": "what we need most 作主语,意为\"我们最需要的\"。",
+          "example": "What you see is what you get.",
+          "exampleCn": "眼见为实。"
+        },
+        {
+          "name": "not...but... 结构",
+          "note": "不是……而是……。",
+          "example": "It is not the score but the skill.",
+          "exampleCn": "重要的不是分数,而是技能。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "is not a high score but a deep habit of thought",
+          "name": "what 引导主语从句"
+        },
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "is not a high score but a deep habit of thought",
+          "name": "not...but... 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:眼见为实。",
+          "answer": "What you see is what you get.",
+          "note": "what we need most 作主语,意为\"我们最需要的\"。",
+          "point": "what 引导主语从句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:重要的不是分数,而是技能。",
+          "answer": "It is not the score but the skill.",
+          "note": "不是……而是……。",
+          "point": "not...but... 结构"
+        }
+      ]
+    },
+    {
+      "text": "That we feel tired is not a sign that the school will fail.",
+      "translation": "我们感到疲倦并不意味着学校会失败。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "That we feel tired"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is not a sign",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a sign"
+            }
+          ]
+        },
+        {
+          "label": "定语从句(修饰 sign)",
+          "color": "#c8a5e0",
+          "text": "that the school will fail"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 引导主语从句",
+          "note": "that 从句作主语,本身无实义。",
+          "example": "That he came is true.",
+          "exampleCn": "他来了是真的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that the school will fail",
+          "name": "that 引导主语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他来了是真的。",
+          "answer": "That he came is true.",
+          "note": "that 从句作主语,本身无实义。",
+          "point": "that 引导主语从句"
+        }
+      ]
+    },
+    {
+      "text": "The reason why we argue about homework is that its purpose is not clear.",
+      "translation": "我们争论作业的原因是它的目的不明确。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The reason"
+        },
+        {
+          "label": "定语从句(why 引导)",
+          "color": "#c8a5e0",
+          "text": "why we argue about homework"
+        },
+        {
+          "label": "主干(系动词)",
+          "color": "#a8dab5",
+          "text": "is"
+        },
+        {
+          "label": "表语从句",
+          "color": "#c8a5e0",
+          "text": "that its purpose is not clear"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "why 定语从句",
+          "note": "why we argue about homework 修饰 the reason。",
+          "example": "the reason why he left",
+          "exampleCn": "他离开的原因"
+        },
+        {
+          "name": "that 表语从句",
+          "note": "is 后接 that 从句作表语。",
+          "example": "The point is that it works.",
+          "exampleCn": "关键是它有效。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that its purpose is not clear",
+          "name": "why 定语从句"
+        },
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that its purpose is not clear",
+          "name": "that 表语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他离开的原因",
+          "answer": "the reason why he left",
+          "note": "why we argue about homework 修饰 the reason。",
+          "point": "why 定语从句"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:关键是它有效。",
+          "answer": "The point is that it works.",
+          "note": "is 后接 that 从句作表语。",
+          "point": "that 表语从句"
+        }
+      ]
+    },
+    {
+      "text": "Whoever will begin a new job must accept the need for continuous learning.",
+      "translation": "无论谁开始一份新工作,都必须接受持续学习的需要。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "Whoever will begin a new job"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "must accept the need for continuous learning",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "must accept"
+            },
+            {
+              "role": "宾语",
+              "text": "the need for continuous learning"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "whoever 主语从句",
+          "note": "whoever 意为\"无论谁\"。",
+          "example": "Whoever says so is wrong.",
+          "exampleCn": "无论谁这样说都是错的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "must accept the need for continuous learning",
+          "name": "whoever 主语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:无论谁这样说都是错的。",
+          "answer": "Whoever says so is wrong.",
+          "note": "whoever 意为\"无论谁\"。",
+          "point": "whoever 主语从句"
+        }
+      ]
+    },
+    {
+      "text": "It is true that curiosity is the base of real creativity.",
+      "translation": "好奇心是真正创造力的基础,这是事实。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It is true",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "true"
+            }
+          ]
+        },
+        {
+          "label": "主语从句(真正主语)",
+          "color": "#c8a5e0",
+          "text": "that curiosity is the base of real creativity"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "it 形式主语 + that 从句",
+          "note": "it 作形式主语,真正主语是 that 从句。",
+          "example": "It is clear that he is right.",
+          "exampleCn": "很明显他是对的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that curiosity is the base of real creativity",
+          "name": "it 形式主语 + that 从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:很明显他是对的。",
+          "answer": "It is clear that he is right.",
+          "note": "it 作形式主语,真正主语是 that 从句。",
+          "point": "it 形式主语 + that 从句"
+        }
+      ]
+    },
+    {
+      "text": "I believe that practice will always improve a skillful writer.",
+      "translation": "我相信练习总能提高一位熟练作家的水平。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I believe",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "believe"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that practice will always improve a skillful writer"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句",
+          "note": "believe 后接 that 宾语从句。",
+          "example": "I believe that you can do it.",
+          "exampleCn": "我相信你能做到。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that practice will always improve a skillful writer",
+          "name": "that 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我相信你能做到。",
+          "answer": "I believe that you can do it.",
+          "note": "believe 后接 that 宾语从句。",
+          "point": "that 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "Whether we can finish the course on time is still uncertain.",
+      "translation": "我们能否按时完成课程仍不确定。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "Whether we can finish the course on time"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is still uncertain",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "still uncertain"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "whether 主语从句",
+          "note": "whether 表\"是否\",引导主语从句。",
+          "example": "Whether he comes is unknown.",
+          "exampleCn": "他是否来还不知道。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "Whether we can finish the course on time",
+          "name": "whether 主语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他是否来还不知道。",
+          "answer": "Whether he comes is unknown.",
+          "note": "whether 表\"是否\",引导主语从句。",
+          "point": "whether 主语从句"
+        }
+      ]
+    },
+    {
+      "text": "The truth is that a heavy workload may hurt a young mind.",
+      "translation": "事实是,沉重的课业负担可能会伤害年轻的心灵。",
+      "chunks": [
+        {
+          "label": "主干(主系)",
+          "color": "#a8dab5",
+          "text": "The truth is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The truth"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语从句",
+          "color": "#c8a5e0",
+          "text": "that a heavy workload may hurt a young mind"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 表语从句",
+          "note": "is 后接 that 从句作表语,说明真相内容。",
+          "example": "The truth is that time is short.",
+          "exampleCn": "事实是时间很紧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that a heavy workload may hurt a young mind",
+          "name": "that 表语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:事实是时间很紧。",
+          "answer": "The truth is that time is short.",
+          "note": "is 后接 that 从句作表语,说明真相内容。",
+          "point": "that 表语从句"
+        }
+      ]
+    },
+    {
+      "text": "What the data signify will be under review for a whole week.",
+      "translation": "数据所表明的内容将接受一整周的审查。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "What the data signify"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "will be under review",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "will be"
+            },
+            {
+              "role": "表语",
+              "text": "under review"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for a whole week"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "what 主语从句",
+          "note": "what the data signify 意为\"数据所表明的\"。",
+          "example": "What he said matters.",
+          "exampleCn": "他说的很重要。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "What the data signify",
+          "name": "what 主语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他说的很重要。",
+          "answer": "What he said matters.",
+          "note": "what the data signify 意为\"数据所表明的\"。",
+          "point": "what 主语从句"
+        }
+      ]
+    },
+    {
+      "text": "Some allege that the new policy will increase the gap between rich and poor.",
+      "translation": "一些人声称,新政策将拉大贫富差距。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "Some allege",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some"
+            },
+            {
+              "role": "谓语",
+              "text": "allege"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the new policy will increase the gap between rich and poor"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句",
+          "note": "allege 意为\"声称\",后接 that 从句。",
+          "example": "He alleges that the report is false.",
+          "exampleCn": "他声称这份报告是假的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "that the new policy will increase the gap between rich and poor",
+          "name": "that 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他声称这份报告是假的。",
+          "answer": "He alleges that the report is false.",
+          "note": "allege 意为\"声称\",后接 that 从句。",
+          "point": "that 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "A tolerant school will value the underlying ability of every student.",
+      "translation": "一所宽容的学校会珍视每个学生潜在的能力。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A tolerant school will value the underlying ability",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A tolerant school"
+            },
+            {
+              "role": "谓语",
+              "text": "will value"
+            },
+            {
+              "role": "宾语",
+              "text": "the underlying ability"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "of every student"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "underlying 作定语修饰 ability,\"潜在的\"。",
+          "example": "value every voice",
+          "exampleCn": "珍视每一种声音"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "A tolerant school will value the underlying ability",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:珍视每一种声音",
+          "answer": "value every voice",
+          "note": "underlying 作定语修饰 ability,\"潜在的\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "The severity of the test will not prove the quality of the school.",
+      "translation": "考试的严苛并不能证明学校的质量。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The severity of the test will not prove the quality of the school",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The severity of the test"
+            },
+            {
+              "role": "谓语",
+              "text": "will not prove"
+            },
+            {
+              "role": "宾语",
+              "text": "the quality of the school"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "主语与宾语均为 of 短语。",
+          "example": "Success does not prove wisdom.",
+          "exampleCn": "成功并不能证明智慧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "The severity of the test will not prove the quality of the school",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:成功并不能证明智慧。",
+          "answer": "Success does not prove wisdom.",
+          "note": "主语与宾语均为 of 短语。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "A shrewd observer will stay skeptical about every claim.",
+      "translation": "精明的观察者会对每一种说法保持怀疑。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "A shrewd observer will stay skeptical",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A shrewd observer"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "will stay"
+            },
+            {
+              "role": "表语",
+              "text": "skeptical"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "about every claim"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "stay + 表语",
+          "note": "stay 作系动词,\"保持\"。",
+          "example": "Stay calm in any crisis.",
+          "exampleCn": "在任何危机中都保持冷静。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "A shrewd observer will stay skeptical",
+          "name": "stay + 表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:在任何危机中都保持冷静。",
+          "answer": "Stay calm in any crisis.",
+          "note": "stay 作系动词,\"保持\"。",
+          "point": "stay + 表语"
+        }
+      ]
+    },
+    {
+      "text": "A subtle change in the rule will make a big difference.",
+      "translation": "规则中一个细微的变化将产生巨大的不同。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "A subtle change in the rule"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will make a big difference",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will make"
+            },
+            {
+              "role": "宾语",
+              "text": "a big difference"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "make a difference",
+          "note": "意为\"产生影响\"。",
+          "example": "Small acts make a difference.",
+          "exampleCn": "小小的行动也会带来改变。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "A subtle change in the rule",
+          "name": "make a difference"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:小小的行动也会带来改变。",
+          "answer": "Small acts make a difference.",
+          "note": "意为\"产生影响\"。",
+          "point": "make a difference"
+        }
+      ]
+    },
+    {
+      "text": "The urbanization of the region will continue for a long time.",
+      "translation": "该地区的城市化将持续很长一段时间。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The urbanization of the region"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will continue"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for a long time"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "for + 时间段",
+          "note": "for a long time 表持续时长。",
+          "example": "It will last for a year.",
+          "exampleCn": "它将持续一年。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "The urbanization of the region",
+          "name": "for + 时间段"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:它将持续一年。",
+          "answer": "It will last for a year.",
+          "note": "for a long time 表持续时长。",
+          "point": "for + 时间段"
+        }
+      ]
+    },
+    {
+      "text": "An unethical method will not bring a legitimate result.",
+      "translation": "不道德的方法不会带来正当的结果。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An unethical method will not bring a legitimate result",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An unethical method"
+            },
+            {
+              "role": "谓语",
+              "text": "will not bring"
+            },
+            {
+              "role": "宾语",
+              "text": "a legitimate result"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "unethical 与 legitimate 构成意义对比。",
+          "example": "A wrong way leads to a wrong end.",
+          "exampleCn": "错误的道路通向错误的结果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "An unethical method will not bring a legitimate result",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:错误的道路通向错误的结果。",
+          "answer": "A wrong way leads to a wrong end.",
+          "note": "unethical 与 legitimate 构成意义对比。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "It is unrealistic to expect a quick answer to every question.",
+      "translation": "期望每个问题都有快速答案是不现实的。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It is unrealistic",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "unrealistic"
+            }
+          ]
+        },
+        {
+          "label": "真正主语(不定式)",
+          "color": "#c8a5e0",
+          "text": "to expect a quick answer to every question"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "it 形式主语 + 不定式",
+          "note": "it 作形式主语,to 不定式是真正主语。",
+          "example": "It is hard to say no.",
+          "exampleCn": "说不是很难的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "to expect a quick answer to every question",
+          "name": "it 形式主语 + 不定式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:说不是很难的。",
+          "answer": "It is hard to say no.",
+          "note": "it 作形式主语,to 不定式是真正主语。",
+          "point": "it 形式主语 + 不定式"
+        }
+      ]
+    },
+    {
+      "text": "The new subsidy will protect the vulnerable group in the rural area.",
+      "translation": "新的补贴将保护农村地区的弱势群体。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The new subsidy will protect the vulnerable group",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The new subsidy"
+            },
+            {
+              "role": "谓语",
+              "text": "will protect"
+            },
+            {
+              "role": "宾语",
+              "text": "the vulnerable group"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "in the rural area"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "介词短语作后置定语",
+          "note": "in the rural area 修饰 group。",
+          "example": "the people in the village",
+          "exampleCn": "村里的人们"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "The new subsidy will protect the vulnerable group",
+          "name": "介词短语作后置定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:村里的人们",
+          "answer": "the people in the village",
+          "note": "in the rural area 修饰 group。",
+          "point": "介词短语作后置定语"
+        }
+      ]
+    },
+    {
+      "text": "A discreet teacher will not expose a student in public.",
+      "translation": "谨慎的老师不会当众让学生难堪。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A discreet teacher will not expose a student",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A discreet teacher"
+            },
+            {
+              "role": "谓语",
+              "text": "will not expose"
+            },
+            {
+              "role": "宾语",
+              "text": "a student"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "in public"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "in public 短语",
+          "note": "意为\"公开地、当众\"。",
+          "example": "Do not argue in public.",
+          "exampleCn": "不要在公共场合争吵。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "A discreet teacher will not expose a student",
+          "name": "in public 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要在公共场合争吵。",
+          "answer": "Do not argue in public.",
+          "note": "意为\"公开地、当众\"。",
+          "point": "in public 短语"
+        }
+      ]
+    },
+    {
+      "text": "The unprecedented growth of the city will change the old way of life.",
+      "translation": "城市前所未有的增长将改变旧的生活方式。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The unprecedented growth of the city"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will change the old way of life",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will change"
+            },
+            {
+              "role": "宾语",
+              "text": "the old way of life"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "way of life 意为\"生活方式\"。",
+          "example": "Growth changes a city.",
+          "exampleCn": "增长改变一座城市。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u5",
+          "phrase": "The unprecedented growth of the city",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:增长改变一座城市。",
+          "answer": "Growth changes a city.",
+          "note": "way of life 意为\"生活方式\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u5",
+      "name": "what 引导主语从句",
+      "note": "what we need most 作主语,意为\"我们最需要的\"。",
+      "sourceExample": "What we need most is not a high score but a deep habit of thought.",
+      "sourceExampleCn": "我们最需要的不是高分,而是深沉的思维习惯。"
+    },
+    {
+      "grammarId": "g-s3u5",
+      "name": "not...but... 结构",
+      "note": "不是……而是……。",
+      "sourceExample": "What we need most is not a high score but a deep habit of thought.",
+      "sourceExampleCn": "我们最需要的不是高分,而是深沉的思维习惯。"
+    },
+    {
+      "grammarId": "g-s3u5",
+      "name": "that 引导主语从句",
+      "note": "that 从句作主语,本身无实义。",
+      "sourceExample": "That we feel tired is not a sign that the school will fail.",
+      "sourceExampleCn": "我们感到疲倦并不意味着学校会失败。"
+    },
+    {
+      "grammarId": "g-s3u5",
+      "name": "why 定语从句",
+      "note": "why we argue about homework 修饰 the reason。",
+      "sourceExample": "The reason why we argue about homework is that its purpose is not clear.",
+      "sourceExampleCn": "我们争论作业的原因是它的目的不明确。"
+    },
+    {
+      "grammarId": "g-s3u5",
+      "name": "that 表语从句",
+      "note": "is 后接 that 从句作表语。",
+      "sourceExample": "The reason why we argue about homework is that its purpose is not clear.",
+      "sourceExampleCn": "我们争论作业的原因是它的目的不明确。"
+    }
+  ]
+}

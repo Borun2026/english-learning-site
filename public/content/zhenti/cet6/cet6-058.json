@@ -1,0 +1,65 @@
+{
+ "id": "cet6-058",
+ "type": "cet6-passage",
+ "year": 2020,
+ "source": "六级真题 2020年9月 · 2020年9月英语六级真题(第2套) Passage 2",
+ "title": "Organic agriculture is a relatively untapped resource for feeding the Earth's...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 459,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Organic agriculture is a relatively untapped resource for feeding the Earth's population, especially in the face of climate change and other global challenges. That's the conclusion I reached in reviewing",
+  "The review study, \" Organic Agriculture in the 2 1 st Century,\" is featured as the cover story for the February issue of the journal Nature Plants . It is the first to compare organic and conventional agriculture across the main goals of sustainability identified by the National Academy of Sciences : productivity, economics and environment.",
+  "Critics have long argued that organic agriculture is inefficient, requiring more land to yield the same amount of food. It's true that organic farming produces lower yields, averaging 10 to 20 percent less than conventional. Advocates contend that the environmental advantages of organic agriculture far outweigh the lower yields, and that increasing research and breeding resources for organic systems would reduce the yield gap. Sometimes excluded from these arguments is the fact that we already produce enough food to more than feed the world's 7 .4 billion people but do not provide adequate access to all individuals.",
+  "In some cases, organic yields can be higher than conventional. For example, in severe drought conditions, which are expected to increase with climate change in many areas, organic farms can produce as good, if not better, yields because of the higher water-holding capacity of organically farmed soils.",
+  "What science does tell us is that mainstream conventional farming systems have provided growing supplies of food and other products but often at the expense of other sustainability goals.",
+  "Conventional agriculture may produce more food, but it often comes at a cost to the environment. Biodiversity loss, environmental degradation, and severe impacts on ecosystem services have not only accompanied conventional farming systems but have often extended well beyond their field boundaries. With organic agriculture, environmental costs tend to be lower and the benefits greater.",
+  "Overall, organic farms tend to store more soil carbon, have better soil quality and reduce soil erosion compared to their conventional counterparts. Organic agriculture also creates less soil and water pollution and lower greenhouse gas emissions. And it's more energy-efficient because it doesn't",
+  "6 rely on synthetic fertilizers or pesticides. Organic agriculture is also associated with greater biodiversity of plants, animals, insects and",
+  "microorganisms as well as genetic diversity. Biodiversity increases the services that nature provides and improves the ability of farming systems to adapt to changing conditions.",
+  "Despite lower yields, organic agriculture is more profitable for farmers because consumers are willing to pay more. Higher prices, called price premiums, can be justified as a way to compensate farmers for providing ecosystem services and avoiding environmental damage or external costs.",
+  "5 1 . What do we learn from the conclusion of the author's review study?"
+ ],
+ "questions": [
+  {
+   "q": "文中 “degradation” 最接近的意思是?",
+   "options": [
+    "降级",
+    "环境的，环境产生的",
+    "有利可图的， 赚钱的",
+    "增加,增长,增进"
+   ],
+   "answer": 0,
+   "analysis": "“degradation” 意为「降级」。原文语境:Biodiversity loss, environmental degradation, and severe impacts on ecosystem services have not only accompanied conventional farming systems but have often extended well beyond th",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Despite lower yields, organic agriculture is more ___ for farmers because consumers are willing to pay more.",
+   "options": [
+    "efficient",
+    "environmental",
+    "conventional",
+    "profitable"
+   ],
+   "answer": 3,
+   "analysis": "原文原句为“Despite lower yields, organic agriculture is more profitable for farmers because consumers are willing to pay more.”。空格处应填入 “profitable”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Facing water shortages and escalating fertilizer costs, farmers in developing",
+    "Look at the people around you",
+    "Organic agriculture is a relatively untapped resource for feeding the Earth's",
+    "Why are we so worried about our careers"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Organic agriculture is a relatively untapped resource for feeding the Earth's population, especially in the face of climate change and other global challenges.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

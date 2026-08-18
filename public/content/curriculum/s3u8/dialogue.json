@@ -1,0 +1,216 @@
+{
+  "id": "d-s3u8",
+  "stage": 3,
+  "unitId": "s3u8",
+  "scene": "描述事故经过",
+  "goal": "向警方清晰描述事故经过并配合调查",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "警官 Officer Chen",
+      "line": "Good evening. Sitting down first, could you calmly tell me what happened at the crossroads?",
+      "lineCn": "晚上好。您先坐下,能冷静地告诉我十字路口发生了什么吗?",
+      "grammar": [
+        { "name": "现在分词作伴随状语", "note": "Sitting down first 作伴随状语,说明说活时的同时动作,逻辑主语为 you。" }
+      ],
+      "options": [
+        { "text": "Yes, officer. Driving home from work, I reached the crossroads around six o'clock.", "textCn": "好的警官。我下班开车回家,六点左右到达十字路口。", "feedback": "基本信息清楚,笔录开始。", "next": "n2" },
+        { "text": "I am too shaken to recall anything clearly. Everything happened so fast.", "textCn": "我受惊过度,什么都记不清。一切发生得太快了。", "feedback": "情绪激动,警官先安抚。", "next": "n3" },
+        { "text": "I was not there myself, but I heard the crash from my apartment.", "textCn": "我不在现场,但从公寓听到了撞击声。", "feedback": "以目击者身份作证。", "next": "n4" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "警官 Officer Chen",
+      "line": "Take your time. Seeing the traffic light change, what did you do next?",
+      "lineCn": "别着急。看到交通灯变化后,您接下来做了什么?",
+      "grammar": [
+        { "name": "现在分词作时间状语", "note": "Seeing the traffic light change 相当于 when I saw...,表时间先后,使叙事紧凑。" }
+      ],
+      "options": [
+        { "text": "Seeing the light turn green, I started to move forward slowly.", "textCn": "看到绿灯亮起,我缓缓启动向前。", "feedback": "描述清楚,继续询问。", "next": "n2b" },
+        { "text": "Noticing the truck speeding towards me, I slammed on the brakes.", "textCn": "注意到卡车朝我疾驰而来,我猛踩刹车。", "feedback": "关键细节,调查深入。", "next": "n2b" },
+        { "text": "I honestly cannot remember whether the light was green or red.", "textCn": "老实说,我记不清灯是绿是红。", "feedback": "记忆模糊,警官引导回忆。", "next": "n6" }
+      ]
+    },
+    "n2b": {
+      "id": "n2b",
+      "speaker": "警官 Officer Chen",
+      "line": "Slowly, please. Turning back to that moment, was the light green for you as you passed the junction?",
+      "lineCn": "请放慢节奏。回想那一刻,您通过路口时灯是绿的吗?",
+      "grammar": [
+        { "name": "现在分词作时间状语(回想)", "note": "Turning back to that moment 作时间状语,引导回忆,叙事逻辑清晰。" }
+      ],
+      "options": [
+        { "text": "Yes, it was green. Passing the junction, I noticed the truck approaching fast from the left.", "textCn": "是的,是绿灯。通过路口时,我注意到卡车从左侧快速驶来。", "feedback": "描述准确,还原现场。", "next": "n5" },
+        { "text": "It was green for me. Stopping at the line, I waited because the truck was still coming.", "textCn": "对我来说是绿灯。停在停止线前,因为卡车还在驶来,我等待了。", "feedback": "细节严谨,笔录完整。", "next": "n5" },
+        { "text": "I did not look at the light. Trusting the car in front, I simply followed it.", "textCn": "我没看灯。我信任前车,只是跟着它走。", "feedback": "未尽观察义务,警官提醒。", "next": "n6" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "警官 Officer Chen",
+      "line": "Calm down, please. Having taken a deep breath, tell me the basic facts: time, place, and vehicles involved.",
+      "lineCn": "请冷静。深呼吸之后,告诉我基本事实:时间、地点和涉及的车辆。",
+      "grammar": [
+        { "name": "现在分词完成式作状语", "note": "Having taken a deep breath 表示动作先于主句发生,相当于 after taking a deep breath。" }
+      ],
+      "options": [
+        { "text": "Having calmed myself, I remember it was 6:05, right at the north corner of the crossing.", "textCn": "镇定下来后,我记起是六点零五分,就在路口北角。", "feedback": "记忆恢复,信息准确。", "next": "n5" },
+        { "text": "I was so frightened that I cannot even recall my own car number.", "textCn": "我吓得连自己的车牌号都想不起来。", "feedback": "仍处于慌乱,警官耐心引导。", "next": "n6" },
+        { "text": "I would rather wait for my lawyer before saying anything.", "textCn": "说任何话之前,我想等律师来。", "feedback": "拒绝配合,调查受阻。", "next": "n7" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "警官 Officer Chen",
+      "line": "You witnessed the accident. Being a witness, you have an obligation to describe what you saw.",
+      "lineCn": "您是事故目击者。作为证人,您有义务描述您看到的情况。",
+      "grammar": [
+        { "name": "现在分词作原因状语", "note": "Being a witness 相当于 because you are a witness,表原因,语气正式。" }
+      ],
+      "options": [
+        { "text": "Being a witness, I will tell you exactly what I saw: the truck ran the red light.", "textCn": "作为证人,我会如实告诉您:卡车闯了红灯。", "feedback": "证词关键,推进调查。", "next": "n5" },
+        { "text": "I only heard the sound. Fearing trouble, I stayed inside my apartment.", "textCn": "我只听到了声音。因为怕惹麻烦,我一直待在公寓里。", "feedback": "信息有限,警官继续询问。", "next": "n6" },
+        { "text": "I saw something, but I am not sure my memory is reliable.", "textCn": "我看到了些东西,但不确定记忆是否可靠。", "feedback": "谨慎表态,警官引导回忆。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "警官 Officer Chen",
+      "line": "Very good. Based on your account, the truck appears to have ignored the signal. Now, what happened after you applied the brakes?",
+      "lineCn": "很好。根据您的描述,卡车似乎无视了信号灯。那么,您踩下刹车后发生了什么?",
+      "grammar": [
+        { "name": "过去分词作状语(依据)", "note": "Based on your account 作条件/依据状语,相当于 according to,用于正式陈述。" }
+      ],
+      "options": [
+        { "text": "Braking hard, I heard a loud crash behind me.", "textCn": "急刹的同时,我听到身后一声巨响。", "feedback": "叙事连贯,继续还原。", "next": "n5b" },
+        { "text": "Turning to look back, I saw the truck hit the taxi at the junction.", "textCn": "回头一看,我看见卡车在路口撞上了出租车。", "feedback": "目睹关键画面,证词重要。", "next": "n5b" },
+        { "text": "I did not see the collision itself. Hearing the crash, I stopped and called the police.", "textCn": "我没亲眼看到撞击。听到撞击声,我停下车报警。", "feedback": "行为得当,叙述清楚。", "next": "n8" }
+      ]
+    },
+    "n5b": {
+      "id": "n5b",
+      "speaker": "警官 Officer Chen",
+      "line": "I see. Judging from your description, you were about fifty metres behind the truck when it collided.",
+      "lineCn": "我明白了。根据您的描述判断,卡车相撞时您在后方约五十米处。",
+      "grammar": [
+        { "name": "现在分词作评注状语", "note": "Judging from your description 作独立评注状语,相当于 based on,是正式用词。" }
+      ],
+      "options": [
+        { "text": "Roughly fifty metres. Seeing the crash clearly, I pulled over immediately.", "textCn": "大约五十米。看清撞击后,我立刻靠边停车。", "feedback": "距离准确,行为描述完整。", "next": "n8" },
+        { "text": "I am not good at distances. Guessing by the shops, perhaps two streetlights away.", "textCn": "我不擅长估距离。按店铺推测,大约两个路灯远。", "feedback": "估算合理,记录在案。", "next": "n8" },
+        { "text": "Being far behind, I only heard the impact rather than seeing it.", "textCn": "因为距离远,我只听到撞击声,没看到撞击。", "feedback": "区分所见与所闻,严谨。", "next": "n6" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "警官 Officer Chen",
+      "line": "Uncertain memories hinder the investigation. Checked against the camera footage, your words will be verified.",
+      "lineCn": "模糊的记忆会妨碍调查。与监控录像核对后,您的话会得到验证。",
+      "grammar": [
+        { "name": "过去分词作条件状语", "note": "Checked against the camera footage 相当于 when your words are checked,表被动条件。" }
+      ],
+      "options": [
+        { "text": "I will try my best. Exhausted as I was, I will still describe everything I remember.", "textCn": "我会尽力。虽然精疲力尽,我仍会描述记得的一切。", "feedback": "尽力配合,警方认可。", "next": "n8" },
+        { "text": "I remember nothing, and I will not be forced to invent details.", "textCn": "我什么都不记得,也不会被逼着编造细节。", "feedback": "虽抵触但有理,继续沟通。", "next": "n7" },
+        { "text": "Give me a moment. Looking back at that moment, I recall the horn sounding twice.", "textCn": "给我点时间。回想那一刻,我记得喇叭响了两声。", "feedback": "细节逐渐浮现,记录在案。", "next": "n8" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "警官 Officer Chen",
+      "line": "Your refusal to cooperate slows everything down. Standing in a court later, you will regret hiding information.",
+      "lineCn": "您拒绝配合会让一切变慢。日后站在法庭上,您会后悔隐瞒信息。",
+      "grammar": [
+        { "name": "现在分词作时间状语(将来)", "note": "Standing in a court later 表将来时间,分词短语作状语使警告更具画面感。" }
+      ],
+      "options": [
+        { "text": "You are right. Thinking it over, I will cooperate fully with your investigation.", "textCn": "您说得对。想清楚后,我会全力配合调查。", "feedback": "转变态度,调查重启。", "next": "n8" },
+        { "text": "I am not hiding anything, but feeling threatened, I choose to remain silent.", "textCn": "我没隐瞒任何事,但因感到受威胁,我选择沉默。", "feedback": "坚持不配合,笔录中断。", "next": "fail1" },
+        { "text": "You have convinced me to cooperate. I will tell you everything I remember.", "textCn": "您说服了我。我会把记得的一切都告诉您。", "feedback": "全面配合,调查顺利。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "警官 Officer Chen",
+      "line": "Good. One more detail: judging by the marks on the road, the truck braked far too late.",
+      "lineCn": "好。还有一个细节:从路面痕迹判断,卡车刹车太晚了。",
+      "grammar": [
+        { "name": "现在分词作评注状语(判断)", "note": "Judging by the marks on the road 作评注性状语,表达推断依据,句式正式。" }
+      ],
+      "options": [
+        { "text": "That matches what I saw. Slowing down at the corner, the truck still hit the taxi at full speed.", "textCn": "这和我看到的一致。在拐角减速时,卡车仍以全速撞上出租车。", "feedback": "证词与物证互相印证。", "next": "n8b" },
+        { "text": "I cannot judge the speed, but seeing the truck from where I stood, it was certainly fast.", "textCn": "我判断不了速度,但以我的位置看去,它确实很快。", "feedback": "如实说明观察局限。", "next": "n8b" },
+        { "text": "I was not watching the truck. Feeling sleepy, I almost missed the whole event.", "textCn": "我没在看那辆卡车。因为犯困,我差点错过整个过程。", "feedback": "观察不力,证词价值降低。", "next": "fail2" }
+      ]
+    },
+    "n8b": {
+      "id": "n8b",
+      "speaker": "警官 Officer Chen",
+      "line": "Noted. Arriving at the scene, did you notice anyone leaving in a hurry before the ambulance came?",
+      "lineCn": "记下了。到达现场时,您有没有注意到救护车到来前有人匆忙离开?",
+      "grammar": [
+        { "name": "现在分词作时间状语(到达)", "note": "Arriving at the scene 相当于 when you arrived at the scene,时间状语使提问自然。" }
+      ],
+      "options": [
+        { "text": "Arriving at the scene, I noticed a man in a grey coat walking away quickly.", "textCn": "到达现场时,我注意到一个穿灰外套的男人快步离开。", "feedback": "提供关键线索,警方重视。", "next": "n9" },
+        { "text": "Seeing the injured driver, I ran to help instead of watching the crowd.", "textCn": "看到受伤的司机,我跑去帮忙,而不是看热闹。", "feedback": "行为值得肯定,继续询问。", "next": "n9" },
+        { "text": "Not noticing anyone special, I concentrated on calling the ambulance.", "textCn": "没注意到特别的人,我专心打急救电话。", "feedback": "回答合理,记录在案。", "next": "n9" }
+      ]
+    },
+    "n9": {
+      "id": "n9",
+      "speaker": "警官 Officer Chen",
+      "line": "That detail could be crucial. Given the importance of this case, any footage you recorded would help.",
+      "lineCn": "这个细节可能至关重要。考虑到案件的重要性,您录下的任何影像都会有用。",
+      "grammar": [
+        { "name": "过去分词作原因状语", "note": "Given the importance of this case 相当于 considering,作原因/条件状语,正式用法。" }
+      ],
+      "options": [
+        { "text": "Given the chance, I did film ten seconds of the scene with my phone.", "textCn": "恰逢其时,我确实用手机拍下了十秒现场画面。", "feedback": "证据珍贵,案件推进。", "next": "n9b" },
+        { "text": "I did not film it. Seeing the chaos, my first thought was to help the injured.", "textCn": "我没拍。看到一片混乱,我的第一反应是救助伤员。", "feedback": "行为高尚,警方赞赏。", "next": "n9b" },
+        { "text": "I have the footage, but fearing involvement, I would rather not share it.", "textCn": "我有影像,但怕惹麻烦,宁可不交出来。", "feedback": "不愿作证,错失良机。", "next": "fail2" }
+      ]
+    },
+    "n9b": {
+      "id": "n9b",
+      "speaker": "警官 Officer Chen",
+      "line": "Your cooperation has been exemplary. Having heard your account, I believe we have enough to proceed.",
+      "lineCn": "您的配合堪称表率。听完您的陈述,我相信我们掌握的信息足以推进调查。",
+      "grammar": [
+        { "name": "现在分词完成式作状语(听完)", "note": "Having heard your account 表先于主句完成的动作,强调听完之后的结论。" }
+      ],
+      "options": [
+        { "text": "Thank you, officer. Hoping to help the victim, I will also leave my contact number.", "textCn": "谢谢警官。希望能帮助伤者,我也会留下联系电话。", "feedback": "热心负责,警方致谢。", "next": "success" },
+        { "text": "I am glad it is over. Wishing to go home now, may I leave?", "textCn": "很高兴结束了。想回家休息,我可以离开了吗?", "feedback": "配合到位,可以离场。", "next": "success" },
+        { "text": "I have said everything. Now, being exhausted, I refuse to answer further questions.", "textCn": "我该说的都说了。现在精疲力尽,拒绝回答更多问题。", "feedback": "善后不当,留下不良印象。", "next": "fail1" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "警官 Officer Chen",
+      "line": "Thank you for your cooperation. With your statement, we can reconstruct the accident precisely.",
+      "lineCn": "感谢您的配合。有了您的陈述,我们就能精确还原事故经过。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "警官 Officer Chen",
+      "line": "I regret your decision. Withholding information may eventually bring you more trouble.",
+      "lineCn": "我对您的决定感到遗憾。隐瞒信息最终可能会给您带来更多麻烦。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "警官 Officer Chen",
+      "line": "This statement is too vague to be useful. Please contact us again when you are ready to cooperate.",
+      "lineCn": "这份陈述太过模糊,难以发挥作用。请您愿意配合时再联系我们。",
+      "end": true,
+      "success": false
+    }
+  }
+}

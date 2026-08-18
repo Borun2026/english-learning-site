@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u6",
+  "stage": 1,
+  "title": "代词与物主",
+  "explanation": "## 人称代词\n\n人称代词有**主格**和**宾格**两种形式:\n\n| 主格 | I | you | he | she | it | we | they |\n|---|---|---|---|---|---|---|---|\n| 宾格 | me | you | him | her | it | us | them |\n\n- **主格**作主语(动作的发出者):She likes me.\n- **宾格**作宾语(动作的承受者),放在动词或介词后:Please help him.\n\n## 物主代词\n\n| 类别 | 单数 | 复数 |\n|---|---|---|\n| 形容词性(my, your, his, her, its) | 后必须接名词:my book | our, your, their 同理 |\n| 名词性(mine, yours, his, hers, its) | 单独使用:This is mine | ours, yours, theirs 同理 |\n\n形容词性物主代词后面一定有名词;名词性物主代词相当于\"形容词性 + 名词\",后面不接名词。",
+  "examples": [
+    { "en": "She is my best friend.", "cn": "她是我最好的朋友。", "note": "she 是主格作主语,my 是形容词性物主代词,后接名词。" },
+    { "en": "Please give the book to him.", "cn": "请把这本书给他。", "note": "him 是宾格,作介词 to 的宾语。" },
+    { "en": "This pen is mine.", "cn": "这支钢笔是我的。", "note": "mine 是名词性物主代词,单独使用,后面不接名词。" },
+    { "en": "They are our teachers.", "cn": "他们是我们的老师。", "note": "they 是复数主格,our 后接名词 teachers。" }
+  ],
+  "errors": [
+    { "wrong": "Me like English.", "right": "I like English.", "note": "作主语用主格 I,不能用宾格 me。" },
+    { "wrong": "This red bag is her.", "right": "This red bag is hers.", "note": "后面没有名词,要用名词性物主代词 hers。" },
+    { "wrong": "Give it to he.", "right": "Give it to him.", "note": "介词 to 后面用宾格 him。" }
+  ],
+  "quiz": [
+    { "q": "___ am a student.", "options": ["Me", "My", "I", "Mine"], "answer": 2, "note": "作主语用主格 I。" },
+    { "q": "This is ___ book.", "options": ["I", "me", "my", "mine"], "answer": 2, "note": "后面有名词 book,用形容词性物主代词 my。" },
+    { "q": "The blue bike is ___.", "options": ["she", "her", "hers", "herself"], "answer": 2, "note": "后面无名词,用名词性物主代词 hers。" },
+    { "q": "Please help ___.", "options": ["he", "him", "his", "himself"], "answer": 1, "note": "动词 help 后作宾语,用宾格 him。" },
+    { "q": "We love ___ school.", "options": ["we", "our", "ours", "us"], "answer": 1, "note": "后面有名词 school,用形容词性物主代词 our。" }
+  ]
+}

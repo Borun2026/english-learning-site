@@ -1,0 +1,1154 @@
+{
+  "id": "a-s4u1",
+  "stage": 4,
+  "unitId": "s4u1",
+  "title": "My Self-introduction at the Interview",
+  "newWords": [
+    "agitate",
+    "scenario",
+    "recollect",
+    "escalate",
+    "legacy",
+    "capitalism",
+    "analog",
+    "cohesive",
+    "complementary",
+    "doctorate",
+    "gasolene",
+    "industrialise",
+    "fascinated",
+    "remains",
+    "celebrity"
+  ],
+  "sentences": [
+    {
+      "text": "Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+      "translation": "面试之前,我请以前的老师和我一起排练每一种可能出现的情景,这样任何意料之外的问题都不会让我焦虑。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Before the interview"
+        },
+        {
+          "label": "主干(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "I ask my former teacher to rehearse every possible scenario with me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "ask"
+            },
+            {
+              "role": "宾语",
+              "text": "my former teacher"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "to rehearse every possible scenario"
+            },
+            {
+              "role": "状语",
+              "text": "with me"
+            }
+          ]
+        },
+        {
+          "label": "目的状语从句",
+          "color": "#c8a5e0",
+          "text": "so that no unexpected question may agitate me"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "目的状语从句 so that",
+          "note": "so that 引导目的状语从句,表示\"以便、为了\",从句中常用情态动词 may/can。",
+          "example": "We practise hard so that we may pass the exam.",
+          "exampleCn": "我们刻苦练习,以便通过考试。"
+        },
+        {
+          "name": "不定式作宾补 ask sb to do",
+          "note": "ask sb to do sth:动词 ask 后接\"宾语+不定式\",不定式作宾语补足语。"
+        },
+        {
+          "name": "长难句拆解",
+          "note": "拆解长句第一步:先找主干 I ask my former teacher,再依次挂上状语、从句等修饰成分。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "I ask my former teacher to rehearse every possible scenario with me",
+          "name": "目的状语从句 so that"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "I ask my former teacher to rehearse every possible scenario with me",
+          "name": "不定式作宾补 ask sb to do"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "I ask my former teacher to rehearse every possible scenario with me",
+          "name": "长难句拆解"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们刻苦练习,以便通过考试。",
+          "answer": "We practise hard so that we may pass the exam.",
+          "note": "so that 引导目的状语从句,表示\"以便、为了\",从句中常用情态动词 may/can。",
+          "point": "目的状语从句 so that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+          "answer": "Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+          "note": "ask sb to do sth:动词 ask 后接\"宾语+不定式\",不定式作宾语补足语。",
+          "point": "不定式作宾补 ask sb to do"
+        }
+      ]
+    },
+    {
+      "text": "When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+      "translation": "当我回忆备考的过程时,我仍然觉得,随着日期临近,我的紧张感会加剧,然而我建立的纪律是最珍贵的遗产。",
+      "chunks": [
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "When I recollect the process of preparation"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I still feel",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "状语",
+              "text": "still"
+            },
+            {
+              "role": "谓语",
+              "text": "feel"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that my tension may escalate as we approach the date"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the discipline that I build is my most precious legacy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the discipline"
+            },
+            {
+              "role": "定语从句",
+              "text": "that I build"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "my most precious legacy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "从句嵌套",
+          "note": "宾语从句 that my tension may escalate 内部又套着时间状语从句 as we approach the date,是典型的多层嵌套长句,拆解时应逐层剥开。"
+        },
+        {
+          "name": "时间状语从句 when/as",
+          "note": "when 与 as 都可引导时间状语从句;as 强调\"随着\"的渐进过程。"
+        },
+        {
+          "name": "定语从句 that I build",
+          "note": "that 引导定语从句修饰 discipline,在从句中作 build 的宾语,可以省略。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "the discipline that I build is my most precious legacy",
+          "name": "从句嵌套"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "the discipline that I build is my most precious legacy",
+          "name": "时间状语从句 when/as"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "the discipline that I build is my most precious legacy",
+          "name": "定语从句 that I build"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+          "answer": "When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+          "note": "宾语从句 that my tension may escalate 内部又套着时间状语从句 as we approach the date,是典型的多层嵌套长句,拆解时应逐层剥开。",
+          "point": "从句嵌套"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+          "answer": "When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+          "note": "when 与 as 都可引导时间状语从句;as 强调\"随着\"的渐进过程。",
+          "point": "时间状语从句 when/as"
+        }
+      ]
+    },
+    {
+      "text": "My undergraduate record, which my supervisor may have read with care, is not the only asset I rely on.",
+      "translation": "我的本科成绩,我的导师也许已经仔细读过,但它并不是我唯一可以依靠的资本。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "My undergraduate record",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My undergraduate record"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "which my supervisor may have read with care"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is not the only asset I rely on",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not the only asset"
+            },
+            {
+              "role": "定语从句",
+              "text": "I rely on"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "非限制性定语从句 which",
+          "note": "which 引导非限制性定语从句,与先行词之间用逗号隔开,起补充说明作用,去掉后主句依然完整。"
+        },
+        {
+          "name": "省略关系代词的定语从句",
+          "note": "I rely on 前省略了关系代词 that/which(作 rely on 的宾语),即 the asset (that) I rely on。",
+          "example": "This is the book I bought.",
+          "exampleCn": "这就是我买的书。"
+        },
+        {
+          "name": "情态+完成 may have read",
+          "note": "may have done 表示对过去发生动作的推测:\"可能已经读过\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "which my supervisor may have read with care",
+          "name": "非限制性定语从句 which"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "which my supervisor may have read with care",
+          "name": "省略关系代词的定语从句"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "which my supervisor may have read with care",
+          "name": "情态+完成 may have read"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My undergraduate record, which my supervisor may have read with care, is not the only asset I rely on.",
+          "answer": "My undergraduate record, which my supervisor may have read with care, is not the only asset I rely on.",
+          "note": "which 引导非限制性定语从句,与先行词之间用逗号隔开,起补充说明作用,去掉后主句依然完整。",
+          "point": "非限制性定语从句 which"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:这就是我买的书。",
+          "answer": "This is the book I bought.",
+          "note": "I rely on 前省略了关系代词 that/which(作 rely on 的宾语),即 the asset (that) I rely on。",
+          "point": "省略关系代词的定语从句"
+        }
+      ]
+    },
+    {
+      "text": "What may fascinate the committee most is my family factory, a business that used to refine gasolene, help to industrialise our small town, and my view that the factory is a small model of capitalism in modern economics.",
+      "translation": "最让委员会着迷的,是我家的工厂——一家曾为小镇提炼汽油、帮助小镇工业化的企业——以及我的看法:这家工厂是现代经济学中资本主义的一个缩影。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "What may fascinate the committee most"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is my family factory",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语一",
+              "text": "my family factory"
+            }
+          ]
+        },
+        {
+          "label": "同位语(含定语从句)",
+          "color": "#9fd8e8",
+          "text": "a business that used to refine gasolene, help to industrialise our small town"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(表语二)",
+          "color": "#a8dab5",
+          "text": "my view that the factory is a small model of capitalism in modern economics",
+          "parts": [
+            {
+              "role": "表语二",
+              "text": "my view"
+            },
+            {
+              "role": "同位语从句",
+              "text": "that the factory is a small model of capitalism in modern economics"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主语从句 what",
+          "note": "what 引导主语从句 What may fascinate the committee most,整个从句作主句的主语,谓语用单数 is。"
+        },
+        {
+          "name": "同位语从句 that",
+          "note": "that 引导同位语从句,说明 view 的具体内容,that 在从句中不作成分。",
+          "example": "The news that he won is true.",
+          "exampleCn": "他赢了的消息是真的。"
+        },
+        {
+          "name": "长难句拆解",
+          "note": "本句主干为 What ... is my family factory and my view;中间的 a business that ... 是 factory 的同位语,拆解时先勾出主干,再处理同位语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "a business that used to refine gasolene, help to industrialise our small town",
+          "name": "主语从句 what"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "a business that used to refine gasolene, help to industrialise our small town",
+          "name": "同位语从句 that"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "a business that used to refine gasolene, help to industrialise our small town",
+          "name": "长难句拆解"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):What may fascinate the committee most is my family factory, a business that used to refine gasolene, help to industrialise our small town, and my view that the factory is a small model of capitalism in modern economics.",
+          "answer": "What may fascinate the committee most is my family factory, a business that used to refine gasolene, help to industrialise our small town, and my view that the factory is a small model of capitalism in modern economics.",
+          "note": "what 引导主语从句 What may fascinate the committee most,整个从句作主句的主语,谓语用单数 is。",
+          "point": "主语从句 what"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:他赢了的消息是真的。",
+          "answer": "The news that he won is true.",
+          "note": "that 引导同位语从句,说明 view 的具体内容,that 在从句中不作成分。",
+          "point": "同位语从句 that"
+        }
+      ]
+    },
+    {
+      "text": "That connection, I argue, is not a loose analogy but a precise analog of the link between a local firm and national policy.",
+      "translation": "我认为,这种联系并非随意的类比,而是地方企业与国家政策之间关系的精确对应物。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "That connection",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "That connection"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "I argue"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is not a loose analogy but a precise analog of the link between a local firm and national policy",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a loose analogy but a precise analog"
+            },
+            {
+              "role": "定语",
+              "text": "of the link between a local firm and national policy"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 I argue",
+          "note": "I argue 是插入语,置于主语与谓语之间,去掉后句子结构依然完整。"
+        },
+        {
+          "name": "not...but... 结构",
+          "note": "not A but B 表示\"不是 A 而是 B\",强调对比。",
+          "example": "It is not a dream but a plan.",
+          "exampleCn": "这不是梦想,而是计划。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "is not a loose analogy but a precise analog of the link between a local firm and national policy",
+          "name": "插入语 I argue"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "is not a loose analogy but a precise analog of the link between a local firm and national policy",
+          "name": "not...but... 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):That connection, I argue, is not a loose analogy but a precise analog of the link between a local firm and national policy.",
+          "answer": "That connection, I argue, is not a loose analogy but a precise analog of the link between a local firm and national policy.",
+          "note": "I argue 是插入语,置于主语与谓语之间,去掉后句子结构依然完整。",
+          "point": "插入语 I argue"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:这不是梦想,而是计划。",
+          "answer": "It is not a dream but a plan.",
+          "note": "not A but B 表示\"不是 A 而是 B\",强调对比。",
+          "point": "not...but... 结构"
+        }
+      ]
+    },
+    {
+      "text": "In my opinion, an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech, because a loose answer may only weaken a strong record.",
+      "translation": "在我看来,优秀的考生应当论证连贯、技能互补、言谈镇定,因为松散的作答只会削弱一份漂亮的履历。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "In my opinion"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an outstanding candidate"
+            },
+            {
+              "role": "谓语(系动词+情态)",
+              "text": "should be"
+            },
+            {
+              "role": "表语(并列)",
+              "text": "cohesive in argument, complementary in skill, and calm in speech"
+            }
+          ]
+        },
+        {
+          "label": "原因状语从句",
+          "color": "#c8a5e0",
+          "text": "because a loose answer may only weaken a strong record"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "原因状语从句 because",
+          "note": "because 引导原因状语从句,说明观点成立的依据。"
+        },
+        {
+          "name": "并列表语",
+          "note": "三个并列的形容词短语作表语:cohesive in..., complementary in..., calm in...,形成排比,增强说服力。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech",
+          "name": "原因状语从句 because"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech",
+          "name": "并列表语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In my opinion, an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech, because a loose answer may only weaken a strong record.",
+          "answer": "In my opinion, an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech, because a loose answer may only weaken a strong record.",
+          "note": "because 引导原因状语从句,说明观点成立的依据。",
+          "point": "原因状语从句 because"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In my opinion, an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech, because a loose answer may only weaken a strong record.",
+          "answer": "In my opinion, an outstanding candidate should be cohesive in argument, complementary in skill, and calm in speech, because a loose answer may only weaken a strong record.",
+          "note": "三个并列的形容词短语作表语:cohesive in..., complementary in..., calm in...,形成排比,增强说服力。",
+          "point": "并列表语"
+        }
+      ]
+    },
+    {
+      "text": "My ambition is to pursue a doctorate in economics, a goal that we share, though I know the road ahead is long.",
+      "translation": "我的抱负是攻读经济学博士学位,这是我们共同的愿望,尽管我知道前方的路还很漫长。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "My ambition is to pursue a doctorate in economics",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My ambition"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to pursue a doctorate in economics"
+            }
+          ]
+        },
+        {
+          "label": "同位语(含定语从句)",
+          "color": "#9fd8e8",
+          "text": "a goal that we share"
+        },
+        {
+          "label": "让步连词",
+          "color": "#f6c177",
+          "text": "though"
+        },
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "I know the road ahead is long"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "不定式 to pursue... 作表语,说明 ambition 的具体内容。"
+        },
+        {
+          "name": "让步状语从句 though",
+          "note": "though 引导让步状语从句,表示\"虽然\",主句与从句之间构成转折。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "My ambition is to pursue a doctorate in economics",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "My ambition is to pursue a doctorate in economics",
+          "name": "让步状语从句 though"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My ambition is to pursue a doctorate in economics, a goal that we share, though I know the road ahead is long.",
+          "answer": "My ambition is to pursue a doctorate in economics, a goal that we share, though I know the road ahead is long.",
+          "note": "不定式 to pursue... 作表语,说明 ambition 的具体内容。",
+          "point": "不定式作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My ambition is to pursue a doctorate in economics, a goal that we share, though I know the road ahead is long.",
+          "answer": "My ambition is to pursue a doctorate in economics, a goal that we share, though I know the road ahead is long.",
+          "note": "though 引导让步状语从句,表示\"虽然\",主句与从句之间构成转折。",
+          "point": "让步状语从句 though"
+        }
+      ]
+    },
+    {
+      "text": "Indeed, the question that we can not answer is whether I can turn a good interview into a lifetime of inquiry.",
+      "translation": "事实上,我们无法回答的问题是:我能否把一次成功的面试转化为一生的求索。",
+      "chunks": [
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "Indeed"
+        },
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "the question that we can not answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the question"
+            },
+            {
+              "role": "定语从句",
+              "text": "that we can not answer"
+            }
+          ]
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is whether I can turn a good interview into a lifetime of inquiry",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语从句",
+              "text": "whether I can turn a good interview into a lifetime of inquiry"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "表语从句 whether",
+          "note": "whether 引导表语从句,表示\"是否\"。",
+          "example": "The problem is whether we can finish in time.",
+          "exampleCn": "问题是我们能否按时完成。"
+        },
+        {
+          "name": "turn A into B",
+          "note": "把 A 转化为 B;本句意为\"把面试变成一生的求索\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "is whether I can turn a good interview into a lifetime of inquiry",
+          "name": "表语从句 whether"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "is whether I can turn a good interview into a lifetime of inquiry",
+          "name": "turn A into B"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:问题是我们能否按时完成。",
+          "answer": "The problem is whether we can finish in time.",
+          "note": "whether 引导表语从句,表示\"是否\"。",
+          "point": "表语从句 whether"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Indeed, the question that we can not answer is whether I can turn a good interview into a lifetime of inquiry.",
+          "answer": "Indeed, the question that we can not answer is whether I can turn a good interview into a lifetime of inquiry.",
+          "note": "把 A 转化为 B;本句意为\"把面试变成一生的求索\"。",
+          "point": "turn A into B"
+        }
+      ]
+    },
+    {
+      "text": "I believe that a good introduction is the first step to that goal, and I am ready to demonstrate it here today.",
+      "translation": "我相信,一段好的自我介绍是通往那个目标的第一步,今天我已准备好在这里证明这一点。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I believe",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "believe"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a good introduction is the first step to that goal"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I am ready to demonstrate it here today",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "am"
+            },
+            {
+              "role": "表语",
+              "text": "ready to demonstrate it"
+            },
+            {
+              "role": "状语",
+              "text": "here today"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 believe 的宾语。"
+        },
+        {
+          "name": "be ready to do",
+          "note": "be ready to do sth 表示\"准备好做某事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "that a good introduction is the first step to that goal",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "that a good introduction is the first step to that goal",
+          "name": "be ready to do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I believe that a good introduction is the first step to that goal, and I am ready to demonstrate it here today.",
+          "answer": "I believe that a good introduction is the first step to that goal, and I am ready to demonstrate it here today.",
+          "note": "that 引导宾语从句,作 believe 的宾语。",
+          "point": "宾语从句 that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I believe that a good introduction is the first step to that goal, and I am ready to demonstrate it here today.",
+          "answer": "I believe that a good introduction is the first step to that goal, and I am ready to demonstrate it here today.",
+          "note": "be ready to do sth 表示\"准备好做某事\"。",
+          "point": "be ready to do"
+        }
+      ]
+    },
+    {
+      "text": "Whatever the outcome may be, I will not regret the effort, for this interview is itself a valuable lesson in clear expression.",
+      "translation": "无论结果如何,我都不会后悔这份努力,因为这次面试本身就是关于清晰表达的一堂宝贵课程。",
+      "chunks": [
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "Whatever the outcome may be"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will not regret the effort",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will not regret"
+            },
+            {
+              "role": "宾语",
+              "text": "the effort"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句",
+          "color": "#a8dab5",
+          "text": "this interview is itself a valuable lesson in clear expression",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this interview"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "itself a valuable lesson in clear expression"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "让步状语从句 whatever",
+          "note": "whatever 引导让步状语从句,表示\"无论什么\"。",
+          "example": "Whatever you say, I will go.",
+          "exampleCn": "无论你说什么,我都要去。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 是并列连词,补充说明原因,语气比 because 弱,多用于正式文体。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "this interview is itself a valuable lesson in clear expression",
+          "name": "让步状语从句 whatever"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "this interview is itself a valuable lesson in clear expression",
+          "name": "for 表示原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:无论你说什么,我都要去。",
+          "answer": "Whatever you say, I will go.",
+          "note": "whatever 引导让步状语从句,表示\"无论什么\"。",
+          "point": "让步状语从句 whatever"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Whatever the outcome may be, I will not regret the effort, for this interview is itself a valuable lesson in clear expression.",
+          "answer": "Whatever the outcome may be, I will not regret the effort, for this interview is itself a valuable lesson in clear expression.",
+          "note": "for 是并列连词,补充说明原因,语气比 because 弱,多用于正式文体。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "Some people treat the interview as a path to celebrity and prepare nothing, yet such a view can not stand the test of careful practice.",
+      "translation": "有些人把面试当作通往名望的捷径,什么也不准备,然而这种看法经不起认真实践的检验。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "Some people treat the interview as a path to celebrity",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Some people"
+            },
+            {
+              "role": "谓语",
+              "text": "treat"
+            },
+            {
+              "role": "宾语",
+              "text": "the interview"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "as a path to celebrity"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "prepare nothing",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "prepare"
+            },
+            {
+              "role": "宾语",
+              "text": "nothing"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "such a view can not stand the test of careful practice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "such a view"
+            },
+            {
+              "role": "谓语",
+              "text": "can not stand"
+            },
+            {
+              "role": "宾语",
+              "text": "the test of careful practice"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "treat A as B",
+          "note": "把 A 当作 B;as a path to celebrity 作宾语补足语。"
+        },
+        {
+          "name": "并列句 yet",
+          "note": "yet 连接两个并列分句,表示转折,相当于 but。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "Some people treat the interview as a path to celebrity",
+          "name": "treat A as B"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "Some people treat the interview as a path to celebrity",
+          "name": "并列句 yet"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people treat the interview as a path to celebrity and prepare nothing, yet such a view can not stand the test of careful practice.",
+          "answer": "Some people treat the interview as a path to celebrity and prepare nothing, yet such a view can not stand the test of careful practice.",
+          "note": "把 A 当作 B;as a path to celebrity 作宾语补足语。",
+          "point": "treat A as B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Some people treat the interview as a path to celebrity and prepare nothing, yet such a view can not stand the test of careful practice.",
+          "answer": "Some people treat the interview as a path to celebrity and prepare nothing, yet such a view can not stand the test of careful practice.",
+          "note": "yet 连接两个并列分句,表示转折,相当于 but。",
+          "point": "并列句 yet"
+        }
+      ]
+    },
+    {
+      "text": "My father used to say that the factory remains a family legacy and a source of pride, and I am fascinated by its influence on our town.",
+      "translation": "我父亲常说,这家工厂仍是家庭的遗产和骄傲的来源,而我对它对我们小镇的影响着迷不已。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "My father used to say",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My father"
+            },
+            {
+              "role": "谓语",
+              "text": "used to say"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the factory remains a family legacy and a source of pride"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "I am fascinated by its influence on our town",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(被动)",
+              "text": "am fascinated"
+            },
+            {
+              "role": "状语",
+              "text": "by its influence on our town"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "used to do",
+          "note": "used to do sth 表示过去经常做某事(现在已不这样做)。",
+          "example": "He used to live here.",
+          "exampleCn": "他过去住在这里。"
+        },
+        {
+          "name": "被动语态 be fascinated by",
+          "note": "be fascinated by 表示\"被...吸引/着迷\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "that the factory remains a family legacy and a source of pride",
+          "name": "used to do"
+        },
+        {
+          "grammarId": "g-s4u1",
+          "phrase": "that the factory remains a family legacy and a source of pride",
+          "name": "被动语态 be fascinated by"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他过去住在这里。",
+          "answer": "He used to live here.",
+          "note": "used to do sth 表示过去经常做某事(现在已不这样做)。",
+          "point": "used to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My father used to say that the factory remains a family legacy and a source of pride, and I am fascinated by its influence on our town.",
+          "answer": "My father used to say that the factory remains a family legacy and a source of pride, and I am fascinated by its influence on our town.",
+          "note": "be fascinated by 表示\"被...吸引/着迷\"。",
+          "point": "被动语态 be fascinated by"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u1",
+      "name": "目的状语从句 so that",
+      "note": "so that 引导目的状语从句,表示\"以便、为了\",从句中常用情态动词 may/can。",
+      "sourceExample": "Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+      "sourceExampleCn": "面试之前,我请以前的老师和我一起排练每一种可能出现的情景,这样任何意料之外的问题都不会让我焦虑。"
+    },
+    {
+      "grammarId": "g-s4u1",
+      "name": "不定式作宾补 ask sb to do",
+      "note": "ask sb to do sth:动词 ask 后接\"宾语+不定式\",不定式作宾语补足语。",
+      "sourceExample": "Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+      "sourceExampleCn": "面试之前,我请以前的老师和我一起排练每一种可能出现的情景,这样任何意料之外的问题都不会让我焦虑。"
+    },
+    {
+      "grammarId": "g-s4u1",
+      "name": "长难句拆解",
+      "note": "拆解长句第一步:先找主干 I ask my former teacher,再依次挂上状语、从句等修饰成分。",
+      "sourceExample": "Before the interview, I ask my former teacher to rehearse every possible scenario with me, so that no unexpected question may agitate me.",
+      "sourceExampleCn": "面试之前,我请以前的老师和我一起排练每一种可能出现的情景,这样任何意料之外的问题都不会让我焦虑。"
+    },
+    {
+      "grammarId": "g-s4u1",
+      "name": "从句嵌套",
+      "note": "宾语从句 that my tension may escalate 内部又套着时间状语从句 as we approach the date,是典型的多层嵌套长句,拆解时应逐层剥开。",
+      "sourceExample": "When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+      "sourceExampleCn": "当我回忆备考的过程时,我仍然觉得,随着日期临近,我的紧张感会加剧,然而我建立的纪律是最珍贵的遗产。"
+    },
+    {
+      "grammarId": "g-s4u1",
+      "name": "时间状语从句 when/as",
+      "note": "when 与 as 都可引导时间状语从句;as 强调\"随着\"的渐进过程。",
+      "sourceExample": "When I recollect the process of preparation, I still feel that my tension may escalate as we approach the date, yet the discipline that I build is my most precious legacy.",
+      "sourceExampleCn": "当我回忆备考的过程时,我仍然觉得,随着日期临近,我的紧张感会加剧,然而我建立的纪律是最珍贵的遗产。"
+    }
+  ]
+}

@@ -1,0 +1,1174 @@
+{
+  "id": "a-s3u7",
+  "stage": 3,
+  "unitId": "s3u7",
+  "title": "Setting the Record Straight",
+  "newWords": [
+    "strive",
+    "transition",
+    "assert",
+    "intent",
+    "prospective",
+    "clarity",
+    "promptly",
+    "delusion",
+    "suppress",
+    "ongoing",
+    "integral",
+    "unintentionally",
+    "alleviate",
+    "illuminate",
+    "prevalent",
+    "discrepancy",
+    "feasibility"
+  ],
+  "sentences": [
+    {
+      "text": "It is the method, not the plan, that we question.",
+      "translation": "我们质疑的是方法,不是计划。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is the method",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "被强调部分",
+              "text": "the method"
+            }
+          ]
+        },
+        {
+          "label": "插入语(补充说明)",
+          "color": "#9fd8e8",
+          "text": "not the plan"
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that we question"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...that 强调句",
+          "note": "强调句结构:It is + 被强调部分 + that + 其余部分。",
+          "example": "It is I that made the mistake.",
+          "exampleCn": "犯错误的是我。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "It is the method",
+          "name": "It is...that 强调句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:犯错误的是我。",
+          "answer": "It is I that made the mistake.",
+          "note": "强调句结构:It is + 被强调部分 + that + 其余部分。",
+          "point": "It is...that 强调句"
+        }
+      ]
+    },
+    {
+      "text": "It is you who will lead the next stage of the project.",
+      "translation": "是你将领导项目的下一阶段。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is you",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "被强调部分",
+              "text": "you"
+            }
+          ]
+        },
+        {
+          "label": "从句(强调句 who 部分)",
+          "color": "#c8a5e0",
+          "text": "who will lead the next stage of the project"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...who 强调人",
+          "note": "强调人时可用 who。",
+          "example": "It is she who will speak first.",
+          "exampleCn": "先发言的是她。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "who will lead the next stage of the project",
+          "name": "It is...who 强调人"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:先发言的是她。",
+          "answer": "It is she who will speak first.",
+          "note": "强调人时可用 who。",
+          "point": "It is...who 强调人"
+        }
+      ]
+    },
+    {
+      "text": "What I mean is a suggestion, not an order.",
+      "translation": "我的意思是一个建议,不是命令。",
+      "chunks": [
+        {
+          "label": "主语从句",
+          "color": "#c8a5e0",
+          "text": "What I mean"
+        },
+        {
+          "label": "主干(系动词+表语)",
+          "color": "#a8dab5",
+          "text": "is a suggestion",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a suggestion"
+            }
+          ]
+        },
+        {
+          "label": "插入语(补充说明)",
+          "color": "#9fd8e8",
+          "text": "not an order"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "what 主语从句",
+          "note": "what I mean 意为\"我的意思\"。",
+          "example": "What he said was a joke.",
+          "exampleCn": "他说的是个玩笑。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "is a suggestion",
+          "name": "what 主语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他说的是个玩笑。",
+          "answer": "What he said was a joke.",
+          "note": "what I mean 意为\"我的意思\"。",
+          "point": "what 主语从句"
+        }
+      ]
+    },
+    {
+      "text": "It is because of the storm that the flight is late.",
+      "translation": "航班晚点是因为暴风雨。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is because of the storm",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "被强调部分",
+              "text": "because of the storm"
+            }
+          ]
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that the flight is late"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...that 强调原因",
+          "note": "强调 because 短语。",
+          "example": "It is because of you that we won.",
+          "exampleCn": "我们赢是因为你。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "It is because of the storm",
+          "name": "It is...that 强调原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们赢是因为你。",
+          "answer": "It is because of you that we won.",
+          "note": "强调 because 短语。",
+          "point": "It is...that 强调原因"
+        }
+      ]
+    },
+    {
+      "text": "It is not the team that will fail; it is the budget.",
+      "translation": "将要失败的并不是团队,而是预算。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is not the team"
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that will fail"
+        },
+        {
+          "label": "主干(强调句省略 that 部分)",
+          "color": "#a8dab5",
+          "text": "it is the budget"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "强调句的否定形式",
+          "note": "It is not...that 表\"并不是……\"。",
+          "example": "It is not the age that matters.",
+          "exampleCn": "重要的不是年龄。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "It is not the team",
+          "name": "强调句的否定形式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:重要的不是年龄。",
+          "answer": "It is not the age that matters.",
+          "note": "It is not...that 表\"并不是……\"。",
+          "point": "强调句的否定形式"
+        }
+      ]
+    },
+    {
+      "text": "The truth is that I never get your message.",
+      "translation": "事实是我从未收到你的消息。",
+      "chunks": [
+        {
+          "label": "主干(主系)",
+          "color": "#a8dab5",
+          "text": "The truth is",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The truth"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            }
+          ]
+        },
+        {
+          "label": "表语从句",
+          "color": "#c8a5e0",
+          "text": "that I never get your message"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 表语从句",
+          "note": "is 后接 that 从句作表语。",
+          "example": "The truth is that we differ.",
+          "exampleCn": "事实是我们意见不同。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "that I never get your message",
+          "name": "that 表语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:事实是我们意见不同。",
+          "answer": "The truth is that we differ.",
+          "note": "is 后接 that 从句作表语。",
+          "point": "that 表语从句"
+        }
+      ]
+    },
+    {
+      "text": "It is in daily practice that we truly learn a skill.",
+      "translation": "我们真正学会一项技能,是在日常练习中。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is in daily practice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "被强调部分",
+              "text": "in daily practice"
+            }
+          ]
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that we truly learn a skill"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...that 强调状语",
+          "note": "强调地点/方式状语。",
+          "example": "It is at night that he studies.",
+          "exampleCn": "他是在夜里学习。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "that we truly learn a skill",
+          "name": "It is...that 强调状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他是在夜里学习。",
+          "answer": "It is at night that he studies.",
+          "note": "强调地点/方式状语。",
+          "point": "It is...that 强调状语"
+        }
+      ]
+    },
+    {
+      "text": "Do not suppress the question; ask it directly.",
+      "translation": "不要压制问题;直接问出来。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Do not suppress the question"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "ask it directly"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句",
+          "note": "两个祈使句由分号连接。",
+          "example": "Do not hide it; say it out.",
+          "exampleCn": "不要隐瞒;说出来。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "Do not suppress the question",
+          "name": "祈使句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要隐瞒;说出来。",
+          "answer": "Do not hide it; say it out.",
+          "note": "两个祈使句由分号连接。",
+          "point": "祈使句"
+        }
+      ]
+    },
+    {
+      "text": "It is the false idea itself that we need to remove.",
+      "translation": "我们需要去除的,正是这个错误的观念本身。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is the false idea itself"
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that we need to remove"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...that 强调宾语",
+          "note": "被强调部分是宾语。",
+          "example": "It is the truth that we seek.",
+          "exampleCn": "我们追寻的是真相。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "It is the false idea itself",
+          "name": "It is...that 强调宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们追寻的是真相。",
+          "answer": "It is the truth that we seek.",
+          "note": "被强调部分是宾语。",
+          "point": "It is...that 强调宾语"
+        }
+      ]
+    },
+    {
+      "text": "I assert that the report will be ready promptly, and every number will be exact.",
+      "translation": "我声明,报告将准时准备好,而且每个数字都会准确无误。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I assert",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "assert"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the report will be ready promptly"
+        },
+        {
+          "label": "主干(并列句)",
+          "color": "#a8dab5",
+          "text": "and every number will be exact"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "that 宾语从句",
+          "note": "assert 意为\"断言、声明\"。",
+          "example": "I assert that he is honest.",
+          "exampleCn": "我断言他是诚实的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "that the report will be ready promptly",
+          "name": "that 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我断言他是诚实的。",
+          "answer": "I assert that he is honest.",
+          "note": "assert 意为\"断言、声明\"。",
+          "point": "that 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "It is with clarity that we will end this confusion.",
+      "translation": "我们将以清晰明了的方式结束这场混乱。",
+      "chunks": [
+        {
+          "label": "主干(强调句前半)",
+          "color": "#a8dab5",
+          "text": "It is with clarity"
+        },
+        {
+          "label": "从句(强调句 that 部分)",
+          "color": "#c8a5e0",
+          "text": "that we will end this confusion"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "It is...that 强调方式状语",
+          "note": "被强调部分是方式状语。",
+          "example": "It is with care that we act.",
+          "exampleCn": "我们行事谨慎。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "that we will end this confusion",
+          "name": "It is...that 强调方式状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们行事谨慎。",
+          "answer": "It is with care that we act.",
+          "note": "被强调部分是方式状语。",
+          "point": "It is...that 强调方式状语"
+        }
+      ]
+    },
+    {
+      "text": "We will strive for a smooth transition from the old system to the new one.",
+      "translation": "我们将努力实现从旧系统到新系统的平稳过渡。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We will strive",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will strive"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "for a smooth transition from the old system to the new one"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "strive for 短语",
+          "note": "strive for 意为\"为……而奋斗\"。",
+          "example": "Strive for a better result.",
+          "exampleCn": "争取更好的结果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "for a smooth transition from the old system to the new one",
+          "name": "strive for 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:争取更好的结果。",
+          "answer": "Strive for a better result.",
+          "note": "strive for 意为\"为……而奋斗\"。",
+          "point": "strive for 短语"
+        }
+      ]
+    },
+    {
+      "text": "It is not my intent to blame anyone; the mistake is mine.",
+      "translation": "我无意责怪任何人;错误在我。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "It is not my intent",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "It"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not my intent"
+            }
+          ]
+        },
+        {
+          "label": "真正主语(不定式)",
+          "color": "#c8a5e0",
+          "text": "to blame anyone"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the mistake is mine"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "it 形式主语 + 不定式",
+          "note": "真正的主语是 to blame anyone。",
+          "example": "It is not my plan to leave.",
+          "exampleCn": "我无意离开。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "It is not my intent",
+          "name": "it 形式主语 + 不定式"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我无意离开。",
+          "answer": "It is not my plan to leave.",
+          "note": "真正的主语是 to blame anyone。",
+          "point": "it 形式主语 + 不定式"
+        }
+      ]
+    },
+    {
+      "text": "A prospective partner will ask about the feasibility of the plan.",
+      "translation": "潜在的合作伙伴会询问计划的可行性。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "A prospective partner will ask",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A prospective partner"
+            },
+            {
+              "role": "谓语",
+              "text": "will ask"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "about the feasibility of the plan"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "ask about 短语",
+          "note": "ask about 意为\"询问关于\"。",
+          "example": "Ask about the price first.",
+          "exampleCn": "先问问价格。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "about the feasibility of the plan",
+          "name": "ask about 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:先问问价格。",
+          "answer": "Ask about the price first.",
+          "note": "ask about 意为\"询问关于\"。",
+          "point": "ask about 短语"
+        }
+      ]
+    },
+    {
+      "text": "The discrepancy in the report will attract attention.",
+      "translation": "报告中的差异将引起注意。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The discrepancy in the report"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will attract attention",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will attract"
+            },
+            {
+              "role": "宾语",
+              "text": "attention"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "discrepancy 意为\"差异、不一致\"。",
+          "example": "The error attracts attention.",
+          "exampleCn": "这个错误引起了注意。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "The discrepancy in the report",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这个错误引起了注意。",
+          "answer": "The error attracts attention.",
+          "note": "discrepancy 意为\"差异、不一致\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "An ongoing dispute will hurt the spirit of the whole team.",
+      "translation": "持续的争执会伤害整个团队的精神。",
+      "chunks": [
+        {
+          "label": "定语(现在分词 ongoing 作定语)",
+          "color": "#f4a8b8",
+          "text": "An ongoing dispute"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will hurt the spirit of the whole team",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will hurt"
+            },
+            {
+              "role": "宾语",
+              "text": "the spirit of the whole team"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在分词作定语",
+          "note": "ongoing 意为\"持续的\"。",
+          "example": "an ongoing debate",
+          "exampleCn": "一场持续的辩论"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "will hurt the spirit of the whole team",
+          "name": "现在分词作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一场持续的辩论",
+          "answer": "an ongoing debate",
+          "note": "ongoing 意为\"持续的\"。",
+          "point": "现在分词作定语"
+        }
+      ]
+    },
+    {
+      "text": "Trust is an integral part of any true friendship.",
+      "translation": "信任是任何真正友谊不可或缺的一部分。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "Trust is an integral part of any true friendship",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Trust"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "an integral part of any true friendship"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主系表结构",
+          "note": "integral 意为\"不可或缺的\"。",
+          "example": "Honesty is a part of trust.",
+          "exampleCn": "诚实是信任的一部分。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "Trust is an integral part of any true friendship",
+          "name": "主系表结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:诚实是信任的一部分。",
+          "answer": "Honesty is a part of trust.",
+          "note": "integral 意为\"不可或缺的\"。",
+          "point": "主系表结构"
+        }
+      ]
+    },
+    {
+      "text": "I will not unintentionally ignore your advice.",
+      "translation": "我不会无意中忽视你的建议。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will not unintentionally ignore your advice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will not unintentionally ignore"
+            },
+            {
+              "role": "宾语",
+              "text": "your advice"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "副词 unintentionally",
+          "note": "修饰 ignore,意为\"无意地\"。",
+          "example": "He unintentionally broke the vase.",
+          "exampleCn": "他无意中打碎了花瓶。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "I will not unintentionally ignore your advice",
+          "name": "副词 unintentionally"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他无意中打碎了花瓶。",
+          "answer": "He unintentionally broke the vase.",
+          "note": "修饰 ignore,意为\"无意地\"。",
+          "point": "副词 unintentionally"
+        }
+      ]
+    },
+    {
+      "text": "A fair rule will alleviate the fear of the new staff.",
+      "translation": "公平的规则会减轻新员工的恐惧。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A fair rule will alleviate the fear",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A fair rule"
+            },
+            {
+              "role": "谓语",
+              "text": "will alleviate"
+            },
+            {
+              "role": "宾语",
+              "text": "the fear"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语作后置定语)",
+          "color": "#f4a8b8",
+          "text": "of the new staff"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "alleviate 意为\"减轻、缓解\"。",
+          "example": "Clear rules alleviate anxiety.",
+          "exampleCn": "明确的规则能减轻焦虑。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "A fair rule will alleviate the fear",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:明确的规则能减轻焦虑。",
+          "answer": "Clear rules alleviate anxiety.",
+          "note": "alleviate 意为\"减轻、缓解\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "One common mistake will illuminate the whole problem.",
+      "translation": "一个常见的错误就能让整个问题变得清晰。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "One common mistake will illuminate the whole problem",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "One common mistake"
+            },
+            {
+              "role": "谓语",
+              "text": "will illuminate"
+            },
+            {
+              "role": "宾语",
+              "text": "the whole problem"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "illuminate 意为\"照亮、阐明\"。",
+          "example": "An example illuminates the idea.",
+          "exampleCn": "一个例子能阐明这个观点。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "One common mistake will illuminate the whole problem",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:一个例子能阐明这个观点。",
+          "answer": "An example illuminates the idea.",
+          "note": "illuminate 意为\"照亮、阐明\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "Such a delusion is prevalent among the young.",
+      "translation": "这种错觉在年轻人中很普遍。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "Such a delusion is prevalent",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Such a delusion"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "prevalent"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "among the young"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be prevalent among",
+          "note": "意为\"在……中普遍\"。",
+          "example": "The habit is prevalent among students.",
+          "exampleCn": "这种习惯在学生中很普遍。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "Such a delusion is prevalent",
+          "name": "be prevalent among"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这种习惯在学生中很普遍。",
+          "answer": "The habit is prevalent among students.",
+          "note": "意为\"在……中普遍\"。",
+          "point": "be prevalent among"
+        }
+      ]
+    },
+    {
+      "text": "Do not let a false story change your mind.",
+      "translation": "不要让虚假的传言改变你的想法。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Do not let a false story",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "Do not let"
+            },
+            {
+              "role": "宾语",
+              "text": "a false story"
+            }
+          ]
+        },
+        {
+          "label": "宾补(不定式)",
+          "color": "#9fd8e8",
+          "text": "change your mind"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "let sb do 结构",
+          "note": "let 后接宾语再接不带 to 的不定式。",
+          "example": "Do not let fear stop you.",
+          "exampleCn": "不要让恐惧阻止你。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u7",
+          "phrase": "Do not let a false story",
+          "name": "let sb do 结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要让恐惧阻止你。",
+          "answer": "Do not let fear stop you.",
+          "note": "let 后接宾语再接不带 to 的不定式。",
+          "point": "let sb do 结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u7",
+      "name": "It is...that 强调句",
+      "note": "强调句结构:It is + 被强调部分 + that + 其余部分。",
+      "sourceExample": "It is the method, not the plan, that we question.",
+      "sourceExampleCn": "我们质疑的是方法,不是计划。"
+    },
+    {
+      "grammarId": "g-s3u7",
+      "name": "It is...who 强调人",
+      "note": "强调人时可用 who。",
+      "sourceExample": "It is you who will lead the next stage of the project.",
+      "sourceExampleCn": "是你将领导项目的下一阶段。"
+    },
+    {
+      "grammarId": "g-s3u7",
+      "name": "what 主语从句",
+      "note": "what I mean 意为\"我的意思\"。",
+      "sourceExample": "What I mean is a suggestion, not an order.",
+      "sourceExampleCn": "我的意思是一个建议,不是命令。"
+    },
+    {
+      "grammarId": "g-s3u7",
+      "name": "It is...that 强调原因",
+      "note": "强调 because 短语。",
+      "sourceExample": "It is because of the storm that the flight is late.",
+      "sourceExampleCn": "航班晚点是因为暴风雨。"
+    },
+    {
+      "grammarId": "g-s3u7",
+      "name": "强调句的否定形式",
+      "note": "It is not...that 表\"并不是……\"。",
+      "sourceExample": "It is not the team that will fail; it is the budget.",
+      "sourceExampleCn": "将要失败的并不是团队,而是预算。"
+    }
+  ]
+}

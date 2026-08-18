@@ -1,0 +1,323 @@
+{
+ "id": "z2012-cloze-0",
+ "year": 2012,
+ "section": "cloze",
+ "index": 0,
+ "source": "2012年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "The ethical judgments of the Supreme Court justices have become an important issue recently.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The court cannot ___1___ its legitimacy as guardian of the rule of law ___2___ justices behave like politicians.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Yet, in several instances, justices acted in ways that ___3___ the court’s reputation for being independent and impartial.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Justice Antonin Scalia, for example, appeared at political events.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "That kind of activity makes it less likely that the court’s decisions will be ___4___ as impartial judgments.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Part of the problem is that the justices are not ___5___ by an ethics code.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "At the very least, the court should make itself ___6___ to the code of conduct that ___7___ to the rest of the federal judiciary.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "This and other similar cases ___8___ the question of whether there is still a ___9___ between the court and politics.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The framers of the Constitution envisioned law ___10___ having authority apart from politics.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "They gave justices permanent positions ___11___ they would be free to ___12___ those in power and have no need to ___13___ political support.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Our legal system was designed to set law apart from politics precisely because they are so closely ___14___ .",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Constitutional law is political because it results from choices rooted in fundamental social ___15___ like liberty and property.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "When the court deals with social policy decisions, the law it ___16___ is inescapably political—which is why decisions split along ideological lines are so easily ___17___ as unjust.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The justices must ___18___ doubts about the court’s legitimacy by making themselves ___19___ to the code of conduct.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "That would make their rulings more likely to be seen as separate from politics and, ___20___ , convincing as law.",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "emphasize",
+    "maintain",
+    "modify",
+    "recognize"
+   ],
+   "answer": 1,
+   "analysis": "本句句意是:法官表现得像政客一样时,法院便不能_____其作为法律守护者的合法性。由此可知,所\n选动词要与后面的itslegitimacy构成动宾关系,根据具体语境判断应该是“法院便不能维持其作为法律守护者的\n合法性”。因此,选项[B]是正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "when",
+    "lest",
+    "before",
+    "unless"
+   ],
+   "answer": 0,
+   "analysis": "本句主要考查空格前后两个分句的逻辑关系。本句意思是:_____法官表现得像政客一样时,法院便不\n能_____其作为法律守护者的合法性。根据本段最后一句和随后两段信息可知,作者主要对法官涉及政治事件这\n一问题展开讨论和批评。由此可以判断,前一分句是后一分句的前提或条件。因此,选项[A]是正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "restored",
+    "weakened",
+    "established",
+    "eliminated"
+   ],
+   "answer": 1,
+   "analysis": "本句句意是:然而,在一些情况下,法官所采取的这些行为方式_____法院独立、公正的声誉。根据与\n前文的呼应关系,可知法官的行为方式对法院的声誉起到负面影响。再根据动宾间的搭配关系,可知选项[B]为正\n确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "challenged",
+    "compromised",
+    "suspected",
+    "accepted"
+   ],
+   "answer": 3,
+   "analysis": "本句句意是:这种行为使法院的裁决被_____公正判决的可能性有所下降。根据第二段首句和本句中的\nlesslikely可知,本段继续讨论法官参与政治活动会让法院的声誉受到负面影响。再根据动词搭配,可知选项[D]be\nacceptedas...“被认为是……”为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "advanced",
+    "caught",
+    "bound",
+    "founded"
+   ],
+   "answer": 2,
+   "analysis": "本句句意是:部分原因是法官没有受到伦理道德规范的_____。根据后一句,至少法院应该_____行为规\n范,这显然是对本句意思的进一步说明。再根据动词搭配可知,法官没有受到道德规范的约束,因此选项[C],be\nboundby,“受到……束缚”为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "resistant",
+    "subject",
+    "immune",
+    "prone"
+   ],
+   "answer": 1,
+   "analysis": "本句句意是:至少,法院应该使自己_____行为规范,这些行为规范_____联邦司法系统的其余部分。承\n接上一句语义,法官没有受到伦理道德规范的约束,本句所要表达的意思是:法官应该遵守行为规范。再由形容\n词搭配,可知besubjectto,表示“受……支配,服从……”。故本题正确答案为[B]。"
+  },
+  {
+   "q": "",
+   "options": [
+    "resorts",
+    "sticks",
+    "leads",
+    "applies"
+   ],
+   "answer": 3,
+   "analysis": "本句句意是:至少,法院应该使自己服从_____联邦司法系统的其余部分的行为准则。这里由that引导\n的定语从句修饰说明前面的行为规范,暗指法院应当遵守适用于其他的联邦司法系统的行为准则。根据语义,可\n知applyto“适用于”符合题意。因此[D]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "evade",
+    "raise",
+    "deny",
+    "settle"
+   ],
+   "answer": 1,
+   "analysis": "本句句意是:这个案例和其它类似的案例_____这样的问题:法院和政治之间是否仍然有_____。本题所\n在段是承上启下的过渡段,之前的段落引入话题,指出法官参与政治活动,损害了法院的声誉,法官应该受到道\n德准则的约束。而其后的段落则开始探讨法律和政治的关系。此外,由句子主语thisandothersimilarcases可知此\n句总结上文提到的事件,并引出下文。只有raisequestion“提出问题”符合题意,因此[B]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "line",
+    "barrier",
+    "similarity",
+    "conflict"
+   ],
+   "answer": 0,
+   "analysis": "本句句意是:这个案例和其它类似的案例_____这样的问题:法院和政治之间是否仍然有_____。根据下\n文可确定本题答案,第四段作者探讨了政治与法律的关系,指出法律应独立于政治之外,以保持其公正、公平。\n可见法律与政治之间应该存在界限。由此可知,空内应填line,“界限”。选项[A]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "by",
+    "as",
+    "through",
+    "towards"
+   ],
+   "answer": 1,
+   "analysis": "本句句意思是:宪法的制定者认为法律_____应该具有脱离政治的管辖权。根据句意,此空格需要填入\n一个介词与动词envision构成搭配,envision…as…“将……想象成……”。选项[B]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "so",
+    "since",
+    "provided",
+    "though"
+   ],
+   "answer": 0,
+   "analysis": "本句主要考查空格前后两个分句的逻辑关系。本句句意是:他们给法官们终身任期,_____法官们能\n够……。确定此题答案需要结合前一句所要诠释的意思,“宪法的制定者认为法律应该具有脱离政治的管辖权,\n这样一来,法官就可以免受掌权者的影响了”。由此可知,后一分句是前一分句的目的,只有so可以引导目的\n状语从句,表示“以便,为了”。故选项[A]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "serve",
+    "satisfy",
+    "upset",
+    "replace"
+   ],
+   "answer": 2,
+   "analysis": "本句句意是:他们给法官们终身任期,以便法官们能够自由地_____那些当权者。\n此题承接上题,可知法律不受政治的影响,从而法官也不用担心掌权者(thoseinpower),注意这里考察了upset\n的熟词生义,含义是“推翻,颠覆”。所以此处的意思是“法官能自由地推翻当权者。”制宪者给予法官终身任\n期的目的是让他们有权制裁当权者,而不是为了服务或满足当权者,所以应当排除[A]和[B];根据前文的意思,\n法官不应该参与政治,更无从谈起取代当权者,所以排除选项[D]。综上所述,选项[C]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "confirm",
+    "express",
+    "cultivate",
+    "offer"
+   ],
+   "answer": 2,
+   "analysis": "本句句意是:而没有必要去_____政治上的支持。此题承接上题,结合句意可知,法官不应具有政治倾\n向性,因此,法官也无需获得政治支持,而授予他们终身任期就是为了保障他们在没有政治支持的情形下可以自\n由行使权力。可知该半句主要表达“法官也无需培植政治支持了。”因此,选项[C]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "guarded",
+    "followed",
+    "studied",
+    "tied"
+   ],
+   "answer": 3,
+   "analysis": "本句句意是:我们的法律制度设立时之所以精确地将法律和政治分开来,原因是它们的联系太_____。\n联系上文,第一、二段提到法官容易受政治因素的影响,此段前两句也提到“制宪者给法官们终身任期,以便法\n官们能够自由地推翻那些当权者,而没有必要去培植政治上的支持”。综合以上语境,可以得知,法律制度之所\n以被设计成政法分离,正是由于两者间的关系紧密。选项[D]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "concepts",
+    "theories",
+    "divisions",
+    "conventions"
+   ],
+   "answer": 0,
+   "analysis": "本句句意:宪法具有政治性,因为它源于诸如自由和财产权等基本社会_____的选择。文中说“宪法具\n有政治性,因其选择都是植根于诸如自由、财产之类的基本社会……中。”也就是说liberty和property同属于\nfundamentalsocial_15_。很明显,这两者即自由和财产属于基本的社会观念,选项[A]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "excludes",
+    "questions",
+    "shapes",
+    "controls"
+   ],
+   "answer": 2,
+   "analysis": "本句句意是:当法院处理社会政策裁决时,它所_____法律必然具有政治性。首先分析该句,可知空白\n处添加上一动词可构成一个定语从句,修饰限定“thelaw”。四个选项中shape为“形成,确立”之意。在此语\n境中可以引申为形成,意思为“当法院处理社会决策时,它形成的法律必然具有政治性。”选项[C]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "dismissed",
+    "released",
+    "ranked",
+    "distorted"
+   ],
+   "answer": 0,
+   "analysis": "本句句意是:这也就是为什么不同意识形态的裁决容易被认为是不公正的而_____。\nbedismissedas…含义是“被认为……而不予考虑,”放入具体的语境中的意思是“被认为是不公正的而不予考虑”。\n符合上下文的表达,选项[A]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "suppress",
+    "exploit",
+    "address",
+    "ignore"
+   ],
+   "answer": 2,
+   "analysis": "本句句意是:法官必须对行为准则……以此来_____对法院合法性的质疑。由文中语境可知该句主要表\n达“法官必须……有关法院(裁决的)合法性的质疑。”四个选项中,仅[C]符合题意,address是动词,在这里的\n意思是针对问题提出具体的解决措施。本句所填的词语与第8题所填的词raise遥相呼应,raise提出,address解\n决。因此选项[C]为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "accessible",
+    "amiable",
+    "agreeable",
+    "accountable"
+   ],
+   "answer": 3,
+   "analysis": "本句句意是:法官必须对行为准则_____以此来解决对法院合法性的质疑。此题的理解需承接整个句子,\n首先此空所在后半句(bymakingthemselves…)是一个方式状语,承接前半句说明法官怎样来解决有关法庭(裁决\n的)合法性的质疑。法官只有对行为准则负责,才能确保其裁决的公正和合理。因此选项[D]为正确答案。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "by all means",
+    "at all costs",
+    "in a word",
+    "as a result"
+   ],
+   "answer": 3,
+   "analysis": "本句句意是:那将会使他们的裁定更有可能被认为是脱离政治的,_____像法律一样令人信服。此句承\n接上句,旨在说明由此带来的结果,也即是文中所说的“……使得裁决看起来完全不受政治的影响,像法律一样\n令人信服。”它们之间应该是因果关系,结合四个选项意思,可知选项[D]为正确答案。\n三、全文翻译\n最高法院法官的道德判决最近成为一个重要的问题。当法官表现得像政客一样时,法院便不能维持\n其作为法律守护者的合法性。然而,在一些情况下,法官所采取的这些行为方式损害了法院独立、公正\n的声誉。\n例如,大法官安东尼斯卡利亚现身于政治活动中,这种行为使法院的裁决被认为是公正判决的可能\n性有所下降。部分原因是法官没有受到伦理道德规范的约束。至少,法院应该使自己服从适用于联邦司\n法系统的其余部分的行为准则。\n这个案例和其它类似的案例提出了这样的问题:法院和政治之间是否仍然有界限。\n宪法的制定者认为法律应该具有脱离政治的管辖权。他们给法官们终身任期,以便法官们能够自由地推\n翻那些当权者,而没有必要去培植政治上的支持。我们的法律制度设立时之所以精确地将法律和政治分\n开来,原因是它们的联系太紧密了。\n宪法具有政治性,因为它源于诸如自由和财产权等基本社会观念的选择。当法院处理社会政策裁决\n时,它所形成的法律必然具有"
+  }
+ ]
+}

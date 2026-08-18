@@ -1,0 +1,765 @@
+{
+  "id": "a-s2u10",
+  "stage": 2,
+  "unitId": "s2u10",
+  "title": "Why I Was Late",
+  "newWords": [
+    "arrived",
+    "did",
+    "earlier",
+    "gave",
+    "gone",
+    "got",
+    "had",
+    "kept",
+    "missed",
+    "moved",
+    "slowly",
+    "tried",
+    "waited",
+    "walking",
+    "was",
+    "obviously",
+    "moreover",
+    "mainly"
+  ],
+  "sentences": [
+    {
+      "text": "I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+      "translation": "很抱歉我今天迟到了,因为我早上七点错过了第一班公交车。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I am sorry",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "am"
+            },
+            {
+              "role": "表语",
+              "text": "sorry"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "that I arrived late today"
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I missed the first bus"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "at seven in the morning"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "be sorry that 很抱歉……",
+          "note": "be sorry 后接 that 从句,表示\"对……感到抱歉\"。"
+        },
+        {
+          "name": "because 引导原因状语从句",
+          "note": "because 说明迟到原因,意为\"因为\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "that I arrived late today",
+          "name": "be sorry that 很抱歉……"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "that I arrived late today",
+          "name": "because 引导原因状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+          "answer": "I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+          "note": "be sorry 后接 that 从句,表示\"对……感到抱歉\"。",
+          "point": "be sorry that 很抱歉……"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+          "answer": "I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+          "note": "because 说明迟到原因,意为\"因为\"。",
+          "point": "because 引导原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+      "translation": "虽然我很早就出门了,但交通仍然很拥堵,我显然遇到麻烦了。",
+      "chunks": [
+        {
+          "label": "从句(让步状语从句)",
+          "color": "#c8a5e0",
+          "text": "Although I left home early"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the traffic was still very heavy",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the traffic"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "still very heavy"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I was obviously in trouble",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "obviously in trouble"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "although 引导让步状语从句",
+          "note": "Although 表示\"虽然\",从句在前时用逗号分隔;注意不能与 but 连用。"
+        },
+        {
+          "name": "in trouble 处于困境",
+          "note": "in trouble 是介词短语,表示\"遇到麻烦\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the traffic was still very heavy",
+          "name": "although 引导让步状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the traffic was still very heavy",
+          "name": "in trouble 处于困境"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+          "answer": "Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+          "note": "Although 表示\"虽然\",从句在前时用逗号分隔;注意不能与 but 连用。",
+          "point": "although 引导让步状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+          "answer": "Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+          "note": "in trouble 是介词短语,表示\"遇到麻烦\"。",
+          "point": "in trouble 处于困境"
+        }
+      ]
+    },
+    {
+      "text": "Since the weather was bad, I had to walk to the next station.",
+      "translation": "既然天气不好,我不得不步行去下一个车站。",
+      "chunks": [
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "Since the weather was bad"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I had to walk",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(情态动词短语)",
+              "text": "had to walk"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "to the next station"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "since 引导原因状语从句",
+          "note": "since 表示\"既然、因为\",语气比 because 委婉,常放句首。"
+        },
+        {
+          "name": "had to 不得不",
+          "note": "had to 是 have to 的过去式,表示\"不得不\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "Since the weather was bad",
+          "name": "since 引导原因状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "Since the weather was bad",
+          "name": "had to 不得不"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Since the weather was bad, I had to walk to the next station.",
+          "answer": "Since the weather was bad, I had to walk to the next station.",
+          "note": "since 表示\"既然、因为\",语气比 because 委婉,常放句首。",
+          "point": "since 引导原因状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Since the weather was bad, I had to walk to the next station.",
+          "answer": "Since the weather was bad, I had to walk to the next station.",
+          "note": "had to 是 have to 的过去式,表示\"不得不\"。",
+          "point": "had to 不得不"
+        }
+      ]
+    },
+    {
+      "text": "When I got there, the bus was already gone, so I waited for another one at the station.",
+      "translation": "当我到达那里时,公交车已经开走了,所以我不得不在车站等下一辆。",
+      "chunks": [
+        {
+          "label": "从句(时间状语从句)",
+          "color": "#c8a5e0",
+          "text": "When I got there"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the bus was already gone",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the bus"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "already gone"
+            }
+          ]
+        },
+        {
+          "label": "连词(结果)",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I waited for another one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "waited for"
+            },
+            {
+              "role": "宾语",
+              "text": "another one"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at the station"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "when 引导时间状语从句",
+          "note": "when 表示\"当……的时候\",从句与主句动作先后发生。"
+        },
+        {
+          "name": "so 表示结果",
+          "note": "so 表示\"所以\",表结果;注意与 because 不能同时使用。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the bus was already gone",
+          "name": "when 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the bus was already gone",
+          "name": "so 表示结果"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I got there, the bus was already gone, so I waited for another one at the station.",
+          "answer": "When I got there, the bus was already gone, so I waited for another one at the station.",
+          "note": "when 表示\"当……的时候\",从句与主句动作先后发生。",
+          "point": "when 引导时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):When I got there, the bus was already gone, so I waited for another one at the station.",
+          "answer": "When I got there, the bus was already gone, so I waited for another one at the station.",
+          "note": "so 表示\"所以\",表结果;注意与 because 不能同时使用。",
+          "point": "so 表示结果"
+        }
+      ]
+    },
+    {
+      "text": "I nearly gave up, but I kept walking until I found a taxi, and moreover I was very tired.",
+      "translation": "我几乎要放弃了,但我一直走,直到找到一辆出租车,而且我当时非常疲惫。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I nearly gave up",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "nearly gave up"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I kept walking",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "kept"
+            },
+            {
+              "role": "宾语(动名词)",
+              "text": "walking"
+            }
+          ]
+        },
+        {
+          "label": "从句(时间状语从句)",
+          "color": "#c8a5e0",
+          "text": "until I found a taxi"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "插入语(过渡副词)",
+          "color": "#9fd8e8",
+          "text": "moreover"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I was very tired",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "very tired"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "until 引导时间状语从句",
+          "note": "until 表示\"直到……\",kept walking until I found a taxi 表示\"一直走直到找到出租车\"。"
+        },
+        {
+          "name": "keep doing 持续做",
+          "note": "keep walking 中动名词作宾语,表示\"一直走\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "until I found a taxi",
+          "name": "until 引导时间状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "until I found a taxi",
+          "name": "keep doing 持续做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I nearly gave up, but I kept walking until I found a taxi, and moreover I was very tired.",
+          "answer": "I nearly gave up, but I kept walking until I found a taxi, and moreover I was very tired.",
+          "note": "until 表示\"直到……\",kept walking until I found a taxi 表示\"一直走直到找到出租车\"。",
+          "point": "until 引导时间状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I nearly gave up, but I kept walking until I found a taxi, and moreover I was very tired.",
+          "answer": "I nearly gave up, but I kept walking until I found a taxi, and moreover I was very tired.",
+          "note": "keep walking 中动名词作宾语,表示\"一直走\"。",
+          "point": "keep doing 持续做"
+        }
+      ]
+    },
+    {
+      "text": "Because the road was so crowded, the taxi moved very slowly, and the problem was mainly the traffic.",
+      "translation": "因为道路太拥挤,出租车开得非常慢,问题主要出在交通上。",
+      "chunks": [
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "Because the road was so crowded"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the taxi moved very slowly",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the taxi"
+            },
+            {
+              "role": "谓语",
+              "text": "moved very slowly"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the problem was mainly the traffic",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the problem"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "was"
+            },
+            {
+              "role": "表语",
+              "text": "mainly the traffic"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "because 原因状语从句",
+          "note": "Because 从句放句首,主句在后,表示\"因为道路拥挤\"。"
+        },
+        {
+          "name": "so + 形容词",
+          "note": "so crowded 表示\"如此拥挤\",so 修饰形容词加强程度。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the problem was mainly the traffic",
+          "name": "because 原因状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "the problem was mainly the traffic",
+          "name": "so + 形容词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Because the road was so crowded, the taxi moved very slowly, and the problem was mainly the traffic.",
+          "answer": "Because the road was so crowded, the taxi moved very slowly, and the problem was mainly the traffic.",
+          "note": "Because 从句放句首,主句在后,表示\"因为道路拥挤\"。",
+          "point": "because 原因状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Because the road was so crowded, the taxi moved very slowly, and the problem was mainly the traffic.",
+          "answer": "Because the road was so crowded, the taxi moved very slowly, and the problem was mainly the traffic.",
+          "note": "so crowded 表示\"如此拥挤\",so 修饰形容词加强程度。",
+          "point": "so + 形容词"
+        }
+      ]
+    },
+    {
+      "text": "Even though I tried my best, I still did not reach the office on time for the meeting.",
+      "translation": "尽管我尽了最大努力,我还是没能按时赶到办公室开会。",
+      "chunks": [
+        {
+          "label": "从句(让步状语从句)",
+          "color": "#c8a5e0",
+          "text": "Even though I tried my best"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I still did not reach the office",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(否定)",
+              "text": "still did not reach"
+            },
+            {
+              "role": "宾语",
+              "text": "the office"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "on time"
+        },
+        {
+          "label": "状语(介词短语表目的)",
+          "color": "#8ab4f8",
+          "text": "for the meeting"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "even though 即使",
+          "note": "even though 引导让步状语从句,语气比 although 更强,意为\"即使、尽管\"。"
+        },
+        {
+          "name": "do one's best 尽力",
+          "note": "tried my best 表示\"尽了最大努力\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "I still did not reach the office",
+          "name": "even though 即使"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "I still did not reach the office",
+          "name": "do one's best 尽力"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Even though I tried my best, I still did not reach the office on time for the meeting.",
+          "answer": "Even though I tried my best, I still did not reach the office on time for the meeting.",
+          "note": "even though 引导让步状语从句,语气比 although 更强,意为\"即使、尽管\"。",
+          "point": "even though 即使"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Even though I tried my best, I still did not reach the office on time for the meeting.",
+          "answer": "Even though I tried my best, I still did not reach the office on time for the meeting.",
+          "note": "tried my best 表示\"尽了最大努力\"。",
+          "point": "do one's best 尽力"
+        }
+      ]
+    },
+    {
+      "text": "If you also have to travel far, please leave earlier than usual and keep your phone with you.",
+      "translation": "如果你也得走很远的路,请比平时早一点出发,并随身携带手机。",
+      "chunks": [
+        {
+          "label": "从句(条件状语从句)",
+          "color": "#c8a5e0",
+          "text": "If you also have to travel far"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "please leave earlier than usual and keep your phone with you",
+          "parts": [
+            {
+              "role": "谓语(祈使)",
+              "text": "please leave"
+            },
+            {
+              "role": "状语",
+              "text": "earlier than usual"
+            },
+            {
+              "role": "谓语(祈使)",
+              "text": "keep"
+            },
+            {
+              "role": "宾语",
+              "text": "your phone"
+            },
+            {
+              "role": "状语",
+              "text": "with you"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 引导条件状语从句",
+          "note": "If 从句表示条件,主句用祈使句提出建议。"
+        },
+        {
+          "name": "祈使句表建议",
+          "note": "please leave...and keep... 是祈使句,表示请求或建议。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "please leave earlier than usual and keep your phone with you",
+          "name": "if 引导条件状语从句"
+        },
+        {
+          "grammarId": "g-s2u10",
+          "phrase": "please leave earlier than usual and keep your phone with you",
+          "name": "祈使句表建议"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If you also have to travel far, please leave earlier than usual and keep your phone with you.",
+          "answer": "If you also have to travel far, please leave earlier than usual and keep your phone with you.",
+          "note": "If 从句表示条件,主句用祈使句提出建议。",
+          "point": "if 引导条件状语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If you also have to travel far, please leave earlier than usual and keep your phone with you.",
+          "answer": "If you also have to travel far, please leave earlier than usual and keep your phone with you.",
+          "note": "please leave...and keep... 是祈使句,表示请求或建议。",
+          "point": "祈使句表建议"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u10",
+      "name": "be sorry that 很抱歉……",
+      "note": "be sorry 后接 that 从句,表示\"对……感到抱歉\"。",
+      "sourceExample": "I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+      "sourceExampleCn": "很抱歉我今天迟到了,因为我早上七点错过了第一班公交车。"
+    },
+    {
+      "grammarId": "g-s2u10",
+      "name": "because 引导原因状语从句",
+      "note": "because 说明迟到原因,意为\"因为\"。",
+      "sourceExample": "I am sorry that I arrived late today, because I missed the first bus at seven in the morning.",
+      "sourceExampleCn": "很抱歉我今天迟到了,因为我早上七点错过了第一班公交车。"
+    },
+    {
+      "grammarId": "g-s2u10",
+      "name": "although 引导让步状语从句",
+      "note": "Although 表示\"虽然\",从句在前时用逗号分隔;注意不能与 but 连用。",
+      "sourceExample": "Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+      "sourceExampleCn": "虽然我很早就出门了,但交通仍然很拥堵,我显然遇到麻烦了。"
+    },
+    {
+      "grammarId": "g-s2u10",
+      "name": "in trouble 处于困境",
+      "note": "in trouble 是介词短语,表示\"遇到麻烦\"。",
+      "sourceExample": "Although I left home early, the traffic was still very heavy, and I was obviously in trouble.",
+      "sourceExampleCn": "虽然我很早就出门了,但交通仍然很拥堵,我显然遇到麻烦了。"
+    },
+    {
+      "grammarId": "g-s2u10",
+      "name": "since 引导原因状语从句",
+      "note": "since 表示\"既然、因为\",语气比 because 委婉,常放句首。",
+      "sourceExample": "Since the weather was bad, I had to walk to the next station.",
+      "sourceExampleCn": "既然天气不好,我不得不步行去下一个车站。"
+    }
+  ]
+}

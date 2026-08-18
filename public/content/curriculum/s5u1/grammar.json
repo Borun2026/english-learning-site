@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u1",
+  "stage": 5,
+  "title": "学术写作句式",
+  "explanation": "## 学术写作句式:Task 2 高分句型库\n\n雅思大作文要求 formal register(正式语体)。掌握学术句式,评分标准中 Grammatical Range and Accuracy 直接受益。\n\n## 必备学术结构\n\n1. **引出话题**:It is widely acknowledged that... / There is a growing body of evidence that...\n2. **给出观点**:It is argued that... / I tend to believe that...\n3. **让步反驳**:Although it is true that..., I would argue that...\n4. **因果**:This is primarily because... / As a result, ...\n5. **对比**:While A is..., B, by contrast, is...\n6. **限定程度**:To a certain extent, ... / It is not entirely true that...\n\n## 避免口语化\n\n把 well, a lot, get, good 换成 significantly, a considerable amount, obtain, beneficial。用名词化(名词短语替代动词句)提升正式度:Students who are poor → Students' poverty。\n\n## 平衡观点\n\n- 开头段:Paraphrase 题目 + 表明立场。\n- 主体段:Topic sentence + 论证 + 例子。\n- 结尾段:Summarize + 重申立场(不引入新观点)。",
+  "examples": [
+    { "en": "It is widely acknowledged that technology has transformed our daily lives.", "cn": "人们普遍认为,科技已经改变了我们的日常生活。", "note": "It is widely acknowledged that 是学术开头标准句式。" },
+    { "en": "Although it is true that online learning is convenient, it cannot fully replace classroom interaction.", "cn": "虽然在线学习确实方便,但它不能完全取代课堂互动。", "note": "although 让步 + 主句观点,体现思辨。" },
+    { "en": "The rapid development of artificial intelligence has raised serious concerns about employment.", "cn": "人工智能的快速发展引发了对就业问题的严重担忧。", "note": "名词化结构 the rapid development of... 提升正式度。" },
+    { "en": "This is primarily because most consumers prefer cheaper alternatives.", "cn": "这主要是因为大多数消费者偏爱更便宜的替代品。", "note": "primarily because 提供精确的因果关系。" }
+  ],
+  "errors": [
+    { "wrong": "I think technology is very good and it makes things a lot easier.", "right": "It is widely acknowledged that technology has made tasks significantly easier.", "note": "正式语体替换口语表达,升级句式。" },
+    { "wrong": "First, pollution is bad. Second, pollution is dangerous.", "right": "To begin with, pollution poses a serious threat to public health.", "note": "避免短句堆砌,用学术表达连贯论述。" },
+    { "wrong": "In conclusion, I want to say something new about the topic.", "right": "In conclusion, I would like to restate my position.", "note": "结尾段不引入新观点,只总结重申。" }
+  ],
+  "quiz": [
+    { "q": "以下哪个是学术写作的标准开头句式?", "options": ["I think...", "It is widely acknowledged that...", "Hi everyone...", "Let me tell you..."], "answer": 1, "note": "It is widely acknowledged that 是正式学术表达。" },
+    { "q": "让步反驳结构的正确顺序是?", "options": ["先反驳后让步", "先让步后观点", "只反驳", "只让步"], "answer": 1, "note": "Although it is true that... 先让步,再提出己方观点。" },
+    { "q": "把 good 升级为更正式的表达是?", "options": ["nice", "beneficial", "ok", "great"], "answer": 1, "note": "beneficial 比 good 正式得多。" },
+    { "q": "名词化表达\"贫困学生\"的正确形式是?", "options": ["students who are poor", "students' poverty", "poor students", "poverty students"], "answer": 1, "note": "名词化用名词短语 students' poverty,提升学术性。" },
+    { "q": "结尾段应该做什么?", "options": ["引入新观点", "总结并重申立场", "道歉", "提问"], "answer": 1, "note": "结尾总结全文并重申立场,不引入新内容。" }
+  ]
+}

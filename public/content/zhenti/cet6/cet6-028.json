@@ -1,0 +1,56 @@
+{
+ "id": "cet6-028",
+ "type": "cet6-passage",
+ "year": 2018,
+ "source": "六级真题 2018年12月 · 2018年12月英语六级真题(第2套) Passage 2",
+ "title": "For years, the U",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 426,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "For years, the U.S. has experienced a shortage of registered nurses. The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one million unfilled nursing jobs by then.",
+  "So what's the solution? Robots. Japan is ahead of the curve when it comes to this trend. Toyohashi University of Technology has developed Terapio, a robotic medical cart that can make hospital rounds, deliver medications and other items, and retrieve records. It follows a specific individual, such as a doctor or nurse, who can use it to record and access patient data. This type of robot will likely be one of the first to be implemented in hospitals because it has fairly minimal patient contact. Robots capable of social engagement help with loneliness as well as cognitive functioning, but the robot itself doesn't have to engage directly--it can serve as an intermediary for human communication. Telepresence robots such as MantaroBot, Vgo, and Giraff can be controlled through a computer, smartphone, or tablet, allowing family members or doctors to remotely monitor patients or Skype them, often via a screen where the robot's `face' would be. If you can't get to the nursing home to visit grandma, you can use a telepresence robot to hang out with her. A 2016 study found that users had a \"consistently positive attitude\" about the Giraff robot's ability to enhance communication and decrease feelings of loneliness. A robot's appearance affects its ability to successfully interact with humans, which is why the RIKEN-TRI Collaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy bear. RIBA (Robot for Interactive Body On the less cute and more scary side there is Actroid F, which is so human-like that some patients may not know the difference. This conversational robot companion has cameras in its eyes, which allow it to track patients and use appropriate facial expressions and body language in its interactions. During a month-long hospital trial, researchers asked 70 patients how they felt being around the robot and \"only three or four said they didn't like having it around.\" It's important to note that robotic nurses don't decide courses of treatment or make diagnoses (though robot doctors and surgeons may not be far off). Instead, they perform routine and laborious tasks, freeing nurses up to attend to patients with immediate needs. This is one industry where it seems the integration of robots will lead to collaboration, not replacement."
+ ],
+ "questions": [
+  {
+   "q": "文中 “Bureau” 最接近的意思是?",
+   "options": [
+    "订婚",
+    "医学的， 医疗的",
+    "办公室",
+    "增加,增长,增进"
+   ],
+   "answer": 2,
+   "analysis": "“Bureau” 意为「办公室」。原文语境:The Bureau of Labor Statistics projects that while the number of nurses will increase by 19 percent by 2022, demand will grow faster than supply, and that there will be over one mi",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:A robot's ___ affects its ability to successfully interact with humans, which is why the RIKEN-TRI Collaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy bear.",
+   "options": [
+    "shortage",
+    "appearance",
+    "treatment",
+    "University"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“A robot's appearance affects its ability to successfully interact with humans, which is why the RIKEN-TRI Collaboration Center for Human-Interactive Robot Research decided to develop a robotic nurse that looks like a huge teddy bear.”。空格处应填入 “appearance”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "For years, the U",
+    "What a waste of money",
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "Schools are not just a microcosm ( JJ ) of society; they mediate it too"
+   ],
+   "answer": 0,
+   "analysis": "本文以“For years, the U.S.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

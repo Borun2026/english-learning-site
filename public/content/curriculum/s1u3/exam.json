@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u3",
+  "stage": 1,
+  "unitId": "s1u3",
+  "title": "真题演练 · 一般过去时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 一般过去时。",
+  "questions": [
+    {
+      "q": "I ___ TV last night.",
+      "options": [
+        "watch",
+        "watched",
+        "watches",
+        "watching"
+      ],
+      "answer": 1,
+      "analysis": "last night 是过去时间,watch 规则变化加 -ed。",
+      "point": "g-s1u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She ___ a letter to her friend yesterday.",
+      "options": [
+        "write",
+        "wrote",
+        "writes",
+        "writing"
+      ],
+      "answer": 1,
+      "analysis": "write 的不规则过去式是 wrote。",
+      "point": "g-s1u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ you ___ your homework yesterday?",
+      "options": [
+        "Do / do",
+        "Did / do",
+        "Did / did",
+        "Does / does"
+      ],
+      "answer": 1,
+      "analysis": "过去疑问句用 Did + 动词原形 do。",
+      "point": "g-s1u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "There ___ many people at the party last night.",
+      "options": [
+        "is",
+        "are",
+        "was",
+        "were"
+      ],
+      "answer": 3,
+      "analysis": "people 是复数,且是过去时间,be 用 were。",
+      "point": "g-s1u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He didn't ___ breakfast this morning.",
+      "options": [
+        "have",
+        "had",
+        "has",
+        "having"
+      ],
+      "answer": 0,
+      "analysis": "didn't 后接动词原形 have,不能写 had。",
+      "point": "g-s1u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I go to the zoo yesterday.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I went to the zoo yesterday.。有 yesterday 要用一般过去时,go→went。",
+      "point": "g-s1u3",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

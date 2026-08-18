@@ -1,0 +1,57 @@
+{
+ "id": "cet6-097",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年6月 · 2024年6月英语六级真题(第1套) Passage 1",
+ "title": "Sarcasm and jazz have something surprisingly in common: You know them when yo...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 448,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Sarcasm and jazz have something surprisingly in common: You know them when you hear them. Sarcasm is mostly understood through tone of voice, which is used to portray the opposite of the literal words. For example, when someone says, \"Well, that's exactly what I need right now,\" their tone can tell you it's not what they need at all.",
+  "Most frequently, sarcasm highlights an irritation or is, quite simply, mean. If you want to be happier and improve your relationships, cut out sarcasm. Why? Because sarcasm is actually hostility disguised as humor. Despite smiling outwardly, many people who receive sarcastic comments feel put down and often think the sarcastic person is rude, or contemptible. Indeed, it's not surprising that the origin of the word sarcasm derives from the Greek word \"sarkazein\" which literally means \"to tear or strip the flesh off.\" Hence, it's no wonder that sarcasm is often preceded by the word \"cutting\" and that it hurts. What's more, since actions strongly determine thoughts and feelings, when a person consistently acts sarcastically it may only serve to heighten their underlying hostility and insecurity. After all, when you come right down to it, sarcasm can be used as a subtle form of bullying -- and most bullies are angry, insecure, or cowardly. Alternatively, when a person stops voicing negative comments, especially sarcastic ones, they may soon start to feel happier and more self-confident. Also, other people in their life benefit even more because they no longer have to hear the emotionally hurtful language of sarcasm. Now, I'm not saying all sarcasm is bad. It may just be better used sparingly -- like a potent spice in cooking. Too much of the spice, and the dish will be overwhelmed by it. Similarly, an occasional dash of sarcastic wit can spice up a chat and add an element of humor to it. But a big or steady serving of sarcasm will overwhelm the emotional flavor of any conversation and can taste very bitter to its recipient. So, tone down the sarcasm and work on clever wit instead, which is usually without any hostility and thus more appreciated by those you're communicating with. In essence, sarcasm is easy while true, harmless wit takes talent.",
+  "Thus, the main difference between wit and sarcasm is that, as already stated, sarcasm is often hostility disguised as humor. It can be intended to hurt and is often bitter and biting. Witty statements are usually in response to someone's unhelpful remarks or behaviors, and the intent is to untangle and clarify the issue by emphasizing its absurdities. Sarcastic statements are expressed in a cutting manner; witty remarks are delivered with undisguised and harmless humor."
+ ],
+ "questions": [
+  {
+   "q": "文中 “irritation” 最接近的意思是?",
+   "options": [
+    "激怒， 恼怒",
+    "使受益",
+    "声音",
+    "方法，手段，金钱，财富"
+   ],
+   "answer": 0,
+   "analysis": "“irritation” 意为「激怒， 恼怒」。原文语境:Most frequently, sarcasm highlights an irritation or is, quite simply, mean.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Sarcasm is mostly understood through tone of voice, which is used to portray the opposite of the ___ words.",
+   "options": [
+    "literal",
+    "steady",
+    "between",
+    "insecure"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“Sarcasm is mostly understood through tone of voice, which is used to portray the opposite of the literal words.”。空格处应填入 “literal”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "These days, nobody needs to cook",
+    "The Ebro Delta, in Spain, famous as a battleground during the Spanish Civil W",
+    "Sarcasm and jazz have something surprisingly in common: You know them when yo",
+    "Is hunting good or bad for the environment"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Sarcasm and jazz have something surprisingly in common: You know them when you hear them.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

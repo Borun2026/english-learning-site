@@ -1,0 +1,63 @@
+{
+ "id": "cet6-091",
+ "type": "cet6-passage",
+ "year": 2024,
+ "source": "六级真题 2024年12月 · 2024年12月英语六级真题(第1套) Passage 1",
+ "title": "Imagine you're an alien sent to Earth to document the behaviour of the mammal...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 453,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Imagine you're an alien sent to Earth to document the behaviour of the mammals inhabiting the planet. You stumble into a movie theatre that's showing the latest Hollywood horror film.",
+  "Several dozen humans are gathered together in a dark, undecorated room. They're all staring at a rectangular area on which patterns of light change rapidly.",
+  "They are clearly in a state of high arousal. Their heart rate is elevated, they occasionally glance around nervously, and they sometimes jump collectively in their seats, and emit high-pitched warning calls.",
+  "Eventually, the lights come up and the rectangular screen goes black. The humans stand up and leave the room, chatting and laughing, and showing signs of pleasure.",
+  "Why do these humans voluntarily expose themselves to what appears to be a deeply unpleasant experience? And why do they react so strongly to those patterns of light on a screen?",
+  "I am fascinated with the paradox of horror -- the strange fact that many people seek out scary entertainment. I think the answer to the puzzle lies in human nature. My research suggests that we humans evolved to find pleasure in situations that allow us to experience negative emotions in a safe context. You can see these elements of horror in children's games. Take hide-and-seek for example, which is a simulation of a predator-prey interaction. The kid hides and the adult pretends to be a predator, searching for the child while howling like a dangerous beast. This simulation gives the child crucial information about how to avoid becoming prey, and children tend to find that kind of activity deeply satisfying, presumably because it gives them a safe experience of a potentially catastrophic scenario. They find it pleasurable, and pleasure is evolution's way of motivating us toward adaptive behaviour.",
+  "Horror is pleasurable to many people because it lets us play with negative emotions and develop coping strategies. We learn what it feels like to be truly afraid, and we learn how to handle negative emotion.",
+  "How, then, does horror work? My research suggests that horror works by exploiting an ancient set of biological defence mechanisms -- an evolved fear system, which we share with other animals. But humans are uniquely imaginative, and we use our evolved imagination to travel into virtual worlds that are full of danger.",
+  "There are good reasons for watching a horror film, even if you're not a loyal horror fan. If you make it through the film in one piece, you'll probably experience a strong sense of mastery, a sense that you were able to make it through an appalling experience. Anyway, watching a horror film makes you better at handling your own fear, and who knows when that will become critically relevant?"
+ ],
+ "questions": [
+  {
+   "q": "文中 “better” 最接近的意思是?",
+   "options": [
+    "明白地，清晰地",
+    "可怕的， 骇人的",
+    "较好的",
+    "发展"
+   ],
+   "answer": 2,
+   "analysis": "“better” 意为「较好的」。原文语境:Anyway, watching a horror film makes you better at handling your own fear, and who knows when that will become critically relevant?",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:We learn what it feels like to be ___ afraid, and we learn how to handle negative emotion.",
+   "options": [
+    "potentially",
+    "imaginative",
+    "truly",
+    "sometimes"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“We learn what it feels like to be truly afraid, and we learn how to handle negative emotion.”。空格处应填入 “truly”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal",
+    "On Jan",
+    "Social media is absolutely everywhere",
+    "What can be done about mass unemployment"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Imagine you're an alien sent to Earth to document the behaviour of the mammals inhabiting the planet.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

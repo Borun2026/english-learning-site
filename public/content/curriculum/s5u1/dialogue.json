@@ -1,0 +1,155 @@
+{
+  "id": "d-s5u1",
+  "stage": 5,
+  "unitId": "s5u1",
+  "scene": "学术演讲与问答环节",
+  "goal": "在学术会议上顺利完成演讲,并得体地回应听众提问、与听众有效互动",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "主持人 Dr. Harris (会议主席)",
+      "line": "Ladies and gentlemen, I am delighted to introduce our next speaker, who will present her findings on the impact of artificial intelligence on higher education.",
+      "lineCn": "女士们先生们,我很高兴向大家介绍下一位演讲者,她将报告关于人工智能对高等教育影响的研究发现。",
+      "grammar": [
+        { "name": "It is widely acknowledged that...", "note": "学术演讲开场的经典句式:被动化的认知动词引出公认观点,既客观又正式,如 It is widely acknowledged that AI is reshaping education." }
+      ],
+      "options": [
+        { "text": "Good morning, everyone. It is widely acknowledged that artificial intelligence is reshaping education, yet the empirical evidence remains surprisingly limited.", "textCn": "大家早上好。人们普遍认为人工智能正在重塑教育,然而实证证据却出人意料地有限。", "feedback": "出色的开场:先承认公认观点,再用 yet 转折亮出研究缺口,既正式又抓人。", "next": "n2" },
+        { "text": "Hi guys, so I guess I will talk about AI and schools and stuff, I hope you like it.", "textCn": "嗨,各位,我猜我要讲讲人工智能和学校那些事儿,希望你们喜欢。", "feedback": "guys、stuff 等口语词在学术演讲中不合时宜,内容也空洞,主席不得不提醒你重新开始。", "next": "n3" },
+        { "text": "I am sorry, I have not prepared any slides, so I will just say a few words.", "textCn": "抱歉,我没准备任何幻灯片,所以我就随便说几句。", "feedback": "开场先为准备不足道歉,严重损害可信度,需要重新组织开场。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "听众 A (提问者)",
+      "line": "Thank you for that opening. Could you clarify how you operationalised the term \"learning outcomes\" in your study?",
+      "lineCn": "感谢你的开场。你能说明一下研究中是如何把“学习成果”这个术语操作化定义的吗?",
+      "grammar": [
+        { "name": "Could you clarify how...", "note": "学术讨论中礼貌提问的句式:could + 询问动词 + how 引导的宾语从句,比 can 更委婉正式。" }
+      ],
+      "options": [
+        { "text": "Certainly. I operationalised it as measurable improvements in students' performance on standardised assessments over one academic semester.", "textCn": "当然。我将其操作化为:学生在一整个学期内,标准化测评成绩的可测量提升。", "feedback": "定义严谨、用词正式 (operationalise, standardised assessments),完美回应了提问。", "next": "n4" },
+        { "text": "Learning outcomes are basically how well students do in their exams, I suppose.", "textCn": "学习成果基本上就是学生在考试中考得怎么样,我猜是这样。", "feedback": "basically、I suppose 等模糊口语削弱了定义的精确性,听众要求你重新表述。", "next": "n5" },
+        { "text": "I do not think I need to explain that; everyone in this room knows what it means.", "textCn": "我觉得这不用解释,在座各位都知道它是什么意思。", "feedback": "回避定义问题显得傲慢,违背学术交流的基本礼节。", "next": "n5" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "主持人 Dr. Harris (会议主席)",
+      "line": "Perhaps you might begin again, framing your topic in a more formal register so that the audience can follow your argument.",
+      "lineCn": "也许你可以重新开始,用更正式的语体来组织话题,以便听众跟上你的论证。",
+      "grammar": [
+        { "name": "Perhaps you might...", "note": "委婉建议句式:perhaps + might 弱化命令感,是学术场合提醒他人的得体说法。" }
+      ],
+      "options": [
+        { "text": "Thank you for the guidance. To begin with, I intend to examine the extent to which AI tools enhance autonomous learning among undergraduates.", "textCn": "感谢指点。首先,我打算考察人工智能工具在多大程度上促进了本科生的自主学习。", "feedback": "用 To begin with 和 the extent to which 重建正式开场,成功挽回局面。", "next": "n4" },
+        { "text": "Fine. So, um, AI is a big thing now and lots of universities use it, right?", "textCn": "好吧。那,嗯,人工智能现在可火了,好多大学都在用,对吧?", "feedback": "仍是口语填充语 (um, a big thing, right?),未按要求提升语体,演讲难以为继。", "next": "fail1" },
+        { "text": "Sorry, I am rather nervous. Could I perhaps begin from the middle instead?", "textCn": "抱歉,我有点紧张。我可以从中间开始讲吗?", "feedback": "怯场且避开开场结构,听众难以跟上,演讲只能草草收场。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "听众 B (质疑样本量)",
+      "line": "Your data are impressive, but I wonder whether the sample of eighty students is sufficient to support such a bold conclusion.",
+      "lineCn": "你的数据令人印象深刻,但我怀疑八十名学生的样本是否足以支撑如此大胆的结论。",
+      "grammar": [
+        { "name": "I wonder whether...", "note": "委婉质疑的句式:直接否定显得粗鲁,而 I wonder whether 把质疑包装成疑问,是学术圈通用做法。" }
+      ],
+      "options": [
+        { "text": "That is a fair point. To a certain extent, I concede the sample is modest; however, the effect remains statistically significant at the 0.01 level.", "textCn": "你说得有道理。在某种程度上,我承认样本偏小;然而,该效应在 0.01 水平上仍具有统计显著性。", "feedback": "先承认、再限定、最后用证据反击,典型的学术回应,既谦逊又有力。", "next": "n6" },
+        { "text": "I disagree entirely. My sample is perfectly adequate, and I fail to see any problem with it.", "textCn": "我完全不同意。我的样本非常充足,我看不出有任何问题。", "feedback": "全盘否定、毫不让步,防御性过强,讨论气氛迅速恶化。", "next": "fail2" },
+        { "text": "A fair concern. I shall address the sampling limitations shortly, as they are acknowledged in the discussion section.", "textCn": "合理的关切。我稍后会谈到样本局限,讨论部分对此也有所交代。", "feedback": "承认关切并预告处理方式,态度得体,讨论得以继续。", "next": "n6" }
+      ]
+    },
+    "n5": {
+      "id": "n5",
+      "speaker": "听众 A (要求重新表述)",
+      "line": "I am not sure I follow. In essence, could you restate that definition in plainer terms?",
+      "lineCn": "我不太确定自己理解了。从本质上说,你能用更平实的语言重述一下那个定义吗?",
+      "grammar": [
+        { "name": "In essence", "note": "学术口语中表示“本质上”的过渡短语,用于概括核心含义,常与 restate 搭配使用。" }
+      ],
+      "options": [
+        { "text": "Certainly. In essence, the term refers to the extent to which students' test scores improve over the course of a single semester.", "textCn": "当然。本质上,这个术语指的是学生的考试成绩在一个学期内的提升幅度。", "feedback": "用 In essence 清晰重述,解释到位,提问者满意,回到主线。", "next": "n4" },
+        { "text": "It is obvious, is it not? I assumed everyone in this room would understand.", "textCn": "这很明显,不是吗?我以为在座各位都该懂。", "feedback": "反问加居高临下的语气,让听众感到被冒犯,交流彻底中断。", "next": "fail1" },
+        { "text": "What I mean is that I measured whether students got better at exams after using the software.", "textCn": "我的意思是我衡量了学生用了这个软件之后考试是不是变好了。", "feedback": "意思大致准确,但表述仍偏口语,算勉强通过的回答。", "next": "n4" }
+      ]
+    },
+    "n6": {
+      "id": "n6",
+      "speaker": "听众 C (混淆因素挑战)",
+      "line": "You attribute the improvement to AI, but is it not equally plausible that highly motivated students simply happen to use these tools more?",
+      "lineCn": "你把进步归因于人工智能,但同样可能的是:高动机的学生恰好更多地使用这些工具,难道不是吗?",
+      "grammar": [
+        { "name": "Is it not equally plausible that...?", "note": "学术反驳的经典句式:用反诘句提出替代解释 (rival explanation),既尖锐又礼貌。" }
+      ],
+      "options": [
+        { "text": "Although it is true that motivation may confound the results, we controlled for prior attainment and study time in the regression analysis.", "textCn": "诚然,动机可能混淆结果,但我们在回归分析中控制了先前成绩和学习时间。", "feedback": "although 让步加控制变量的证据反击,句式与内容俱佳,完美化解质疑。", "next": "n7" },
+        { "text": "No, that is not true at all. You are completely wrong about my study.", "textCn": "不,完全不对。你对我的研究完全理解错了。", "feedback": "直接否定对方且毫无依据,激化了对抗,会场气氛难以为继。", "next": "fail2" },
+        { "text": "I appreciate the point. In fact, we compared two matched cohorts precisely to rule out that possibility.", "textCn": "我理解这一点。事实上,我们正是通过比较两个匹配队列来排除这种可能性的。", "feedback": "肯定对方观点并给出具体应对,交流顺畅,质疑也得到解答。", "next": "n7" }
+      ]
+    },
+    "n7": {
+      "id": "n7",
+      "speaker": "听众 B (伦理问题)",
+      "line": "Before we move on, did you obtain ethical clearance for the data collected from underage participants?",
+      "lineCn": "在我们继续之前,请问你获得收集未成年参与者数据的伦理审批了吗?",
+      "grammar": [
+        { "name": "Before we move on", "note": "会议讨论中转移话题前的过渡语,表示“在我们继续之前”,让提问衔接自然得体。" }
+      ],
+      "options": [
+        { "text": "Yes, indeed. Ethical clearance was granted by the university committee, and all participants provided informed consent.", "textCn": "是的。伦理审批已获大学委员会批准,所有参与者均签署了知情同意书。", "feedback": "直接、完整地给出审批与知情同意信息,展示研究规范性。", "next": "n8" },
+        { "text": "Ethics? I did not think it was necessary for such a small project.", "textCn": "伦理?我认为这么小的项目没有必要吧。", "feedback": "轻视伦理审批是学术大忌,听众对你的专业性产生严重质疑。", "next": "fail2" },
+        { "text": "All procedures were approved in advance; I can share the reference number with you after the session.", "textCn": "所有程序均事先获批,会后我可以把审批编号提供给你。", "feedback": "给出关键信息并主动提供凭证,回应完整得体。", "next": "n8" }
+      ]
+    },
+    "n8": {
+      "id": "n8",
+      "speaker": "主持人 Dr. Harris (会议主席)",
+      "line": "We are running short of time. In conclusion, could you distil your principal takeaway into one or two sentences?",
+      "lineCn": "我们时间不多了。最后,你能用一两句话提炼出你最主要的结论吗?",
+      "grammar": [
+        { "name": "In conclusion", "note": "总结环节的标准提示语,听众据此预期你收束全文,而非引入新观点。" }
+      ],
+      "options": [
+        { "text": "In conclusion, AI tools, when carefully integrated, yield a modest yet consistent improvement in learning outcomes, particularly for weaker students.", "textCn": "总而言之,人工智能工具在精心整合的情况下,能带来温和而稳定的学习成果提升,对较弱学生尤其明显。", "feedback": "一句话总结核心发现并点明适用对象,干净利落,主席满意收场。", "next": "success" },
+        { "text": "To wrap up, I guess AI is pretty good for education, and I hope you all enjoyed my talk. Thanks!", "textCn": "总之,我猜人工智能对教育挺好的,希望你们喜欢我的演讲。谢谢!", "feedback": "总结空洞、语体随意 (guess, pretty good),与正式的开场腔调脱节,留有遗憾。", "next": "fail1" },
+        { "text": "To conclude, the evidence suggests that well-designed AI tutoring benefits lower-achieving students the most, which carries clear policy implications.", "textCn": "总而言之,证据表明设计良好的 AI 辅导对低成就学生帮助最大,这具有明确的政策含义。", "feedback": "结论既有发现又有延伸意义,收尾完整专业。", "next": "success" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "主持人 Dr. Harris (会议主席)",
+      "line": "A rigorous presentation and a series of insightful answers. Thank you, and please join me in thanking our speaker.",
+      "lineCn": "一场严谨的报告和一系列富有洞见的回答。谢谢你,请大家一起感谢我们的演讲者。",
+      "grammar": [
+        { "name": "A rigorous presentation", "note": "rigorous (严谨的) 是学术评价高频词,常形容研究方法或报告本身,而非 speaker。" }
+      ],
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "主持人 Dr. Harris (会议主席)",
+      "line": "I am afraid our session must move on. We thank you for sharing your initial ideas today.",
+      "lineCn": "恐怕我们的环节必须继续了。我们感谢你今天分享的初步想法。",
+      "grammar": [
+        { "name": "I am afraid...", "note": "正式场合礼貌打断或婉拒的软语标记,后面常接 must,弱化直接冲突。" }
+      ],
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "听众 B (质疑者)",
+      "line": "Thank you for your time. Given the concerns raised, I trust the written paper will address these issues in greater depth.",
+      "lineCn": "感谢你的时间。鉴于提出的这些疑虑,我相信书面论文会更深入地处理这些问题。",
+      "grammar": [
+        { "name": "Given the concerns raised", "note": "given + 名词短语表示“鉴于……”,是学术口头与书面中交代背景条件的正式结构。" }
+      ],
+      "end": true,
+      "success": false
+    }
+  }
+}

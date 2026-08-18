@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u3",
+  "stage": 3,
+  "unitId": "s3u3",
+  "title": "真题演练 · 非谓语作定语",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 非谓语作定语。",
+  "questions": [
+    {
+      "q": "The book ___ on the desk belongs to Tom.",
+      "options": [
+        "lay",
+        "laying",
+        "lying",
+        "lied"
+      ],
+      "answer": 2,
+      "analysis": "lying 表主动进行,\"躺/平放\"的不及物用法。",
+      "point": "g-s3u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The problems ___ at the meeting will be solved next week.",
+      "options": [
+        "discussed",
+        "discussing",
+        "discuss",
+        "to discuss"
+      ],
+      "answer": 0,
+      "analysis": "problems 被讨论,用过去分词 discussed。",
+      "point": "g-s3u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "She was the first woman ___ the mountain.",
+      "options": [
+        "climbed",
+        "climbing",
+        "to climb",
+        "climbs"
+      ],
+      "answer": 2,
+      "analysis": "the first 后接 to do 作定语。",
+      "point": "g-s3u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The students ___ from Class 3 won the game.",
+      "options": [
+        "come",
+        "coming",
+        "came",
+        "to come"
+      ],
+      "answer": 1,
+      "analysis": "主动进行,coming 相当于 who came。",
+      "point": "g-s3u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I have nothing ___ about the plan.",
+      "options": [
+        "worried",
+        "to worry",
+        "worrying",
+        "worry"
+      ],
+      "answer": 1,
+      "analysis": "nothing + to do,不定式作定语表将来。",
+      "point": "g-s3u3",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:The window breaking last night has been repaired.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:The window broken last night has been repaired.。窗户是\"被打破\"的,要用过去分词 broken,不是主动的 breaking。",
+      "point": "g-s3u3",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

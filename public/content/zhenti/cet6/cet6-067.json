@@ -1,0 +1,66 @@
+{
+ "id": "cet6-067",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第2套) Passage 1",
+ "title": "We often think of drawing as something that takes inborn talent, but this kin...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 449,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "We often think of drawing as something that takes inborn talent, but this kind of thinking stems from our misclassification of drawing as, primarily, an art form rather than a tool for learning.",
+  "Researchers, teachers, and artists are starting to see how drawing can positively impact a wide variety of skills and disciplines.",
+  "Most of us have spent some time drawing before, but at some point, most of us stop drawing. There are people who don't, obviously, and thank god for that: a world without designers and artists would be a very shabby one indeed.",
+  "Some argue that so many adults have abandoned drawing because we've miscategorized it and given it a very narrow definition. In his book, Stick Figures: Drawing as a Human Practice, Professor D. B. Dowd argues that we have misfiled the significance of drawing because we see it as a professional skill instead of a personal capacity. We mistakenly think of \"good\" drawings as those which work as recreations of the real world, as realistic illusions. Rather, drawing should be recategorized as a symbolic tool.",
+  "Human beings have been drawing for 73,OOO years. It's part of what it means to be human. We don't have the strength of chimpanzees (:ic.fi) because we've given up animal strength to manipulate subtle instruments, like hammers, spears, and-later-pens and pencils. The human hand is an extremely dense network of nerve endings. In many ways, human beings are built to draw.",
+  "Some researchers argue that doodling activates the brain's so-called default circuitessentially, the areas of the brain responsible for maintaining a baseline level of activity in the absence of other stimuli. Because of this, some believe that doodling during a boring lecture can help students pay attention. In one study, participants were asked to listen to a list of names while either doodling or sitting still. Those who doodled remembered 29 percent more of the names than those who did not. There's also evidence that drawing talent is based on how accurately someone perceives the world. The human visual system tends to misjudge size, shape, color, and angles but artists perceive these",
+  "qualities more accurately than non-artists. Cultivating drawing talent can become an essential tool to",
+  "improve people's observational skills in fields where the visual is important.",
+  "Rather than �think of drawing as a talent that some creative people are gifted in, we should consider it",
+  "as a tool for seeing and understanding the world better-one that just so happens to double as an art form.",
+  "Both absent-minded doodling and copying from life have been shown to positively affect your memory and",
+  "visual perception, so complain loudly the next time your school board slashes the art department's budget."
+ ],
+ "questions": [
+  {
+   "q": "文中 “narrow” 最接近的意思是?",
+   "options": [
+    "个人的",
+    "确定的，断然",
+    "学习",
+    "狭窄的，有限的"
+   ],
+   "answer": 3,
+   "analysis": "“narrow” 意为「狭窄的，有限的」。原文语境:Some argue that so many adults have abandoned drawing because we've miscategorized it and given it a very narrow definition.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Most of us have spent some time drawing before, but at some ___, most of us stop drawing.",
+   "options": [
+    "argue",
+    "point",
+    "budget",
+    "default"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Most of us have spent some time drawing before, but at some point, most of us stop drawing.”。空格处应填入 “point”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "In a few decades, artificial intelligence will surpass many of the abili",
+    "The trend toward rationality and enlightenment was endangered long before the",
+    "We often think of drawing as something that takes inborn talent, but this kin",
+    "Is hunting good or bad for the environment"
+   ],
+   "answer": 2,
+   "analysis": "本文以“We often think of drawing as something that takes inborn talent, but this kind of thinking stems from our misclassification of drawing as, primarily, an art for”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

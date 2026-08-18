@@ -1,0 +1,1334 @@
+{
+  "id": "a-s3u10",
+  "stage": 3,
+  "unitId": "s3u10",
+  "title": "A Day of Small Tasks",
+  "newWords": [
+    "articulate",
+    "consolidate",
+    "impartial",
+    "complication",
+    "complexity",
+    "dedicate",
+    "abundance",
+    "versatile",
+    "continuity"
+  ],
+  "sentences": [
+    {
+      "text": "I put off the payment until Friday, and then I get down to work.",
+      "translation": "我把付款推迟到星期五,然后开始认真干活。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 put off)",
+          "color": "#a8dab5",
+          "text": "I put off the payment until Friday",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "put off"
+            },
+            {
+              "role": "宾语",
+              "text": "the payment"
+            },
+            {
+              "role": "状语",
+              "text": "until Friday"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and then"
+        },
+        {
+          "label": "主干(主谓,短语动词 get down to)",
+          "color": "#a8dab5",
+          "text": "I get down to work"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 put off",
+          "note": "put off 意为\"推迟\"。",
+          "example": "Do not put off your homework.",
+          "exampleCn": "不要把作业推迟。"
+        },
+        {
+          "name": "短语动词 get down to",
+          "note": "get down to + 名词 意为\"开始认真做\"。",
+          "example": "Get down to business now.",
+          "exampleCn": "现在开始干正事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "I put off the payment until Friday",
+          "name": "短语动词 put off"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "I put off the payment until Friday",
+          "name": "短语动词 get down to"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要把作业推迟。",
+          "answer": "Do not put off your homework.",
+          "note": "put off 意为\"推迟\"。",
+          "point": "短语动词 put off"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:现在开始干正事。",
+          "answer": "Get down to business now.",
+          "note": "get down to + 名词 意为\"开始认真做\"。",
+          "point": "短语动词 get down to"
+        }
+      ]
+    },
+    {
+      "text": "We look into the matter and sort out the mistake in the record.",
+      "translation": "我们调查此事,并查清记录中的错误。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 look into)",
+          "color": "#a8dab5",
+          "text": "We look into the matter",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "look into"
+            },
+            {
+              "role": "宾语",
+              "text": "the matter"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语,短语动词 sort out)",
+          "color": "#a8dab5",
+          "text": "and sort out the mistake in the record"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 look into",
+          "note": "look into 意为\"调查\"。",
+          "example": "The police will look into the case.",
+          "exampleCn": "警方将调查此案。"
+        },
+        {
+          "name": "短语动词 sort out",
+          "note": "sort out 意为\"解决、理清\"。",
+          "example": "Sort out the problem first.",
+          "exampleCn": "先解决问题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "and sort out the mistake in the record",
+          "name": "短语动词 look into"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "and sort out the mistake in the record",
+          "name": "短语动词 sort out"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:警方将调查此案。",
+          "answer": "The police will look into the case.",
+          "note": "look into 意为\"调查\"。",
+          "point": "短语动词 look into"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:先解决问题。",
+          "answer": "Sort out the problem first.",
+          "note": "sort out 意为\"解决、理清\"。",
+          "point": "短语动词 sort out"
+        }
+      ]
+    },
+    {
+      "text": "I come across an old letter in the drawer and read it twice.",
+      "translation": "我在抽屉里偶然发现一封旧信,读了两遍。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 come across)",
+          "color": "#a8dab5",
+          "text": "I come across an old letter in the drawer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "come across"
+            },
+            {
+              "role": "宾语",
+              "text": "an old letter"
+            },
+            {
+              "role": "状语",
+              "text": "in the drawer"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语)",
+          "color": "#a8dab5",
+          "text": "and read it twice"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 come across",
+          "note": "come across 意为\"偶然发现\"。",
+          "example": "I came across an old photo.",
+          "exampleCn": "我偶然发现一张旧照片。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "I come across an old letter in the drawer",
+          "name": "短语动词 come across"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我偶然发现一张旧照片。",
+          "answer": "I came across an old photo.",
+          "note": "come across 意为\"偶然发现\"。",
+          "point": "短语动词 come across"
+        }
+      ]
+    },
+    {
+      "text": "Please carry out the final check before you hand in the report.",
+      "translation": "请在你交报告之前进行最后的检查。",
+      "chunks": [
+        {
+          "label": "主干(祈使句,短语动词 carry out)",
+          "color": "#a8dab5",
+          "text": "Please carry out the final check"
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#8ab4f8",
+          "text": "before you hand in the report"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 carry out",
+          "note": "carry out 意为\"执行、实施\"。",
+          "example": "Carry out the plan carefully.",
+          "exampleCn": "认真执行计划。"
+        },
+        {
+          "name": "短语动词 hand in",
+          "note": "hand in 意为\"上交\"。",
+          "example": "Hand in your paper on time.",
+          "exampleCn": "按时交论文。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "Please carry out the final check",
+          "name": "短语动词 carry out"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "Please carry out the final check",
+          "name": "短语动词 hand in"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:认真执行计划。",
+          "answer": "Carry out the plan carefully.",
+          "note": "carry out 意为\"执行、实施\"。",
+          "point": "短语动词 carry out"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:按时交论文。",
+          "answer": "Hand in your paper on time.",
+          "note": "hand in 意为\"上交\"。",
+          "point": "短语动词 hand in"
+        }
+      ]
+    },
+    {
+      "text": "Once you get through the phone line, the problem is easy to fix.",
+      "translation": "一旦你打通电话线,这个问题就容易解决了。",
+      "chunks": [
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "Once you get through the phone line"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "the problem is easy to fix"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 get through",
+          "note": "get through 意为\"接通(电话)、通过\"。",
+          "example": "I finally got through to her.",
+          "exampleCn": "我终于打通了她的电话。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "Once you get through the phone line",
+          "name": "短语动词 get through"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我终于打通了她的电话。",
+          "answer": "I finally got through to her.",
+          "note": "get through 意为\"接通(电话)、通过\"。",
+          "point": "短语动词 get through"
+        }
+      ]
+    },
+    {
+      "text": "He will turn down the offer if the price is too low.",
+      "translation": "如果价格太低,他会拒绝这个报价。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 turn down)",
+          "color": "#a8dab5",
+          "text": "He will turn down the offer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "He"
+            },
+            {
+              "role": "谓语",
+              "text": "will turn down"
+            },
+            {
+              "role": "宾语",
+              "text": "the offer"
+            }
+          ]
+        },
+        {
+          "label": "条件状语从句",
+          "color": "#f6c177",
+          "text": "if the price is too low"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 turn down",
+          "note": "turn down 意为\"拒绝\"。",
+          "example": "She turned down the invitation.",
+          "exampleCn": "她拒绝了邀请。"
+        },
+        {
+          "name": "if 条件句",
+          "note": "主句 will do,从句一般现在时。",
+          "example": "If it rains, we will stay.",
+          "exampleCn": "如果下雨,我们就留下。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "He will turn down the offer",
+          "name": "短语动词 turn down"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "He will turn down the offer",
+          "name": "if 条件句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她拒绝了邀请。",
+          "answer": "She turned down the invitation.",
+          "note": "turn down 意为\"拒绝\"。",
+          "point": "短语动词 turn down"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:如果下雨,我们就留下。",
+          "answer": "If it rains, we will stay.",
+          "note": "主句 will do,从句一般现在时。",
+          "point": "if 条件句"
+        }
+      ]
+    },
+    {
+      "text": "The manager will ask us to cut down on extra cost.",
+      "translation": "经理将要求我们削减额外开支。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The manager will ask us",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The manager"
+            },
+            {
+              "role": "谓语",
+              "text": "will ask"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            }
+          ]
+        },
+        {
+          "label": "宾补(不定式,短语动词 cut down on)",
+          "color": "#9fd8e8",
+          "text": "to cut down on extra cost"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "ask sb to do",
+          "note": "ask 后接宾语再接不定式。",
+          "example": "He asked me to wait.",
+          "exampleCn": "他让我等一等。"
+        },
+        {
+          "name": "短语动词 cut down on",
+          "note": "cut down on 意为\"削减\"。",
+          "example": "Cut down on sugar.",
+          "exampleCn": "减少糖的摄入。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "to cut down on extra cost",
+          "name": "ask sb to do"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "to cut down on extra cost",
+          "name": "短语动词 cut down on"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他让我等一等。",
+          "answer": "He asked me to wait.",
+          "note": "ask 后接宾语再接不定式。",
+          "point": "ask sb to do"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:减少糖的摄入。",
+          "answer": "Cut down on sugar.",
+          "note": "cut down on 意为\"削减\"。",
+          "point": "短语动词 cut down on"
+        }
+      ]
+    },
+    {
+      "text": "Do not give up after one failure; try another way.",
+      "translation": "一次失败后不要放弃;试试别的方法。",
+      "chunks": [
+        {
+          "label": "主干(祈使句,短语动词 give up)",
+          "color": "#a8dab5",
+          "text": "Do not give up after one failure"
+        },
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "try another way"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 give up",
+          "note": "give up 意为\"放弃\"。",
+          "example": "Never give up your dream.",
+          "exampleCn": "永远不要放弃梦想。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "Do not give up after one failure",
+          "name": "短语动词 give up"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:永远不要放弃梦想。",
+          "answer": "Never give up your dream.",
+          "note": "give up 意为\"放弃\"。",
+          "point": "短语动词 give up"
+        }
+      ]
+    },
+    {
+      "text": "We set up a small group to work out every detail together.",
+      "translation": "我们成立了一个小组,一起解决每个细节。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 set up)",
+          "color": "#a8dab5",
+          "text": "We set up a small group",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "set up"
+            },
+            {
+              "role": "宾语",
+              "text": "a small group"
+            }
+          ]
+        },
+        {
+          "label": "状语(不定式表目的,短语动词 work out)",
+          "color": "#8ab4f8",
+          "text": "to work out every detail together"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 set up",
+          "note": "set up 意为\"建立、成立\"。",
+          "example": "They set up a new office.",
+          "exampleCn": "他们成立了一个新办事处。"
+        },
+        {
+          "name": "短语动词 work out",
+          "note": "work out 意为\"解决、算出\"。",
+          "example": "We will work out the problem.",
+          "exampleCn": "我们会解决这个问题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "to work out every detail together",
+          "name": "短语动词 set up"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "to work out every detail together",
+          "name": "短语动词 work out"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他们成立了一个新办事处。",
+          "answer": "They set up a new office.",
+          "note": "set up 意为\"建立、成立\"。",
+          "point": "短语动词 set up"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:我们会解决这个问题。",
+          "answer": "We will work out the problem.",
+          "note": "work out 意为\"解决、算出\"。",
+          "point": "短语动词 work out"
+        }
+      ]
+    },
+    {
+      "text": "I will make up my mind today and deal with the pile of old paper.",
+      "translation": "我今天下定决心,处理那堆旧纸。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 make up one's mind)",
+          "color": "#a8dab5",
+          "text": "I will make up my mind today",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will make up"
+            },
+            {
+              "role": "宾语",
+              "text": "my mind"
+            },
+            {
+              "role": "状语",
+              "text": "today"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语,短语动词 deal with)",
+          "color": "#a8dab5",
+          "text": "and deal with the pile of old paper"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 make up one's mind",
+          "note": "意为\"下定决心\"。",
+          "example": "Make up your mind quickly.",
+          "exampleCn": "快点下定决心。"
+        },
+        {
+          "name": "短语动词 deal with",
+          "note": "deal with 意为\"处理\"。",
+          "example": "Deal with the matter at once.",
+          "exampleCn": "立刻处理这件事。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "and deal with the pile of old paper",
+          "name": "短语动词 make up one's mind"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "and deal with the pile of old paper",
+          "name": "短语动词 deal with"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:快点下定决心。",
+          "answer": "Make up your mind quickly.",
+          "note": "意为\"下定决心\"。",
+          "point": "短语动词 make up one's mind"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:立刻处理这件事。",
+          "answer": "Deal with the matter at once.",
+          "note": "deal with 意为\"处理\"。",
+          "point": "短语动词 deal with"
+        }
+      ]
+    },
+    {
+      "text": "Little by little, we figure out what is truly important in life.",
+      "translation": "渐渐地,我们弄清了生活中真正重要的是什么。",
+      "chunks": [
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "Little by little"
+        },
+        {
+          "label": "主干(主谓,短语动词 figure out)",
+          "color": "#a8dab5",
+          "text": "we figure out"
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "what is truly important in life"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 figure out",
+          "note": "figure out 意为\"弄清楚\"。",
+          "example": "I figured out the answer.",
+          "exampleCn": "我想出了答案。"
+        },
+        {
+          "name": "what 宾语从句",
+          "note": "what is important 作 figure out 的宾语。",
+          "example": "Find out what matters.",
+          "exampleCn": "找出什么才是重要的。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "what is truly important in life",
+          "name": "短语动词 figure out"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "what is truly important in life",
+          "name": "what 宾语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我想出了答案。",
+          "answer": "I figured out the answer.",
+          "note": "figure out 意为\"弄清楚\"。",
+          "point": "短语动词 figure out"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:找出什么才是重要的。",
+          "answer": "Find out what matters.",
+          "note": "what is important 作 figure out 的宾语。",
+          "point": "what 宾语从句"
+        }
+      ]
+    },
+    {
+      "text": "She will take over the task and carry on with the plan.",
+      "translation": "她将接管这项任务,并继续执行计划。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾,短语动词 take over)",
+          "color": "#a8dab5",
+          "text": "She will take over the task",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "She"
+            },
+            {
+              "role": "谓语",
+              "text": "will take over"
+            },
+            {
+              "role": "宾语",
+              "text": "the task"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语,短语动词 carry on)",
+          "color": "#a8dab5",
+          "text": "and carry on with the plan"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "短语动词 take over",
+          "note": "take over 意为\"接管\"。",
+          "example": "She took over the office.",
+          "exampleCn": "她接管了办公室。"
+        },
+        {
+          "name": "短语动词 carry on",
+          "note": "carry on 意为\"继续\"。",
+          "example": "Carry on with your work.",
+          "exampleCn": "继续你的工作。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "She will take over the task",
+          "name": "短语动词 take over"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "She will take over the task",
+          "name": "短语动词 carry on"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:她接管了办公室。",
+          "answer": "She took over the office.",
+          "note": "take over 意为\"接管\"。",
+          "point": "短语动词 take over"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:继续你的工作。",
+          "answer": "Carry on with your work.",
+          "note": "carry on 意为\"继续\"。",
+          "point": "短语动词 carry on"
+        }
+      ]
+    },
+    {
+      "text": "We must not turn our back on a friend in need.",
+      "translation": "我们绝不能在朋友有难时背弃他。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We must not turn our back",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "must not turn"
+            },
+            {
+              "role": "宾语",
+              "text": "our back"
+            }
+          ]
+        },
+        {
+          "label": "状语(介词短语)",
+          "color": "#8ab4f8",
+          "text": "on a friend in need"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "turn one's back on",
+          "note": "意为\"背弃、不理睬\"。",
+          "example": "Do not turn your back on the poor.",
+          "exampleCn": "不要背弃穷人。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "We must not turn our back",
+          "name": "turn one's back on"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:不要背弃穷人。",
+          "answer": "Do not turn your back on the poor.",
+          "note": "意为\"背弃、不理睬\"。",
+          "point": "turn one's back on"
+        }
+      ]
+    },
+    {
+      "text": "Please articulate your idea with care, so the team will understand.",
+      "translation": "请仔细清晰地表达你的想法,这样团队才能理解。",
+      "chunks": [
+        {
+          "label": "主干(祈使句)",
+          "color": "#a8dab5",
+          "text": "Please articulate your idea with care"
+        },
+        {
+          "label": "目的状语从句",
+          "color": "#c8a5e0",
+          "text": "so the team will understand"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "so 引导目的状语从句",
+          "note": "so + 从句 表目的,\"以便\"。",
+          "example": "Speak slowly so all can follow.",
+          "exampleCn": "说慢点,以便大家都能跟上。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "Please articulate your idea with care",
+          "name": "so 引导目的状语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:说慢点,以便大家都能跟上。",
+          "answer": "Speak slowly so all can follow.",
+          "note": "so + 从句 表目的,\"以便\"。",
+          "point": "so 引导目的状语从句"
+        }
+      ]
+    },
+    {
+      "text": "We will consolidate the result and move forward.",
+      "translation": "我们将巩固成果,继续前进。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We will consolidate the result",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "will consolidate"
+            },
+            {
+              "role": "宾语",
+              "text": "the result"
+            }
+          ]
+        },
+        {
+          "label": "主干(并列谓语)",
+          "color": "#a8dab5",
+          "text": "and move forward"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "consolidate 与 move forward 并列。",
+          "example": "We learn and move on.",
+          "exampleCn": "我们学习并继续前进。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "We will consolidate the result",
+          "name": "并列谓语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我们学习并继续前进。",
+          "answer": "We learn and move on.",
+          "note": "consolidate 与 move forward 并列。",
+          "point": "并列谓语"
+        }
+      ]
+    },
+    {
+      "text": "An impartial judge will listen to every side.",
+      "translation": "公正的法官会听取每一方的意见。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An impartial judge will listen to every side",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An impartial judge"
+            },
+            {
+              "role": "谓语",
+              "text": "will listen to"
+            },
+            {
+              "role": "宾语",
+              "text": "every side"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "listen to 短语",
+          "note": "listen to 意为\"倾听\"。",
+          "example": "Listen to both sides first.",
+          "exampleCn": "先听双方的说法。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "An impartial judge will listen to every side",
+          "name": "listen to 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:先听双方的说法。",
+          "answer": "Listen to both sides first.",
+          "note": "listen to 意为\"倾听\"。",
+          "point": "listen to 短语"
+        }
+      ]
+    },
+    {
+      "text": "The complication of the case will grow with time.",
+      "translation": "案件的复杂性将随着时间增长。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The complication of the case"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "will grow"
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "with time"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "with time 短语",
+          "note": "意为\"随着时间\"。",
+          "example": "The risk grows with time.",
+          "exampleCn": "风险随时间的推移而增大。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "The complication of the case",
+          "name": "with time 短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:风险随时间的推移而增大。",
+          "answer": "The risk grows with time.",
+          "note": "意为\"随着时间\"。",
+          "point": "with time 短语"
+        }
+      ]
+    },
+    {
+      "text": "The complexity of the system will surprise the new team.",
+      "translation": "系统的复杂性将让新团队感到惊讶。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The complexity of the system will surprise the new team",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The complexity of the system"
+            },
+            {
+              "role": "谓语",
+              "text": "will surprise"
+            },
+            {
+              "role": "宾语",
+              "text": "the new team"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "complexity 意为\"复杂性\"。",
+          "example": "The size of the task surprised us.",
+          "exampleCn": "任务的规模让我们吃惊。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "The complexity of the system will surprise the new team",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:任务的规模让我们吃惊。",
+          "answer": "The size of the task surprised us.",
+          "note": "complexity 意为\"复杂性\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    },
+    {
+      "text": "She will dedicate the whole morning to the report.",
+      "translation": "她将把整个上午用于写报告。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "She will dedicate the whole morning",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "She"
+            },
+            {
+              "role": "谓语",
+              "text": "will dedicate"
+            },
+            {
+              "role": "宾语",
+              "text": "the whole morning"
+            }
+          ]
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "to the report"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "dedicate A to B",
+          "note": "意为\"把A献给/用于B\"。",
+          "example": "Dedicate more time to reading.",
+          "exampleCn": "把更多时间用于阅读。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "She will dedicate the whole morning",
+          "name": "dedicate A to B"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:把更多时间用于阅读。",
+          "answer": "Dedicate more time to reading.",
+          "note": "意为\"把A献给/用于B\"。",
+          "point": "dedicate A to B"
+        }
+      ]
+    },
+    {
+      "text": "There is an abundance of talent in this office.",
+      "translation": "这个办公室里人才济济。",
+      "chunks": [
+        {
+          "label": "主干(There be 结构)",
+          "color": "#a8dab5",
+          "text": "There is an abundance of talent"
+        },
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "in this office"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "there be 结构",
+          "note": "表\"存在\"。",
+          "example": "There is a problem here.",
+          "exampleCn": "这里有个问题。"
+        },
+        {
+          "name": "an abundance of",
+          "note": "意为\"大量的\"。",
+          "example": "an abundance of energy",
+          "exampleCn": "充沛的精力"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "There is an abundance of talent",
+          "name": "there be 结构"
+        },
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "There is an abundance of talent",
+          "name": "an abundance of"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:这里有个问题。",
+          "answer": "There is a problem here.",
+          "note": "表\"存在\"。",
+          "point": "there be 结构"
+        },
+        {
+          "type": "translate",
+          "prompt": "回译:充沛的精力",
+          "answer": "an abundance of energy",
+          "note": "意为\"大量的\"。",
+          "point": "an abundance of"
+        }
+      ]
+    },
+    {
+      "text": "A versatile tool will save both time and space.",
+      "translation": "多用途工具既能节省时间,又能节省空间。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A versatile tool will save both time and space",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A versatile tool"
+            },
+            {
+              "role": "谓语",
+              "text": "will save"
+            },
+            {
+              "role": "宾语",
+              "text": "both time and space"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "both...and...",
+          "note": "连接两个并列宾语。",
+          "example": "He can speak both English and Chinese.",
+          "exampleCn": "他既会说英语又会说汉语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "A versatile tool will save both time and space",
+          "name": "both...and..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:他既会说英语又会说汉语。",
+          "answer": "He can speak both English and Chinese.",
+          "note": "连接两个并列宾语。",
+          "point": "both...and..."
+        }
+      ]
+    },
+    {
+      "text": "The continuity of the service will win the trust of a new client.",
+      "translation": "服务的连续性将赢得新客户的信任。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The continuity of the service"
+        },
+        {
+          "label": "主干(谓语+宾语)",
+          "color": "#a8dab5",
+          "text": "will win the trust of a new client",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "will win"
+            },
+            {
+              "role": "宾语",
+              "text": "the trust of a new client"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "主谓宾结构",
+          "note": "continuity 意为\"连续性\"。",
+          "example": "Trust comes from honesty.",
+          "exampleCn": "信任来自诚实。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s3u10",
+          "phrase": "will win the trust of a new client",
+          "name": "主谓宾结构"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:信任来自诚实。",
+          "answer": "Trust comes from honesty.",
+          "note": "continuity 意为\"连续性\"。",
+          "point": "主谓宾结构"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s3u10",
+      "name": "短语动词 put off",
+      "note": "put off 意为\"推迟\"。",
+      "sourceExample": "I put off the payment until Friday, and then I get down to work.",
+      "sourceExampleCn": "我把付款推迟到星期五,然后开始认真干活。"
+    },
+    {
+      "grammarId": "g-s3u10",
+      "name": "短语动词 get down to",
+      "note": "get down to + 名词 意为\"开始认真做\"。",
+      "sourceExample": "I put off the payment until Friday, and then I get down to work.",
+      "sourceExampleCn": "我把付款推迟到星期五,然后开始认真干活。"
+    },
+    {
+      "grammarId": "g-s3u10",
+      "name": "短语动词 look into",
+      "note": "look into 意为\"调查\"。",
+      "sourceExample": "We look into the matter and sort out the mistake in the record.",
+      "sourceExampleCn": "我们调查此事,并查清记录中的错误。"
+    },
+    {
+      "grammarId": "g-s3u10",
+      "name": "短语动词 sort out",
+      "note": "sort out 意为\"解决、理清\"。",
+      "sourceExample": "We look into the matter and sort out the mistake in the record.",
+      "sourceExampleCn": "我们调查此事,并查清记录中的错误。"
+    },
+    {
+      "grammarId": "g-s3u10",
+      "name": "短语动词 come across",
+      "note": "come across 意为\"偶然发现\"。",
+      "sourceExample": "I come across an old letter in the drawer and read it twice.",
+      "sourceExampleCn": "我在抽屉里偶然发现一封旧信,读了两遍。"
+    }
+  ]
+}

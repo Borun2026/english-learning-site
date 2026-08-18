@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u5",
+  "stage": 3,
+  "unitId": "s3u5",
+  "title": "真题演练 · 名词性从句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 名词性从句。",
+  "questions": [
+    {
+      "q": "___ we will have a picnic depends on the weather.",
+      "options": [
+        "If",
+        "Whether",
+        "That",
+        "What"
+      ],
+      "answer": 1,
+      "analysis": "主语从句表示\"是否\"用 whether。",
+      "point": "g-s3u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ is known to all that the earth goes around the sun.",
+      "options": [
+        "It",
+        "This",
+        "That",
+        "What"
+      ],
+      "answer": 0,
+      "analysis": "it 作形式主语,真正主语是 that 从句。",
+      "point": "g-s3u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Can you tell me ___ the nearest bank is?",
+      "options": [
+        "where",
+        "what",
+        "which",
+        "that"
+      ],
+      "answer": 0,
+      "analysis": "宾语从句中 where 引导,表地点。",
+      "point": "g-s3u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The problem is ___ we can't afford it.",
+      "options": [
+        "because",
+        "why",
+        "that",
+        "which"
+      ],
+      "answer": 2,
+      "analysis": "表语从句用 that 引导,陈述事实。",
+      "point": "g-s3u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "I wonder ___ she has arrived yet.",
+      "options": [
+        "whether",
+        "what",
+        "that",
+        "which"
+      ],
+      "answer": 0,
+      "analysis": "表示\"是否\"用 whether,尤其与 yet 连用。",
+      "point": "g-s3u5",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I don't know where does he live.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:I don't know where he lives.。宾语从句必须用陈述语序。",
+      "point": "g-s3u5",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

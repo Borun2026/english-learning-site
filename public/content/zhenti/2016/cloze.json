@@ -1,0 +1,251 @@
+{
+ "id": "z2016-cloze-0",
+ "year": 2016,
+ "section": "cloze",
+ "index": 0,
+ "source": "2016年全国硕士研究生招生考试英语(一)",
+ "title": "完形填空",
+ "newWords": [],
+ "sentences": [
+  {
+   "text": "In Cambodia,the choice of a spouse is a complex one for the young male It may involve not only his parents and his friends, ___1___ those of the young women, but also a matchmaker A young man can ___2___ a likely spouse on his own and them ask his parents to ___3___ the marriage negotiations, or the young man’s parents may make the choice of a spouse, giving the child little to say in the selection ___4___ , a girl may veto the spouse her parents have chosen ___5___ a spouse has been selected, each family investigates the other to make sure its child is marrying ___6___ a good family",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "The traditional wedding is a long and colorful affair Formerly it lasted three days, ___7___ by the 1980s it more commonly lasted a day and a half Buddhist priests offer a short sermon and ___8___ prayers of blessing Parts of the ceremony involve ritual hair cutting, ___9___ cotton threads soaked in holy water around the bride’s and groom’s wrists ,and ___10___ a candle around a circle of happily married and respected couples to bless the ___11___ Newlyweds traditionally move in with the wife’s parents and may ___12___ with them up to a year, ___13___ they can build a flew house nearby",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  },
+  {
+   "text": "Divorce is legal and easy to ___14___ ,but not common Divorced persons are ___15___ with some disapproval Each spouse retains ___16___ property he or she ___17___ into the marriage, and jointly acquired property is ___18___ equally Divorced persons may remarry, but a gender prejudice ___19___ up The divorced male doesn’t have a waiting period before he can remarry ___20___ the woman must wait the months",
+   "translation": "",
+   "chunks": [],
+   "grammar": []
+  }
+ ],
+ "questions": [
+  {
+   "q": "",
+   "options": [
+    "by way of",
+    "as well as",
+    "on behalf of",
+    "with regard to"
+   ],
+   "answer": 1,
+   "analysis": "考生需要为本空前后的原文信息做定位分析。首先,本空之后的原文信息thoseoftheyoungwoman与之前\n的hisparentsandhisfriends和之后的amatchmaker均做谓语动词involve的宾语,且这三个宾语平行并列。其中的两\n个宾语hisparentsandhisfriends与amatchmaker之间的并列关系原文已经通过已知线索notonly…butalso说明,根\n据复现原则,本空应选择能同样表达并列关系的词组,很明显正确答案为选项[B]aswellas以及。"
+  },
+  {
+   "q": "",
+   "options": [
+    "adapt to",
+    "provide for",
+    "compete with",
+    "decide on"
+   ],
+   "answer": 3,
+   "analysis": "根据选项得知空格处需要填谓语动词,空格后面的宾语是“…配偶”,所以根据动宾搭配的原则,D选项decide\non可以与后面的宾语,构成通顺语义:选择配偶。所以D项正确。"
+  },
+  {
+   "q": "",
+   "options": [
+    "close",
+    "renew",
+    "arrange",
+    "postpone"
+   ],
+   "answer": 2,
+   "analysis": "本空应填动词的宾语是themarriagenegotiations(结婚协商),再根据之前的原文信息:Ayoungman可以\n自行选择alikelyspouse,然后请hisparents来……结婚协商。最恰当的是选项[C]arrange安排,即“安排结婚协商”,\n只有此意才符合上下文从而顺理成章。"
+  },
+  {
+   "q": "",
+   "options": [
+    "In theory",
+    "Above all",
+    "In time",
+    "For example"
+   ],
+   "answer": 0,
+   "analysis": "本空应填副词(词组)做状语,对其后的句子agirlmayvetothespouseherparentshavechosen进行修饰,\n再根据之前的原文信息theyoungman’sparentsmaymakethechoiceofaspouse,givingthechildlittletosayinthe\nselection,既然这里已经明确表达了“父母可以来选择孩子的配偶而不给孩子什么发言权”,而本空所修饰句表达的\n是“女孩子可以不同意父母所选的配偶”。可知最恰当的选项是[A]Intheory理论上,这个词组的修饰其实很大程\n度上弱化了“女孩子可以不同意父母所选的配偶”的程度;从同现原则的角度也可以判断,Intheory与所修饰句中\n的线索词may的倾向是一致的,最符合上下文之间的逻辑关系,故该项为最佳答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "Although",
+    "Lest",
+    "After",
+    "Unless"
+   ],
+   "answer": 2,
+   "analysis": "首先需要判断本空所衔接的aspousehasbeenselected和eachfamilyinvestigatestheothertomakesureitschild\nismarrying6agoodfamily的内在逻辑,前后两句明显是时间关系,并且是“选择配偶”之后才会“双方家庭去\n做调查”。四个选项中能标示时间关系且符合此前后顺序的只有选项[C]After在……以后,因此为最佳答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "into",
+    "within",
+    "from",
+    "through"
+   ],
+   "answer": 0,
+   "analysis": "本空所需介词与之前的动词marry和之后的agoodfamily构成动宾搭配。本题的主要判断线索是宾语agood\nfamily,最佳答案为选项[A]into进入,即结婚进入一个好家庭。\n长难句分析:\nAyoungmancandecideonalikelyspouseonhisownandthemaskhisparentstoarrangethemarriagenegotiations,\northeyoungman’sparentsmaymakethechoiceofaspouse,givingthechildlittletosayintheselection.\n本句包括两个平行分句,之间由并列连词or链接。or之前的分句的主干结构为:Ayoungman(主语)+candecide\nonalikelyspouse(并列谓语结构1)…+and(并列连词)+…askhisparentstoarrangethemarriagenegotiations(并列\n谓语结构2)。or之后的分句的主干结构为:theyoungman’sparents(主语)+maymakethechoiceof(谓语)+aspouse\n(宾语);之后出现了现在分词短语做状语,标示伴随状态。\nThetraditionalweddingisalongandcolorful\naffair.Formerlyitlastedt"
+  },
+  {
+   "q": "",
+   "options": [
+    "sine",
+    "or",
+    "but",
+    "so"
+   ],
+   "answer": 2,
+   "analysis": "考生可以通过判断本空所衔接的前后文之间的内在逻辑关系来确定答案。本空之前的原文信息为Formerlyit\nlastedthreedays(以前,婚礼会持续三天);本空之后的原文信息为bythe1980sitmorecommonlylastedadayandahalf\n(到了20世纪80年代,通常会持续一天半)。无论是根据前后文的意思,还是对比前后文中的关键词Formerly和\nmorecommonly,都可判断出前后文明显是对立转折的关系,因此本题答案为选项[C]but但是。"
+  },
+  {
+   "q": "",
+   "options": [
+    "test",
+    "copy",
+    "recite",
+    "create"
+   ],
+   "answer": 2,
+   "analysis": "本空所需动词的主语为Buddhistpriests,宾语为prayersofblessing(祈福),由此宾语线索可以判断选项[A]\ntest(测试)和[B]copy(复制)是不可能的。选项[D]create(创作;创造)也不合适,因为这种祈福英国是现成\n的、既有的,无需去临时创作。故合理的答案只有选项[C]recite朗诵;详述。"
+  },
+  {
+   "q": "",
+   "options": [
+    "folding",
+    "piling",
+    "wrapping",
+    "tying"
+   ],
+   "answer": 3,
+   "analysis": "解题主要依据的判断线索是动名词的宾语cottonthreads(棉线)及之后的aroundthebride’sandgroom’s\nwrists(环绕在新郎和新娘的手腕上)。能够与cottonthreads搭配并构成符合aroundthebride’sandgroom’s\nwrists意思的选项只有[D]tying(用线、绳索等)系。"
+  },
+  {
+   "q": "",
+   "options": [
+    "lighting",
+    "passing",
+    "hiding",
+    "serving"
+   ],
+   "answer": 1,
+   "analysis": "本空应填动名词需能与acandle及之后的aroundacircleofhappilymarriedandrespectedcouples\n(围绕着一圈受尊敬的幸福夫妻)搭配。[C]hiding(隐藏)和[D]serving(服务)分别填入后在语法上和意思上都\n不搭,予以排除。选项[A]lighting(点燃;照亮)虽能与宾语acandle搭配,但与之后的aroundacircleofhappilymarried\nandrespectedcouples无法构成合理意义。因此只有选项[B]passing(传递)最为合理,即“围绕着一圈受尊敬的幸\n福夫妻传递蜡烛”。"
+  },
+  {
+   "q": "",
+   "options": [
+    "meeting",
+    "association",
+    "collection",
+    "union"
+   ],
+   "answer": 3,
+   "analysis": "本空所需名词是bless(祝福)的宾语,根据上下文这里被祝福的对象自然应该就是新婚的夫妇。四个选项\n中,只有[D]union(结婚,婚姻;同盟;联合)含有“婚姻”的意思,故为正确答案。同时,原文的中心主题就是\n在谈论婚姻的问题,直接使用无关词排除法也可以立即排除[A]meeting(会议;会面)[B]association(协会;联\n系)和[C]collection(收集;募捐)这三个与本文主题无关的选项。"
+  },
+  {
+   "q": "",
+   "options": [
+    "grow",
+    "part",
+    "deal",
+    "live"
+   ],
+   "answer": 3,
+   "analysis": "本空所需动词的主语为newlyweds(新婚夫妇),动词之后的线索为withthem,此处的代词them指代的是\n之前的thewife’sparents(妻子的父母),同时本动词之前的句子已经明确说明了Newlywedstraditionallymoveinwith\nthewife’sparents(新婚夫妇传统上搬到女方的父母处),因此正确答案应为选项[D]live(生活),即新婚夫妇与女\n方的父母一起生活。"
+  },
+  {
+   "q": "",
+   "options": [
+    "whereas",
+    "until",
+    "for",
+    "if"
+   ],
+   "answer": 1,
+   "analysis": "考生应首先定位本空所衔接的前后文信息的内在逻辑关系。本空之前的原文信息为:Newlywedstraditionally\nmoveinwiththewife’sparentsandmay12withthemuptoayear(新婚夫妇传统上搬到女方的父母处,并且可以一\n起……最长一年);本空之后的原文信息为:theycanbuildanewhousenearby(他们在附近建造好自己的新房)。\n前后文明显存在时间关系,而且顺序上是新婚夫妇先要和女方父母一起……最长一年,之后再在附近建造好自己的\n新房,四个选项中能够衔接这种逻辑关系的只有选项[B]until(直到),故为最佳答案。\n长难句分析:\nPartsoftheceremonyinvolveritualhaircutting,tyingcottonthreadssoakedinholywateraroundthebride’sand\ngroom’swrists,andpassingacandlearoundacircleofhappilymarriedandrespectedcouplestoblesstheunion.\n本句的主干结构是:Partsoftheceremony(主语)+involve(谓语)+由连词and衔接的三个"
+  },
+  {
+   "q": "",
+   "options": [
+    "obtain",
+    "follow",
+    "challenge",
+    "avoid"
+   ],
+   "answer": 0,
+   "analysis": "本空所需动词实际上与Divorce构成了动宾搭配,同时本句中的信息Divorceislegal以及本空所在不定式之\n前的easy都已经在倾向上说明了本句要表达的核心意思是“离婚不是难事儿”。根据同现原则,首先可排除选项[C]\nchallenge(挑战;质疑)和[D]avoid(避免),因为这两项表达的意思与上述倾向是相反的。选项[B]follow(跟\n随;听从)此处无法与Divorce构成有意义的搭配。故最佳答案为[A]obtain(获得,得到),即“离婚是合法的,\n而且很容易获得”。"
+  },
+  {
+   "q": "",
+   "options": [
+    "isolated",
+    "persuaded",
+    "viewed",
+    "exposed"
+   ],
+   "answer": 2,
+   "analysis": "本空所需动词是以被动语态的形式出现的,主语是Divorcedpersons,动词之后的原文信息为withsome\ndisapproval,此处的disapproval指的是态度上的“不赞同”,并且前文也给出了线索butnotcommon([离婚]并不常\n见)。综合这些线索判断本题的答案应为选项[C]viewed(看待,视为),即disapproval(不赞同)是对Divorcedpersons\n的一种态度和看法。"
+  },
+  {
+   "q": "",
+   "options": [
+    "wherever",
+    "however",
+    "whenever",
+    "whatever"
+   ],
+   "answer": 0,
+   "analysis": "本空需选择一个引导词,引导retains之后的宾语从句,同时还可以与property(财产)搭配。首先,选项[B]\nhowever(无论多么……;但是),[C]whenever(无论何时)以及[D]whatever(无论何处)都无法与property搭\n配,因为property不是“方式”、“时间”或“地点”概念,从而无法与这三项搭配。唯一能够搭配的就是选项[A]wherever\n(任何……),既可以引导宾语从句,又可以与property搭配,故为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "changed",
+    "brought",
+    "shaped",
+    "pushed"
+   ],
+   "answer": 1,
+   "analysis": "本空所需动词的主语是heorshe,宾语中心词其实是之前的property。再根据之后的线索intothemarriage,\n可知最合题意的动作是[B]brought(带来;创造),即男方或女方带到婚姻中的财产,故为正确答案。"
+  },
+  {
+   "q": "",
+   "options": [
+    "divided",
+    "invested",
+    "donated",
+    "withdrawn"
+   ],
+   "answer": 0,
+   "analysis": "本空所需动词是以被动语态的形式出现的,主语是jointly-acquiredproperty(共同获取的财产),同时本动\n词被副词equally(平均地)所修饰。而且,上下文是在谈论离婚时的财产分配问题,据此选项[B]invested(投资)\n和[C]donated(捐赠,捐献)都是不符合题意的动作,属于无关选项,应予排除。而[D]withdrawn(撤退;取出)\n填入空格后的意思是把自己之前的财产撤走,而本动词的主语是jointly-acquiredproperty,因此最佳答案为[A]divided\n分配,分享;把……隔开,填入空格后所在句的意思是:(在婚姻存续期间)共同获取的财产评价分配。"
+  },
+  {
+   "q": "",
+   "options": [
+    "clears",
+    "warms",
+    "shows",
+    "breaks"
+   ],
+   "answer": 2,
+   "analysis": "本空所需动词的主语是agenderprejudice(性别歧视),同时本动词还与up构成了词组。根据上下文很容\n易判断本句的意思是“离过婚的人可以再婚,但存在性别歧视”。能够表达此意的选项是[C]shows,因为词组show\nup的意思就是“显现出来,显露”。"
+  },
+  {
+   "q": "Section II",
+   "options": [
+    "while",
+    "so what",
+    "once",
+    "in that"
+   ],
+   "answer": 0,
+   "analysis": "首先应定位本空所衔接的前后文的内在逻辑。本空之前的原文信息为Thedivorcedmaledoesn’thaveawaiting\nperiodbeforehecanremarry(离婚男性无需等待一段时间即可再婚);本空之后的原文信息为thewomanmustwaitten\nmonths(离婚女性必须等待十个月之久)。前后文明显是一种对比、对立的关系,四个选项中符合此逻辑关系的为\n选项[A]while而;但是,故为最佳答案。\n长难句分析:\nEachspouseretainswhateverpropertyheorshebroughtintothemarriage,andjointlyacquiredpropertyisdivided\nequally.\n本句由连词and衔接的两个并列句构成。and之前的句子结构为:Eachspouse(主语)+retains(谓语)+whatever\n引导的宾语从句。and之后的句子结构为:jointly-acquiredproperty(主语)+isdivided(谓语),之后的副词equally\n做状语修饰谓语。\nSectionIIReadingComprehension\nPartA\nText1\n一、文章总体分析及架构\n文章出自2015年4月TheChristianScienceMonitor《基督教科学箴言报》标题为AChallengetoth"
+  }
+ ]
+}

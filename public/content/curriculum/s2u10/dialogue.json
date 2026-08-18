@@ -1,0 +1,48 @@
+{
+  "id": "d-s2u10",
+  "stage": 2,
+  "unitId": "s2u10",
+  "scene": "解释迟到原因",
+  "goal": "向老师解释迟到并取得谅解",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "老师 Teacher", "line": "You are twenty minutes late. I waited for you to start the experiment. What happened?", "lineCn": "你迟到了二十分钟。我一直等你来才开始实验。发生什么事了?", "grammar": [ { "name": "状语从句引导词", "note": "解释原因时用 because / so that 等连词把句子连接起来。" } ],
+      "options": [
+        { "text": "I am sorry, Miss Gao. Because my mother suddenly fell ill, I had to take her to the hospital before I came to school.", "textCn": "对不起,高老师。因为我妈妈突然生病了,我上学前得先送她去医院。", "feedback": "用 because 说明原因,还补充了时间顺序,诚恳可信。", "next": "n2" },
+        { "text": "I just woke up late. Sorry.", "textCn": "我就是睡过头了,抱歉。", "feedback": "虽然诚实,但理由轻描淡写,显得态度不端正。", "next": "n3" },
+        { "text": "Nothing happened.", "textCn": "没什么。", "feedback": "拒绝解释,老师没法了解情况。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "老师 Teacher", "line": "Oh, I am sorry to hear that. Is she better now? Even though you were late, helping your family comes first.", "lineCn": "哦,听到这个消息我很遗憾。她现在好些了吗?虽然你迟到了,但照顾家人是最重要的。", "grammar": [ { "name": "Even though 让步状语从句", "note": "Even though 引导让步状语从句,表示\"尽管……仍然\"。" } ],
+      "options": [
+        { "text": "She is much better now, so I could come to school. I will ask my desk mate for the notes as soon as I sit down.", "textCn": "她现在好多了,所以我才能来上学。我一坐下就找同桌借笔记。", "feedback": "用 so 表因果、as soon as 表时间,还主动提出补课。", "next": "n4" },
+        { "text": "She is fine. But I still do not want to talk about it.", "textCn": "她没事,但我还是不想谈这个。", "feedback": "回避话题,老师想了解细节也很难。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "老师 Teacher", "line": "I see. But you know, the experiment cannot wait while we are waiting for you. Can you tell me the real reason?",
+      "lineCn": "我明白了。但你知道的,大家等你的这段时间实验都没法开始。能告诉我真实原因吗?", "grammar": [ { "name": "while 时间状语从句", "note": "while 引导时间状语从句,强调\"在等待你的时候\"。" } ],
+      "options": [
+        { "text": "The truth is that my alarm clock did not ring because of a power cut last night. I promise I will set two alarms from now on.", "textCn": "实情是昨晚停电,我的闹钟没响。我保证从今以后设两个闹钟。", "feedback": "给出具体原因并用 because of 解释,还提出补救办法。", "next": "n4" },
+        { "text": "I will not tell you. It is none of your business.", "textCn": "我不会告诉你,这不关你的事。", "feedback": "对老师这样说话,态度恶劣。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "老师 Teacher", "line": "Thank you for being honest. Although you missed the beginning, you can still join us now. Do you understand the steps so far?",
+      "lineCn": "谢谢你的诚实。虽然你错过了开头,但现在还能加入。到目前为止的步骤你明白吗?", "grammar": [ { "name": "Although 让步状语从句", "note": "Although 引导让步从句,主句不接 but,表\"虽然……但是\"。" } ],
+      "options": [
+        { "text": "Not yet. Could you explain it again so that I can catch up quickly?", "textCn": "还不明白。您能再讲一遍,好让我快点跟上吗?", "feedback": "用 so that 表目的,主动请求补课,学习态度积极。", "next": "n6" },
+        { "text": "I understand nothing, but I will just watch.", "textCn": "我什么都不懂,但我就看着吧。", "feedback": "放弃参与实验,浪费时间。", "next": "fail2" }
+      ] },
+    "n5": { "id": "n5", "speaker": "老师 Teacher", "line": "Okay. As long as you are honest with me, I trust you. Now, would you like to join the experiment group?",
+      "lineCn": "好吧。只要你对我诚实,我就信任你。现在,你想加入实验小组吗?", "grammar": [ { "name": "As long as 条件状语从句", "note": "As long as 引导条件从句,表示\"只要……就\"。" } ],
+      "options": [
+        { "text": "Yes, I would love to. I will be more careful so that I will not hold the group back.", "textCn": "愿意,我想加入。我会更细心,这样才不会拖小组后腿。", "feedback": "接受安排并用 so that 表目的,态度诚恳。", "next": "n6" },
+        { "text": "No, I want to leave early because I am bored.", "textCn": "不,我想早点走,因为太无聊了。", "feedback": "迟到了还嫌无聊,老师的耐心也会耗尽。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "老师 Teacher", "line": "No problem. I will walk you through the steps once more. Since you explained your reason honestly, we can all move on. Agreed?",
+      "lineCn": "没问题,我再带你过一遍步骤。既然你诚实解释了原因,这件事就翻篇了。可以吗?", "grammar": [ { "name": "Since 原因状语从句", "note": "Since 引导原因状语从句,表\"既然\",语气比 because 轻。" } ],
+      "options": [
+        { "text": "Yes, thank you! I have learned my lesson, and I will never be late again without a good reason.", "textCn": "好的,谢谢您!我吸取教训了,以后没有正当理由绝不会再迟到。", "feedback": "真诚认错并给出承诺,成功取得老师谅解。", "next": "success" },
+        { "text": "Fine, but I am still angry that you made me wait.", "textCn": "行吧,但我还是很生气,是你让我等的。", "feedback": "倒打一耙,把责任推给老师,谅解泡汤。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "老师 Teacher", "line": "Good. Everyone makes mistakes. Now, let us focus on the experiment!", "lineCn": "好,人都会犯错。现在,我们专心做实验吧!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "老师 Teacher", "line": "That is not an acceptable attitude. Please wait outside until you are ready to talk properly.", "lineCn": "这不是能接受的态度。请到外面等着,直到你愿意好好说话。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "老师 Teacher", "line": "I am quite disappointed. The experiment is starting now, with or without you.", "lineCn": "我很失望。实验现在开始,不管你是否参加。", "end": true, "success": false }
+  }
+}

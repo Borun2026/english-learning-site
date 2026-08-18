@@ -1,0 +1,74 @@
+{
+  "id": "l-s5u1",
+  "stage": 5,
+  "unitId": "s5u1",
+  "title": "听力挑战 · 学术演讲",
+  "rate": 1.1,
+  "rounds": [
+    {
+      "speaker": "演讲者",
+      "line": "Today I will present the findings of our study, which examine the effects of sleep on memory consolidation in young adults.",
+      "lineCn": "今天我将介绍我们研究的发现,该研究考察睡眠对年轻人记忆巩固的影响。",
+      "grammar": [
+        { "name": "学术演讲开头句式", "note": "present the findings of our study + 非限制性定语从句补充研究对象,是演讲开场的标准学术句式。" }
+      ],
+      "options": [
+        { "text": "The talk focuses on how sleep affects memory consolidation.", "correct": true, "feedback": "演讲主题是睡眠对记忆巩固的影响。" },
+        { "text": "The talk focuses on diet and exercise among children.", "correct": false, "feedback": "演讲对象是睡眠与记忆,不是饮食运动。" },
+        { "text": "The talk focuses on classroom teaching methods.", "correct": false, "feedback": "研究对象是年轻人,与教学方法无关。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "Our results indicate that participants who slept for eight hours performed significantly better on the recall test.",
+      "lineCn": "我们的结果表明,睡了八小时的参与者在回忆测试中表现显著更好。",
+      "grammar": [
+        { "name": "结果呈现句式", "note": "results indicate that... 是报告结果的常用学术句式;who slept for eight hours 是定语从句修饰 participants。" }
+      ],
+      "options": [
+        { "text": "Eight hours of sleep led to better performance on the recall test.", "correct": true, "feedback": "八小时睡眠组在回忆测试中表现更好。" },
+        { "text": "Lack of sleep improved the participants' recall performance.", "correct": false, "feedback": "结果是八小时睡眠表现更好,而非缺觉。" },
+        { "text": "Sleep duration had no effect on the test results.", "correct": false, "feedback": "睡眠时长显著影响了测试表现。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "It is worth noting that the improvement we observed appeared mainly in the group with consistent sleep schedules.",
+      "lineCn": "值得注意的是,我们观察到的改善主要出现在作息规律的群体中。",
+      "grammar": [
+        { "name": "限定性学术表述", "note": "It is worth noting that... 是谨慎而正式的学术句式;improvement we observed 省略 that 的定语从句。" }
+      ],
+      "options": [
+        { "text": "The improvement mainly appeared in the regular-schedule group.", "correct": true, "feedback": "改善主要集中在作息规律的那组。" },
+        { "text": "Every group improved equally in the study.", "correct": false, "feedback": "改善并非各组相同,而是集中于规律作息组。" },
+        { "text": "Sleep schedules had no influence on the improvement.", "correct": false, "feedback": "作息规律与否正是影响改善的关键。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "Nevertheless, we acknowledge that the sample size remains modest, and future studies should include larger populations.",
+      "lineCn": "不过,我们承认样本量仍然有限,未来研究应纳入更大的群体。",
+      "grammar": [
+        { "name": "研究局限的委婉表达", "note": "Nevertheless + acknowledge that 承认局限,是学术演讲中增强可信度的标准句式。" }
+      ],
+      "options": [
+        { "text": "The study admits its small sample and calls for larger research.", "correct": true, "feedback": "演讲者承认样本有限,建议更大范围研究。" },
+        { "text": "The sample is large enough to draw firm conclusions.", "correct": false, "feedback": "演讲者明确指出样本量仍然有限。" },
+        { "text": "No further research is needed on this topic.", "correct": false, "feedback": "演讲者恰恰呼吁开展更多研究。" }
+      ]
+    },
+    {
+      "speaker": "演讲者",
+      "line": "In conclusion, adequate sleep appears to play a crucial role in memory consolidation, and we encourage further investigation.",
+      "lineCn": "总之,充足的睡眠似乎在记忆巩固中起关键作用,我们鼓励进一步研究。",
+      "grammar": [
+        { "name": "演讲结论句式", "note": "In conclusion + appears to 的审慎语气 + encourage further investigation,是完整学术结论的固定套路。" }
+      ],
+      "options": [
+        { "text": "The speaker concludes that sleep matters for memory and more research is needed.", "correct": true, "feedback": "结论是睡眠对记忆重要,并呼吁继续研究。" },
+        { "text": "The speaker concludes that sleep is harmful to memory.", "correct": false, "feedback": "演讲者认为睡眠起关键积极作用。" },
+        { "text": "The speaker concludes that the topic deserves no attention.", "correct": false, "feedback": "演讲者鼓励进一步研究,十分重视该主题。" }
+      ]
+    }
+  ]
+}

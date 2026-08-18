@@ -1,0 +1,85 @@
+{
+  "id": "e-s1u4",
+  "stage": 1,
+  "unitId": "s1u4",
+  "title": "真题演练 · 一般将来时",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 一般将来时。",
+  "questions": [
+    {
+      "q": "She ___ a teacher in the future.",
+      "options": [
+        "will is",
+        "will be",
+        "is will",
+        "will are"
+      ],
+      "answer": 1,
+      "analysis": "will + 动词原形 be,构成 will be。",
+      "point": "g-s1u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Look at the clouds! It ___ rain.",
+      "options": [
+        "will",
+        "is going to",
+        "is going",
+        "will to"
+      ],
+      "answer": 1,
+      "analysis": "有迹象的预测用 be going to。",
+      "point": "g-s1u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We ___ have an English test tomorrow.",
+      "options": [
+        "will",
+        "will to",
+        "are",
+        "does"
+      ],
+      "answer": 0,
+      "analysis": "will + 动词原形 have,tomorrow 表将来。",
+      "point": "g-s1u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He ___ going to play football this afternoon.",
+      "options": [
+        "will",
+        "is",
+        "does",
+        "am"
+      ],
+      "answer": 1,
+      "analysis": "be going to 中 be 动词随主语 he 用 is。",
+      "point": "g-s1u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "___ you come to my birthday party next Sunday?",
+      "options": [
+        "Will",
+        "Do",
+        "Are",
+        "Is"
+      ],
+      "answer": 0,
+      "analysis": "将来疑问句用 Will 提前,you 后用动词原形。",
+      "point": "g-s1u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She will comes tomorrow.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She will come tomorrow.。will 后面动词必须用原形 come。",
+      "point": "g-s1u4",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

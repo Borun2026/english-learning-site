@@ -1,0 +1,24 @@
+{
+  "id": "g-s5u4",
+  "stage": 5,
+  "title": "观点论述框架",
+  "explanation": "## 观点论述框架:四段式高分结构\n\n雅思大作文 Task 2 最常见的是四段式结构。**结构清晰是评分标准 Coherence and Cohesion 的得分关键**。\n\n## 四段式框架\n\n1. **开头段(2 句)**:Paraphrase 题目 + 表明立场(agree/disagree 或双边讨论)。\n2. **主体段一(4-6 句)**:Topic sentence + 2 个论证 + 例子。\n3. **主体段二(4-6 句)**:对比或补充另一面。\n4. **结尾段(2 句)**:总结 + 重申立场。\n\n## 论证方法\n\n- **举例论证**:For instance, ...;A notable example is...\n- **因果论证**:This is because...;Consequently, ...\n- **对比论证**:By contrast, ...;On the other hand, ...\n- **让步论证**:Admittedly, ...;However, ...\n\n## 衔接词工具\n\n- 递进:furthermore, moreover, in addition\n- 转折:however, nevertheless, nonetheless\n- 因果:therefore, as a result, thus\n- 举例:for example, such as, namely\n- 总结:in conclusion, to sum up, overall\n\n## 立场一致性\n\n开头定的立场,全文必须保持一致,不能首尾矛盾。每个主体段用 Topic sentence 开头,展开控制在 2-3 个论据。",
+  "examples": [
+    { "en": "While some people believe that traditional classrooms are essential, I tend to argue that online learning is equally effective.", "cn": "虽然有人认为传统课堂必不可少,但我倾向于认为在线学习同样有效。", "note": "双边对比 + 明确立场的开头句。" },
+    { "en": "For instance, many companies now hire employees through online interviews.", "cn": "例如,许多公司现在通过线上面试招聘员工。", "note": "For instance 引出具体例子支撑观点。" },
+    { "en": "Admittedly, face-to-face communication offers certain advantages; however, its cost is considerable.", "cn": "诚然,面对面交流有其优势;然而,其成本相当高。", "note": "Admittedly 让步 + however 转折,体现思辨。" },
+    { "en": "In conclusion, although both approaches have merits, I firmly believe that a balanced combination works best.", "cn": "总之,尽管两种方式各有优点,我坚信平衡结合最佳。", "note": "结尾段总结并重申立场。" }
+  ],
+  "errors": [
+    { "wrong": "主体段没有 Topic sentence 直接列举例子。", "right": "主体段先用 Topic sentence 点明论点再展开。", "note": "主题句是段落中心,读者和考官都需要它。" },
+    { "wrong": "开头说同意,结尾却说反对。", "right": "开头定的立场必须贯穿全文。", "note": "立场前后矛盾是 Task 2 严重失分点。" },
+    { "wrong": "主体段写 8 个观点,蜻蜓点水。", "right": "每段集中论证 2-3 个论点,深入展开。", "note": "论证深度比观点数量更重要。" }
+  ],
+  "quiz": [
+    { "q": "大作文四段式的主体段数量是?", "options": ["一个", "两个", "三个", "四个"], "answer": 1, "note": "四段式:开头 + 两个主体段 + 结尾。" },
+    { "q": "\"然而\"的正式学术表达是?", "options": ["but", "however", "and", "so"], "answer": 1, "note": "however 比 but 正式,更适合学术写作。" },
+    { "q": "论证方法中\"让步+转折\"的正确表达是?", "options": ["For instance...", "Admittedly..., however...", "In conclusion...", "Such as..."], "answer": 1, "note": "Admittedly 让步,however 转折,体现思辨。" },
+    { "q": "Topic sentence 的作用是?", "options": ["举例", "点明段落中心", "总结全文", "提出新观点"], "answer": 1, "note": "主题句概括段落中心论点。" },
+    { "q": "结尾段应该?", "options": ["引入新论据", "总结并重申立场", "道歉", "列举例子"], "answer": 1, "note": "结尾总结全文、重申立场,不引入新观点。" }
+  ]
+}

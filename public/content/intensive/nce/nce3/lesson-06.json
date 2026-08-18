@@ -1,0 +1,70 @@
+{
+ "id": "nce3-lesson-06",
+ "book": "nce3",
+ "title": "Lesson 6",
+ "mainKnowledge": [],
+ "sections": [
+  {
+   "heading": "独立主格",
+   "content": [
+    "[独立主格的特征](./NCE2.md#独立主格)    [独立主格的特点](./NCE3.md#独立主格-1)     [独立主格用法一览](./NCE4.md#独立主格)",
+    "独立主格指的是句子中的某一部分拥有自己的逻辑主语和逻辑谓语,通常通过with,of等介词连接",
+    "独立主格中的谓语动词有三种形式:",
+    "1. 不定式",
+    "2. 现在分词",
+    "3. 过去分词",
+    "独立主格也可以没有动词,由主语+副词/形容词等组成",
+    "```",
+    "A large black car roared down the arcade, with its headlights on and its horn blaring.",
+    "一辆亮着前灯,喇叭嘟嘟叫着的黑色大轿车呼啸着停在了拱桥街道旁",
+    "its headlight on和its horn blaring为独立主格",
+    "on为副词,blaring为动词现在分词",
+    "```"
+   ]
+  },
+  {
+   "heading": "构词法",
+   "content": [
+    "英语中有多种构词方式,常见的有",
+    "1. 转化(conversion)  ->  ```water: 水``` ```water: 浇水```",
+    "2. 派生(derivasion) -> ```happy``` 加前缀派生出```unhappy```,加后缀派生出```happiness```",
+    "3. 合成(compounding) -> ```classroom``` ```moonlight``` ```sunflower```  ```secondhand```"
+   ]
+  },
+  {
+   "heading": "前缀",
+   "content": [
+    "常用的表示否定含义的前缀有:",
+    "- un-          ```uninportant```\t ```unbelievable```",
+    "- dis-         ```dismiss```                 ```disappear```",
+    "- in-           ```inactivity```          ```inapparent```",
+    "- im-          ```impossible```          ```impolite```",
+    "- ir-            ```irregular```            ```irremovable```",
+    "- il-            ```illogical```             ```illegal```",
+    "常用的表示其他含义的有:",
+    "- re-          ```repeat```                  ```rediscover```",
+    "- ex-         ```ex-wife```                ```ex-prime minister```",
+    "- bi-          ```bicycle```                ```binoculars```",
+    "- tri-          ```tricycle```             ```tricolor```",
+    "- pre-        ```previous```             ```precollege```"
+   ]
+  },
+  {
+   "heading": "短语结构",
+   "content": [
+    "help ... to ...     随意拿取,窃取",
+    "scramble for sth.      (合法的)争夺某物",
+    "well-staffed   人员充足的",
+    "under-staffed   人员缺乏的",
+    "diamonds cut diamonds   山外有山,人外有人"
+   ]
+  }
+ ],
+ "notes": [
+  "Main knowledge",
+  "- 独立主格",
+  "- 构词法",
+  "- 词缀"
+ ],
+ "raw": "# Lesson 6\n\nMain knowledge\n\n- 独立主格\n\n- 构词法\n- 词缀\n\n##### 独立主格\n\n[独立主格的特征](./NCE2.md#独立主格)    [独立主格的特点](./NCE3.md#独立主格-1)     [独立主格用法一览](./NCE4.md#独立主格)\n\n独立主格指的是句子中的某一部分拥有自己的逻辑主语和逻辑谓语,通常通过with,of等介词连接\n\n独立主格中的谓语动词有三种形式:\n\n1. 不定式\n2. 现在分词\n3. 过去分词\n\n独立主格也可以没有动词,由主语+副词/形容词等组成\n\n```\nA large black car roared down the arcade, with its headlights on and its horn blaring.\n一辆亮着前灯,喇叭嘟嘟叫着的黑色大轿车呼啸着停在了拱桥街道旁\n\nits headlight on和its horn blaring为独立主格\non为副词,blaring为动词现在分词\n```\n\n##### 构词法\n\n英语中有多种构词方式,常见的有\n\n1. 转化(conversion)  ->  ```water: 水``` ```water: 浇水```\n2. 派生(derivasion) -> ```happy``` 加前缀派生出```unhappy```,加后缀派生出```happiness```\n3. 合成(compounding) -> ```classroom``` ```moonlight``` ```sunflower```  ```secondhand```\n\n##### 前缀\n\n常用的表示否定含义的前缀有:\n\n- un-          ```uninportant```\t ```unbelievable```\n- dis-         ```dismiss```                 ```disappear```\n- in-           ```inactivity```          ```inapparent```\n- im-          ```impossible```          ```impolite```\n- ir-            ```irregular```            ```irremovable```\n- il-            ```illogical```             ```illegal```\n\n常用的表示其他含义的有:\n\n- re-          ```repeat```                  ```rediscover```\n- ex-         ```ex-wife```                ```ex-prime minister```\n- bi-          ```bicycle```                ```binoculars```\n- tri-          ```tricycle```             ```tricolor```\n- pre-        ```previous```             ```precollege```\n\n##### 短语结构\n\nhelp ... to ...     随意拿取,窃取\n\nscramble for sth.      (合法的)争夺某物\n\nwell-staffed   人员充足的\n\nunder-staffed   人员缺乏的\n\ndiamonds cut diamonds   山外有山,人外有人\n\n\n"
+}

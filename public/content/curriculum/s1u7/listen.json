@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u7",
+  "stage": 1,
+  "unitId": "s1u7",
+  "title": "听力挑战 · 描述城市与天气",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "What is the weather like today?",
+      "lineCn": "今天天气怎么样?",
+      "grammar": [
+        { "name": "形容词描述天气", "note": "用形容词如 cold、windy 描述天气,回答 What is...like 问句。" }
+      ],
+      "options": [
+        { "text": "It is cold and windy today.", "correct": true, "feedback": "用两个形容词准确描述今天的天气。" },
+        { "text": "It was rainy yesterday.", "correct": false, "feedback": "说的是昨天的天气,而问题问的是今天。" },
+        { "text": "I like green trees a lot.", "correct": false, "feedback": "表达的是喜好,与天气无关。" }
+      ]
+    },
+    {
+      "speaker": "邻居",
+      "line": "How do you like your new city?",
+      "lineCn": "你觉得你的新城市怎么样?",
+      "grammar": [
+        { "name": "副词修饰形容词", "note": "副词 very 放在形容词前加强程度,如 very clean。" }
+      ],
+      "options": [
+        { "text": "It is big and very clean.", "correct": true, "feedback": "用形容词加副词描述城市特点,回应到位。" },
+        { "text": "I live in a small house.", "correct": false, "feedback": "说的是住房,而不是对城市的评价。" },
+        { "text": "It will rain this afternoon.", "correct": false, "feedback": "谈的是天气预报,没有评价这座城市。" }
+      ]
+    }
+  ]
+}

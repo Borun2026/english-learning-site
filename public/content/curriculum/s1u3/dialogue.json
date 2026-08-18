@@ -1,0 +1,90 @@
+{
+  "id": "d-s1u3",
+  "stage": 1,
+  "unitId": "s1u3",
+  "scene": "讲述周末经历",
+  "goal": "把上周末的经历完整讲给对方听",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "朋友 Amy",
+      "line": "Hi! Did you have a good weekend?",
+      "lineCn": "嗨!你周末过得愉快吗?",
+      "grammar": [
+        { "name": "Did 构成过去时疑问句", "note": "Did 用于一般过去时的疑问句,助动词 did 已经表示过去,后面的动词要用原形,如 Did you have...?" }
+      ],
+      "options": [
+        { "text": "Yes, I did! It was really fun.", "textCn": "是的,我过得很好!真的很有趣。", "feedback": "完整回答了 Did 问句(Yes, I did),并补充感受,对话顺利开始。", "next": "n2" },
+        { "text": "Yes, I had.", "textCn": "是的,我有了。", "feedback": "回答 Did 问句应该说 Yes, I did.,不需要重复动词 had。", "next": "n3" },
+        { "text": "It is Sunday.", "textCn": "今天是星期天。", "feedback": "答非所问,对方问的是周末过得怎么样,不是问今天是星期几。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "朋友 Amy",
+      "line": "Great! What did you do on Saturday?",
+      "lineCn": "太好了!你星期六做了什么?",
+      "grammar": [
+        { "name": "不规则动词过去式", "note": "go→went、have→had、see→saw 等不规则动词的过去式需要单独记忆,不遵循加 -ed 的规则。" }
+      ],
+      "options": [
+        { "text": "I went to the park with my family, and we had a picnic.", "textCn": "我和家人去了公园,我们野餐了。", "feedback": "用 went、had 等过去式清楚讲述了周六的活动,很棒!", "next": "n4" },
+        { "text": "I go to the park every day.", "textCn": "我每天都去公园。", "feedback": "用了一般现在时,但对方问的是过去发生的事情,应该用过去式 went。", "next": "n3" },
+        { "text": "I do not remember.", "textCn": "我不记得了。", "feedback": "回避问题,没有讲述周末经历。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "朋友 Amy",
+      "line": "Oh? Then what was your weekend like?",
+      "lineCn": "哦?那你周末过得怎么样?",
+      "grammar": [
+        { "name": "be 动词过去式 was/were", "note": "was 是 is/am 的过去式,were 是 are 的过去式,用来描述过去的状况,如 It was fun。" }
+      ],
+      "options": [
+        { "text": "It was great! I watched a movie on Sunday.", "textCn": "很棒!我星期天看了一部电影。", "feedback": "及时补救,用过去式讲述了周末的活动,对话得以继续。", "next": "n4" },
+        { "text": "It is great.", "textCn": "它很好。", "feedback": "时态错误,谈论上周末应该用过去式 was。", "next": "fail1" },
+        { "text": "I do not want to talk about it.", "textCn": "我不想谈这个。", "feedback": "拒绝分享,对话无法进行下去。", "next": "fail1" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "朋友 Amy",
+      "line": "Wow! That sounds fun. What about Sunday?",
+      "lineCn": "哇!听起来真有趣。星期天呢?",
+      "grammar": [
+        { "name": "过去时间状语", "note": "yesterday、last weekend、on Saturday 等过去时间状语常与一般过去时搭配,提示事情发生在过去。" }
+      ],
+      "options": [
+        { "text": "On Sunday I visited my grandma and cooked dinner with her. I really enjoyed it!", "textCn": "星期天我去看望了奶奶,还和她一起做晚饭。我真的很喜欢!", "feedback": "把周末第二天的经历也完整讲了出来,时间清楚、动词过去式正确,目标达成!", "next": "success" },
+        { "text": "On Sunday I am visiting my grandma.", "textCn": "星期天我正在看望奶奶。", "feedback": "现在进行时不能描述已经过去的周末,应该用 visited。", "next": "fail2" },
+        { "text": "Sunday is a day.", "textCn": "星期天是一个日子。", "feedback": "敷衍了事,没有讲述任何经历。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "朋友 Amy",
+      "line": "You had a great weekend! Let me tell you about mine.",
+      "lineCn": "你过了一个愉快的周末!我也跟你说说我的。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "朋友 Amy",
+      "line": "Oh, okay. Maybe we can talk another time.",
+      "lineCn": "哦,好吧。也许我们下次再聊。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "朋友 Amy",
+      "line": "Hmm, I see. I still do not know your whole weekend.",
+      "lineCn": "嗯,我明白了。我还是不知道你周末的全部经历。",
+      "end": true,
+      "success": false
+    }
+  }
+}

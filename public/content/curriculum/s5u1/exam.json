@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u1",
+  "stage": 5,
+  "unitId": "s5u1",
+  "title": "真题演练 · 学术写作句式",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 学术写作句式。",
+  "questions": [
+    {
+      "q": "以下哪个是学术写作的标准开头句式?",
+      "options": [
+        "I think...",
+        "It is widely acknowledged that...",
+        "Hi everyone...",
+        "Let me tell you..."
+      ],
+      "answer": 1,
+      "analysis": "It is widely acknowledged that 是正式学术表达。",
+      "point": "g-s5u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "让步反驳结构的正确顺序是?",
+      "options": [
+        "先反驳后让步",
+        "先让步后观点",
+        "只反驳",
+        "只让步"
+      ],
+      "answer": 1,
+      "analysis": "Although it is true that... 先让步,再提出己方观点。",
+      "point": "g-s5u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "把 good 升级为更正式的表达是?",
+      "options": [
+        "nice",
+        "beneficial",
+        "ok",
+        "great"
+      ],
+      "answer": 1,
+      "analysis": "beneficial 比 good 正式得多。",
+      "point": "g-s5u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "名词化表达\"贫困学生\"的正确形式是?",
+      "options": [
+        "students who are poor",
+        "students' poverty",
+        "poor students",
+        "poverty students"
+      ],
+      "answer": 1,
+      "analysis": "名词化用名词短语 students' poverty,提升学术性。",
+      "point": "g-s5u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "结尾段应该做什么?",
+      "options": [
+        "引入新观点",
+        "总结并重申立场",
+        "道歉",
+        "提问"
+      ],
+      "answer": 1,
+      "analysis": "结尾总结全文并重申立场,不引入新内容。",
+      "point": "g-s5u1",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:I think technology is very good and it makes things a lot easier.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:It is widely acknowledged that technology has made tasks significantly easier.。正式语体替换口语表达,升级句式。",
+      "point": "g-s5u1",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

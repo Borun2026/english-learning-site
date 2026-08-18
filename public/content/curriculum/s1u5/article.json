@@ -1,0 +1,560 @@
+{
+  "id": "a-s1u5",
+  "stage": 1,
+  "unitId": "s1u5",
+  "title": "Buying Fruit",
+  "newWords": [
+    "today",
+    "market",
+    "fruit",
+    "has",
+    "apples",
+    "bananas",
+    "oranges",
+    "grapes",
+    "sweet",
+    "fresh",
+    "seller",
+    "kilos",
+    "cheap",
+    "cost",
+    "gives",
+    "big",
+    "buy",
+    "family",
+    "two",
+    "small",
+    "lot",
+    "red",
+    "yellow",
+    "says"
+  ],
+  "sentences": [
+    {
+      "text": "Today I go to the market with my mother to buy some fruit.",
+      "translation": "今天我和妈妈去市场买一些水果。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Today"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I go to the market with my mother to buy some fruit",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "go"
+            },
+            {
+              "role": "地点状语",
+              "text": "to the market"
+            },
+            {
+              "role": "伴随状语",
+              "text": "with my mother"
+            },
+            {
+              "role": "目的状语",
+              "text": "to buy some fruit"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定冠词 the",
+          "note": "go to the market 中 the 特指\"那个市场\"。"
+        },
+        {
+          "name": "不可数名词 fruit",
+          "note": "fruit 通常作不可数名词,不加 -s,不用 a。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "I go to the market with my mother to buy some fruit",
+          "name": "定冠词 the"
+        },
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "I go to the market with my mother to buy some fruit",
+          "name": "不可数名词 fruit"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Today I go to the market with my mother to buy some fruit.",
+          "answer": "Today I go to the market with my mother to buy some fruit.",
+          "note": "go to the market 中 the 特指\"那个市场\"。",
+          "point": "定冠词 the"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Today I go to the market with my mother to buy some fruit.",
+          "answer": "Today I go to the market with my mother to buy some fruit.",
+          "note": "fruit 通常作不可数名词,不加 -s,不用 a。",
+          "point": "不可数名词 fruit"
+        }
+      ]
+    },
+    {
+      "text": "The market has red apples, yellow bananas, oranges and fresh grapes.",
+      "translation": "市场里有红苹果、黄香蕉、橙子和新鲜葡萄。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The market has red apples, yellow bananas, oranges and fresh grapes",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The market"
+            },
+            {
+              "role": "谓语",
+              "text": "has"
+            },
+            {
+              "role": "宾语",
+              "text": "red apples, yellow bananas, oranges and fresh grapes"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "名词复数",
+          "note": "apple 加 -s 成 apples,banana 加 -s 成 bananas,orange 加 -s 成 oranges,表示\"许多\"。",
+          "example": "I see two apples.",
+          "exampleCn": "我看到两个苹果。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "The market has red apples, yellow bananas, oranges and fresh grapes",
+          "name": "名词复数"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "translate",
+          "prompt": "回译:我看到两个苹果。",
+          "answer": "I see two apples.",
+          "note": "apple 加 -s 成 apples,banana 加 -s 成 bananas,orange 加 -s 成 oranges,表示\"许多\"。",
+          "point": "名词复数"
+        }
+      ]
+    },
+    {
+      "text": "The apples are red and sweet, and the grapes are fresh.",
+      "translation": "苹果又红又甜,葡萄也很新鲜。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The apples are red and sweet",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The apples"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "red and sweet"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the grapes are fresh",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the grapes"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "fresh"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "the + 复数名词",
+          "note": "the apples、the grapes 特指前面提到的那些水果。"
+        },
+        {
+          "name": "系动词 are",
+          "note": "主语是复数时用 are,后接形容词作表语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "The apples are red and sweet",
+          "name": "the + 复数名词"
+        },
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "The apples are red and sweet",
+          "name": "系动词 are"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The apples are red and sweet, and the grapes are fresh.",
+          "answer": "The apples are red and sweet, and the grapes are fresh.",
+          "note": "the apples、the grapes 特指前面提到的那些水果。",
+          "point": "the + 复数名词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The apples are red and sweet, and the grapes are fresh.",
+          "answer": "The apples are red and sweet, and the grapes are fresh.",
+          "note": "主语是复数时用 are,后接形容词作表语。",
+          "point": "系动词 are"
+        }
+      ]
+    },
+    {
+      "text": "An apple a day is good for you, the seller says.",
+      "translation": "卖水果的人说:\"一天一个苹果,对身体好。\"",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "An apple a day is good for you",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An apple"
+            },
+            {
+              "role": "定语",
+              "text": "a day"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "good"
+            },
+            {
+              "role": "对象状语",
+              "text": "for you"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": ", the seller says."
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定冠词 an",
+          "note": "apple 以元音音素开头,前面用 an 而不是 a。"
+        },
+        {
+          "name": "英语谚语",
+          "note": "An apple a day keeps the doctor away. 是\"一天一个苹果,医生远离我\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "An apple a day is good for you",
+          "name": "不定冠词 an"
+        },
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "An apple a day is good for you",
+          "name": "英语谚语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An apple a day is good for you, the seller says.",
+          "answer": "An apple a day is good for you, the seller says.",
+          "note": "apple 以元音音素开头,前面用 an 而不是 a。",
+          "point": "不定冠词 an"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An apple a day is good for you, the seller says.",
+          "answer": "An apple a day is good for you, the seller says.",
+          "note": "An apple a day keeps the doctor away. 是\"一天一个苹果,医生远离我\"。",
+          "point": "英语谚语"
+        }
+      ]
+    },
+    {
+      "text": "I buy two kilos of bananas and a small bag of oranges for my family.",
+      "translation": "我给家人买了两公斤香蕉和一袋小橙子。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I buy two kilos of bananas and a small bag of oranges for my family",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "buy"
+            },
+            {
+              "role": "宾语",
+              "text": "two kilos of bananas and a small bag of oranges"
+            },
+            {
+              "role": "对象状语",
+              "text": "for my family"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "数量短语",
+          "note": "two kilos of 表示\"两公斤\",a bag of 表示\"一袋\",后面接不可数或复数名词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "I buy two kilos of bananas and a small bag of oranges for my family",
+          "name": "数量短语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I buy two kilos of bananas and a small bag of oranges for my family.",
+          "answer": "I buy two kilos of bananas and a small bag of oranges for my family.",
+          "note": "two kilos of 表示\"两公斤\",a bag of 表示\"一袋\",后面接不可数或复数名词。",
+          "point": "数量短语"
+        }
+      ]
+    },
+    {
+      "text": "The bananas are cheap, but the grapes cost a lot.",
+      "translation": "香蕉很便宜,但是葡萄很贵。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "The bananas are cheap",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The bananas"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "are"
+            },
+            {
+              "role": "表语",
+              "text": "cheap"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the grapes cost a lot",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the grapes"
+            },
+            {
+              "role": "谓语",
+              "text": "cost"
+            },
+            {
+              "role": "宾语",
+              "text": "a lot"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 but",
+          "note": "but 表示\"但是\",连接两个意思相反的句子。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "The bananas are cheap",
+          "name": "转折连词 but"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The bananas are cheap, but the grapes cost a lot.",
+          "answer": "The bananas are cheap, but the grapes cost a lot.",
+          "note": "but 表示\"但是\",连接两个意思相反的句子。",
+          "point": "转折连词 but"
+        }
+      ]
+    },
+    {
+      "text": "The seller gives me a big bag, and I say thank you to him.",
+      "translation": "卖水果的人给了我一个大袋子,我向他道谢。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The seller gives me a big bag",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The seller"
+            },
+            {
+              "role": "谓语",
+              "text": "gives"
+            },
+            {
+              "role": "宾语(间接)",
+              "text": "me"
+            },
+            {
+              "role": "宾语(直接)",
+              "text": "a big bag"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": ", and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I say thank you to him",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "say"
+            },
+            {
+              "role": "宾语",
+              "text": "thank you"
+            },
+            {
+              "role": "对象状语",
+              "text": "to him"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "双宾语",
+          "note": "gives me a big bag 中 me(谁)和 a big bag(什么)都是宾语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s1u5",
+          "phrase": "The seller gives me a big bag",
+          "name": "双宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The seller gives me a big bag, and I say thank you to him.",
+          "answer": "The seller gives me a big bag, and I say thank you to him.",
+          "note": "gives me a big bag 中 me(谁)和 a big bag(什么)都是宾语。",
+          "point": "双宾语"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s1u5",
+      "name": "定冠词 the",
+      "note": "go to the market 中 the 特指\"那个市场\"。",
+      "sourceExample": "Today I go to the market with my mother to buy some fruit.",
+      "sourceExampleCn": "今天我和妈妈去市场买一些水果。"
+    },
+    {
+      "grammarId": "g-s1u5",
+      "name": "不可数名词 fruit",
+      "note": "fruit 通常作不可数名词,不加 -s,不用 a。",
+      "sourceExample": "Today I go to the market with my mother to buy some fruit.",
+      "sourceExampleCn": "今天我和妈妈去市场买一些水果。"
+    },
+    {
+      "grammarId": "g-s1u5",
+      "name": "名词复数",
+      "note": "apple 加 -s 成 apples,banana 加 -s 成 bananas,orange 加 -s 成 oranges,表示\"许多\"。",
+      "sourceExample": "The market has red apples, yellow bananas, oranges and fresh grapes.",
+      "sourceExampleCn": "市场里有红苹果、黄香蕉、橙子和新鲜葡萄。"
+    },
+    {
+      "grammarId": "g-s1u5",
+      "name": "the + 复数名词",
+      "note": "the apples、the grapes 特指前面提到的那些水果。",
+      "sourceExample": "The apples are red and sweet, and the grapes are fresh.",
+      "sourceExampleCn": "苹果又红又甜,葡萄也很新鲜。"
+    },
+    {
+      "grammarId": "g-s1u5",
+      "name": "系动词 are",
+      "note": "主语是复数时用 are,后接形容词作表语。",
+      "sourceExample": "The apples are red and sweet, and the grapes are fresh.",
+      "sourceExampleCn": "苹果又红又甜,葡萄也很新鲜。"
+    }
+  ]
+}

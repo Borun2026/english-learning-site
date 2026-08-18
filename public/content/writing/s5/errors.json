@@ -1,0 +1,777 @@
+{
+ "version": 2,
+ "type": "writing-errors",
+ "source": "P2-5 种子库 + typogrammar.com 免费 PDF(仅供本地个人学习)(语法错误手册)+ grammar-reference 常见错误",
+ "errors": [
+  {
+   "id": "e01",
+   "type": "grammar",
+   "wrong": "every students",
+   "right": "every student / all students",
+   "note": "every 后接可数名词单数;复数要用 all。"
+  },
+  {
+   "id": "e02",
+   "type": "grammar",
+   "wrong": "people is",
+   "right": "people are",
+   "note": "people 是集合名词,本身表复数,谓语用 are。"
+  },
+  {
+   "id": "e03",
+   "type": "grammar",
+   "wrong": "more easier",
+   "right": "much easier / easier",
+   "note": "比较级前用 much/far 加强,不能再用 more 叠加。"
+  },
+  {
+   "id": "e04",
+   "type": "grammar",
+   "wrong": "Although …, but …",
+   "right": "Although …, …(去掉 but)",
+   "note": "although 与 but 都是连词,一个从句只能用一个。"
+  },
+  {
+   "id": "e05",
+   "type": "grammar",
+   "wrong": "Because …, so …",
+   "right": "Because …, … / …, so …",
+   "note": "because 与 so 不能同句连用,二选一。"
+  },
+  {
+   "id": "e06",
+   "type": "grammar",
+   "wrong": "the number of people are increasing",
+   "right": "the number of people is increasing",
+   "note": "the number of 强调数量本身,谓语用单数;a number of 才接复数。"
+  },
+  {
+   "id": "e07",
+   "type": "grammar",
+   "wrong": "can be able to",
+   "right": "can / be able to",
+   "note": "can 与 be able to 语义重复,二选一。"
+  },
+  {
+   "id": "e08",
+   "type": "grammar",
+   "wrong": "many informations / knowledges",
+   "right": "much information / much knowledge",
+   "note": "information、knowledge、advice 等不可数,不用复数。"
+  },
+  {
+   "id": "e09",
+   "type": "lexis",
+   "wrong": "discuss about the problem",
+   "right": "discuss the problem",
+   "note": "discuss 是及物动词,直接接宾语,不加 about。"
+  },
+  {
+   "id": "e10",
+   "type": "lexis",
+   "wrong": "In my opinion, I think …",
+   "right": "In my opinion, … / I think …",
+   "note": "两种表达语义重复,保留一个即可。"
+  },
+  {
+   "id": "e11",
+   "type": "lexis",
+   "wrong": "a lot of people",
+   "right": "a large number of people / many people",
+   "note": "学术写作尽量用 many/a great number of/a considerable number of 替换 a lot of。"
+  },
+  {
+   "id": "e12",
+   "type": "lexis",
+   "wrong": "very important",
+   "right": "crucial / vital / essential",
+   "note": "用高阶同义词替换 very + 形容词,是提 band 的捷径。"
+  },
+  {
+   "id": "e13",
+   "type": "coherence",
+   "wrong": "Last but not least, …",
+   "right": "Finally, … / A further point is that …",
+   "note": "模板痕迹重,考官易反感;用自然衔接词。"
+  },
+  {
+   "id": "e14",
+   "type": "coherence",
+   "wrong": "On the one hand … On the other hand …(内容不构成对比)",
+   "right": "改用 Firstly/Secondly 或真正对立的对比",
+   "note": "on the other hand 要求真正的对立关系,不能只当列举用。"
+  },
+  {
+   "id": "e15",
+   "type": "grammar",
+   "wrong": "depend on do sth",
+   "right": "depend on doing sth / depend on + 名词",
+   "note": "depend on 是介词短语,后接动名词或名词。"
+  },
+  {
+   "id": "e16",
+   "type": "grammar",
+   "wrong": "suggest sb to do sth",
+   "right": "suggest doing sth / suggest that sb (should) do sth",
+   "note": "suggest 不接不定式复合结构,注意动词句型。"
+  },
+  {
+   "id": "tggram02",
+   "type": "grammar",
+   "wrong": "He go",
+   "right": "He goes",
+   "note": "In the present simple tense, third-person singular subjects (he, she, it, or a singular noun) require the verb to take an -s or -es ending. This is one of the most fundamental rule。"
+  },
+  {
+   "id": "tggram03",
+   "type": "grammar",
+   "wrong": "Everyone are",
+   "right": "Everyone is",
+   "note": "Indefinite pronouns like 'everyone', 'everybody', 'someone', 'somebody', 'anyone', 'anybody', 'no one', and 'nobody' are grammatically singular even though they refer to multiple p。"
+  },
+  {
+   "id": "tggram04",
+   "type": "grammar",
+   "wrong": "Each are",
+   "right": "Each is",
+   "note": "The word 'each' is singular regardless of what follows. Whether it stands alone ('each is') or is followed by 'of' + plural noun ('each of the students is'), the verb must be singu。"
+  },
+  {
+   "id": "tggram05",
+   "type": "grammar",
+   "wrong": "Someone are",
+   "right": "Someone is",
+   "note": "Like other indefinite pronouns ending in -one or -body, 'someone' is grammatically singular and requires a singular verb. Even though 'someone' refers to an unspecified person amon。"
+  },
+  {
+   "id": "tggram06",
+   "type": "grammar",
+   "wrong": "Someone have",
+   "right": "Someone has",
+   "note": "Because 'someone' is singular, it must take the singular form of the verb 'have', which is 'has'. The same applies to 'everyone has', 'nobody has', and 'anybody has'. This mistake 。"
+  },
+  {
+   "id": "tggram07",
+   "type": "grammar",
+   "wrong": "Everybody have",
+   "right": "Everybody has",
+   "note": "Common English Grammar Mistakes Handbook 6 'Everybody' is grammatically singular and takes the singular verb 'has'. The confusion arises because 'everybody' refers to all members o。"
+  },
+  {
+   "id": "tggram08",
+   "type": "grammar",
+   "wrong": "None are",
+   "right": "None is (or None are)",
+   "note": "Strictly speaking, 'none' is singular and should take 'is', as it derives from 'not one'. However, in modern English, 'none' can be either singular or plural depending on context. 。"
+  },
+  {
+   "id": "tggram09",
+   "type": "grammar",
+   "wrong": "A number of is",
+   "right": "A number of are / The number of is",
+   "note": "These two phrases look similar but follow different rules. 'A number of' means 'several' or 'many' and takes a plural verb because the subject is conceptually plural. 'The number o。"
+  },
+  {
+   "id": "tggram10",
+   "type": "grammar",
+   "wrong": "A lot of people is",
+   "right": "A lot of people are",
+   "note": "'A lot of' does not change the number of the noun that follows. The verb agrees with the noun after 'of', not with 'a lot'. Since 'people' is plural, the verb must be plural. Simil。"
+  },
+  {
+   "id": "tggram11",
+   "type": "grammar",
+   "wrong": "One of the students are",
+   "right": "One of the students is",
+   "note": "The subject of the sentence is 'one', not 'students'. The phrase 'of the students' is a prepositional phrase that simply describes which group 'one' comes from. Since 'one' is sing。"
+  },
+  {
+   "id": "tggram12",
+   "type": "grammar",
+   "wrong": "Each of the students are",
+   "right": "Each of the students is",
+   "note": "When 'each' is followed by 'of' + a plural noun, the verb still agrees with 'each', which is singular. The plural noun 'students' is part of a prepositional phrase and does not con。"
+  },
+  {
+   "id": "tggram13",
+   "type": "grammar",
+   "wrong": "A group of people is",
+   "right": "A group of people are (informal) / is (formal)",
+   "note": "Collective nouns like 'group', 'team', 'family', and 'committee' can take either singular or plural verbs depending on whether you are emphasizing the group as a single unit (singu。"
+  },
+  {
+   "id": "tggram14",
+   "type": "grammar",
+   "wrong": "Everybody are",
+   "right": "Everybody is",
+   "note": "Common English Grammar Mistakes Handbook 8 Although 'everybody' refers to all members of a group, it is grammatically singular and requires a singular verb. The word 'every' emphas。"
+  },
+  {
+   "id": "tggram15",
+   "type": "grammar",
+   "wrong": "Nobody are",
+   "right": "Nobody is",
+   "note": "'Nobody' is an indefinite pronoun that is grammatically singular, even though it refers to the absence of all people. It always takes a singular verb. The same applies to 'no one',。"
+  },
+  {
+   "id": "tggram16",
+   "type": "grammar",
+   "wrong": "Everyone have",
+   "right": "Everyone has",
+   "note": "Because 'everyone' is singular, the auxiliary verb 'have' must be in its singular form 'has'. This error is common because speakers confuse the conceptual plurality of 'everyone' (。"
+  },
+  {
+   "id": "tggram17",
+   "type": "grammar",
+   "wrong": "Each of or Every of",
+   "right": "Each of (Every is not used with 'of')",
+   "note": "'Each of' is correct English, but 'every of' is not a valid construction. If you want to use 'every' before a plural noun with 'of', use 'every one of' instead. The two structures 。"
+  },
+  {
+   "id": "tggram18",
+   "type": "grammar",
+   "wrong": "Either of are / Neither of are",
+   "right": "Either of is / Neither of is",
+   "note": "Both 'either' and 'neither' are grammatically singular when used as pronouns, even when followed by 'of' + plural noun. They take singular verbs in formal English: 'Either of the o。"
+  },
+  {
+   "id": "tggram19",
+   "type": "grammar",
+   "wrong": "I am agree",
+   "right": "I agree",
+   "note": "'Agree' is itself a verb, so adding 'am' before it is grammatically incorrect. Many learners make this mistake because in some languages the equivalent of 'agree' is an adjective t。"
+  },
+  {
+   "id": "tggram20",
+   "type": "grammar",
+   "wrong": "He didn't went",
+   "right": "He didn't go",
+   "note": "After the auxiliary verb 'did' (or 'didn't'), the main verb must always be in its base form, regardless of tense. 'Did' already carries the past tense meaning, so the main verb can。"
+  },
+  {
+   "id": "tggram21",
+   "type": "grammar",
+   "wrong": "Did you went",
+   "right": "Did you go",
+   "note": "This is the same rule as 'He didn't went': after 'did' in questions, the main verb must be in its base form. The auxiliary 'did' already marks the past tense, so adding a past tens。"
+  },
+  {
+   "id": "tggram22",
+   "type": "grammar",
+   "wrong": "I done",
+   "right": "I did / I have done",
+   "note": "'Done' is the past participle of 'do' and cannot stand alone as a past tense verb. It must be used with an auxiliary verb (have/has/had): 'I have done'. For the simple past tense w。"
+  },
+  {
+   "id": "tggram23",
+   "type": "grammar",
+   "wrong": "I have saw",
+   "right": "I have seen",
+   "note": "After 'have', 'has', or 'had', you must use the past participle form of the verb, not the simple past. For the irregular verb 'see', the forms are: see (base), saw (past), seen (pa。"
+  },
+  {
+   "id": "tggram24",
+   "type": "grammar",
+   "wrong": "I have ate",
+   "right": "I have eaten",
+   "note": "Similar to 'I have saw', this error uses the simple past (ate) instead of the past participle (eaten) after 'have'. The three forms of 'eat' are: eat (base), ate (past), eaten (pas。"
+  },
+  {
+   "id": "tggram25",
+   "type": "grammar",
+   "wrong": "I have wrote",
+   "right": "I have written",
+   "note": "The three forms of 'write' are: write (base), wrote (past), written (past participle). After 'have', 'has', or 'had', use 'written', not 'wrote'. This is a common error because the。"
+  },
+  {
+   "id": "tggram26",
+   "type": "grammar",
+   "wrong": "I have drank",
+   "right": "I have drunk",
+   "note": "The three forms of 'drink' are: drink (base), drank (past), drunk (past participle). After 'have', 'has', or 'had', you must use 'drunk', not 'drank'. Note that 'drunk' is also use。"
+  },
+  {
+   "id": "tggram27",
+   "type": "grammar",
+   "wrong": "I have went",
+   "right": "I have gone",
+   "note": "The three forms of 'go' are: go (base), went (past), gone (past participle). After 'have', 'has', or 'had', you must use 'gone', not 'went'. Note the distinction: 'gone' is used wh。"
+  },
+  {
+   "id": "tggram28",
+   "type": "grammar",
+   "wrong": "He has came",
+   "right": "He has come",
+   "note": "The three forms of 'come' are: come (base), came (past), come (past participle). Note that the base form and past participle are identical - both are 'come'. After 'have', 'has', o。"
+  },
+  {
+   "id": "tggram29",
+   "type": "grammar",
+   "wrong": "I seen",
+   "right": "I saw / I have seen",
+   "note": "Common English Grammar Mistakes Handbook 13 'Seen' cannot be used alone as a past tense verb - it is the past participle and requires an auxiliary (have/has/had). For the simple pa。"
+  },
+  {
+   "id": "tggram30",
+   "type": "grammar",
+   "wrong": "She has went",
+   "right": "She has gone",
+   "note": "This is the same error as 'I have went' but with a third-person subject. After 'has', you must use the past participle 'gone', not the simple past 'went'. The pattern is consistent。"
+  },
+  {
+   "id": "tggram31",
+   "type": "grammar",
+   "wrong": "Should of",
+   "right": "Should have",
+   "note": "This error comes from pronunciation: in fast speech, 'should have' sounds like 'should of'. However, the correct form is always 'should have', followed by a past participle: 'shoul。"
+  },
+  {
+   "id": "tggram32",
+   "type": "grammar",
+   "wrong": "Used to + be used to (confused)",
+   "right": "Used to (past habit) / Be used to (accustom...",
+   "note": "These two structures look similar but have different meanings and grammar. 'Used to + base verb' describes a past habit that no longer happens: 'I used to play tennis'. 'Be used to。"
+  },
+  {
+   "id": "tggram33",
+   "type": "grammar",
+   "wrong": "Advice vs Advise (confused)",
+   "right": "Advice (noun) / Advise (verb)",
+   "note": "These two words are related but have different grammatical roles. 'Advice' (/ədˈvaɪs/, with an /s/ sound) is a noun meaning a recommendation or suggestion. 'Advise' (/ədˈvaɪz/, wit。"
+  },
+  {
+   "id": "tggram34",
+   "type": "grammar",
+   "wrong": "Do vs Make (confused)",
+   "right": "Do (action/activity) / Make (creation/result)",
+   "note": "'Do' is used for actions, duties, and activities that do not produce a physical object: 'do homework', 'do business', 'do the dishes'. 'Make' is used when something is created, pro。"
+  },
+  {
+   "id": "tggram35",
+   "type": "grammar",
+   "wrong": "Speak vs Talk (confused)",
+   "right": "Speak (formal/one-way) / Talk (conversat...",
+   "note": "These verbs are largely interchangeable, but 'speak' tends to be more formal and one-way (a lecture, an announcement), while 'talk' is more conversational and two-way. 'Speak' is a。"
+  },
+  {
+   "id": "tggram36",
+   "type": "grammar",
+   "wrong": "Bring vs Take (confused)",
+   "right": "Bring (toward speaker) / Take (away from ...",
+   "note": "'Bring' indicates movement toward the speaker or the speaker's location: 'Bring the book here'. 'Take' indicates movement away from the speaker or toward a different location: 'Tak。"
+  },
+  {
+   "id": "tggram37",
+   "type": "grammar",
+   "wrong": "Listen vs Hear (confused)",
+   "right": "Listen (intentional) / Hear (involuntary)",
+   "note": "'Hear' refers to the physical ability to perceive sound - it happens automatically. 'Listen' refers to paying attention to sound - it is intentional and deliberate. You can hear wi。"
+  },
+  {
+   "id": "tggram38",
+   "type": "grammar",
+   "wrong": "Say vs Tell (confused)",
+   "right": "Say (no indirect object) / Tell (with indirect...",
+   "note": "'Say' is used without an indirect object (the person being addressed): 'She said hello'. 'Tell' is used with an indirect object: 'She told me hello'. The pattern is 'say something'。"
+  },
+  {
+   "id": "tggram39",
+   "type": "grammar",
+   "wrong": "Look vs See vs Watch (confused)",
+   "right": "Look (intentional, brief) / See (involuntary)...",
+   "note": "'See' is the involuntary act of perceiving with your eyes - it happens naturally. 'Look' is intentional but brief - you direct your eyes at something. 'Watch' is intentional and su。"
+  },
+  {
+   "id": "tggram40",
+   "type": "grammar",
+   "wrong": "Learn vs Study (confused)",
+   "right": "Learn (acquire knowledge) / Study (effort/...",
+   "note": "'Study' refers to the activity of trying to learn - reading, reviewing, practicing. 'Learn' refers to actually acquiring knowledge or skill as a result. You can study for hours wit。"
+  },
+  {
+   "id": "tggram41",
+   "type": "grammar",
+   "wrong": "Borrow vs Lend (confused)",
+   "right": "Borrow (take temporarily) / Lend (give te...",
+   "note": "These two verbs describe the same action from opposite perspectives. 'Borrow' means to take something temporarily with the intention of returning it: 'I borrowed a book from the li。"
+  },
+  {
+   "id": "tggram42",
+   "type": "grammar",
+   "wrong": "Remember vs Remind (confused)",
+   "right": "Remember (recall yourself) / Remind (caus...",
+   "note": "'Remember' means to recall something from memory by yourself: 'I remember her name'. 'Remind' means to cause someone else to remember something: 'Please remind me to call her'. The。"
+  },
+  {
+   "id": "tggram43",
+   "type": "grammar",
+   "wrong": "Win vs Beat (confused)",
+   "right": "Win (the event/thing) / Beat (the opponent)",
+   "note": "'Win' takes as its object the event, prize, or game: 'win the match', 'win the lottery', 'win an award'. 'Beat' takes as its object the opponent you defeat: 'beat the opposing team。"
+  },
+  {
+   "id": "tggram44",
+   "type": "grammar",
+   "wrong": "Alot",
+   "right": "A lot (two words)",
+   "note": "'A lot' is always written as two words. The single word 'alot' does not exist in standard English - it is a common spelling error. 'A lot' functions as an adverbial phrase meaning 。"
+  },
+  {
+   "id": "tggram45",
+   "type": "grammar",
+   "wrong": "Everyday (adjective) vs Every day (adverb)",
+   "right": "Everyday (ordinary) / Every day (each day)",
+   "note": "'Everyday' (one word) is an adjective meaning ordinary, common, or usual: 'everyday life', 'everyday problems'. 'Every day' (two words) is an adverbial phrase meaning 'each day' or。"
+  },
+  {
+   "id": "tggram46",
+   "type": "grammar",
+   "wrong": "Sometime vs Sometimes (confused)",
+   "right": "Sometime (at some time) / Sometimes (occ...",
+   "note": "'Sometime' (one word) refers to an unspecified point in time, either past or future: 'Let's meet sometime next week'. 'Sometimes' (one word, with an 's') is an adverb meaning occas。"
+  },
+  {
+   "id": "tggram47",
+   "type": "grammar",
+   "wrong": "Into vs In To (confused)",
+   "right": "Into (movement inward) / In to (two separ...",
+   "note": "'Into' (one word) indicates movement from outside to inside: 'She walked into the room'. 'In to' (two words) appears when 'in' is part of a phrasal verb and 'to' is a preposition o。"
+  },
+  {
+   "id": "tggram48",
+   "type": "grammar",
+   "wrong": "Sensible vs Sensitive (confused)",
+   "right": "Sensible (practical/reasonable) / Sensitive (...",
+   "note": "'Sensible' describes someone or something that is practical, reasonable, or showing good judgment: 'a sensible decision', 'a sensible person'. 'Sensitive' describes someone or some。"
+  },
+  {
+   "id": "tggram49",
+   "type": "grammar",
+   "wrong": "Efficient vs Effective (confused)",
+   "right": "Efficient (doing things well) / Effective (a...",
+   "note": "'Efficient' describes doing something with minimal waste of time or effort: 'an efficient process'. 'Effective' describes something that successfully achieves its intended goal: 'a。"
+  },
+  {
+   "id": "tggram50",
+   "type": "grammar",
+   "wrong": "Very vs Too vs So (confused)",
+   "right": "Very (high degree) / Too (excessive) / So ...",
+   "note": "Common English Grammar Mistakes Handbook 20 'Very' intensifies an adjective or adverb: 'very tired', 'very quickly'. 'Too' indicates excess, more than is desirable or acceptable: '。"
+  },
+  {
+   "id": "tggram51",
+   "type": "grammar",
+   "wrong": "So vs Such (confused)",
+   "right": "So + adjective/adverb / Such + (a/an) + ad...",
+   "note": "'So' is used with adjectives or adverbs without nouns: 'so beautiful', 'so fast'. 'Such' is used with noun phrases: 'such a beautiful day', 'such good food'. The grammatical struct。"
+  },
+  {
+   "id": "tggram52",
+   "type": "grammar",
+   "wrong": "Still vs Yet vs Already (confused)",
+   "right": "Still (continuing) / Yet (expected, not hap...",
+   "note": "'Still' indicates that an action or state continues: 'She is still working'. 'Yet' is used in negatives and questions to refer to something expected: 'Have you finished yet?' 'Alre。"
+  },
+  {
+   "id": "tglexi53",
+   "type": "lexis",
+   "wrong": "Discuss about",
+   "right": "Discuss (no preposition)",
+   "note": "'Discuss' is a transitive verb that takes its object directly, without 'about'. The confusion likely comes from the noun form 'discussion', which does take 'about': 'a discussion a。"
+  },
+  {
+   "id": "tglexi54",
+   "type": "lexis",
+   "wrong": "Married with",
+   "right": "Married to",
+   "note": "When describing the person someone is married to, use the preposition 'to': 'married to John', not 'married with John'. The confusion likely comes from other languages where the eq。"
+  },
+  {
+   "id": "tglexi55",
+   "type": "lexis",
+   "wrong": "Different than",
+   "right": "Different from (preferred) / Different to (...",
+   "note": "The traditional and most widely accepted preposition after 'different' is 'from': 'This is different from that'. 'Different than' is common in American English but is considered le。"
+  },
+  {
+   "id": "tglexi56",
+   "type": "lexis",
+   "wrong": "Interested on",
+   "right": "Interested in",
+   "note": "The adjective 'interested' is always followed by the preposition 'in', not 'on'. The structure is 'be interested in + noun or -ing verb': 'interested in music', 'interested in lear。"
+  },
+  {
+   "id": "tglexi57",
+   "type": "lexis",
+   "wrong": "Good in",
+   "right": "Good at",
+   "note": "When describing skill or ability, use 'good at' + noun or -ing verb: 'good at math', 'good at swimming'. 'Good in' is used in specific contexts like 'good in a crisis' (meaning goo。"
+  },
+  {
+   "id": "tglexi58",
+   "type": "lexis",
+   "wrong": "In the weekend",
+   "right": "On the weekend (American) / At the weeke...",
+   "note": "American English uses 'on the weekend', while British English uses 'at the weekend'. 'In the weekend' is incorrect in both varieties. The choice depends on which variety of English。"
+  },
+  {
+   "id": "tglexi59",
+   "type": "lexis",
+   "wrong": "Arrive in vs Arrive at (confused)",
+   "right": "Arrive in (countries/cities) / Arrive at (spec...",
+   "note": "Use 'arrive in' for large geographic areas like countries, states, and cities: 'arrive in London', 'arrive in France'. Use 'arrive at' for specific locations like buildings, events。"
+  },
+  {
+   "id": "tglexi60",
+   "type": "lexis",
+   "wrong": "Afraid from",
+   "right": "Afraid of",
+   "note": "The adjective 'afraid' is always followed by the preposition 'of', not 'from'. The structure is 'be afraid of + noun or -ing verb': 'afraid of spiders', 'afraid of flying'. This is。"
+  },
+  {
+   "id": "tglexi61",
+   "type": "lexis",
+   "wrong": "Proud for",
+   "right": "Proud of",
+   "note": "The adjective 'proud' is always followed by the preposition 'of', not 'for'. The structure is 'be proud of + noun or -ing verb': 'proud of her achievements', 'proud of being part o。"
+  },
+  {
+   "id": "tglexi62",
+   "type": "lexis",
+   "wrong": "Responsible of",
+   "right": "Responsible for",
+   "note": "The adjective 'responsible' is followed by 'for', not 'of'. The structure is 'be responsible for + noun or -ing verb': 'responsible for the project', 'responsible for managing the 。"
+  },
+  {
+   "id": "tglexi63",
+   "type": "lexis",
+   "wrong": "Explain about",
+   "right": "Explain (no 'about' needed)",
+   "note": "Like 'discuss', 'explain' is a transitive verb that takes its object directly: 'explain the situation', not 'explain about the situation'. However, you can say 'explain to me about。"
+  },
+  {
+   "id": "tglexi64",
+   "type": "lexis",
+   "wrong": "Request for",
+   "right": "Request (no 'for' as verb) / A request for (...",
+   "note": "As a verb, 'request' takes its object directly: 'request information', not 'request for information'. As a noun, 'a request for' is correct: 'a request for information'. The verb a。"
+  },
+  {
+   "id": "tglexi65",
+   "type": "lexis",
+   "wrong": "Enter to",
+   "right": "Enter (no 'to' needed)",
+   "note": "'Enter' is a transitive verb that takes its object directly: 'enter the room', not 'enter to the room'. The confusion may come from the noun 'entrance', which can take 'to': 'the e。"
+  },
+  {
+   "id": "tglexi66",
+   "type": "lexis",
+   "wrong": "Complain of vs Complain about (confused)",
+   "right": "Complain about (general) / Complain of (...",
+   "note": "'Complain about' is used for general dissatisfaction: 'complain about the service'. 'Complain of' is used specifically for medical symptoms: 'complain of a headache'. The distincti。"
+  },
+  {
+   "id": "tglexi67",
+   "type": "lexis",
+   "wrong": "On accident",
+   "right": "By accident",
+   "note": "Common English Grammar Mistakes Handbook 25 The correct phrase is 'by accident', parallel to 'by mistake' and 'by chance'. 'On accident' is a non-standard variation that has become。"
+  },
+  {
+   "id": "tglexi68",
+   "type": "lexis",
+   "wrong": "Capable to",
+   "right": "Capable of",
+   "note": "The adjective 'capable' is always followed by the preposition 'of', not 'to'. The structure is 'capable of + noun or -ing verb': 'capable of great things', 'capable of solving the 。"
+  },
+  {
+   "id": "tglexi69",
+   "type": "lexis",
+   "wrong": "Fond for",
+   "right": "Fond of",
+   "note": "The adjective 'fond' is always followed by the preposition 'of', not 'for'. The structure is 'be fond of + noun or -ing verb': 'fond of chocolate', 'fond of reading'. This is a fix。"
+  },
+  {
+   "id": "tglexi70",
+   "type": "lexis",
+   "wrong": "Accused for",
+   "right": "Accused of",
+   "note": "The verb 'accuse' and the adjective 'accused' are always followed by 'of', not 'for'. The structure is 'accuse someone of + noun or -ing verb': 'accused of theft', 'accused of chea。"
+  },
+  {
+   "id": "tglexi71",
+   "type": "lexis",
+   "wrong": "Since vs For (confused)",
+   "right": "Since (specific point in time) / For (duration)",
+   "note": "'Since' is used with a specific point in time when something started: 'since 2020', 'since Monday', 'since I was a child'. 'For' is used with a duration or period of time: 'for thr。"
+  },
+  {
+   "id": "tglexi72",
+   "type": "lexis",
+   "wrong": "During vs For vs While (confused)",
+   "right": "During + noun / For + duration / While + c...",
+   "note": "'During' is a preposition used with nouns: 'during the meeting'. 'For' is a preposition used with durations: 'for two hours'. 'While' is a conjunction used with a full clause (subj。"
+  },
+  {
+   "id": "tglexi73",
+   "type": "lexis",
+   "wrong": "In/On/At (time and place) confused",
+   "right": "In (months, years, cities) / On (days, dates, ...",
+   "note": "For time: 'at' for specific times (at 3 pm), 'on' for days and dates (on Monday, on July 4th), 'in' for months, years, seasons (in July, in 2024, in summer). For place: 'at' for sp。"
+  },
+  {
+   "id": "tglexi74",
+   "type": "lexis",
+   "wrong": "To vs For (purpose) confused",
+   "right": "To + verb / For + noun (when expressing ...",
+   "note": "When expressing purpose, use 'to + base verb' if you are describing an action: 'I went to the store to buy milk'. Use 'for + noun' if you are describing a thing or purpose: 'I went。"
+  },
+  {
+   "id": "tglexi75",
+   "type": "lexis",
+   "wrong": "By vs With (method) confused",
+   "right": "By (method/process) / With (tool/instrument)",
+   "note": "'By' is used to describe the method or process: 'travel by train', 'paid by credit card', 'written by hand'. 'With' is used to describe the tool or instrument used: 'cut with a kni。"
+  },
+  {
+   "id": "tglexi76",
+   "type": "lexis",
+   "wrong": "About vs Of (after verbs) confused",
+   "right": "About (detailed) / Of (brief mention)",
+   "note": "After verbs like 'talk', 'think', 'hear', and 'know', 'about' is used when referring to the topic in detail: 'I heard about the accident'. 'Of' is used for brief mention or awarene。"
+  },
+  {
+   "id": "tggram77",
+   "type": "grammar",
+   "wrong": "Much people",
+   "right": "Many people",
+   "note": "'Much' is used only with uncountable nouns (water, time, money). 'Many' is used only with countable plural nouns (people, books, cars). 'People' is countable (one person, two peopl。"
+  },
+  {
+   "id": "tggram78",
+   "type": "grammar",
+   "wrong": "Less people",
+   "right": "Fewer people",
+   "note": "'Less' is used with uncountable nouns: 'less water', 'less time'. 'Fewer' is used with countable plural nouns: 'fewer people', 'fewer cars'. 'People' is countable, so 'fewer' is co。"
+  },
+  {
+   "id": "tggram79",
+   "type": "grammar",
+   "wrong": "Little vs Few (confused)",
+   "right": "Little (uncountable) / Few (countable)",
+   "note": "'Little' is used with uncountable nouns: 'little water', 'little time'. 'Few' is used with countable plural nouns: 'few friends', 'few options'. Both have negative connotations (no。"
+  },
+  {
+   "id": "tggram80",
+   "type": "grammar",
+   "wrong": "Many vs Much (confused)",
+   "right": "Many (countable) / Much (uncountable)",
+   "note": "'Many' is used with countable plural nouns: 'many books', 'many people'. 'Much' is used with uncountable nouns: 'much water', 'much information'. The rule is the same as for 'fewer。"
+  },
+  {
+   "id": "tggram81",
+   "type": "grammar",
+   "wrong": "Too much vs Too many (confused)",
+   "right": "Too much (uncountable) / Too many (coun...",
+   "note": "'Too much' is used with uncountable nouns: 'too much sugar', 'too much noise'. 'Too many' is used with countable plural nouns: 'too many people', 'too many questions'. Both indicat。"
+  },
+  {
+   "id": "tggram82",
+   "type": "grammar",
+   "wrong": "Some vs Any (confused)",
+   "right": "Some (positive statements, offers) / Any (n...",
+   "note": "In general, 'some' is used in positive statements: 'I have some friends'. 'Any' is used in negatives and questions: 'I don't have any friends', 'Do you have any friends?'. However,。"
+  },
+  {
+   "id": "tggram83",
+   "type": "grammar",
+   "wrong": "So much vs So many (confused)",
+   "right": "So much (uncountable) / So many (counta...",
+   "note": "'So much' is used with uncountable nouns: 'so much love', 'so much work'. 'So many' is used with countable plural nouns: 'so many people', 'so many options'. Both are intensifiers 。"
+  },
+  {
+   "id": "tggram84",
+   "type": "grammar",
+   "wrong": "A few vs Few (confused)",
+   "right": "A few (some, positive) / Few (not many, neg...",
+   "note": "This is a subtle but important distinction. 'A few' means 'some' or 'a small number' - it has a positive connotation: 'I have a few friends' (I have some). 'Few' without 'a' means 。"
+  },
+  {
+   "id": "tggram85",
+   "type": "grammar",
+   "wrong": "A little vs Little (confused)",
+   "right": "A little (some, positive) / Little (not much,...",
+   "note": "Like 'a few' vs 'few', the article 'a' changes the meaning. 'A little' means 'some' or 'a small amount' - positive connotation: 'I have a little money' (I have some). 'Little' with。"
+  },
+  {
+   "id": "tggram86",
+   "type": "grammar",
+   "wrong": "Several vs Some (confused)",
+   "right": "Several (3-7, more specific) / Some (unspeci...",
+   "note": "'Several' typically refers to a small number, usually between three and seven: 'several people', 'several options'. 'Some' is more general and can refer to any unspecified amount, 。"
+  },
+  {
+   "id": "tggram87",
+   "type": "grammar",
+   "wrong": "Plenty of vs A lot of (confused)",
+   "right": "Plenty of (more than enough) / A lot of (a l...",
+   "note": "'Plenty of' means 'more than enough' or 'a sufficient amount': 'plenty of time', 'plenty of food'. 'A lot of' simply means 'a large amount' without implying sufficiency: 'a lot of 。"
+  },
+  {
+   "id": "tgcohe88",
+   "type": "coherence",
+   "wrong": "Return back",
+   "right": "Return",
+   "note": "'Return' already means 'to go back' or 'to give back', so adding 'back' is redundant - it repeats meaning that is already contained in 'return'. The same applies to 'return back to。"
+  },
+  {
+   "id": "tgcohe89",
+   "type": "coherence",
+   "wrong": "Repeat again",
+   "right": "Repeat",
+   "note": "'Repeat' already means 'to say or do again', so adding 'again' is redundant. The word 'again' is built into the meaning of 'repeat'. You can say 'say it again' (where 'say' is the 。"
+  },
+  {
+   "id": "tgcohe90",
+   "type": "coherence",
+   "wrong": "Advance planning",
+   "right": "Planning",
+   "note": "By definition, planning is something done in advance - you cannot plan after the fact. Therefore 'advance planning' is redundant. Just 'planning' is sufficient. The same applies to。"
+  },
+  {
+   "id": "tgcohe91",
+   "type": "coherence",
+   "wrong": "Free gift",
+   "right": "Gift",
+   "note": "A gift is by definition something given without payment - it is inherently free. Adding 'free' to 'gift' is redundant. This phrase is often used in marketing to make offers sound m。"
+  },
+  {
+   "id": "tgcohe92",
+   "type": "coherence",
+   "wrong": "End result",
+   "right": "Result",
+   "note": "A result is by definition the end or outcome of a process. Adding 'end' to 'result' is redundant. Just 'result' or 'final outcome' is sufficient, but not 'end result'. This phrase 。"
+  },
+  {
+   "id": "tgcohe93",
+   "type": "coherence",
+   "wrong": "Final outcome",
+   "right": "Outcome",
+   "note": "An outcome is by definition the final result of a process or event. Adding 'final' to 'outcome' is redundant - an outcome is always final. Just 'outcome' is sufficient. This phrase。"
+  },
+  {
+   "id": "tgcohe94",
+   "type": "coherence",
+   "wrong": "Past history",
+   "right": "History",
+   "note": "History is by definition about the past - there is no 'future history'. Adding 'past' to 'history' is redundant. The phrase 'past history' is sometimes used in medical or legal con。"
+  },
+  {
+   "id": "tgcohe95",
+   "type": "coherence",
+   "wrong": "Close proximity",
+   "right": "Proximity",
+   "note": "Proximity already means 'closeness' or 'nearness' - the word 'close' is built into its meaning. Therefore 'close proximity' is redundant. Just 'proximity' or 'in close proximity' w。"
+  }
+ ]
+}

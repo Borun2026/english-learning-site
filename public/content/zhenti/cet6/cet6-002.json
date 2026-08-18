@@ -1,0 +1,63 @@
+{
+ "id": "cet6-002",
+ "type": "cet6-passage",
+ "year": 2016,
+ "source": "六级真题 2016年12月 · 2016年12月英语六级真题(第1套) Passage 2",
+ "title": "Teenagers at risk of depression, anxiety and suicide often wear their trouble...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 446,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Teenagers at risk of depression, anxiety and suicide often wear their troubles like a neon sign. Their risky behaviors--drinking too much alcohol, using illegal drugs, smoking cigarettes and skipping school--can alert parents and teachers that serious problems are brewing.",
+  "But a new study finds that there's another group of adolescents who are in nearly as much danger of experiencing the same psychiatric symptoms: teens who use tons of media, don't get enough sleep and have a sedentary lifestyle.",
+  "Of course, that may sound like a description of every teenager on the planet. But the study warns that it is teenagers who engage in all three of these practices in the extreme who are truly in jeopardy. Because their behaviors are not usually seen as a red flag, these young people have been dubbed the \"invisible risk\" group by the study's authors.",
+  "\"In some ways they're at greater risk of falling through the cracks,\" says researcher Vladimir Carli. \"While most parents, teachers and clinicians would react to an adolescent using drugs or getting drunk, they may easily overlook teenagers who are engaging in inconspicuous behaviors.\"",
+  "The study's authors surveyed 12,395 students and analyzed nine risk behaviors, including excessive alcohol use, illegal drug use, heavy smoking, high media use and truancy . Their aim was to determine the relationship between these risk behaviors and mental health issues in teenagers.",
+  "About 58% of the students demonstrated none or few of the risk behaviors. Some 13% scored high on all nine of the risk behaviors. And 29%, the \"invisible risk\" group, scored high on three in particular: They spent five hours a day or more on electronic devices. They slept six hours a night or less. And they neglected \"other healthy activities.\"",
+  "The group that scored high on all nine of the risk behaviors was most likely to show symptoms of depression; in all, nearly 15% of this group reported being depressed, compared with just 4% of the low-risk group. But the invisible group wasn't far behind the high-risk set, with more than 13% of them exhibiting depression.",
+  "The findings caught Carli off guard. \"We were very surprised,\" he says. \"The high-risk group and low-risk group are obvious. But this third group was not only unexpected, it was so distinct and so large--nearly one third of our sample--that it became a key finding of the study. \"",
+  "Carli says that one of the most significant things about his study is that it provides new early-warning signs for parents, teachers and mental health-care providers. And early identification, support and treatment for mental health issues, he says, are the best ways to keep them from turning into full-blown disorders."
+ ],
+ "questions": [
+  {
+   "q": "文中 “unexpected” 最接近的意思是?",
+   "options": [
+    "新闻媒介， 传播媒介",
+    "想不到的， 意外的",
+    "夜，夜间",
+    "差不多"
+   ],
+   "answer": 1,
+   "analysis": "“unexpected” 意为「想不到的， 意外的」。原文语境:But this third group was not only unexpected, it was so distinct and so large--nearly one third of our sample--that it became a key finding of the study.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:Their aim was to determine the ___ between these risk behaviors and mental health issues in teenagers.",
+   "options": [
+    "anxiety",
+    "relationship",
+    "depression",
+    "identification"
+   ],
+   "answer": 1,
+   "analysis": "原文原句为“Their aim was to determine the relationship between these risk behaviors and mental health issues in teenagers.”。空格处应填入 “relationship”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Why are we so worried about our careers",
+    "There are hundreds of personality quizzes online that assert they can ascerta",
+    "Teenagers at risk of depression, anxiety and suicide often wear their trouble",
+    "Social media is absolutely everywhere"
+   ],
+   "answer": 2,
+   "analysis": "本文以“Teenagers at risk of depression, anxiety and suicide often wear their troubles like a neon sign.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

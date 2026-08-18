@@ -1,0 +1,85 @@
+{
+  "id": "e-s5u4",
+  "stage": 5,
+  "unitId": "s5u4",
+  "title": "真题演练 · 观点论述框架",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 观点论述框架。",
+  "questions": [
+    {
+      "q": "大作文四段式的主体段数量是?",
+      "options": [
+        "一个",
+        "两个",
+        "三个",
+        "四个"
+      ],
+      "answer": 1,
+      "analysis": "四段式:开头 + 两个主体段 + 结尾。",
+      "point": "g-s5u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "\"然而\"的正式学术表达是?",
+      "options": [
+        "but",
+        "however",
+        "and",
+        "so"
+      ],
+      "answer": 1,
+      "analysis": "however 比 but 正式,更适合学术写作。",
+      "point": "g-s5u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "论证方法中\"让步+转折\"的正确表达是?",
+      "options": [
+        "For instance...",
+        "Admittedly..., however...",
+        "In conclusion...",
+        "Such as..."
+      ],
+      "answer": 1,
+      "analysis": "Admittedly 让步,however 转折,体现思辨。",
+      "point": "g-s5u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Topic sentence 的作用是?",
+      "options": [
+        "举例",
+        "点明段落中心",
+        "总结全文",
+        "提出新观点"
+      ],
+      "answer": 1,
+      "analysis": "主题句概括段落中心论点。",
+      "point": "g-s5u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "结尾段应该?",
+      "options": [
+        "引入新论据",
+        "总结并重申立场",
+        "道歉",
+        "列举例子"
+      ],
+      "answer": 1,
+      "analysis": "结尾总结全文、重申立场,不引入新观点。",
+      "point": "g-s5u4",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:主体段没有 Topic sentence 直接列举例子。",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:主体段先用 Topic sentence 点明论点再展开。。主题句是段落中心,读者和考官都需要它。",
+      "point": "g-s5u4",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

@@ -1,0 +1,768 @@
+{
+  "id": "a-s2u3",
+  "stage": 2,
+  "unitId": "s2u3",
+  "title": "The Missed Train",
+  "newWords": [
+    "had",
+    "planned",
+    "finished",
+    "left",
+    "arrived",
+    "departed",
+    "felt",
+    "waited",
+    "hours",
+    "told",
+    "brought",
+    "made",
+    "patiently",
+    "miserable",
+    "logic",
+    "insight"
+  ],
+  "sentences": [
+    {
+      "text": "Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+      "translation": "昨天,我本已计划好乘坐去上海的早班火车,但我犯了一个大错。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Yesterday"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I had planned to take the morning train to Shanghai",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(过去完成时)",
+              "text": "had planned"
+            },
+            {
+              "role": "宾语",
+              "text": "to take the morning train to Shanghai"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I made a big mistake",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(一般过去时)",
+              "text": "made"
+            },
+            {
+              "role": "宾语",
+              "text": "a big mistake"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去完成时 had + 过去分词",
+          "note": "had planned 表示\"在昨天(过去)之前就计划好了\",强调过去的过去先发生的动作。"
+        },
+        {
+          "name": "plan to do 计划做",
+          "note": "plan to take 中不定式作宾语,表示\"计划乘坐\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had planned to take the morning train to Shanghai",
+          "name": "过去完成时 had + 过去分词"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had planned to take the morning train to Shanghai",
+          "name": "plan to do 计划做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+          "answer": "Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+          "note": "had planned 表示\"在昨天(过去)之前就计划好了\",强调过去的过去先发生的动作。",
+          "point": "过去完成时 had + 过去分词"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+          "answer": "Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+          "note": "plan to take 中不定式作宾语,表示\"计划乘坐\"。",
+          "point": "plan to do 计划做"
+        }
+      ]
+    },
+    {
+      "text": "I had finished my work before nine, and I had left home in a hurry.",
+      "translation": "我九点前已经完成了工作,然后匆匆忙忙地离开了家。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I had finished my work",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(过去完成时)",
+              "text": "had finished"
+            },
+            {
+              "role": "宾语",
+              "text": "my work"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "before nine"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I had left home",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(过去完成时)",
+              "text": "had left"
+            },
+            {
+              "role": "宾语",
+              "text": "home"
+            }
+          ]
+        },
+        {
+          "label": "方式状语",
+          "color": "#8ab4f8",
+          "text": "in a hurry"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去完成时的时间顺序",
+          "note": "had finished、had left 表示这些动作都发生在\"错过火车\"这个过去时间之前。"
+        },
+        {
+          "name": "in a hurry 匆忙地",
+          "note": "in a hurry 作方式状语,表示\"匆匆忙忙地\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had finished my work",
+          "name": "过去完成时的时间顺序"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had finished my work",
+          "name": "in a hurry 匆忙地"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I had finished my work before nine, and I had left home in a hurry.",
+          "answer": "I had finished my work before nine, and I had left home in a hurry.",
+          "note": "had finished、had left 表示这些动作都发生在\"错过火车\"这个过去时间之前。",
+          "point": "过去完成时的时间顺序"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I had finished my work before nine, and I had left home in a hurry.",
+          "answer": "I had finished my work before nine, and I had left home in a hurry.",
+          "note": "in a hurry 作方式状语,表示\"匆匆忙忙地\"。",
+          "point": "in a hurry 匆忙地"
+        }
+      ]
+    },
+    {
+      "text": "But when I arrived at the station, the train had already departed.",
+      "translation": "但当我到达车站时,火车已经开走了。",
+      "chunks": [
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "But"
+        },
+        {
+          "label": "从句(时间状语从句)",
+          "color": "#c8a5e0",
+          "text": "when I arrived at the station"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "the train had already departed",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the train"
+            },
+            {
+              "role": "谓语(过去完成时)",
+              "text": "had already departed"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "when 从句 + 过去完成时",
+          "note": "火车\"先\"开走(had departed),我\"后\"到达(arrived),先发生的用过去完成时。"
+        },
+        {
+          "name": "already 与完成时连用",
+          "note": "already 表示\"已经\",常放在 had 与过去分词之间。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "the train had already departed",
+          "name": "when 从句 + 过去完成时"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "the train had already departed",
+          "name": "already 与完成时连用"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):But when I arrived at the station, the train had already departed.",
+          "answer": "But when I arrived at the station, the train had already departed.",
+          "note": "火车\"先\"开走(had departed),我\"后\"到达(arrived),先发生的用过去完成时。",
+          "point": "when 从句 + 过去完成时"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):But when I arrived at the station, the train had already departed.",
+          "answer": "But when I arrived at the station, the train had already departed.",
+          "note": "already 表示\"已经\",常放在 had 与过去分词之间。",
+          "point": "already 与完成时连用"
+        }
+      ]
+    },
+    {
+      "text": "I felt terrible, because I had waited patiently for that train for three hours the day before.",
+      "translation": "我感到很难受,因为前一天我已经为那趟车耐心等待了三个小时。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "I felt terrible",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "felt"
+            },
+            {
+              "role": "表语",
+              "text": "terrible"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I had waited patiently for that train"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for three hours"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "the day before"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去完成时强调持续",
+          "note": "had waited 表示\"等待\"这个动作在过去某个时间点之前一直持续。"
+        },
+        {
+          "name": "for + 时间段",
+          "note": "for three hours 表示持续了三个小时,the day before 表示\"前一天\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had waited patiently for that train",
+          "name": "过去完成时强调持续"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had waited patiently for that train",
+          "name": "for + 时间段"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I felt terrible, because I had waited patiently for that train for three hours the day before.",
+          "answer": "I felt terrible, because I had waited patiently for that train for three hours the day before.",
+          "note": "had waited 表示\"等待\"这个动作在过去某个时间点之前一直持续。",
+          "point": "过去完成时强调持续"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I felt terrible, because I had waited patiently for that train for three hours the day before.",
+          "answer": "I felt terrible, because I had waited patiently for that train for three hours the day before.",
+          "note": "for three hours 表示持续了三个小时,the day before 表示\"前一天\"。",
+          "point": "for + 时间段"
+        }
+      ]
+    },
+    {
+      "text": "The station master told me that the next train would come after two hours.",
+      "translation": "站长告诉我,下一班火车两小时后才会来。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "The station master told me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The station master"
+            },
+            {
+              "role": "谓语(一般过去时)",
+              "text": "told"
+            },
+            {
+              "role": "宾语",
+              "text": "me"
+            }
+          ]
+        },
+        {
+          "label": "从句(宾语从句)",
+          "color": "#c8a5e0",
+          "text": "that the next train would come after two hours"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "tell sb. + 宾语从句",
+          "note": "tell 后接人称代词再接 that 引导的宾语从句,表示\"告诉某人……\"。"
+        },
+        {
+          "name": "would + 动词原形(过去将来时)",
+          "note": "would come 表示从过去的视角看\"将要来\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "that the next train would come after two hours",
+          "name": "tell sb. + 宾语从句"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "that the next train would come after two hours",
+          "name": "would + 动词原形(过去将来时)"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The station master told me that the next train would come after two hours.",
+          "answer": "The station master told me that the next train would come after two hours.",
+          "note": "tell 后接人称代词再接 that 引导的宾语从句,表示\"告诉某人……\"。",
+          "point": "tell sb. + 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The station master told me that the next train would come after two hours.",
+          "answer": "The station master told me that the next train would come after two hours.",
+          "note": "would come 表示从过去的视角看\"将要来\"。",
+          "point": "would + 动词原形(过去将来时)"
+        }
+      ]
+    },
+    {
+      "text": "I had not brought any food, so I had to sit in the station and wait for a long time, feeling miserable.",
+      "translation": "我没有带任何食物,所以不得不坐在车站里等很久,心里很难受。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I had not brought any food",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(过去完成时否定)",
+              "text": "had not brought"
+            },
+            {
+              "role": "宾语",
+              "text": "any food"
+            }
+          ]
+        },
+        {
+          "label": "连词(结果)",
+          "color": "#f6c177",
+          "text": "so"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I had to sit in the station and wait",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(情态动词短语)",
+              "text": "had to sit"
+            },
+            {
+              "role": "状语",
+              "text": "in the station and wait"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "for a long time"
+        },
+        {
+          "label": "补语(现在分词作伴随状语)",
+          "color": "#9fd8e8",
+          "text": "feeling miserable"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "过去完成时否定式",
+          "note": "had not done 表示\"(过去某时之前)没有做过\"。"
+        },
+        {
+          "name": "had to do 不得不做",
+          "note": "had to 是 have to 的过去式,表示\"不得不\",后接动词原形。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had to sit in the station and wait",
+          "name": "过去完成时否定式"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I had to sit in the station and wait",
+          "name": "had to do 不得不做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I had not brought any food, so I had to sit in the station and wait for a long time, feeling miserable.",
+          "answer": "I had not brought any food, so I had to sit in the station and wait for a long time, feeling miserable.",
+          "note": "had not done 表示\"(过去某时之前)没有做过\"。",
+          "point": "过去完成时否定式"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I had not brought any food, so I had to sit in the station and wait for a long time, feeling miserable.",
+          "answer": "I had not brought any food, so I had to sit in the station and wait for a long time, feeling miserable.",
+          "note": "had to 是 have to 的过去式,表示\"不得不\",后接动词原形。",
+          "point": "had to do 不得不做"
+        }
+      ]
+    },
+    {
+      "text": "In the end, I had learned a good lesson, and now I understand the logic of being early, and this is a real insight for me.",
+      "translation": "最后,我吸取了很好的教训,现在我明白了早到的重要性,这对我来说是真正的领悟。",
+      "chunks": [
+        {
+          "label": "状语",
+          "color": "#8ab4f8",
+          "text": "In the end"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I had learned a good lesson",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(过去完成时)",
+              "text": "had learned"
+            },
+            {
+              "role": "宾语",
+              "text": "a good lesson"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "now"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I understand the logic of being early",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "understand"
+            },
+            {
+              "role": "宾语",
+              "text": "the logic of being early"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "this is a real insight for me",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a real insight for me"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "learn a lesson 吸取教训",
+          "note": "learn a lesson 是固定搭配,表示\"吸取教训\"。"
+        },
+        {
+          "name": "动名词作介词宾语",
+          "note": "being early 是动名词短语,作 of 的宾语,意为\"早到这件事\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I understand the logic of being early",
+          "name": "learn a lesson 吸取教训"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I understand the logic of being early",
+          "name": "动名词作介词宾语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the end, I had learned a good lesson, and now I understand the logic of being early, and this is a real insight for me.",
+          "answer": "In the end, I had learned a good lesson, and now I understand the logic of being early, and this is a real insight for me.",
+          "note": "learn a lesson 是固定搭配,表示\"吸取教训\"。",
+          "point": "learn a lesson 吸取教训"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In the end, I had learned a good lesson, and now I understand the logic of being early, and this is a real insight for me.",
+          "answer": "In the end, I had learned a good lesson, and now I understand the logic of being early, and this is a real insight for me.",
+          "note": "being early 是动名词短语,作 of 的宾语,意为\"早到这件事\"。",
+          "point": "动名词作介词宾语"
+        }
+      ]
+    },
+    {
+      "text": "Now I always arrive early, because I do not want to miss another train.",
+      "translation": "现在我总是早到,因为我不想再错过一趟火车。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Now"
+        },
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "I always arrive early",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(一般现在时)",
+              "text": "always arrive"
+            },
+            {
+              "role": "状语",
+              "text": "early"
+            }
+          ]
+        },
+        {
+          "label": "连词(原因)",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "从句(原因状语从句)",
+          "color": "#c8a5e0",
+          "text": "I do not want to miss another train"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "一般现在时表习惯",
+          "note": "always arrive 用一般现在时,表示现在反复发生的习惯性动作。"
+        },
+        {
+          "name": "want to do 想要做",
+          "note": "want to miss 中不定式作宾语,否定形式表示\"不想错过\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I do not want to miss another train",
+          "name": "一般现在时表习惯"
+        },
+        {
+          "grammarId": "g-s2u3",
+          "phrase": "I do not want to miss another train",
+          "name": "want to do 想要做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Now I always arrive early, because I do not want to miss another train.",
+          "answer": "Now I always arrive early, because I do not want to miss another train.",
+          "note": "always arrive 用一般现在时,表示现在反复发生的习惯性动作。",
+          "point": "一般现在时表习惯"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Now I always arrive early, because I do not want to miss another train.",
+          "answer": "Now I always arrive early, because I do not want to miss another train.",
+          "note": "want to miss 中不定式作宾语,否定形式表示\"不想错过\"。",
+          "point": "want to do 想要做"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u3",
+      "name": "过去完成时 had + 过去分词",
+      "note": "had planned 表示\"在昨天(过去)之前就计划好了\",强调过去的过去先发生的动作。",
+      "sourceExample": "Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+      "sourceExampleCn": "昨天,我本已计划好乘坐去上海的早班火车,但我犯了一个大错。"
+    },
+    {
+      "grammarId": "g-s2u3",
+      "name": "plan to do 计划做",
+      "note": "plan to take 中不定式作宾语,表示\"计划乘坐\"。",
+      "sourceExample": "Yesterday, I had planned to take the morning train to Shanghai, but I made a big mistake.",
+      "sourceExampleCn": "昨天,我本已计划好乘坐去上海的早班火车,但我犯了一个大错。"
+    },
+    {
+      "grammarId": "g-s2u3",
+      "name": "过去完成时的时间顺序",
+      "note": "had finished、had left 表示这些动作都发生在\"错过火车\"这个过去时间之前。",
+      "sourceExample": "I had finished my work before nine, and I had left home in a hurry.",
+      "sourceExampleCn": "我九点前已经完成了工作,然后匆匆忙忙地离开了家。"
+    },
+    {
+      "grammarId": "g-s2u3",
+      "name": "in a hurry 匆忙地",
+      "note": "in a hurry 作方式状语,表示\"匆匆忙忙地\"。",
+      "sourceExample": "I had finished my work before nine, and I had left home in a hurry.",
+      "sourceExampleCn": "我九点前已经完成了工作,然后匆匆忙忙地离开了家。"
+    },
+    {
+      "grammarId": "g-s2u3",
+      "name": "when 从句 + 过去完成时",
+      "note": "火车\"先\"开走(had departed),我\"后\"到达(arrived),先发生的用过去完成时。",
+      "sourceExample": "But when I arrived at the station, the train had already departed.",
+      "sourceExampleCn": "但当我到达车站时,火车已经开走了。"
+    }
+  ]
+}

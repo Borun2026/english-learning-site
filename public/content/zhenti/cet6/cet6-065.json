@@ -1,0 +1,60 @@
+{
+ "id": "cet6-065",
+ "type": "cet6-passage",
+ "year": 2021,
+ "source": "六级真题 2021年6月 · 2021年6月英语六级真题(第1套) Passage 1",
+ "title": "Humans are fascinated by the source of their failings and virtues",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 453,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Humans are fascinated by the source of their failings and virtues. This preoccupation inevitably leads to an old debate: whether nature or nurture moulds us more. A revolution in genetics has poised this as a modern political question about the character of our society: personalities are hard-wired into our genes what can governments do to help us? It feels morally questionable, yet claims of genetic selection by intelligence are making headlines.",
+  "This is down to \"hereditarian\" science and a recent paper claimed \"udifferences in exam performance between pupils attending selective and non-selective schools mirror the genetic differences between them\". With such an assertion, the work was predictably greeted by a lot of absurd claims about \"genetics determining academic success\". What the research revealed was the rather less surprising result: the educational benefits of selective schools largely disappear once pupils' inborn ability and socio-economic background were taken into account. It is a glimpse of the blindingly obvious-and there's nothing to back strongly either a hereditary or environmental argument.",
+  "Yet the paper does say children are \"unintentionally genetically selected\" by the school system. Central to hereditarian science is a tall claim: that identifiable variations in genetic sequences can predict an individual's aptness to learn, reason and solve problems. This is problematic on many levels. A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist. Unlike-minded academics say the inheritability of human traits is scientifically unsound. At best there is a weak statistical association and not a causal link between DNA and intelligence. Yet sophisticated statistics are used to create an intimidatory atmosphere of scientific certainty.",
+  "While there's an undoubted genetic basis to individual difference, it is wrong to think that socially",
+  "defined groups can be genetically accounted for. The fixation on genes as destiny is surely false too. Medical predictability can rarely be based on DNA alone; the environment matters too. Something as complex as intellect is likely to be affected by many factors beyond genes. If hereditarians want to advance their cause it will require more balanced interpretation and not just acts. of advocacy.",
+  "Genetic selection is a way of exerting influence over others, \"the ultimate collective control of human destinies,\" as writer H. G. Wells put it. Knowledge becomes power and power requires a sense of responsibility. In understanding cognitive ability, we must not elevate discrimination to a science; allowing people to climb the ladder of life only as far as their cells might suggest. This will need a more sceptical eye on the science. As technology progresses, we all have a duty to make sure that we shape a future that we would want to find ourselves in."
+ ],
+ "questions": [
+  {
+   "q": "文中 “exist” 最接近的意思是?",
+   "options": [
+    "养育，培育，教养",
+    "解答",
+    "存在",
+    "科学的，系统的"
+   ],
+   "answer": 2,
+   "analysis": "“exist” 意为「存在」。原文语境:A teacher could not seriously tell a parent their child has a low genetic tendency to study when external factors clearly exist.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:It feels morally ___, yet claims of genetic selection by intelligence are making headlines.",
+   "options": [
+    "questionable",
+    "rather",
+    "modern",
+    "economic"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“It feels morally questionable, yet claims of genetic selection by intelligence are making headlines.”。空格处应填入 “questionable”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Humans are fascinated by the source of their failings and virtues",
+    "Since American idol star Taryn Southern started composing music with AI in 20",
+    "Children with attention problems in early childhood were 40% less likely to g",
+    "Professor Stephen Hawking has warned that the creation of powerful artifcial"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Humans are fascinated by the source of their failings and virtues.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

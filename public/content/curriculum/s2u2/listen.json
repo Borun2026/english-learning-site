@@ -1,0 +1,48 @@
+{
+  "id": "l-s2u2",
+  "stage": 2,
+  "unitId": "s2u2",
+  "title": "听力挑战 · 聊人生经历",
+  "rate": 0.85,
+  "rounds": [
+    {
+      "speaker": "朋友",
+      "line": "Have you ever been to London for work?",
+      "lineCn": "你去伦敦出过差吗?",
+      "grammar": [
+        { "name": "现在完成时 have been to", "note": "have been to 表示'去过某地',强调经历,常与 ever 连用。" }
+      ],
+      "options": [
+        { "text": "Yes, I have visited it twice.", "correct": true, "feedback": "用现在完成时回应经历类问题,表达准确。" },
+        { "text": "Yes, I will go there tomorrow.", "correct": false, "feedback": "will 表将来计划,与'去过'的经历问题不符。" },
+        { "text": "No, I am not feeling well.", "correct": false, "feedback": "说的是身体状况,没有回答是否去过。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "How long have you been studying English here?",
+      "lineCn": "你在这里学英语多久了?",
+      "grammar": [
+        { "name": "现在完成进行时", "note": "have been doing 表示从过去持续到现在的动作,常与 how long 搭配。" }
+      ],
+      "options": [
+        { "text": "I have studied it for five years.", "correct": true, "feedback": "用现在完成时加 for 时间段,回答持续时间。" },
+        { "text": "I am studying grammar now.", "correct": false, "feedback": "只说了此刻在学什么,没有回答学了多久。" },
+        { "text": "I studied hard last night.", "correct": false, "feedback": "过去时说的是昨晚,没有说明持续时间。" }
+      ]
+    },
+    {
+      "speaker": "邻居",
+      "line": "Have you tried the new coffee shop near us?",
+      "lineCn": "你尝过我们附近那家新咖啡馆吗?",
+      "grammar": [
+        { "name": "现在完成时表经验", "note": "have tried 表示'已经试过',询问对方是否有过该经历。" }
+      ],
+      "options": [
+        { "text": "Yes, I have tried their caramel latte.", "correct": true, "feedback": "用现在完成时回应,具体说明试过的东西。" },
+        { "text": "Yes, I like coffee very much.", "correct": false, "feedback": "只说喜欢咖啡,没有回答是否试过那家店。" },
+        { "text": "No, I am drinking tea now.", "correct": false, "feedback": "现在喝什么不代表试过那家咖啡馆。" }
+      ]
+    }
+  ]
+}

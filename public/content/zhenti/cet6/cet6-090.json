@@ -1,0 +1,61 @@
+{
+ "id": "cet6-090",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年6月 · 2023年6月英语六级真题(第3套) Passage 2",
+ "title": "Many oppose workplace surveillance, because of the inherent dehumanizing effe...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings. But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers. More than half of companies with over $750m in annual revenue used \"non-traditional\" monitoring techniques on staff last year.",
+  "Monitoring employee performance gives firms the ability to assess how their staff are performing and interacting, which can be good for both the firm and employees themselves. A growing number of analytics companies offer this service. They gather \"data exhaust\" left by employees' email and instant messaging apps, and use name badges equipped with radio-frequency identification devices and microphones. These can check how much time you spend talking, your volume and tone of voice, even if you do not dominate conversations. While this may sound intrusive, exponents argue that it can also protect employees against bullying and sexual harassment.",
+  "Some of this data analysis can produce unexpected results. For example, it was found that people who sat at 12-person lunch tables tended to interact, share ideas more and outperform those who regularly sat at four-person tables, a fact that would probably have gone undetected without such data analysis.",
+  "Over the last few years a Stockholm co-working space called Epicenter has gone much further and holds popular \"chipping parties\", where people can have microchips implanted in their hands. They can use the implants to access electronically-controlled doors, or monitor how typing speed correlates with heart rate. Implanted chips may seem extreme, but it is a relatively small step from ID cards and biometrics to such devices.",
+  "As long as such schemes are voluntary, there will probably be a growing number of convenienceoriented uses so that a substantial number of workers would opt to have a chip inserted. But if implanted chips are used to reduce slack time or rest breaks, that could prove to be detrimental. And if surveillance tools take away autonomy, that's when they prove most unpopular. A lot depends on how such monitoring initiatives are communicated and this could prevent possible revolts being staged.",
+  "If bosses don't communicate effectively, employees assume the worst. But if they're open about the information they're collecting and what they're doing with it, research suggests 46% of employees are generally okay with it. Although many such monitoring schemes use anonymised data and participation is voluntary, many staffers remain sceptical and fear an erosion of their civil liberties.",
+  "So workplace surveillance could be empowering for staff and useful for companies looking to become more efficient and profitable. But implemented in the wrong way, it could also become an unpopular tool of oppression that proves counterproductive."
+ ],
+ "questions": [
+  {
+   "q": "文中 “assume” 最接近的意思是?",
+   "options": [
+    "分享",
+    "减少， 缩小",
+    "共计，达…之数",
+    "假定"
+   ],
+   "answer": 3,
+   "analysis": "“assume” 意为「假定」。原文语境:If bosses don't communicate effectively, employees assume the worst.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:But it's on the rise ___ the world as firms look to become more efficient by squeezing more productivity from their workers.",
+   "options": [
+    "around",
+    "counterproductive",
+    "revenue",
+    "space"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“But it's on the rise around the world as firms look to become more efficient by squeezing more productivity from their workers.”。空格处应填入 “around”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "As interdependent beings we cannot thrive independent of others",
+    "Many see friendships as a comfort blanket: a shoulder to cry on, a reliable s",
+    "Photography was once an expensive, laborious ordeal reserved for life's great",
+    "Many oppose workplace surveillance, because of the inherent dehumanizing effe"
+   ],
+   "answer": 3,
+   "analysis": "本文以“Many oppose workplace surveillance, because of the inherent dehumanizing effect it has and the relentless pressure it brings.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

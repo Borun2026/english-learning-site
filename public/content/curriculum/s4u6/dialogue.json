@@ -1,0 +1,90 @@
+{
+  "id": "d-s4u6",
+  "stage": 4,
+  "unitId": "s4u6",
+  "scene": "备考策略交流",
+  "goal": "为研友制定合理的备考策略",
+  "start": "n1",
+  "nodes": {
+    "n1": {
+      "id": "n1",
+      "speaker": "研友 Zhao Lin",
+      "line": "I have only four months left before the exam, and my current schedule is a mess, so I really need a study strategy that is both realistic and effective.",
+      "lineCn": "离考试只剩四个月了,我现在的安排一团糟,所以我真的需要一个既现实又有效的备考策略。",
+      "grammar": [
+        { "name": "so 结果从句 + that 定语从句", "note": "so 连接因果,strategy that is both realistic and effective 中 that 引导定语从句,both...and... 并列结构,是常见的口语化长句。" }
+      ],
+      "options": [
+        { "text": "Before designing anything, let us first map out your actual situation: how many hours can you study per day, and which subjects cost you the most time?", "textCn": "在制定任何计划之前,我们先摸清你的真实情况:每天能学几个小时,哪科最耗时?", "feedback": "先诊断后开方,基于数据制定策略,这是科学备考的第一步。", "next": "n2" },
+        { "text": "Just study eighteen hours a day and drink a lot of coffee. That is what all successful candidates do.", "textCn": "每天学十八个小时,多喝咖啡就行,上岸的人都这样。", "feedback": "迷信极端努力而忽视科学方法,四个月的高强度透支反而会导致崩溃。", "next": "n3" },
+        { "text": "You should buy the most expensive course package, because money spent is directly proportional to exam scores.", "textCn": "你应该买最贵的课程套餐,花钱和学习成绩是成正比的。", "feedback": "把成绩等同于消费金额,既不理性也不经济。", "next": "n3" }
+      ]
+    },
+    "n2": {
+      "id": "n2",
+      "speaker": "研友 Zhao Lin",
+      "line": "I can manage about six hours on weekdays and eight on weekends. English reading is my weakest point, taking me almost two hours to finish a single passage with full understanding.",
+      "lineCn": "工作日我能学六小时,周末八小时。英语阅读是我最弱的点,完整读懂一篇要花差不多两小时。",
+      "grammar": [
+        { "name": "现在分词作伴随状语", "note": "taking me almost two hours to finish 是现在分词短语作伴随状语,补充说明阅读耗时,体现了分词替换并列句的高级表达。" }
+      ],
+      "options": [
+        { "text": "Then let us set a concrete goal: finish two reading passages daily with time tracking, starting at sixty minutes each and gradually reducing to forty, while reviewing your wrong answers every Sunday.", "textCn": "那我们定个具体目标:每天两篇阅读并计时,从每篇六十分钟逐步减到四十分钟,同时每周日复盘错题。", "feedback": "目标量化、过程可测、附带复盘机制,是可行的渐进式提升方案。", "next": "n4" },
+        { "text": "Then you should simply give up on English and pour all your time into your best subject, so that your total score stays high.", "textCn": "那你干脆放弃英语,把时间全砸到最擅长的科目上,保证总分高。", "feedback": "考研单科有国家线,放弃英语等于直接出局,策略方向完全错误。", "next": "n3" },
+        { "text": "Then you should memorize the entire dictionary, because that is what it takes to read fast.", "textCn": "那你应该背整本词典,读得快就得这样。", "feedback": "背整本词典投入产出比极低,与四个月的备考周期严重不匹配。", "next": "n3" }
+      ]
+    },
+    "n3": {
+      "id": "n3",
+      "speaker": "研友 Zhao Lin",
+      "line": "I have tried that kind of advice before, and it never worked, because my energy collapsed within two weeks and I ended up falling even further behind.",
+      "lineCn": "那种建议我以前试过,从没奏效,因为两周内我的精力就崩了,反而落后得更多。",
+      "grammar": [
+        { "name": "because 原因从句 + 并列谓语", "note": "because 引导原因状语从句,从句内 energy collapsed 与 fell behind 并列,前文含宾语从句 that kind of advice,表达亲身教训。" }
+      ],
+      "options": [
+        { "text": "You are right, and that is exactly why we should plan around sustainability: fixed study blocks, weekly rest, and measurable checkpoints instead of heroic effort.", "textCn": "你说得对,这正是我们该围绕可持续性来规划的原因:固定学习时段、每周休息、可衡量的检查点,而不是拼意志力。", "feedback": "从失败经验中提炼出可持续原则,备考策略回归科学与理性。", "next": "n4" },
+        { "text": "But if I do not push myself to the limit, how can I compete with candidates who study every waking hour?", "textCn": "但如果我不逼自己到极限,怎么跟那些醒着都在学习的人竞争?", "feedback": "被同伴压力裹挟,继续透支自己,只会重蹈失败的覆辙。", "next": "fail1" },
+        { "text": "Maybe I am just not talented enough, so there is no strategy that can save me.", "textCn": "也许我就是没天赋,再好的策略也救不了我。", "feedback": "陷入自我否定,备考策略首先需要信心作为前提。", "next": "fail2" }
+      ]
+    },
+    "n4": {
+      "id": "n4",
+      "speaker": "研友 Zhao Lin",
+      "line": "This plan sounds much more workable than what I had before, but one thing still worries me: what should I do in the final month, when revision pressure is at its highest?",
+      "lineCn": "这个计划比我以前的靠谱多了,但我还有一件事担心:最后一个月复习压力最大的时候该怎么办?",
+      "grammar": [
+        { "name": "what 宾语从句 + when 定语从句修饰时间", "note": "what I had before 作比较对象,when revision pressure is at its highest 是定语从句修饰 month,冒号引出具体问题。" }
+      ],
+      "options": [
+        { "text": "In the final month, we switch to mock exams under real timing every three days, review only high-frequency error patterns, and keep the daily load light enough to protect your sleep and confidence.", "textCn": "最后一个月改成每三天一次限时模拟考,只复盘高频错题类型,日常任务减到不牺牲睡眠和信心的程度。", "feedback": "为冲刺期设计了明确但克制的方案,兼顾实战演练与状态保护,策略完整闭环。", "next": "success" },
+        { "text": "In the final month, you should do ten mock exams every day, because more questions always means better preparation.", "textCn": "最后一个月每天做十套模拟卷,题做得越多准备就越充分。", "feedback": "数量迷信,忽略疲劳与消化,冲刺期这样做大概率临场崩盘。", "next": "fail1" },
+        { "text": "I think I will just stop studying in the final month, so that I am completely fresh on exam day.", "textCn": "最后一个月我干脆不学了,这样考试当天精神饱满。", "feedback": "突然完全停摆会让手感生疏,冲刺期应该减量而非归零。", "next": "fail2" }
+      ]
+    },
+    "success": {
+      "id": "success",
+      "speaker": "研友 Zhao Lin",
+      "line": "That makes a complete strategy: baseline diagnosis, progressive reading training, weekly review, and a controlled final-month sprint. I feel confident now, and I will share this plan with you every Sunday.",
+      "lineCn": "这构成一个完整的策略:基线诊断、渐进阅读训练、每周复盘、克制的冲刺。我现在有信心了,每周日我会跟你同步计划执行情况。",
+      "end": true,
+      "success": true
+    },
+    "fail1": {
+      "id": "fail1",
+      "speaker": "研友 Zhao Lin",
+      "line": "I am afraid that strategy will only lead me back to the same burnout I experienced before, so let us not repeat that mistake.",
+      "lineCn": "恐怕那个策略只会让我重蹈之前的崩溃,我们还是别重复那个错误了。",
+      "end": true,
+      "success": false
+    },
+    "fail2": {
+      "id": "fail2",
+      "speaker": "研友 Zhao Lin",
+      "line": "If that is how you want to plan, I cannot support you in it, but I hope you will reconsider before it is too late.",
+      "lineCn": "如果你坚持这样规划,我无法支持,但我希望你在为时已晚之前重新考虑。",
+      "end": true,
+      "success": false
+    }
+  }
+}

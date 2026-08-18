@@ -1,0 +1,61 @@
+{
+ "id": "cet6-013",
+ "type": "cet6-passage",
+ "year": 2017,
+ "source": "六级真题 2017年12月 · 2017年12月英语六级真题(第1套) Passage 1",
+ "title": "You may have heard that Coca-Cola once contained an ingredient capable of spa...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 452,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine. The cocaine. The \"coca\" in the name referred to the extracts of coca leaf that the drink's originator, chemist John Pemberton, mixed with his sugary syrup . At the time, coca leaf extract mixed with wine was a common tonic , and Pemberton's sweet brew was a way to get around local laws prohibiting the sale of alcohol. But the other half of the name represents another ingredient, less infamous , perhaps, but also strangely potent: the kola nut.",
+  "In West Africa, people have long chewed kola nuts as stimulants, because they contain caffeine that also occurs naturally in tea, coffee ,and chocolate .They also have heart stimulants .",
+  "Historian Paul Lovejoy relates that the cultivation of kola nuts in West Africa is hundreds of years old. The leafy, spreading trees were planted on graves and as part of traditional rituals. Even though the nuts, which need to stay moist, can be somewhat delicate to transport, traders carried them hundreds of miles throughout the forests and grasslands.",
+  "Europeans did not know of them until the 1500s when Portuguese ships arrived on the coast of what is now Sierra Leone. And while the Portuguese took part in the trade, ferrying nuts down the coast along with other goods, by 1620, when English explorer Richard Jobson made his way up the Gambia, the nuts were still peculiar to his eyes.",
+  "By the late 19th century, kola nuts were being shipped by the tonne to Europe and the US. Many made their way into medicines, intended as a kind of energy boost. One such popular medicinal drink was Vin Mariani, a French product consisting of coca extract mixed with red wine. It was created by a French chemist, Angelo Mariani, in 1863. So when Pemberton created his drink, it represented an ongoing trend. When cocaine eventually fell from grace as a beverage ingredient, kola-extract colas became popular.",
+  "The first year it was available, Coca-Cola averaged nine servings a day across all the Atlanta soda fountains where it was sold. As it grew more popular, the company sold rights to bottle the soda, so it could travel easily. Today about 1. 9 billion Cokes are purchased daily. It's become so iconic that attempts to change its taste in 1985- sweetening it in a move projected to boost sales proved disastrous, with widespread anger from consumers. \"Coca-Cola Classic\" returned to store shelves just three months after the \"New Coke\" was released.",
+  "These days, the Coca-Cola recipe is a closely guarded secret. But it's said to no longer contain kola nut extract, relying instead on artificial imitations to achieve the flavour."
+ ],
+ "questions": [
+  {
+   "q": "文中 “capable” 最接近的意思是?",
+   "options": [
+    "瓶子",
+    "味，风味，调味，特点",
+    "有能力的",
+    "滑行"
+   ],
+   "answer": 2,
+   "analysis": "“capable” 意为「有能力的」。原文语境:You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:So when Pemberton created his drink, it represented an ongoing ___.",
+   "options": [
+    "trend",
+    "heart",
+    "cocaine",
+    "Europe"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“So when Pemberton created his drink, it represented an ongoing trend.”。空格处应填入 “trend”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "What can be done about mass unemployment",
+    "One hundred thirty-five students, four teachers, one giant classroom: This is",
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal",
+    "You may have heard that Coca-Cola once contained an ingredient capable of spa"
+   ],
+   "answer": 3,
+   "analysis": "本文以“You may have heard that Coca-Cola once contained an ingredient capable of sparking particular devotion in consumers: cocaine.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

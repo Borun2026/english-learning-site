@@ -1,0 +1,6370 @@
+{
+  "version": 1,
+  "source": "参考 Listen-en-web-pub 词根学习功能(MIT);数据=人工种子 + 本平台 9251 词库统计派生",
+  "count": 429,
+  "items": [
+    {
+      "affix": "un-",
+      "type": "prefix",
+      "meaning": "不,相反",
+      "examples": [
+        "understand",
+        "unhappy",
+        "university",
+        "unfamiliar",
+        "uncle",
+        "unimportant"
+      ],
+      "count": 123,
+      "source": "seed"
+    },
+    {
+      "affix": "re-",
+      "type": "prefix",
+      "meaning": "再次,回",
+      "examples": [
+        "require",
+        "recent",
+        "result",
+        "retell",
+        "regard",
+        "report"
+      ],
+      "count": 352,
+      "source": "seed"
+    },
+    {
+      "affix": "pre-",
+      "type": "prefix",
+      "meaning": "在前,预先",
+      "examples": [
+        "prepare",
+        "pretend",
+        "press",
+        "president",
+        "pretty",
+        "pressure"
+      ],
+      "count": 87,
+      "source": "seed"
+    },
+    {
+      "affix": "post-",
+      "type": "prefix",
+      "meaning": "在后",
+      "examples": [
+        "postman",
+        "postcard",
+        "poster",
+        "postpone",
+        "postage",
+        "postcode"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "sub-",
+      "type": "prefix",
+      "meaning": "在下,次级",
+      "examples": [
+        "subject",
+        "subway",
+        "substitute",
+        "subtraction",
+        "subscribe",
+        "submit"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "super-",
+      "type": "prefix",
+      "meaning": "在上,超越",
+      "examples": [
+        "supermarket",
+        "superior",
+        "superman",
+        "supervision",
+        "superficial",
+        "superiority"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "inter-",
+      "type": "prefix",
+      "meaning": "之间,相互",
+      "examples": [
+        "interest",
+        "interesting",
+        "international",
+        "internet",
+        "interview",
+        "interval"
+      ],
+      "count": 39,
+      "source": "seed"
+    },
+    {
+      "affix": "trans-",
+      "type": "prefix",
+      "meaning": "横穿,转变",
+      "examples": [
+        "translate",
+        "transportation",
+        "transform",
+        "transparent",
+        "translator",
+        "transport"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "ex-",
+      "type": "prefix",
+      "meaning": "向外,前任",
+      "examples": [
+        "example",
+        "express",
+        "experiment",
+        "examine",
+        "extra",
+        "exhibition"
+      ],
+      "count": 136,
+      "source": "seed"
+    },
+    {
+      "affix": "in-",
+      "type": "prefix",
+      "meaning": "在内,不",
+      "examples": [
+        "information",
+        "instrument",
+        "invention",
+        "interest",
+        "interesting",
+        "inch"
+      ],
+      "count": 318,
+      "source": "seed"
+    },
+    {
+      "affix": "im-",
+      "type": "prefix",
+      "meaning": "不,向内",
+      "examples": [
+        "important",
+        "improve",
+        "impossible",
+        "imagine",
+        "importance",
+        "immediately"
+      ],
+      "count": 62,
+      "source": "seed"
+    },
+    {
+      "affix": "dis-",
+      "type": "prefix",
+      "meaning": "否定,分开",
+      "examples": [
+        "discuss",
+        "discover",
+        "dismiss",
+        "discussion",
+        "disturb",
+        "district"
+      ],
+      "count": 125,
+      "source": "seed"
+    },
+    {
+      "affix": "mis-",
+      "type": "prefix",
+      "meaning": "错误",
+      "examples": [
+        "misleading",
+        "mistake",
+        "misunderstand",
+        "mistaken",
+        "missile",
+        "miscalculation"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "over-",
+      "type": "prefix",
+      "meaning": "过度,在上",
+      "examples": [
+        "overcoat",
+        "overseas",
+        "overlook",
+        "overcome",
+        "overweight",
+        "overhead"
+      ],
+      "count": 41,
+      "source": "seed"
+    },
+    {
+      "affix": "under-",
+      "type": "prefix",
+      "meaning": "在下,不足",
+      "examples": [
+        "understand",
+        "underground",
+        "underwater",
+        "underline",
+        "underwear",
+        "undertake"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "anti-",
+      "type": "prefix",
+      "meaning": "反对,抗",
+      "examples": [
+        "antique",
+        "anticipate",
+        "antiseptic",
+        "antidote",
+        "antiquity",
+        "antibiotic"
+      ],
+      "count": 8,
+      "source": "seed"
+    },
+    {
+      "affix": "auto-",
+      "type": "prefix",
+      "meaning": "自动,自己",
+      "examples": [
+        "autograph",
+        "automatic",
+        "autonomous",
+        "automation",
+        "automobile",
+        "automate"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "co-",
+      "type": "prefix",
+      "meaning": "共同",
+      "examples": [
+        "connect",
+        "correct",
+        "conversation",
+        "continue",
+        "coke",
+        "cotton"
+      ],
+      "count": 420,
+      "source": "seed"
+    },
+    {
+      "affix": "com-",
+      "type": "prefix",
+      "meaning": "共同,一起",
+      "examples": [
+        "common",
+        "compare",
+        "comfortable",
+        "communicate",
+        "communication",
+        "company"
+      ],
+      "count": 104,
+      "source": "seed"
+    },
+    {
+      "affix": "con-",
+      "type": "prefix",
+      "meaning": "共同,加强",
+      "examples": [
+        "connect",
+        "conversation",
+        "continue",
+        "concentrate",
+        "concert",
+        "conjunction"
+      ],
+      "count": 171,
+      "source": "seed"
+    },
+    {
+      "affix": "de-",
+      "type": "prefix",
+      "meaning": "向下,去除",
+      "examples": [
+        "death",
+        "design",
+        "department",
+        "dead",
+        "deaf",
+        "deal"
+      ],
+      "count": 222,
+      "source": "seed"
+    },
+    {
+      "affix": "en-",
+      "type": "prefix",
+      "meaning": "使成为,进入",
+      "examples": [
+        "england",
+        "energy",
+        "english",
+        "engineer",
+        "entertainment",
+        "environment"
+      ],
+      "count": 90,
+      "source": "seed"
+    },
+    {
+      "affix": "fore-",
+      "type": "prefix",
+      "meaning": "在前,预先",
+      "examples": [
+        "forest",
+        "foreign",
+        "foreigner",
+        "foresee",
+        "forecast",
+        "forever"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "micro-",
+      "type": "prefix",
+      "meaning": "微小",
+      "examples": [
+        "microwave",
+        "microscope",
+        "microcomputer",
+        "microphone",
+        "microscopic",
+        "microprocessor"
+      ],
+      "count": 10,
+      "source": "seed"
+    },
+    {
+      "affix": "multi-",
+      "type": "prefix",
+      "meaning": "多",
+      "examples": [
+        "multiply",
+        "multicultural",
+        "multiple",
+        "multiplication",
+        "multitude",
+        "multilateral"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "non-",
+      "type": "prefix",
+      "meaning": "非,无",
+      "examples": [
+        "nonsense",
+        "nonetheless"
+      ],
+      "count": 2,
+      "source": "seed"
+    },
+    {
+      "affix": "out-",
+      "type": "prefix",
+      "meaning": "超出",
+      "examples": [
+        "outgoing",
+        "outside",
+        "outdoor",
+        "outstanding",
+        "outdoors",
+        "outward"
+      ],
+      "count": 38,
+      "source": "seed"
+    },
+    {
+      "affix": "pro-",
+      "type": "prefix",
+      "meaning": "向前,赞成",
+      "examples": [
+        "prove",
+        "product",
+        "produce",
+        "provide",
+        "probably",
+        "program"
+      ],
+      "count": 119,
+      "source": "seed"
+    },
+    {
+      "affix": "semi-",
+      "type": "prefix",
+      "meaning": "半",
+      "examples": [
+        "semicircle",
+        "seminar",
+        "semiconductor"
+      ],
+      "count": 3,
+      "source": "seed"
+    },
+    {
+      "affix": "tri-",
+      "type": "prefix",
+      "meaning": "三",
+      "examples": [
+        "triangle",
+        "trial",
+        "trick",
+        "triumph",
+        "trigger",
+        "triple"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "uni-",
+      "type": "prefix",
+      "meaning": "单一",
+      "examples": [
+        "university",
+        "unimportant",
+        "uniform",
+        "union",
+        "unite",
+        "universe"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "bi-",
+      "type": "prefix",
+      "meaning": "二,双",
+      "examples": [
+        "bike",
+        "bill",
+        "bird",
+        "birth",
+        "birthday",
+        "biscuit"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "tele-",
+      "type": "prefix",
+      "meaning": "远距离",
+      "examples": [
+        "telephone",
+        "television",
+        "telegram",
+        "telescope",
+        "telegraph",
+        "telecommunications"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "bio-",
+      "type": "prefix",
+      "meaning": "生命,生物",
+      "examples": [
+        "biology",
+        "biochemistry",
+        "biography",
+        "biological",
+        "biotechnology",
+        "biodiversity"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "geo-",
+      "type": "prefix",
+      "meaning": "地球,土地",
+      "examples": [
+        "geography",
+        "geometry",
+        "geographic",
+        "geology",
+        "geometrical",
+        "geographical"
+      ],
+      "count": 8,
+      "source": "seed"
+    },
+    {
+      "affix": "photo-",
+      "type": "prefix",
+      "meaning": "光,照片",
+      "examples": [
+        "photograph",
+        "photographer",
+        "photography",
+        "photoelectric",
+        "photocopy"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "psycho-",
+      "type": "prefix",
+      "meaning": "心理",
+      "examples": [
+        "psychology",
+        "psychological",
+        "psychologist"
+      ],
+      "count": 3,
+      "source": "seed"
+    },
+    {
+      "affix": "hydro-",
+      "type": "prefix",
+      "meaning": "水",
+      "examples": [
+        "hydrogen",
+        "hydrocarbon"
+      ],
+      "count": 2,
+      "source": "seed"
+    },
+    {
+      "affix": "thermo-",
+      "type": "prefix",
+      "meaning": "热",
+      "examples": [
+        "thermometer",
+        "thermostat"
+      ],
+      "count": 2,
+      "source": "seed"
+    },
+    {
+      "affix": "mono-",
+      "type": "prefix",
+      "meaning": "单一",
+      "examples": [
+        "monopoly",
+        "monopolize",
+        "monotonous",
+        "monologue"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "poly-",
+      "type": "prefix",
+      "meaning": "多",
+      "examples": [
+        "polymer"
+      ],
+      "count": 1,
+      "source": "seed"
+    },
+    {
+      "affix": "pseudo-",
+      "type": "prefix",
+      "meaning": "假,伪",
+      "examples": [
+        "pseudonym"
+      ],
+      "count": 1,
+      "source": "seed"
+    },
+    {
+      "affix": "ultra-",
+      "type": "prefix",
+      "meaning": "超,极端",
+      "examples": [
+        "ultraviolet",
+        "ultrasonic",
+        "ultraclean"
+      ],
+      "count": 3,
+      "source": "seed"
+    },
+    {
+      "affix": "with-",
+      "type": "prefix",
+      "meaning": "向后,反对",
+      "examples": [
+        "without",
+        "withdraw",
+        "within",
+        "withstand",
+        "withhold",
+        "wither"
+      ],
+      "count": 6,
+      "source": "seed"
+    },
+    {
+      "affix": "down-",
+      "type": "prefix",
+      "meaning": "向下",
+      "examples": [
+        "downstairs",
+        "downtown",
+        "download",
+        "downward",
+        "downfall",
+        "downsize"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "up-",
+      "type": "prefix",
+      "meaning": "向上",
+      "examples": [
+        "upon",
+        "upset",
+        "upstairs",
+        "upwards",
+        "upward",
+        "update"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "mid-",
+      "type": "prefix",
+      "meaning": "中间",
+      "examples": [
+        "middle",
+        "midday",
+        "midnight",
+        "midst"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "-able",
+      "type": "suffix",
+      "meaning": "可…的,能…的",
+      "examples": [
+        "available",
+        "admirable",
+        "acceptable",
+        "advisable",
+        "applicable",
+        "agreeable"
+      ],
+      "count": 113,
+      "source": "seed"
+    },
+    {
+      "affix": "-ible",
+      "type": "suffix",
+      "meaning": "可…的",
+      "examples": [
+        "accessible",
+        "audible",
+        "compatible",
+        "credible",
+        "combustible",
+        "eligible"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "-al",
+      "type": "suffix",
+      "meaning": "…的,行为",
+      "examples": [
+        "animal",
+        "abnormal",
+        "actual",
+        "agricultural",
+        "approval",
+        "annual"
+      ],
+      "count": 355,
+      "source": "seed"
+    },
+    {
+      "affix": "-ance",
+      "type": "suffix",
+      "meaning": "性质,状态",
+      "examples": [
+        "acquaintance",
+        "advance",
+        "allowance",
+        "ambulance",
+        "appearance",
+        "assistance"
+      ],
+      "count": 69,
+      "source": "seed"
+    },
+    {
+      "affix": "-ence",
+      "type": "suffix",
+      "meaning": "性质,状态",
+      "examples": [
+        "absence",
+        "audience",
+        "adolescence",
+        "conference",
+        "coincidence",
+        "consequence"
+      ],
+      "count": 56,
+      "source": "seed"
+    },
+    {
+      "affix": "-ant",
+      "type": "suffix",
+      "meaning": "…的人/物,形容词",
+      "examples": [
+        "attendant",
+        "assistant",
+        "abundant",
+        "accountant",
+        "applicant",
+        "arrogant"
+      ],
+      "count": 84,
+      "source": "seed"
+    },
+    {
+      "affix": "-ent",
+      "type": "suffix",
+      "meaning": "…的,…的人",
+      "examples": [
+        "absent",
+        "accent",
+        "accident",
+        "advertisement",
+        "agreement",
+        "ancient"
+      ],
+      "count": 243,
+      "source": "seed"
+    },
+    {
+      "affix": "-ar",
+      "type": "suffix",
+      "meaning": "…的,…的人",
+      "examples": [
+        "appear",
+        "bear",
+        "burglar",
+        "beggar",
+        "bazaar",
+        "clear"
+      ],
+      "count": 71,
+      "source": "seed"
+    },
+    {
+      "affix": "-ary",
+      "type": "suffix",
+      "meaning": "…的,…场所",
+      "examples": [
+        "anniversary",
+        "arbitrary",
+        "accessary",
+        "auxiliary",
+        "boundary",
+        "contrary"
+      ],
+      "count": 66,
+      "source": "seed"
+    },
+    {
+      "affix": "-ate",
+      "type": "suffix",
+      "meaning": "使成为,有…性质",
+      "examples": [
+        "accelerate",
+        "accumulate",
+        "adequate",
+        "advocate",
+        "allocate",
+        "appreciate"
+      ],
+      "count": 267,
+      "source": "seed"
+    },
+    {
+      "affix": "-ation",
+      "type": "suffix",
+      "meaning": "行为,过程",
+      "examples": [
+        "association",
+        "accommodation",
+        "adaptation",
+        "administration",
+        "application",
+        "appreciation"
+      ],
+      "count": 237,
+      "source": "seed"
+    },
+    {
+      "affix": "-tion",
+      "type": "suffix",
+      "meaning": "行为,结果",
+      "examples": [
+        "action",
+        "attention",
+        "association",
+        "abortion",
+        "accommodation",
+        "acquisition"
+      ],
+      "count": 408,
+      "source": "seed"
+    },
+    {
+      "affix": "-sion",
+      "type": "suffix",
+      "meaning": "行为,结果",
+      "examples": [
+        "admission",
+        "aggression",
+        "abrasion",
+        "apprehension",
+        "collision",
+        "comprehension"
+      ],
+      "count": 70,
+      "source": "seed"
+    },
+    {
+      "affix": "-ment",
+      "type": "suffix",
+      "meaning": "行为,结果",
+      "examples": [
+        "advertisement",
+        "agreement",
+        "appointment",
+        "achievement",
+        "adjustment",
+        "amusement"
+      ],
+      "count": 108,
+      "source": "seed"
+    },
+    {
+      "affix": "-ness",
+      "type": "suffix",
+      "meaning": "性质,状态",
+      "examples": [
+        "awareness",
+        "aggressiveness",
+        "business",
+        "brightness",
+        "bitterness",
+        "competitiveness"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ity",
+      "type": "suffix",
+      "meaning": "性质,状态",
+      "examples": [
+        "ability",
+        "activity",
+        "authority",
+        "adversity",
+        "availability",
+        "ambiguity"
+      ],
+      "count": 131,
+      "source": "seed"
+    },
+    {
+      "affix": "-ty",
+      "type": "suffix",
+      "meaning": "性质,状态",
+      "examples": [
+        "ability",
+        "activity",
+        "authority",
+        "anxiety",
+        "adversity",
+        "availability"
+      ],
+      "count": 195,
+      "source": "seed"
+    },
+    {
+      "affix": "-hood",
+      "type": "suffix",
+      "meaning": "身份,状态",
+      "examples": [
+        "brotherhood",
+        "childhood",
+        "falsehood",
+        "likelihood",
+        "livelihood",
+        "neighbourhood"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "-ship",
+      "type": "suffix",
+      "meaning": "身份,关系",
+      "examples": [
+        "assistantship",
+        "citizenship",
+        "censorship",
+        "courtship",
+        "entrepreneurship",
+        "friendship"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "-er",
+      "type": "suffix",
+      "meaning": "…的人/物",
+      "examples": [
+        "after",
+        "another",
+        "answer",
+        "altogether",
+        "anger",
+        "astronomer"
+      ],
+      "count": 435,
+      "source": "seed"
+    },
+    {
+      "affix": "-or",
+      "type": "suffix",
+      "meaning": "…的人/物",
+      "examples": [
+        "author",
+        "anchor",
+        "actor",
+        "ambassador",
+        "ancestor",
+        "advocator"
+      ],
+      "count": 118,
+      "source": "seed"
+    },
+    {
+      "affix": "-ist",
+      "type": "suffix",
+      "meaning": "…主义者/专家",
+      "examples": [
+        "artist",
+        "assist",
+        "anthropologist",
+        "alchemist",
+        "buddhist",
+        "cyclist"
+      ],
+      "count": 44,
+      "source": "seed"
+    },
+    {
+      "affix": "-ism",
+      "type": "suffix",
+      "meaning": "主义,学说",
+      "examples": [
+        "absenteeism",
+        "antagonism",
+        "buddhism",
+        "communism",
+        "criticism",
+        "capitalism"
+      ],
+      "count": 25,
+      "source": "seed"
+    },
+    {
+      "affix": "-ee",
+      "type": "suffix",
+      "meaning": "被…的人",
+      "examples": [
+        "agree",
+        "coffee",
+        "committee",
+        "degree",
+        "disagree",
+        "decree"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "-ess",
+      "type": "suffix",
+      "meaning": "女性",
+      "examples": [
+        "address",
+        "access",
+        "actress",
+        "assess",
+        "ambassadress",
+        "awareness"
+      ],
+      "count": 104,
+      "source": "seed"
+    },
+    {
+      "affix": "-ful",
+      "type": "suffix",
+      "meaning": "充满…的",
+      "examples": [
+        "awful",
+        "beautiful",
+        "careful",
+        "cheerful",
+        "delightful",
+        "doubtful"
+      ],
+      "count": 48,
+      "source": "seed"
+    },
+    {
+      "affix": "-less",
+      "type": "suffix",
+      "meaning": "无…的",
+      "examples": [
+        "breathless",
+        "careless",
+        "cordless",
+        "doubtless",
+        "endless",
+        "fearless"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "-ous",
+      "type": "suffix",
+      "meaning": "充满…的",
+      "examples": [
+        "anxious",
+        "ambiguous",
+        "autonomous",
+        "ambitious",
+        "anonymous",
+        "advantageous"
+      ],
+      "count": 126,
+      "source": "seed"
+    },
+    {
+      "affix": "-ious",
+      "type": "suffix",
+      "meaning": "有…性质的",
+      "examples": [
+        "anxious",
+        "ambitious",
+        "amphibious",
+        "audacious",
+        "behavious",
+        "cautious"
+      ],
+      "count": 54,
+      "source": "seed"
+    },
+    {
+      "affix": "-ic",
+      "type": "suffix",
+      "meaning": "…的",
+      "examples": [
+        "atlantic",
+        "academic",
+        "alcoholic",
+        "allergic",
+        "arabic",
+        "arctic"
+      ],
+      "count": 160,
+      "source": "seed"
+    },
+    {
+      "affix": "-ical",
+      "type": "suffix",
+      "meaning": "…的",
+      "examples": [
+        "analytical",
+        "alphabetical",
+        "astronomical",
+        "botanical",
+        "biological",
+        "chemical"
+      ],
+      "count": 65,
+      "source": "seed"
+    },
+    {
+      "affix": "-ive",
+      "type": "suffix",
+      "meaning": "有…倾向的",
+      "examples": [
+        "active",
+        "alive",
+        "arrive",
+        "aggressive",
+        "alternative",
+        "attractive"
+      ],
+      "count": 139,
+      "source": "seed"
+    },
+    {
+      "affix": "-tive",
+      "type": "suffix",
+      "meaning": "…的",
+      "examples": [
+        "active",
+        "alternative",
+        "attractive",
+        "administrative",
+        "adjective",
+        "attentive"
+      ],
+      "count": 89,
+      "source": "seed"
+    },
+    {
+      "affix": "-ize",
+      "type": "suffix",
+      "meaning": "使…化",
+      "examples": [
+        "apologize",
+        "authorize",
+        "agonize",
+        "criticize",
+        "characterize",
+        "civilize"
+      ],
+      "count": 56,
+      "source": "seed"
+    },
+    {
+      "affix": "-ise",
+      "type": "suffix",
+      "meaning": "使…化",
+      "examples": [
+        "advise",
+        "advertise",
+        "arise",
+        "apologise",
+        "acclimatise",
+        "authorise"
+      ],
+      "count": 69,
+      "source": "seed"
+    },
+    {
+      "affix": "-fy",
+      "type": "suffix",
+      "meaning": "使成为",
+      "examples": [
+        "amplify",
+        "classify",
+        "clarify",
+        "certify",
+        "dissatisfy",
+        "defy"
+      ],
+      "count": 37,
+      "source": "seed"
+    },
+    {
+      "affix": "-en",
+      "type": "suffix",
+      "meaning": "使变得,由…制成",
+      "examples": [
+        "alien",
+        "abdomen",
+        "acumen",
+        "between",
+        "broken",
+        "burden"
+      ],
+      "count": 100,
+      "source": "seed"
+    },
+    {
+      "affix": "-ly",
+      "type": "suffix",
+      "meaning": "…地,副词",
+      "examples": [
+        "attentively",
+        "apply",
+        "approximately",
+        "abruptly",
+        "absolutely",
+        "accordingly"
+      ],
+      "count": 267,
+      "source": "seed"
+    },
+    {
+      "affix": "-ward",
+      "type": "suffix",
+      "meaning": "向…方向",
+      "examples": [
+        "afterward",
+        "awkward",
+        "backward",
+        "coward",
+        "downward",
+        "eastward"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "-wise",
+      "type": "suffix",
+      "meaning": "以…方式",
+      "examples": [
+        "clockwise",
+        "likewise",
+        "otherwise"
+      ],
+      "count": 3,
+      "source": "seed"
+    },
+    {
+      "affix": "-like",
+      "type": "suffix",
+      "meaning": "像…的",
+      "examples": [
+        "dislike",
+        "unlike"
+      ],
+      "count": 2,
+      "source": "seed"
+    },
+    {
+      "affix": "-proof",
+      "type": "suffix",
+      "meaning": "防…的",
+      "examples": [
+        "waterproof"
+      ],
+      "count": 1,
+      "source": "seed"
+    },
+    {
+      "affix": "-most",
+      "type": "suffix",
+      "meaning": "最…的",
+      "examples": [
+        "almost",
+        "foremost",
+        "outermost",
+        "utmost"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "-ing",
+      "type": "suffix",
+      "meaning": "正在,名词化",
+      "examples": [
+        "anything",
+        "amazing",
+        "appealing",
+        "amusing",
+        "according",
+        "airing"
+      ],
+      "count": 195,
+      "source": "seed"
+    },
+    {
+      "affix": "-ed",
+      "type": "suffix",
+      "meaning": "过去式/被动",
+      "examples": [
+        "accustomed",
+        "addicted",
+        "ashamed",
+        "advanced",
+        "allied",
+        "antiquated"
+      ],
+      "count": 126,
+      "source": "seed"
+    },
+    {
+      "affix": "-est",
+      "type": "suffix",
+      "meaning": "最…",
+      "examples": [
+        "arrest",
+        "bookrest",
+        "chest",
+        "conquest",
+        "contest",
+        "digest"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-th",
+      "type": "suffix",
+      "meaning": "第…,性质",
+      "examples": [
+        "birth",
+        "both",
+        "breath",
+        "beneath",
+        "bath",
+        "booth"
+      ],
+      "count": 63,
+      "source": "seed"
+    },
+    {
+      "affix": "-ure",
+      "type": "suffix",
+      "meaning": "行为,结果",
+      "examples": [
+        "adventure",
+        "agriculture",
+        "architecture",
+        "assure",
+        "acupuncture",
+        "allure"
+      ],
+      "count": 72,
+      "source": "seed"
+    },
+    {
+      "affix": "-ture",
+      "type": "suffix",
+      "meaning": "行为,结果",
+      "examples": [
+        "adventure",
+        "agriculture",
+        "architecture",
+        "acupuncture",
+        "culture",
+        "creature"
+      ],
+      "count": 46,
+      "source": "seed"
+    },
+    {
+      "affix": "-age",
+      "type": "suffix",
+      "meaning": "行为,状态",
+      "examples": [
+        "advantage",
+        "average",
+        "baggage",
+        "bandage",
+        "birdcage",
+        "beverage"
+      ],
+      "count": 55,
+      "source": "seed"
+    },
+    {
+      "affix": "-dom",
+      "type": "suffix",
+      "meaning": "领域,状态",
+      "examples": [
+        "freedom",
+        "kingdom",
+        "random",
+        "seldom",
+        "wisdom"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "-ery",
+      "type": "suffix",
+      "meaning": "性质,场所",
+      "examples": [
+        "artillery",
+        "artery",
+        "battery",
+        "bakery",
+        "bravery",
+        "brewery"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "-graph",
+      "type": "suffix",
+      "meaning": "写,记录",
+      "examples": [
+        "autograph",
+        "photograph",
+        "paragraph",
+        "telegraph"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "-logy",
+      "type": "suffix",
+      "meaning": "学科",
+      "examples": [
+        "apology",
+        "analogy",
+        "archeology",
+        "archaeology",
+        "astrology",
+        "anthology"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "-meter",
+      "type": "suffix",
+      "meaning": "测量仪",
+      "examples": [
+        "barometer",
+        "centimeter",
+        "diameter",
+        "kilometer",
+        "millimeter",
+        "perimeter"
+      ],
+      "count": 8,
+      "source": "seed"
+    },
+    {
+      "affix": "act",
+      "type": "root",
+      "meaning": "行动,做",
+      "examples": [
+        "action",
+        "active",
+        "activity",
+        "abstract",
+        "actor",
+        "actress"
+      ],
+      "count": 75,
+      "source": "seed"
+    },
+    {
+      "affix": "ag",
+      "type": "root",
+      "meaning": "行动,做",
+      "examples": [
+        "again",
+        "against",
+        "age",
+        "ago",
+        "agree",
+        "agreement"
+      ],
+      "count": 168,
+      "source": "seed"
+    },
+    {
+      "affix": "aud",
+      "type": "root",
+      "meaning": "听",
+      "examples": [
+        "audience",
+        "applaud",
+        "audio",
+        "audit",
+        "auditorium",
+        "audible"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "cred",
+      "type": "root",
+      "meaning": "相信",
+      "examples": [
+        "accreditation",
+        "accredit",
+        "credit",
+        "credible",
+        "credentials",
+        "credential"
+      ],
+      "count": 9,
+      "source": "seed"
+    },
+    {
+      "affix": "dict",
+      "type": "root",
+      "meaning": "说,宣告",
+      "examples": [
+        "addicted",
+        "addiction",
+        "addict",
+        "contradict",
+        "contradictory",
+        "contradiction"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "duc",
+      "type": "root",
+      "meaning": "引导",
+      "examples": [
+        "conduct",
+        "conductor",
+        "coeducation",
+        "conductive",
+        "conducive",
+        "counterproductive"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "duct",
+      "type": "root",
+      "meaning": "引导,管道",
+      "examples": [
+        "conduct",
+        "conductor",
+        "conductive",
+        "counterproductive",
+        "deduction",
+        "deduct"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "fac",
+      "type": "root",
+      "meaning": "做,制造",
+      "examples": [
+        "artefact",
+        "dissatisfaction",
+        "face",
+        "fact",
+        "factory",
+        "facial"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "fact",
+      "type": "root",
+      "meaning": "做,事实",
+      "examples": [
+        "artefact",
+        "dissatisfaction",
+        "factory",
+        "factor",
+        "faction",
+        "factual"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "fer",
+      "type": "root",
+      "meaning": "带来,携带",
+      "examples": [
+        "conference",
+        "circumference",
+        "confer",
+        "coffer",
+        "difference",
+        "different"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "form",
+      "type": "root",
+      "meaning": "形状,形成",
+      "examples": [
+        "conform",
+        "conformity",
+        "deform",
+        "deformation",
+        "format",
+        "former"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "gen",
+      "type": "root",
+      "meaning": "产生,出生",
+      "examples": [
+        "agent",
+        "agency",
+        "agenda",
+        "contingency",
+        "diligent",
+        "diligence"
+      ],
+      "count": 53,
+      "source": "seed"
+    },
+    {
+      "affix": "grad",
+      "type": "root",
+      "meaning": "步,级",
+      "examples": [
+        "centigrade",
+        "degrade",
+        "degradation",
+        "grade",
+        "gradually",
+        "graduate"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "gress",
+      "type": "root",
+      "meaning": "行走",
+      "examples": [
+        "aggressive",
+        "aggression",
+        "aggressiveness",
+        "congress",
+        "progress",
+        "progressive"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "ject",
+      "type": "root",
+      "meaning": "投掷",
+      "examples": [
+        "adjective",
+        "eject",
+        "ejection",
+        "injection",
+        "inject",
+        "object"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "leg",
+      "type": "root",
+      "meaning": "法律,读",
+      "examples": [
+        "allege",
+        "allegedly",
+        "allegiance",
+        "battleground",
+        "college",
+        "delegation"
+      ],
+      "count": 25,
+      "source": "seed"
+    },
+    {
+      "affix": "liter",
+      "type": "root",
+      "meaning": "文字,文学",
+      "examples": [
+        "illiterate",
+        "literature",
+        "literary",
+        "literally",
+        "literal",
+        "literacy"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "loc",
+      "type": "root",
+      "meaning": "地点",
+      "examples": [
+        "allocate",
+        "allocation",
+        "block",
+        "clock",
+        "clockwise",
+        "deadlock"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "log",
+      "type": "root",
+      "meaning": "说,词,学科",
+      "examples": [
+        "apologize",
+        "apology",
+        "analogy",
+        "analogue",
+        "analogous",
+        "analog"
+      ],
+      "count": 53,
+      "source": "seed"
+    },
+    {
+      "affix": "man",
+      "type": "root",
+      "meaning": "手",
+      "examples": [
+        "businessman",
+        "businesswoman",
+        "chairman",
+        "chairwoman",
+        "command",
+        "commander"
+      ],
+      "count": 80,
+      "source": "seed"
+    },
+    {
+      "affix": "mar",
+      "type": "root",
+      "meaning": "海",
+      "examples": [
+        "bookmark",
+        "customary",
+        "grammar",
+        "infirmary",
+        "landmark",
+        "marriage"
+      ],
+      "count": 48,
+      "source": "seed"
+    },
+    {
+      "affix": "med",
+      "type": "root",
+      "meaning": "中间,治疗",
+      "examples": [
+        "accustomed",
+        "ashamed",
+        "begrimed",
+        "comedy",
+        "immediately",
+        "immediate"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "mem",
+      "type": "root",
+      "meaning": "记忆",
+      "examples": [
+        "commemorate",
+        "homemaker",
+        "memory",
+        "member",
+        "memorial",
+        "memorize"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "min",
+      "type": "root",
+      "meaning": "小,少",
+      "examples": [
+        "administration",
+        "aluminium",
+        "aluminum",
+        "administrative",
+        "administer",
+        "administrator"
+      ],
+      "count": 88,
+      "source": "seed"
+    },
+    {
+      "affix": "mit",
+      "type": "root",
+      "meaning": "送,放",
+      "examples": [
+        "admit",
+        "blacksmith",
+        "committee",
+        "commit",
+        "commitment",
+        "conformity"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "miss",
+      "type": "root",
+      "meaning": "送,放",
+      "examples": [
+        "admission",
+        "commission",
+        "dismiss",
+        "emission",
+        "missile",
+        "mission"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "mot",
+      "type": "root",
+      "meaning": "移动",
+      "examples": [
+        "commotion",
+        "emotion",
+        "emotional",
+        "grandmother",
+        "locomotive",
+        "mother"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "mov",
+      "type": "root",
+      "meaning": "移动",
+      "examples": [
+        "move",
+        "movie",
+        "movement",
+        "remove",
+        "removal"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "nov",
+      "type": "root",
+      "meaning": "新",
+      "examples": [
+        "innovation",
+        "innovate",
+        "innovative",
+        "november",
+        "novelist",
+        "novel"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "numer",
+      "type": "root",
+      "meaning": "数字",
+      "examples": [
+        "innumerable",
+        "numerous",
+        "numerical",
+        "numerate"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "oper",
+      "type": "root",
+      "meaning": "工作",
+      "examples": [
+        "cooperative",
+        "cooperate",
+        "cooperation",
+        "improper",
+        "opera",
+        "operation"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "part",
+      "type": "root",
+      "meaning": "部分,分开",
+      "examples": [
+        "apart",
+        "apartment",
+        "bipartisan",
+        "compartment",
+        "counterpart",
+        "department"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "path",
+      "type": "root",
+      "meaning": "感受,疾病",
+      "examples": [
+        "apathy",
+        "footpath",
+        "pathetic",
+        "pathway",
+        "pathology",
+        "pathos"
+      ],
+      "count": 10,
+      "source": "seed"
+    },
+    {
+      "affix": "ped",
+      "type": "root",
+      "meaning": "脚,儿童",
+      "examples": [
+        "expedition",
+        "encyclopedia",
+        "expedient",
+        "handicapped",
+        "impede",
+        "moped"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "pend",
+      "type": "root",
+      "meaning": "悬挂,称量",
+      "examples": [
+        "appendix",
+        "compendium",
+        "depend",
+        "dependent",
+        "dependant",
+        "dependence"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "phon",
+      "type": "root",
+      "meaning": "声音",
+      "examples": [
+        "gramophone",
+        "microphone",
+        "phone",
+        "phonetic",
+        "symphony",
+        "telephone"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "photo",
+      "type": "root",
+      "meaning": "光",
+      "examples": [
+        "photograph",
+        "photographer",
+        "photography",
+        "photoelectric",
+        "photocopy"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "popul",
+      "type": "root",
+      "meaning": "人民",
+      "examples": [
+        "popular",
+        "population",
+        "popularity",
+        "popularize",
+        "populate",
+        "populace"
+      ],
+      "count": 6,
+      "source": "seed"
+    },
+    {
+      "affix": "port",
+      "type": "root",
+      "meaning": "搬运,港口",
+      "examples": [
+        "airport",
+        "apportion",
+        "disproportionately",
+        "deport",
+        "export",
+        "important"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "pos",
+      "type": "root",
+      "meaning": "放置",
+      "examples": [
+        "composition",
+        "compose",
+        "composer",
+        "composite",
+        "deposit",
+        "disposal"
+      ],
+      "count": 61,
+      "source": "seed"
+    },
+    {
+      "affix": "press",
+      "type": "root",
+      "meaning": "按压",
+      "examples": [
+        "compress",
+        "compression",
+        "depressed",
+        "depressing",
+        "depress",
+        "depression"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "quest",
+      "type": "root",
+      "meaning": "寻求,询问",
+      "examples": [
+        "conquest",
+        "question",
+        "questionnaire",
+        "questionable",
+        "request"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "rupt",
+      "type": "root",
+      "meaning": "断裂",
+      "examples": [
+        "abrupt",
+        "abruptly",
+        "bankrupt",
+        "bankruptcy",
+        "corrupt",
+        "corruption"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "scrib",
+      "type": "root",
+      "meaning": "写",
+      "examples": [
+        "ascribe",
+        "circumscribe",
+        "describe",
+        "inscribe",
+        "prescribe",
+        "subscribe"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "script",
+      "type": "root",
+      "meaning": "写",
+      "examples": [
+        "description",
+        "descriptive",
+        "manuscript",
+        "prescription",
+        "postscript",
+        "subscription"
+      ],
+      "count": 10,
+      "source": "seed"
+    },
+    {
+      "affix": "sec",
+      "type": "root",
+      "meaning": "跟随,切",
+      "examples": [
+        "consecutive",
+        "insect",
+        "insecure",
+        "intersection",
+        "prosecute",
+        "persecute"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "sens",
+      "type": "root",
+      "meaning": "感觉",
+      "examples": [
+        "consensus",
+        "commonsense",
+        "nonsense",
+        "sense",
+        "sensitive",
+        "sensible"
+      ],
+      "count": 12,
+      "source": "seed"
+    },
+    {
+      "affix": "sequ",
+      "type": "root",
+      "meaning": "跟随",
+      "examples": [
+        "consequence",
+        "consequently",
+        "consequent",
+        "consequential",
+        "sequence",
+        "subsequent"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "serv",
+      "type": "root",
+      "meaning": "服务,保存",
+      "examples": [
+        "conservation",
+        "conservative",
+        "conserve",
+        "conservatory",
+        "deserve",
+        "disservice"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "sign",
+      "type": "root",
+      "meaning": "标记,签署",
+      "examples": [
+        "assign",
+        "assignment",
+        "consignment",
+        "consign",
+        "design",
+        "designate"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "sist",
+      "type": "root",
+      "meaning": "站立",
+      "examples": [
+        "assistant",
+        "assist",
+        "assistance",
+        "assistantship",
+        "consistent",
+        "consist"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "spect",
+      "type": "root",
+      "meaning": "看",
+      "examples": [
+        "aspect",
+        "disrespectful",
+        "inspect",
+        "inspector",
+        "inspection",
+        "irrespective"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "spir",
+      "type": "root",
+      "meaning": "呼吸,精神",
+      "examples": [
+        "aspirational",
+        "aspiration",
+        "aspire",
+        "conspiracy",
+        "dispiriting",
+        "inspire"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "struct",
+      "type": "root",
+      "meaning": "建造",
+      "examples": [
+        "construct",
+        "construction",
+        "constructive",
+        "destruction",
+        "destructive",
+        "instruction"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "tain",
+      "type": "root",
+      "meaning": "持有",
+      "examples": [
+        "attain",
+        "ascertain",
+        "attainable",
+        "britain",
+        "captain",
+        "certain"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "tend",
+      "type": "root",
+      "meaning": "伸展,倾向",
+      "examples": [
+        "attendant",
+        "attend",
+        "attendance",
+        "contend",
+        "distend",
+        "extend"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "terr",
+      "type": "root",
+      "meaning": "土地,恐惧",
+      "examples": [
+        "interrupt",
+        "interracial",
+        "interruption",
+        "interrelationship",
+        "interrogate",
+        "mediterranean"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "tract",
+      "type": "root",
+      "meaning": "拉,抽",
+      "examples": [
+        "abstract",
+        "attract",
+        "attraction",
+        "attractive",
+        "abstraction",
+        "contract"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "vac",
+      "type": "root",
+      "meaning": "空",
+      "examples": [
+        "evacuate",
+        "privacy",
+        "vacation",
+        "vacant",
+        "vacuum",
+        "vaccinate"
+      ],
+      "count": 8,
+      "source": "seed"
+    },
+    {
+      "affix": "ven",
+      "type": "root",
+      "meaning": "来",
+      "examples": [
+        "avenue",
+        "adventure",
+        "adventurer",
+        "advent",
+        "avenge",
+        "adventurous"
+      ],
+      "count": 61,
+      "source": "seed"
+    },
+    {
+      "affix": "vent",
+      "type": "root",
+      "meaning": "来",
+      "examples": [
+        "adventure",
+        "adventurer",
+        "advent",
+        "adventurous",
+        "conventional",
+        "convention"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "vers",
+      "type": "root",
+      "meaning": "转",
+      "examples": [
+        "anniversary",
+        "adversity",
+        "adverse",
+        "adversely",
+        "biodiversity",
+        "conversation"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "vert",
+      "type": "root",
+      "meaning": "转",
+      "examples": [
+        "advertisement",
+        "advertise",
+        "avert",
+        "convert",
+        "divert",
+        "extrovert"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "vid",
+      "type": "root",
+      "meaning": "看",
+      "examples": [
+        "divide",
+        "dividend",
+        "evident",
+        "evidence",
+        "evidently",
+        "individual"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "vis",
+      "type": "root",
+      "meaning": "看",
+      "examples": [
+        "advise",
+        "advisory",
+        "advisable",
+        "division",
+        "devise",
+        "divisional"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "voc",
+      "type": "root",
+      "meaning": "声音,喊",
+      "examples": [
+        "advocate",
+        "advocator",
+        "equivocal",
+        "havoc",
+        "irrevocable",
+        "provocation"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "volv",
+      "type": "root",
+      "meaning": "卷,转",
+      "examples": [
+        "evolve",
+        "involve",
+        "involvement",
+        "revolve"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "graph",
+      "type": "root",
+      "meaning": "写,画",
+      "examples": [
+        "autograph",
+        "autobiography",
+        "biography",
+        "bibliography",
+        "cinematography",
+        "demographic"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "cogn",
+      "type": "root",
+      "meaning": "知道",
+      "examples": [
+        "cognitive",
+        "cognition",
+        "recognize",
+        "recognise",
+        "recognition"
+      ],
+      "count": 5,
+      "source": "seed"
+    },
+    {
+      "affix": "cor",
+      "type": "root",
+      "meaning": "心",
+      "examples": [
+        "accord",
+        "accordance",
+        "accordingly",
+        "according",
+        "correct",
+        "corner"
+      ],
+      "count": 49,
+      "source": "seed"
+    },
+    {
+      "affix": "dent",
+      "type": "root",
+      "meaning": "牙齿",
+      "examples": [
+        "accident",
+        "accidental",
+        "accidentally",
+        "ardent",
+        "antecedent",
+        "confident"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "frag",
+      "type": "root",
+      "meaning": "打碎",
+      "examples": [
+        "fragile",
+        "fragrant",
+        "fragment",
+        "fragrance"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "flu",
+      "type": "root",
+      "meaning": "流动",
+      "examples": [
+        "affluent",
+        "fluent",
+        "fluency",
+        "fluid",
+        "flush",
+        "fluorescent"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "fort",
+      "type": "root",
+      "meaning": "力量",
+      "examples": [
+        "comfortable",
+        "comfort",
+        "effort",
+        "forty",
+        "fortune",
+        "fortnight"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "fus",
+      "type": "root",
+      "meaning": "倾倒,融合",
+      "examples": [
+        "confuse",
+        "confusion",
+        "diffuse",
+        "fuss",
+        "fussy",
+        "fusion"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "geo",
+      "type": "root",
+      "meaning": "土地",
+      "examples": [
+        "advantageous",
+        "bourgeois",
+        "burgeon",
+        "courageous",
+        "geography",
+        "geometry"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "hydr",
+      "type": "root",
+      "meaning": "水",
+      "examples": [
+        "carbohydrate",
+        "hydrogen",
+        "hydrocarbon",
+        "hydraulic"
+      ],
+      "count": 4,
+      "source": "seed"
+    },
+    {
+      "affix": "luc",
+      "type": "root",
+      "meaning": "光,明亮",
+      "examples": [
+        "elucidate",
+        "fluctuate",
+        "fluctuation",
+        "lucky",
+        "luck",
+        "lucid"
+      ],
+      "count": 11,
+      "source": "seed"
+    },
+    {
+      "affix": "magn",
+      "type": "root",
+      "meaning": "大",
+      "examples": [
+        "magnet",
+        "magnetic",
+        "magnificent",
+        "magnify",
+        "magnitude",
+        "magnetism"
+      ],
+      "count": 8,
+      "source": "seed"
+    },
+    {
+      "affix": "nat",
+      "type": "root",
+      "meaning": "出生,自然",
+      "examples": [
+        "alternative",
+        "affectionate",
+        "assassinate",
+        "assassination",
+        "alternate",
+        "alternatively"
+      ],
+      "count": 84,
+      "source": "seed"
+    },
+    {
+      "affix": "nom",
+      "type": "root",
+      "meaning": "名字,法则",
+      "examples": [
+        "astronomer",
+        "astronomy",
+        "autonomous",
+        "astronomical",
+        "autonomy",
+        "denomination"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "pel",
+      "type": "root",
+      "meaning": "推动",
+      "examples": [
+        "compel",
+        "compelling",
+        "chapel",
+        "dispel",
+        "expel",
+        "hopeless"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "puls",
+      "type": "root",
+      "meaning": "推动",
+      "examples": [
+        "compulsory",
+        "compulsively",
+        "expulsion",
+        "impulse",
+        "impulsive",
+        "pulse"
+      ],
+      "count": 7,
+      "source": "seed"
+    },
+    {
+      "affix": "scope",
+      "type": "root",
+      "meaning": "看,范围",
+      "examples": [
+        "microscope",
+        "periscope",
+        "telescope"
+      ],
+      "count": 3,
+      "source": "seed"
+    },
+    {
+      "affix": "sol",
+      "type": "root",
+      "meaning": "太阳,独自",
+      "examples": [
+        "absolute",
+        "absolutely",
+        "console",
+        "consolidate",
+        "consolidation",
+        "consolation"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "tempo",
+      "type": "root",
+      "meaning": "时间",
+      "examples": [
+        "contemporary",
+        "temporary"
+      ],
+      "count": 2,
+      "source": "seed"
+    },
+    {
+      "affix": "urb",
+      "type": "root",
+      "meaning": "城市",
+      "examples": [
+        "curb",
+        "disturb",
+        "disturbing",
+        "disturbance",
+        "perturb",
+        "suburb"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "int-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 78 词命中)",
+      "examples": [
+        "interest",
+        "interesting",
+        "introduction",
+        "intention",
+        "international",
+        "internet"
+      ],
+      "count": 79,
+      "source": "seed"
+    },
+    {
+      "affix": "comp-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 60 词命中)",
+      "examples": [
+        "compare",
+        "company",
+        "competition",
+        "complete",
+        "composition",
+        "computer"
+      ],
+      "count": 62,
+      "source": "seed"
+    },
+    {
+      "affix": "per-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 60 词命中)",
+      "examples": [
+        "perform",
+        "period",
+        "percent",
+        "personal",
+        "permission",
+        "perfect"
+      ],
+      "count": 62,
+      "source": "seed"
+    },
+    {
+      "affix": "inte-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 56 词命中)",
+      "examples": [
+        "interest",
+        "interesting",
+        "intention",
+        "international",
+        "internet",
+        "interview"
+      ],
+      "count": 59,
+      "source": "seed"
+    },
+    {
+      "affix": "res-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 54 词命中)",
+      "examples": [
+        "result",
+        "restaurant",
+        "research",
+        "rest",
+        "resolution",
+        "restroom"
+      ],
+      "count": 56,
+      "source": "seed"
+    },
+    {
+      "affix": "cons-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 51 词命中)",
+      "examples": [
+        "consider",
+        "consultant",
+        "consequence",
+        "constant",
+        "consume",
+        "conscience"
+      ],
+      "count": 52,
+      "source": "seed"
+    },
+    {
+      "affix": "ins-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 51 词命中)",
+      "examples": [
+        "instrument",
+        "instruction",
+        "inside",
+        "insist",
+        "instead",
+        "instance"
+      ],
+      "count": 51,
+      "source": "seed"
+    },
+    {
+      "affix": "tra-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 49 词命中)",
+      "examples": [
+        "traffic",
+        "tragedy",
+        "travel",
+        "train",
+        "translate",
+        "traditional"
+      ],
+      "count": 61,
+      "source": "seed"
+    },
+    {
+      "affix": "rec-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 48 词命中)",
+      "examples": [
+        "recent",
+        "recycle",
+        "receive",
+        "record",
+        "recite",
+        "recorder"
+      ],
+      "count": 49,
+      "source": "seed"
+    },
+    {
+      "affix": "exp-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 42 词命中)",
+      "examples": [
+        "express",
+        "experiment",
+        "experience",
+        "expect",
+        "expensive",
+        "explain"
+      ],
+      "count": 43,
+      "source": "seed"
+    },
+    {
+      "affix": "ove-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 41 词命中)",
+      "examples": [
+        "overcoat",
+        "over",
+        "overseas",
+        "overlook",
+        "overcome",
+        "overweight"
+      ],
+      "count": 44,
+      "source": "seed"
+    },
+    {
+      "affix": "imp-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 39 词命中)",
+      "examples": [
+        "important",
+        "improve",
+        "impossible",
+        "importance",
+        "impress",
+        "impolite"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "sta-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 39 词命中)",
+      "examples": [
+        "stamp",
+        "standard",
+        "state",
+        "start",
+        "stairs",
+        "staff"
+      ],
+      "count": 58,
+      "source": "seed"
+    },
+    {
+      "affix": "acc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 37 词命中)",
+      "examples": [
+        "accent",
+        "accept",
+        "accident",
+        "accessory",
+        "accelerate",
+        "access"
+      ],
+      "count": 37,
+      "source": "seed"
+    },
+    {
+      "affix": "cont-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 37 词命中)",
+      "examples": [
+        "continue",
+        "control",
+        "contradict",
+        "contrary",
+        "controversial",
+        "contradictory"
+      ],
+      "count": 37,
+      "source": "seed"
+    },
+    {
+      "affix": "str-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 37 词命中)",
+      "examples": [
+        "straight",
+        "strange",
+        "stream",
+        "strict",
+        "street",
+        "stranger"
+      ],
+      "count": 41,
+      "source": "seed"
+    },
+    {
+      "affix": "for-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 36 词命中)",
+      "examples": [
+        "forest",
+        "forty",
+        "foreign",
+        "fork",
+        "force",
+        "foreigner"
+      ],
+      "count": 47,
+      "source": "seed"
+    },
+    {
+      "affix": "par-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 36 词命中)",
+      "examples": [
+        "party",
+        "part",
+        "parent",
+        "particular",
+        "park",
+        "pardon"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "app-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 34 词命中)",
+      "examples": [
+        "apple",
+        "appear",
+        "appointment",
+        "apparent",
+        "approval",
+        "approach"
+      ],
+      "count": 37,
+      "source": "seed"
+    },
+    {
+      "affix": "gra-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 34 词命中)",
+      "examples": [
+        "grandparent",
+        "grade",
+        "grammar",
+        "grandchild",
+        "granddaughter",
+        "grandson"
+      ],
+      "count": 49,
+      "source": "seed"
+    },
+    {
+      "affix": "inc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 33 词命中)",
+      "examples": [
+        "inch",
+        "include",
+        "increase",
+        "incident",
+        "income",
+        "incorrect"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "rep-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 33 词命中)",
+      "examples": [
+        "report",
+        "represent",
+        "reply",
+        "repeat",
+        "repair",
+        "representative"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "ind-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 32 词命中)",
+      "examples": [
+        "india",
+        "indian",
+        "industry",
+        "indoors",
+        "independent",
+        "indeed"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "inv-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 31 词命中)",
+      "examples": [
+        "invention",
+        "invent",
+        "invite",
+        "inventor",
+        "invitation",
+        "invade"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "und-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 31 词命中)",
+      "examples": [
+        "understand",
+        "underground",
+        "under",
+        "underwater",
+        "underline",
+        "underwear"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "inf-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 30 词命中)",
+      "examples": [
+        "information",
+        "influence",
+        "infinitive",
+        "inform",
+        "infinite",
+        "inflation"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "sup-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 29 词命中)",
+      "examples": [
+        "supply",
+        "supper",
+        "supermarket",
+        "super",
+        "suppose",
+        "support"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "tran-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 29 词命中)",
+      "examples": [
+        "translate",
+        "transportation",
+        "transform",
+        "transparent",
+        "translator",
+        "transport"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "comm-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 28 词命中)",
+      "examples": [
+        "common",
+        "communicate",
+        "communication",
+        "comment",
+        "comma",
+        "committee"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "dec-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 28 词命中)",
+      "examples": [
+        "december",
+        "decide",
+        "decision",
+        "decorate",
+        "decade",
+        "declare"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "ref-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 28 词命中)",
+      "examples": [
+        "refuse",
+        "refrigerator",
+        "reform",
+        "refresh",
+        "reflect",
+        "reference"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "des-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 27 词命中)",
+      "examples": [
+        "design",
+        "describe",
+        "destroy",
+        "dessert",
+        "desk",
+        "desperate"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "unde-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 27 词命中)",
+      "examples": [
+        "understand",
+        "underground",
+        "under",
+        "underwater",
+        "underline",
+        "underwear"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "def-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 26 词命中)",
+      "examples": [
+        "defence",
+        "defeat",
+        "defend",
+        "defense",
+        "definition",
+        "defect"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "exc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 26 词命中)",
+      "examples": [
+        "excuse",
+        "except",
+        "excellent",
+        "excite",
+        "exchange",
+        "exception"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "ext-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 26 词命中)",
+      "examples": [
+        "extra",
+        "extreme",
+        "extraordinary",
+        "extension",
+        "extremely",
+        "extracurricular"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "cha-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 25 词命中)",
+      "examples": [
+        "champion",
+        "charity",
+        "chair",
+        "chairman",
+        "chalk",
+        "chance"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "cou-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 25 词命中)",
+      "examples": [
+        "cough",
+        "country",
+        "countryside",
+        "could",
+        "count",
+        "couple"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "mar-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 25 词命中)",
+      "examples": [
+        "marriage",
+        "march",
+        "marry",
+        "marathon",
+        "mark",
+        "market"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "ass-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 24 词命中)",
+      "examples": [
+        "association",
+        "assistant",
+        "assume",
+        "associate",
+        "assess",
+        "assessment"
+      ],
+      "count": 25,
+      "source": "seed"
+    },
+    {
+      "affix": "disc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 24 词命中)",
+      "examples": [
+        "discuss",
+        "discover",
+        "discussion",
+        "discovery",
+        "discourage",
+        "discount"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "man-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 24 词命中)",
+      "examples": [
+        "manage",
+        "manner",
+        "manager",
+        "many",
+        "mankind",
+        "manufacture"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "pos-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 24 词命中)",
+      "examples": [
+        "postman",
+        "postcard",
+        "post",
+        "possible",
+        "possibly",
+        "positive"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "rel-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 24 词命中)",
+      "examples": [
+        "relax",
+        "relative",
+        "relation",
+        "religion",
+        "relief",
+        "relay"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "cor-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 23 词命中)",
+      "examples": [
+        "correct",
+        "corner",
+        "corporation",
+        "correction",
+        "cordless",
+        "coral"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "dep-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 23 词命中)",
+      "examples": [
+        "department",
+        "depend",
+        "deposit",
+        "depth",
+        "departure",
+        "depressed"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "pla-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 23 词命中)",
+      "examples": [
+        "plant",
+        "planet",
+        "place",
+        "play",
+        "plain",
+        "plastic"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "reg-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 23 词命中)",
+      "examples": [
+        "regard",
+        "regret",
+        "regular",
+        "regardless",
+        "regulation",
+        "register"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "dist-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 22 词命中)",
+      "examples": [
+        "disturb",
+        "district",
+        "distance",
+        "distribute",
+        "distant",
+        "distinguish"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "spe-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 22 词命中)",
+      "examples": [
+        "special",
+        "speed",
+        "speech",
+        "specifically",
+        "spell",
+        "spend"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "adv-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "advertisement",
+        "advice",
+        "advise",
+        "adverb",
+        "advantage",
+        "advance"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "aut-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "autumn",
+        "authority",
+        "autograph",
+        "author",
+        "automatic",
+        "authentic"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "col-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "collect",
+        "cold",
+        "college",
+        "color",
+        "cola",
+        "colleague"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "ele-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "eleven",
+        "electric",
+        "elephant",
+        "elevator",
+        "eleventh",
+        "elementary"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "gen-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "general",
+        "gentleman",
+        "gentle",
+        "generous",
+        "generation",
+        "gender"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "hea-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "health",
+        "heaven",
+        "heavy",
+        "head",
+        "healthy",
+        "heart"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "inst-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 21 词命中)",
+      "examples": [
+        "instrument",
+        "instruction",
+        "instead",
+        "instance",
+        "institution",
+        "instant"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "conc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 20 词命中)",
+      "examples": [
+        "concentrate",
+        "concert",
+        "concern",
+        "concept",
+        "conclude",
+        "conclusion"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "pri-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 20 词命中)",
+      "examples": [
+        "prison",
+        "print",
+        "prisoner",
+        "prize",
+        "pride",
+        "primary"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "car-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "card",
+        "care",
+        "careful",
+        "careless",
+        "carry",
+        "carrot"
+      ],
+      "count": 25,
+      "source": "seed"
+    },
+    {
+      "affix": "del-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "delicious",
+        "delay",
+        "delighted",
+        "deliver",
+        "delete",
+        "deliberately"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "det-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "determine",
+        "detective",
+        "determination",
+        "detail",
+        "detailed",
+        "detect"
+      ],
+      "count": 20,
+      "source": "seed"
+    },
+    {
+      "affix": "ent-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "entertainment",
+        "enter",
+        "entire",
+        "enterprise",
+        "enthusiastic",
+        "entrance"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "pres-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "press",
+        "president",
+        "pressure",
+        "present",
+        "presentation",
+        "preserve"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "spec-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "special",
+        "specifically",
+        "specific",
+        "specially",
+        "specialist",
+        "specialize"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "the-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "these",
+        "theirs",
+        "there",
+        "they",
+        "theme",
+        "their"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "thr-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "throw",
+        "through",
+        "three",
+        "thrill",
+        "throat",
+        "thread"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "wor-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 19 词命中)",
+      "examples": [
+        "worldwide",
+        "worker",
+        "work",
+        "word",
+        "worry",
+        "world"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "att-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "attention",
+        "attitude",
+        "attempt",
+        "attendant",
+        "attentively",
+        "attach"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "disp-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "display",
+        "dispute",
+        "displease",
+        "disposal",
+        "dispose",
+        "dispatch"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "ret-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "retell",
+        "return",
+        "retire",
+        "retail",
+        "retrain",
+        "retirement"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "rea-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "realize",
+        "reach",
+        "real",
+        "ready",
+        "read",
+        "reason"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "rev-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "review",
+        "reveal",
+        "revision",
+        "revolution",
+        "reviewer",
+        "revenge"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "sur-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 18 词命中)",
+      "examples": [
+        "surprise",
+        "surface",
+        "sure",
+        "surf",
+        "survey",
+        "surgeon"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "ant-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 17 词命中)",
+      "examples": [
+        "antique",
+        "antarctic",
+        "anticipate",
+        "antenna",
+        "antiseptic",
+        "antidote"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "conf-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 17 词命中)",
+      "examples": [
+        "conference",
+        "confident",
+        "confidential",
+        "confirm",
+        "conflict",
+        "confuse"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "disa-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 17 词命中)",
+      "examples": [
+        "disabled",
+        "disadvantage",
+        "disappointing",
+        "disappear",
+        "disappoint",
+        "disappointed"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "conv-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "conversation",
+        "convenient",
+        "convey",
+        "convenience",
+        "conventional",
+        "convince"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "har-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "hard",
+        "hardly",
+        "harbour",
+        "harmony",
+        "hardship",
+        "harm"
+      ],
+      "count": 22,
+      "source": "seed"
+    },
+    {
+      "affix": "mon-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "monitor",
+        "monday",
+        "money",
+        "monkey",
+        "month",
+        "monster"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "pers-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "personal",
+        "person",
+        "persuade",
+        "personnel",
+        "personalization",
+        "personally"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "pat-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "path",
+        "patient",
+        "patent",
+        "pattern",
+        "patience",
+        "patiently"
+      ],
+      "count": 19,
+      "source": "seed"
+    },
+    {
+      "affix": "prop-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "proper",
+        "properly",
+        "proportion",
+        "proposal",
+        "property",
+        "proportional"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "rem-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "remember",
+        "remain",
+        "remote",
+        "remove",
+        "remind",
+        "remark"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "supe-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "supermarket",
+        "super",
+        "superior",
+        "superman",
+        "superb",
+        "supervision"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "subs-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 16 词命中)",
+      "examples": [
+        "substitute",
+        "subscribe",
+        "subsidize",
+        "substantial",
+        "subsequent",
+        "substance"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "not-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "note",
+        "notice",
+        "notebook",
+        "nothing",
+        "notify",
+        "notion"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "obs-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "observe",
+        "obstacle",
+        "observation",
+        "observer",
+        "obscure",
+        "obscurity"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "pol-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "pollution",
+        "police",
+        "polite",
+        "policy",
+        "polar",
+        "polish"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "para-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "parallel",
+        "paragraph",
+        "paradox",
+        "parade",
+        "paradise",
+        "paralyze"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "sho-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "shop",
+        "shout",
+        "show",
+        "shoot",
+        "shoe",
+        "short"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "sha-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 15 词命中)",
+      "examples": [
+        "shape",
+        "shame",
+        "share",
+        "shark",
+        "shake",
+        "shall"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "appr-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "approval",
+        "approach",
+        "appreciate",
+        "appreciation",
+        "appropriate",
+        "approve"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "corr-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "correct",
+        "correction",
+        "correspond",
+        "corrupt",
+        "correspondence",
+        "correspondent"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "cap-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "capital",
+        "captain",
+        "caption",
+        "capsule",
+        "capable",
+        "capacity"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "dev-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "develop",
+        "development",
+        "devote",
+        "devotion",
+        "device",
+        "developmental"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "expl-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "explain",
+        "explanation",
+        "explode",
+        "explore",
+        "exploit",
+        "explicit"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "fre-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "fresh",
+        "free",
+        "french",
+        "freeze",
+        "freeway",
+        "frequent"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "gene-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "general",
+        "generous",
+        "generation",
+        "generalization",
+        "generosity",
+        "generic"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "imm-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "immediately",
+        "immigration",
+        "immediate",
+        "immobile",
+        "immeasurable",
+        "immense"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "irr-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "irrigation",
+        "irrigate",
+        "irrationally",
+        "irritate",
+        "irregular",
+        "irrelevant"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "mod-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "modern",
+        "modest",
+        "model",
+        "modem",
+        "modernization",
+        "mode"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "met-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "method",
+        "metal",
+        "meter",
+        "metre",
+        "metric",
+        "metallurgy"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "min-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "mine",
+        "mind",
+        "minute",
+        "minus",
+        "mineral",
+        "minority"
+      ],
+      "count": 20,
+      "source": "seed"
+    },
+    {
+      "affix": "qua-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "quarter",
+        "quality",
+        "qualification",
+        "quantity",
+        "quarrel",
+        "quake"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "sen-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "sense",
+        "sentence",
+        "send",
+        "senior",
+        "sensitive",
+        "senator"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "ter-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 14 词命中)",
+      "examples": [
+        "term",
+        "terrible",
+        "terrorist",
+        "terrify",
+        "terror",
+        "terminal"
+      ],
+      "count": 16,
+      "source": "seed"
+    },
+    {
+      "affix": "bre-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "bread",
+        "breakfast",
+        "breath",
+        "breathe",
+        "break",
+        "breakthrough"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "bri-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "bridge",
+        "bright",
+        "bring",
+        "british",
+        "brick",
+        "bride"
+      ],
+      "count": 21,
+      "source": "seed"
+    },
+    {
+      "affix": "bar-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "barbecue",
+        "barber",
+        "barbershop",
+        "bare",
+        "bargain",
+        "barrier"
+      ],
+      "count": 18,
+      "source": "seed"
+    },
+    {
+      "affix": "coll-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "collect",
+        "college",
+        "colleague",
+        "collar",
+        "collection",
+        "collision"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "cen-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "centre",
+        "cent",
+        "century",
+        "center",
+        "centigrade",
+        "centimetre"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "coun-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "country",
+        "countryside",
+        "count",
+        "counter",
+        "counsel",
+        "county"
+      ],
+      "count": 15,
+      "source": "seed"
+    },
+    {
+      "affix": "expe-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "experiment",
+        "experience",
+        "expect",
+        "expensive",
+        "expectation",
+        "expense"
+      ],
+      "count": 17,
+      "source": "seed"
+    },
+    {
+      "affix": "enc-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "encourage",
+        "encouragement",
+        "enclose",
+        "encounter",
+        "enclosure",
+        "enchant"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "prec-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "precise",
+        "precious",
+        "precaution",
+        "preceding",
+        "precision",
+        "precede"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "reco-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "record",
+        "recorder",
+        "recognize",
+        "recommend",
+        "recover",
+        "recognise"
+      ],
+      "count": 14,
+      "source": "seed"
+    },
+    {
+      "affix": "sec-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "secretary",
+        "second",
+        "secret",
+        "secure",
+        "section",
+        "security"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "sym-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 13 词命中)",
+      "examples": [
+        "symbol",
+        "symphony",
+        "symptom",
+        "sympathy",
+        "symbolize",
+        "sympathetic"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "aff-",
+      "type": "prefix",
+      "meaning": "常见词头(词库 12 词命中)",
+      "examples": [
+        "afford",
+        "affair",
+        "affect",
+        "affection",
+        "affectionate",
+        "affirmation"
+      ],
+      "count": 13,
+      "source": "seed"
+    },
+    {
+      "affix": "-on",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 561 词命中)",
+      "examples": [
+        "action",
+        "afternoon",
+        "attention",
+        "association",
+        "abandon",
+        "abortion"
+      ],
+      "count": 571,
+      "source": "seed"
+    },
+    {
+      "affix": "-ion",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 496 词命中)",
+      "examples": [
+        "action",
+        "attention",
+        "association",
+        "abortion",
+        "accommodation",
+        "acquisition"
+      ],
+      "count": 497,
+      "source": "seed"
+    },
+    {
+      "affix": "-nt",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 370 词命中)",
+      "examples": [
+        "absent",
+        "accent",
+        "accident",
+        "advertisement",
+        "agreement",
+        "ancient"
+      ],
+      "count": 383,
+      "source": "seed"
+    },
+    {
+      "affix": "-te",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 358 词命中)",
+      "examples": [
+        "absolute",
+        "accelerate",
+        "accumulate",
+        "acute",
+        "adequate",
+        "advocate"
+      ],
+      "count": 374,
+      "source": "seed"
+    },
+    {
+      "affix": "-le",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 344 词命中)",
+      "examples": [
+        "able",
+        "apple",
+        "article",
+        "available",
+        "accessible",
+        "admirable"
+      ],
+      "count": 364,
+      "source": "seed"
+    },
+    {
+      "affix": "-ce",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 224 词命中)",
+      "examples": [
+        "advice",
+        "announce",
+        "absence",
+        "audience",
+        "acquaintance",
+        "adolescence"
+      ],
+      "count": 233,
+      "source": "seed"
+    },
+    {
+      "affix": "-ng",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 208 词命中)",
+      "examples": [
+        "along",
+        "among",
+        "anything",
+        "amazing",
+        "appealing",
+        "amusing"
+      ],
+      "count": 219,
+      "source": "seed"
+    },
+    {
+      "affix": "-se",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 204 词命中)",
+      "examples": [
+        "advise",
+        "analyse",
+        "abuse",
+        "accuse",
+        "advertise",
+        "amuse"
+      ],
+      "count": 220,
+      "source": "seed"
+    },
+    {
+      "affix": "-ve",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 190 词命中)",
+      "examples": [
+        "above",
+        "achieve",
+        "active",
+        "alive",
+        "arrive",
+        "aggressive"
+      ],
+      "count": 205,
+      "source": "seed"
+    },
+    {
+      "affix": "-ry",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 176 词命中)",
+      "examples": [
+        "angry",
+        "accessory",
+        "anniversary",
+        "arbitrary",
+        "accessary",
+        "advisory"
+      ],
+      "count": 187,
+      "source": "seed"
+    },
+    {
+      "affix": "-ble",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 176 词命中)",
+      "examples": [
+        "able",
+        "available",
+        "accessible",
+        "admirable",
+        "acceptable",
+        "assemble"
+      ],
+      "count": 177,
+      "source": "seed"
+    },
+    {
+      "affix": "-re",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 163 词命中)",
+      "examples": [
+        "anywhere",
+        "anymore",
+        "are",
+        "acquire",
+        "acre",
+        "admire"
+      ],
+      "count": 191,
+      "source": "seed"
+    },
+    {
+      "affix": "-us",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 157 词命中)",
+      "examples": [
+        "anxious",
+        "ambiguous",
+        "autonomous",
+        "ambitious",
+        "apparatus",
+        "anonymous"
+      ],
+      "count": 160,
+      "source": "seed"
+    },
+    {
+      "affix": "-nce",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 138 词命中)",
+      "examples": [
+        "announce",
+        "absence",
+        "audience",
+        "acquaintance",
+        "adolescence",
+        "advance"
+      ],
+      "count": 139,
+      "source": "seed"
+    },
+    {
+      "affix": "-ss",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 126 词命中)",
+      "examples": [
+        "across",
+        "address",
+        "access",
+        "actress",
+        "assess",
+        "ambassadress"
+      ],
+      "count": 139,
+      "source": "seed"
+    },
+    {
+      "affix": "-ge",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 123 词命中)",
+      "examples": [
+        "age",
+        "advantage",
+        "acknowledge",
+        "arrange",
+        "average",
+        "allege"
+      ],
+      "count": 132,
+      "source": "seed"
+    },
+    {
+      "affix": "-st",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 121 词命中)",
+      "examples": [
+        "against",
+        "almost",
+        "august",
+        "artist",
+        "adjust",
+        "arrest"
+      ],
+      "count": 153,
+      "source": "seed"
+    },
+    {
+      "affix": "-ter",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 108 词命中)",
+      "examples": [
+        "after",
+        "alter",
+        "administer",
+        "better",
+        "bitter",
+        "butter"
+      ],
+      "count": 108,
+      "source": "seed"
+    },
+    {
+      "affix": "-ne",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 98 词命中)",
+      "examples": [
+        "airline",
+        "airplane",
+        "alone",
+        "anyone",
+        "aeroplane",
+        "autoimmune"
+      ],
+      "count": 118,
+      "source": "seed"
+    },
+    {
+      "affix": "-nd",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 92 词命中)",
+      "examples": [
+        "and",
+        "around",
+        "attend",
+        "amend",
+        "ascend",
+        "abound"
+      ],
+      "count": 113,
+      "source": "seed"
+    },
+    {
+      "affix": "-de",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 92 词命中)",
+      "examples": [
+        "attitude",
+        "aside",
+        "alongside",
+        "altitude",
+        "abide",
+        "anode"
+      ],
+      "count": 102,
+      "source": "seed"
+    },
+    {
+      "affix": "-ct",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 85 词命中)",
+      "examples": [
+        "act",
+        "abstract",
+        "affect",
+        "architect",
+        "aspect",
+        "attract"
+      ],
+      "count": 89,
+      "source": "seed"
+    },
+    {
+      "affix": "-an",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 81 词命中)",
+      "examples": [
+        "american",
+        "asian",
+        "australian",
+        "african",
+        "arabian",
+        "amphibian"
+      ],
+      "count": 102,
+      "source": "seed"
+    },
+    {
+      "affix": "-et",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 76 词命中)",
+      "examples": [
+        "alphabet",
+        "asset",
+        "basket",
+        "ballet",
+        "budget",
+        "blanket"
+      ],
+      "count": 90,
+      "source": "seed"
+    },
+    {
+      "affix": "-tic",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 75 词命中)",
+      "examples": [
+        "atlantic",
+        "arctic",
+        "arithmetic",
+        "athletic",
+        "automatic",
+        "antarctic"
+      ],
+      "count": 75,
+      "source": "seed"
+    },
+    {
+      "affix": "-ch",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 71 词命中)",
+      "examples": [
+        "arch",
+        "approach",
+        "attach",
+        "beach",
+        "brunch",
+        "bench"
+      ],
+      "count": 78,
+      "source": "seed"
+    },
+    {
+      "affix": "-cal",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 71 词命中)",
+      "examples": [
+        "analytical",
+        "alphabetical",
+        "astronomical",
+        "botanical",
+        "biological",
+        "chemical"
+      ],
+      "count": 71,
+      "source": "seed"
+    },
+    {
+      "affix": "-lly",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 70 词命中)",
+      "examples": [
+        "annually",
+        "actually",
+        "awfully",
+        "ally",
+        "abnormally",
+        "accidentally"
+      ],
+      "count": 71,
+      "source": "seed"
+    },
+    {
+      "affix": "-in",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 68 词命中)",
+      "examples": [
+        "again",
+        "attain",
+        "adjoin",
+        "ascertain",
+        "brain",
+        "begin"
+      ],
+      "count": 94,
+      "source": "seed"
+    },
+    {
+      "affix": "-ze",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 68 词命中)",
+      "examples": [
+        "amaze",
+        "analyze",
+        "apologize",
+        "authorize",
+        "agonize",
+        "blaze"
+      ],
+      "count": 71,
+      "source": "seed"
+    },
+    {
+      "affix": "-sh",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 65 词命中)",
+      "examples": [
+        "abolish",
+        "accomplish",
+        "ash",
+        "astonish",
+        "anguish",
+        "brush"
+      ],
+      "count": 80,
+      "source": "seed"
+    },
+    {
+      "affix": "-rate",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 59 词命中)",
+      "examples": [
+        "accelerate",
+        "accurate",
+        "concentrate",
+        "celebrate",
+        "considerate",
+        "corporate"
+      ],
+      "count": 60,
+      "source": "seed"
+    },
+    {
+      "affix": "-ely",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 59 词命中)",
+      "examples": [
+        "attentively",
+        "approximately",
+        "absolutely",
+        "acutely",
+        "adversely",
+        "alternatively"
+      ],
+      "count": 60,
+      "source": "seed"
+    },
+    {
+      "affix": "-ial",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 59 词命中)",
+      "examples": [
+        "artificial",
+        "axial",
+        "aerial",
+        "alluvial",
+        "beneficial",
+        "burial"
+      ],
+      "count": 60,
+      "source": "seed"
+    },
+    {
+      "affix": "-it",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 58 词命中)",
+      "examples": [
+        "admit",
+        "await",
+        "audit",
+        "accredit",
+        "albeit",
+        "biscuit"
+      ],
+      "count": 78,
+      "source": "seed"
+    },
+    {
+      "affix": "-ally",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 57 词命中)",
+      "examples": [
+        "annually",
+        "actually",
+        "abnormally",
+        "accidentally",
+        "automatically",
+        "basically"
+      ],
+      "count": 58,
+      "source": "seed"
+    },
+    {
+      "affix": "-el",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 57 词命中)",
+      "examples": [
+        "angel",
+        "barrel",
+        "bushel",
+        "bowel",
+        "cancel",
+        "camel"
+      ],
+      "count": 62,
+      "source": "seed"
+    },
+    {
+      "affix": "-rt",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 55 词命中)",
+      "examples": [
+        "airport",
+        "art",
+        "apart",
+        "alert",
+        "avert",
+        "assert"
+      ],
+      "count": 64,
+      "source": "seed"
+    },
+    {
+      "affix": "-nal",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 54 词命中)",
+      "examples": [
+        "additional",
+        "aspirational",
+        "aboriginal",
+        "canal",
+        "conventional",
+        "criminal"
+      ],
+      "count": 54,
+      "source": "seed"
+    },
+    {
+      "affix": "-rd",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 52 词命中)",
+      "examples": [
+        "afford",
+        "award",
+        "aboard",
+        "absurd",
+        "afterward",
+        "awkward"
+      ],
+      "count": 61,
+      "source": "seed"
+    },
+    {
+      "affix": "-ine",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 52 词命中)",
+      "examples": [
+        "airline",
+        "combine",
+        "cuisine",
+        "confine",
+        "cocaine",
+        "determine"
+      ],
+      "count": 60,
+      "source": "seed"
+    },
+    {
+      "affix": "-ht",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 50 词命中)",
+      "examples": [
+        "alright",
+        "airtight",
+        "alight",
+        "bright",
+        "copyright",
+        "daylight"
+      ],
+      "count": 50,
+      "source": "seed"
+    },
+    {
+      "affix": "-ul",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 50 词命中)",
+      "examples": [
+        "awful",
+        "beautiful",
+        "careful",
+        "cheerful",
+        "consul",
+        "delightful"
+      ],
+      "count": 53,
+      "source": "seed"
+    },
+    {
+      "affix": "-tor",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 50 词命中)",
+      "examples": [
+        "actor",
+        "ancestor",
+        "advocator",
+        "administrator",
+        "calculator",
+        "competitor"
+      ],
+      "count": 50,
+      "source": "seed"
+    },
+    {
+      "affix": "-ght",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 49 词命中)",
+      "examples": [
+        "alright",
+        "airtight",
+        "alight",
+        "bright",
+        "copyright",
+        "daylight"
+      ],
+      "count": 49,
+      "source": "seed"
+    },
+    {
+      "affix": "-ll",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 47 词命中)",
+      "examples": [
+        "all",
+        "appall",
+        "ball",
+        "basketball",
+        "bell",
+        "bill"
+      ],
+      "count": 85,
+      "source": "seed"
+    },
+    {
+      "affix": "-ue",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 46 词命中)",
+      "examples": [
+        "avenue",
+        "argue",
+        "antique",
+        "accrue",
+        "analogue",
+        "blue"
+      ],
+      "count": 53,
+      "source": "seed"
+    },
+    {
+      "affix": "-me",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 46 词命中)",
+      "examples": [
+        "assume",
+        "awesome",
+        "become",
+        "blame",
+        "costume",
+        "come"
+      ],
+      "count": 61,
+      "source": "seed"
+    },
+    {
+      "affix": "-ay",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 44 词命中)",
+      "examples": [
+        "anyway",
+        "away",
+        "array",
+        "astray",
+        "birthday",
+        "bay"
+      ],
+      "count": 63,
+      "source": "seed"
+    },
+    {
+      "affix": "-ck",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 44 词命中)",
+      "examples": [
+        "attack",
+        "back",
+        "block",
+        "black",
+        "brick",
+        "buck"
+      ],
+      "count": 71,
+      "source": "seed"
+    },
+    {
+      "affix": "-cy",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 43 词命中)",
+      "examples": [
+        "accuracy",
+        "agency",
+        "accountancy",
+        "bureaucracy",
+        "bankruptcy",
+        "currency"
+      ],
+      "count": 44,
+      "source": "seed"
+    },
+    {
+      "affix": "-ish",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 41 词命中)",
+      "examples": [
+        "abolish",
+        "accomplish",
+        "astonish",
+        "anguish",
+        "british",
+        "childish"
+      ],
+      "count": 44,
+      "source": "seed"
+    },
+    {
+      "affix": "-lity",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 40 词命中)",
+      "examples": [
+        "ability",
+        "availability",
+        "capability",
+        "disability",
+        "durability",
+        "equality"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "-ain",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 40 词命中)",
+      "examples": [
+        "again",
+        "attain",
+        "ascertain",
+        "brain",
+        "bargain",
+        "britain"
+      ],
+      "count": 45,
+      "source": "seed"
+    },
+    {
+      "affix": "-um",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 40 词命中)",
+      "examples": [
+        "album",
+        "aluminium",
+        "aluminum",
+        "auditorium",
+        "aquarium",
+        "asylum"
+      ],
+      "count": 46,
+      "source": "seed"
+    },
+    {
+      "affix": "-late",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 40 词命中)",
+      "examples": [
+        "accumulate",
+        "assimilate",
+        "articulate",
+        "annihilate",
+        "chocolate",
+        "calculate"
+      ],
+      "count": 42,
+      "source": "seed"
+    },
+    {
+      "affix": "-ect",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 40 词命中)",
+      "examples": [
+        "affect",
+        "architect",
+        "aspect",
+        "connect",
+        "correct",
+        "collect"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "-ard",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 39 词命中)",
+      "examples": [
+        "award",
+        "aboard",
+        "afterward",
+        "awkward",
+        "blackboard",
+        "board"
+      ],
+      "count": 43,
+      "source": "seed"
+    },
+    {
+      "affix": "-der",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 38 词命中)",
+      "examples": [
+        "border",
+        "bewilder",
+        "blunder",
+        "boulder",
+        "consider",
+        "commander"
+      ],
+      "count": 38,
+      "source": "seed"
+    },
+    {
+      "affix": "-ver",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 37 词命中)",
+      "examples": [
+        "cover",
+        "clever",
+        "caregiver",
+        "discover",
+        "driver",
+        "deliver"
+      ],
+      "count": 39,
+      "source": "seed"
+    },
+    {
+      "affix": "-ow",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 36 词命中)",
+      "examples": [
+        "allow",
+        "anyhow",
+        "arrow",
+        "below",
+        "borrow",
+        "bow"
+      ],
+      "count": 55,
+      "source": "seed"
+    },
+    {
+      "affix": "-ral",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 36 词命中)",
+      "examples": [
+        "agricultural",
+        "aural",
+        "ancestral",
+        "bilateral",
+        "cathedral",
+        "central"
+      ],
+      "count": 37,
+      "source": "seed"
+    },
+    {
+      "affix": "-ite",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 36 词命中)",
+      "examples": [
+        "appetite",
+        "bite",
+        "cite",
+        "composite",
+        "despite",
+        "definite"
+      ],
+      "count": 41,
+      "source": "seed"
+    },
+    {
+      "affix": "-tal",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 36 词命中)",
+      "examples": [
+        "accidental",
+        "anecdotal",
+        "brutal",
+        "capital",
+        "crystal",
+        "coastal"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "-il",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 35 词命中)",
+      "examples": [
+        "april",
+        "airmail",
+        "avail",
+        "boil",
+        "bail",
+        "blackmail"
+      ],
+      "count": 55,
+      "source": "seed"
+    },
+    {
+      "affix": "-onal",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 35 词命中)",
+      "examples": [
+        "additional",
+        "aspirational",
+        "conventional",
+        "confrontational",
+        "dimensional",
+        "divisional"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "-her",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 34 词命中)",
+      "examples": [
+        "another",
+        "altogether",
+        "brother",
+        "bother",
+        "butcher",
+        "dishwasher"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "-ide",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 34 词命中)",
+      "examples": [
+        "aside",
+        "alongside",
+        "abide",
+        "beside",
+        "bride",
+        "backslide"
+      ],
+      "count": 39,
+      "source": "seed"
+    },
+    {
+      "affix": "-ur",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 34 词命中)",
+      "examples": [
+        "amateur",
+        "armour",
+        "behaviour",
+        "blur",
+        "colour",
+        "concur"
+      ],
+      "count": 45,
+      "source": "seed"
+    },
+    {
+      "affix": "-nate",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 34 词命中)",
+      "examples": [
+        "affectionate",
+        "assassinate",
+        "alternate",
+        "alienate",
+        "coordinate",
+        "contaminate"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "-tly",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 33 词命中)",
+      "examples": [
+        "abruptly",
+        "aptly",
+        "apparently",
+        "constantly",
+        "currently",
+        "costly"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ify",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 33 词命中)",
+      "examples": [
+        "amplify",
+        "classify",
+        "clarify",
+        "certify",
+        "diversify",
+        "disqualify"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ted",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 32 词命中)",
+      "examples": [
+        "addicted",
+        "antiquated",
+        "assorted",
+        "complicated",
+        "concerted",
+        "congested"
+      ],
+      "count": 32,
+      "source": "seed"
+    },
+    {
+      "affix": "-and",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 32 词命中)",
+      "examples": [
+        "band",
+        "brand",
+        "beforehand",
+        "command",
+        "cropland",
+        "demand"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "-ight",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 31 词命中)",
+      "examples": [
+        "alright",
+        "airtight",
+        "alight",
+        "bright",
+        "copyright",
+        "daylight"
+      ],
+      "count": 39,
+      "source": "seed"
+    },
+    {
+      "affix": "-ory",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 31 词命中)",
+      "examples": [
+        "accessory",
+        "advisory",
+        "category",
+        "contradictory",
+        "compulsory",
+        "conservatory"
+      ],
+      "count": 31,
+      "source": "seed"
+    },
+    {
+      "affix": "-ice",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 30 词命中)",
+      "examples": [
+        "advice",
+        "apprentice",
+        "choice",
+        "crevice",
+        "device",
+        "disservice"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-gy",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 30 词命中)",
+      "examples": [
+        "apology",
+        "analogy",
+        "archeology",
+        "archaeology",
+        "astrology",
+        "anthology"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "-sm",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 30 词命中)",
+      "examples": [
+        "absenteeism",
+        "antagonism",
+        "buddhism",
+        "communism",
+        "criticism",
+        "capitalism"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "-man",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 30 词命中)",
+      "examples": [
+        "businessman",
+        "businesswoman",
+        "chairman",
+        "chairwoman",
+        "englishman",
+        "fisherman"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "-dy",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 29 词命中)",
+      "examples": [
+        "anybody",
+        "already",
+        "body",
+        "brandy",
+        "bloody",
+        "candy"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ding",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 29 词命中)",
+      "examples": [
+        "according",
+        "building",
+        "corresponding",
+        "ending",
+        "founding",
+        "finding"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "-rse",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 29 词命中)",
+      "examples": [
+        "adverse",
+        "course",
+        "coarse",
+        "curse",
+        "converse",
+        "diverse"
+      ],
+      "count": 29,
+      "source": "seed"
+    },
+    {
+      "affix": "-rity",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 28 词命中)",
+      "examples": [
+        "authority",
+        "charity",
+        "clarity",
+        "celebrity",
+        "integrity",
+        "inferiority"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-sive",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 28 词命中)",
+      "examples": [
+        "aggressive",
+        "comprehensive",
+        "conclusive",
+        "cohesive",
+        "decisive",
+        "defensive"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-ace",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 28 词命中)",
+      "examples": [
+        "airspace",
+        "aerospace",
+        "apace",
+        "birthplace",
+        "brace",
+        "commonplace"
+      ],
+      "count": 32,
+      "source": "seed"
+    },
+    {
+      "affix": "-ile",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 28 词命中)",
+      "examples": [
+        "automobile",
+        "agile",
+        "compile",
+        "crocodile",
+        "defile",
+        "exile"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ld",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 28 词命中)",
+      "examples": [
+        "afield",
+        "build",
+        "bold",
+        "bald",
+        "child",
+        "cold"
+      ],
+      "count": 39,
+      "source": "seed"
+    },
+    {
+      "affix": "-ient",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "ancient",
+        "ambient",
+        "convenient",
+        "client",
+        "coefficient",
+        "deficient"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ian",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "asian",
+        "australian",
+        "arabian",
+        "amphibian",
+        "brazilian",
+        "civilian"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ke",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "awake",
+        "alike",
+        "bike",
+        "bake",
+        "brake",
+        "coke"
+      ],
+      "count": 45,
+      "source": "seed"
+    },
+    {
+      "affix": "-end",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "attend",
+        "amend",
+        "ascend",
+        "bend",
+        "blend",
+        "comprehend"
+      ],
+      "count": 33,
+      "source": "seed"
+    },
+    {
+      "affix": "-ting",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "afflicting",
+        "boating",
+        "cutting",
+        "disappointing",
+        "disgusting",
+        "devastating"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-lar",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "burglar",
+        "cellar",
+        "collar",
+        "circular",
+        "cardiovascular",
+        "dollar"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ner",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 27 词命中)",
+      "examples": [
+        "banner",
+        "beginner",
+        "burner",
+        "corner",
+        "cleaner",
+        "container"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-pt",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 26 词命中)",
+      "examples": [
+        "accept",
+        "attempt",
+        "abrupt",
+        "adapt",
+        "adopt",
+        "apt"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-ute",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 26 词命中)",
+      "examples": [
+        "absolute",
+        "acute",
+        "attribute",
+        "brute",
+        "cute",
+        "contribute"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-om",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 26 词命中)",
+      "examples": [
+        "atom",
+        "accustom",
+        "bathroom",
+        "bedroom",
+        "bottom",
+        "broom"
+      ],
+      "count": 35,
+      "source": "seed"
+    },
+    {
+      "affix": "-ster",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 26 词命中)",
+      "examples": [
+        "administer",
+        "bolster",
+        "cluster",
+        "disaster",
+        "easter",
+        "foster"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "-tle",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 26 词命中)",
+      "examples": [
+        "bottle",
+        "battle",
+        "bristle",
+        "brittle",
+        "beetle",
+        "castle"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "-id",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 25 词命中)",
+      "examples": [
+        "afraid",
+        "avoid",
+        "aid",
+        "acid",
+        "amid",
+        "bid"
+      ],
+      "count": 36,
+      "source": "seed"
+    },
+    {
+      "affix": "-use",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 25 词命中)",
+      "examples": [
+        "abuse",
+        "accuse",
+        "amuse",
+        "arouse",
+        "applause",
+        "because"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ual",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 25 词命中)",
+      "examples": [
+        "actual",
+        "annual",
+        "bilingual",
+        "casual",
+        "continual",
+        "conceptual"
+      ],
+      "count": 26,
+      "source": "seed"
+    },
+    {
+      "affix": "-ling",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 25 词命中)",
+      "examples": [
+        "appealing",
+        "bowling",
+        "ceiling",
+        "counseling",
+        "compelling",
+        "cling"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ny",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "any",
+        "accompany",
+        "agony",
+        "balcony",
+        "botany",
+        "company"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-cate",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "advocate",
+        "allocate",
+        "authenticate",
+        "communicate",
+        "certificate",
+        "complicate"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "-ncy",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "agency",
+        "accountancy",
+        "currency",
+        "complacency",
+        "consultancy",
+        "contingency"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "-ogy",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "apology",
+        "analogy",
+        "archeology",
+        "archaeology",
+        "astrology",
+        "anthology"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "-int",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "appoint",
+        "acquaint",
+        "ballpoint",
+        "blueprint",
+        "complaint",
+        "constraint"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-ase",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "appease",
+        "bookcase",
+        "base",
+        "briefcase",
+        "chase",
+        "case"
+      ],
+      "count": 28,
+      "source": "seed"
+    },
+    {
+      "affix": "-at",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "acrobat",
+        "boat",
+        "beat",
+        "bat",
+        "cat",
+        "cheat"
+      ],
+      "count": 46,
+      "source": "seed"
+    },
+    {
+      "affix": "-our",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "armour",
+        "behaviour",
+        "colour",
+        "dishonour",
+        "devour",
+        "downpour"
+      ],
+      "count": 30,
+      "source": "seed"
+    },
+    {
+      "affix": "-rn",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "born",
+        "burn",
+        "barn",
+        "concern",
+        "corn",
+        "churn"
+      ],
+      "count": 34,
+      "source": "seed"
+    },
+    {
+      "affix": "-per",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 24 词命中)",
+      "examples": [
+        "copper",
+        "camper",
+        "grasshopper",
+        "hamper",
+        "improper",
+        "keeper"
+      ],
+      "count": 24,
+      "source": "seed"
+    },
+    {
+      "affix": "-one",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 23 词命中)",
+      "examples": [
+        "alone",
+        "anyone",
+        "bone",
+        "backbone",
+        "clone",
+        "cornerstone"
+      ],
+      "count": 27,
+      "source": "seed"
+    },
+    {
+      "affix": "-stic",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 23 词命中)",
+      "examples": [
+        "artistic",
+        "acoustic",
+        "altruistic",
+        "characteristic",
+        "caustic",
+        "domestic"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "-ip",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 23 词命中)",
+      "examples": [
+        "assistantship",
+        "chip",
+        "clip",
+        "citizenship",
+        "censorship",
+        "courtship"
+      ],
+      "count": 40,
+      "source": "seed"
+    },
+    {
+      "affix": "-lize",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 23 词命中)",
+      "examples": [
+        "civilize",
+        "crystallize",
+        "denationalize",
+        "generalize",
+        "hospitalize",
+        "industrialize"
+      ],
+      "count": 23,
+      "source": "seed"
+    },
+    {
+      "affix": "-ad",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 22 词命中)",
+      "examples": [
+        "abroad",
+        "ahead",
+        "bread",
+        "bad",
+        "broad",
+        "bead"
+      ],
+      "count": 38,
+      "source": "seed"
+    },
+    {
+      "affix": "-ther",
+      "type": "suffix",
+      "meaning": "常见词尾(词库 22 词命中)",
+      "examples": [
+        "another",
+        "altogether",
+        "brother",
+        "bother",
+        "either",
+        "father"
+      ],
+      "count": 23,
+      "source": "seed"
+    }
+  ]
+}

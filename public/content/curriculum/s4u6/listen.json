@@ -1,0 +1,61 @@
+{
+  "id": "l-s4u6",
+  "stage": 4,
+  "unitId": "s4u6",
+  "title": "听力挑战 · 备考策略交流",
+  "rate": 1.0,
+  "rounds": [
+    {
+      "speaker": "学生",
+      "line": "For detail questions, I first locate the keywords in the passage and then compare them with each option.",
+      "lineCn": "做细节题时,我先在文章中定位关键词,再把它们与每个选项逐一比对。",
+      "grammar": [
+        { "name": "细节题定位法", "note": "先找关键词定位,再比对选项;them 指代 keywords,理解指代有助于抓取做题步骤。" }
+      ],
+      "options": [
+        { "text": "He finds keywords first and then compares options with them.", "correct": true, "feedback": "他的做法是先定位关键词,再与选项比对。" },
+        { "text": "He reads the whole passage once and answers without checking.", "correct": false, "feedback": "他说的是先定位再比对,并非不检查就作答。" },
+        { "text": "He guesses the answers from the title directly.", "correct": false, "feedback": "他没有提到根据标题猜测答案。" }
+      ]
+    },
+    {
+      "speaker": "辅导老师",
+      "line": "The main idea question asks about the general theme, so you should not focus on specific examples.",
+      "lineCn": "主旨题问的是文章大意,所以你不应把注意力放在具体例子上。",
+      "grammar": [
+        { "name": "主旨题解题思路", "note": "主旨题抓整体主题,细节例子是干扰项,答题时要抓大放小。" }
+      ],
+      "options": [
+        { "text": "Focus on the general theme rather than specific examples.", "correct": true, "feedback": "主旨题应抓大意,不被具体例子干扰。" },
+        { "text": "Focus on specific examples and figures in the text.", "correct": false, "feedback": "老师提醒不要关注具体例子,这是细节题做法。" },
+        { "text": "Skip the main idea question without answering it.", "correct": false, "feedback": "老师并未建议放弃主旨题。" }
+      ]
+    },
+    {
+      "speaker": "学生",
+      "line": "I often confuse inference questions with detail questions because both require careful reading.",
+      "lineCn": "我经常把推断题和细节题搞混,因为两者都需要仔细阅读。",
+      "grammar": [
+        { "name": "推断题与细节题的区分", "note": "推断题需根据原文推理引申,细节题只需直接定位,抓住解题依据的区别。" }
+      ],
+      "options": [
+        { "text": "He mixes up inference questions and detail questions.", "correct": true, "feedback": "他承认经常把两类题型弄混。" },
+        { "text": "He thinks inference questions are always easy.", "correct": false, "feedback": "他并未评价推断题的难易程度。" },
+        { "text": "He never reads the passage carefully.", "correct": false, "feedback": "他说两类题都需要仔细阅读,并非不细读。" }
+      ]
+    },
+    {
+      "speaker": "辅导老师",
+      "line": "To improve speed, practice skimming for structure first and reserve deep reading for key paragraphs.",
+      "lineCn": "为提高速度,先练习略读把握结构,把精读留给关键段落。",
+      "grammar": [
+        { "name": "略读与精读结合", "note": "skim 抓结构与 reserve 精读形成对比,动名词作宾语,理解层次化阅读策略。" }
+      ],
+      "options": [
+        { "text": "Skim for structure first, then read key paragraphs deeply.", "correct": true, "feedback": "先略读把握结构,关键段落再精读。" },
+        { "text": "Read every paragraph word by word from the start.", "correct": false, "feedback": "逐词通读会拖慢速度,与建议相反。" },
+        { "text": "Avoid skimming because it wastes time.", "correct": false, "feedback": "老师主张用略读提速,而非回避略读。" }
+      ]
+    }
+  ]
+}

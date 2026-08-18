@@ -1,0 +1,35 @@
+{
+  "id": "l-s1u8",
+  "stage": 1,
+  "unitId": "s1u8",
+  "title": "听力挑战 · 请求帮助与建议",
+  "rate": 0.75,
+  "rounds": [
+    {
+      "speaker": "同事",
+      "line": "Could you help me carry this box?",
+      "lineCn": "你能帮我搬这个箱子吗?",
+      "grammar": [
+        { "name": "情态动词 could 表请求", "note": "could 语气委婉,表示'能'、'可以',比 can 更客气。" }
+      ],
+      "options": [
+        { "text": "Of course, I can help you.", "correct": true, "feedback": "用 can 表明愿意帮忙,回应请求自然得体。" },
+        { "text": "Yes, I carried it yesterday.", "correct": false, "feedback": "过去时说的是昨天的事,没有答应帮忙。" },
+        { "text": "You must eat more fruit.", "correct": false, "feedback": "给出无关建议,回避了对方的请求。" }
+      ]
+    },
+    {
+      "speaker": "同学",
+      "line": "What should I do about my toothache?",
+      "lineCn": "我的牙疼,该怎么办?",
+      "grammar": [
+        { "name": "情态动词 should 表建议", "note": "should 表示'应该',用来给别人提出建议。" }
+      ],
+      "options": [
+        { "text": "You should see a dentist soon.", "correct": true, "feedback": "用 should 给出合理建议,紧扣牙疼问题。" },
+        { "text": "You can buy some apples.", "correct": false, "feedback": "建议买水果与牙疼无关,没有帮助。" },
+        { "text": "I will go to bed now.", "correct": false, "feedback": "说自己的安排,没有给对方任何建议。" }
+      ]
+    }
+  ]
+}

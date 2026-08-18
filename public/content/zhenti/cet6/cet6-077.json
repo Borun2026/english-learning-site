@@ -1,0 +1,62 @@
+{
+ "id": "cet6-077",
+ "type": "cet6-passage",
+ "year": 2022,
+ "source": "六级真题 2022年6月 · 2022年6月英语六级真题(第1套) Passage 1",
+ "title": "Selective colleges and universities in the U",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 448,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Selective colleges and universities in the U.S. are under fire for being too elite and too expensive, and for not training graduates for the world of work. Such charges ignore the fact that these institutions continue to prepare students for success in their work, for thoughtful engagement in civic life, for lifelong learning, and for understanding the world and those with whom they live.",
+  "These colleges and universities must be doing something right. Applications are at record highs, and their financial aid programs make them more accessible than ever. This model of education has long played a central role in creating opportunity, driving economic",
+  "growth, and spurring innovation. Yet, there is growing skepticism about the value of this model. The recent tax reform",
+  "bill is a wake-up call that our strongest colleges and universities are under assault by some in government. The initial proposals would have made education unaffordable for many by taxing tuition waivers for graduate students and ending deductions for student loan interest. Thankfully, these provisions were ultimately stripped from the bill, but lawmakers let stand a new tax on the investment income of some colleges and universities.",
+  "While these attacks are motivated by misguided ideas, we need to do a better job of explaining why these claims are false and why what we do is valuable. We cannot take for granted that any of this is obvious.",
+  "It is often said that elite colleges and universities do not train students, particularly those who study the liberal arts, for the workforce. But this can be refuted by scholarly research. The data are clear: a liberal arts education is great career preparation, both for excellent lifetime earnings and for satisfaction with the work. This education develops the skills of critical thinking, rigorous analysis of data and facts, communication with the written and spoken word, understanding of cultural differences and issues, and the ability to keep learning. In fact, liberal arts graduates do extremely well in every imaginable field.",
+  "Access to an education at selective colleges and universities is now more available than ever to low-and middle-income families. We have built endowments from donations by alumni and parents who understand and appreciate our mission to provide access and opportunity, and a significant portion of the returns from these endowments is used to fund financial aid.",
+  "Ironically, the new tax on endowments drains financial aid funds from the very schools most able to offer opportunity to those who have earned a spot but cannot otherwise afford this education. Beyond the virtue of access to those who have earned a place at these schools, the diversity of economic backgrounds enhances the education and experience of all of our students."
+ ],
+ "questions": [
+  {
+   "q": "文中 “growth” 最接近的意思是?",
+   "options": [
+    "结局",
+    "田野",
+    "中心的",
+    "增长"
+   ],
+   "answer": 3,
+   "analysis": "“growth” 意为「增长」。原文语境:This model of education has long played a central role in creating opportunity, driving economic growth, and spurring innovation.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:This education develops the skills of critical thinking, rigorous analysis of data and facts, communication with the written and spoken word, understanding of cultural differences and issues, and the ___ to keep learning.",
+   "options": [
+    "ability",
+    "success",
+    "lifetime",
+    "career"
+   ],
+   "answer": 0,
+   "analysis": "原文原句为“This education develops the skills of critical thinking, rigorous analysis of data and facts, communication with the written and spoken word, understanding of cultural differences and issues, and the ability to keep learning.”。空格处应填入 “ability”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Selective colleges and universities in the U",
+    "At the base of a mountain in Tanzania's Gregory Rift, Lake Natron burns brigh",
+    "In the beginning of the movie l, Robot, a robot has to decide whom to save af",
+    "After earning a bachelor's degree, I was determined to do what I love"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Selective colleges and universities in the U.S.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

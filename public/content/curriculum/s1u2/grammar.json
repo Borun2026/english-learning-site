@@ -1,0 +1,24 @@
+{
+  "id": "g-s1u2",
+  "stage": 1,
+  "title": "一般现在时",
+  "explanation": "## 一般现在时的用法\n\n一般现在时表示经常发生的动作、习惯或客观事实。它有三种常见用法:\n\n1. **经常性动作**:常与 always、usually、often、sometimes、never 等频度副词连用。\n2. **客观事实与真理**:如太阳东升西落、水沸腾等,任何时候都对。\n3. **现在的状态**:如 I am a student.\n\n## 动词形式\n\n| 主语 | 动词形式 |\n|---|---|\n| I / we / you / they / 复数 | 动词原形 |\n| he / she / it / 单数 | 动词原形加 -s 或 -es |\n\n第三人称单数变化规则:一般加 -s(like→likes);以 -s、-x、-ch、-sh、-o 结尾加 -es(go→goes);辅音字母加 y 结尾,变 y 为 i 加 -es(study→studies)。\n\n## 否定与疑问\n\n- 否定:主语 + don't / doesn't + 动词原形\n- 疑问:Do / Does + 主语 + 动词原形?\n\n注意:助动词 does 出现后,后面的动词必须用原形。",
+  "examples": [
+    { "en": "I get up at seven every day.", "cn": "我每天七点起床。", "note": "经常性动作,主语 I 用动词原形 get。" },
+    { "en": "She likes music very much.", "cn": "她非常喜欢音乐。", "note": "第三人称单数 she,like 加 -s 变成 likes。" },
+    { "en": "Water boils at 100 degrees.", "cn": "水在 100 度沸腾。", "note": "客观真理用一般现在时,boil 加 -s。" },
+    { "en": "He doesn't watch TV on weekdays.", "cn": "他工作日不看电视。", "note": "否定用 doesn't + 动词原形 watch。" }
+  ],
+  "errors": [
+    { "wrong": "She like music.", "right": "She likes music.", "note": "第三人称单数主语后,动词必须加 -s。" },
+    { "wrong": "He don't like coffee.", "right": "He doesn't like coffee.", "note": "第三人称单数的否定用 doesn't,不用 don't。" },
+    { "wrong": "Does he likes apples?", "right": "Does he like apples?", "note": "助动词 does 出现后,动词要恢复原形 like。" }
+  ],
+  "quiz": [
+    { "q": "She ___ music every day.", "options": ["listen", "listens", "listening", "listened"], "answer": 1, "note": "第三人称单数 she,listen 加 -s。" },
+    { "q": "They ___ to school by bus every day.", "options": ["go", "goes", "going", "went"], "answer": 0, "note": "主语 they 是复数,动词用原形 go。" },
+    { "q": "___ he ___ his homework after dinner?", "options": ["Does / do", "Do / does", "Is / doing", "Does / does"], "answer": 0, "note": "一般疑问句用 Does 提前,后面动词用原形 do。" },
+    { "q": "The earth ___ around the sun.", "options": ["move", "moves", "moving", "moved"], "answer": 1, "note": "客观真理用一般现在时,earth 是单数,加 -s。" },
+    { "q": "Tom ___ like vegetables, but his sister does.", "options": ["don't", "doesn't", "not", "isn't"], "answer": 1, "note": "第三人称单数 Tom 的否定用 doesn't,后接动词原形。" }
+  ]
+}

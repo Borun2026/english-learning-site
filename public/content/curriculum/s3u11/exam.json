@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u11",
+  "stage": 3,
+  "unitId": "s3u11",
+  "title": "真题演练 · 介词进阶",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 介词进阶。",
+  "questions": [
+    {
+      "q": "She is interested ___ music.",
+      "options": [
+        "in",
+        "on",
+        "at",
+        "for"
+      ],
+      "answer": 0,
+      "analysis": "be interested in 固定搭配。",
+      "point": "g-s3u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "We should be responsible ___ our actions.",
+      "options": [
+        "of",
+        "for",
+        "to",
+        "with"
+      ],
+      "answer": 1,
+      "analysis": "be responsible for 表\"对……负责\"。",
+      "point": "g-s3u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The medicine has a good effect ___ patients.",
+      "options": [
+        "for",
+        "on",
+        "to",
+        "with"
+      ],
+      "answer": 1,
+      "analysis": "effect on 表\"对……的影响\"。",
+      "point": "g-s3u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He has been working here ___ 2018.",
+      "options": [
+        "for",
+        "since",
+        "in",
+        "at"
+      ],
+      "answer": 1,
+      "analysis": "since + 点时间,搭配完成时。",
+      "point": "g-s3u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "The problem was discussed ___ the three groups.",
+      "options": [
+        "between",
+        "among",
+        "in",
+        "on"
+      ],
+      "answer": 1,
+      "analysis": "三者及以上用 among。",
+      "point": "g-s3u11",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:She is good in math.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:She is good at math.。be good at 是固定搭配,表\"擅长\"。",
+      "point": "g-s3u11",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}

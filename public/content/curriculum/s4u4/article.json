@@ -1,0 +1,1234 @@
+{
+  "id": "a-s4u4",
+  "stage": 4,
+  "unitId": "s4u4",
+  "title": "Questions after the Lecture",
+  "newWords": [
+    "eminent",
+    "censorship",
+    "genre",
+    "blog",
+    "dependence",
+    "salient",
+    "criticise",
+    "emphasise",
+    "augment",
+    "doze",
+    "practitioner",
+    "realise",
+    "laptop",
+    "turmoil",
+    "encyclopaedia",
+    "rehearse"
+  ],
+  "sentences": [
+    {
+      "text": "An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+      "translation": "一位杰出的学者可能会就媒体的审查制度发表讲座,大厅里坐满了对此话题抱有浓厚兴趣的年轻人。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "An eminent scholar may deliver a lecture on censorship in the media",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "An eminent scholar"
+            },
+            {
+              "role": "谓语",
+              "text": "may deliver"
+            },
+            {
+              "role": "宾语",
+              "text": "a lecture on censorship in the media"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the hall is full of young people who take a keen interest in the topic",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the hall"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "full of young people"
+            },
+            {
+              "role": "定语从句",
+              "text": "who take a keen interest in the topic"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "定语从句 who",
+          "note": "who 引导定语从句修饰 people,在从句中作主语。"
+        },
+        {
+          "name": "be full of",
+          "note": "be full of 表示「充满…」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "the hall is full of young people who take a keen interest in the topic",
+          "name": "定语从句 who"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "the hall is full of young people who take a keen interest in the topic",
+          "name": "be full of"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+          "answer": "An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+          "note": "who 引导定语从句修饰 people,在从句中作主语。",
+          "point": "定语从句 who"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+          "answer": "An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+          "note": "be full of 表示「充满…」。",
+          "point": "be full of"
+        }
+      ]
+    },
+    {
+      "text": "Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+      "translation": "她的讲座可能涵盖各种类型的媒体,从报纸到博客,而每一个案例都能说明政府如何塑造新闻的流向。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "Her lecture may cover every genre of media",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Her lecture"
+            },
+            {
+              "role": "谓语",
+              "text": "may cover"
+            },
+            {
+              "role": "宾语",
+              "text": "every genre of media"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "from the newspaper to the blog"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each case may show how a government can shape the flow of news",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each case"
+            },
+            {
+              "role": "谓语",
+              "text": "may show"
+            },
+            {
+              "role": "宾语从句",
+              "text": "how a government can shape the flow of news"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "how 宾语从句",
+          "note": "how 引导宾语从句,作 show 的宾语,表示「如何…」。"
+        },
+        {
+          "name": "插入语 from...to...",
+          "note": "from the newspaper to the blog 是插入语,举例说明媒体的范围。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "each case may show how a government can shape the flow of news",
+          "name": "how 宾语从句"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "each case may show how a government can shape the flow of news",
+          "name": "插入语 from...to..."
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+          "answer": "Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+          "note": "how 引导宾语从句,作 show 的宾语,表示「如何…」。",
+          "point": "how 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+          "answer": "Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+          "note": "from the newspaper to the blog 是插入语,举例说明媒体的范围。",
+          "point": "插入语 from...to..."
+        }
+      ]
+    },
+    {
+      "text": "At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+      "translation": "最后,教授可能邀请我们提问,我决定提出一个关于新闻界对官方信息依赖程度的问题。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "At the end"
+        },
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "the professor may invite us to ask a question",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the professor"
+            },
+            {
+              "role": "谓语",
+              "text": "may invite"
+            },
+            {
+              "role": "宾语",
+              "text": "us"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "to ask a question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I decide to raise one about the dependence of the press on official information",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "decide"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to raise one about the dependence of the press on official information"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "invite sb to do",
+          "note": "invite sb to do sth:不定式作宾语补足语,表示「邀请某人做某事」。"
+        },
+        {
+          "name": "decide to do",
+          "note": "decide to do sth 表示「决定做某事」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "I decide to raise one about the dependence of the press on official information",
+          "name": "invite sb to do"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "I decide to raise one about the dependence of the press on official information",
+          "name": "decide to do"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+          "answer": "At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+          "note": "invite sb to do sth:不定式作宾语补足语,表示「邀请某人做某事」。",
+          "point": "invite sb to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+          "answer": "At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+          "note": "decide to do sth 表示「决定做某事」。",
+          "point": "decide to do"
+        }
+      ]
+    },
+    {
+      "text": "She may answer with a smile and emphasise that a careful citizen may criticise a policy yet still accept the system as a whole, and this is a salient point.",
+      "translation": "她可能会微笑着回答并强调:谨慎的公民可以批评一项政策,但仍应接受制度的整体,这是一个重要的观点。",
+      "chunks": [
+        {
+          "label": "主干一(主谓+状语)",
+          "color": "#a8dab5",
+          "text": "She may answer with a smile",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "She"
+            },
+            {
+              "role": "谓语",
+              "text": "may answer"
+            },
+            {
+              "role": "状语",
+              "text": "with a smile"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "emphasise",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "emphasise"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a careful citizen may criticise a policy yet still accept the system as a whole"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句(主系表)",
+          "color": "#a8dab5",
+          "text": "this is a salient point",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a salient point"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 emphasise 的宾语。"
+        },
+        {
+          "name": "yet 表示转折",
+          "note": "may criticise...yet still accept...:yet 连接两个并列谓语,表示「却仍…」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that a careful citizen may criticise a policy yet still accept the system as a whole",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that a careful citizen may criticise a policy yet still accept the system as a whole",
+          "name": "yet 表示转折"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):She may answer with a smile and emphasise that a careful citizen may criticise a policy yet still accept the system as a whole, and this is a salient point.",
+          "answer": "She may answer with a smile and emphasise that a careful citizen may criticise a policy yet still accept the system as a whole, and this is a salient point.",
+          "note": "that 引导宾语从句,作 emphasise 的宾语。",
+          "point": "宾语从句 that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):She may answer with a smile and emphasise that a careful citizen may criticise a policy yet still accept the system as a whole, and this is a salient point.",
+          "answer": "She may answer with a smile and emphasise that a careful citizen may criticise a policy yet still accept the system as a whole, and this is a salient point.",
+          "note": "may criticise...yet still accept...:yet 连接两个并列谓语,表示「却仍…」。",
+          "point": "yet 表示转折"
+        }
+      ]
+    },
+    {
+      "text": "Another student may ask whether a blog can make a difference, and she may answer that a blog can augment public discussion, though its reach may remain small.",
+      "translation": "另一个学生可能会问博客能否带来改变,她则回答说博客可以增进公共讨论,尽管其影响力可能仍然有限。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "Another student may ask",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Another student"
+            },
+            {
+              "role": "谓语",
+              "text": "may ask"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "whether a blog can make a difference"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "she may answer",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "she"
+            },
+            {
+              "role": "谓语",
+              "text": "may answer"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a blog can augment public discussion"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "though"
+        },
+        {
+          "label": "让步状语从句",
+          "color": "#c8a5e0",
+          "text": "its reach may remain small"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "whether 宾语从句",
+          "note": "whether 引导宾语从句,表示「是否」。"
+        },
+        {
+          "name": "though 让步状语从句",
+          "note": "though 引导让步状语从句,表示「尽管」。"
+        },
+        {
+          "name": "从句嵌套",
+          "note": "本句三个从句(whether 宾语从句、that 宾语从句、though 让步从句)分属两个主句,拆解时以 and 为界分开处理。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that a blog can augment public discussion",
+          "name": "whether 宾语从句"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that a blog can augment public discussion",
+          "name": "though 让步状语从句"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that a blog can augment public discussion",
+          "name": "从句嵌套"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Another student may ask whether a blog can make a difference, and she may answer that a blog can augment public discussion, though its reach may remain small.",
+          "answer": "Another student may ask whether a blog can make a difference, and she may answer that a blog can augment public discussion, though its reach may remain small.",
+          "note": "whether 引导宾语从句,表示「是否」。",
+          "point": "whether 宾语从句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Another student may ask whether a blog can make a difference, and she may answer that a blog can augment public discussion, though its reach may remain small.",
+          "answer": "Another student may ask whether a blog can make a difference, and she may answer that a blog can augment public discussion, though its reach may remain small.",
+          "note": "though 引导让步状语从句,表示「尽管」。",
+          "point": "though 让步状语从句"
+        }
+      ]
+    },
+    {
+      "text": "A third student may doze for a minute, yet he may still ask a sharp question about the future of the press.",
+      "translation": "第三个学生可能打了一分钟瞌睡,却仍能提出一个关于新闻业未来的尖锐问题。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "A third student may doze for a minute",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A third student"
+            },
+            {
+              "role": "谓语",
+              "text": "may doze"
+            },
+            {
+              "role": "时间状语",
+              "text": "for a minute"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "he may still ask a sharp question about the future of the press",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "he"
+            },
+            {
+              "role": "状语",
+              "text": "may still"
+            },
+            {
+              "role": "谓语",
+              "text": "ask"
+            },
+            {
+              "role": "宾语",
+              "text": "a sharp question about the future of the press"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 yet",
+          "note": "yet 连接两个分句,构成「虽然…却…」的对比。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "he may still ask a sharp question about the future of the press",
+          "name": "转折连词 yet"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A third student may doze for a minute, yet he may still ask a sharp question about the future of the press.",
+          "answer": "A third student may doze for a minute, yet he may still ask a sharp question about the future of the press.",
+          "note": "yet 连接两个分句,构成「虽然…却…」的对比。",
+          "point": "转折连词 yet"
+        }
+      ]
+    },
+    {
+      "text": "Her reply is concise: an expert practitioner may rely on instinct, but a young reporter should verify every fact.",
+      "translation": "她的回答很简洁:资深的从业者可以依靠直觉,但年轻的记者应当核实每一个事实。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "Her reply is concise",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Her reply"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "concise"
+            }
+          ]
+        },
+        {
+          "label": "解释说明一",
+          "color": "#9fd8e8",
+          "text": "an expert practitioner may rely on instinct",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "an expert practitioner"
+            },
+            {
+              "role": "谓语",
+              "text": "may rely on"
+            },
+            {
+              "role": "宾语",
+              "text": "instinct"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "解释说明二",
+          "color": "#9fd8e8",
+          "text": "a young reporter should verify every fact",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a young reporter"
+            },
+            {
+              "role": "谓语",
+              "text": "should verify"
+            },
+            {
+              "role": "宾语",
+              "text": "every fact"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "rely on",
+          "note": "rely on 表示「依赖、依靠」。"
+        },
+        {
+          "name": "冒号解释说明",
+          "note": "冒号后的内容具体说明 concise 的含义。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "an expert practitioner may rely on instinct",
+          "name": "rely on"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "an expert practitioner may rely on instinct",
+          "name": "冒号解释说明"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her reply is concise: an expert practitioner may rely on instinct, but a young reporter should verify every fact.",
+          "answer": "Her reply is concise: an expert practitioner may rely on instinct, but a young reporter should verify every fact.",
+          "note": "rely on 表示「依赖、依靠」。",
+          "point": "rely on"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Her reply is concise: an expert practitioner may rely on instinct, but a young reporter should verify every fact.",
+          "answer": "Her reply is concise: an expert practitioner may rely on instinct, but a young reporter should verify every fact.",
+          "note": "冒号后的内容具体说明 concise 的含义。",
+          "point": "冒号解释说明"
+        }
+      ]
+    },
+    {
+      "text": "I realise that the whole session may serve as a model for my own defence, and I write every key point on my laptop.",
+      "translation": "我意识到整场问答环节可以作为我自己答辩的范例,于是我把每个要点都记在笔记本电脑上。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "I realise",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "realise"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that the whole session may serve as a model for my own defence"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I write every key point on my laptop",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "write"
+            },
+            {
+              "role": "宾语",
+              "text": "every key point"
+            },
+            {
+              "role": "状语",
+              "text": "on my laptop"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "宾语从句 that",
+          "note": "that 引导宾语从句,作 realise 的宾语。"
+        },
+        {
+          "name": "serve as",
+          "note": "serve as 表示「充当、作为」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that the whole session may serve as a model for my own defence",
+          "name": "宾语从句 that"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "that the whole session may serve as a model for my own defence",
+          "name": "serve as"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I realise that the whole session may serve as a model for my own defence, and I write every key point on my laptop.",
+          "answer": "I realise that the whole session may serve as a model for my own defence, and I write every key point on my laptop.",
+          "note": "that 引导宾语从句,作 realise 的宾语。",
+          "point": "宾语从句 that"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I realise that the whole session may serve as a model for my own defence, and I write every key point on my laptop.",
+          "answer": "I realise that the whole session may serve as a model for my own defence, and I write every key point on my laptop.",
+          "note": "serve as 表示「充当、作为」。",
+          "point": "serve as"
+        }
+      ]
+    },
+    {
+      "text": "The question of censorship, I now understand, is not a distant issue, for a writer may feel its weight in every sentence he may write.",
+      "translation": "我现在明白了,审查问题并非遥不可及的话题,因为作家在他可能写下的每一个句子里都能感受到它的分量。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The question of censorship",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The question of censorship"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "I now understand"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is not a distant issue",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "not a distant issue"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a writer may feel its weight in every sentence he may write",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a writer"
+            },
+            {
+              "role": "谓语",
+              "text": "may feel"
+            },
+            {
+              "role": "宾语",
+              "text": "its weight"
+            },
+            {
+              "role": "状语",
+              "text": "in every sentence"
+            },
+            {
+              "role": "定语从句",
+              "text": "he may write"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "插入语 I now understand",
+          "note": "插入语置于主语与谓语之间,不影响句子结构。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 是并列连词,补充说明理由。"
+        },
+        {
+          "name": "省略关系词的定语从句",
+          "note": "every sentence he may write 中,he 前省略了关系代词 that。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "a writer may feel its weight in every sentence he may write",
+          "name": "插入语 I now understand"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "a writer may feel its weight in every sentence he may write",
+          "name": "for 表示原因"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "a writer may feel its weight in every sentence he may write",
+          "name": "省略关系词的定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The question of censorship, I now understand, is not a distant issue, for a writer may feel its weight in every sentence he may write.",
+          "answer": "The question of censorship, I now understand, is not a distant issue, for a writer may feel its weight in every sentence he may write.",
+          "note": "插入语置于主语与谓语之间,不影响句子结构。",
+          "point": "插入语 I now understand"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The question of censorship, I now understand, is not a distant issue, for a writer may feel its weight in every sentence he may write.",
+          "answer": "The question of censorship, I now understand, is not a distant issue, for a writer may feel its weight in every sentence he may write.",
+          "note": "for 是并列连词,补充说明理由。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "The lecture may leave the audience in a turmoil of thought, and people may continue the discussion outside the hall.",
+      "translation": "讲座可能让听众陷入思绪的纷乱之中,人们在大厅外继续着讨论。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "The lecture may leave the audience in a turmoil of thought",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The lecture"
+            },
+            {
+              "role": "谓语",
+              "text": "may leave"
+            },
+            {
+              "role": "宾语",
+              "text": "the audience"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "in a turmoil of thought"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "people may continue the discussion outside the hall",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "people"
+            },
+            {
+              "role": "谓语",
+              "text": "may continue"
+            },
+            {
+              "role": "宾语",
+              "text": "the discussion"
+            },
+            {
+              "role": "状语",
+              "text": "outside the hall"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "leave + 宾语 + 宾补",
+          "note": "leave sb in a state 表示「使某人处于某种状态」,in a turmoil of thought 作宾补。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "The lecture may leave the audience in a turmoil of thought",
+          "name": "leave + 宾语 + 宾补"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The lecture may leave the audience in a turmoil of thought, and people may continue the discussion outside the hall.",
+          "answer": "The lecture may leave the audience in a turmoil of thought, and people may continue the discussion outside the hall.",
+          "note": "leave sb in a state 表示「使某人处于某种状态」,in a turmoil of thought 作宾补。",
+          "point": "leave + 宾语 + 宾补"
+        }
+      ]
+    },
+    {
+      "text": "On the way home, I open the encyclopaedia on my phone and check the evidence that she may quote.",
+      "translation": "回家的路上,我打开手机里的百科全书,核对她可能会引用的证据。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "On the way home"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I open the encyclopaedia on my phone",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "open"
+            },
+            {
+              "role": "宾语",
+              "text": "the encyclopaedia on my phone"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干一(并列谓语)",
+          "color": "#a8dab5",
+          "text": "check the evidence that she may quote",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "check"
+            },
+            {
+              "role": "宾语",
+              "text": "the evidence"
+            },
+            {
+              "role": "定语从句",
+              "text": "that she may quote"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "并列谓语",
+          "note": "open...and check... 两个谓语并列,共用一个主语 I。"
+        },
+        {
+          "name": "定语从句 that she may quote",
+          "note": "that 引导定语从句修饰 evidence,在从句中作 quote 的宾语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "check the evidence that she may quote",
+          "name": "并列谓语"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "check the evidence that she may quote",
+          "name": "定语从句 that she may quote"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):On the way home, I open the encyclopaedia on my phone and check the evidence that she may quote.",
+          "answer": "On the way home, I open the encyclopaedia on my phone and check the evidence that she may quote.",
+          "note": "open...and check... 两个谓语并列,共用一个主语 I。",
+          "point": "并列谓语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):On the way home, I open the encyclopaedia on my phone and check the evidence that she may quote.",
+          "answer": "On the way home, I open the encyclopaedia on my phone and check the evidence that she may quote.",
+          "note": "that 引导定语从句修饰 evidence,在从句中作 quote 的宾语。",
+          "point": "定语从句 that she may quote"
+        }
+      ]
+    },
+    {
+      "text": "The best way to learn, she might say, is to ask a good question, and I plan to rehearse a new question before every lecture I attend.",
+      "translation": "她也许会说,最好的学习方式是提出一个好问题,而我计划在我参加的每一场讲座前都排练一个新问题。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "The best way to learn",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The best way to learn"
+            }
+          ]
+        },
+        {
+          "label": "插入语",
+          "color": "#9fd8e8",
+          "text": "she might say"
+        },
+        {
+          "label": "主干(系表)",
+          "color": "#a8dab5",
+          "text": "is to ask a good question",
+          "parts": [
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语(不定式)",
+              "text": "to ask a good question"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I plan to rehearse a new question before every lecture I attend",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "plan"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to rehearse a new question"
+            },
+            {
+              "role": "时间状语",
+              "text": "before every lecture"
+            },
+            {
+              "role": "定语从句",
+              "text": "I attend"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作表语",
+          "note": "is to ask a good question:不定式作表语,说明 way 的内容。"
+        },
+        {
+          "name": "插入语 she might say",
+          "note": "插入语表示信息来源,去掉后主句结构依然完整。"
+        },
+        {
+          "name": "省略关系词的定语从句",
+          "note": "every lecture I attend 中省略了关系代词 that。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "I plan to rehearse a new question before every lecture I attend",
+          "name": "不定式作表语"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "I plan to rehearse a new question before every lecture I attend",
+          "name": "插入语 she might say"
+        },
+        {
+          "grammarId": "g-s4u4",
+          "phrase": "I plan to rehearse a new question before every lecture I attend",
+          "name": "省略关系词的定语从句"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The best way to learn, she might say, is to ask a good question, and I plan to rehearse a new question before every lecture I attend.",
+          "answer": "The best way to learn, she might say, is to ask a good question, and I plan to rehearse a new question before every lecture I attend.",
+          "note": "is to ask a good question:不定式作表语,说明 way 的内容。",
+          "point": "不定式作表语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The best way to learn, she might say, is to ask a good question, and I plan to rehearse a new question before every lecture I attend.",
+          "answer": "The best way to learn, she might say, is to ask a good question, and I plan to rehearse a new question before every lecture I attend.",
+          "note": "插入语表示信息来源,去掉后主句结构依然完整。",
+          "point": "插入语 she might say"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u4",
+      "name": "定语从句 who",
+      "note": "who 引导定语从句修饰 people,在从句中作主语。",
+      "sourceExample": "An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+      "sourceExampleCn": "一位杰出的学者可能会就媒体的审查制度发表讲座,大厅里坐满了对此话题抱有浓厚兴趣的年轻人。"
+    },
+    {
+      "grammarId": "g-s4u4",
+      "name": "be full of",
+      "note": "be full of 表示「充满…」。",
+      "sourceExample": "An eminent scholar may deliver a lecture on censorship in the media, and the hall is full of young people who take a keen interest in the topic.",
+      "sourceExampleCn": "一位杰出的学者可能会就媒体的审查制度发表讲座,大厅里坐满了对此话题抱有浓厚兴趣的年轻人。"
+    },
+    {
+      "grammarId": "g-s4u4",
+      "name": "how 宾语从句",
+      "note": "how 引导宾语从句,作 show 的宾语,表示「如何…」。",
+      "sourceExample": "Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+      "sourceExampleCn": "她的讲座可能涵盖各种类型的媒体,从报纸到博客,而每一个案例都能说明政府如何塑造新闻的流向。"
+    },
+    {
+      "grammarId": "g-s4u4",
+      "name": "插入语 from...to...",
+      "note": "from the newspaper to the blog 是插入语,举例说明媒体的范围。",
+      "sourceExample": "Her lecture may cover every genre of media, from the newspaper to the blog, and each case may show how a government can shape the flow of news.",
+      "sourceExampleCn": "她的讲座可能涵盖各种类型的媒体,从报纸到博客,而每一个案例都能说明政府如何塑造新闻的流向。"
+    },
+    {
+      "grammarId": "g-s4u4",
+      "name": "invite sb to do",
+      "note": "invite sb to do sth:不定式作宾语补足语,表示「邀请某人做某事」。",
+      "sourceExample": "At the end, the professor may invite us to ask a question, and I decide to raise one about the dependence of the press on official information.",
+      "sourceExampleCn": "最后,教授可能邀请我们提问,我决定提出一个关于新闻界对官方信息依赖程度的问题。"
+    }
+  ]
+}

@@ -1,0 +1,838 @@
+{
+  "id": "a-s2u2",
+  "stage": 2,
+  "unitId": "s2u2",
+  "title": "Life Experiences",
+  "newWords": [
+    "visited",
+    "cities",
+    "met",
+    "skills",
+    "traveled",
+    "countries",
+    "seen",
+    "places",
+    "tried",
+    "taken",
+    "photos",
+    "enormous",
+    "lived",
+    "made",
+    "genuine",
+    "friends",
+    "played",
+    "wanted",
+    "embrace",
+    "finished",
+    "enhanced",
+    "started",
+    "highlighted",
+    "fascinating",
+    "buildings"
+  ],
+  "sentences": [
+    {
+      "text": "I have visited many big cities, and I have met many interesting people in my life.",
+      "translation": "我去过许多大城市,一生中遇到过很多有趣的人。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have visited many big cities",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have visited"
+            },
+            {
+              "role": "宾语",
+              "text": "many big cities"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have met many interesting people",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have met"
+            },
+            {
+              "role": "宾语",
+              "text": "many interesting people"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "in my life"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时表经历",
+          "note": "have+过去分词(visited/met)表示过去的经历,强调对现在的影响:我现在知道这些城市和人了。"
+        },
+        {
+          "name": "many+复数名词",
+          "note": "many 修饰可数名词复数,如 many cities、many people。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have met many interesting people",
+          "name": "现在完成时表经历"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have met many interesting people",
+          "name": "many+复数名词"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have visited many big cities, and I have met many interesting people in my life.",
+          "answer": "I have visited many big cities, and I have met many interesting people in my life.",
+          "note": "have+过去分词(visited/met)表示过去的经历,强调对现在的影响:我现在知道这些城市和人了。",
+          "point": "现在完成时表经历"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have visited many big cities, and I have met many interesting people in my life.",
+          "answer": "I have visited many big cities, and I have met many interesting people in my life.",
+          "note": "many 修饰可数名词复数,如 many cities、many people。",
+          "point": "many+复数名词"
+        }
+      ]
+    },
+    {
+      "text": "I have learned many skills at work, and I have used them every day.",
+      "translation": "我在工作中学会了很多技能,并且每天都在使用它们。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have learned many skills",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have learned"
+            },
+            {
+              "role": "宾语",
+              "text": "many skills"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "at work"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have used them",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have used"
+            },
+            {
+              "role": "宾语",
+              "text": "them"
+            }
+          ]
+        },
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "every day"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时表示结果",
+          "note": "have learned 表示\"已经学会了\",结果一直延续到现在。"
+        },
+        {
+          "name": "at work 在工作",
+          "note": "at work 是介词短语,表示\"上班时、在工作岗位上\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have learned many skills",
+          "name": "现在完成时表示结果"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have learned many skills",
+          "name": "at work 在工作"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have learned many skills at work, and I have used them every day.",
+          "answer": "I have learned many skills at work, and I have used them every day.",
+          "note": "have learned 表示\"已经学会了\",结果一直延续到现在。",
+          "point": "现在完成时表示结果"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have learned many skills at work, and I have used them every day.",
+          "answer": "I have learned many skills at work, and I have used them every day.",
+          "note": "at work 是介词短语,表示\"上班时、在工作岗位上\"。",
+          "point": "at work 在工作"
+        }
+      ]
+    },
+    {
+      "text": "We have traveled to several countries, and we have seen many fascinating places.",
+      "translation": "我们去过好几个国家旅行,看到了许多迷人的地方。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We have traveled to several countries",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have traveled"
+            },
+            {
+              "role": "状语(介词短语)",
+              "text": "to several countries"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we have seen many fascinating places",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have seen"
+            },
+            {
+              "role": "宾语",
+              "text": "many fascinating places"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "travel to 去……旅行",
+          "note": "travel to+国家表示\"去某地旅行\",完成时表示\"已经去过\"。"
+        },
+        {
+          "name": "have seen 已经见过",
+          "note": "seen 是 see 的过去分词,现在完成时表示见过、经历过。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "We have traveled to several countries",
+          "name": "travel to 去……旅行"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "We have traveled to several countries",
+          "name": "have seen 已经见过"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have traveled to several countries, and we have seen many fascinating places.",
+          "answer": "We have traveled to several countries, and we have seen many fascinating places.",
+          "note": "travel to+国家表示\"去某地旅行\",完成时表示\"已经去过\"。",
+          "point": "travel to 去……旅行"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have traveled to several countries, and we have seen many fascinating places.",
+          "answer": "We have traveled to several countries, and we have seen many fascinating places.",
+          "note": "seen 是 see 的过去分词,现在完成时表示见过、经历过。",
+          "point": "have seen 已经见过"
+        }
+      ]
+    },
+    {
+      "text": "We have tried local food in every city, and we have taken many photos of the enormous buildings.",
+      "translation": "我们在每个城市都尝过当地美食,还拍了许多宏伟建筑的照片。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We have tried local food",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have tried"
+            },
+            {
+              "role": "宾语",
+              "text": "local food"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in every city"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we have taken many photos",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have taken"
+            },
+            {
+              "role": "宾语",
+              "text": "many photos"
+            }
+          ]
+        },
+        {
+          "label": "定语(介词短语)",
+          "color": "#f4a8b8",
+          "text": "of the enormous buildings"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时 take photos",
+          "note": "have taken 是 take 的完成形式,表示\"已经拍了\"。"
+        },
+        {
+          "name": "介词短语作定语",
+          "note": "of the enormous buildings 修饰 photos,表示\"关于/属于……的照片\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "we have taken many photos",
+          "name": "现在完成时 take photos"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "we have taken many photos",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have tried local food in every city, and we have taken many photos of the enormous buildings.",
+          "answer": "We have tried local food in every city, and we have taken many photos of the enormous buildings.",
+          "note": "have taken 是 take 的完成形式,表示\"已经拍了\"。",
+          "point": "现在完成时 take photos"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have tried local food in every city, and we have taken many photos of the enormous buildings.",
+          "answer": "We have tried local food in every city, and we have taken many photos of the enormous buildings.",
+          "note": "of the enormous buildings 修饰 photos,表示\"关于/属于……的照片\"。",
+          "point": "介词短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "We have lived in this neighborhood since 2015, and we have made many genuine friends.",
+      "translation": "我们从2015年起就住在这个社区,并交了许多真诚的朋友。",
+      "chunks": [
+        {
+          "label": "主干(主谓)",
+          "color": "#a8dab5",
+          "text": "We have lived",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have lived"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "in this neighborhood"
+        },
+        {
+          "label": "时间状语(since)",
+          "color": "#8ab4f8",
+          "text": "since 2015"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we have made many genuine friends",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have made"
+            },
+            {
+              "role": "宾语",
+              "text": "many genuine friends"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "since + 过去时间点",
+          "note": "since 2015 表示\"从2015年至今\",是现在完成时的标志词,与持续动词 have lived 连用。"
+        },
+        {
+          "name": "make friends 交朋友",
+          "note": "make friends 是固定搭配,完成时 have made 表示\"已经交到了\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "we have made many genuine friends",
+          "name": "since + 过去时间点"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "we have made many genuine friends",
+          "name": "make friends 交朋友"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have lived in this neighborhood since 2015, and we have made many genuine friends.",
+          "answer": "We have lived in this neighborhood since 2015, and we have made many genuine friends.",
+          "note": "since 2015 表示\"从2015年至今\",是现在完成时的标志词,与持续动词 have lived 连用。",
+          "point": "since + 过去时间点"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We have lived in this neighborhood since 2015, and we have made many genuine friends.",
+          "answer": "We have lived in this neighborhood since 2015, and we have made many genuine friends.",
+          "note": "make friends 是固定搭配,完成时 have made 表示\"已经交到了\"。",
+          "point": "make friends 交朋友"
+        }
+      ]
+    },
+    {
+      "text": "I have never played the guitar, but I have always wanted to learn it, and I will embrace this challenge.",
+      "translation": "我从未弹过吉他,但我一直想学,我将欣然接受这个挑战。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have never played the guitar",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have never played"
+            },
+            {
+              "role": "宾语",
+              "text": "the guitar"
+            }
+          ]
+        },
+        {
+          "label": "连词(转折)",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have always wanted to learn it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have always wanted"
+            },
+            {
+              "role": "宾语",
+              "text": "to learn it"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I will embrace this challenge",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "will embrace"
+            },
+            {
+              "role": "宾语",
+              "text": "this challenge"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "never / always 与完成时连用",
+          "note": "never(从未)和 always(一直)常与现在完成时连用,表示至今为止的经历。"
+        },
+        {
+          "name": "want to do 想要做",
+          "note": "want to learn 中不定式 to learn 作 want 的宾语。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have always wanted to learn it",
+          "name": "never / always 与完成时连用"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have always wanted to learn it",
+          "name": "want to do 想要做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have never played the guitar, but I have always wanted to learn it, and I will embrace this challenge.",
+          "answer": "I have never played the guitar, but I have always wanted to learn it, and I will embrace this challenge.",
+          "note": "never(从未)和 always(一直)常与现在完成时连用,表示至今为止的经历。",
+          "point": "never / always 与完成时连用"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have never played the guitar, but I have always wanted to learn it, and I will embrace this challenge.",
+          "answer": "I have never played the guitar, but I have always wanted to learn it, and I will embrace this challenge.",
+          "note": "want to learn 中不定式 to learn 作 want 的宾语。",
+          "point": "want to do 想要做"
+        }
+      ]
+    },
+    {
+      "text": "I have finished a difficult task alone, and I have enhanced my confidence.",
+      "translation": "我一个人完成了一项困难的任务,这增强了我的信心。",
+      "chunks": [
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have finished a difficult task",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have finished"
+            },
+            {
+              "role": "宾语",
+              "text": "a difficult task"
+            }
+          ]
+        },
+        {
+          "label": "补语(主语补足语)",
+          "color": "#9fd8e8",
+          "text": "alone"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have enhanced my confidence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have enhanced"
+            },
+            {
+              "role": "宾语",
+              "text": "my confidence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "现在完成时表已完成结果",
+          "note": "have finished 表示\"已经完成\",强调动作已经结束并对现在有意义。"
+        },
+        {
+          "name": "alone 作主语补语",
+          "note": "alone 说明主语的状态\"独自一人\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have finished a difficult task",
+          "name": "现在完成时表已完成结果"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have finished a difficult task",
+          "name": "alone 作主语补语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have finished a difficult task alone, and I have enhanced my confidence.",
+          "answer": "I have finished a difficult task alone, and I have enhanced my confidence.",
+          "note": "have finished 表示\"已经完成\",强调动作已经结束并对现在有意义。",
+          "point": "现在完成时表已完成结果"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I have finished a difficult task alone, and I have enhanced my confidence.",
+          "answer": "I have finished a difficult task alone, and I have enhanced my confidence.",
+          "note": "alone 说明主语的状态\"独自一人\"。",
+          "point": "alone 作主语补语"
+        }
+      ]
+    },
+    {
+      "text": "Recently, I have started to plan a long trip, and I have highlighted three cities on the map.",
+      "translation": "最近我开始计划一次长途旅行,并在地图上标出了三个城市。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Recently"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have started to plan a long trip",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have started"
+            },
+            {
+              "role": "宾语",
+              "text": "to plan a long trip"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I have highlighted three cities",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语(现在完成时)",
+              "text": "have highlighted"
+            },
+            {
+              "role": "宾语",
+              "text": "three cities"
+            }
+          ]
+        },
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "on the map"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "recently 与完成时连用",
+          "note": "recently(最近)常与现在完成时搭配,表示近期发生的动作。"
+        },
+        {
+          "name": "start to do 开始做",
+          "note": "start to plan 中不定式作宾语,表示\"开始计划\"。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have started to plan a long trip",
+          "name": "recently 与完成时连用"
+        },
+        {
+          "grammarId": "g-s2u2",
+          "phrase": "I have started to plan a long trip",
+          "name": "start to do 开始做"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Recently, I have started to plan a long trip, and I have highlighted three cities on the map.",
+          "answer": "Recently, I have started to plan a long trip, and I have highlighted three cities on the map.",
+          "note": "recently(最近)常与现在完成时搭配,表示近期发生的动作。",
+          "point": "recently 与完成时连用"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Recently, I have started to plan a long trip, and I have highlighted three cities on the map.",
+          "answer": "Recently, I have started to plan a long trip, and I have highlighted three cities on the map.",
+          "note": "start to plan 中不定式作宾语,表示\"开始计划\"。",
+          "point": "start to do 开始做"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s2u2",
+      "name": "现在完成时表经历",
+      "note": "have+过去分词(visited/met)表示过去的经历,强调对现在的影响:我现在知道这些城市和人了。",
+      "sourceExample": "I have visited many big cities, and I have met many interesting people in my life.",
+      "sourceExampleCn": "我去过许多大城市,一生中遇到过很多有趣的人。"
+    },
+    {
+      "grammarId": "g-s2u2",
+      "name": "many+复数名词",
+      "note": "many 修饰可数名词复数,如 many cities、many people。",
+      "sourceExample": "I have visited many big cities, and I have met many interesting people in my life.",
+      "sourceExampleCn": "我去过许多大城市,一生中遇到过很多有趣的人。"
+    },
+    {
+      "grammarId": "g-s2u2",
+      "name": "现在完成时表示结果",
+      "note": "have learned 表示\"已经学会了\",结果一直延续到现在。",
+      "sourceExample": "I have learned many skills at work, and I have used them every day.",
+      "sourceExampleCn": "我在工作中学会了很多技能,并且每天都在使用它们。"
+    },
+    {
+      "grammarId": "g-s2u2",
+      "name": "at work 在工作",
+      "note": "at work 是介词短语,表示\"上班时、在工作岗位上\"。",
+      "sourceExample": "I have learned many skills at work, and I have used them every day.",
+      "sourceExampleCn": "我在工作中学会了很多技能,并且每天都在使用它们。"
+    },
+    {
+      "grammarId": "g-s2u2",
+      "name": "travel to 去……旅行",
+      "note": "travel to+国家表示\"去某地旅行\",完成时表示\"已经去过\"。",
+      "sourceExample": "We have traveled to several countries, and we have seen many fascinating places.",
+      "sourceExampleCn": "我们去过好几个国家旅行,看到了许多迷人的地方。"
+    }
+  ]
+}

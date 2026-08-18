@@ -1,0 +1,48 @@
+{
+  "id": "l-s3u10",
+  "stage": 3,
+  "unitId": "s3u10",
+  "title": "听力挑战 · 日常事务处理",
+  "rate": 0.95,
+  "rounds": [
+    {
+      "speaker": "家人",
+      "line": "Could you pick up the dry cleaning on your way back?",
+      "lineCn": "你回来的路上能顺便取一下干洗的衣服吗?",
+      "grammar": [
+        { "name": "短语动词 pick up", "note": "pick up 表示'取、领取',也可表示'捡起'、'顺路捎带'。" }
+      ],
+      "options": [
+        { "text": "Sure, I will pick it up after work.", "correct": true, "feedback": "答应请求,并准确使用 pick up 的取物义。" },
+        { "text": "I dropped it off last Monday.", "correct": false, "feedback": "drop off 是'送去',与'取回'动作相反。" },
+        { "text": "The cleaning was done by the store.", "correct": false, "feedback": "被动句谈店里完成洗涤,没有答应取件。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Have you looked into the insurance plan for the car yet?",
+      "lineCn": "你调查过车的保险方案了吗?",
+      "grammar": [
+        { "name": "短语动词 look into", "note": "look into 表示'调查、了解',与 look up '查阅'不同。" }
+      ],
+      "options": [
+        { "text": "Not yet, but I will look into it tonight.", "correct": true, "feedback": "如实回应并承诺调查,look into 使用准确。" },
+        { "text": "I looked up the word in the dictionary.", "correct": false, "feedback": "look up 是'查词',与保险调查无关。" },
+        { "text": "The plan is fully covered already.", "correct": false, "feedback": "与'尚未调查'的现状矛盾。" }
+      ]
+    },
+    {
+      "speaker": "同事",
+      "line": "Can you put off the meeting to next Monday afternoon?",
+      "lineCn": "你能把会议推迟到下周一下午吗?",
+      "grammar": [
+        { "name": "短语动词 put off", "note": "put off 表示'推迟',相当于 postpone。" }
+      ],
+      "options": [
+        { "text": "Sure, I will call everyone and tell them.", "correct": true, "feedback": "答应推迟并安排通知,回应完整。" },
+        { "text": "I put on my coat and left.", "correct": false, "feedback": "put on 是'穿上',与推迟会议无关。" },
+        { "text": "The meeting starts right now.", "correct": false, "feedback": "与推迟会议的要求直接矛盾。" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1333 @@
+{
+  "id": "a-s4u5",
+  "stage": 4,
+  "unitId": "s4u5",
+  "title": "Our Translation Practice",
+  "newWords": [
+    "amiable",
+    "judgment",
+    "ethic",
+    "civilisation",
+    "redeem",
+    "summarise",
+    "underlie",
+    "endorse",
+    "humiliate",
+    "genetics",
+    "credentials",
+    "administer",
+    "zeal",
+    "thrift",
+    "dynamical",
+    "embryo"
+  ],
+  "sentences": [
+    {
+      "text": "In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+      "translation": "在我们的翻译小组里,我们每周四碰面,比较我们对同一文本的不同译本,而每个成员都可以解释每个短语背后的取舍。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In our translation group"
+        },
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "we meet every Thursday to compare our version of the same text",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "meet"
+            },
+            {
+              "role": "时间状语",
+              "text": "every Thursday"
+            },
+            {
+              "role": "目的状语(不定式)",
+              "text": "to compare our version of the same text"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "each member may explain the choice behind every phrase",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "each member"
+            },
+            {
+              "role": "谓语",
+              "text": "may explain"
+            },
+            {
+              "role": "宾语",
+              "text": "the choice behind every phrase"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作目的状语",
+          "note": "to compare our version of the same text 说明每周见面的目的。"
+        },
+        {
+          "name": "介词短语作定语",
+          "note": "behind every phrase 修饰 choice,相当于 the choice that lies behind every phrase。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "we meet every Thursday to compare our version of the same text",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "we meet every Thursday to compare our version of the same text",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+          "answer": "In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+          "note": "to compare our version of the same text 说明每周见面的目的。",
+          "point": "不定式作目的状语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+          "answer": "In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+          "note": "behind every phrase 修饰 choice,相当于 the choice that lies behind every phrase。",
+          "point": "介词短语作定语"
+        }
+      ]
+    },
+    {
+      "text": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+      "translation": "我的搭档是一位和蔼而耐心的读者,他也许会指出:逐字翻译在中文里可能显得生硬,句子的神韵比其形式更重要。",
+      "chunks": [
+        {
+          "label": "主干(主语)",
+          "color": "#a8dab5",
+          "text": "My partner",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My partner"
+            }
+          ]
+        },
+        {
+          "label": "非限制性定语从句",
+          "color": "#c8a5e0",
+          "text": "who is an amiable and patient reader"
+        },
+        {
+          "label": "主干(谓语)",
+          "color": "#a8dab5",
+          "text": "may point out",
+          "parts": [
+            {
+              "role": "谓语",
+              "text": "may point out"
+            }
+          ]
+        },
+        {
+          "label": "宾语从句一",
+          "color": "#c8a5e0",
+          "text": "that a word-for-word translation may sound stiff in Chinese"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "宾语从句二",
+          "color": "#c8a5e0",
+          "text": "the spirit of the sentence may matter more than its form"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "非限制性定语从句 who",
+          "note": "who 引导非限制性定语从句,补充说明 partner 的性格。"
+        },
+        {
+          "name": "that 宾语从句(并列)",
+          "note": "两个 that 引导的宾语从句由 and 连接,共同作 point out 的宾语。"
+        },
+        {
+          "name": "英译汉技巧",
+          "note": "word-for-word 逐字死译易生硬,应追求 spirit 与 form 的统一,是本单元翻译技巧的核心话题。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "that a word-for-word translation may sound stiff in Chinese",
+          "name": "非限制性定语从句 who"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "that a word-for-word translation may sound stiff in Chinese",
+          "name": "that 宾语从句(并列)"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "that a word-for-word translation may sound stiff in Chinese",
+          "name": "英译汉技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+          "answer": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+          "note": "who 引导非限制性定语从句,补充说明 partner 的性格。",
+          "point": "非限制性定语从句 who"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+          "answer": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+          "note": "两个 that 引导的宾语从句由 and 连接,共同作 point out 的宾语。",
+          "point": "that 宾语从句(并列)"
+        }
+      ]
+    },
+    {
+      "text": "We often disagree, yet the debate may not hurt our friendship, for a translator must defend his judgment with evidence.",
+      "translation": "我们经常意见不一,但争论不会伤害我们的友谊,因为译者必须用证据来捍卫自己的判断。",
+      "chunks": [
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "We often disagree",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "状语",
+              "text": "often"
+            },
+            {
+              "role": "谓语",
+              "text": "disagree"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the debate may not hurt our friendship",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the debate"
+            },
+            {
+              "role": "谓语",
+              "text": "may not hurt"
+            },
+            {
+              "role": "宾语",
+              "text": "our friendship"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a translator must defend his judgment with evidence",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a translator"
+            },
+            {
+              "role": "谓语",
+              "text": "must defend"
+            },
+            {
+              "role": "宾语",
+              "text": "his judgment"
+            },
+            {
+              "role": "状语",
+              "text": "with evidence"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "转折连词 yet",
+          "note": "yet 连接两个分句,表示「然而」。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明争论无伤友谊的原因。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "a translator must defend his judgment with evidence",
+          "name": "转折连词 yet"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "a translator must defend his judgment with evidence",
+          "name": "for 表示原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We often disagree, yet the debate may not hurt our friendship, for a translator must defend his judgment with evidence.",
+          "answer": "We often disagree, yet the debate may not hurt our friendship, for a translator must defend his judgment with evidence.",
+          "note": "yet 连接两个分句,表示「然而」。",
+          "point": "转折连词 yet"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We often disagree, yet the debate may not hurt our friendship, for a translator must defend his judgment with evidence.",
+          "answer": "We often disagree, yet the debate may not hurt our friendship, for a translator must defend his judgment with evidence.",
+          "note": "for 补充说明争论无伤友谊的原因。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "The ethic of the translator is simple: be faithful to the author and honest to the reader, and never change the meaning to please a client.",
+      "translation": "译者的职业操守很简单:对作者忠实,对读者诚实,绝不为取悦客户而改变原意。",
+      "chunks": [
+        {
+          "label": "主干(主系表)",
+          "color": "#a8dab5",
+          "text": "The ethic of the translator is simple",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "The ethic of the translator"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "simple"
+            }
+          ]
+        },
+        {
+          "label": "解释说明(祈使句)一",
+          "color": "#9fd8e8",
+          "text": "be faithful to the author and honest to the reader"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "解释说明(祈使句)二",
+          "color": "#9fd8e8",
+          "text": "never change the meaning to please a client"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "祈使句",
+          "note": "be faithful...和 never change... 都是祈使句,直接提出要求。"
+        },
+        {
+          "name": "不定式作目的状语",
+          "note": "to please a client 表示改变原意的目的。"
+        },
+        {
+          "name": "英译汉技巧",
+          "note": "忠实(faithfulness)与通顺是翻译的双重标准,不能为讨好客户而牺牲原意。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "be faithful to the author and honest to the reader",
+          "name": "祈使句"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "be faithful to the author and honest to the reader",
+          "name": "不定式作目的状语"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "be faithful to the author and honest to the reader",
+          "name": "英译汉技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The ethic of the translator is simple: be faithful to the author and honest to the reader, and never change the meaning to please a client.",
+          "answer": "The ethic of the translator is simple: be faithful to the author and honest to the reader, and never change the meaning to please a client.",
+          "note": "be faithful...和 never change... 都是祈使句,直接提出要求。",
+          "point": "祈使句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):The ethic of the translator is simple: be faithful to the author and honest to the reader, and never change the meaning to please a client.",
+          "answer": "The ethic of the translator is simple: be faithful to the author and honest to the reader, and never change the meaning to please a client.",
+          "note": "to please a client 表示改变原意的目的。",
+          "point": "不定式作目的状语"
+        }
+      ]
+    },
+    {
+      "text": "Sometimes a single word may carry the weight of a whole civilisation, and the translator may need to redeem a difficult term with a short note.",
+      "translation": "有时一个词就能承载整个文明的分量,译者也许需要用一条简短注释来挽救一个难译的术语。",
+      "chunks": [
+        {
+          "label": "时间状语",
+          "color": "#8ab4f8",
+          "text": "Sometimes"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a single word may carry the weight of a whole civilisation",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a single word"
+            },
+            {
+              "role": "谓语",
+              "text": "may carry"
+            },
+            {
+              "role": "宾语",
+              "text": "the weight of a whole civilisation"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the translator may need to redeem a difficult term with a short note",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the translator"
+            },
+            {
+              "role": "谓语",
+              "text": "may need"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to redeem a difficult term"
+            },
+            {
+              "role": "状语",
+              "text": "with a short note"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "need to do",
+          "note": "need to do sth 表示「需要做某事」。"
+        },
+        {
+          "name": "英译汉技巧",
+          "note": "文化负载词难以直译时,可用加注(short note)的方法补偿意义,这是常见的翻译补偿策略。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "the translator may need to redeem a difficult term with a short note",
+          "name": "need to do"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "the translator may need to redeem a difficult term with a short note",
+          "name": "英译汉技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes a single word may carry the weight of a whole civilisation, and the translator may need to redeem a difficult term with a short note.",
+          "answer": "Sometimes a single word may carry the weight of a whole civilisation, and the translator may need to redeem a difficult term with a short note.",
+          "note": "need to do sth 表示「需要做某事」。",
+          "point": "need to do"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Sometimes a single word may carry the weight of a whole civilisation, and the translator may need to redeem a difficult term with a short note.",
+          "answer": "Sometimes a single word may carry the weight of a whole civilisation, and the translator may need to redeem a difficult term with a short note.",
+          "note": "文化负载词难以直译时,可用加注(short note)的方法补偿意义,这是常见的翻译补偿策略。",
+          "point": "英译汉技巧"
+        }
+      ]
+    },
+    {
+      "text": "I learn to summarise the main idea of each paragraph before I translate it, because a logic may underlie the surface of the text, and this logic is more important than the exact word.",
+      "translation": "我学会在翻译前先概括每段的主旨,因为文本表面之下可能潜藏着逻辑,而这种逻辑比精确的用词更重要。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "I learn to summarise the main idea of each paragraph",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "I"
+            },
+            {
+              "role": "谓语",
+              "text": "learn"
+            },
+            {
+              "role": "宾语(不定式)",
+              "text": "to summarise the main idea of each paragraph"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before I translate it"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "because"
+        },
+        {
+          "label": "原因状语从句一",
+          "color": "#c8a5e0",
+          "text": "a logic may underlie the surface of the text"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "原因状语从句二",
+          "color": "#c8a5e0",
+          "text": "this logic is more important than the exact word"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语从句 before",
+          "note": "before 引导时间状语从句,说明概括发生在翻译之前。"
+        },
+        {
+          "name": "because 原因状语从句",
+          "note": "because 引导原因状语从句,说明先概括的原因。"
+        },
+        {
+          "name": "英译汉技巧",
+          "note": "翻译前先把握深层逻辑(underlying logic),比纠结个别词更重要。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "I learn to summarise the main idea of each paragraph",
+          "name": "时间状语从句 before"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "I learn to summarise the main idea of each paragraph",
+          "name": "because 原因状语从句"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "I learn to summarise the main idea of each paragraph",
+          "name": "英译汉技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I learn to summarise the main idea of each paragraph before I translate it, because a logic may underlie the surface of the text, and this logic is more important than the exact word.",
+          "answer": "I learn to summarise the main idea of each paragraph before I translate it, because a logic may underlie the surface of the text, and this logic is more important than the exact word.",
+          "note": "before 引导时间状语从句,说明概括发生在翻译之前。",
+          "point": "时间状语从句 before"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):I learn to summarise the main idea of each paragraph before I translate it, because a logic may underlie the surface of the text, and this logic is more important than the exact word.",
+          "answer": "I learn to summarise the main idea of each paragraph before I translate it, because a logic may underlie the surface of the text, and this logic is more important than the exact word.",
+          "note": "because 引导原因状语从句,说明先概括的原因。",
+          "point": "because 原因状语从句"
+        }
+      ]
+    },
+    {
+      "text": "My teacher may endorse the method to translate a passage twice: first for accuracy, then for style, and the second version is often the better one.",
+      "translation": "我的老师也许会赞成把一篇文章翻译两遍的方法:第一遍求准确,第二遍求风格,而第二个版本往往更好。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "My teacher may endorse the method to translate a passage twice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "My teacher"
+            },
+            {
+              "role": "谓语",
+              "text": "may endorse"
+            },
+            {
+              "role": "宾语",
+              "text": "the method"
+            },
+            {
+              "role": "定语(不定式)",
+              "text": "to translate a passage twice"
+            }
+          ]
+        },
+        {
+          "label": "解释说明",
+          "color": "#9fd8e8",
+          "text": "first for accuracy, then for style"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the second version is often the better one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the second version"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "often the better one"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "不定式作定语",
+          "note": "to translate a passage twice 修饰 method,相当于 the method of translating...。"
+        },
+        {
+          "name": "英译汉技巧",
+          "note": "两遍翻译法:第一遍保证准确,第二遍润色语言,是提高译文质量的常用技巧。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "My teacher may endorse the method to translate a passage twice",
+          "name": "不定式作定语"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "My teacher may endorse the method to translate a passage twice",
+          "name": "英译汉技巧"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My teacher may endorse the method to translate a passage twice: first for accuracy, then for style, and the second version is often the better one.",
+          "answer": "My teacher may endorse the method to translate a passage twice: first for accuracy, then for style, and the second version is often the better one.",
+          "note": "to translate a passage twice 修饰 method,相当于 the method of translating...。",
+          "point": "不定式作定语"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):My teacher may endorse the method to translate a passage twice: first for accuracy, then for style, and the second version is often the better one.",
+          "answer": "My teacher may endorse the method to translate a passage twice: first for accuracy, then for style, and the second version is often the better one.",
+          "note": "两遍翻译法:第一遍保证准确,第二遍润色语言,是提高译文质量的常用技巧。",
+          "point": "英译汉技巧"
+        }
+      ]
+    },
+    {
+      "text": "If the reader can feel that a passage is a translation, the translator may still need practice, and this test is a sharp one.",
+      "translation": "如果读者能感觉到某篇文章是译作,那么译者可能还需要练习,而这个检验标准是尖锐的。",
+      "chunks": [
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "If"
+        },
+        {
+          "label": "条件从句(主谓)",
+          "color": "#c8a5e0",
+          "text": "the reader can feel"
+        },
+        {
+          "label": "宾语从句",
+          "color": "#c8a5e0",
+          "text": "that a passage is a translation"
+        },
+        {
+          "label": "主干(主谓宾)",
+          "color": "#a8dab5",
+          "text": "the translator may still need practice",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the translator"
+            },
+            {
+              "role": "谓语",
+              "text": "may still need"
+            },
+            {
+              "role": "宾语",
+              "text": "practice"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "并列句(主系表)",
+          "color": "#a8dab5",
+          "text": "this test is a sharp one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "this test"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a sharp one"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "if 条件句",
+          "note": "if 引导条件状语从句,主句说明结果。"
+        },
+        {
+          "name": "从句嵌套",
+          "note": "条件从句内部又含 that 宾语从句:if the reader can feel that...。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "the translator may still need practice",
+          "name": "if 条件句"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "the translator may still need practice",
+          "name": "从句嵌套"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the reader can feel that a passage is a translation, the translator may still need practice, and this test is a sharp one.",
+          "answer": "If the reader can feel that a passage is a translation, the translator may still need practice, and this test is a sharp one.",
+          "note": "if 引导条件状语从句,主句说明结果。",
+          "point": "if 条件句"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):If the reader can feel that a passage is a translation, the translator may still need practice, and this test is a sharp one.",
+          "answer": "If the reader can feel that a passage is a translation, the translator may still need practice, and this test is a sharp one.",
+          "note": "条件从句内部又含 that 宾语从句:if the reader can feel that...。",
+          "point": "从句嵌套"
+        }
+      ]
+    },
+    {
+      "text": "In our group, we may never humiliate a partner, for we treat every correction as a gift.",
+      "translation": "在我们小组里,我们绝不会羞辱搭档,因为我们把每一条修改意见都当作礼物。",
+      "chunks": [
+        {
+          "label": "地点状语",
+          "color": "#8ab4f8",
+          "text": "In our group"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may never humiliate a partner",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may never humiliate"
+            },
+            {
+              "role": "宾语",
+              "text": "a partner"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "for"
+        },
+        {
+          "label": "并列句(主谓宾+宾补)",
+          "color": "#a8dab5",
+          "text": "we treat every correction as a gift",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "treat"
+            },
+            {
+              "role": "宾语",
+              "text": "every correction"
+            },
+            {
+              "role": "宾语补足语",
+              "text": "as a gift"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "treat A as B",
+          "note": "treat A as B 表示「把 A 当作 B」,as B 作宾语补足语。"
+        },
+        {
+          "name": "for 表示原因",
+          "note": "for 补充说明为什么不羞辱搭档。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "we treat every correction as a gift",
+          "name": "treat A as B"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "we treat every correction as a gift",
+          "name": "for 表示原因"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our group, we may never humiliate a partner, for we treat every correction as a gift.",
+          "answer": "In our group, we may never humiliate a partner, for we treat every correction as a gift.",
+          "note": "treat A as B 表示「把 A 当作 B」,as B 作宾语补足语。",
+          "point": "treat A as B"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):In our group, we may never humiliate a partner, for we treat every correction as a gift.",
+          "answer": "In our group, we may never humiliate a partner, for we treat every correction as a gift.",
+          "note": "for 补充说明为什么不羞辱搭档。",
+          "point": "for 表示原因"
+        }
+      ]
+    },
+    {
+      "text": "A passage on genetics may require extra care, and we may consult a scientific dictionary before we decide on a term; a translator with proper credentials may find more work, but a certificate alone can not guarantee good taste.",
+      "translation": "关于遗传学的文章可能需要格外小心,而在确定术语之前,我们可能会查阅科学词典。; 拥有正规资质的译者可能找到更多工作,但光有证书并不能保证译文品味。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A passage on genetics may require extra care",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A passage on genetics"
+            },
+            {
+              "role": "谓语",
+              "text": "may require"
+            },
+            {
+              "role": "宾语",
+              "text": "extra care"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "we may consult a scientific dictionary",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "we"
+            },
+            {
+              "role": "谓语",
+              "text": "may consult"
+            },
+            {
+              "role": "宾语",
+              "text": "a scientific dictionary"
+            }
+          ]
+        },
+        {
+          "label": "时间状语从句",
+          "color": "#c8a5e0",
+          "text": "before we decide on a term"
+        },
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "A translator with proper credentials may find more work",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "A translator"
+            },
+            {
+              "role": "定语(介词短语)",
+              "text": "with proper credentials"
+            },
+            {
+              "role": "谓语",
+              "text": "may find"
+            },
+            {
+              "role": "宾语",
+              "text": "more work"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "but"
+        },
+        {
+          "label": "主干二(主谓宾)",
+          "color": "#a8dab5",
+          "text": "a certificate alone can not guarantee good taste",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "a certificate alone"
+            },
+            {
+              "role": "谓语",
+              "text": "can not guarantee"
+            },
+            {
+              "role": "宾语",
+              "text": "good taste"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "时间状语从句 before",
+          "note": "before 引导时间状语从句,说明查词典的时机。"
+        },
+        {
+          "name": "decide on",
+          "note": "decide on sth 表示「就…作出决定」。"
+        },
+        {
+          "name": "介词短语作定语",
+          "note": "with proper credentials 修饰 translator,相当于一个定语从句。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "A translator with proper credentials may find more work",
+          "name": "时间状语从句 before"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "A translator with proper credentials may find more work",
+          "name": "decide on"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "A translator with proper credentials may find more work",
+          "name": "介词短语作定语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on genetics may require extra care, and we may consult a scientific dictionary before we decide on a term; a translator with proper credentials may find more work, but a certificate alone can not guarantee good taste.",
+          "answer": "A passage on genetics may require extra care, and we may consult a scientific dictionary before we decide on a term; a translator with proper credentials may find more work, but a certificate alone can not guarantee good taste.",
+          "note": "before 引导时间状语从句,说明查词典的时机。",
+          "point": "时间状语从句 before"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):A passage on genetics may require extra care, and we may consult a scientific dictionary before we decide on a term; a translator with proper credentials may find more work, but a certificate alone can not guarantee good taste.",
+          "answer": "A passage on genetics may require extra care, and we may consult a scientific dictionary before we decide on a term; a translator with proper credentials may find more work, but a certificate alone can not guarantee good taste.",
+          "note": "decide on sth 表示「就…作出决定」。",
+          "point": "decide on"
+        }
+      ]
+    },
+    {
+      "text": "We may administer a small exam to our group once a month, and the score is less important than the discussion after it; we may work with great zeal on a hard paragraph, yet the final rule of our group is simple: practise thrift in expression, and when in doubt, choose the expression that is clear.",
+      "translation": "我们可能每月给小组组织一次小测验,而分数不如测验后的讨论重要。; 我们可能满怀热情地攻克一个难译的段落,但我们小组的最终原则很简单:表达要节俭,拿不准时,就选择清晰的表达。",
+      "chunks": [
+        {
+          "label": "主干一(主谓宾)",
+          "color": "#a8dab5",
+          "text": "We may administer a small exam to our group once a month",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may administer"
+            },
+            {
+              "role": "宾语",
+              "text": "a small exam"
+            },
+            {
+              "role": "状语",
+              "text": "to our group"
+            },
+            {
+              "role": "时间状语",
+              "text": "once a month"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the score is less important than the discussion after it",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the score"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "less important than the discussion after it"
+            }
+          ]
+        },
+        {
+          "label": "主干一(主谓)",
+          "color": "#a8dab5",
+          "text": "We may work with great zeal on a hard paragraph",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "We"
+            },
+            {
+              "role": "谓语",
+              "text": "may work"
+            },
+            {
+              "role": "状语",
+              "text": "with great zeal"
+            },
+            {
+              "role": "状语",
+              "text": "on a hard paragraph"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "yet"
+        },
+        {
+          "label": "主干二(主系表)",
+          "color": "#a8dab5",
+          "text": "the final rule of our group is simple",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "the final rule of our group"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "simple"
+            }
+          ]
+        },
+        {
+          "label": "解释说明(祈使句)",
+          "color": "#9fd8e8",
+          "text": "practise thrift in expression"
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "条件状语(省略句)",
+          "color": "#8ab4f8",
+          "text": "when in doubt"
+        },
+        {
+          "label": "解释说明(祈使句)二",
+          "color": "#9fd8e8",
+          "text": "choose the expression that is clear"
+        }
+      ],
+      "grammar": [
+        {
+          "name": "比较级 less...than",
+          "note": "less important than 表示「不如…重要」。"
+        },
+        {
+          "name": "频率状语 once a month",
+          "note": "once a month 表示「每月一次」。"
+        },
+        {
+          "name": "省略句 when in doubt",
+          "note": "when in doubt 是 when you are in doubt 的省略,省略了主语和 be 动词。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "We may administer a small exam to our group once a month",
+          "name": "比较级 less...than"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "We may administer a small exam to our group once a month",
+          "name": "频率状语 once a month"
+        },
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "We may administer a small exam to our group once a month",
+          "name": "省略句 when in doubt"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may administer a small exam to our group once a month, and the score is less important than the discussion after it; we may work with great zeal on a hard paragraph, yet the final rule of our group is simple: practise thrift in expression, and when in doubt, choose the expression that is clear.",
+          "answer": "We may administer a small exam to our group once a month, and the score is less important than the discussion after it; we may work with great zeal on a hard paragraph, yet the final rule of our group is simple: practise thrift in expression, and when in doubt, choose the expression that is clear.",
+          "note": "less important than 表示「不如…重要」。",
+          "point": "比较级 less...than"
+        },
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):We may administer a small exam to our group once a month, and the score is less important than the discussion after it; we may work with great zeal on a hard paragraph, yet the final rule of our group is simple: practise thrift in expression, and when in doubt, choose the expression that is clear.",
+          "answer": "We may administer a small exam to our group once a month, and the score is less important than the discussion after it; we may work with great zeal on a hard paragraph, yet the final rule of our group is simple: practise thrift in expression, and when in doubt, choose the expression that is clear.",
+          "note": "once a month 表示「每月一次」。",
+          "point": "频率状语 once a month"
+        }
+      ]
+    },
+    {
+      "text": "Translation is a dynamical process, and every version may begin as the embryo of a better one.",
+      "translation": "翻译是一个动态的过程,每一个译本都可能是更好译本的雏形。",
+      "chunks": [
+        {
+          "label": "主干一(主系表)",
+          "color": "#a8dab5",
+          "text": "Translation is a dynamical process",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "Translation"
+            },
+            {
+              "role": "谓语(系动词)",
+              "text": "is"
+            },
+            {
+              "role": "表语",
+              "text": "a dynamical process"
+            }
+          ]
+        },
+        {
+          "label": "连词",
+          "color": "#f6c177",
+          "text": "and"
+        },
+        {
+          "label": "主干二(主谓)",
+          "color": "#a8dab5",
+          "text": "every version may begin as the embryo of a better one",
+          "parts": [
+            {
+              "role": "主语",
+              "text": "every version"
+            },
+            {
+              "role": "谓语",
+              "text": "may begin"
+            },
+            {
+              "role": "状语",
+              "text": "as the embryo of a better one"
+            }
+          ]
+        }
+      ],
+      "grammar": [
+        {
+          "name": "as 介词短语作状语",
+          "note": "as the embryo of a better one 表示「作为更好译本的雏形」。"
+        }
+      ],
+      "grammarTags": [
+        {
+          "grammarId": "g-s4u5",
+          "phrase": "every version may begin as the embryo of a better one",
+          "name": "as 介词短语作状语"
+        }
+      ],
+      "exercises": [
+        {
+          "type": "rewrite",
+          "prompt": "仿写本句(替换主语或表语):Translation is a dynamical process, and every version may begin as the embryo of a better one.",
+          "answer": "Translation is a dynamical process, and every version may begin as the embryo of a better one.",
+          "note": "as the embryo of a better one 表示「作为更好译本的雏形」。",
+          "point": "as 介词短语作状语"
+        }
+      ]
+    }
+  ],
+  "lessonGrammar": [
+    {
+      "grammarId": "g-s4u5",
+      "name": "不定式作目的状语",
+      "note": "to compare our version of the same text 说明每周见面的目的。",
+      "sourceExample": "In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+      "sourceExampleCn": "在我们的翻译小组里,我们每周四碰面,比较我们对同一文本的不同译本,而每个成员都可以解释每个短语背后的取舍。"
+    },
+    {
+      "grammarId": "g-s4u5",
+      "name": "介词短语作定语",
+      "note": "behind every phrase 修饰 choice,相当于 the choice that lies behind every phrase。",
+      "sourceExample": "In our translation group, we meet every Thursday to compare our version of the same text, and each member may explain the choice behind every phrase.",
+      "sourceExampleCn": "在我们的翻译小组里,我们每周四碰面,比较我们对同一文本的不同译本,而每个成员都可以解释每个短语背后的取舍。"
+    },
+    {
+      "grammarId": "g-s4u5",
+      "name": "非限制性定语从句 who",
+      "note": "who 引导非限制性定语从句,补充说明 partner 的性格。",
+      "sourceExample": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+      "sourceExampleCn": "我的搭档是一位和蔼而耐心的读者,他也许会指出:逐字翻译在中文里可能显得生硬,句子的神韵比其形式更重要。"
+    },
+    {
+      "grammarId": "g-s4u5",
+      "name": "that 宾语从句(并列)",
+      "note": "两个 that 引导的宾语从句由 and 连接,共同作 point out 的宾语。",
+      "sourceExample": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+      "sourceExampleCn": "我的搭档是一位和蔼而耐心的读者,他也许会指出:逐字翻译在中文里可能显得生硬,句子的神韵比其形式更重要。"
+    },
+    {
+      "grammarId": "g-s4u5",
+      "name": "英译汉技巧",
+      "note": "word-for-word 逐字死译易生硬,应追求 spirit 与 form 的统一,是本单元翻译技巧的核心话题。",
+      "sourceExample": "My partner, who is an amiable and patient reader, may point out that a word-for-word translation may sound stiff in Chinese, and the spirit of the sentence may matter more than its form.",
+      "sourceExampleCn": "我的搭档是一位和蔼而耐心的读者,他也许会指出:逐字翻译在中文里可能显得生硬,句子的神韵比其形式更重要。"
+    }
+  ]
+}

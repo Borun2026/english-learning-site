@@ -1,0 +1,50 @@
+{
+  "id": "d-s2u9",
+  "stage": 2,
+  "unitId": "s2u9",
+  "scene": "猜测包裹去向",
+  "goal": "和快递员沟通找到包裹",
+  "start": "n1",
+  "nodes": {
+    "n1": { "id": "n1", "speaker": "快递员 Courier", "line": "Hi, I am from Express Plus. I am sorry, but we cannot find your package. Where could it be?",
+      "lineCn": "您好,我是速达快递的。很抱歉,我们找不到您的包裹了。它可能在哪儿呢?", "grammar": [ { "name": "情态动词推测 where could it be", "note": "could 表推测,语气较弱,表示\"有可能在哪儿\"。" } ],
+      "options": [
+        { "text": "It might have been left at the front desk yesterday. Could you check there first?", "textCn": "它可能昨天被放在前台了,您能先查查那儿吗?", "feedback": "用 might have been 推测过去,还给出排查方向。", "next": "n2" },
+        { "text": "It must be there!", "textCn": "它一定在那儿!", "feedback": "语气太肯定却没有依据,反而堵死线索。", "next": "n3" },
+        { "text": "I do not know where.", "textCn": "我不知道在哪儿。", "feedback": "不提供任何线索,快递员无从查起。", "next": "n3" }
+      ] },
+    "n2": { "id": "n2", "speaker": "快递员 Courier", "line": "We checked the front desk, but there is nothing there. Hmm, it could have been signed for by someone else. Did you get any notice?",
+      "lineCn": "我们查了前台,但那里没有。嗯,它可能被其他人签收了。您收到过什么通知吗?", "grammar": [ { "name": "could have been 推测过去", "note": "could have + 过去分词,推测过去可能已经发生的动作。" } ],
+      "options": [
+        { "text": "Wait, it might be in the locker at the west gate. I often pick packages up there. Can you check that locker?", "textCn": "等等,它可能在西门的快递柜里。我经常在那儿取件。您能查查那个柜子吗?", "feedback": "提供具体地点线索,用 might be 合理推测。", "next": "n4" },
+        { "text": "No notice at all. You must be lying to me!", "textCn": "什么通知都没有。你一定在骗我!", "feedback": "无凭据指责快递员,沟通直接僵住。", "next": "n5" }
+      ] },
+    "n3": { "id": "n3", "speaker": "快递员 Courier", "line": "Take it easy. Let us think together. When did you last see the package? It might still be in our delivery station.",
+      "lineCn": "别着急,我们一起想想。您最后一次看到包裹是什么时候?它可能还在我们的配送站。", "grammar": [ { "name": "might still be 推测现在", "note": "might + be 推测现在仍处于的状态,语气委婉。" } ],
+      "options": [
+        { "text": "I saw the tracking page last night, and it said the package was out for delivery. So it must be somewhere in this area now.", "textCn": "昨晚我看过物流页,显示包裹正在派送。所以它现在一定在这附近某个地方。", "feedback": "用 must be 做出有依据的推断,缩小搜索范围。", "next": "n2" },
+        { "text": "I have no idea. It could be anywhere on earth!", "textCn": "我不知道,它可能在地球上任何地方!", "feedback": "夸张却无效,快递员没法定位。", "next": "fail1" }
+      ] },
+    "n4": { "id": "n4", "speaker": "快递员 Courier", "line": "Good news! We found a package in that locker that matches your number. But it might be for another customer. Can you describe the box?",
+      "lineCn": "好消息!我们在那个柜子里找到了一个匹配您单号的包裹。但它可能是别人的。您能描述一下箱子吗?", "grammar": [ { "name": "might be 表不确定", "note": "might be 表示把握不高的推测:\"可能是\"别人的包裹。" } ],
+      "options": [
+        { "text": "It must be mine: a small brown box with a phone case inside. The tracking number can confirm it.", "textCn": "那一定是我的:一个装手机壳的棕色小盒子。单号可以确认。", "feedback": "用 must be 坚定判断,并提供核实方式。", "next": "n6" },
+        { "text": "I cannot describe it. It is a mystery box.", "textCn": "我描述不了,它是个神秘盒子。", "feedback": "连自己的包裹都说不清,无法确认归属。", "next": "fail1" }
+      ] },
+    "n5": { "id": "n5", "speaker": "快递员 Courier", "line": "I understand you are upset, but accusing me will not help. Maybe the package was delivered to your neighbor's door. Shall we ask them?",
+      "lineCn": "我理解您很着急,但指责我解决不了问题。也许包裹被送到了邻居家门口,我们问问他们好吗?", "grammar": [ { "name": "maybe + 推测", "note": "maybe 表示可能,常与情态动词连用表达不确定的推测。" } ],
+      "options": [
+        { "text": "You are right, sorry. The package might be at room 502, the neighbor who shares my name. Let us knock on their door.", "textCn": "你说得对,抱歉。包裹可能在 502 室那位和我同名的邻居那里,我们去敲敲门吧。", "feedback": "道歉并给出关键线索,推测合理。", "next": "n4" },
+        { "text": "No! It can't be there. You must go find it right now!", "textCn": "不可能!你必须马上给我找回来!", "feedback": "拒绝一切线索,只命令快递员,沟通失败。", "next": "fail2" }
+      ] },
+    "n6": { "id": "n6", "speaker": "快递员 Courier", "line": "The number matches perfectly! This must be your package. I am so glad we found it. Anything else I can do for you?",
+      "lineCn": "单号完全匹配!这一定是您的包裹。太高兴找到了。还有什么能帮您的吗?", "grammar": [ { "name": "must be 有依据的肯定推测", "note": "must + be 表示基于证据的肯定判断:\"一定是\"。" } ],
+      "options": [
+        { "text": "No, thanks! It couldn't be better. Have a nice day!", "textCn": "没有了,谢谢!不能再好了,祝您愉快!", "feedback": "确认包裹无误,满意收尾。", "next": "success" },
+        { "text": "Are you sure? It might be wrong. I will not take it.", "textCn": "你确定吗?也许搞错了,我不要了。", "feedback": "单号都匹配了还拒收,快递员很无奈。", "next": "fail2" }
+      ] },
+    "success": { "id": "success", "speaker": "快递员 Courier", "line": "Great! Enjoy your new phone case. Sorry for the trouble!", "lineCn": "太好了!好好用新手机壳。给您添麻烦了,抱歉!", "end": true, "success": true },
+    "fail1": { "id": "fail1", "speaker": "快递员 Courier", "line": "Without more details, I am afraid we cannot locate it today. We will keep searching and call you back.", "lineCn": "没有更多细节,恐怕今天很难找到。我们会继续查找并给您回电。", "end": true, "success": false },
+    "fail2": { "id": "fail2", "speaker": "快递员 Courier", "line": "Okay, I will do my best, but please cooperate with us. We are on the same side here.", "lineCn": "好的,我会尽力,但也请您配合我们。我们是站在同一边的。", "end": true, "success": false }
+  }
+}

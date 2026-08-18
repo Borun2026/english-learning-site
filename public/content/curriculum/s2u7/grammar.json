@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u7",
+  "stage": 2,
+  "title": "定语从句(who/which/that)",
+  "explanation": "## 定语从句的概念\n\n定语从句修饰名词或代词,这个被修饰的词叫**先行词**,从句紧跟其后。\n\nThe man who is talking to our teacher is my uncle.\n\n## 关系代词的选择\n\n| 关系代词 | 指代 | 例句 |\n|---|---|---|\n| who | 人(作主语或宾语) | The girl who wears a red coat is my sister. |\n| which | 物(作主语或宾语) | The book which I bought is interesting. |\n| that | 人或物均可 | The house that stands there is new. |\n| whose | 表示\"…的\" | I know the boy whose father is a doctor. |\n\n## 注意事项\n\n1. 关系代词在从句中**作主语**时不能省略;作宾语时可省略(This is the book (that) I bought.)。\n2. 从句中不再出现多余的主语或宾语,避免重复。\n3. 指人用 who/that,指物用 which/that,两者大多可互换。",
+  "examples": [
+    { "en": "The man who is talking to our teacher is my uncle.", "cn": "正在和我们老师说话的那个人是我叔叔。", "note": "who 指人 the man,在从句中作主语。" },
+    { "en": "The book that I bought yesterday is interesting.", "cn": "我昨天买的那本书很有趣。", "note": "that 指物,作 bought 的宾语。" },
+    { "en": "This is the house which was built in 1990.", "cn": "这是 1990 年建的房子。", "note": "which 指物 the house,在从句中作主语。" },
+    { "en": "The girl who wears a red coat is my sister.", "cn": "穿红外套的女孩是我妹妹。", "note": "who 指人,在从句中作主语,不可省略。" }
+  ],
+  "errors": [
+    { "wrong": "The man which is standing there is my teacher.", "right": "The man who is standing there is my teacher.", "note": "指人用 who,不用 which。" },
+    { "wrong": "This is the book who I like.", "right": "This is the book which / that I like.", "note": "指物用 which 或 that。" },
+    { "wrong": "The woman who she is singing is famous.", "right": "The woman who is singing is famous.", "note": "从句中已有 who 作主语,不能再加 she。" }
+  ],
+  "quiz": [
+    { "q": "The boy ___ is playing football is my brother.", "options": ["which", "who", "whom", "what"], "answer": 1, "note": "指人且在从句中作主语,用 who。" },
+    { "q": "This is the school ___ I studied two years ago.", "options": ["who", "whom", "which", "when"], "answer": 2, "note": "school 是物,用 which。" },
+    { "q": "I like the book ___ covers are red.", "options": ["whose", "which", "that", "who"], "answer": 0, "note": "covers 属于 book,表示\"…的\"用 whose。" },
+    { "q": "The pen ___ I lost is on the desk.", "options": ["who", "which", "whom", "what"], "answer": 1, "note": "pen 是物,作 lost 的宾语,用 which。" },
+    { "q": "Do you know the man ___ is talking to Tom?", "options": ["which", "whom", "who", "whose"], "answer": 2, "note": "指人且在从句中作主语,用 who。" }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+ "id": "cet6-082",
+ "type": "cet6-passage",
+ "year": 2023,
+ "source": "六级真题 2023年12月 · 2023年12月英语六级真题(第1套) Passage 2",
+ "title": "Journal editors decide what gets published and what doesn't, affecting the ca...",
+ "difficulty": "advanced",
+ "difficultyLabel": "高级 C1-C2",
+ "wordCount": 450,
+ "tags": [
+  "education",
+  "exam"
+ ],
+ "paragraphs": [
+  "Journal editors decide what gets published and what doesn't, affecting the careers of other academics and influencing the direction that a field takes. You'd hope, then, that journals would do everything they can to establish a diverse editorial board, reflecting a variety of voices, experiences, and identities.",
+  "Unfortunately a new study in Nature Neuroscience makes for disheartening reading. The team finds that the majority of editors in top psychology and neuroscience journals are male and based in the United States: a situation that may be amplifying existing gender inequalities in the field and influencing the kind of research that gets published.",
+  "Men were found to account for 60% of the editors of psychology journals. There were significantly more male than female editors at each level of seniority, and men made up the majority of editors in over three quarters of the journals. Crucially, the proportion of female editors was significantly lower than the overall proportion of women psychology researchers.",
+  "The differences were even starker in the neuroscience journals: 70% of editors were male, and men held the majority of editorial positions in 88% of journals. In this case, the proportion of female editors was not significantly lower than the proportion of female researchers working in neuroscience -- a finding that reveals enduring gender disparities in the field more broadly.",
+  "Based on their results, the team concludes that \"the ideas, values and decision-making biases of men are overrepresented in the editorial positions of the most recognized academic journals in psychology and neuroscience.\"",
+  "Gender inequality in science is often attributed to the fact that senior academics are more likely to be male, because historically science was male-dominated: it's argued that as time goes on and more women rise to senior roles, the field will become more equal. Yet this study showed that even the junior roles in psychology journals tended to be held disproportionately by men, despite the fact that there are actually more female than male junior psychology faculty.",
+  "This implies that a lack of female academics is not the problem. Instead, there are structural reasons that women are disadvantaged in science. Women receive lower salaries and face greater childcare demands, for instance, which can result in fewer publications and grants -- the kinds of things that journals look for when deciding who to appoint. Rather than simply blaming the inequality of editorial boards on tradition, we should be actively breaking down these existing barriers.",
+  "A lack of diversity among journal editors also likely contributes to psychology's WEIRD problem. If journal editors are largely men from the United States, then they will probably place higher value on papers that are relevant to Western, male populations, whether consciously or not."
+ ],
+ "questions": [
+  {
+   "q": "文中 “reading” 最接近的意思是?",
+   "options": [
+    "比例不均地，不成比例地",
+    "读，阅读",
+    "多样性",
+    "有关的，切题的，中肯的"
+   ],
+   "answer": 1,
+   "analysis": "“reading” 意为「读，阅读」。原文语境:Unfortunately a new study in Nature Neuroscience makes for disheartening reading.",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "根据原文补全句子:A lack of ___ among journal editors also likely contributes to psychology's WEIRD problem.",
+   "options": [
+    "female",
+    "science",
+    "diversity",
+    "majority"
+   ],
+   "answer": 2,
+   "analysis": "原文原句为“A lack of diversity among journal editors also likely contributes to psychology's WEIRD problem.”。空格处应填入 “diversity”。",
+   "source": "程序生成待校对(基于原文与词典)"
+  },
+  {
+   "q": "本文的主旨大意是?",
+   "options": [
+    "Journal editors decide what gets published and what doesn't, affecting the ca",
+    "Questions 46 to SO are based on the following pge",
+    "There're currently 21",
+    "Imagine you're an alien sent to Earth to document the behaviour of the mammal"
+   ],
+   "answer": 0,
+   "analysis": "本文以“Journal editors decide what gets published and what doesn't, affecting the careers of other academics and influencing the direction that a field takes.”开篇并围绕该主题展开,正确选项即原文标题;其余选项为其他文章的标题。",
+   "source": "程序生成待校对(基于原文与词典)"
+  }
+ ]
+}

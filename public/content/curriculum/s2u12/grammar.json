@@ -1,0 +1,24 @@
+{
+  "id": "g-s2u12",
+  "stage": 2,
+  "title": "介词基础",
+  "explanation": "## 时间介词 at / in / on\n\n| 介词 | 用法 | 例句 |\n|---|---|---|\n| at | 具体时刻、年龄 | at 7 o'clock、at noon、at night |\n| in | 月份、年份、季节、泛指的早中晚 | in May、in 2026、in the morning |\n| on | 具体某一天、星期、日期 | on Monday、on May 1st、on Monday morning |\n\n## 地点介词 at / in / on\n\n- **in** 表示在内部、大地方:in China、in the room\n- **on** 表示在表面:on the desk\n- **at** 表示在具体小地点:at the bus stop\n\n## 方位介词\n\nin front of(前面)、behind(后面)、next to(旁边)、between...and(两者之间)、near(附近)、under(正下方)。\n\n## 固定搭配\n\nbe good at(擅长)、look at(看)、listen to(听)、wait for(等待)、arrive in/at(到达)、depend on(依靠)。介词搭配没有万能规律,要在阅读中积累。",
+  "examples": [
+    { "en": "I get up at six thirty every day.", "cn": "我每天六点半起床。", "note": "具体时刻用 at。" },
+    { "en": "We have an English class on Monday.", "cn": "我们周一有英语课。", "note": "星期前用 on。" },
+    { "en": "He was born in May, 2000.", "cn": "他出生于 2000 年 5 月。", "note": "月份、年份前用 in。" },
+    { "en": "The cat is sleeping under the table.", "cn": "猫正在桌子下面睡觉。", "note": "under 表示在正下方。" }
+  ],
+  "errors": [
+    { "wrong": "I have a meeting in Monday morning.", "right": "I have a meeting on Monday morning.", "note": "具体某一天的上午用 on。" },
+    { "wrong": "My mother is good in cooking.", "right": "My mother is good at cooking.", "note": "固定搭配 be good at,不用 in。" },
+    { "wrong": "We usually go to bed in ten o'clock.", "right": "We usually go to bed at ten o'clock.", "note": "具体时刻用 at,不用 in。" }
+  ],
+  "quiz": [
+    { "q": "We have lunch ___ noon.", "options": ["in", "on", "at", "by"], "answer": 2, "note": "at noon 是固定搭配。" },
+    { "q": "Children's Day is ___ June 1st.", "options": ["in", "on", "at", "for"], "answer": 1, "note": "具体日期前用 on。" },
+    { "q": "The book is ___ the desk.", "options": ["in", "on", "at", "between"], "answer": 1, "note": "在物体表面用 on。" },
+    { "q": "She is sitting ___ her mother.", "options": ["next to", "between", "on", "in"], "answer": 0, "note": "在…旁边用 next to。" },
+    { "q": "He is waiting ___ the bus stop.", "options": ["at", "on", "in", "for"], "answer": 0, "note": "公交站是小地点,用 at。" }
+  ]
+}

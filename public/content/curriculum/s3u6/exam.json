@@ -1,0 +1,85 @@
+{
+  "id": "e-s3u6",
+  "stage": 3,
+  "unitId": "s3u6",
+  "title": "真题演练 · 倒装句",
+  "hint": "本组题目按本单元语法点与词池生成/匹配;答错后点击「回溯语法课」复习 倒装句。",
+  "questions": [
+    {
+      "q": "Never ___ such a delicious meal.",
+      "options": [
+        "I have eaten",
+        "have I eaten",
+        "I ate",
+        "did I eat"
+      ],
+      "answer": 1,
+      "analysis": "否定词放句首,助动词提前:Never have I eaten。",
+      "point": "g-s3u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Only when he returned ___ the truth.",
+      "options": [
+        "he knew",
+        "did he know",
+        "he did know",
+        "knew he"
+      ],
+      "answer": 1,
+      "analysis": "Only + 从句放句首,主句倒装:did he know。",
+      "point": "g-s3u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "He is a teacher, and ___ his wife.",
+      "options": [
+        "so is",
+        "so does",
+        "neither is",
+        "so do"
+      ],
+      "answer": 0,
+      "analysis": "so + be 动词 + 主语,表\"也\"。",
+      "point": "g-s3u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Hardly ___ the airport when the plane took off.",
+      "options": [
+        "I reached",
+        "had I reached",
+        "I had reached",
+        "reached I"
+      ],
+      "answer": 1,
+      "analysis": "Hardly...when 句型,主句倒装用过去完成时。",
+      "point": "g-s3u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "Not only ___ the exam, but he also got full marks.",
+      "options": [
+        "he passed",
+        "did he pass",
+        "he did pass",
+        "passes he"
+      ],
+      "answer": 1,
+      "analysis": "not only 放句首,前半句部分倒装。",
+      "point": "g-s3u6",
+      "source": "本单元语法课练习"
+    },
+    {
+      "q": "判断对错:Never I have seen such a movie.",
+      "options": [
+        "正确",
+        "错误"
+      ],
+      "answer": 1,
+      "analysis": "应改为:Never have I seen such a movie.。否定词放句首必须部分倒装,助动词提前。",
+      "point": "g-s3u6",
+      "source": "本单元常见错误改编"
+    }
+  ]
+}
