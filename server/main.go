@@ -55,6 +55,7 @@ func main() {
 	mux.HandleFunc("/api/user/sync", srv.handleUserSync)
 	mux.HandleFunc("/__ai_proxy", srv.handleAIProxy)
 	mux.HandleFunc("/piper", srv.handlePiper)
+	mux.Handle("/content/audio/", srv.audioFileHandler())
 	mux.Handle("/", spaHandler())
 
 	ln, actualPort, err := listenAuto(*host, *port, 100)

@@ -239,7 +239,47 @@ func audioContentType(fp string) string {
 		return "audio/ogg"
 	case ".wav":
 		return "audio/wav"
+	case ".json":
+		return "application/json; charset=utf-8"
 	default:
 		return "application/octet-stream"
 	}
+}
+
+// audioFileHandler 直接从本地磁盘 paths.audioDir 提供静态音频与 index.json
+func (s *server) audioFileHandler() http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		if r.Method != http.MethodGet && r.Method != http.MethodHead {
+			http.Error(w, "method not allowed", http.StatusMethodNotAllowed)
+			return
+		}
+		rel := strings.TrimPrefix(r.URL.Path, "/content/audio/")
+		if rel == "" {
+			http.NotFound(w, r)
+			return
+		}
+		fp, ok := safeJoin(s.paths.audioDir, rel)
+		if !ok || !fileExists(fp) {
+			http.NotFound(w, r)
+			return
+		}
+		f, err := os.Open(fp)
+		if err != nil {
+			http.NotFound(w, r)
+			return
+		}
+		defer f.Close()
+		st, err := f.Stat()
+		if err != nil {
+			http.NotFound(w, r)
+			return
+		}
+		w.Header().Set("Content-Type", audioContentType(fp))
+		if strings.HasSuffix(strings.ToLower(rel), ".json") {
+			w.Header().Set("Cache-Control", "no-cache")
+		} else {
+			w.Header().Set("Cache-Control", "public, max-age=86400")
+		}
+		http.ServeContent(w, r, filepath.Base(fp), st.ModTime(), f)
+	})
 }
