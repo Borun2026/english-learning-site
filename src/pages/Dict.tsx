@@ -3,6 +3,7 @@ import { useOutletContext, useSearchParams } from 'react-router-dom'
 import type { AppContext } from '../App'
 import { affixesOfWord, affixTypeLabel, type AffixItem } from '../lib/affix'
 import { aiExplainWord } from '../lib/ai/provider'
+import { prefetchWordAudio } from '../lib/audio'
 import { lookupWord, searchDict } from '../lib/dict'
 import { addWordbook, cacheAiWord, loadData } from '../lib/storage'
 import type { AiWordExplain, DictEntry, WordBankEntry } from '../lib/types'
@@ -77,11 +78,12 @@ export default function Dict() {
     setAffixes([])
     setSaved(inCollection(q))
 
-    lookupWord(q).then(({ dict: d, bank: b }) => {
+      lookupWord(q).then(({ dict: d, bank: b }) => {
       if (!alive) return
       setDict(d)
       setBank(b)
       const base = d?.word || b?.word || q
+      prefetchWordAudio(base)
       setSaved(inCollection(base))
       affixesOfWord(base).then((a) => {
         if (alive) setAffixes(a)

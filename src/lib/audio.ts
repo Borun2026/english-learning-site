@@ -22,23 +22,42 @@ export interface AudioManifest {
 }
 
 let cache: AudioManifest | null | undefined = undefined
+let wordSet: Set<string> | null = null
+let loadInflight: Promise<AudioManifest | null> | null = null
+
+function applyManifest(m: AudioManifest | null) {
+  cache = m
+  wordSet = m?.words?.length ? new Set(m.words.map((w) => w.toLowerCase())) : null
+}
 
 /** 加载本地音频清单;未生成/文件缺失返回 null(不抛错、不打扰用户) */
 export async function loadAudioManifest(): Promise<AudioManifest | null> {
   if (cache !== undefined) return cache
-  try {
-    const res = await fetch((import.meta.env.BASE_URL || '/') + 'content/audio/index.json')
-    if (!res.ok) {
-      cache = null
+  if (loadInflight) return loadInflight
+  loadInflight = (async () => {
+    try {
+      const res = await fetch((import.meta.env.BASE_URL || '/') + 'content/audio/index.json')
+      if (!res.ok) {
+        applyManifest(null)
+        return null
+      }
+      const data = (await res.json()) as AudioManifest
+      const ok = data && typeof data === 'object' && typeof data.units === 'object' ? data : null
+      applyManifest(ok)
+      return cache ?? null
+    } catch {
+      applyManifest(null)
       return null
+    } finally {
+      loadInflight = null
     }
-    const data = (await res.json()) as AudioManifest
-    cache = data && typeof data === 'object' && typeof data.units === 'object' ? data : null
-    return cache
-  } catch {
-    cache = null
-    return null
-  }
+  })()
+  return loadInflight
+}
+
+/** 启动时预热清单,之后 wordWavUrl 同步命中 */
+export function prefetchAudioManifest(): void {
+  void loadAudioManifest()
 }
 
 const AUDIO_BASE = (import.meta.env.BASE_URL || '/') + 'content/audio/'
@@ -110,7 +129,6 @@ export function localDialogueUrl(unitId: string, nodeId: string): string {
 }
 
 export function localWordUrl(word: string): string {
-  if (isCompanionUp()) return streamUrl(wordKey(word))
   return `${AUDIO_BASE}words/${encodeURIComponent(word.toLowerCase())}${getExt()}`
 }
 
@@ -122,13 +140,18 @@ export async function dialogueWavUrl(unitId: string, nodeId: string): Promise<st
   return localDialogueUrl(unitId, nodeId)
 }
 
-/** 单词预生成音频;清单未收录则 undefined */
-export async function wordWavUrl(word: string): Promise<string | undefined> {
+/** 单词预生成音频;清单未收录或尚未加载完则 undefined(朗读走浏览器 Piper) */
+export function wordWavUrl(word: string): string | undefined {
   const w = word.toLowerCase()
-  if (await probeCompanion()) return localWordUrl(w)
-  const m = await loadAudioManifest()
-  if (!m?.words?.includes(w)) return undefined
+  if (!wordSet?.has(w)) return undefined
   return localWordUrl(w)
+}
+
+/** 词典结果页预取当前词音频,点朗读时走浏览器缓存 */
+export function prefetchWordAudio(word: string): void {
+  const url = wordWavUrl(word)
+  if (!url) return
+  void fetch(url, { cache: 'force-cache' }).catch(() => {})
 }
 
 export function extraWavUrl(kind: string, id: string, idx: number | string): string {

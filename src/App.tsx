@@ -2,9 +2,10 @@ import { Suspense, useEffect, useRef, useState } from 'react'
 import { Link, NavLink, Outlet, useNavigate } from 'react-router-dom'
 import WordPopup from './components/WordPopup'
 import { normalizeWord } from './components/WordText'
-import { wordWavUrl } from './lib/audio'
+import { prefetchAudioManifest, wordWavUrl } from './lib/audio'
 import { searchDict } from './lib/dict'
 import { initSpeech, speak } from './lib/speech'
+import { ensureBrowserVoice } from './lib/tts/ttsBrowser'
 import { loadData, setTts, useDataVersion } from './lib/storage'
 import type { DictEntry } from './lib/types'
 
@@ -60,6 +61,10 @@ export default function App() {
 
   useEffect(() => {
     initSpeech()
+    prefetchAudioManifest()
+    void ensureBrowserVoice('en_US-lessac-medium').catch((e) => {
+      console.warn('[tts] 预热浏览器音色失败:', e instanceof Error ? e.message : e)
+    })
     const onReject = (e: PromiseRejectionEvent) => {
       const msg = String(e.reason?.message ?? e.reason ?? '')
       // 只有 fetchJson 抛出的"本地服务不可用"才显示横幅;
@@ -277,7 +282,7 @@ export default function App() {
                   return
                 }
                 if (/^[A-Za-z][A-Za-z'-]*$/.test(w) && w.split(/\s+/).length === 1) {
-                  void wordWavUrl(w).then((u) => go(u)).catch(() => go())
+                  go(wordWavUrl(w))
                   return
                 }
                 go()
@@ -294,7 +299,8 @@ export default function App() {
           y={popup.y}
           onClose={() => setPopup(null)}
           onSpeak={(w) => {
-            void wordWavUrl(w).then((u) => speak(w, u ? { audioUrl: u } : {})).catch(() => speak(w))
+            const u = wordWavUrl(w)
+            speak(w, u ? { audioUrl: u } : {})
           }}
         />
       )}

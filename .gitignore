@@ -15,10 +15,7 @@ backup_*.zip
 *.zip
 raw_materials/
 zhenti_raw/
-docs/_drafts/
-docs/*-log.md
-docs/*-review*
-docs/p3-4-review-data.md
+docs/
 data/
 *.db
 server/dist/*
