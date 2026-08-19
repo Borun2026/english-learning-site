@@ -1,11 +1,12 @@
 import { defineConfig, type Plugin } from 'vite'
 import react from '@vitejs/plugin-react'
+import { aiTargetError, piperTargetError } from './scripts/proxy-ssrf.mjs'
 
 /**
  * 本地 AI 代理(仅开发模式):
  * 浏览器直连 AI 供应商常被 CORS 拦截(Failed to fetch),
  * 这里把 POST /__ai_proxy 转发到目标 https 端点,规避跨域。
- * 仅允许 https 目标;本工具仅本地个人使用。
+ * 仅允许公网 https 目标(拒绝内网/回环/链路本地);本工具仅本地个人使用。
  */
 function aiCorsProxy(): Plugin {
   return {
@@ -26,9 +27,10 @@ function aiCorsProxy(): Plugin {
           try {
             const { url, headers, body } = JSON.parse(raw)
             const target = new URL(String(url))
-            if (target.protocol !== 'https:') {
+            const blocked = await aiTargetError(target)
+            if (blocked) {
               res.statusCode = 400
-              res.end('only https targets allowed')
+              res.end(blocked)
               return
             }
             const upstream = await fetch(target, {
@@ -54,7 +56,7 @@ function aiCorsProxy(): Plugin {
  * 本地 Piper 代理(仅开发模式,P5-1):
  * 浏览器直连本地 Piper http_server(127.0.0.1:5000)会被 CORS 拦截,
  * 这里把 POST /__piper_proxy 转发到目标端点。
- * 仅允许 localhost/127.0.0.1 的 http(s) 目标,防止被用作开放代理。
+ * 仅允许 localhost/127.0.0.1:5000 的 http(s) 目标,防止被用作开放代理。
  */
 function piperProxy(): Plugin {
   return {
@@ -75,12 +77,10 @@ function piperProxy(): Plugin {
           try {
             const { url, method, body } = JSON.parse(raw)
             const target = new URL(String(url))
-            const host = target.hostname.replace(/^\[|\]$/g, '')
-            const isLocal = host === '127.0.0.1' || host === 'localhost' || host === '::1'
-            const isHttp = target.protocol === 'http:' || target.protocol === 'https:'
-            if (!isLocal || !isHttp) {
+            const blocked = piperTargetError(target)
+            if (blocked) {
               res.statusCode = 400
-              res.end('only http(s) localhost targets allowed')
+              res.end(blocked)
               return
             }
             const upMethod = method === 'GET' ? 'GET' : 'POST'

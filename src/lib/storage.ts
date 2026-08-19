@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react'
 import { companionFetch, probeCompanion } from './companion.ts'
-import type { AiConfig, AiConfigProfile, AiPreset, AiProfile, AiWordExplain, AiWritingFeedback, AppData, CoachMemory, GameBestEntry, MyArticle, PassageNote, PlanCheckins, PracticeSet, StudyPlan, TtsConfig, TtsEngineKind, UnitProgress, UserStats, WordSource, WordState } from './types'
+import type { AiConfig, AiConfigProfile, AiPreset, AiProfile, AiWordExplain, AiWritingFeedback, AppData, CoachMemory, GameBestEntry, MyArticle, PassageNote, PracticeSet, StudyPlan, TtsConfig, TtsEngineKind, UnitProgress, UserStats, WordSource, WordState } from './types'
 
 const KEY = 'english-learning-site:v1'
 const WRITE_AT_KEY = 'english-learning-site:v1:writtenAt'
@@ -247,7 +247,7 @@ export function migrateBackup(parsed: unknown): { data: AppData; migrated: strin
   }
   const data: AppData = {
     ...fresh,
-    ...p,
+    progress: p.progress && typeof p.progress === 'object' ? (p.progress as AppData['progress']) : fresh.progress,
     aiConfig: { ...fresh.aiConfig, ...(p.aiConfig ?? {}) },
     aiProfiles,
     gameBest,
@@ -321,7 +321,6 @@ function readPersistedWriteAt(): number {
 
 function persistWriteAt(ts: number) {
   lastLocalWriteAt = ts
-  lastHydratedAt = ts
   try {
     localStorage.setItem(WRITE_AT_KEY, String(ts))
   } catch {
@@ -329,9 +328,7 @@ function persistWriteAt(ts: number) {
   }
 }
 
-let lastHydratedAt = 0
 let lastLocalWriteAt = readPersistedWriteAt()
-lastHydratedAt = lastLocalWriteAt
 let hydrateInflight: Promise<boolean> | null = null
 let syncTimer: ReturnType<typeof setTimeout> | null = null
 
@@ -517,7 +514,7 @@ export function removeAiProfile(id: string): AiConfigProfile[] {
 /* ---------------- 词汇游戏(P5-3) ---------------- */
 
 /** 记录一局游戏:best 只取最高答对数,plays 累加 */
-export function recordGameScore(mode: string, correct: number, total: number): GameBestEntry {
+export function recordGameScore(mode: string, correct: number, _total: number): GameBestEntry {
   const d = loadData()
   const cur = d.gameBest[mode] ?? { best: 0, plays: 0, lastAt: 0 }
   const entry: GameBestEntry = {
@@ -527,7 +524,6 @@ export function recordGameScore(mode: string, correct: number, total: number): G
   }
   d.gameBest[mode] = entry
   saveData(d)
-  void total
   return entry
 }
 

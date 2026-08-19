@@ -69,7 +69,7 @@ export default function Library() {
   )
 }
 
-function NceTab({ onWord }: { onWord: AppContext['openPopup'] }) {
+function NceTab({ onWord: _onWord }: { onWord: AppContext['openPopup'] }) {
   const [index, setIndex] = useState<NceIndex | null>(null)
   const [lesson, setLesson] = useState<NceLesson | null>(null)
   const [err, setErr] = useState('')

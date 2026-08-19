@@ -12,7 +12,6 @@ import {
   type GrammarBookChapter,
   type GrammarLevel,
   type GrammarRef,
-  type GrammarRule,
   type GrammarTense,
 } from '../lib/grammarRef'
 import { MURPHY_GUIDE, TENSE_CN } from '../lib/grammarCn'
@@ -23,8 +22,12 @@ function sanitizeHtml(html: string): string {
   return String(html ?? '')
     .replace(/<script[\s\S]*?<\/script>/gi, '')
     .replace(/<iframe[\s\S]*?<\/iframe>/gi, '')
-    .replace(/\son\w+\s*=\s*"[^"]*"/gi, '')
-    .replace(/\son\w+\s*=\s*'[^']*'/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<svg[\s\S]*?<\/svg>/gi, '')
+    .replace(/<object[\s\S]*?<\/object>/gi, '')
+    .replace(/<\/?(?:object|embed|link|meta|style|svg|script|iframe)\b[^>]*>/gi, '')
+    .replace(/\son\w+\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, '')
+    .replace(/(?:javascript|data|vbscript):/gi, '')
 }
 
 function scrollToEl(id: string, openDetails = false) {

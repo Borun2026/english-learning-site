@@ -13,7 +13,7 @@ import type { Article, NceLink, SentenceExercise } from '../lib/types'
 export default function ReaderView({
   article,
   onWord,
-  onSpeak,
+  onSpeak: _onSpeak,
   onComplete,
   onOpenGrammar,
   onOpenExam,

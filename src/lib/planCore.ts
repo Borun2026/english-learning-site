@@ -382,7 +382,6 @@ export function buildSchedule(
   // 但保险:把剩余小节塞进最后一天
   if (queue.length > 0) {
     const last = days
-    const unlock = endStage
     for (const it of queue) {
       tasks.push(unitStepTask(last, it.unit, it.step))
       if (!pushedUnits.has(it.unit.id)) {

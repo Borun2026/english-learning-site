@@ -20,8 +20,7 @@ export const BROWSER_VOICES = [
 
 export type BrowserVoiceId = (typeof BROWSER_VOICES)[number]['id']
 
-/** 官方源与国内镜像;下载自动回退 */
-const HF_OFFICIAL = 'https://huggingface.co/diffusionstudio/piper-voices/resolve/main'
+/** 国内镜像;下载自动回退 */
 const HF_MIRROR = 'https://hf-mirror.com/diffusionstudio/piper-voices/resolve/main'
 
 /** 与 vits-web 内部映射一致的仓库相对路径(见其 voices 清单) */

@@ -208,8 +208,8 @@ export default function ZhentiReader() {
 function ClozeText({
   sentence,
   answers,
-  onPick,
-  submitted,
+  onPick: _onPick,
+  submitted: _submitted,
   levelOf,
 }: {
   sentence: string

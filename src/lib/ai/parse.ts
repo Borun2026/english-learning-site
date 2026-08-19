@@ -1,4 +1,4 @@
-import type { AiParsedSentence, GrammarPoint } from '../types'
+import type { AiParsedSentence } from '../types'
 import { chatJSON, getAiConfig } from './provider'
 
 const SYSTEM = `你是英语长难句拆解专家。按 JSON 格式逐句分析英文文本:

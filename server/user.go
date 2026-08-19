@@ -3,6 +3,7 @@ package main
 import (
 	"database/sql"
 	"encoding/json"
+	"fmt"
 	"io"
 	"net/http"
 	"strconv"
@@ -66,10 +67,7 @@ func (s *server) postUserSync(w http.ResponseWriter, r *http.Request) {
 		return
 	}
 
-	now := req.UpdatedAt
-	if now == 0 {
-		now = time.Now().UnixMilli()
-	}
+	now := time.Now().UnixMilli()
 	raw, err := json.Marshal(data)
 	if err != nil {
 		http.Error(w, "encode failed", http.StatusInternalServerError)
@@ -121,13 +119,18 @@ func (s *server) bestEffortUpsert(tx *sql.Tx, data any, updatedAt int64) {
 		return
 	}
 	if ws, ok := m["wordStates"].(map[string]any); ok {
+		n := 0
 		for word, v := range ws {
+			if n >= 5000 {
+				break
+			}
+			n++
 			st, ok := v.(map[string]any)
 			if !ok {
 				continue
 			}
 			sources, _ := json.Marshal(st["sources"])
-			_, _ = tx.Exec(
+			_, err := tx.Exec(
 				`INSERT INTO user_word_states(word, reps, interval_days, ef, next_review_at, status, box, wrong_count, sources_json, added_at, last_review_at)
 				 VALUES(?,?,?,?,?,?,?,?,?,?,?)
 				 ON CONFLICT(word) DO UPDATE SET
@@ -153,6 +156,9 @@ func (s *server) bestEffortUpsert(tx *sql.Tx, data any, updatedAt int64) {
 				asInt64(st["addedAt"]),
 				asInt64(st["lastReviewAt"]),
 			)
+			if err != nil {
+				fmt.Println(err)
+			}
 		}
 	}
 	if prog, ok := m["progress"].(map[string]any); ok {
@@ -161,11 +167,14 @@ func (s *server) bestEffortUpsert(tx *sql.Tx, data any, updatedAt int64) {
 			if err != nil {
 				continue
 			}
-			_, _ = tx.Exec(
+			_, err = tx.Exec(
 				`INSERT INTO user_progress(module_id, progress_json, updated_at) VALUES(?,?,?)
 				 ON CONFLICT(module_id) DO UPDATE SET progress_json=excluded.progress_json, updated_at=excluded.updated_at`,
 				id, string(raw), updatedAt,
 			)
+			if err != nil {
+				fmt.Println(err)
+			}
 		}
 	}
 }

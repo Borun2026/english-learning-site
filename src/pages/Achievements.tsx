@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import { ACHIEVEMENTS, getStats, xpToNext } from '../lib/stats'
 
 export default function Achievements() {

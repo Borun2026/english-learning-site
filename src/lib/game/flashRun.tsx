@@ -1,6 +1,5 @@
 // 模式 5:闪卡快跑 —— 60 秒快速判断认识/不认识 (带 Combo 连击与光效充能)
 import { useEffect, useRef, useState } from 'react'
-import { speak } from '../speech'
 import { sampleGameWords } from './words'
 import { applyWordResults, finishGame } from './score'
 import type { GameWord } from './gen'

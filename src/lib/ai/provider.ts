@@ -86,7 +86,7 @@ export async function chat(
     return content
   } catch (e) {
     if (controller.signal.aborted) throw new Error('AI 请求超时(60 秒),请稍后重试')
-    if (e instanceof TypeError && /fetch/i.test(e.message)) {
+    if (e instanceof TypeError) {
       throw new Error(
         cfg.proxyBase
           ? '无法连接独立 AI 代理。请确认代理已启动且地址正确。'
@@ -139,7 +139,7 @@ function extractJson(text: string): unknown {
   if (start >= 0 && end > start) {
     return JSON.parse(cleaned.slice(start, end + 1))
   }
-  return JSON.parse(cleaned)
+  throw new SyntaxError('AI 返回不是 JSON')
 }
 
 /** 请求 JSON 输出:解析失败自动重试 1 次,再失败抛错 */

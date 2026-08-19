@@ -20,7 +20,7 @@ import { testConnection } from '../lib/ai/provider'
 import type { AiConfigProfile, TtsConfig, TtsEngineKind } from '../lib/types'
 
 export default function Settings() {
-  const { onSpeak } = useOutletContext<AppContext>()
+  const { onSpeak: _onSpeak } = useOutletContext<AppContext>()
   const [data, setData] = useState(loadData())
   const [testing, setTesting] = useState(false)
   const [testResult, setTestResult] = useState('')

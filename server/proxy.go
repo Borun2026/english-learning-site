@@ -4,6 +4,7 @@ import (
 	"context"
 	"encoding/json"
 	"io"
+	"net"
 	"net/http"
 	"net/url"
 	"strings"
@@ -35,6 +36,10 @@ func (s *server) handleAIProxy(w http.ResponseWriter, r *http.Request) {
 	}
 	if target.Scheme != "https" {
 		http.Error(w, "only https targets allowed", http.StatusBadRequest)
+		return
+	}
+	if isBlockedAIHost(target) {
+		http.Error(w, "blocked target", http.StatusBadRequest)
 		return
 	}
 
@@ -73,6 +78,10 @@ func (s *server) handlePiper(w http.ResponseWriter, r *http.Request) {
 		http.Error(w, "only http(s) localhost targets allowed for /piper", http.StatusBadRequest)
 		return
 	}
+	if target.Port() != "5000" {
+		http.Error(w, "only port 5000 allowed for /piper", http.StatusBadRequest)
+		return
+	}
 	method := http.MethodPost
 	if strings.EqualFold(asPlainString(payload["method"]), "GET") {
 		method = http.MethodGet
@@ -99,6 +108,30 @@ func readProxyJSON(w http.ResponseWriter, r *http.Request) (map[string]any, bool
 		return nil, false
 	}
 	return payload, true
+}
+
+func isBlockedAIHost(u *url.URL) bool {
+	host := strings.ToLower(strings.Trim(u.Hostname(), "[]"))
+	if host == "localhost" || host == "internal" || host == "metadata.google.internal" || strings.HasSuffix(host, ".internal") {
+		return true
+	}
+	if ip := net.ParseIP(host); ip != nil {
+		return ipBlocked(ip)
+	}
+	addrs, err := net.LookupIP(host)
+	if err != nil || len(addrs) == 0 {
+		return true
+	}
+	for _, a := range addrs {
+		if ipBlocked(a) {
+			return true
+		}
+	}
+	return false
+}
+
+func ipBlocked(ip net.IP) bool {
+	return ip.IsLoopback() || ip.IsPrivate() || ip.IsLinkLocalUnicast() || ip.IsUnspecified()
 }
 
 func parseTargetURL(w http.ResponseWriter, v any) (*url.URL, bool) {

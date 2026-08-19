@@ -7,6 +7,7 @@ import (
 	"io"
 	"net"
 	"net/http"
+	"net/url"
 	"os"
 	"os/exec"
 	"runtime"
@@ -18,9 +19,13 @@ import (
 var startedAt = time.Now()
 
 func main() {
-	host := flag.String("host", "0.0.0.0", "listen host")
+	host := flag.String("host", "127.0.0.1", "listen host")
 	port := flag.Int("port", 8787, "base listen port; auto-increments if occupied")
+	lan := flag.Bool("lan", false, "listen on all interfaces")
 	flag.Parse()
+	if *lan {
+		*host = "0.0.0.0"
+	}
 
 	if existing := findExistingInstance(*port); existing > 0 {
 		fmt.Printf("[english-app] already running on http://127.0.0.1:%d, opening it in your browser...\n", existing)
@@ -62,7 +67,9 @@ func main() {
 		fmt.Printf("[port] %d occupied, using %d instead\n", *port, actualPort)
 	}
 	fmt.Printf("[english-app] listening on http://127.0.0.1:%d\n", actualPort)
-	printLANIPs(actualPort)
+	if *lan {
+		printLANIPs(actualPort)
+	}
 	go openBrowser(fmt.Sprintf("http://127.0.0.1:%d", actualPort))
 	go srv.preloadAudioManifest()
 
@@ -72,6 +79,7 @@ func main() {
 		ReadTimeout:       60 * time.Second,
 		WriteTimeout:      180 * time.Second,
 		IdleTimeout:       120 * time.Second,
+		MaxHeaderBytes:    1 << 20,
 	}
 	if err := hs.Serve(ln); err != nil {
 		fmt.Println("[english-app] serve error:", err)
@@ -85,7 +93,7 @@ func listenAuto(host string, base, tries int) (net.Listener, int, error) {
 		base = 8787
 	}
 	if host == "" {
-		host = "0.0.0.0"
+		host = "127.0.0.1"
 	}
 	for i := 0; i < tries; i++ {
 		p := base + i
@@ -112,10 +120,12 @@ type server struct {
 
 func withCORS(next http.Handler) http.Handler {
 	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
-		w.Header().Set("Access-Control-Allow-Origin", "*")
-		w.Header().Set("Access-Control-Allow-Methods", "GET,POST,OPTIONS,HEAD")
-		w.Header().Set("Access-Control-Allow-Headers", "Content-Type, Authorization")
-		w.Header().Set("Access-Control-Max-Age", "86400")
+		if origin := r.Header.Get("Origin"); origin != "" && isLoopbackOrigin(origin) {
+			w.Header().Set("Access-Control-Allow-Origin", origin)
+			w.Header().Set("Access-Control-Allow-Methods", "GET,POST,OPTIONS,HEAD")
+			w.Header().Set("Access-Control-Allow-Headers", "Content-Type, Authorization")
+			w.Header().Set("Access-Control-Max-Age", "86400")
+		}
 		if r.Method == http.MethodOptions {
 			w.WriteHeader(http.StatusNoContent)
 			return
@@ -167,7 +177,7 @@ func printLANIPs(port int) {
 		}
 		for _, a := range addrs {
 			ip := ipFromAddr(a)
-			if ip == nil || ip.IsLoopback() || ip.To4() == nil {
+			if ip == nil || ip.IsLoopback() || ip.To4() == nil || !isRFC1918(ip) {
 				continue
 			}
 			s := ip.String()
@@ -181,6 +191,29 @@ func printLANIPs(port int) {
 	if len(seen) == 0 {
 		fmt.Println("  (none)")
 	}
+}
+
+func isRFC1918(ip net.IP) bool {
+	ip4 := ip.To4()
+	if ip4 == nil {
+		return false
+	}
+	if ip4[0] == 10 {
+		return true
+	}
+	if ip4[0] == 172 && ip4[1] >= 16 && ip4[1] <= 31 {
+		return true
+	}
+	return ip4[0] == 192 && ip4[1] == 168
+}
+
+func isLoopbackOrigin(origin string) bool {
+	u, err := url.Parse(origin)
+	if err != nil {
+		return false
+	}
+	h := strings.ToLower(strings.Trim(u.Hostname(), "[]"))
+	return h == "127.0.0.1" || h == "localhost" || h == "::1"
 }
 
 func ipFromAddr(a net.Addr) net.IP {
@@ -244,7 +277,12 @@ func findExistingInstance(base int) int {
 		wg.Add(1)
 		go func(p int) {
 			defer wg.Done()
-			resp, err := client.Get(fmt.Sprintf("http://127.0.0.1:%d/health", p))
+			req, err := http.NewRequest(http.MethodGet, fmt.Sprintf("http://127.0.0.1:%d/health", p), nil)
+			if err != nil {
+				return
+			}
+			req.Header.Set("User-Agent", "english-app/probe")
+			resp, err := client.Do(req)
 			if err != nil {
 				return
 			}

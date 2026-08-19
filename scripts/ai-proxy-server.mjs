@@ -13,17 +13,18 @@
  * 然后在网站「设置 → 独立 AI 代理地址」填入 http://127.0.0.1:8787。
  * 协议与 Vite 内置代理一致:
  *   POST /__ai_proxy  body: {"url":"https://...","headers":{...},"body":"..."}
- *   原样透传上游状态码 / Content-Type / 响应体;仅允许 https 目标,请求体上限 20MB。
+ *   原样透传上游状态码 / Content-Type / 响应体;仅允许公网 https 目标,请求体上限 20MB。
  *
  * P5-1 起新增本地 Piper TTS 转发(浏览器直连本地 piper 被 CORS 拦截):
  *   POST /piper  body: {"url":"http://127.0.0.1:5000/","method":"POST","body":"Hello."}
- *   仅允许 localhost/127.0.0.1/[::1] 的 http(s) 目标;POST 按纯文本转发
+ *   仅允许 localhost/127.0.0.1/[::1]:5000 的 http(s) 目标;POST 按纯文本转发
  *   (piper http_server 协议),GET 用于查询 /voices,响应体按二进制透传。
  *
  * 安全:默认仅监听 127.0.0.1(仅本机可用);允许任意来源跨域调用是为了
  * 支持静态部署页面跨端口访问,因此请勿改为监听公网地址。仅本地个人学习使用。
  */
 import http from 'node:http'
+import { aiTargetError, piperTargetError } from './proxy-ssrf.mjs'
 
 const HELP = `
 用法: node scripts/ai-proxy-server.mjs [--port 8787] [--host 127.0.0.1] [--help]
@@ -139,17 +140,18 @@ const server = http.createServer((req, res) => {
       return
     }
     if (isPiper) {
-      // 本地 Piper TTS:仅放行 localhost 的 http(s),GET(/voices)与 POST(合成)都支持
-      const host = target.hostname.replace(/^\[|\]$/g, '')
-      const isLocal = host === '127.0.0.1' || host === 'localhost' || host === '::1'
-      const isHttp = target.protocol === 'http:' || target.protocol === 'https:'
-      if (!isLocal || !isHttp) {
-        fail(res, 400, 'only http(s) localhost targets allowed for /piper')
+      // 本地 Piper TTS:仅放行 localhost:5000 的 http(s),GET(/voices)与 POST(合成)都支持
+      const blocked = piperTargetError(target)
+      if (blocked) {
+        fail(res, 400, blocked)
         return
       }
-    } else if (target.protocol !== 'https:') {
-      fail(res, 400, 'only https targets allowed')
-      return
+    } else {
+      const blocked = await aiTargetError(target)
+      if (blocked) {
+        fail(res, 400, blocked)
+        return
+      }
     }
 
     // 客户端断开(含前端 60s 超时)时同步中止上游请求

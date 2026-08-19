@@ -27,7 +27,18 @@ export default function RouteError() {
           <button className="btn ghost" onClick={() => window.location.reload()}>
             刷新
           </button>
-          <button className="btn ghost" onClick={() => void navigator.clipboard.writeText(msg)}>
+          <button
+            className="btn ghost"
+            onClick={() => {
+              try {
+                void navigator.clipboard.writeText(msg).catch(() => {
+                  prompt('复制错误', msg)
+                })
+              } catch {
+                prompt('复制错误', msg)
+              }
+            }}
+          >
             复制错误
           </button>
         </div>

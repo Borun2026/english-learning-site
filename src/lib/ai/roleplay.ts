@@ -1,4 +1,4 @@
-import type { AiRoleplayTurn, GrammarPoint } from '../types'
+import type { AiRoleplayTurn } from '../types'
 import { chatJSON, getAiConfig } from './provider'
 
 export interface RoleplayContext {
@@ -45,8 +45,8 @@ export async function aiRoleplayJudge(
 
 /** 自由输入判分/续写:学生自写一句英语,NPC 点评并决定是否达成目标 */
 export async function judgeFreeInput(
-  ctx: RoleplayContext,
-  lastTurn: AiRoleplayTurn,
+  _ctx: RoleplayContext,
+  _lastTurn: AiRoleplayTurn,
   userText: string,
   extraHint = '',
 ): Promise<{ feedback: string; next: AiRoleplayTurn; success: boolean; summary?: string }> {

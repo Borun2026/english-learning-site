@@ -60,6 +60,8 @@ func sqliteURI(path string, readonly bool) string {
 	dsn := "file:" + p + "?_pragma=busy_timeout(5000)"
 	if readonly {
 		dsn += "&mode=ro"
+	} else {
+		dsn += "&_pragma=journal_mode(WAL)&_pragma=synchronous(NORMAL)"
 	}
 	return dsn
 }

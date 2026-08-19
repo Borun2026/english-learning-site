@@ -6,7 +6,7 @@
 
 ## 下载(只用下这两个)
 
-到 [**Releases**](../../releases/latest) 页面:
+到 [**Releases**](https://github.com/Borun2026/english-learning-site/releases/latest) 页面:
 
 | 文件 | 必须吗 | 内容 |
 |---|---|---|
@@ -26,7 +26,7 @@
 - **进度**:保存在自己电脑的 `data\user_learning.db`,换电脑备份整个文件夹即可
 - **AI 功能**(可选):设置页填自己的 API Key(推荐 DeepSeek / 智谱,存本机浏览器),不填不影响其他功能
 - **语音模型**:不装语音包时,首次朗读会联网下载浏览器语音模型(约 60MB),之后离线可用
-- **端口**:默认 8787,被占用自动顺延;也可 `english-app.exe -port 9000` 指定
+- **端口**:默认绑定本机 `127.0.0.1:8787`,被占用自动顺延;也可 `english-app.exe -port 9000` 指定。局域网访问用 `english-app.exe -lan`
 - 内置真题/词库数据**仅供个人学习,请勿公开传播**
 
 ## 许可证

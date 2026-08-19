@@ -1,13 +1,17 @@
 {
   "name": "english-learning-site",
   "private": true,
-  "version": "0.1.5",
+  "version": "0.1.6",
   "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
-    "proxy": "node scripts/ai-proxy-server.mjs"
+    "proxy": "node scripts/ai-proxy-server.mjs",
+    "test": "node scripts/selftest_affix.mjs && node scripts/selftest_dict.mjs && node scripts/selftest_game.mjs && node scripts/selftest_plan.mjs && node scripts/selftest_stats.mjs && node scripts/selftest_storage.mjs && node scripts/selftest_vocab.mjs"
   },
   "dependencies": {
     "@diffusionstudio/vits-web": "^1.0.3",

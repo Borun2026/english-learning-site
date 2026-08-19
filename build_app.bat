@@ -42,7 +42,7 @@ if exist "dist\content\audio" (
 
 echo [3/4] 复制 dist 到 server\dist (排除 audio)...
 if not exist "server\dist" mkdir "server\dist"
-robocopy "dist" "server\dist" /MIR /XD audio /NFL /NDL /NJH /NJS /nc /ns /np
+robocopy "dist" "server\dist" /MIR /XD audio /XF .gitkeep /NFL /NDL /NJH /NJS /nc /ns /np
 if errorlevel 8 (
     echo [错误] 复制 dist 失败
     exit /b 1
@@ -69,7 +69,8 @@ popd
 if not exist "..\data\english_core.db" (
     echo.
     echo 未检测到 data\english_core.db, 正在灌库...
-    python scripts\init_database.py --data-dir "%cd%\..\data"
+    py -3 scripts\init_database.py --data-dir "%cd%\..\data" 2>nul
+    if errorlevel 1 python scripts\init_database.py --data-dir "%cd%\..\data"
 )
 
 echo.
