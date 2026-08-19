@@ -110,31 +110,41 @@ def collect_word_tasks():
         units = [u for st in idx.get("stages", []) for u in st.get("units", [])]
 
     words_set = set()
+    # 1. 课内新词
     for u in units:
         art_path = os.path.join(CONTENT, "curriculum", u["id"], "article.json")
         if os.path.exists(art_path):
             art = load_json(art_path)
             for w in art.get("newWords") or []:
                 ww = str(w).lower().strip()
-                if ww.isascii() and ww.isalpha():
+                if ww and (ww.isalpha() or re.match(r"^[a-z]+(-[a-z]+)*$", ww)):
                     words_set.add(ww)
 
+    # 2. 词库 wordbank
     wb = os.path.join(CONTENT, "wordbank")
-    bank = []
     if os.path.isdir(wb):
         for fn in os.listdir(wb):
             if fn.endswith(".json") and fn != "meta.json":
                 try:
-                    bank.extend(load_json(os.path.join(wb, fn)))
+                    for e in load_json(os.path.join(wb, fn)):
+                        w = str(e.get("word", "")).lower().strip()
+                        if w and (w.isalpha() or re.match(r"^[a-z]+(-[a-z]+)*$", w)):
+                            words_set.add(w)
                 except Exception:
                     pass
-    bank.sort(key=lambda e: e.get("order", 99999))
-    for e in bank:
-        w = str(e.get("word", "")).lower().strip()
-        if w and w not in words_set and w.isascii() and w.isalpha():
-            words_set.add(w)
-        if len(words_set) >= 1600:
-            break
+
+    # 3. 词典 dict
+    dd = os.path.join(CONTENT, "dict")
+    if os.path.isdir(dd):
+        for fn in os.listdir(dd):
+            if fn.endswith(".json"):
+                try:
+                    for e in load_json(os.path.join(dd, fn)):
+                        w = str(e.get("word", "")).lower().strip()
+                        if w and (w.isalpha() or re.match(r"^[a-z]+(-[a-z]+)*$", w)):
+                            words_set.add(w)
+                except Exception:
+                    pass
 
     for w in sorted(words_set):
         out = os.path.join(AUDIO, "words", f"{w}.mp3")
